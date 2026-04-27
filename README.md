@@ -100,9 +100,13 @@ npm run dev
 .env file
 
 MONGO_URI=mongoos uri 
+
 JWT_SECRET=super_secret_jwt_key 
+
 PORT=5000
+
 CLIENT_ORIGIN=your frontend uri
+
 
 Server runs at: **http://localhost:5000**
 
