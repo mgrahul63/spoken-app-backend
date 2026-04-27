@@ -1,0 +1,176 @@
+{
+  "day": 1,
+  "topic": "Greetings & Introductions",
+  "lessonId": "L0D1",
+  "vocabulary": [
+    {
+      "word": "Hello",
+      "phonetic": "/həˈloʊ/",
+      "meaning": "A common greeting",
+      "bangla": "হ্যালো / সালাম",
+      "example": "Hello! How are you?",
+      "exampleBn": "হ্যালো! তুমি কেমন আছ?"
+    },
+    {
+      "word": "Thank you",
+      "phonetic": "/θæŋk juː/",
+      "meaning": "Expressing gratitude",
+      "bangla": "ধন্যবাদ",
+      "example": "Thank you for your help!",
+      "exampleBn": "তোমার সাহায্যের জন্য ধন্যবাদ!"
+    },
+    {
+      "word": "Please",
+      "phonetic": "/pliːz/",
+      "meaning": "A polite request word",
+      "bangla": "দয়া করে",
+      "example": "Please open the door.",
+      "exampleBn": "দয়া করে দরজাটা খোলো।"
+    },
+    {
+      "word": "Sorry",
+      "phonetic": "/ˈsɒri/",
+      "meaning": "Expressing apology",
+      "bangla": "দুঃখিত",
+      "example": "I am sorry I am late.",
+      "exampleBn": "আমি দুঃখিত, আমি দেরি করে ফেলেছি।"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Nice to meet you",
+      "bangla": "তোমার সাথে পরিচিত হতে পেরে ভালো লাগলো",
+      "usage": "When meeting someone for the first time",
+      "example": "Nice to meet you, Riya!"
+    },
+    {
+      "phrase": "How are you?",
+      "bangla": "তুমি কেমন আছ?",
+      "usage": "Asking about someone's wellbeing",
+      "example": "Hi! How are you today?"
+    },
+    {
+      "phrase": "See you later",
+      "bangla": "পরে দেখা হবে",
+      "usage": "Saying goodbye casually",
+      "example": "I have to go. See you later!"
+    },
+    {
+      "phrase": "You're welcome",
+      "bangla": "স্বাগতম / কোনো ব্যাপার না",
+      "usage": "Responding to thank you",
+      "example": "— Thank you! — You're welcome!"
+    }
+  ],
+  "sentences": [
+    { "en": "What is your name?", "bn": "তোমার নাম কী?" },
+    {
+      "en": "My name is Rakib. Nice to meet you.",
+      "bn": "আমার নাম রাকিব। তোমার সাথে পরিচিত হতে পেরে ভালো লাগলো।"
+    },
+    {
+      "en": "How are you? I am fine, thank you.",
+      "bn": "তুমি কেমন আছ? আমি ভালো আছি, ধন্যবাদ।"
+    },
+    {
+      "en": "Could you help me, please?",
+      "bn": "আপনি কি আমাকে সাহায্য করতে পারবেন, দয়া করে?"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which word means 'apologizing'?",
+      "opts": ["Hello", "Please", "Sorry", "Thank you"],
+      "ans": 2,
+      "explanation": "'Sorry' is used to express apology or regret."
+    },
+    {
+      "q": "Complete: 'Could you help me, ____?'",
+      "opts": ["sorry", "please", "hello", "excuse"],
+      "ans": 1,
+      "explanation": "'Please' makes requests more polite."
+    },
+    {
+      "q": "What does 'You're welcome' mean in Bangla?",
+      "opts": ["ধন্যবাদ", "দুঃখিত", "কোনো ব্যাপার না", "হ্যালো"],
+      "ans": 2,
+      "explanation": "'You're welcome' is the response to 'Thank you'."
+    },
+    {
+      "q": "Translate: 'তোমার নাম কী?'",
+      "opts": [
+        "Where are you?",
+        "How are you?",
+        "What is your name?",
+        "What time is it?"
+      ],
+      "ans": 2,
+      "explanation": "'What is your name?' is the correct English translation."
+    }
+  ],
+  "story": {
+    "title": "A New Friend",
+    "body": "Riya is at school on her first day. She sees a girl sitting alone.\n\n\"Hello!\" says Riya. \"My name is Riya. What is your name?\"\n\nThe girl smiles. \"My name is Nila. Nice to meet you!\"\n\n\"Nice to meet you too!\" says Riya. \"Could you please show me where the library is?\"\n\n\"Of course!\" says Nila. \"Follow me!\"\n\nRiya says, \"Thank you so much, Nila!\"\n\n\"You're welcome!\" says Nila. \"We will be great friends!\"\n\nThey both smile and walk together.",
+    "comprehension": [
+      {
+        "q": "Where does this story take place?",
+        "opts": ["A market", "A school", "A hospital", "A park"],
+        "ans": 1
+      },
+      {
+        "q": "What did Riya ask Nila to show her?",
+        "opts": [
+          "The cafeteria",
+          "The restroom",
+          "The library",
+          "The classroom"
+        ],
+        "ans": 2
+      }
+    ],
+    "tags": ["Hello", "Thank you", "Please", "Nice to meet you"]
+  },
+  "listening": {
+    "title": "At the Café",
+    "script": "Waiter: \"Good morning! Welcome to Blue Cup Café. What can I get for you?\"\n\nCustomer: \"Good morning! Could I have a cup of tea, please?\"\n\nWaiter: \"Of course! Anything else?\"\n\nCustomer: \"No, thank you. That's all.\"\n\nWaiter: \"Great! Your tea will be ready in a moment.\"\n\nCustomer: \"Thank you so much!\"\n\nWaiter: \"You're welcome! Enjoy your tea.\"",
+    "comprehension": [
+      {
+        "q": "What did the customer order?",
+        "opts": ["Coffee", "Juice", "Tea", "Water"],
+        "ans": 2
+      },
+      {
+        "q": "How did the waiter respond to 'Thank you'?",
+        "opts": ["Sorry", "Please", "You're welcome", "Hello"],
+        "ans": 2
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Introduce Yourself",
+    "prompt": "Introduce yourself in English. Say your name, where you are from, and one thing you like.",
+    "example": "Hello! My name is Rakib. I am from Dhaka, Bangladesh. I like reading books.",
+    "tips": [
+      "Speak slowly and clearly",
+      "Use 'My name is...' to introduce yourself",
+      "Smile while speaking — it helps!"
+    ]
+  },
+  "conversation": {
+    "scenario": "Meeting a new classmate",
+    "steps": [
+      { "speaker": "app", "text": "Hello! Are you new here?" },
+      { "speaker": "user", "prompt": "Greet back and say yes." },
+      {
+        "speaker": "app",
+        "text": "Nice to meet you! What's your name?"
+      },
+      { "speaker": "user", "prompt": "Tell your name." },
+      {
+        "speaker": "app",
+        "text": "Great! I'm Alex. Where are you from?"
+      },
+      { "speaker": "user", "prompt": "Tell where you are from." }
+    ]
+  }
+}

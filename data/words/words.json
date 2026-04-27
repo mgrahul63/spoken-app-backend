@@ -1,0 +1,134 @@
+[
+  {
+    "base": "beautiful",
+    "phonetic": "ˈbjuːtɪfʊl",
+    "meaning": "সুন্দর",
+    "examples": [
+      { "en": "She is beautiful.", "bn": "" },
+      { "en": "This is a beautiful place.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "The sky looks beautiful today.", "bn": "" },
+      { "en": "It is a beautiful garden.", "bn": "" },
+      { "en": "She has a beautiful voice.", "bn": "" },
+      { "en": "The painting is very beautiful.", "bn": "" },
+      { "en": "We saw a beautiful view.", "bn": "" },
+      { "en": "This flower is beautiful.", "bn": "" },
+      { "en": "He drew a beautiful picture.", "bn": "" },
+      { "en": "The city is beautiful at night.", "bn": "" },
+      { "en": "She wore a beautiful dress.", "bn": "" },
+      { "en": "Nature is beautiful.", "bn": "" }
+    ],
+    "synonyms": ["attractive", "pretty", "lovely", "gorgeous", "handsome"]
+  },
+  {
+    "base": "book",
+    "phonetic": "bʊk",
+    "meaning": "বই",
+    "examples": [
+      { "en": "I read a book.", "bn": "" },
+      { "en": "This is my book.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "She bought a book.", "bn": "" },
+      { "en": "I love reading books.", "bn": "" },
+      { "en": "The book is interesting.", "bn": "" },
+      { "en": "He wrote a book.", "bn": "" },
+      { "en": "I opened the book.", "bn": "" },
+      { "en": "She borrowed a book.", "bn": "" },
+      { "en": "The book is old.", "bn": "" },
+      { "en": "I finished the book.", "bn": "" },
+      { "en": "Books are knowledge.", "bn": "" },
+      { "en": "He gave me a book.", "bn": "" }
+    ],
+    "synonyms": ["novel", "text", "volume", "publication"]
+  },
+  {
+    "base": "friend",
+    "phonetic": "frend",
+    "meaning": "বন্ধু",
+    "examples": [
+      { "en": "He is my friend.", "bn": "" },
+      { "en": "She is a good friend.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "I met my friend today.", "bn": "" },
+      { "en": "She is a close friend.", "bn": "" },
+      { "en": "Friends help each other.", "bn": "" },
+      { "en": "He lost his friend.", "bn": "" },
+      { "en": "We are best friends.", "bn": "" },
+      { "en": "My friend called me.", "bn": "" },
+      { "en": "She visited her friend.", "bn": "" },
+      { "en": "They became friends.", "bn": "" },
+      { "en": "A true friend is rare.", "bn": "" },
+      { "en": "He trusted his friend.", "bn": "" }
+    ],
+    "synonyms": ["companion", "mate", "buddy", "colleague"]
+  },
+  {
+    "base": "happiness",
+    "phonetic": "ˈhæpinəs",
+    "meaning": "সুখ",
+    "examples": [
+      { "en": "Happiness is important.", "bn": "" },
+      { "en": "Money cannot buy happiness.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "She found happiness in life.", "bn": "" },
+      { "en": "True happiness comes from within.", "bn": "" },
+      { "en": "Happiness makes life better.", "bn": "" },
+      { "en": "He smiled with happiness.", "bn": "" },
+      { "en": "Family brings happiness.", "bn": "" },
+      { "en": "Happiness is a choice.", "bn": "" },
+      { "en": "They shared their happiness.", "bn": "" },
+      { "en": "Success brought him happiness.", "bn": "" },
+      { "en": "Simple life gives happiness.", "bn": "" },
+      { "en": "She expressed happiness.", "bn": "" }
+    ],
+    "synonyms": ["joy", "pleasure", "bliss", "delight"]
+  },
+  {
+    "base": "prison",
+    "phonetic": "ˈprɪzn",
+    "meaning": "কারাগার / জেল",
+    "examples": [
+      { "en": "He was sent to prison.", "bn": "" },
+      { "en": "The prisoner is in prison.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He spent five years in prison.", "bn": "" },
+      { "en": "The prison is heavily guarded.", "bn": "" },
+      { "en": "Many criminals are kept in prison.", "bn": "" },
+      { "en": "She visited her brother in prison.", "bn": "" },
+      { "en": "He escaped from prison.", "bn": "" },
+      { "en": "The prison was built long ago.", "bn": "" },
+      { "en": "Life in prison is very hard.", "bn": "" },
+      { "en": "They transferred him to another prison.", "bn": "" },
+      { "en": "The prison holds dangerous criminals.", "bn": "" },
+      { "en": "He was released from prison.", "bn": "" }
+    ],
+    "synonyms": ["jail", "detention center", "lockup", "penitentiary"]
+  },
+  {
+    "base": "water",
+    "phonetic": "ˈwɔːtər",
+    "meaning": "পানি",
+    "examples": [
+      { "en": "I drink water.", "bn": "" },
+      { "en": "Water is clean.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "She drinks water daily.", "bn": "" },
+      { "en": "We need water to live.", "bn": "" },
+      { "en": "The water is cold.", "bn": "" },
+      { "en": "He spilled water.", "bn": "" },
+      { "en": "Clean water is important.", "bn": "" },
+      { "en": "I filled the bottle with water.", "bn": "" },
+      { "en": "Water is life.", "bn": "" },
+      { "en": "They drank water.", "bn": "" },
+      { "en": "Hot water is useful.", "bn": "" },
+      { "en": "The water flows fast.", "bn": "" }
+    ],
+    "synonyms": ["liquid", "fluid", "H2O"]
+  }
+]

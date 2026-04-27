@@ -1,0 +1,508 @@
+{
+  "day": 6,
+  "topic": "Behavior, Emotion & Daily Life Vocabulary",
+  "lessonId": "L0D3",
+  "vocabulary": [
+    {
+      "word": "appropriate",
+      "phonetic": "/əˈproʊpriət/",
+      "meaning": "suitable for a situation",
+      "bangla": "উপযুক্ত",
+      "example": "This dress is appropriate for the party.",
+      "exampleBn": "এই পোশাকটি পার্টির জন্য উপযুক্ত।"
+    },
+    {
+      "word": "avoid",
+      "phonetic": "/əˈvɔɪd/",
+      "meaning": "to stay away from something",
+      "bangla": "এড়িয়ে চলা",
+      "example": "Avoid junk food.",
+      "exampleBn": "জাঙ্ক ফুড এড়িয়ে চলা উচিত।"
+    },
+    {
+      "word": "behave",
+      "phonetic": "/bɪˈheɪv/",
+      "meaning": "to act in a certain way",
+      "bangla": "আচরণ করা",
+      "example": "Please behave nicely.",
+      "exampleBn": "দয়া করে ভালোভাবে আচরণ করো।"
+    },
+    {
+      "word": "calm",
+      "phonetic": "/kɑːm/",
+      "meaning": "not excited or angry",
+      "bangla": "শান্ত",
+      "example": "Stay calm in danger.",
+      "exampleBn": "বিপদে শান্ত থাকো।"
+    },
+    {
+      "word": "concern",
+      "phonetic": "/kənˈsɜːrn/",
+      "meaning": "worry or care about something",
+      "bangla": "চিন্তা",
+      "example": "I have concern about him.",
+      "exampleBn": "তার জন্য আমার চিন্তা হচ্ছে।"
+    },
+    {
+      "word": "content",
+      "phonetic": "/kənˈtent/",
+      "meaning": "satisfied and happy",
+      "bangla": "সন্তুষ্ট",
+      "example": "She is content with life.",
+      "exampleBn": "সে জীবনে সন্তুষ্ট।"
+    },
+    {
+      "word": "expect",
+      "phonetic": "/ɪkˈspekt/",
+      "meaning": "to think something will happen",
+      "bangla": "প্রত্যাশা করা",
+      "example": "I expect good results.",
+      "exampleBn": "আমি ভালো ফলাফল আশা করি।"
+    },
+    {
+      "word": "frequently",
+      "phonetic": "/ˈfriːkwəntli/",
+      "meaning": "often",
+      "bangla": "প্রায়ই",
+      "example": "He frequently visits here.",
+      "exampleBn": "সে প্রায়ই এখানে আসে।"
+    },
+    {
+      "word": "habit",
+      "phonetic": "/ˈhæbɪt/",
+      "meaning": "something done regularly",
+      "bangla": "অভ্যাস",
+      "example": "Reading is a good habit.",
+      "exampleBn": "পড়া একটি ভালো অভ্যাস।"
+    },
+    {
+      "word": "instruct",
+      "phonetic": "/ɪnˈstrʌkt/",
+      "meaning": "to teach or guide",
+      "bangla": "নির্দেশ দেওয়া",
+      "example": "The teacher instructs students.",
+      "exampleBn": "শিক্ষক শিক্ষার্থীদের নির্দেশ দেন।"
+    },
+    {
+      "word": "issue",
+      "phonetic": "/ˈɪʃuː/",
+      "meaning": "a problem or topic",
+      "bangla": "সমস্যা",
+      "example": "This is a serious issue.",
+      "exampleBn": "এটি একটি গুরুতর সমস্যা।"
+    },
+    {
+      "word": "none",
+      "phonetic": "/nʌn/",
+      "meaning": "not any",
+      "bangla": "কোনোটিই নয়",
+      "example": "None of them came.",
+      "exampleBn": "তাদের কেউই আসেনি।"
+    },
+    {
+      "word": "patient",
+      "phonetic": "/ˈpeɪʃənt/",
+      "meaning": "able to wait calmly",
+      "bangla": "ধৈর্যশীল",
+      "example": "Be patient in line.",
+      "exampleBn": "লাইনে ধৈর্য ধরো।"
+    },
+    {
+      "word": "positive",
+      "phonetic": "/ˈpɑːzətɪv/",
+      "meaning": "optimistic or good",
+      "bangla": "ইতিবাচক",
+      "example": "Think positive.",
+      "exampleBn": "ইতিবাচক চিন্তা করো।"
+    },
+    {
+      "word": "punish",
+      "phonetic": "/ˈpʌnɪʃ/",
+      "meaning": "to give penalty",
+      "bangla": "শাস্তি দেওয়া",
+      "example": "The teacher punished him.",
+      "exampleBn": "শিক্ষক তাকে শাস্তি দিয়েছেন।"
+    },
+    {
+      "word": "represent",
+      "phonetic": "/ˌreprɪˈzent/",
+      "meaning": "to stand for something",
+      "bangla": "প্রতিনিধিত্ব করা",
+      "example": "He represents the school.",
+      "exampleBn": "সে স্কুলের প্রতিনিধিত্ব করে।"
+    },
+    {
+      "word": "shake",
+      "phonetic": "/ʃeɪk/",
+      "meaning": "to move quickly up and down",
+      "bangla": "ঝাঁকানো",
+      "example": "Shake the bottle well.",
+      "exampleBn": "বোতলটি ভালোভাবে ঝাঁকাও।"
+    },
+    {
+      "word": "spread",
+      "phonetic": "/spred/",
+      "meaning": "to move over an area",
+      "bangla": "ছড়িয়ে পড়া",
+      "example": "Disease can spread fast.",
+      "exampleBn": "রোগ দ্রুত ছড়িয়ে পড়তে পারে।"
+    },
+    {
+      "word": "stroll",
+      "phonetic": "/stroʊl/",
+      "meaning": "to walk slowly for pleasure",
+      "bangla": "হাঁটাহাঁটি করা",
+      "example": "We stroll in the park.",
+      "exampleBn": "আমরা পার্কে হাঁটাহাঁটি করি।"
+    },
+    {
+      "word": "village",
+      "phonetic": "/ˈvɪlɪdʒ/",
+      "meaning": "a small rural town",
+      "bangla": "গ্রাম",
+      "example": "I live in a village.",
+      "exampleBn": "আমি একটি গ্রামে থাকি।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "appropriate behavior",
+      "bangla": "উপযুক্ত আচরণ",
+      "usage": "formal or social context",
+      "example": "Show appropriate behavior."
+    },
+    {
+      "phrase": "avoid danger",
+      "bangla": "বিপদ এড়ানো",
+      "usage": "safety",
+      "example": "Avoid danger at night."
+    },
+    {
+      "phrase": "behave well",
+      "bangla": "ভালো আচরণ করা",
+      "usage": "discipline",
+      "example": "Children must behave well."
+    },
+    {
+      "phrase": "stay calm",
+      "bangla": "শান্ত থাকা",
+      "usage": "stress situations",
+      "example": "Stay calm in crisis."
+    },
+    {
+      "phrase": "concern for others",
+      "bangla": "অন্যদের জন্য চিন্তা",
+      "usage": "care",
+      "example": "She shows concern for others."
+    },
+    {
+      "phrase": "feel content",
+      "bangla": "সন্তুষ্ট অনুভব করা",
+      "usage": "emotion",
+      "example": "I feel content."
+    },
+    {
+      "phrase": "expect result",
+      "bangla": "ফলাফল আশা করা",
+      "usage": "anticipation",
+      "example": "I expect results."
+    },
+    {
+      "phrase": "frequently asked",
+      "bangla": "প্রায়ই জিজ্ঞাসিত",
+      "usage": "common questions",
+      "example": "Frequently asked questions."
+    },
+    {
+      "phrase": "good habit",
+      "bangla": "ভালো অভ্যাস",
+      "usage": "routine",
+      "example": "Reading is a good habit."
+    },
+    {
+      "phrase": "give instruction",
+      "bangla": "নির্দেশ দেওয়া",
+      "usage": "teaching",
+      "example": "Teacher gives instruction."
+    },
+    {
+      "phrase": "serious issue",
+      "bangla": "গুরুতর সমস্যা",
+      "usage": "problem",
+      "example": "It is a serious issue."
+    },
+    {
+      "phrase": "none of them",
+      "bangla": "তাদের কেউ নয়",
+      "usage": "negation",
+      "example": "None of them came."
+    },
+    {
+      "phrase": "be patient",
+      "bangla": "ধৈর্যশীল হওয়া",
+      "usage": "waiting",
+      "example": "Be patient."
+    },
+    {
+      "phrase": "positive thinking",
+      "bangla": "ইতিবাচক চিন্তা",
+      "usage": "mindset",
+      "example": "Practice positive thinking."
+    },
+    {
+      "phrase": "punish someone",
+      "bangla": "কারো শাস্তি দেওয়া",
+      "usage": "discipline",
+      "example": "Don’t punish unfairly."
+    },
+    {
+      "phrase": "represent country",
+      "bangla": "দেশের প্রতিনিধিত্ব করা",
+      "usage": "official role",
+      "example": "He represents his country."
+    },
+    {
+      "phrase": "shake hands",
+      "bangla": "হাত মেলানো",
+      "usage": "greeting",
+      "example": "They shake hands."
+    },
+    {
+      "phrase": "spread news",
+      "bangla": "খবর ছড়ানো",
+      "usage": "information",
+      "example": "News spreads fast."
+    },
+    {
+      "phrase": "take a stroll",
+      "bangla": "হাঁটাহাঁটি করা",
+      "usage": "relaxation",
+      "example": "We take a stroll."
+    },
+    {
+      "phrase": "village life",
+      "bangla": "গ্রামের জীবন",
+      "usage": "rural lifestyle",
+      "example": "Village life is peaceful."
+    }
+  ],
+
+  "sentences": [
+    { "en": "Be appropriate.", "bn": "উপযুক্ত হও।" },
+    { "en": "Avoid danger.", "bn": "বিপদ এড়াও।" },
+    { "en": "Behave well.", "bn": "ভালো আচরণ করো।" },
+    { "en": "Stay calm.", "bn": "শান্ত থাকো।" },
+    { "en": "I have concern.", "bn": "আমার চিন্তা আছে।" },
+    { "en": "She is content.", "bn": "সে সন্তুষ্ট।" },
+    { "en": "I expect results.", "bn": "আমি ফলাফল আশা করি।" },
+    { "en": "He frequently comes.", "bn": "সে প্রায়ই আসে।" },
+    { "en": "Reading is a habit.", "bn": "পড়া একটি অভ্যাস।" },
+    {
+      "en": "Teacher instructs us.",
+      "bn": "শিক্ষক আমাদের নির্দেশ দেন।"
+    },
+    { "en": "It is an issue.", "bn": "এটি একটি সমস্যা।" },
+    { "en": "None came.", "bn": "কেউ আসেনি।" },
+    { "en": "Be patient.", "bn": "ধৈর্য ধরো।" },
+    { "en": "Think positive.", "bn": "ইতিবাচক চিন্তা করো।" },
+    { "en": "He will punish.", "bn": "সে শাস্তি দেবে।" },
+    { "en": "He represents us.", "bn": "সে আমাদের প্রতিনিধিত্ব করে।" },
+    { "en": "Shake it.", "bn": "এটি ঝাঁকাও।" },
+    { "en": "Disease spreads fast.", "bn": "রোগ দ্রুত ছড়ায়।" },
+    { "en": "We stroll there.", "bn": "আমরা সেখানে হাঁটাহাঁটি করি।" },
+    { "en": "Village is quiet.", "bn": "গ্রাম শান্ত।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Appropriate means?",
+      "opts": ["wrong", "suitable", "fast", "slow"],
+      "ans": 1,
+      "explanation": "Appropriate means suitable."
+    },
+    {
+      "q": "Avoid means?",
+      "opts": ["face", "stay away", "run", "speak"],
+      "ans": 1,
+      "explanation": "Avoid means stay away."
+    },
+    {
+      "q": "Behave means?",
+      "opts": ["act", "sleep", "eat", "run"],
+      "ans": 0,
+      "explanation": "Behave means act."
+    },
+    {
+      "q": "Calm means?",
+      "opts": ["angry", "peaceful", "fast", "loud"],
+      "ans": 1,
+      "explanation": "Calm means peaceful."
+    },
+    {
+      "q": "Concern means?",
+      "opts": ["care", "ignore", "sleep", "run"],
+      "ans": 0,
+      "explanation": "Concern means care."
+    },
+    {
+      "q": "Content means?",
+      "opts": ["sad", "happy satisfied", "angry", "fast"],
+      "ans": 1,
+      "explanation": "Content means satisfied."
+    },
+    {
+      "q": "Expect means?",
+      "opts": ["ignore", "think will happen", "break", "run"],
+      "ans": 1,
+      "explanation": "Expect means think will happen."
+    },
+    {
+      "q": "Frequently means?",
+      "opts": ["never", "often", "rare", "slow"],
+      "ans": 1,
+      "explanation": "Frequently means often."
+    },
+    {
+      "q": "Habit means?",
+      "opts": ["plan", "routine", "dream", "place"],
+      "ans": 1,
+      "explanation": "Habit means routine."
+    },
+    {
+      "q": "Instruct means?",
+      "opts": ["teach", "hide", "break", "run"],
+      "ans": 0,
+      "explanation": "Instruct means teach."
+    },
+    {
+      "q": "Issue means?",
+      "opts": ["problem", "solution", "food", "book"],
+      "ans": 0,
+      "explanation": "Issue means problem."
+    },
+    {
+      "q": "None means?",
+      "opts": ["all", "some", "not any", "many"],
+      "ans": 2,
+      "explanation": "None means not any."
+    },
+    {
+      "q": "Patient means?",
+      "opts": ["angry", "waiting calmly", "fast", "loud"],
+      "ans": 1,
+      "explanation": "Patient means waiting calmly."
+    },
+    {
+      "q": "Positive means?",
+      "opts": ["bad", "good thinking", "sad", "weak"],
+      "ans": 1,
+      "explanation": "Positive means good thinking."
+    },
+    {
+      "q": "Punish means?",
+      "opts": ["reward", "give penalty", "help", "teach"],
+      "ans": 1,
+      "explanation": "Punish means give penalty."
+    },
+    {
+      "q": "Represent means?",
+      "opts": ["hide", "stand for", "break", "sleep"],
+      "ans": 1,
+      "explanation": "Represent means stand for."
+    },
+    {
+      "q": "Shake means?",
+      "opts": ["hold", "move quickly", "stop", "build"],
+      "ans": 1,
+      "explanation": "Shake means move quickly."
+    },
+    {
+      "q": "Spread means?",
+      "opts": ["collect", "move over area", "stop", "hide"],
+      "ans": 1,
+      "explanation": "Spread means move over area."
+    },
+    {
+      "q": "Stroll means?",
+      "opts": ["run", "walk slowly", "jump", "sleep"],
+      "ans": 1,
+      "explanation": "Stroll means walk slowly."
+    },
+    {
+      "q": "Village means?",
+      "opts": ["city", "small town", "country", "river"],
+      "ans": 1,
+      "explanation": "Village is small town."
+    }
+  ],
+
+  "story": {
+    "title": "The Calm Village Lesson",
+    "body": "In a small village, people lived a calm and peaceful life. Rafi was a friendly boy who frequently walked around the village and greeted everyone. One day, the teacher gave a school project. The students had to describe their village and write a report. Rafi tried to behave in an appropriate way and followed every instruction carefully. At first, he was nervous and expected he might fail. But he stayed calm and worked with positive thinking. He often visited the library to solve problems and understand topics better. His teacher did not punish anyone but helped them improve. During the project, Rafi learned that patience and good habits are very important. He represented his village in the school presentation. Everyone was surprised by his confidence. In the end, he got a good grade and felt content. It was a simple village life story, but it taught a big lesson.",
+    "comprehension": [
+      {
+        "q": "Where did Rafi live?",
+        "opts": ["city", "village", "forest", "school"],
+        "ans": 1
+      },
+      {
+        "q": "What did he do frequently?",
+        "opts": ["sleep", "walk", "run", "fight"],
+        "ans": 1
+      },
+      {
+        "q": "How did he feel at first?",
+        "opts": ["happy", "nervous", "angry", "lazy"],
+        "ans": 1
+      },
+      {
+        "q": "What did he get?",
+        "opts": ["bad grade", "good grade", "punishment", "nothing"],
+        "ans": 1
+      }
+    ],
+    "tags": ["village", "habit", "positive", "report", "library"]
+  },
+
+  "listening": {
+    "title": "Village Classroom Talk",
+    "script": "A: Are you ready for the project?\nB: Yes, but I feel nervous.\nA: Stay calm.\nB: I will try.\nA: What will you write?\nB: I will describe my village.\nA: That is a good idea.\nB: I go there frequently.\nA: Do you need help?\nB: Yes, please instruct me.\nA: Use positive thinking.\nB: I will.\nA: Don’t worry about failure.\nB: Thank you.\nA: Let’s start.",
+    "comprehension": [
+      {
+        "q": "What is B describing?",
+        "opts": ["city", "village", "school", "river"],
+        "ans": 1
+      },
+      {
+        "q": "How does A advise B?",
+        "opts": ["be angry", "stay calm", "run away", "sleep"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "My Daily Habits",
+    "prompt": "Describe your daily habits. Use words like habit, frequently, calm, and positive.",
+    "example": "I have a good habit of studying daily. I frequently visit the library. I try to stay calm and think positive. This helps me improve my life.",
+    "tips": [
+      "Speak slowly",
+      "Use habit-related words",
+      "Give real examples",
+      "Stay confident"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Talking about school habits",
+    "steps": [
+      { "speaker": "app", "text": "Do you have a good habit?" },
+      { "speaker": "user", "prompt": "Say yes and explain." },
+      { "speaker": "app", "text": "How frequently do you study?" },
+      { "speaker": "user", "prompt": "Answer using 'frequently'." },
+      { "speaker": "app", "text": "Do you feel calm during exams?" },
+      { "speaker": "user", "prompt": "Answer and explain." }
+    ]
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "day": 9,
+  "topic": "Social Actions, Authority & Communication Vocabulary",
+  "lessonId": "L0D5",
+  "vocabulary": [
+    {
+      "word": "allow",
+      "phonetic": "/əˈlaʊ/",
+      "meaning": "to give permission",
+      "bangla": "অনুমতি দেওয়া",
+      "example": "My parents allow me to go out.",
+      "exampleBn": "আমার বাবা-মা আমাকে বাইরে যেতে অনুমতি দেন।"
+    },
+    {
+      "word": "announce",
+      "phonetic": "/əˈnaʊns/",
+      "meaning": "to make something known publicly",
+      "bangla": "ঘোষণা করা",
+      "example": "They announce the result.",
+      "exampleBn": "তারা ফলাফল ঘোষণা করে।"
+    },
+    {
+      "word": "beside",
+      "phonetic": "/bɪˈsaɪd/",
+      "meaning": "next to",
+      "bangla": "পাশে",
+      "example": "She sat beside me.",
+      "exampleBn": "সে আমার পাশে বসেছিল।"
+    },
+    {
+      "word": "challenge",
+      "phonetic": "/ˈtʃælɪndʒ/",
+      "meaning": "a difficult task",
+      "bangla": "চ্যালেঞ্জ",
+      "example": "This is a big challenge.",
+      "exampleBn": "এটি একটি বড় চ্যালেঞ্জ।"
+    },
+    {
+      "word": "claim",
+      "phonetic": "/kleɪm/",
+      "meaning": "to say something is true",
+      "bangla": "দাবি করা",
+      "example": "He claims he is right.",
+      "exampleBn": "সে দাবি করে সে ঠিক।"
+    },
+    {
+      "word": "condition",
+      "phonetic": "/kənˈdɪʃən/",
+      "meaning": "situation or state",
+      "bangla": "অবস্থা",
+      "example": "The condition is bad.",
+      "exampleBn": "অবস্থা খারাপ।"
+    },
+    {
+      "word": "contribute",
+      "phonetic": "/kənˈtrɪbjuːt/",
+      "meaning": "to give help or support",
+      "bangla": "অবদান রাখা",
+      "example": "They contribute money.",
+      "exampleBn": "তারা টাকা অবদান রাখে।"
+    },
+    {
+      "word": "difference",
+      "phonetic": "/ˈdɪfərəns/",
+      "meaning": "not the same",
+      "bangla": "পার্থক্য",
+      "example": "There is a difference.",
+      "exampleBn": "এখানে একটি পার্থক্য আছে।"
+    },
+    {
+      "word": "divide",
+      "phonetic": "/dɪˈvaɪd/",
+      "meaning": "to separate into parts",
+      "bangla": "ভাগ করা",
+      "example": "Divide the cake.",
+      "exampleBn": "কেকটি ভাগ করো।"
+    },
+    {
+      "word": "expert",
+      "phonetic": "/ˈekspɜːrt/",
+      "meaning": "a highly skilled person",
+      "bangla": "বিশেষজ্ঞ",
+      "example": "He is an expert doctor.",
+      "exampleBn": "সে একজন বিশেষজ্ঞ ডাক্তার।"
+    },
+    {
+      "word": "famous",
+      "phonetic": "/ˈfeɪməs/",
+      "meaning": "known by many people",
+      "bangla": "বিখ্যাত",
+      "example": "He is a famous singer.",
+      "exampleBn": "সে একজন বিখ্যাত গায়ক।"
+    },
+    {
+      "word": "force",
+      "phonetic": "/fɔːrs/",
+      "meaning": "power or strength",
+      "bangla": "শক্তি",
+      "example": "He used force.",
+      "exampleBn": "সে শক্তি ব্যবহার করেছে।"
+    },
+    {
+      "word": "harm",
+      "phonetic": "/hɑːrm/",
+      "meaning": "damage or injury",
+      "bangla": "ক্ষতি",
+      "example": "It can harm you.",
+      "exampleBn": "এটি তোমার ক্ষতি করতে পারে।"
+    },
+    {
+      "word": "lay",
+      "phonetic": "/leɪ/",
+      "meaning": "to put something down",
+      "bangla": "রাখা",
+      "example": "Lay the book here.",
+      "exampleBn": "বইটি এখানে রাখো।"
+    },
+    {
+      "word": "peace",
+      "phonetic": "/piːs/",
+      "meaning": "calm and no war",
+      "bangla": "শান্তি",
+      "example": "We want peace.",
+      "exampleBn": "আমরা শান্তি চাই।"
+    },
+    {
+      "word": "prince",
+      "phonetic": "/prɪns/",
+      "meaning": "son of a king",
+      "bangla": "রাজপুত্র",
+      "example": "The prince is kind.",
+      "exampleBn": "রাজপুত্রটি দয়ালু।"
+    },
+    {
+      "word": "protect",
+      "phonetic": "/prəˈtekt/",
+      "meaning": "to keep safe",
+      "bangla": "রক্ষা করা",
+      "example": "Protect your family.",
+      "exampleBn": "তোমার পরিবারকে রক্ষা করো।"
+    },
+    {
+      "word": "sense",
+      "phonetic": "/sens/",
+      "meaning": "feeling or understanding",
+      "bangla": "ইন্দ্রিয় / অনুভূতি",
+      "example": "I sense danger.",
+      "exampleBn": "আমি বিপদ অনুভব করছি।"
+    },
+    {
+      "word": "sudden",
+      "phonetic": "/ˈsʌdən/",
+      "meaning": "happening quickly",
+      "bangla": "হঠাৎ",
+      "example": "A sudden noise came.",
+      "exampleBn": "হঠাৎ একটি শব্দ এলো।"
+    },
+    {
+      "word": "therefore",
+      "phonetic": "/ˈðerfɔːr/",
+      "meaning": "for that reason",
+      "bangla": "সুতরাং",
+      "example": "It was late, therefore I stayed.",
+      "exampleBn": "দেরি ছিল, সুতরাং আমি থেকে গেলাম।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "allow permission",
+      "bangla": "অনুমতি দেওয়া",
+      "usage": "giving approval",
+      "example": "Parents allow permission."
+    },
+    {
+      "phrase": "announce result",
+      "bangla": "ফলাফল ঘোষণা করা",
+      "usage": "public info",
+      "example": "They announce result."
+    },
+    {
+      "phrase": "sit beside",
+      "bangla": "পাশে বসা",
+      "usage": "position",
+      "example": "She sits beside me."
+    },
+    {
+      "phrase": "big challenge",
+      "bangla": "বড় চ্যালেঞ্জ",
+      "usage": "difficulty",
+      "example": "It is a big challenge."
+    },
+    {
+      "phrase": "claim truth",
+      "bangla": "সত্য দাবি করা",
+      "usage": "assertion",
+      "example": "He claims truth."
+    },
+    {
+      "phrase": "bad condition",
+      "bangla": "খারাপ অবস্থা",
+      "usage": "state",
+      "example": "Condition is bad."
+    },
+    {
+      "phrase": "contribute help",
+      "bangla": "সাহায্য করা",
+      "usage": "support",
+      "example": "They contribute help."
+    },
+    {
+      "phrase": "make difference",
+      "bangla": "পার্থক্য তৈরি করা",
+      "usage": "impact",
+      "example": "It makes difference."
+    },
+    {
+      "phrase": "divide equally",
+      "bangla": "সমানভাবে ভাগ করা",
+      "usage": "sharing",
+      "example": "Divide equally."
+    },
+    {
+      "phrase": "expert advice",
+      "bangla": "বিশেষজ্ঞ পরামর্শ",
+      "usage": "guidance",
+      "example": "Take expert advice."
+    },
+    {
+      "phrase": "famous person",
+      "bangla": "বিখ্যাত ব্যক্তি",
+      "usage": "identity",
+      "example": "He is famous."
+    },
+    {
+      "phrase": "use force",
+      "bangla": "শক্তি ব্যবহার করা",
+      "usage": "strength",
+      "example": "Do not use force."
+    },
+    {
+      "phrase": "cause harm",
+      "bangla": "ক্ষতি করা",
+      "usage": "damage",
+      "example": "It may harm."
+    },
+    {
+      "phrase": "lay down",
+      "bangla": "শুইয়ে রাখা",
+      "usage": "position",
+      "example": "Lay it down."
+    },
+    {
+      "phrase": "peace of mind",
+      "bangla": "মানসিক শান্তি",
+      "usage": "emotion",
+      "example": "I want peace."
+    },
+    {
+      "phrase": "young prince",
+      "bangla": "তরুণ রাজপুত্র",
+      "usage": "royal",
+      "example": "The prince is young."
+    },
+    {
+      "phrase": "protect family",
+      "bangla": "পরিবার রক্ষা করা",
+      "usage": "safety",
+      "example": "Protect your family."
+    },
+    {
+      "phrase": "sense danger",
+      "bangla": "বিপদ অনুভব করা",
+      "usage": "intuition",
+      "example": "I sense danger."
+    },
+    {
+      "phrase": "sudden change",
+      "bangla": "হঠাৎ পরিবর্তন",
+      "usage": "event",
+      "example": "Sudden change happened."
+    },
+    {
+      "phrase": "therefore result",
+      "bangla": "সুতরাং ফলাফল",
+      "usage": "reasoning",
+      "example": "Therefore I agree."
+    }
+  ],
+
+  "sentences": [
+    { "en": "I allow it.", "bn": "আমি এটি অনুমতি দিই।" },
+    { "en": "They announce it.", "bn": "তারা এটি ঘোষণা করে।" },
+    { "en": "She sat beside me.", "bn": "সে আমার পাশে বসেছিল।" },
+    { "en": "It is a challenge.", "bn": "এটি একটি চ্যালেঞ্জ।" },
+    { "en": "He claims it.", "bn": "সে এটি দাবি করে।" },
+    { "en": "Condition is bad.", "bn": "অবস্থা খারাপ।" },
+    { "en": "We contribute money.", "bn": "আমরা টাকা অবদান রাখি।" },
+    { "en": "There is a difference.", "bn": "এখানে পার্থক্য আছে।" },
+    { "en": "Divide it.", "bn": "এটি ভাগ করো।" },
+    { "en": "He is an expert.", "bn": "সে একজন বিশেষজ্ঞ।" },
+    { "en": "She is famous.", "bn": "সে বিখ্যাত।" },
+    { "en": "He used force.", "bn": "সে শক্তি ব্যবহার করেছে।" },
+    { "en": "It may harm you.", "bn": "এটি তোমার ক্ষতি করতে পারে।" },
+    { "en": "Lay it here.", "bn": "এটি এখানে রাখো।" },
+    { "en": "We want peace.", "bn": "আমরা শান্তি চাই।" },
+    { "en": "The prince is kind.", "bn": "রাজপুত্রটি দয়ালু।" },
+    { "en": "Protect yourself.", "bn": "নিজেকে রক্ষা করো।" },
+    { "en": "I sense danger.", "bn": "আমি বিপদ অনুভব করি।" },
+    { "en": "It was sudden.", "bn": "এটি হঠাৎ ছিল।" },
+    { "en": "Therefore I left.", "bn": "সুতরাং আমি চলে গেলাম।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Allow means?",
+      "opts": ["stop", "permit", "break", "hide"],
+      "ans": 1,
+      "explanation": "Allow means permit."
+    },
+    {
+      "q": "Announce means?",
+      "opts": ["hide", "publicly say", "run", "sleep"],
+      "ans": 1,
+      "explanation": "Announce means publicly say."
+    },
+    {
+      "q": "Beside means?",
+      "opts": ["under", "next to", "above", "far"],
+      "ans": 1,
+      "explanation": "Beside means next to."
+    },
+    {
+      "q": "Challenge means?",
+      "opts": ["easy task", "difficulty", "food", "place"],
+      "ans": 1,
+      "explanation": "Challenge means difficulty."
+    },
+    {
+      "q": "Claim means?",
+      "opts": ["deny", "say true", "forget", "hide"],
+      "ans": 1,
+      "explanation": "Claim means say something is true."
+    },
+    {
+      "q": "Condition means?",
+      "opts": ["state", "color", "food", "time"],
+      "ans": 0,
+      "explanation": "Condition means state."
+    },
+    {
+      "q": "Contribute means?",
+      "opts": ["take", "give help", "break", "run"],
+      "ans": 1,
+      "explanation": "Contribute means give help."
+    },
+    {
+      "q": "Difference means?",
+      "opts": ["same", "not same", "equal", "easy"],
+      "ans": 1,
+      "explanation": "Difference means not same."
+    },
+    {
+      "q": "Divide means?",
+      "opts": ["join", "separate", "break", "run"],
+      "ans": 1,
+      "explanation": "Divide means separate."
+    },
+    {
+      "q": "Expert means?",
+      "opts": ["beginner", "skilled person", "child", "animal"],
+      "ans": 1,
+      "explanation": "Expert means skilled person."
+    },
+    {
+      "q": "Famous means?",
+      "opts": ["unknown", "known", "hidden", "slow"],
+      "ans": 1,
+      "explanation": "Famous means known."
+    },
+    {
+      "q": "Force means?",
+      "opts": ["weakness", "power", "sleep", "color"],
+      "ans": 1,
+      "explanation": "Force means power."
+    },
+    {
+      "q": "Harm means?",
+      "opts": ["help", "damage", "build", "fix"],
+      "ans": 1,
+      "explanation": "Harm means damage."
+    },
+    {
+      "q": "Peace means?",
+      "opts": ["war", "calm", "noise", "fight"],
+      "ans": 1,
+      "explanation": "Peace means calm."
+    },
+    {
+      "q": "Protect means?",
+      "opts": ["harm", "save", "break", "lose"],
+      "ans": 1,
+      "explanation": "Protect means save."
+    },
+    {
+      "q": "Sense means?",
+      "opts": ["feel", "ignore", "break", "run"],
+      "ans": 0,
+      "explanation": "Sense means feel."
+    },
+    {
+      "q": "Sudden means?",
+      "opts": ["slow", "quick", "late", "old"],
+      "ans": 1,
+      "explanation": "Sudden means quick."
+    },
+    {
+      "q": "Therefore means?",
+      "opts": ["because", "for that reason", "then", "before"],
+      "ans": 1,
+      "explanation": "Therefore means for that reason."
+    }
+  ],
+
+  "story": {
+    "title": "The Prince and the Village of Peace",
+    "body": "In a peaceful village, people lived with harmony and helped each other. A young prince visited the village to understand their way of life. The villagers believed that every individual should contribute to the community. One day, a sudden problem occurred when a strong force damaged part of the village. People felt upset, but they stayed calm. The prince announced help from the kingdom and allowed experts to fix the condition. Everyone worked together, dividing tasks and following instructions carefully. A wise old man explained the cause of the problem and suggested solutions. The prince listened and protected the villagers from further harm. Even though the challenge was big, they did not lose hope. The situation improved, and peace returned. The prince learned that helping others and making the right choice creates a strong community. Therefore, he promised to support the village forever.",
+    "comprehension": [
+      {
+        "q": "Who visited the village?",
+        "opts": ["king", "prince", "soldier", "farmer"],
+        "ans": 1
+      },
+      {
+        "q": "What happened suddenly?",
+        "opts": ["festival", "problem", "rainbow", "game"],
+        "ans": 1
+      },
+      {
+        "q": "What did villagers do?",
+        "opts": ["fight", "work together", "run away", "sleep"],
+        "ans": 1
+      },
+      {
+        "q": "What returned in the end?",
+        "opts": ["war", "peace", "fear", "noise"],
+        "ans": 1
+      }
+    ],
+    "tags": ["peace", "prince", "community", "protect", "challenge"]
+  },
+
+  "listening": {
+    "title": "Village Problem Discussion",
+    "script": "A: Did you hear the announcement?\nB: Yes, there is a problem in the village.\nA: What is the condition?\nB: It is bad near the river.\nA: Who will help?\nB: Experts will come.\nA: That is good.\nB: The prince is also coming.\nA: We should contribute.\nB: Yes, everyone should help.\nA: Do you know the cause?\nB: Not yet.\nA: We must protect people.\nB: Yes, safety is important.\nA: Let’s follow instructions.\nB: Okay.",
+    "comprehension": [
+      {
+        "q": "What is the issue?",
+        "opts": ["food", "river problem", "game", "school"],
+        "ans": 1
+      },
+      {
+        "q": "Who is coming?",
+        "opts": ["teacher", "prince", "doctor", "farmer"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Helping in a Problem Situation",
+    "prompt": "Describe how you would help in a difficult situation. Use words like contribute, protect, and cause.",
+    "example": "If there is a problem in my community, I will contribute to help people. I will try to protect others and understand the cause of the issue. I will stay calm and act wisely.",
+    "tips": [
+      "Use action words",
+      "Speak clearly",
+      "Give real-life example",
+      "Stay logical"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Village emergency discussion",
+    "steps": [
+      { "speaker": "app", "text": "What happened in the village?" },
+      { "speaker": "user", "prompt": "Explain the situation." },
+      { "speaker": "app", "text": "What will you do to help?" },
+      { "speaker": "user", "prompt": "Talk about contribution." },
+      { "speaker": "app", "text": "Who should we call?" },
+      { "speaker": "user", "prompt": "Mention experts or authority." }
+    ]
+  }
+}

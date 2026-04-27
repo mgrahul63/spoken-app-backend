@@ -1,0 +1,714 @@
+{
+  "day": 4,
+  "topic": "Science, Senses & Adventure",
+  "lessonId": "L0D4",
+  "vocabulary": [
+    {
+      "word": "adventure",
+      "phonetic": "/ədˈventʃər/",
+      "meaning": "An exciting and sometimes dangerous experience",
+      "bangla": "রোমাঞ্চকর অভিজ্ঞতা / অ্যাডভেঞ্চার",
+      "example": "Going into the old forest was a real adventure.",
+      "exampleBn": "পুরনো বনে যাওয়া একটি সত্যিকারের অ্যাডভেঞ্চার ছিল।"
+    },
+    {
+      "word": "approach",
+      "phonetic": "/əˈproʊtʃ/",
+      "meaning": "To come near to something or someone",
+      "bangla": "কাছে আসা / এগিয়ে যাওয়া",
+      "example": "She approached the strange door slowly.",
+      "exampleBn": "সে ধীরে ধীরে অদ্ভুত দরজাটির কাছে এগিয়ে গেল।"
+    },
+    {
+      "word": "carefully",
+      "phonetic": "/ˈkeərfəli/",
+      "meaning": "With great attention and caution",
+      "bangla": "সাবধানে / সতর্কতার সাথে",
+      "example": "He carefully opened the old box.",
+      "exampleBn": "সে সাবধানে পুরনো বাক্সটি খুলল।"
+    },
+    {
+      "word": "chemical",
+      "phonetic": "/ˈkemɪkl/",
+      "meaning": "A substance used in or made by chemistry",
+      "bangla": "রাসায়নিক পদার্থ",
+      "example": "Do not touch that chemical without gloves.",
+      "exampleBn": "গ্লাভস ছাড়া সেই রাসায়নিক পদার্থটি স্পর্শ করো না।"
+    },
+    {
+      "word": "create",
+      "phonetic": "/kriˈeɪt/",
+      "meaning": "To make or produce something new",
+      "bangla": "তৈরি করা / সৃষ্টি করা",
+      "example": "The scientist wanted to create a new medicine.",
+      "exampleBn": "বিজ্ঞানী একটি নতুন ওষুধ তৈরি করতে চাইলেন।"
+    },
+    {
+      "word": "evil",
+      "phonetic": "/ˈiːvl/",
+      "meaning": "Very bad or harmful",
+      "bangla": "দুষ্ট / মন্দ / খারাপ",
+      "example": "The evil plan was stopped in time.",
+      "exampleBn": "মন্দ পরিকল্পনাটি সময়মতো থামানো হয়েছিল।"
+    },
+    {
+      "word": "experiment",
+      "phonetic": "/ɪkˈsperɪmənt/",
+      "meaning": "A test done to discover or learn something",
+      "bangla": "পরীক্ষা-নিরীক্ষা / এক্সপেরিমেন্ট",
+      "example": "The students did an experiment with water and salt.",
+      "exampleBn": "শিক্ষার্থীরা পানি ও লবণ দিয়ে একটি পরীক্ষা-নিরীক্ষা করল।"
+    },
+    {
+      "word": "kill",
+      "phonetic": "/kɪl/",
+      "meaning": "To cause the death of something",
+      "bangla": "মেরে ফেলা / নষ্ট করা",
+      "example": "Too much water can kill a plant.",
+      "exampleBn": "অতিরিক্ত পানি একটি গাছ মেরে ফেলতে পারে।"
+    },
+    {
+      "word": "laboratory",
+      "phonetic": "/ləˈbɒrətri/",
+      "meaning": "A room where scientific work is done",
+      "bangla": "গবেষণাগার / ল্যাবরেটরি",
+      "example": "The scientist worked late in the laboratory.",
+      "exampleBn": "বিজ্ঞানী গবেষণাগারে দেরি পর্যন্ত কাজ করলেন।"
+    },
+    {
+      "word": "laugh",
+      "phonetic": "/læf/",
+      "meaning": "To make sounds showing you find something funny",
+      "bangla": "হাসা",
+      "example": "Everyone laughed at the funny story.",
+      "exampleBn": "মজার গল্পে সবাই হাসল।"
+    },
+    {
+      "word": "loud",
+      "phonetic": "/laʊd/",
+      "meaning": "Making a strong, big sound",
+      "bangla": "জোরে / উচ্চস্বরে",
+      "example": "There was a loud noise outside the door.",
+      "exampleBn": "দরজার বাইরে একটি জোরে শব্দ হলো।"
+    },
+    {
+      "word": "nervous",
+      "phonetic": "/ˈnɜːrvəs/",
+      "meaning": "Feeling worried or anxious",
+      "bangla": "নার্ভাস / উদ্বিগ্ন",
+      "example": "She felt nervous before the big test.",
+      "exampleBn": "বড় পরীক্ষার আগে সে নার্ভাস অনুভব করল।"
+    },
+    {
+      "word": "noise",
+      "phonetic": "/nɔɪz/",
+      "meaning": "An unpleasant or loud sound",
+      "bangla": "শব্দ / আওয়াজ",
+      "example": "What was that strange noise in the dark?",
+      "exampleBn": "অন্ধকারে সেই অদ্ভুত শব্দটি কী ছিল?"
+    },
+    {
+      "word": "project",
+      "phonetic": "/ˈprɒdʒekt/",
+      "meaning": "A planned piece of work with a goal",
+      "bangla": "প্রকল্প / কাজ",
+      "example": "Our science project took three weeks to finish.",
+      "exampleBn": "আমাদের বিজ্ঞান প্রকল্প শেষ করতে তিন সপ্তাহ লাগল।"
+    },
+    {
+      "word": "scare",
+      "phonetic": "/skeər/",
+      "meaning": "To make someone feel frightened",
+      "bangla": "ভয় দেখানো / ভয় পাওয়া",
+      "example": "The loud noise scared the baby.",
+      "exampleBn": "জোরে শব্দটি শিশুটিকে ভয় দেখাল।"
+    },
+    {
+      "word": "secret",
+      "phonetic": "/ˈsiːkrɪt/",
+      "meaning": "Something known only to a few people",
+      "bangla": "গোপন / রহস্য",
+      "example": "The old man had a secret room in his house.",
+      "exampleBn": "বৃদ্ধ লোকটির বাড়িতে একটি গোপন কক্ষ ছিল।"
+    },
+    {
+      "word": "shout",
+      "phonetic": "/ʃaʊt/",
+      "meaning": "To speak very loudly",
+      "bangla": "চিৎকার করা",
+      "example": "Do not shout inside the library.",
+      "exampleBn": "লাইব্রেরির ভেতরে চিৎকার করো না।"
+    },
+    {
+      "word": "smell",
+      "phonetic": "/smel/",
+      "meaning": "The odor that something gives off",
+      "bangla": "গন্ধ",
+      "example": "There was a strange smell coming from the laboratory.",
+      "exampleBn": "গবেষণাগার থেকে একটি অদ্ভুত গন্ধ আসছিল।"
+    },
+    {
+      "word": "terrible",
+      "phonetic": "/ˈterɪbl/",
+      "meaning": "Very bad or frightening",
+      "bangla": "ভয়ানক / খুব খারাপ",
+      "example": "The smell from the experiment was terrible.",
+      "exampleBn": "পরীক্ষা-নিরীক্ষা থেকে গন্ধটি ছিল ভয়ানক।"
+    },
+    {
+      "word": "worse",
+      "phonetic": "/wɜːrs/",
+      "meaning": "More bad than before",
+      "bangla": "আরও খারাপ",
+      "example": "The noise got worse as the night went on.",
+      "exampleBn": "রাত বাড়ার সাথে সাথে শব্দটি আরও খারাপ হয়ে গেল।"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go on an adventure",
+      "bangla": "অ্যাডভেঞ্চারে যাওয়া",
+      "usage": "Starting an exciting new experience",
+      "example": "The kids decided to go on an adventure in the forest."
+    },
+    {
+      "phrase": "approach carefully",
+      "bangla": "সাবধানে এগিয়ে যাওয়া",
+      "usage": "Moving close to something with caution",
+      "example": "She approached the animal carefully so it would not run."
+    },
+    {
+      "phrase": "do an experiment",
+      "bangla": "পরীক্ষা-নিরীক্ষা করা",
+      "usage": "Carrying out a scientific test",
+      "example": "We did an experiment to see what happens when you mix chemicals."
+    },
+    {
+      "phrase": "a secret laboratory",
+      "bangla": "গোপন গবেষণাগার",
+      "usage": "A lab that is hidden from others",
+      "example": "Nobody knew about the scientist's secret laboratory."
+    },
+    {
+      "phrase": "a terrible smell",
+      "bangla": "ভয়ানক গন্ধ",
+      "usage": "A very bad or strong odor",
+      "example": "There was a terrible smell when the chemical spilled."
+    },
+    {
+      "phrase": "get worse",
+      "bangla": "আরও খারাপ হওয়া",
+      "usage": "When a bad situation becomes more serious",
+      "example": "The noise kept getting worse and worse."
+    },
+    {
+      "phrase": "a loud noise",
+      "bangla": "একটি জোরে শব্দ",
+      "usage": "A sound that is very strong and clear",
+      "example": "A loud noise came from inside the room."
+    },
+    {
+      "phrase": "feel nervous",
+      "bangla": "নার্ভাস অনুভব করা",
+      "usage": "Feeling anxious or worried",
+      "example": "He felt nervous when he entered the dark room."
+    },
+    {
+      "phrase": "keep a secret",
+      "bangla": "গোপন রাখা",
+      "usage": "Not telling something to others",
+      "example": "Can you keep a secret? I found something strange."
+    },
+    {
+      "phrase": "shout out loud",
+      "bangla": "জোরে চিৎকার করা",
+      "usage": "Saying something with a very loud voice",
+      "example": "She shouted out loud when she saw the spider."
+    },
+    {
+      "phrase": "evil plan",
+      "bangla": "মন্দ পরিকল্পনা",
+      "usage": "A harmful or wicked scheme",
+      "example": "The villain had an evil plan to destroy the town."
+    },
+    {
+      "phrase": "create something new",
+      "bangla": "নতুন কিছু তৈরি করা",
+      "usage": "Making or inventing something original",
+      "example": "Scientists love to create something new every day."
+    },
+    {
+      "phrase": "science project",
+      "bangla": "বিজ্ঞান প্রকল্প",
+      "usage": "A school or class assignment about science",
+      "example": "Our science project was about chemical reactions."
+    },
+    {
+      "phrase": "scare someone",
+      "bangla": "কাউকে ভয় দেখানো",
+      "usage": "Making another person feel frightened",
+      "example": "He jumped out to scare his little brother."
+    },
+    {
+      "phrase": "laugh out loud",
+      "bangla": "জোরে হাসা",
+      "usage": "Laughing in a very obvious way",
+      "example": "The joke made everyone laugh out loud."
+    },
+    {
+      "phrase": "handle chemicals",
+      "bangla": "রাসায়নিক পদার্থ সামলানো",
+      "usage": "Working carefully with chemical substances",
+      "example": "Always handle chemicals carefully in the laboratory."
+    },
+    {
+      "phrase": "terrible idea",
+      "bangla": "ভয়ানক ধারণা",
+      "usage": "A very bad or risky plan",
+      "example": "Going inside without a light was a terrible idea."
+    },
+    {
+      "phrase": "kill the plan",
+      "bangla": "পরিকল্পনা নষ্ট করা",
+      "usage": "To stop or destroy a plan",
+      "example": "One mistake can kill the whole project."
+    },
+    {
+      "phrase": "make noise",
+      "bangla": "শব্দ করা",
+      "usage": "Producing sounds, often unwanted ones",
+      "example": "Please do not make noise in the laboratory."
+    },
+    {
+      "phrase": "worse than before",
+      "bangla": "আগের চেয়ে আরও খারাপ",
+      "usage": "Comparing a bad situation to an earlier one",
+      "example": "The smell was worse than before when we opened the door."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Going into the secret laboratory felt like a real adventure.",
+      "bn": "গোপন গবেষণাগারে প্রবেশ করা একটি সত্যিকারের অ্যাডভেঞ্চারের মতো মনে হলো।"
+    },
+    {
+      "en": "She approached the old door carefully because she was nervous.",
+      "bn": "সে সাবধানে পুরনো দরজার কাছে এগিয়ে গেল কারণ সে নার্ভাস ছিল।"
+    },
+    {
+      "en": "The scientist wanted to create a new chemical in his laboratory.",
+      "bn": "বিজ্ঞানী তার গবেষণাগারে একটি নতুন রাসায়নিক পদার্থ তৈরি করতে চাইলেন।"
+    },
+    {
+      "en": "There was a terrible smell coming from the experiment on the table.",
+      "bn": "টেবিলের উপরের পরীক্ষা-নিরীক্ষা থেকে একটি ভয়ানক গন্ধ আসছিল।"
+    },
+    {
+      "en": "The loud noise from inside the room began to scare everyone.",
+      "bn": "ঘরের ভেতর থেকে জোরে শব্দ সবাইকে ভয় দেখাতে শুরু করল।"
+    },
+    {
+      "en": "The evil scientist kept his project a secret from the whole town.",
+      "bn": "মন্দ বিজ্ঞানী পুরো শহর থেকে তার প্রকল্পটি গোপন রাখলেন।"
+    },
+    {
+      "en": "Do not shout in the laboratory — handle all chemicals carefully.",
+      "bn": "গবেষণাগারে চিৎকার করো না — সব রাসায়নিক পদার্থ সাবধানে সামলাও।"
+    },
+    {
+      "en": "The noise got worse when the chemical experiment went wrong.",
+      "bn": "রাসায়নিক পরীক্ষা-নিরীক্ষা ভুল হয়ে গেলে শব্দ আরও খারাপ হয়ে গেল।"
+    },
+    {
+      "en": "Too much of a bad chemical can kill a plant or make it worse.",
+      "bn": "খুব বেশি খারাপ রাসায়নিক পদার্থ একটি গাছ মেরে ফেলতে পারে বা আরও খারাপ করতে পারে।"
+    },
+    {
+      "en": "The children laughed when they heard the terrible smell joke.",
+      "bn": "ভয়ানক গন্ধের মজার গল্প শুনে শিশুরা হাসল।"
+    },
+    {
+      "en": "He felt very nervous as he approached the secret door in the dark.",
+      "bn": "অন্ধকারে গোপন দরজার কাছে এগিয়ে যাওয়ার সময় সে খুব নার্ভাস অনুভব করল।"
+    },
+    {
+      "en": "The science project was an adventure — they had to create something from nothing.",
+      "bn": "বিজ্ঞান প্রকল্পটি একটি অ্যাডভেঞ্চার ছিল — তাদের শূন্য থেকে কিছু তৈরি করতে হয়েছিল।"
+    },
+    {
+      "en": "She shouted loudly when she saw the evil figure approach the window.",
+      "bn": "সে জোরে চিৎকার করল যখন দেখল মন্দ ছায়াটি জানালার কাছে এগিয়ে আসছে।"
+    },
+    {
+      "en": "The smell from the chemical was so terrible that it could scare anyone away.",
+      "bn": "রাসায়নিক পদার্থের গন্ধ এতটাই ভয়ানক ছিল যে এটি যে কাউকে ভয় দেখিয়ে তাড়িয়ে দিতে পারত।"
+    },
+    {
+      "en": "They carefully read all the steps before starting the experiment.",
+      "bn": "পরীক্ষা-নিরীক্ষা শুরু করার আগে তারা সাবধানে সব ধাপ পড়ল।"
+    },
+    {
+      "en": "The adventure became worse when they heard a loud noise deep inside the cave.",
+      "bn": "গুহার গভীরে জোরে শব্দ শুনলে অ্যাডভেঞ্চারটি আরও খারাপ হয়ে গেল।"
+    },
+    {
+      "en": "It was a terrible idea to laugh at someone else's hard work on a project.",
+      "bn": "অন্য কারো প্রকল্পের কঠোর পরিশ্রমে হাসা একটি ভয়ানক ধারণা ছিল।"
+    },
+    {
+      "en": "The secret experiment in the laboratory was meant to create, not to kill.",
+      "bn": "গবেষণাগারের গোপন পরীক্ষা-নিরীক্ষাটি তৈরি করার জন্য ছিল, মেরে ফেলার জন্য নয়।"
+    },
+    {
+      "en": "She was nervous but she still approached the noise carefully to see what it was.",
+      "bn": "সে নার্ভাস ছিল কিন্তু তবুও সে সাবধানে শব্দটির কাছে এগিয়ে গেল দেখতে যে এটি কী।"
+    },
+    {
+      "en": "Everyone laughed when the evil plan failed and the project was finally safe.",
+      "bn": "মন্দ পরিকল্পনা ব্যর্থ হলে এবং প্রকল্পটি অবশেষে নিরাপদ হলে সবাই হাসল।"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does 'laboratory' mean in Bangla?",
+      "opts": ["শ্রেণিকক্ষ", "গবেষণাগার", "পাঠাগার", "হাসপাতাল"],
+      "ans": 1,
+      "explanation": "'Laboratory' is a room where scientific work and experiments are done — গবেষণাগার।"
+    },
+    {
+      "q": "Which word means 'ভয় দেখানো'?",
+      "opts": ["laugh", "shout", "scare", "approach"],
+      "ans": 2,
+      "explanation": "'Scare' means to make someone feel frightened — ভয় দেখানো।"
+    },
+    {
+      "q": "Choose the correct sentence:",
+      "opts": [
+        "She approached the door loud.",
+        "She approached the door carefully.",
+        "She carefully approach the door.",
+        "She approach carefully the door."
+      ],
+      "ans": 1,
+      "explanation": "'Carefully' is an adverb and goes after the verb. 'She approached the door carefully' is correct."
+    },
+    {
+      "q": "What does 'worse' mean in Bangla?",
+      "opts": ["ভালো", "একই রকম", "আরও খারাপ", "সেরা"],
+      "ans": 2,
+      "explanation": "'Worse' means more bad than before — আরও খারাপ।"
+    },
+    {
+      "q": "Fill in the blank: 'Do not touch that ____ without gloves.'",
+      "opts": ["adventure", "project", "chemical", "noise"],
+      "ans": 2,
+      "explanation": "'Chemical' refers to a substance used in chemistry. Always handle chemicals safely."
+    },
+    {
+      "q": "Translate: 'বিজ্ঞানী গোপনে একটি পরীক্ষা-নিরীক্ষা করলেন।'",
+      "opts": [
+        "The scientist did a secret experiment.",
+        "The scientist shouted at the experiment.",
+        "The scientist killed the secret.",
+        "The scientist laughed at the project."
+      ],
+      "ans": 0,
+      "explanation": "'Secret' = গোপন, 'experiment' = পরীক্ষা-নিরীক্ষা, 'scientist' = বিজ্ঞানী।"
+    },
+    {
+      "q": "Which word means 'সৃষ্টি করা / তৈরি করা'?",
+      "opts": ["kill", "create", "scare", "shout"],
+      "ans": 1,
+      "explanation": "'Create' means to make or produce something new — তৈরি করা।"
+    },
+    {
+      "q": "What is a 'project'?",
+      "opts": [
+        "A type of chemical",
+        "A loud noise",
+        "A planned piece of work with a goal",
+        "A secret smell"
+      ],
+      "ans": 2,
+      "explanation": "A 'project' is a planned piece of work done to achieve a goal — প্রকল্প।"
+    },
+    {
+      "q": "Choose the correct use of 'nervous':",
+      "opts": [
+        "The noise was nervous.",
+        "He felt nervous before the experiment.",
+        "She nervous the laboratory.",
+        "They nervous and loud."
+      ],
+      "ans": 1,
+      "explanation": "'Nervous' is an adjective used with 'feel'. 'He felt nervous' is correct."
+    },
+    {
+      "q": "What does 'evil' mean?",
+      "opts": ["দয়ালু", "সুন্দর", "মন্দ / খারাপ", "চালাক"],
+      "ans": 2,
+      "explanation": "'Evil' means very bad or harmful — মন্দ / খারাপ।"
+    },
+    {
+      "q": "Which phrase means 'ভয়ানক গন্ধ'?",
+      "opts": [
+        "a loud noise",
+        "a terrible smell",
+        "an evil plan",
+        "a secret project"
+      ],
+      "ans": 1,
+      "explanation": "'A terrible smell' means a very bad odor — ভয়ানক গন্ধ।"
+    },
+    {
+      "q": "Fill in: 'Please do not ____ in the laboratory.'",
+      "opts": ["laugh out loud", "make noise", "shout", "all of the above"],
+      "ans": 3,
+      "explanation": "All three — laughing loudly, making noise, and shouting — are inappropriate in a lab."
+    },
+    {
+      "q": "Translate: 'শব্দটি আরও খারাপ হয়ে গেল।'",
+      "opts": [
+        "The noise got better.",
+        "The smell was terrible.",
+        "The noise got worse.",
+        "The sound was loud before."
+      ],
+      "ans": 2,
+      "explanation": "'Got worse' = আরও খারাপ হয়ে গেল। Correct translation is 'The noise got worse.'"
+    },
+    {
+      "q": "What does 'approach' mean?",
+      "opts": ["দূরে যাওয়া", "কাছে আসা", "শব্দ করা", "গোপন রাখা"],
+      "ans": 1,
+      "explanation": "'Approach' means to come near something or someone — কাছে আসা।"
+    },
+    {
+      "q": "Which is correct?",
+      "opts": [
+        "The smell kill the plant.",
+        "Too much chemical can kill a plant.",
+        "The plant killed chemical.",
+        "Chemical kill is terrible."
+      ],
+      "ans": 1,
+      "explanation": "'Kill' needs a subject. 'Too much chemical can kill a plant' is grammatically correct."
+    },
+    {
+      "q": "What does 'adventure' mean in Bangla?",
+      "opts": [
+        "বিপদ",
+        "রোমাঞ্চকর অভিজ্ঞতা",
+        "গোপন পরিকল্পনা",
+        "পরীক্ষা-নিরীক্ষা"
+      ],
+      "ans": 1,
+      "explanation": "'Adventure' is an exciting and sometimes risky experience — রোমাঞ্চকর অভিজ্ঞতা।"
+    },
+    {
+      "q": "Choose the correct sentence about 'shout':",
+      "opts": [
+        "She shouted carefully in the library.",
+        "He shouted loud when he was scared.",
+        "They shout the chemical.",
+        "Shout is a terrible smell."
+      ],
+      "ans": 1,
+      "explanation": "'Shout' means to speak very loudly. 'He shouted loud when scared' is correct usage."
+    },
+    {
+      "q": "What does 'secret' mean?",
+      "opts": ["সবার জানা", "গোপন", "জোরে", "ভয়ানক"],
+      "ans": 1,
+      "explanation": "'Secret' means something known only to a few people — গোপন।"
+    },
+    {
+      "q": "Translate: 'পরীক্ষা-নিরীক্ষা ভুল হওয়ায় সবাই নার্ভাস হয়ে গেল।'",
+      "opts": [
+        "The experiment went well and everyone laughed.",
+        "Everyone felt nervous because the experiment went wrong.",
+        "The project was secret and terrible.",
+        "They shouted because the smell was loud."
+      ],
+      "ans": 1,
+      "explanation": "'Nervous' = নার্ভাস, 'went wrong' = ভুল হওয়া। Option B is the correct translation."
+    },
+    {
+      "q": "Which word best fills: 'She _____ out loud when she saw the spider.'?",
+      "opts": ["approached", "laughed", "killed", "created"],
+      "ans": 1,
+      "explanation": "'Laughed out loud' is a common phrase for reacting to something funny or surprising."
+    }
+  ],
+  "story": {
+    "title": "The Secret in the Old Laboratory",
+    "body": "Rafi and his friend Mou loved going on adventures after school. One afternoon, they found an old building near their school that no one talked about. The door was locked and the windows were dark.\n\n'What is this place?' asked Mou. She felt nervous but also excited.\n\n'I do not know,' replied Rafi. 'But look — the door is open a little. Let us approach carefully.'\n\nThey pushed the door open slowly. Inside, it was dark and cold. There was a terrible smell — like old chemicals and wet paper.\n\n'This must be a laboratory!' whispered Mou. 'Look at all those bottles and tables!'\n\nOn the wall, there was a sign that said: SECRET PROJECT — DO NOT ENTER.\n\nRafi felt nervous. 'Maybe this was someone's experiment room,' he said.\n\nSuddenly, a loud noise came from the back of the room. Bang! Bang!\n\nBoth of them stopped. Mou grabbed Rafi's arm. 'That noise scared me!' she whispered.\n\nRafi carefully picked up a flashlight from the table and approached the noise. The sound got worse — louder and closer.\n\nThen they saw it. A small cat was stuck inside a cupboard, hitting the door with its paws!\n\nMou laughed out loud. 'It is just a cat! I was so scared for nothing!'\n\nRafi opened the cupboard and the cat ran out. It smelled the chemical bottles carefully and then sneezed.\n\n'Even the cat thinks the smell is terrible!' said Rafi. They both laughed.\n\nThey looked around the old laboratory. There were notes on the wall about plants and water. The secret project was not evil at all — it was an experiment to create a new kind of plant food.\n\n'This is actually a wonderful project,' said Mou. 'Someone was trying to create something good, not something evil.'\n\n'I agree,' said Rafi. 'But the terrible smell might kill any plant that comes near it!'\n\nThey laughed again and carefully closed the door behind them as they left.\n\nThe next day, they told their science teacher about the laboratory. She was very pleased. She said it was an old school project from many years ago.\n\n'Can we continue it?' asked Mou excitedly.\n\n'Of course!' said the teacher. 'But first — we must fix that terrible smell!'\n\nEveryone in the class laughed out loud. And so, what started as a scary adventure became the best science project their school had ever seen.",
+    "comprehension": [
+      {
+        "q": "Why did Rafi and Mou feel nervous when they entered the building?",
+        "opts": [
+          "Because they heard someone shout.",
+          "Because it was dark, cold, and had a terrible smell.",
+          "Because the evil scientist was inside.",
+          "Because the chemical experiment was running."
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What was making the loud noise inside the laboratory?",
+        "opts": [
+          "A chemical experiment.",
+          "An evil project machine.",
+          "A small cat stuck in a cupboard.",
+          "Someone shouting from outside."
+        ],
+        "ans": 2
+      },
+      {
+        "q": "What was the secret project actually about?",
+        "opts": [
+          "Creating an evil chemical to kill plants.",
+          "Making a loud noise machine.",
+          "An experiment to create a new kind of plant food.",
+          "A project to scare people away."
+        ],
+        "ans": 2
+      },
+      {
+        "q": "What did the teacher say they must fix first?",
+        "opts": [
+          "The broken door of the laboratory.",
+          "The terrible smell in the laboratory.",
+          "The evil sign on the wall.",
+          "The loud noise from the cupboard."
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "adventure",
+      "approach",
+      "carefully",
+      "chemical",
+      "create",
+      "evil",
+      "experiment",
+      "kill",
+      "laboratory",
+      "laugh",
+      "loud",
+      "nervous",
+      "noise",
+      "project",
+      "scare",
+      "secret",
+      "shout",
+      "smell",
+      "terrible",
+      "worse"
+    ]
+  },
+  "listening": {
+    "title": "The Science Fair Disaster",
+    "script": "Teacher: 'Okay class, listen carefully. Tomorrow is the science fair. Is everyone ready with their projects?'\n\nStudent 1 — Tara: 'Yes, Miss! Our project is about chemicals in everyday food. We did the experiment three times to make sure.'\n\nTeacher: 'Wonderful! And you, Jonaid — how is your project?'\n\nStudent 2 — Jonaid: 'Well... it is a little worse than before, Miss. Something went wrong with my experiment and now there is a terrible smell.'\n\nTeacher: 'Oh no! What happened?'\n\nJonaid: 'I was trying to create a new plant food in my home laboratory. But I mixed the wrong chemicals. The smell is so bad it scares my cat away!'\n\n(Everyone laughs out loud)\n\nTeacher: 'Jonaid! You must handle chemicals carefully! That is very important. Did anything get damaged?'\n\nJonaid: 'No, Miss. But the noise was so loud when the bottle burst — my mother came running and started to shout!'\n\n(More laughter)\n\nTeacher: 'I am nervous about your project now. But I am pleased nothing serious happened. This is a good lesson — science is an adventure, but safety comes first. No evil experiments allowed!'\n\nTara: 'Can Jonaid still join the science fair, Miss?'\n\nTeacher: 'Yes — but Jonaid, please keep the smelly project a secret from the judges. Deal?'\n\nJonaid: 'Deal! I promise, Miss!'",
+    "comprehension": [
+      {
+        "q": "What went wrong with Jonaid's experiment?",
+        "opts": [
+          "He mixed the wrong chemicals and created a terrible smell.",
+          "He was too nervous to finish the project.",
+          "He shouted at his teacher about the project.",
+          "His cat destroyed the laboratory."
+        ],
+        "ans": 0
+      },
+      {
+        "q": "Why did Jonaid's mother come running?",
+        "opts": [
+          "Because the smell was terrible.",
+          "Because of the loud noise when the bottle burst.",
+          "Because Jonaid was scared.",
+          "Because the teacher called her."
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did the teacher say about safety?",
+        "opts": [
+          "Safety is not important in science.",
+          "Science is evil and dangerous.",
+          "Science is an adventure but safety comes first.",
+          "Always shout when something goes wrong."
+        ],
+        "ans": 2
+      },
+      {
+        "q": "What did the teacher ask Jonaid to keep secret?",
+        "opts": [
+          "The name of the experiment.",
+          "The smelly project from the judges.",
+          "The terrible noise from the class.",
+          "The chemicals he used."
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a Scary or Exciting Experience",
+    "prompt": "Think of a time you went somewhere new or did something exciting that also made you nervous. What did you see, hear, or smell? What happened? Use words like: adventure, nervous, loud, terrible, carefully, scare, finally.",
+    "example": "One day, my friends and I went on an adventure to an old park near our house. When we arrived, everything was quiet. Then we heard a loud noise from behind the trees. I felt very nervous. We approached carefully. The smell from the wet ground was terrible. For a moment, I wanted to run! But finally, we saw it was just a big bird. We laughed out loud and felt much better. It was a scary adventure — but also really fun!",
+    "tips": [
+      "Start with 'One day...' or 'Last year...' to set the scene",
+      "Use 'loud', 'terrible smell', 'nervous' to describe the scary part",
+      "Use 'carefully' and 'approach' when you move closer to something",
+      "Use 'finally' and 'laugh' to show how it ended",
+      "Try to use at least 6 words from today's lesson"
+    ]
+  },
+  "conversation": {
+    "scenario": "Two students talk about their science fair project that went wrong",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Hey! How is your science project going? Is everything okay?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Say it did not go well. Something went wrong with your experiment."
+      },
+      {
+        "speaker": "app",
+        "text": "Oh no! What happened? Was there a terrible smell or a loud noise?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Describe what went wrong — use 'smell', 'noise', or 'chemical'."
+      },
+      {
+        "speaker": "app",
+        "text": "That sounds terrible! Did it scare you? I would have shouted!"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Say how you felt — nervous, scared — and what you did."
+      },
+      {
+        "speaker": "app",
+        "text": "You approached it carefully? That was smart! So is the project worse now or can you still fix it?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Say you think you can fix it and create something better for the project."
+      },
+      {
+        "speaker": "app",
+        "text": "Great! Science is always an adventure. Keep your plan a secret — and good luck!"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Thank your friend and promise to show them the final project."
+      }
+    ]
+  }
+}

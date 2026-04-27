@@ -1,0 +1,685 @@
+{
+  "day": 3,
+  "topic": "Emotions, Actions & Storytelling",
+  "lessonId": "L0D3",
+  "vocabulary": [
+    {
+      "word": "afraid",
+      "phonetic": "/əˈfreɪd/",
+      "meaning": "Feeling fear or worry",
+      "bangla": "ভয় পাওয়া",
+      "example": "The child was afraid of the dark.",
+      "exampleBn": "শিশুটি অন্ধকারে ভয় পাচ্ছিল।"
+    },
+    {
+      "word": "agree",
+      "phonetic": "/əˈɡriː/",
+      "meaning": "To have the same opinion",
+      "bangla": "একমত হওয়া",
+      "example": "I agree with your idea.",
+      "exampleBn": "আমি তোমার ধারণার সাথে একমত।"
+    },
+    {
+      "word": "angry",
+      "phonetic": "/ˈæŋɡri/",
+      "meaning": "Feeling strong displeasure",
+      "bangla": "রাগান্বিত",
+      "example": "She was angry when she lost her book.",
+      "exampleBn": "যখন সে তার বই হারিয়ে ফেলল, সে রাগান্বিত হলো।"
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meaning": "To reach a place",
+      "bangla": "পৌঁছানো",
+      "example": "We will arrive at school by 8 AM.",
+      "exampleBn": "আমরা সকাল ৮টার মধ্যে স্কুলে পৌঁছাব।"
+    },
+    {
+      "word": "attack",
+      "phonetic": "/əˈtæk/",
+      "meaning": "To act against someone with force",
+      "bangla": "আক্রমণ করা",
+      "example": "The wolf tried to attack the sheep.",
+      "exampleBn": "নেকড়েটি ভেড়াটিকে আক্রমণ করার চেষ্টা করল।"
+    },
+    {
+      "word": "bottom",
+      "phonetic": "/ˈbɒtəm/",
+      "meaning": "The lowest part of something",
+      "bangla": "নিচের অংশ",
+      "example": "The key was at the bottom of the bag.",
+      "exampleBn": "চাবিটি ব্যাগের নিচে ছিল।"
+    },
+    {
+      "word": "clever",
+      "phonetic": "/ˈklevər/",
+      "meaning": "Quick to understand or learn",
+      "bangla": "চালাক / বুদ্ধিমান",
+      "example": "The clever boy solved the puzzle fast.",
+      "exampleBn": "চালাক ছেলেটি দ্রুত ধাঁধাটি সমাধান করল।"
+    },
+    {
+      "word": "cruel",
+      "phonetic": "/ˈkruːəl/",
+      "meaning": "Causing pain without care",
+      "bangla": "নিষ্ঠুর",
+      "example": "It is cruel to hurt animals.",
+      "exampleBn": "প্রাণীদের কষ্ট দেওয়া নিষ্ঠুর।"
+    },
+    {
+      "word": "finally",
+      "phonetic": "/ˈfaɪnəli/",
+      "meaning": "At the end, after a long time",
+      "bangla": "অবশেষে",
+      "example": "We finally found the lost cat.",
+      "exampleBn": "আমরা অবশেষে হারানো বিড়ালটি খুঁজে পেলাম।"
+    },
+    {
+      "word": "hide",
+      "phonetic": "/haɪd/",
+      "meaning": "To go where you cannot be seen",
+      "bangla": "লুকানো",
+      "example": "The rabbit hid behind the tree.",
+      "exampleBn": "খরগোশটি গাছের পেছনে লুকিয়ে গেল।"
+    },
+    {
+      "word": "hunt",
+      "phonetic": "/hʌnt/",
+      "meaning": "To chase and catch animals",
+      "bangla": "শিকার করা",
+      "example": "The fox hunts small animals.",
+      "exampleBn": "শিয়ালটি ছোট প্রাণী শিকার করে।"
+    },
+    {
+      "word": "lot",
+      "phonetic": "/lɒt/",
+      "meaning": "A large amount or number",
+      "bangla": "অনেক",
+      "example": "There were a lot of birds in the tree.",
+      "exampleBn": "গাছে অনেক পাখি ছিল।"
+    },
+    {
+      "word": "middle",
+      "phonetic": "/ˈmɪdl/",
+      "meaning": "The center point",
+      "bangla": "মাঝখান",
+      "example": "She sat in the middle of the room.",
+      "exampleBn": "সে ঘরের মাঝখানে বসল।"
+    },
+    {
+      "word": "moment",
+      "phonetic": "/ˈmoʊmənt/",
+      "meaning": "A very short time",
+      "bangla": "মুহূর্ত",
+      "example": "Wait a moment, I will be right back.",
+      "exampleBn": "একটু অপেক্ষা করো, আমি এখনই আসছি।"
+    },
+    {
+      "word": "pleased",
+      "phonetic": "/pliːzd/",
+      "meaning": "Feeling happy and satisfied",
+      "bangla": "খুশি / সন্তুষ্ট",
+      "example": "The teacher was pleased with my work.",
+      "exampleBn": "শিক্ষক আমার কাজে সন্তুষ্ট ছিলেন।"
+    },
+    {
+      "word": "promise",
+      "phonetic": "/ˈprɒmɪs/",
+      "meaning": "To say you will definitely do something",
+      "bangla": "প্রতিশ্রুতি দেওয়া",
+      "example": "I promise I will not be late.",
+      "exampleBn": "আমি প্রতিশ্রুতি দিচ্ছি আমি দেরি করব না।"
+    },
+    {
+      "word": "reply",
+      "phonetic": "/rɪˈplaɪ/",
+      "meaning": "To answer or respond",
+      "bangla": "উত্তর দেওয়া",
+      "example": "She did not reply to my message.",
+      "exampleBn": "সে আমার বার্তার উত্তর দেয়নি।"
+    },
+    {
+      "word": "safe",
+      "phonetic": "/seɪf/",
+      "meaning": "Not in danger",
+      "bangla": "নিরাপদ",
+      "example": "Stay inside. It is safe here.",
+      "exampleBn": "ভেতরে থাকো। এখানে নিরাপদ।"
+    },
+    {
+      "word": "trick",
+      "phonetic": "/trɪk/",
+      "meaning": "A clever plan to deceive someone",
+      "bangla": "কৌশল / ফাঁদ",
+      "example": "The fox used a trick to escape.",
+      "exampleBn": "শিয়ালটি পালাতে একটি কৌশল ব্যবহার করল।"
+    },
+    {
+      "word": "well",
+      "phonetic": "/wɛl/",
+      "meaning": "In a good or healthy way",
+      "bangla": "ভালোভাবে / সুস্থ",
+      "example": "He did very well in the exam.",
+      "exampleBn": "সে পরীক্ষায় খুব ভালো করেছে।"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a lot of",
+      "bangla": "অনেক / প্রচুর",
+      "usage": "Describing a large amount",
+      "example": "There were a lot of people at the market."
+    },
+    {
+      "phrase": "in the middle of",
+      "bangla": "মাঝখানে / মধ্যে",
+      "usage": "Describing the center of something",
+      "example": "He stopped in the middle of the road."
+    },
+    {
+      "phrase": "at the bottom of",
+      "bangla": "নিচের দিকে / একদম নিচে",
+      "usage": "Describing the lowest part",
+      "example": "The treasure was at the bottom of the river."
+    },
+    {
+      "phrase": "for a moment",
+      "bangla": "এক মুহূর্তের জন্য",
+      "usage": "Describing a very short time",
+      "example": "She stopped for a moment and listened."
+    },
+    {
+      "phrase": "I promise",
+      "bangla": "আমি প্রতিশ্রুতি দিচ্ছি",
+      "usage": "Giving a strong personal guarantee",
+      "example": "I promise I will keep your secret."
+    },
+    {
+      "phrase": "feel safe",
+      "bangla": "নিরাপদ অনুভব করা",
+      "usage": "Describing a feeling of security",
+      "example": "I always feel safe at home."
+    },
+    {
+      "phrase": "I agree",
+      "bangla": "আমি একমত",
+      "usage": "Showing you share someone's opinion",
+      "example": "I agree. We should leave now."
+    },
+    {
+      "phrase": "finally arrived",
+      "bangla": "অবশেষে পৌঁছালো",
+      "usage": "After waiting or a long journey",
+      "example": "After two hours, they finally arrived."
+    },
+    {
+      "phrase": "use a trick",
+      "bangla": "কৌশল ব্যবহার করা",
+      "usage": "Using a clever plan",
+      "example": "The rabbit used a trick to fool the fox."
+    },
+    {
+      "phrase": "did well",
+      "bangla": "ভালো করেছে",
+      "usage": "Praising someone's performance",
+      "example": "You did very well today. I am pleased!"
+    },
+    {
+      "phrase": "hide and seek",
+      "bangla": "লুকোচুরি খেলা",
+      "usage": "A common children's game",
+      "example": "The kids played hide and seek in the garden."
+    },
+    {
+      "phrase": "go hunting",
+      "bangla": "শিকারে যাওয়া",
+      "usage": "Leaving to hunt for food or game",
+      "example": "The lion went hunting at night."
+    },
+    {
+      "phrase": "reply quickly",
+      "bangla": "দ্রুত উত্তর দেওয়া",
+      "usage": "Responding without delay",
+      "example": "Please reply quickly. It is urgent."
+    },
+    {
+      "phrase": "felt angry",
+      "bangla": "রাগ অনুভব করল",
+      "usage": "Describing past feeling of anger",
+      "example": "He felt angry when no one replied."
+    },
+    {
+      "phrase": "was afraid of",
+      "bangla": "ভয় পাচ্ছিল",
+      "usage": "Describing fear of something specific",
+      "example": "She was afraid of the big dog."
+    },
+    {
+      "phrase": "not cruel",
+      "bangla": "নিষ্ঠুর নয়",
+      "usage": "Saying someone is kind, not mean",
+      "example": "He is not cruel — he is kind."
+    },
+    {
+      "phrase": "be clever",
+      "bangla": "চালাক হওয়া",
+      "usage": "Advising someone to think smart",
+      "example": "Be clever and use your time well."
+    },
+    {
+      "phrase": "attack first",
+      "bangla": "আগে আক্রমণ করা",
+      "usage": "Making the first move against someone",
+      "example": "The dog did not attack first."
+    },
+    {
+      "phrase": "pleased to hear",
+      "bangla": "শুনে খুশি হলাম",
+      "usage": "Showing happiness about news",
+      "example": "I am pleased to hear you are safe."
+    },
+    {
+      "phrase": "at that moment",
+      "bangla": "ঠিক সেই মুহূর্তে",
+      "usage": "At a specific point in time",
+      "example": "At that moment, everyone stopped talking."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The little rabbit was afraid of the wolf that hunted in the forest.",
+      "bn": "ছোট্ট খরগোশটি বনে শিকার করা নেকড়েকে ভয় পেত।"
+    },
+    {
+      "en": "She hid at the bottom of the hill and waited for a moment.",
+      "bn": "সে পাহাড়ের নিচে লুকিয়ে গেল এবং এক মুহূর্ত অপেক্ষা করল।"
+    },
+    {
+      "en": "The cruel hunter tried to attack the deer in the middle of the night.",
+      "bn": "নিষ্ঠুর শিকারি মধ্যরাতে হরিণটিকে আক্রমণ করার চেষ্টা করল।"
+    },
+    {
+      "en": "The clever fox used a trick so that it could stay safe.",
+      "bn": "চালাক শিয়ালটি একটি কৌশল ব্যবহার করল যাতে সে নিরাপদ থাকতে পারে।"
+    },
+    {
+      "en": "I promise I will arrive before the middle of the day.",
+      "bn": "আমি প্রতিশ্রুতি দিচ্ছি যে আমি দুপুরের আগে পৌঁছাব।"
+    },
+    {
+      "en": "He was angry because a lot of people did not reply to him.",
+      "bn": "সে রাগান্বিত ছিল কারণ অনেক মানুষ তাকে উত্তর দেয়নি।"
+    },
+    {
+      "en": "The mother was pleased when her child finally arrived home safe.",
+      "bn": "মা খুশি হলেন যখন তার সন্তান অবশেষে নিরাপদে বাড়ি পৌঁছাল।"
+    },
+    {
+      "en": "I agree that we should hide and wait for the right moment.",
+      "bn": "আমি একমত যে আমাদের লুকিয়ে থাকা উচিত এবং সঠিক মুহূর্তের জন্য অপেক্ষা করা উচিত।"
+    },
+    {
+      "en": "She did very well and everyone agreed she was clever.",
+      "bn": "সে খুব ভালো করল এবং সবাই একমত হলো যে সে চালাক।"
+    },
+    {
+      "en": "The kind man replied quickly and promised to help the afraid child.",
+      "bn": "দয়ালু লোকটি দ্রুত উত্তর দিল এবং ভয় পাওয়া শিশুটিকে সাহায্য করার প্রতিশ্রুতি দিল।"
+    },
+    {
+      "en": "It is cruel to hunt animals just for fun.",
+      "bn": "শুধু মজার জন্য প্রাণী শিকার করা নিষ্ঠুর।"
+    },
+    {
+      "en": "The fox waited at the bottom of the tree and used a clever trick.",
+      "bn": "শিয়ালটি গাছের নিচে অপেক্ষা করল এবং একটি চালাক কৌশল ব্যবহার করল।"
+    },
+    {
+      "en": "At that moment, he felt angry but tried to stay well and calm.",
+      "bn": "সেই মুহূর্তে, সে রাগ অনুভব করল কিন্তু সুস্থ ও শান্ত থাকার চেষ্টা করল।"
+    },
+    {
+      "en": "A lot of animals hide in the middle of the forest to stay safe.",
+      "bn": "অনেক প্রাণী নিরাপদ থাকতে বনের মাঝখানে লুকিয়ে থাকে।"
+    },
+    {
+      "en": "Finally, the brave girl arrived and everyone was pleased to see her well.",
+      "bn": "অবশেষে, সাহসী মেয়েটি পৌঁছাল এবং সবাই তাকে সুস্থ দেখে খুশি হলো।"
+    },
+    {
+      "en": "The wolf was angry because the rabbit used a trick to hide from it.",
+      "bn": "নেকড়েটি রাগান্বিত ছিল কারণ খরগোশটি তার কাছ থেকে লুকাতে একটি কৌশল ব্যবহার করেছিল।"
+    },
+    {
+      "en": "Be clever and do not be afraid — reply with confidence.",
+      "bn": "চালাক হও এবং ভয় পেও না — আত্মবিশ্বাসের সাথে উত্তর দাও।"
+    },
+    {
+      "en": "She promised to attack the problem well, not in a cruel way.",
+      "bn": "সে প্রতিশ্রুতি দিল যে সমস্যাটি ভালোভাবে মোকাবেলা করবে, নিষ্ঠুরভাবে নয়।"
+    },
+    {
+      "en": "For a moment, he agreed to stay at the bottom and not move.",
+      "bn": "এক মুহূর্তের জন্য, সে নিচে থাকতে এবং না নড়তে সম্মত হলো।"
+    },
+    {
+      "en": "I am pleased that you are safe — you did very well today!",
+      "bn": "আমি খুশি যে তুমি নিরাপদ আছ — তুমি আজ খুব ভালো করেছ!"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which word means 'বুদ্ধিমান / চালাক'?",
+      "opts": ["cruel", "clever", "afraid", "angry"],
+      "ans": 1,
+      "explanation": "'Clever' means quick to understand or learn — বুদ্ধিমান।"
+    },
+    {
+      "q": "What does 'arrive' mean in Bangla?",
+      "opts": ["চলে যাওয়া", "লুকানো", "পৌঁছানো", "শিকার করা"],
+      "ans": 2,
+      "explanation": "'Arrive' means to reach a place — পৌঁছানো।"
+    },
+    {
+      "q": "Choose the correct sentence:",
+      "opts": [
+        "She hid in the middle of the forest safe.",
+        "She hided at the bottom of the hill.",
+        "She hid at the bottom of the hill.",
+        "She hiding at the bottom."
+      ],
+      "ans": 2,
+      "explanation": "Past tense of 'hide' is 'hid'. The correct form is 'She hid at the bottom of the hill.'"
+    },
+    {
+      "q": "What does 'cruel' mean?",
+      "opts": ["দয়ালু", "নিষ্ঠুর", "ভয়ঙ্কর", "সুন্দর"],
+      "ans": 1,
+      "explanation": "'Cruel' means causing pain without care — নিষ্ঠুর।"
+    },
+    {
+      "q": "Fill in the blank: 'Wait a ____. I will be right back.'",
+      "opts": ["lot", "trick", "moment", "bottom"],
+      "ans": 2,
+      "explanation": "'Moment' means a very short time. 'Wait a moment' is a common phrase."
+    },
+    {
+      "q": "Translate: 'অবশেষে সে নিরাপদে পৌঁছাল।'",
+      "opts": [
+        "He arrived safe for a moment.",
+        "Finally, he arrived safe.",
+        "He was safe and agreed.",
+        "He hid and arrived finally."
+      ],
+      "ans": 1,
+      "explanation": "'Finally' = অবশেষে, 'arrived' = পৌঁছাল, 'safe' = নিরাপদে।"
+    },
+    {
+      "q": "Which phrase means 'কৌশল ব্যবহার করা'?",
+      "opts": ["feel safe", "use a trick", "reply quickly", "did well"],
+      "ans": 1,
+      "explanation": "'Use a trick' means to apply a clever plan — কৌশল ব্যবহার করা।"
+    },
+    {
+      "q": "What is the opposite of 'safe'?",
+      "opts": ["pleased", "clever", "dangerous", "well"],
+      "ans": 2,
+      "explanation": "The opposite of 'safe' (নিরাপদ) is 'dangerous' (বিপজ্জনক)।"
+    },
+    {
+      "q": "Choose the correct meaning of 'promise':",
+      "opts": [
+        "উত্তর দেওয়া",
+        "প্রতিশ্রুতি দেওয়া",
+        "একমত হওয়া",
+        "আক্রমণ করা"
+      ],
+      "ans": 1,
+      "explanation": "'Promise' means to say you will definitely do something — প্রতিশ্রুতি দেওয়া।"
+    },
+    {
+      "q": "Which sentence uses 'hunt' correctly?",
+      "opts": [
+        "The fox hunted the tree.",
+        "She hunted her homework.",
+        "The wolf hunts small animals at night.",
+        "He hunted a trick."
+      ],
+      "ans": 2,
+      "explanation": "'Hunt' means to chase animals. 'The wolf hunts small animals' is correct."
+    },
+    {
+      "q": "What does 'pleased' mean in Bangla?",
+      "opts": ["রাগান্বিত", "ভয় পাওয়া", "খুশি / সন্তুষ্ট", "নিষ্ঠুর"],
+      "ans": 2,
+      "explanation": "'Pleased' means feeling happy and satisfied — খুশি / সন্তুষ্ট।"
+    },
+    {
+      "q": "Translate: 'সে রাগান্বিত ছিল কারণ কেউ উত্তর দেয়নি।'",
+      "opts": [
+        "She was afraid because no one arrived.",
+        "She was angry because no one replied.",
+        "She was pleased because no one agreed.",
+        "She was clever because no one hid."
+      ],
+      "ans": 1,
+      "explanation": "'Angry' = রাগান্বিত, 'replied' = উত্তর দিল। Correct translation is option B."
+    },
+    {
+      "q": "Which word means 'নিচের অংশ'?",
+      "opts": ["middle", "moment", "bottom", "lot"],
+      "ans": 2,
+      "explanation": "'Bottom' means the lowest part of something — নিচের অংশ।"
+    },
+    {
+      "q": "Choose the correct use of 'agree':",
+      "opts": [
+        "I agree to hide the trick.",
+        "I agree with your plan.",
+        "I agree the wolf.",
+        "I agree a lot moment."
+      ],
+      "ans": 1,
+      "explanation": "We say 'agree with' a person or plan. 'I agree with your plan' is correct."
+    },
+    {
+      "q": "What does 'a lot of' mean?",
+      "opts": ["একটু", "অনেক / প্রচুর", "মাঝেমাঝে", "একটি মাত্র"],
+      "ans": 1,
+      "explanation": "'A lot of' means a large amount or number — অনেক / প্রচুর।"
+    },
+    {
+      "q": "Fill in: 'The rabbit ____ behind the tree to stay safe.'",
+      "opts": ["hunted", "hid", "replied", "attacked"],
+      "ans": 1,
+      "explanation": "'Hid' is past tense of 'hide' — লুকানো। The rabbit hid to stay safe."
+    },
+    {
+      "q": "Which word best completes: 'It is ____ to hurt animals.'?",
+      "opts": ["clever", "safe", "cruel", "well"],
+      "ans": 2,
+      "explanation": "'Cruel' = নিষ্ঠুর. Hurting animals is cruel."
+    },
+    {
+      "q": "What does 'reply' mean?",
+      "opts": ["জিজ্ঞেস করা", "উত্তর দেওয়া", "লুকানো", "পৌঁছানো"],
+      "ans": 1,
+      "explanation": "'Reply' means to answer or respond — উত্তর দেওয়া।"
+    },
+    {
+      "q": "Translate: 'চালাক মেয়েটি কৌশল ব্যবহার করে পালিয়ে গেল।'",
+      "opts": [
+        "The clever girl used a trick to escape.",
+        "The afraid girl hid to arrive.",
+        "The angry girl replied and left.",
+        "The cruel girl hunted and hid."
+      ],
+      "ans": 0,
+      "explanation": "'Clever' = চালাক, 'trick' = কৌশল, 'escape' = পালানো।"
+    },
+    {
+      "q": "Which sentence is correct?",
+      "opts": [
+        "He did good in the exam.",
+        "He did well in the exam.",
+        "He did welling in the exam.",
+        "He did wells in the exam."
+      ],
+      "ans": 1,
+      "explanation": "We use 'well' (adverb) after 'did', not 'good' (adjective). 'He did well' is correct."
+    }
+  ],
+  "story": {
+    "title": "The Clever Rabbit and the Cruel Wolf",
+    "body": "Deep in the middle of a green forest, there lived a small rabbit named Rimi. Rimi was not very big, but she was very clever.\n\nNear the forest, there was a cruel wolf. Every day, the wolf would go hunting. He wanted to catch Rimi because she was the fastest rabbit in the forest. A lot of other animals were afraid of the wolf, but Rimi was different. She was afraid too, but she did not give up.\n\nOne evening, the wolf arrived at the bottom of the hill where Rimi lived. He was angry because he had not eaten all day.\n\n'I will attack that rabbit tonight!' the wolf said.\n\nAt that moment, Rimi heard him. She thought for a moment and then smiled. She had a plan — a clever trick.\n\nRimi went to the middle of the path and called out loudly, 'Mr Wolf! I agree — you are the strongest! But I found a lot of food at the bottom of the big river. Come, I will show you!'\n\nThe wolf stopped. He was pleased to hear about food. 'Show me!' he replied.\n\nRimi led the wolf to the river. She pointed to the water. 'Look! Do you see it at the bottom?'\n\nThe wolf looked down. He saw his own face in the water. He thought it was another wolf with food!\n\n'That is mine!' he growled and jumped into the river.\n\nThe cold water shocked him. He swam back to the side, wet and angry.\n\nWhen he looked up, Rimi was gone. She had run home to hide safely.\n\nFinally, Rimi arrived home. She was breathing fast but she was safe. Her mother was pleased to see her well.\n\n'I promise, Mama,' said Rimi, 'I will always use my brain, not fear.'\n\nAnd from that day, all the animals agreed — Rimi was the cleverest rabbit in the forest.",
+    "comprehension": [
+      {
+        "q": "Why was the wolf angry when he arrived?",
+        "opts": [
+          "Because Rimi attacked him.",
+          "Because he had not eaten all day.",
+          "Because he was afraid of the river.",
+          "Because the forest was dark."
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What trick did Rimi use?",
+        "opts": [
+          "She hid at the bottom of the hill.",
+          "She promised to fight the wolf.",
+          "She showed the wolf his own reflection in the river.",
+          "She called a lot of animals to attack."
+        ],
+        "ans": 2
+      },
+      {
+        "q": "How did Rimi's mother feel when Rimi arrived home?",
+        "opts": ["Angry", "Afraid", "Pleased", "Cruel"],
+        "ans": 2
+      },
+      {
+        "q": "What did Rimi promise at the end?",
+        "opts": [
+          "To hunt the wolf one day.",
+          "To always use her brain, not fear.",
+          "To hide in the middle of the forest.",
+          "To reply to the wolf's attacks."
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "afraid",
+      "clever",
+      "cruel",
+      "trick",
+      "hide",
+      "hunt",
+      "finally",
+      "safe",
+      "pleased",
+      "promise",
+      "arrive",
+      "angry",
+      "reply",
+      "moment",
+      "bottom",
+      "middle",
+      "lot",
+      "attack",
+      "well",
+      "agree"
+    ]
+  },
+  "listening": {
+    "title": "A Talk Between Two Friends",
+    "script": "Nadia: 'Karim! Where were you? I was afraid something happened to you!'\n\nKarim: 'I am sorry, Nadia. I was in the middle of a big problem at school.'\n\nNadia: 'What happened? Tell me. I promise I will not tell anyone.'\n\nKarim: 'Some older boys tried to trick me. They were angry and wanted to attack me near the bottom of the stairs.'\n\nNadia: 'That is cruel! Did you reply to them?'\n\nKarim: 'I did not. I was afraid. So I hid in the library. I waited for a moment and then I called my teacher.'\n\nNadia: 'That was very clever, Karim! You stayed safe!'\n\nKarim: 'Yes. Finally, the teacher arrived and helped me. A lot of students saw it happen.'\n\nNadia: 'I agree — you did the right thing. I am pleased you are well.'\n\nKarim: 'Thank you. I promise I will not hunt trouble anymore. I will just stay safe and smart.'\n\nNadia: 'Good. I agree. Always be clever, not cruel.'",
+    "comprehension": [
+      {
+        "q": "Why was Nadia afraid at the beginning?",
+        "opts": [
+          "Because Karim was angry.",
+          "Because she could not find Karim.",
+          "Because the boys attacked her.",
+          "Because Karim hid her bag."
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Karim do when he was afraid?",
+        "opts": [
+          "He attacked the boys.",
+          "He used a trick on the boys.",
+          "He hid in the library and called his teacher.",
+          "He arrived home quickly."
+        ],
+        "ans": 2
+      },
+      {
+        "q": "How did Nadia feel at the end of the conversation?",
+        "opts": ["Angry", "Afraid", "Pleased", "Cruel"],
+        "ans": 2
+      },
+      {
+        "q": "What did Karim promise at the end?",
+        "opts": [
+          "To reply to the boys next time.",
+          "To not look for trouble and stay safe.",
+          "To hunt for the boys with friends.",
+          "To arrive at school early."
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Talk About a Time You Were Afraid",
+    "prompt": "Think of a time when you were afraid of something. What happened? What did you do? Did you stay safe? Use words like: afraid, moment, finally, safe, well, promise.",
+    "example": "One day, I was alone at home. I heard a loud sound and I was very afraid. For a moment, I did not move. Then I was clever — I called my mother. Finally, she arrived and I felt safe. I promised myself I would not be afraid next time. Everything turned out well.",
+    "tips": [
+      "Start with 'One day...' or 'Once...' to begin your story",
+      "Use 'at that moment' or 'for a moment' to describe the scary part",
+      "Use 'finally' when things get better",
+      "End with what you learned or felt — use 'I am pleased' or 'I promise'"
+    ]
+  },
+  "conversation": {
+    "scenario": "Asking a friend if they are okay after something scary",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Hey! Are you okay? You look a little afraid."
+      },
+      {
+        "speaker": "user",
+        "prompt": "Tell your friend what happened. Say you were afraid of something."
+      },
+      {
+        "speaker": "app",
+        "text": "Oh no! That sounds cruel. Did you stay safe?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Say yes, you hid and waited for the right moment."
+      },
+      {
+        "speaker": "app",
+        "text": "That was very clever! I agree — you did the right thing. I am pleased you are well."
+      },
+      {
+        "speaker": "user",
+        "prompt": "Thank your friend and make a promise to be more careful."
+      },
+      {
+        "speaker": "app",
+        "text": "I promise I will always be here if you need help. You can always reply to my messages!"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Agree and say you feel safe now."
+      }
+    ]
+  }
+}

@@ -1,0 +1,695 @@
+{
+  "day": 7,
+  "topic": "Nature, Life & Learning from Mistakes",
+  "lessonId": "L0D5",
+  "vocabulary": [
+    {
+      "word": "aware",
+      "phonetic": "/əˈweər/",
+      "meaning": "Knowing that something exists or is happening",
+      "bangla": "সচেতন / জানা",
+      "example": "Be aware of your surroundings when you walk alone.",
+      "exampleBn": "একা হাঁটার সময় তোমার চারপাশ সম্পর্কে সচেতন থেকো।"
+    },
+    {
+      "word": "badly",
+      "phonetic": "/ˈbædli/",
+      "meaning": "In a poor or unpleasant way",
+      "bangla": "খারাপভাবে",
+      "example": "He was hurt badly when he fell from the tree.",
+      "exampleBn": "গাছ থেকে পড়ে সে খারাপভাবে আহত হলো।"
+    },
+    {
+      "word": "belong",
+      "phonetic": "/bɪˈlɒŋ/",
+      "meaning": "To be in the right place or be part of something",
+      "bangla": "অন্তর্ভুক্ত হওয়া / এর অংশ হওয়া",
+      "example": "This bird belongs to the wild, not a cage.",
+      "exampleBn": "এই পাখিটি বনের অন্তর্ভুক্ত, খাঁচার নয়।"
+    },
+    {
+      "word": "continue",
+      "phonetic": "/kənˈtɪnjuː/",
+      "meaning": "To keep doing something without stopping",
+      "bangla": "চালিয়ে যাওয়া",
+      "example": "She continued to study even when it was difficult.",
+      "exampleBn": "কঠিন হওয়ার পরেও সে পড়াশোনা চালিয়ে গেল।"
+    },
+    {
+      "word": "error",
+      "phonetic": "/ˈerər/",
+      "meaning": "A mistake or something that is wrong",
+      "bangla": "ভুল / ত্রুটি",
+      "example": "He found an error in his homework and fixed it.",
+      "exampleBn": "সে তার বাড়ির কাজে একটি ভুল খুঁজে পেল এবং ঠিক করল।"
+    },
+    {
+      "word": "experience",
+      "phonetic": "/ɪkˈspɪəriəns/",
+      "meaning": "Something you have done or lived through",
+      "bangla": "অভিজ্ঞতা",
+      "example": "Living near the wild forest was a wonderful experience.",
+      "exampleBn": "বন্য বনের কাছে থাকা একটি চমৎকার অভিজ্ঞতা ছিল।"
+    },
+    {
+      "word": "field",
+      "phonetic": "/fiːld/",
+      "meaning": "An open area of land or a subject of study",
+      "bangla": "মাঠ / ক্ষেত্র",
+      "example": "The children ran across the open field after school.",
+      "exampleBn": "শিশুরা স্কুলের পর খোলা মাঠে দৌড়াল।"
+    },
+    {
+      "word": "hurt",
+      "phonetic": "/hɜːrt/",
+      "meaning": "To feel pain or to cause pain",
+      "bangla": "আঘাত পাওয়া / ব্যথা করা",
+      "example": "My leg hurts after I fell on the field.",
+      "exampleBn": "মাঠে পড়ে যাওয়ার পর আমার পা ব্যথা করছে।"
+    },
+    {
+      "word": "judgment",
+      "phonetic": "/ˈdʒʌdʒmənt/",
+      "meaning": "The ability to make good decisions",
+      "bangla": "বিচার / সিদ্ধান্ত নেওয়ার ক্ষমতা",
+      "example": "Use good judgment before making any big decision.",
+      "exampleBn": "যেকোনো বড় সিদ্ধান্ত নেওয়ার আগে ভালো বিচার ব্যবহার করো।"
+    },
+    {
+      "word": "likely",
+      "phonetic": "/ˈlaɪkli/",
+      "meaning": "Probably going to happen",
+      "bangla": "সম্ভবত / হওয়ার সম্ভাবনা আছে",
+      "example": "It is likely to rain this evening.",
+      "exampleBn": "এই সন্ধ্যায় বৃষ্টি হওয়ার সম্ভাবনা আছে।"
+    },
+    {
+      "word": "normal",
+      "phonetic": "/ˈnɔːrml/",
+      "meaning": "Usual or ordinary, not special",
+      "bangla": "স্বাভাবিক",
+      "example": "It is normal to make errors when you are learning.",
+      "exampleBn": "শেখার সময় ভুল করা স্বাভাবিক।"
+    },
+    {
+      "word": "rare",
+      "phonetic": "/reər/",
+      "meaning": "Not common, happening very little",
+      "bangla": "বিরল / অপ্রচলিত",
+      "example": "That wild flower is very rare in this field.",
+      "exampleBn": "এই মাঠে সেই বন্য ফুলটি খুবই বিরল।"
+    },
+    {
+      "word": "relax",
+      "phonetic": "/rɪˈlæks/",
+      "meaning": "To rest and feel calm",
+      "bangla": "আরাম করা / শিথিল হওয়া",
+      "example": "Sit down and relax after a long day.",
+      "exampleBn": "দীর্ঘ দিনের পর বসো এবং আরাম করো।"
+    },
+    {
+      "word": "request",
+      "phonetic": "/rɪˈkwest/",
+      "meaning": "To politely ask for something",
+      "bangla": "অনুরোধ করা",
+      "example": "She made a request to visit the wild animal field.",
+      "exampleBn": "সে বন্য প্রাণীর মাঠ পরিদর্শনের অনুরোধ করল।"
+    },
+    {
+      "word": "reside",
+      "phonetic": "/rɪˈzaɪd/",
+      "meaning": "To live in a particular place",
+      "bangla": "বাস করা / থাকা",
+      "example": "Many rare birds reside in this wild forest.",
+      "exampleBn": "অনেক বিরল পাখি এই বন্য বনে বাস করে।"
+    },
+    {
+      "word": "result",
+      "phonetic": "/rɪˈzʌlt/",
+      "meaning": "What happens because of something",
+      "bangla": "ফলাফল",
+      "example": "The result of her hard work was a perfect score.",
+      "exampleBn": "তার কঠোর পরিশ্রমের ফলাফল ছিল একটি নিখুঁত স্কোর।"
+    },
+    {
+      "word": "roll",
+      "phonetic": "/roʊl/",
+      "meaning": "To move by turning over and over",
+      "bangla": "গড়িয়ে যাওয়া / গড়ানো",
+      "example": "The ball rolled down the hill and into the field.",
+      "exampleBn": "বলটি পাহাড় থেকে গড়িয়ে মাঠে চলে গেল।"
+    },
+    {
+      "word": "since",
+      "phonetic": "/sɪns/",
+      "meaning": "From a time in the past until now",
+      "bangla": "তখন থেকে / যেহেতু",
+      "example": "She has been aware of this error since last week.",
+      "exampleBn": "সে গত সপ্তাহ থেকে এই ভুল সম্পর্কে সচেতন।"
+    },
+    {
+      "word": "visible",
+      "phonetic": "/ˈvɪzɪbl/",
+      "meaning": "Something that can be seen",
+      "bangla": "দৃশ্যমান",
+      "example": "The rare bird was visible from the edge of the field.",
+      "exampleBn": "বিরল পাখিটি মাঠের প্রান্ত থেকে দৃশ্যমান ছিল।"
+    },
+    {
+      "word": "wild",
+      "phonetic": "/waɪld/",
+      "meaning": "Living in nature, not controlled by people",
+      "bangla": "বন্য / অরণ্যের",
+      "example": "Wild animals belong in the forest, not in homes.",
+      "exampleBn": "বন্য প্রাণীরা বনে থাকার উপযুক্ত, বাড়িতে নয়।"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be aware of",
+      "bangla": "সম্পর্কে সচেতন থাকা",
+      "usage": "Knowing about something important",
+      "example": "Always be aware of your surroundings in a wild area."
+    },
+    {
+      "phrase": "badly hurt",
+      "bangla": "গুরুতরভাবে আহত",
+      "usage": "Seriously injured or in great pain",
+      "example": "He was badly hurt when he fell in the field."
+    },
+    {
+      "phrase": "belong to",
+      "bangla": "এর অন্তর্ভুক্ত / এর মালিকানা",
+      "usage": "To be part of or owned by",
+      "example": "This rare plant belongs to the wild forest."
+    },
+    {
+      "phrase": "continue to learn",
+      "bangla": "শেখা চালিয়ে যাওয়া",
+      "usage": "Keeping on with the process of learning",
+      "example": "No matter how many errors you make, continue to learn."
+    },
+    {
+      "phrase": "make an error",
+      "bangla": "ভুল করা",
+      "usage": "Doing something incorrectly",
+      "example": "It is normal to make an error when you are new."
+    },
+    {
+      "phrase": "a rare experience",
+      "bangla": "একটি বিরল অভিজ্ঞতা",
+      "usage": "Something that does not happen often",
+      "example": "Seeing a wild tiger in the field is a rare experience."
+    },
+    {
+      "phrase": "open field",
+      "bangla": "খোলা মাঠ",
+      "usage": "A large area of open land",
+      "example": "The children played and rolled in the open field."
+    },
+    {
+      "phrase": "use good judgment",
+      "bangla": "ভালো বিচার ব্যবহার করা",
+      "usage": "Making a wise and careful decision",
+      "example": "Use good judgment when you are in a wild place."
+    },
+    {
+      "phrase": "likely to happen",
+      "bangla": "হওয়ার সম্ভাবনা আছে",
+      "usage": "Describing something probable",
+      "example": "Errors are likely to happen when you are tired."
+    },
+    {
+      "phrase": "perfectly normal",
+      "bangla": "সম্পূর্ণ স্বাভাবিক",
+      "usage": "Something that is completely ordinary",
+      "example": "Feeling nervous is perfectly normal before a big result."
+    },
+    {
+      "phrase": "reside in",
+      "bangla": "এখানে বাস করা",
+      "usage": "Living in a particular place",
+      "example": "Many wild animals reside in the forest field."
+    },
+    {
+      "phrase": "sit and relax",
+      "bangla": "বসে আরাম করা",
+      "usage": "Taking rest in a calm way",
+      "example": "After the long walk, we sat and relaxed in the field."
+    },
+    {
+      "phrase": "make a request",
+      "bangla": "অনুরোধ করা",
+      "usage": "Asking for something politely",
+      "example": "She made a request to continue the wild bird project."
+    },
+    {
+      "phrase": "the result of",
+      "bangla": "এর ফলাফল",
+      "usage": "What comes out of an action or event",
+      "example": "The result of good judgment is fewer errors."
+    },
+    {
+      "phrase": "roll down",
+      "bangla": "গড়িয়ে নামা",
+      "usage": "Moving downward by rolling",
+      "example": "The log rolled down the hill into the wild field."
+    },
+    {
+      "phrase": "since then",
+      "bangla": "তখন থেকে",
+      "usage": "From that point in the past until now",
+      "example": "He hurt his leg last year and has been careful since then."
+    },
+    {
+      "phrase": "clearly visible",
+      "bangla": "স্পষ্টভাবে দৃশ্যমান",
+      "usage": "Easy to see without effort",
+      "example": "The rare bird was clearly visible on the open field."
+    },
+    {
+      "phrase": "wild animal",
+      "bangla": "বন্য প্রাণী",
+      "usage": "An animal living free in nature",
+      "example": "Do not approach a wild animal — use good judgment."
+    },
+    {
+      "phrase": "learn from experience",
+      "bangla": "অভিজ্ঞতা থেকে শেখা",
+      "usage": "Using past events to become wiser",
+      "example": "The best way to improve is to learn from experience."
+    },
+    {
+      "phrase": "hurt badly",
+      "bangla": "খারাপভাবে আহত হওয়া",
+      "usage": "Being seriously injured",
+      "example": "She was hurt badly but continued to walk to get help."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Be aware that wild animals reside in this field, so approach carefully.",
+      "bn": "সচেতন থাকো যে বন্য প্রাণীরা এই মাঠে বাস করে, তাই সাবধানে এগিয়ে যাও।"
+    },
+    {
+      "en": "It is normal to make an error — continue and learn from the experience.",
+      "bn": "ভুল করা স্বাভাবিক — চালিয়ে যাও এবং অভিজ্ঞতা থেকে শেখো।"
+    },
+    {
+      "en": "The rare bird was clearly visible from the edge of the open field.",
+      "bn": "বিরল পাখিটি খোলা মাঠের প্রান্ত থেকে স্পষ্টভাবে দৃশ্যমান ছিল।"
+    },
+    {
+      "en": "He was badly hurt when he rolled down the hill in the wild.",
+      "bn": "বনের মধ্যে পাহাড় থেকে গড়িয়ে পড়ে সে খারাপভাবে আহত হলো।"
+    },
+    {
+      "en": "Since last year, she has been aware of the rare flowers that reside here.",
+      "bn": "গত বছর থেকে, সে এখানে বাস করা বিরল ফুলগুলো সম্পর্কে সচেতন।"
+    },
+    {
+      "en": "Use good judgment — it is likely that the wild dog will hurt you if you go near.",
+      "bn": "ভালো বিচার ব্যবহার করো — কাছে গেলে বন্য কুকুরটি তোমাকে আঘাত করার সম্ভাবনা আছে।"
+    },
+    {
+      "en": "She made a request to continue the field visit since it was such a rare experience.",
+      "bn": "সে মাঠ পরিদর্শন চালিয়ে যাওয়ার অনুরোধ করল কারণ এটি এমন একটি বিরল অভিজ্ঞতা ছিল।"
+    },
+    {
+      "en": "The result of making the same error again and again is that you never improve.",
+      "bn": "বারবার একই ভুল করার ফলাফল হলো যে তুমি কখনো উন্নতি করো না।"
+    },
+    {
+      "en": "Wild animals that reside in open fields are not visible at night.",
+      "bn": "খোলা মাঠে বসবাসকারী বন্য প্রাণীরা রাতে দৃশ্যমান নয়।"
+    },
+    {
+      "en": "Sit down, relax, and think carefully before making any judgment.",
+      "bn": "বসো, আরাম করো এবং যেকোনো বিচার করার আগে সাবধানে ভাবো।"
+    },
+    {
+      "en": "This experience taught us that wild things belong in nature, not in classrooms.",
+      "bn": "এই অভিজ্ঞতা আমাদের শিখিয়েছে যে বন্য জিনিস প্রকৃতিতে থাকা উচিত, শ্রেণিকক্ষে নয়।"
+    },
+    {
+      "en": "Since she hurt her leg badly, she has continued to relax and rest every evening.",
+      "bn": "পা খারাপভাবে আঘাত পাওয়ার পর থেকে, সে প্রতি সন্ধ্যায় আরাম ও বিশ্রাম নিতে চালিয়ে যাচ্ছে।"
+    },
+    {
+      "en": "The ball rolled across the field and stopped near a rare wild plant.",
+      "bn": "বলটি মাঠ জুড়ে গড়িয়ে গেল এবং একটি বিরল বন্য গাছের কাছে থামল।"
+    },
+    {
+      "en": "It is likely that the result will be better if you are aware of your errors.",
+      "bn": "যদি তুমি তোমার ভুলগুলো সম্পর্কে সচেতন থাকো তাহলে ফলাফল ভালো হওয়ার সম্ভাবনা আছে।"
+    },
+    {
+      "en": "She belonged to a field research group that studied wild and rare animals.",
+      "bn": "সে একটি মাঠ গবেষণা দলের অন্তর্ভুক্ত ছিল যারা বন্য ও বিরল প্রাণী নিয়ে গবেষণা করত।"
+    },
+    {
+      "en": "The error in his judgment made things worse, but he continued and did not give up.",
+      "bn": "তার বিচারে ভুলের কারণে পরিস্থিতি আরও খারাপ হলো, কিন্তু সে চালিয়ে গেল এবং হাল ছাড়েনি।"
+    },
+    {
+      "en": "Since the field was wild and open, they could relax and enjoy the rare view.",
+      "bn": "মাঠটি বন্য ও খোলা হওয়ায়, তারা আরাম করতে এবং বিরল দৃশ্য উপভোগ করতে পারল।"
+    },
+    {
+      "en": "The visible result of his experience was that he no longer made the same error.",
+      "bn": "তার অভিজ্ঞতার দৃশ্যমান ফলাফল ছিল যে সে আর একই ভুল করেনি।"
+    },
+    {
+      "en": "I request you to be aware — it is likely that wild animals reside near this field.",
+      "bn": "আমি তোমাকে অনুরোধ করছি সচেতন থাকতে — এই মাঠের কাছে বন্য প্রাণীরা বাস করার সম্ভাবনা আছে।"
+    },
+    {
+      "en": "She continued to roll in the grass and relax — she felt she truly belonged in the wild.",
+      "bn": "সে ঘাসে গড়াতে এবং আরাম করতে থাকল — সে অনুভব করল যে সে সত্যিই বনের অন্তর্ভুক্ত।"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does 'aware' mean in Bangla?",
+      "opts": ["অজ্ঞ", "সচেতন", "বিরল", "দৃশ্যমান"],
+      "ans": 1,
+      "explanation": "'Aware' means knowing that something exists — সচেতন।"
+    },
+    {
+      "q": "Which word means 'ফলাফল'?",
+      "opts": ["error", "field", "result", "judgment"],
+      "ans": 2,
+      "explanation": "'Result' means what happens because of something — ফলাফল।"
+    },
+    {
+      "q": "Choose the correct sentence:",
+      "opts": [
+        "She continue to study since last year.",
+        "She has continued to study since last year.",
+        "She continued study since last year.",
+        "She continues study since last year."
+      ],
+      "ans": 1,
+      "explanation": "With 'since', we use present perfect: 'has continued'. Correct answer is B."
+    },
+    {
+      "q": "What does 'rare' mean?",
+      "opts": ["স্বাভাবিক", "সাধারণ", "বিরল", "দৃশ্যমান"],
+      "ans": 2,
+      "explanation": "'Rare' means not common or happening very little — বিরল।"
+    },
+    {
+      "q": "Fill in: 'It is ____ to make an error when you are learning something new.'",
+      "opts": ["rare", "wild", "normal", "badly"],
+      "ans": 2,
+      "explanation": "'Normal' means usual or ordinary. Making errors while learning is normal."
+    },
+    {
+      "q": "Translate: 'বন্য প্রাণীরা এই মাঠে বাস করে।'",
+      "opts": [
+        "Wild animals belong to the field.",
+        "Wild animals reside in this field.",
+        "Wild animals roll in the open field.",
+        "Wild animals are visible and rare."
+      ],
+      "ans": 1,
+      "explanation": "'Reside' = বাস করা, 'wild' = বন্য, 'field' = মাঠ. Option B is correct."
+    },
+    {
+      "q": "Which word means 'আঘাত পাওয়া / ব্যথা করা'?",
+      "opts": ["relax", "belong", "hurt", "roll"],
+      "ans": 2,
+      "explanation": "'Hurt' means to feel pain or cause pain — আঘাত পাওয়া।"
+    },
+    {
+      "q": "What does 'since' mean in this sentence: 'She has been careful since last year.'",
+      "opts": ["কারণ", "গত বছর থেকে এখন পর্যন্ত", "যদি", "যতক্ষণ"],
+      "ans": 1,
+      "explanation": "'Since' here means from a past time until now — গত বছর থেকে এখন পর্যন্ত।"
+    },
+    {
+      "q": "Choose the correct use of 'belong':",
+      "opts": [
+        "This bird belongs wild.",
+        "This bird belongs to the wild.",
+        "This bird belongs in wild the.",
+        "Wild belongs this bird."
+      ],
+      "ans": 1,
+      "explanation": "We say 'belong to' — এর অন্তর্ভুক্ত। 'This bird belongs to the wild' is correct."
+    },
+    {
+      "q": "What does 'visible' mean?",
+      "opts": ["শোনা যায়", "দৃশ্যমান", "অনুভব করা যায়", "গন্ধ পাওয়া যায়"],
+      "ans": 1,
+      "explanation": "'Visible' means something that can be seen — দৃশ্যমান।"
+    },
+    {
+      "q": "Fill in: 'Use good ____ before making any big decision.'",
+      "opts": ["experience", "error", "judgment", "result"],
+      "ans": 2,
+      "explanation": "'Judgment' means the ability to make good decisions — বিচার / সিদ্ধান্ত নেওয়ার ক্ষমতা।"
+    },
+    {
+      "q": "What does 'likely' mean?",
+      "opts": ["অসম্ভব", "নিশ্চিত", "সম্ভবত / হওয়ার সম্ভাবনা আছে", "বিরল"],
+      "ans": 2,
+      "explanation": "'Likely' means probably going to happen — সম্ভবত।"
+    },
+    {
+      "q": "Translate: 'সে সাহায্যের জন্য অনুরোধ করল।'",
+      "opts": [
+        "She made a result for help.",
+        "She made a request for help.",
+        "She made an error for help.",
+        "She made a judgment for help."
+      ],
+      "ans": 1,
+      "explanation": "'Request' = অনুরোধ করা. 'She made a request for help' is the correct translation."
+    },
+    {
+      "q": "Which sentence uses 'roll' correctly?",
+      "opts": [
+        "The ball rolled down the field.",
+        "She rolled the judgment carefully.",
+        "The experience rolled badly.",
+        "Wild animals roll the field."
+      ],
+      "ans": 0,
+      "explanation": "'Roll' means to move by turning over. 'The ball rolled down the field' is correct."
+    },
+    {
+      "q": "What does 'experience' mean?",
+      "opts": ["ভুল", "অভিজ্ঞতা", "ফলাফল", "মাঠ"],
+      "ans": 1,
+      "explanation": "'Experience' means something you have done or lived through — অভিজ্ঞতা।"
+    },
+    {
+      "q": "Choose the correct meaning of 'relax':",
+      "opts": ["কাজ করা", "দৌড়ানো", "আরাম করা", "ভুল করা"],
+      "ans": 2,
+      "explanation": "'Relax' means to rest and feel calm — আরাম করা।"
+    },
+    {
+      "q": "Fill in: 'She was ____ hurt when she fell from the tree.'",
+      "opts": ["rare", "badly", "likely", "visible"],
+      "ans": 1,
+      "explanation": "'Badly hurt' means seriously injured. 'Badly' is the adverb used here."
+    },
+    {
+      "q": "What does 'reside' mean?",
+      "opts": ["বেড়াতে যাওয়া", "বাস করা", "কাজ করা", "আরাম করা"],
+      "ans": 1,
+      "explanation": "'Reside' means to live in a particular place — বাস করা।"
+    },
+    {
+      "q": "Translate: 'ভুল থেকে শেখা একটি মূল্যবান অভিজ্ঞতা।'",
+      "opts": [
+        "Making errors is a visible result.",
+        "Learning from errors is a valuable experience.",
+        "Errors belong to the wild field.",
+        "The result of errors is normal judgment."
+      ],
+      "ans": 1,
+      "explanation": "'Learning from errors' = ভুল থেকে শেখা, 'experience' = অভিজ্ঞতা. Option B is correct."
+    },
+    {
+      "q": "Which word best fills: 'The rare flower was clearly ____ from the road.'?",
+      "opts": ["wild", "aware", "visible", "badly"],
+      "ans": 2,
+      "explanation": "'Visible' means can be seen — দৃশ্যমান. 'Clearly visible' is the correct phrase."
+    }
+  ],
+  "story": {
+    "title": "The Day Tariq Learned to Fall",
+    "body": "Tariq was twelve years old and he lived in a small village near a wide open field. Since he was very young, he had always loved being outside. He was aware that the field was full of wild plants and rare animals, and that made him love it even more.\n\nOne afternoon, Tariq made a request to his mother. 'Mama, can I go to the big field today? I want to look for the rare bird that Mr Hasan told us about.'\n\nHis mother looked at him carefully. 'Use good judgment, Tariq. Don't go too close to the wild part where the tall grass begins. Come back before dark.'\n\n'I will, Mama. I promise,' he said.\n\nThe field was beautiful. The sky was wide and blue. Wild flowers were visible everywhere. Tariq walked slowly, looking for the rare bird. He had never seen one before and this felt like a real adventure.\n\nSuddenly, he slipped on a wet patch of grass. He rolled down a small hill and landed with a thud.\n\nFor a moment, he lay still. His arm hurt badly. He looked at it — a small cut, nothing worse than that.\n\n'That was an error,' he said to himself. 'I was not aware of the wet grass.'\n\nSince he was a sensible boy, he did not panic. He sat up slowly, took a deep breath, and tried to relax. He looked around. A few wild rabbits were watching him from a distance. They were clearly visible between the tall grass.\n\nThen he saw it. Sitting on a low branch just ahead — a small bird with bright orange wings. It was the rare bird! It was right there, clearly visible, as if it had been waiting for him all along.\n\nTariq forgot about the hurt. He sat completely still and watched. The bird tilted its head, looked at Tariq, and then flew away slowly across the field.\n\nIt was the most wonderful experience of his life.\n\nWhen Tariq arrived home, his mother saw the cut on his arm. 'You were hurt!' she said.\n\n'Only a little,' he replied. 'And Mama — I saw the rare bird. It was visible right there in the wild part of the field!'\n\nHis mother cleaned the cut and smiled. 'And what did you learn today?'\n\nTariq thought for a moment. 'That errors happen,' he said. 'But if you continue and relax and stay aware — the result is often something wonderful.'\n\nHis mother nodded. 'That, my son, is a lesson that belongs to life — not just to a field.'\n\nSince that day, Tariq continued to visit the field every week. And he never forgot to watch where he stepped.",
+    "comprehension": [
+      {
+        "q": "Why did Tariq want to go to the field that afternoon?",
+        "opts": [
+          "To relax and sleep in the wild grass.",
+          "To look for the rare bird Mr Hasan told him about.",
+          "To continue his school project on wild animals.",
+          "To request his mother to come with him."
+        ],
+        "ans": 1
+      },
+      {
+        "q": "How did Tariq get hurt?",
+        "opts": [
+          "A wild animal attacked him.",
+          "He fell into a hole in the field.",
+          "He slipped on wet grass and rolled down a small hill.",
+          "He was hurt badly by a rare plant."
+        ],
+        "ans": 2
+      },
+      {
+        "q": "What did Tariq do after he fell?",
+        "opts": [
+          "He shouted for help and ran home.",
+          "He panicked and hurt his leg worse.",
+          "He sat up slowly, relaxed, and continued to look around.",
+          "He made a request to a wild rabbit for help."
+        ],
+        "ans": 2
+      },
+      {
+        "q": "What lesson did Tariq share with his mother?",
+        "opts": [
+          "That wild fields are dangerous and should be avoided.",
+          "That errors happen but continuing with awareness leads to wonderful results.",
+          "That rare birds are not visible unless you are lucky.",
+          "That good judgment means never making errors."
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "aware",
+      "badly",
+      "belong",
+      "continue",
+      "error",
+      "experience",
+      "field",
+      "hurt",
+      "judgment",
+      "likely",
+      "normal",
+      "rare",
+      "relax",
+      "request",
+      "reside",
+      "result",
+      "roll",
+      "since",
+      "visible",
+      "wild"
+    ]
+  },
+  "listening": {
+    "title": "A Nature Walk Gone Wrong",
+    "script": "Teacher: 'Good morning everyone. I am aware that some of you are nervous about today's nature walk. That is perfectly normal. But I request you to relax — it will be a wonderful experience.'\n\nStudent 1 — Priya: 'Miss, is it likely that we will see any wild animals in the field?'\n\nTeacher: 'Yes, it is likely. Many wild birds and insects reside in this area. Some are quite rare. You will be able to see them if you are patient and quiet.'\n\nStudent 2 — Fahim: 'Miss, what if someone gets hurt badly?'\n\nTeacher: 'Good judgment, Fahim — always think ahead. That is why I request you to walk carefully. Do not roll around in the grass or run. Stay on the path.'\n\nPriya: 'What belongs in the wild part of the field? Is it safe?'\n\nTeacher: 'Many rare plants and animals reside there since many years. The result of going in without awareness can be a bad error. So stay visible to me at all times.'\n\nFahim: 'Miss, since we are going to a wild area, should we continue making notes?'\n\nTeacher: 'Yes! That is a great request — write your experience down. Note what is visible, what sounds you hear, what wild things you find. This will be the result of your observation work.'\n\nPriya: 'I am so excited! I belong in nature, Miss. I feel it!'\n\n(Everyone laughs)\n\nTeacher: 'Then let us continue. Walk carefully, use good judgment, and be aware of everything around you. Let the adventure begin!'",
+    "comprehension": [
+      {
+        "q": "What did the teacher request the students to do at the start?",
+        "opts": [
+          "To continue making errors.",
+          "To relax and enjoy the experience.",
+          "To avoid the wild part of the field.",
+          "To roll in the grass carefully."
+        ],
+        "ans": 1
+      },
+      {
+        "q": "Why did the teacher say wild animals are hard to see?",
+        "opts": [
+          "Because they are badly hurt.",
+          "Because they are not visible in daylight.",
+          "Because you need to be patient and quiet.",
+          "Because they reside in rare fields only."
+        ],
+        "ans": 2
+      },
+      {
+        "q": "What did the teacher say is the result of going into the wild without awareness?",
+        "opts": [
+          "A rare and wonderful experience.",
+          "A bad error that can get you hurt.",
+          "A visible result of good judgment.",
+          "A normal walk in the open field."
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Priya say about herself at the end?",
+        "opts": [
+          "She was likely to make an error.",
+          "She felt she belonged in nature.",
+          "She was badly hurt by a wild plant.",
+          "She requested to continue at home."
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Talk About a Mistake You Made and What You Learned",
+    "prompt": "Think of a time you made an error — at school, at home, or with a friend. What happened? How did you feel? What was the result? What did you learn from the experience? Use words like: error, aware, result, experience, normal, judgment, continue, since.",
+    "example": "Last year, I made a big error in my science project. I was not aware that I had used the wrong information. The result was a bad grade. I felt badly hurt inside. But my teacher told me it is normal to make errors. Since that day, I have been more careful. I use better judgment now and I continue to check my work. The experience taught me that mistakes help you grow — if you learn from them and do not give up.",
+    "tips": [
+      "Start with 'Last year...' or 'Once...' or 'When I was young...'",
+      "Use 'I was not aware' or 'I made an error' to describe the mistake",
+      "Use 'the result was...' to explain what happened after",
+      "Use 'since then' to show how you changed",
+      "End with what you learned — use 'experience' or 'judgment'",
+      "Try to use at least 6 words from today's lesson"
+    ]
+  },
+  "conversation": {
+    "scenario": "A student talks to a friend after getting a bad result on a test",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Hey, you look a little sad. Are you okay? What happened?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Tell your friend you got a bad result on a test and you feel badly hurt."
+      },
+      {
+        "speaker": "app",
+        "text": "Oh no. Was it a big error, or did something go wrong during the test?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Explain the error — you were not aware of one topic and your judgment was wrong."
+      },
+      {
+        "speaker": "app",
+        "text": "I understand. But honestly — it is perfectly normal. Everyone makes errors sometimes. Are you going to continue studying or give up?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Say you will continue. You have learned from the experience and will use better judgment."
+      },
+      {
+        "speaker": "app",
+        "text": "That is great! Since this happened, I think it is likely you will do much better next time. The result will be visible — I am sure of it."
+      },
+      {
+        "speaker": "user",
+        "prompt": "Thank your friend and say you need to relax first before going back to study."
+      },
+      {
+        "speaker": "app",
+        "text": "Of course! Go relax in the field for a bit. Wild air and open space always help. You belong here — among people who never give up!"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Laugh and agree. Say since today you will be more aware and careful every day."
+      }
+    ]
+  }
+}

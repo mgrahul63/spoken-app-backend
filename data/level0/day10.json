@@ -1,0 +1,505 @@
+{
+  "day": 10,
+  "topic": "Actions, Thinking & Learning Vocabulary",
+  "lessonId": "L0D6",
+  "vocabulary": [
+    {
+      "word": "accept",
+      "phonetic": "/əkˈsept/",
+      "meaning": "to agree to receive or do something",
+      "bangla": "গ্রহণ করা",
+      "example": "I accept your offer.",
+      "exampleBn": "আমি তোমার প্রস্তাব গ্রহণ করি।"
+    },
+    {
+      "word": "arrange",
+      "phonetic": "/əˈreɪndʒ/",
+      "meaning": "to plan or organize",
+      "bangla": "ব্যবস্থা করা",
+      "example": "She arranges the books.",
+      "exampleBn": "সে বইগুলো সাজায়।"
+    },
+    {
+      "word": "attend",
+      "phonetic": "/əˈtend/",
+      "meaning": "to go to a place or event",
+      "bangla": "অংশগ্রহণ করা",
+      "example": "I attend school daily.",
+      "exampleBn": "আমি প্রতিদিন স্কুলে যাই।"
+    },
+    {
+      "word": "balance",
+      "phonetic": "/ˈbæləns/",
+      "meaning": "equal distribution or stability",
+      "bangla": "ভারসাম্য",
+      "example": "Keep balance in life.",
+      "exampleBn": "জীবনে ভারসাম্য রাখো।"
+    },
+    {
+      "word": "contrast",
+      "phonetic": "/ˈkɒntræst/",
+      "meaning": "difference between things",
+      "bangla": "বৈপরীত্য",
+      "example": "There is a contrast between them.",
+      "exampleBn": "তাদের মধ্যে বৈপরীত্য আছে।"
+    },
+    {
+      "word": "encourage",
+      "phonetic": "/ɪnˈkʌrɪdʒ/",
+      "meaning": "to give support or confidence",
+      "bangla": "উৎসাহিত করা",
+      "example": "Teachers encourage students.",
+      "exampleBn": "শিক্ষকরা শিক্ষার্থীদের উৎসাহিত করেন।"
+    },
+    {
+      "word": "familiar",
+      "phonetic": "/fəˈmɪliər/",
+      "meaning": "well known or recognized",
+      "bangla": "পরিচিত",
+      "example": "This place is familiar.",
+      "exampleBn": "এই জায়গাটি পরিচিত।"
+    },
+    {
+      "word": "grab",
+      "phonetic": "/ɡræb/",
+      "meaning": "to take quickly",
+      "bangla": "ধরে ফেলা",
+      "example": "He grabbed the book.",
+      "exampleBn": "সে বইটি ধরে ফেলল।"
+    },
+    {
+      "word": "hang",
+      "phonetic": "/hæŋ/",
+      "meaning": "to place something from above",
+      "bangla": "ঝুলানো",
+      "example": "Hang the picture on the wall.",
+      "exampleBn": "ছবিটি দেয়ালে ঝুলাও।"
+    },
+    {
+      "word": "huge",
+      "phonetic": "/hjuːdʒ/",
+      "meaning": "very large",
+      "bangla": "বিশাল",
+      "example": "It is a huge building.",
+      "exampleBn": "এটি একটি বিশাল ভবন।"
+    },
+    {
+      "word": "necessary",
+      "phonetic": "/ˈnesəsəri/",
+      "meaning": "needed or important",
+      "bangla": "প্রয়োজনীয়",
+      "example": "Water is necessary for life.",
+      "exampleBn": "জীবনের জন্য পানি প্রয়োজনীয়।"
+    },
+    {
+      "word": "pattern",
+      "phonetic": "/ˈpætərn/",
+      "meaning": "a repeated design or structure",
+      "bangla": "ধরণ",
+      "example": "I see a pattern here.",
+      "exampleBn": "আমি এখানে একটি ধরণ দেখি।"
+    },
+    {
+      "word": "propose",
+      "phonetic": "/prəˈpoʊz/",
+      "meaning": "to suggest something",
+      "bangla": "প্রস্তাব করা",
+      "example": "I propose a new idea.",
+      "exampleBn": "আমি একটি নতুন ধারণা প্রস্তাব করি।"
+    },
+    {
+      "word": "purpose",
+      "phonetic": "/ˈpɜːrpəs/",
+      "meaning": "reason for doing something",
+      "bangla": "উদ্দেশ্য",
+      "example": "What is your purpose?",
+      "exampleBn": "তোমার উদ্দেশ্য কী?"
+    },
+    {
+      "word": "release",
+      "phonetic": "/rɪˈliːs/",
+      "meaning": "to set free",
+      "bangla": "মুক্ত করা",
+      "example": "They release the bird.",
+      "exampleBn": "তারা পাখিটি মুক্ত করে।"
+    },
+    {
+      "word": "require",
+      "phonetic": "/rɪˈkwaɪər/",
+      "meaning": "to need something",
+      "bangla": "প্রয়োজন হওয়া",
+      "example": "This job requires skill.",
+      "exampleBn": "এই কাজের জন্য দক্ষতা প্রয়োজন।"
+    },
+    {
+      "word": "single",
+      "phonetic": "/ˈsɪŋɡl/",
+      "meaning": "one only",
+      "bangla": "একক",
+      "example": "I have a single goal.",
+      "exampleBn": "আমার একটি একক লক্ষ্য আছে।"
+    },
+    {
+      "word": "success",
+      "phonetic": "/səkˈses/",
+      "meaning": "achievement of goal",
+      "bangla": "সাফল্য",
+      "example": "Hard work brings success.",
+      "exampleBn": "কঠোর পরিশ্রম সাফল্য আনে।"
+    },
+    {
+      "word": "tear",
+      "phonetic": "/teər/",
+      "meaning": "to pull apart or drop from eye",
+      "bangla": "ছিঁড়ে ফেলা / অশ্রু",
+      "example": "A tear fell from her eye.",
+      "exampleBn": "তার চোখ থেকে অশ্রু পড়ল।"
+    },
+    {
+      "word": "theory",
+      "phonetic": "/ˈθɪəri/",
+      "meaning": "an idea explaining something",
+      "bangla": "তত্ত্ব",
+      "example": "This is a scientific theory.",
+      "exampleBn": "এটি একটি বৈজ্ঞানিক তত্ত্ব।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "accept offer",
+      "bangla": "প্রস্তাব গ্রহণ করা",
+      "usage": "agreement",
+      "example": "I accept the offer."
+    },
+    {
+      "phrase": "arrange meeting",
+      "bangla": "মিটিং ব্যবস্থা করা",
+      "usage": "planning",
+      "example": "She arranges meeting."
+    },
+    {
+      "phrase": "attend class",
+      "bangla": "ক্লাসে অংশ নেওয়া",
+      "usage": "education",
+      "example": "I attend class daily."
+    },
+    {
+      "phrase": "balance life",
+      "bangla": "জীবন ভারসাম্য রাখা",
+      "usage": "lifestyle",
+      "example": "Balance your life."
+    },
+    {
+      "phrase": "contrast idea",
+      "bangla": "ভিন্ন ধারণা",
+      "usage": "comparison",
+      "example": "Ideas contrast each other."
+    },
+    {
+      "phrase": "encourage student",
+      "bangla": "শিক্ষার্থীকে উৎসাহিত করা",
+      "usage": "motivation",
+      "example": "Teacher encourages students."
+    },
+    {
+      "phrase": "familiar place",
+      "bangla": "পরিচিত জায়গা",
+      "usage": "recognition",
+      "example": "This is familiar."
+    },
+    {
+      "phrase": "grab quickly",
+      "bangla": "দ্রুত ধরে ফেলা",
+      "usage": "action",
+      "example": "He grabbed it."
+    },
+    {
+      "phrase": "hang picture",
+      "bangla": "ছবি ঝুলানো",
+      "usage": "decoration",
+      "example": "Hang the picture."
+    },
+    {
+      "phrase": "huge building",
+      "bangla": "বিশাল ভবন",
+      "usage": "size",
+      "example": "It is huge."
+    },
+    {
+      "phrase": "necessary step",
+      "bangla": "প্রয়োজনীয় ধাপ",
+      "usage": "importance",
+      "example": "This is necessary."
+    },
+    {
+      "phrase": "pattern change",
+      "bangla": "ধরণ পরিবর্তন",
+      "usage": "trend",
+      "example": "Pattern changes."
+    },
+    {
+      "phrase": "propose idea",
+      "bangla": "ধারণা প্রস্তাব করা",
+      "usage": "suggestion",
+      "example": "He proposes idea."
+    },
+    {
+      "phrase": "purpose of life",
+      "bangla": "জীবনের উদ্দেশ্য",
+      "usage": "meaning",
+      "example": "What is your purpose?"
+    },
+    {
+      "phrase": "release bird",
+      "bangla": "পাখি মুক্ত করা",
+      "usage": "freedom",
+      "example": "Release the bird."
+    },
+    {
+      "phrase": "require skill",
+      "bangla": "দক্ষতা প্রয়োজন",
+      "usage": "need",
+      "example": "It requires skill."
+    },
+    {
+      "phrase": "single goal",
+      "bangla": "একক লক্ষ্য",
+      "usage": "focus",
+      "example": "I have single goal."
+    },
+    {
+      "phrase": "achieve success",
+      "bangla": "সাফল্য অর্জন করা",
+      "usage": "achievement",
+      "example": "Work brings success."
+    },
+    {
+      "phrase": "tear paper",
+      "bangla": "কাগজ ছিঁড়ে ফেলা",
+      "usage": "action",
+      "example": "He tore the paper."
+    },
+    {
+      "phrase": "scientific theory",
+      "bangla": "বৈজ্ঞানিক তত্ত্ব",
+      "usage": "study",
+      "example": "It is a theory."
+    }
+  ],
+
+  "sentences": [
+    { "en": "I accept it.", "bn": "আমি এটি গ্রহণ করি।" },
+    { "en": "Arrange the room.", "bn": "ঘরটি সাজাও।" },
+    { "en": "I attend school.", "bn": "আমি স্কুলে যাই।" },
+    { "en": "Keep balance.", "bn": "ভারসাম্য রাখো।" },
+    { "en": "There is contrast.", "bn": "এখানে বৈপরীত্য আছে।" },
+    { "en": "Encourage him.", "bn": "তাকে উৎসাহ দাও।" },
+    { "en": "This is familiar.", "bn": "এটি পরিচিত।" },
+    { "en": "He grabbed it.", "bn": "সে এটি ধরল।" },
+    { "en": "Hang it here.", "bn": "এটি এখানে ঝুলাও।" },
+    { "en": "It is huge.", "bn": "এটি বিশাল।" },
+    { "en": "It is necessary.", "bn": "এটি প্রয়োজনীয়।" },
+    { "en": "I see a pattern.", "bn": "আমি একটি ধরণ দেখি।" },
+    { "en": "I propose it.", "bn": "আমি এটি প্রস্তাব করি।" },
+    { "en": "What is the purpose?", "bn": "উদ্দেশ্য কী?" },
+    { "en": "Release the bird.", "bn": "পাখিটি মুক্ত করো।" },
+    { "en": "It requires effort.", "bn": "এটি প্রচেষ্টা প্রয়োজন।" },
+    { "en": "Single goal matters.", "bn": "একক লক্ষ্য গুরুত্বপূর্ণ।" },
+    { "en": "Success comes slowly.", "bn": "সাফল্য ধীরে আসে।" },
+    { "en": "A tear fell.", "bn": "একটি অশ্রু পড়ল।" },
+    { "en": "This is a theory.", "bn": "এটি একটি তত্ত্ব।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Accept means?",
+      "opts": ["reject", "agree", "break", "hide"],
+      "ans": 1,
+      "explanation": "Accept means agree."
+    },
+    {
+      "q": "Arrange means?",
+      "opts": ["destroy", "organize", "run", "sleep"],
+      "ans": 1,
+      "explanation": "Arrange means organize."
+    },
+    {
+      "q": "Attend means?",
+      "opts": ["skip", "go to", "break", "hide"],
+      "ans": 1,
+      "explanation": "Attend means go to."
+    },
+    {
+      "q": "Balance means?",
+      "opts": ["unstable", "stability", "noise", "speed"],
+      "ans": 1,
+      "explanation": "Balance means stability."
+    },
+    {
+      "q": "Contrast means?",
+      "opts": ["same", "difference", "equal", "simple"],
+      "ans": 1,
+      "explanation": "Contrast means difference."
+    },
+    {
+      "q": "Encourage means?",
+      "opts": ["stop", "support", "break", "ignore"],
+      "ans": 1,
+      "explanation": "Encourage means support."
+    },
+    {
+      "q": "Familiar means?",
+      "opts": ["unknown", "known", "lost", "fast"],
+      "ans": 1,
+      "explanation": "Familiar means known."
+    },
+    {
+      "q": "Grab means?",
+      "opts": ["release", "take quickly", "throw", "hide"],
+      "ans": 1,
+      "explanation": "Grab means take quickly."
+    },
+    {
+      "q": "Hang means?",
+      "opts": ["drop", "suspend", "break", "run"],
+      "ans": 1,
+      "explanation": "Hang means suspend."
+    },
+    {
+      "q": "Huge means?",
+      "opts": ["small", "very big", "thin", "short"],
+      "ans": 1,
+      "explanation": "Huge means very big."
+    },
+    {
+      "q": "Necessary means?",
+      "opts": ["useless", "needed", "extra", "slow"],
+      "ans": 1,
+      "explanation": "Necessary means needed."
+    },
+    {
+      "q": "Pattern means?",
+      "opts": ["random", "structure", "noise", "speed"],
+      "ans": 1,
+      "explanation": "Pattern means structure."
+    },
+    {
+      "q": "Propose means?",
+      "opts": ["reject", "suggest", "hide", "run"],
+      "ans": 1,
+      "explanation": "Propose means suggest."
+    },
+    {
+      "q": "Purpose means?",
+      "opts": ["reason", "color", "place", "food"],
+      "ans": 0,
+      "explanation": "Purpose means reason."
+    },
+    {
+      "q": "Release means?",
+      "opts": ["trap", "free", "break", "hold"],
+      "ans": 1,
+      "explanation": "Release means free."
+    },
+    {
+      "q": "Require means?",
+      "opts": ["ignore", "need", "stop", "break"],
+      "ans": 1,
+      "explanation": "Require means need."
+    },
+    {
+      "q": "Single means?",
+      "opts": ["many", "one", "group", "all"],
+      "ans": 1,
+      "explanation": "Single means one."
+    },
+    {
+      "q": "Success means?",
+      "opts": ["failure", "achievement", "loss", "problem"],
+      "ans": 1,
+      "explanation": "Success means achievement."
+    },
+    {
+      "q": "Tear means?",
+      "opts": ["fix", "break/cry drop", "build", "save"],
+      "ans": 1,
+      "explanation": "Tear means break or cry drop."
+    },
+    {
+      "q": "Theory means?",
+      "opts": ["fact idea", "random noise", "place", "action"],
+      "ans": 0,
+      "explanation": "Theory means idea explanation."
+    }
+  ],
+
+  "story": {
+    "title": "The Theory of Success",
+    "body": "In a familiar school, a student named Rafi had a single purpose in life: success. He believed in a simple theory that hard work and balance always bring results. One day, his teacher allowed students to propose ideas for a science project. Rafi arranged his work carefully and attended every class to understand the pattern of learning. At first, the challenge was huge, and he felt like tearing up his notes in frustration. But his teacher encouraged him to stay calm and continue. Rafi decided to grab every opportunity and not avoid difficulties. He contributed ideas, followed instructions, and balanced his time between study and rest. Slowly, his project improved. The result was announced, and Rafi achieved great success. Everyone in the community praised him. He realized that necessary effort, patience, and a clear purpose can change everything. Therefore, he promised to always work wisely in the future.",
+    "comprehension": [
+      {
+        "q": "What was Rafi's goal?",
+        "opts": ["fun", "success", "travel", "sleep"],
+        "ans": 1
+      },
+      {
+        "q": "What did teacher allow?",
+        "opts": ["fight", "ideas", "sleep", "leave"],
+        "ans": 1
+      },
+      {
+        "q": "How was the challenge?",
+        "opts": ["small", "huge", "easy", "none"],
+        "ans": 1
+      },
+      {
+        "q": "What did Rafi achieve?",
+        "opts": ["failure", "success", "confusion", "loss"],
+        "ans": 1
+      }
+    ],
+    "tags": ["success", "theory", "purpose", "balance", "encourage"]
+  },
+
+  "listening": {
+    "title": "Science Project Discussion",
+    "script": "A: Did you arrange your project?\nB: Yes, I attend classes regularly.\nA: What is your purpose?\nB: To achieve success.\nA: That sounds good.\nB: I follow a theory of hard work.\nA: Can you explain?\nB: Balance study and rest.\nA: Did you face challenges?\nB: Yes, they were huge.\nA: How did you handle it?\nB: My teacher encouraged me.\nA: Will you present it?\nB: Yes, I will announce it tomorrow.\nA: Good luck!\nB: Thank you.",
+    "comprehension": [
+      {
+        "q": "What is B's purpose?",
+        "opts": ["sleep", "success", "fun", "travel"],
+        "ans": 1
+      },
+      {
+        "q": "What helped B?",
+        "opts": ["fear", "encouragement", "noise", "luck"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "My Theory of Success",
+    "prompt": "Explain your personal theory of success. Use words like purpose, arrange, balance, and necessary.",
+    "example": "My theory of success is simple. I arrange my time, balance study and rest, and focus on my purpose. I believe necessary effort brings success.",
+    "tips": [
+      "Speak with confidence",
+      "Use real-life examples",
+      "Keep ideas simple",
+      "Focus on purpose"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Talking about study plan",
+    "steps": [
+      { "speaker": "app", "text": "What is your purpose?" },
+      { "speaker": "user", "prompt": "Explain your goal." },
+      { "speaker": "app", "text": "How do you arrange your study?" },
+      { "speaker": "user", "prompt": "Describe your plan." },
+      { "speaker": "app", "text": "Do you believe in success theory?" },
+      { "speaker": "user", "prompt": "Answer with opinion." }
+    ]
+  }
+}

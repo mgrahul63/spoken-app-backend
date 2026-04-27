@@ -1,0 +1,206 @@
+{
+  "day": 2,
+  "topic": "Work & Career",
+  "lessonId": "L2D2",
+  "vocabulary": [
+    {
+      "word": "Colleague",
+      "phonetic": "/ˈkɒliːɡ/",
+      "meaning": "A person you work with",
+      "bangla": "সহকর্মী",
+      "example": "My colleague helped me finish the project.",
+      "exampleBn": "আমার সহকর্মী আমাকে প্রজেক্ট শেষ করতে সাহায্য করেছে।"
+    },
+    {
+      "word": "Deadline",
+      "phonetic": "/ˈdedlaɪn/",
+      "meaning": "The latest time by which something must be done",
+      "bangla": "শেষ সময়সীমা",
+      "example": "The deadline is Friday evening.",
+      "exampleBn": "শেষ সময়সীমা শুক্রবার সন্ধ্যা।"
+    },
+    {
+      "word": "Promotion",
+      "phonetic": "/prəˈmoʊʃən/",
+      "meaning": "Moving to a higher position at work",
+      "bangla": "পদোন্নতি",
+      "example": "She got a promotion last month.",
+      "exampleBn": "গত মাসে সে পদোন্নতি পেয়েছে।"
+    },
+    {
+      "word": "Negotiate",
+      "phonetic": "/nɪˈɡoʊʃieɪt/",
+      "meaning": "To discuss to reach an agreement",
+      "bangla": "আলোচনা করা / দর কষাকষি করা",
+      "example": "He negotiated a better salary.",
+      "exampleBn": "সে আরও ভালো বেতনের জন্য আলোচনা করল।"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "I'm working on it",
+      "bangla": "আমি এটা নিয়ে কাজ করছি",
+      "usage": "When someone asks about progress",
+      "example": "Don't worry, I'm working on it."
+    },
+    {
+      "phrase": "Let me get back to you",
+      "bangla": "আমি তোমাকে পরে জানাব",
+      "usage": "When you need time before answering",
+      "example": "That's a great question. Let me get back to you."
+    },
+    {
+      "phrase": "Could we reschedule?",
+      "bangla": "আমরা কি সময় পরিবর্তন করতে পারি?",
+      "usage": "When you need to change an appointment",
+      "example": "I have a conflict. Could we reschedule our meeting?"
+    },
+    {
+      "phrase": "I appreciate your feedback",
+      "bangla": "আমি আপনার মতামতের প্রশংসা করি",
+      "usage": "Responding to comments about your work",
+      "example": "Thank you. I appreciate your feedback on this report."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I have been working here for three years.",
+      "bn": "আমি এখানে তিন বছর ধরে কাজ করছি।"
+    },
+    {
+      "en": "Could you please send me the report by Friday?",
+      "bn": "আপনি কি শুক্রবারের মধ্যে আমাকে রিপোর্টটি পাঠাবেন?"
+    },
+    {
+      "en": "I would like to apply for the manager position.",
+      "bn": "আমি ম্যানেজার পদের জন্য আবেদন করতে চাই।"
+    },
+    {
+      "en": "We need to meet the deadline or we'll lose the client.",
+      "bn": "আমাদের সময়সীমা পূরণ করতে হবে নয়তো আমরা ক্লায়েন্ট হারাব।"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does 'colleague' mean?",
+      "opts": ["বস", "সহকর্মী", "ক্লায়েন্ট", "পদোন্নতি"],
+      "ans": 1,
+      "explanation": "A colleague is someone who works in the same organization as you."
+    },
+    {
+      "q": "'Let me get back to you' means:",
+      "opts": [
+        "I will call you back later",
+        "I will give you information later",
+        "I don't know",
+        "I disagree"
+      ],
+      "ans": 1,
+      "explanation": "This phrase means you'll provide an answer or update at a later time."
+    },
+    {
+      "q": "What is a 'deadline'?",
+      "opts": ["শেষ সময়সীমা", "বেতন", "পদোন্নতি", "সহকর্মী"],
+      "ans": 0,
+      "explanation": "A deadline is the final date or time by which something must be completed."
+    },
+    {
+      "q": "How do you ask to change a meeting time?",
+      "opts": [
+        "Could we reschedule?",
+        "What time is it?",
+        "I'll take it",
+        "I see your point"
+      ],
+      "ans": 0,
+      "explanation": "'Could we reschedule?' is the polite way to request a time change."
+    }
+  ],
+  "story": {
+    "title": "The Big Presentation",
+    "body": "Nadia had an important presentation at work. The deadline was Monday morning.\n\nOn Friday, her colleague Rahim asked, \"How's the report going, Nadia?\"\n\n\"I'm working on it,\" she said, \"but I need more data.\"\n\n\"I can help with that,\" said Rahim. \"Let's work together this weekend.\"\n\nThey met on Saturday and finished the report. Nadia practiced her presentation many times.\n\nOn Monday, she spoke confidently. Her manager was impressed.\n\nAfter the meeting, the manager said, \"Excellent work, Nadia. I appreciate your dedication. We're considering you for a promotion.\"\n\nNadia smiled. \"Thank you! I appreciate your feedback. I've really been working hard.\"\n\nShe walked out of the office happier than ever.",
+    "comprehension": [
+      {
+        "q": "When was Nadia's deadline?",
+        "opts": ["Friday", "Saturday", "Sunday", "Monday"],
+        "ans": 3
+      },
+      {
+        "q": "What good news did Nadia receive?",
+        "opts": [
+          "A raise in salary",
+          "A promotion consideration",
+          "A new project",
+          "A holiday"
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": ["colleague", "deadline", "promotion", "feedback"]
+  },
+  "listening": {
+    "title": "Office Conversation",
+    "script": "Manager: \"John, could you send me the quarterly report by Friday?\"\n\nJohn: \"Of course. I'm working on it right now.\"\n\nManager: \"Great. How are things going with the new client?\"\n\nJohn: \"We're still negotiating the contract. They want a better price.\"\n\nManager: \"That's fine. Let me know how it goes. Could we reschedule our 3 PM meeting? I have a conflict.\"\n\nJohn: \"Sure! Would 4 PM work?\"\n\nManager: \"Perfect. Also, I wanted to say — I appreciate your feedback on the new system. It was very helpful.\"\n\nJohn: \"Thank you. I just want to make sure we meet all our deadlines.\"\n\nManager: \"That's exactly why we're thinking about your promotion. Keep up the good work!\"",
+    "comprehension": [
+      {
+        "q": "What document does the manager need?",
+        "opts": [
+          "A presentation",
+          "An invoice",
+          "A quarterly report",
+          "An email"
+        ],
+        "ans": 2
+      },
+      {
+        "q": "Why does the manager want to reschedule?",
+        "opts": [
+          "He is sick",
+          "He has a conflict",
+          "He forgot",
+          "He is traveling"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Talk About Your Work or Studies",
+    "prompt": "Describe your work or studies. What do you do? What challenges do you face? Use work-related vocabulary.",
+    "example": "I am a student at university. My deadline for the final project is next month. I work with my colleagues — classmates — every day. I hope to get a promotion in my career someday.",
+    "tips": [
+      "Use present tense for current situations",
+      "Use 'I have been...' for ongoing experiences",
+      "Mention both positives and challenges"
+    ]
+  },
+  "conversation": {
+    "scenario": "Job interview practice",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Tell me about yourself and your work experience."
+      },
+      {
+        "speaker": "user",
+        "prompt": "Introduce yourself and your background."
+      },
+      {
+        "speaker": "app",
+        "text": "What are your strengths in the workplace?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Mention 2 strengths with examples."
+      },
+      {
+        "speaker": "app",
+        "text": "How do you handle tight deadlines?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Explain your strategy for meeting deadlines."
+      }
+    ]
+  }
+}

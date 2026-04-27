@@ -1,0 +1,213 @@
+{
+  "day": 1,
+  "topic": "Opinions & Discussions",
+  "lessonId": "L2D1",
+  "vocabulary": [
+    {
+      "word": "Perspective",
+      "phonetic": "/pərˈspektɪv/",
+      "meaning": "A particular way of thinking about something",
+      "bangla": "দৃষ্টিভঙ্গি",
+      "example": "From my perspective, this is the best choice.",
+      "exampleBn": "আমার দৃষ্টিভঙ্গি থেকে, এটাই সেরা পছন্দ।"
+    },
+    {
+      "word": "Argument",
+      "phonetic": "/ˈɑːrɡjumənt/",
+      "meaning": "A reason or set of reasons given to support an idea",
+      "bangla": "যুক্তি",
+      "example": "He made a strong argument.",
+      "exampleBn": "সে একটি শক্তিশালী যুক্তি দিল।"
+    },
+    {
+      "word": "Compromise",
+      "phonetic": "/ˈkɒmprəmaɪz/",
+      "meaning": "An agreement by both sides giving up something",
+      "bangla": "আপোষ / মধ্যপন্থা",
+      "example": "We need to reach a compromise.",
+      "exampleBn": "আমাদের একটি আপোষে পৌঁছাতে হবে।"
+    },
+    {
+      "word": "Elaborate",
+      "phonetic": "/ɪˈlæbəreɪt/",
+      "meaning": "To explain something in more detail",
+      "bangla": "বিস্তারিত বলা",
+      "example": "Could you elaborate on that point?",
+      "exampleBn": "আপনি কি সেই বিষয়টি বিস্তারিত বলবেন?"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "In my opinion...",
+      "bangla": "আমার মতে...",
+      "usage": "Expressing your view",
+      "example": "In my opinion, education is the key to success."
+    },
+    {
+      "phrase": "I see your point, but...",
+      "bangla": "আমি তোমার কথা বুঝতে পারছি, কিন্তু...",
+      "usage": "Agreeing partially then disagreeing",
+      "example": "I see your point, but I think we need more time."
+    },
+    {
+      "phrase": "To be honest...",
+      "bangla": "সৎভাবে বলতে গেলে...",
+      "usage": "Being frank in a polite way",
+      "example": "To be honest, I don't agree with that decision."
+    },
+    {
+      "phrase": "That's a valid point",
+      "bangla": "এটা একটি গুরুত্বপূর্ণ কথা",
+      "usage": "Acknowledging someone's argument",
+      "example": "That's a valid point. I hadn't thought of it that way."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I strongly believe that hard work leads to success.",
+      "bn": "আমি দৃঢ়ভাবে বিশ্বাস করি যে কঠোর পরিশ্রম সাফল্যের দিকে নিয়ে যায়।"
+    },
+    {
+      "en": "Could you elaborate on what you mean by that?",
+      "bn": "আপনি এটা দিয়ে কী বোঝাতে চাইছেন তা কি বিস্তারিত বলবেন?"
+    },
+    {
+      "en": "Both perspectives have their merits.",
+      "bn": "উভয় দৃষ্টিভঙ্গিরই গুণ আছে।"
+    },
+    {
+      "en": "Let's try to reach a compromise on this matter.",
+      "bn": "চলুন এই বিষয়ে একটি আপোষে পৌঁছানোর চেষ্টা করি।"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What phrase do you use to express your opinion?",
+      "opts": [
+        "In my opinion...",
+        "How much is it?",
+        "Turn left here",
+        "Good morning"
+      ],
+      "ans": 0,
+      "explanation": "'In my opinion' is the standard phrase for sharing personal views."
+    },
+    {
+      "q": "What does 'compromise' mean?",
+      "opts": ["যুক্তি", "আপোষ", "দৃষ্টিভঙ্গি", "বিস্তারিত বলা"],
+      "ans": 1,
+      "explanation": "Compromise means both sides agree to give up something to reach a solution."
+    },
+    {
+      "q": "'That's a valid point' means:",
+      "opts": [
+        "I disagree completely",
+        "This is wrong",
+        "I acknowledge your argument",
+        "This is funny"
+      ],
+      "ans": 2,
+      "explanation": "This phrase acknowledges that the other person made a good argument."
+    },
+    {
+      "q": "'I see your point, but...' is used to:",
+      "opts": [
+        "Fully agree",
+        "Partially agree then disagree",
+        "Change the subject",
+        "Ask a question"
+      ],
+      "ans": 1,
+      "explanation": "This phrase shows you understand their view before presenting a different one."
+    }
+  ],
+  "story": {
+    "title": "The Class Discussion",
+    "body": "Mr. Hassan asked the class, \"Should students be allowed to use mobile phones in school?\"\n\nRana raised her hand. \"In my opinion, phones should be allowed. Students can use them for research and learning.\"\n\nKamal disagreed. \"I see your point, but phones are a big distraction. Students spend more time on social media than studying.\"\n\n\"That's a valid point,\" said Rana, \"but we can't ignore how useful technology is today.\"\n\nMr. Hassan smiled. \"Both perspectives have merit. Could you elaborate, Kamal, on how we can reduce distraction?\"\n\nKamal thought for a moment. \"Perhaps phones should only be allowed during breaks. That would be a good compromise.\"\n\nThe class agreed. To be honest, it was their best discussion ever!",
+    "comprehension": [
+      {
+        "q": "What was the topic of discussion?",
+        "opts": [
+          "School uniforms",
+          "Mobile phones in school",
+          "Homework policy",
+          "Lunch breaks"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What compromise did Kamal suggest?",
+        "opts": [
+          "Ban phones completely",
+          "Allow phones all day",
+          "Allow phones only during breaks",
+          "Use tablets instead"
+        ],
+        "ans": 2
+      }
+    ],
+    "tags": ["perspective", "argument", "compromise", "opinion"]
+  },
+  "listening": {
+    "title": "A Friendly Debate",
+    "script": "Sara: \"In my opinion, working from home is more productive than working in an office.\"\n\nJames: \"I see your point, Sara, but I think offices encourage teamwork better.\"\n\nSara: \"That's a valid point. But to be honest, I save 2 hours of commute every day when I work from home.\"\n\nJames: \"True! But don't you miss the social interaction?\"\n\nSara: \"Sometimes. But we can still meet online. Could you elaborate on why you prefer the office?\"\n\nJames: \"Sure. From my perspective, face-to-face communication reduces misunderstandings.\"\n\nSara: \"That makes sense. Maybe a compromise — 3 days home, 2 days office — would work best?\"\n\nJames: \"Now that's an argument I can agree with!\"",
+    "comprehension": [
+      {
+        "q": "What is Sara's opinion about work from home?",
+        "opts": [
+          "She dislikes it",
+          "She thinks it's more productive",
+          "She prefers the office",
+          "She has no opinion"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What compromise do they reach?",
+        "opts": [
+          "All days office",
+          "All days home",
+          "3 days home, 2 days office",
+          "1 day office per week"
+        ],
+        "ans": 2
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Share Your Opinion",
+    "prompt": "Talk about any topic you have a strong opinion on. Use: In my opinion, I believe, To be honest, That's why...",
+    "example": "In my opinion, reading books is better than watching TV. Books improve our vocabulary and imagination. To be honest, I read at least one book every month. That's why I always recommend reading to my friends.",
+    "tips": [
+      "State your opinion clearly first",
+      "Give at least 2 reasons",
+      "Use 'because' and 'that's why' to connect ideas"
+    ]
+  },
+  "conversation": {
+    "scenario": "Discussing a social topic",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Do you think social media is good or bad for young people? What's your opinion?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Give your opinion using 'In my opinion...'"
+      },
+      {
+        "speaker": "app",
+        "text": "That's interesting. But I see your point. Some people argue it causes addiction. What do you think about that?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Agree or disagree with a reason."
+      },
+      {
+        "speaker": "app",
+        "text": "That's a valid point. Can you suggest a compromise?"
+      },
+      { "speaker": "user", "prompt": "Suggest a balanced solution." }
+    ]
+  }
+}

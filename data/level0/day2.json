@@ -1,0 +1,183 @@
+{
+  "day": 2,
+  "topic": "Numbers & Daily Routine",
+  "lessonId": "L0D2",
+  "vocabulary": [
+    {
+      "word": "Morning",
+      "phonetic": "/ˈmɔːrnɪŋ/",
+      "meaning": "The early part of the day",
+      "bangla": "সকাল",
+      "example": "I exercise every morning.",
+      "exampleBn": "আমি প্রতি সকালে ব্যায়াম করি।"
+    },
+    {
+      "word": "Breakfast",
+      "phonetic": "/ˈbrekfəst/",
+      "meaning": "First meal of the day",
+      "bangla": "সকালের নাস্তা",
+      "example": "I eat breakfast at 7 AM.",
+      "exampleBn": "আমি সকাল ৭টায় নাস্তা খাই।"
+    },
+    {
+      "word": "Schedule",
+      "phonetic": "/ˈʃedjuːl/",
+      "meaning": "A plan of activities with times",
+      "bangla": "সময়সূচী",
+      "example": "I follow a strict schedule.",
+      "exampleBn": "আমি কঠোর সময়সূচী মেনে চলি।"
+    },
+    {
+      "word": "Routine",
+      "phonetic": "/ruːˈtiːn/",
+      "meaning": "A set of regular activities",
+      "bangla": "দৈনন্দিন রুটিন",
+      "example": "My morning routine starts at 6.",
+      "exampleBn": "আমার সকালের রুটিন ৬টায় শুরু হয়।"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "What time is it?",
+      "bangla": "এখন কটা বাজে?",
+      "usage": "Asking about the time",
+      "example": "Excuse me, what time is it?"
+    },
+    {
+      "phrase": "It's time to go",
+      "bangla": "এখন যাওয়ার সময়",
+      "usage": "When it's time to leave",
+      "example": "It's time to go. Bye!"
+    },
+    {
+      "phrase": "I wake up early",
+      "bangla": "আমি সকাল সকাল উঠি",
+      "usage": "Describing morning habit",
+      "example": "I wake up early every day."
+    },
+    {
+      "phrase": "Good night",
+      "bangla": "শুভ রাত্রি",
+      "usage": "Saying goodbye at night",
+      "example": "Good night! Sleep well."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I usually wake up at seven in the morning.",
+      "bn": "আমি সাধারণত সকাল সাতটায় উঠি।"
+    },
+    {
+      "en": "She cooks dinner every evening.",
+      "bn": "সে প্রতি সন্ধ্যায় রাতের খাবার রান্না করে।"
+    },
+    {
+      "en": "I take a shower before breakfast.",
+      "bn": "আমি সকালের নাস্তার আগে গোসল করি।"
+    },
+    {
+      "en": "We go to bed at ten o'clock.",
+      "bn": "আমরা রাত দশটায় ঘুমাতে যাই।"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does 'routine' mean in Bangla?",
+      "opts": ["সময়সূচী", "দৈনন্দিন রুটিন", "সকাল", "নাস্তা"],
+      "ans": 1,
+      "explanation": "Routine means a set of regular activities you do every day."
+    },
+    {
+      "q": "Which is correct?",
+      "opts": [
+        "I wakes up at 7",
+        "She wake up at 7",
+        "I wake up at 7",
+        "They wakes up at 7"
+      ],
+      "ans": 2,
+      "explanation": "With 'I', we use the base form: wake up."
+    },
+    {
+      "q": "Translate: 'শুভ রাত্রি'",
+      "opts": ["Good morning", "Good afternoon", "Good evening", "Good night"],
+      "ans": 3,
+      "explanation": "'Good night' is said before sleeping or late in the evening."
+    },
+    {
+      "q": "'I take a shower before breakfast' means:",
+      "opts": [
+        "নাস্তার পরে গোসল",
+        "নাস্তার আগে গোসল",
+        "গোসলের পরে নাস্তা নেই",
+        "সকালে গোসল নেই"
+      ],
+      "ans": 1,
+      "explanation": "'Before' means আগে in Bangla."
+    }
+  ],
+  "story": {
+    "title": "Mira's Perfect Morning",
+    "body": "Every morning, Mira wakes up at 6 o'clock. First, she brushes her teeth and takes a quick shower.\n\nThen she eats breakfast — usually eggs and toast.\n\nShe checks her schedule on her phone. Today she has an important meeting at 9 AM.\n\n\"I must not be late!\" she says.\n\nShe picks up her bag and leaves home at 8 o'clock.\n\nOn the bus, she listens to English podcasts to practice.\n\nMira has a great routine. She always starts her day with energy and a smile!",
+    "comprehension": [
+      {
+        "q": "What time does Mira wake up?",
+        "opts": ["5 AM", "6 AM", "7 AM", "8 AM"],
+        "ans": 1
+      },
+      {
+        "q": "What does Mira do on the bus?",
+        "opts": [
+          "Reads a book",
+          "Sleeps",
+          "Listens to podcasts",
+          "Eats breakfast"
+        ],
+        "ans": 2
+      }
+    ],
+    "tags": ["routine", "morning", "schedule", "breakfast"]
+  },
+  "listening": {
+    "title": "Morning Phone Call",
+    "script": "Mom: \"Rafi! Wake up! It's already seven o'clock!\"\n\nRafi: \"Five more minutes, Mom...\"\n\nMom: \"No! Breakfast is ready. You'll be late for school!\"\n\nRafi: \"Okay! I'm getting up now.\"\n\nMom: \"Don't forget your schedule. You have math class first.\"\n\nRafi: \"I know. I checked it last night.\"\n\nMom: \"Come quickly before it gets cold!\"\n\nRafi: \"Coming! Good morning, Mom!\"\n\nMom: \"Good morning, dear. Now hurry up!\"",
+    "comprehension": [
+      {
+        "q": "What time is it in the story?",
+        "opts": ["6 AM", "7 AM", "8 AM", "9 AM"],
+        "ans": 1
+      },
+      {
+        "q": "What class does Rafi have first?",
+        "opts": ["English", "Science", "Math", "History"],
+        "ans": 2
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe Your Morning Routine",
+    "prompt": "Talk about what you do every morning. Use: wake up, breakfast, and at least one time expression.",
+    "example": "Every morning I wake up at 6 AM. I brush my teeth and take a shower. Then I eat breakfast and go to school.",
+    "tips": [
+      "Use 'first', 'then', 'after that' to connect your sentences",
+      "Mention specific times like '6 AM', '7:30 AM'"
+    ]
+  },
+  "conversation": {
+    "scenario": "Talking about your daily schedule",
+    "steps": [
+      { "speaker": "app", "text": "What time do you usually wake up?" },
+      { "speaker": "user", "prompt": "Tell the time you wake up." },
+      {
+        "speaker": "app",
+        "text": "That's early! What do you do first?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Tell your first morning activity."
+      },
+      { "speaker": "app", "text": "Do you eat breakfast every day?" },
+      { "speaker": "user", "prompt": "Answer yes or no and explain." }
+    ]
+  }
+}

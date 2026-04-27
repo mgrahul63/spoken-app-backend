@@ -1,0 +1,508 @@
+{
+  "day": 8,
+  "topic": "Life Situations, Emotion & Decision Vocabulary",
+  "lessonId": "L0D4",
+  "vocabulary": [
+    {
+      "word": "advantage",
+      "phonetic": "/ədˈvæntɪdʒ/",
+      "meaning": "a benefit or positive point",
+      "bangla": "সুবিধা",
+      "example": "This job has many advantages.",
+      "exampleBn": "এই চাকরির অনেক সুবিধা আছে।"
+    },
+    {
+      "word": "cause",
+      "phonetic": "/kɔːz/",
+      "meaning": "reason something happens",
+      "bangla": "কারণ",
+      "example": "What is the cause of this problem?",
+      "exampleBn": "এই সমস্যার কারণ কী?"
+    },
+    {
+      "word": "choice",
+      "phonetic": "/tʃɔɪs/",
+      "meaning": "an option between things",
+      "bangla": "পছন্দ",
+      "example": "It is your choice.",
+      "exampleBn": "এটি তোমার পছন্দ।"
+    },
+    {
+      "word": "community",
+      "phonetic": "/kəˈmjuːnəti/",
+      "meaning": "a group of people living together",
+      "bangla": "সম্প্রদায়",
+      "example": "Our community is friendly.",
+      "exampleBn": "আমাদের সম্প্রদায় বন্ধুত্বপূর্ণ।"
+    },
+    {
+      "word": "dead",
+      "phonetic": "/ded/",
+      "meaning": "not alive",
+      "bangla": "মৃত",
+      "example": "The tree is dead.",
+      "exampleBn": "গাছটি মৃত।"
+    },
+    {
+      "word": "distance",
+      "phonetic": "/ˈdɪstəns/",
+      "meaning": "space between two points",
+      "bangla": "দূরত্ব",
+      "example": "The distance is long.",
+      "exampleBn": "দূরত্ব অনেক বেশি।"
+    },
+    {
+      "word": "escape",
+      "phonetic": "/ɪˈskeɪp/",
+      "meaning": "to get away from danger",
+      "bangla": "পালানো",
+      "example": "He escaped from danger.",
+      "exampleBn": "সে বিপদ থেকে পালিয়ে গেছে।"
+    },
+    {
+      "word": "face",
+      "phonetic": "/feɪs/",
+      "meaning": "to deal with something",
+      "bangla": "মুখোমুখি হওয়া",
+      "example": "We must face the problem.",
+      "exampleBn": "আমাদের সমস্যার মুখোমুখি হতে হবে।"
+    },
+    {
+      "word": "follow",
+      "phonetic": "/ˈfɒloʊ/",
+      "meaning": "to go after or obey",
+      "bangla": "অনুসরণ করা",
+      "example": "Follow the rules.",
+      "exampleBn": "নিয়ম অনুসরণ করো।"
+    },
+    {
+      "word": "fright",
+      "phonetic": "/fraɪt/",
+      "meaning": "sudden fear",
+      "bangla": "ভয়",
+      "example": "The noise gave me fright.",
+      "exampleBn": "শব্দটি আমাকে ভয় দিয়েছিল।"
+    },
+    {
+      "word": "ghost",
+      "phonetic": "/ɡoʊst/",
+      "meaning": "spirit of a dead person",
+      "bangla": "ভূত",
+      "example": "People believe in ghosts.",
+      "exampleBn": "মানুষ ভূতে বিশ্বাস করে।"
+    },
+    {
+      "word": "individual",
+      "phonetic": "/ˌɪndɪˈvɪdʒuəl/",
+      "meaning": "one person",
+      "bangla": "ব্যক্তি",
+      "example": "Every individual is important.",
+      "exampleBn": "প্রতিটি ব্যক্তি গুরুত্বপূর্ণ।"
+    },
+    {
+      "word": "pet",
+      "phonetic": "/pet/",
+      "meaning": "an animal kept at home",
+      "bangla": "পোষা প্রাণী",
+      "example": "I have a pet cat.",
+      "exampleBn": "আমার একটি পোষা বিড়াল আছে।"
+    },
+    {
+      "word": "reach",
+      "phonetic": "/riːtʃ/",
+      "meaning": "to arrive at a place",
+      "bangla": "পৌঁছানো",
+      "example": "We reached home late.",
+      "exampleBn": "আমরা দেরিতে বাড়ি পৌঁছেছি।"
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meaning": "to go back",
+      "bangla": "ফিরে আসা",
+      "example": "He returned home.",
+      "exampleBn": "সে বাড়ি ফিরে এসেছে।"
+    },
+    {
+      "word": "survive",
+      "phonetic": "/səˈvaɪv/",
+      "meaning": "to continue living after danger",
+      "bangla": "বেঁচে থাকা",
+      "example": "They survived the accident.",
+      "exampleBn": "তারা দুর্ঘটনা থেকে বেঁচে গেছে।"
+    },
+    {
+      "word": "upset",
+      "phonetic": "/ʌpˈset/",
+      "meaning": "sad or angry",
+      "bangla": "মন খারাপ",
+      "example": "She is upset today.",
+      "exampleBn": "সে আজ মন খারাপ করেছে।"
+    },
+    {
+      "word": "voice",
+      "phonetic": "/vɔɪs/",
+      "meaning": "sound of speaking",
+      "bangla": "কণ্ঠস্বর",
+      "example": "I heard his voice.",
+      "exampleBn": "আমি তার কণ্ঠস্বর শুনেছি।"
+    },
+    {
+      "word": "weather",
+      "phonetic": "/ˈweðər/",
+      "meaning": "condition of air outside",
+      "bangla": "আবহাওয়া",
+      "example": "The weather is nice.",
+      "exampleBn": "আবহাওয়া ভালো।"
+    },
+    {
+      "word": "wise",
+      "phonetic": "/waɪz/",
+      "meaning": "having good judgment",
+      "bangla": "জ্ঞানী",
+      "example": "He is a wise man.",
+      "exampleBn": "সে একজন জ্ঞানী মানুষ।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "big advantage",
+      "bangla": "বড় সুবিধা",
+      "usage": "benefit",
+      "example": "This is a big advantage."
+    },
+    {
+      "phrase": "cause of problem",
+      "bangla": "সমস্যার কারণ",
+      "usage": "reason",
+      "example": "Find the cause of problem."
+    },
+    {
+      "phrase": "make a choice",
+      "bangla": "পছন্দ করা",
+      "usage": "decision",
+      "example": "Make a choice quickly."
+    },
+    {
+      "phrase": "local community",
+      "bangla": "স্থানীয় সম্প্রদায়",
+      "usage": "group",
+      "example": "Our local community helps each other."
+    },
+    {
+      "phrase": "dead end",
+      "bangla": "শেষ রাস্তা",
+      "usage": "no way forward",
+      "example": "This is a dead end."
+    },
+    {
+      "phrase": "long distance",
+      "bangla": "দীর্ঘ দূরত্ব",
+      "usage": "travel",
+      "example": "It is a long distance."
+    },
+    {
+      "phrase": "escape danger",
+      "bangla": "বিপদ থেকে পালানো",
+      "usage": "safety",
+      "example": "He escaped danger."
+    },
+    {
+      "phrase": "face reality",
+      "bangla": "বাস্তবতার মুখোমুখি হওয়া",
+      "usage": "truth",
+      "example": "We must face reality."
+    },
+    {
+      "phrase": "follow rules",
+      "bangla": "নিয়ম মানা",
+      "usage": "discipline",
+      "example": "Follow rules strictly."
+    },
+    {
+      "phrase": "feel fright",
+      "bangla": "ভয় পাওয়া",
+      "usage": "emotion",
+      "example": "I feel fright at night."
+    },
+    {
+      "phrase": "believe ghost",
+      "bangla": "ভূতে বিশ্বাস করা",
+      "usage": "superstition",
+      "example": "Some believe ghost stories."
+    },
+    {
+      "phrase": "individual person",
+      "bangla": "একজন ব্যক্তি",
+      "usage": "single human",
+      "example": "Every individual matters."
+    },
+    {
+      "phrase": "pet animal",
+      "bangla": "পোষা প্রাণী",
+      "usage": "home animal",
+      "example": "I love my pet animal."
+    },
+    {
+      "phrase": "reach destination",
+      "bangla": "গন্তব্যে পৌঁছানো",
+      "usage": "travel",
+      "example": "We reached destination."
+    },
+    {
+      "phrase": "return home",
+      "bangla": "বাড়ি ফেরা",
+      "usage": "going back",
+      "example": "I return home early."
+    },
+    {
+      "phrase": "survive accident",
+      "bangla": "দুর্ঘটনা থেকে বেঁচে যাওয়া",
+      "usage": "danger",
+      "example": "He survived accident."
+    },
+    {
+      "phrase": "feel upset",
+      "bangla": "মন খারাপ লাগা",
+      "usage": "emotion",
+      "example": "She feels upset."
+    },
+    {
+      "phrase": "soft voice",
+      "bangla": "নরম কণ্ঠস্বর",
+      "usage": "sound",
+      "example": "He has a soft voice."
+    },
+    {
+      "phrase": "bad weather",
+      "bangla": "খারাপ আবহাওয়া",
+      "usage": "climate",
+      "example": "Bad weather today."
+    },
+    {
+      "phrase": "wise decision",
+      "bangla": "জ্ঞানী সিদ্ধান্ত",
+      "usage": "choice",
+      "example": "It was a wise decision."
+    }
+  ],
+
+  "sentences": [
+    { "en": "This is an advantage.", "bn": "এটি একটি সুবিধা।" },
+    { "en": "What is the cause?", "bn": "কারণ কী?" },
+    { "en": "Make a choice.", "bn": "একটি পছন্দ করো।" },
+    { "en": "The community helps.", "bn": "সম্প্রদায় সাহায্য করে।" },
+    { "en": "The dog is dead.", "bn": "কুকুরটি মৃত।" },
+    { "en": "The distance is far.", "bn": "দূরত্ব অনেক।" },
+    { "en": "He escaped fast.", "bn": "সে দ্রুত পালিয়েছে।" },
+    { "en": "Face the truth.", "bn": "সত্যের মুখোমুখি হও।" },
+    { "en": "Follow me.", "bn": "আমাকে অনুসরণ করো।" },
+    { "en": "I feel fright.", "bn": "আমি ভয় পাচ্ছি।" },
+    { "en": "I saw a ghost.", "bn": "আমি একটি ভূত দেখেছি।" },
+    { "en": "He is an individual.", "bn": "সে একজন ব্যক্তি।" },
+    { "en": "I have a pet.", "bn": "আমার একটি পোষা প্রাণী আছে।" },
+    { "en": "We reach home.", "bn": "আমরা বাড়ি পৌঁছাই।" },
+    { "en": "He will return.", "bn": "সে ফিরে আসবে।" },
+    { "en": "They survive it.", "bn": "তারা এটি থেকে বেঁচে যায়।" },
+    { "en": "She is upset.", "bn": "সে মন খারাপ করেছে।" },
+    { "en": "I heard a voice.", "bn": "আমি একটি কণ্ঠস্বর শুনেছি।" },
+    { "en": "The weather is bad.", "bn": "আবহাওয়া খারাপ।" },
+    { "en": "He is wise.", "bn": "সে জ্ঞানী।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Advantage means?",
+      "opts": ["loss", "benefit", "danger", "fear"],
+      "ans": 1,
+      "explanation": "Advantage means benefit."
+    },
+    {
+      "q": "Cause means?",
+      "opts": ["result", "reason", "action", "place"],
+      "ans": 1,
+      "explanation": "Cause means reason."
+    },
+    {
+      "q": "Choice means?",
+      "opts": ["option", "rule", "problem", "friend"],
+      "ans": 0,
+      "explanation": "Choice means option."
+    },
+    {
+      "q": "Community means?",
+      "opts": ["animal", "group", "place", "food"],
+      "ans": 1,
+      "explanation": "Community is group."
+    },
+    {
+      "q": "Dead means?",
+      "opts": ["alive", "not alive", "happy", "fast"],
+      "ans": 1,
+      "explanation": "Dead means not alive."
+    },
+    {
+      "q": "Distance means?",
+      "opts": ["time", "space", "speed", "color"],
+      "ans": 1,
+      "explanation": "Distance is space."
+    },
+    {
+      "q": "Escape means?",
+      "opts": ["stay", "run away", "fight", "sleep"],
+      "ans": 1,
+      "explanation": "Escape means run away."
+    },
+    {
+      "q": "Face means?",
+      "opts": ["avoid", "deal with", "hide", "run"],
+      "ans": 1,
+      "explanation": "Face means deal with."
+    },
+    {
+      "q": "Follow means?",
+      "opts": ["ignore", "obey", "break", "stop"],
+      "ans": 1,
+      "explanation": "Follow means obey."
+    },
+    {
+      "q": "Fright means?",
+      "opts": ["joy", "fear", "love", "anger"],
+      "ans": 1,
+      "explanation": "Fright means fear."
+    },
+    {
+      "q": "Ghost means?",
+      "opts": ["animal", "spirit", "human", "object"],
+      "ans": 1,
+      "explanation": "Ghost is spirit."
+    },
+    {
+      "q": "Individual means?",
+      "opts": ["group", "person", "city", "team"],
+      "ans": 1,
+      "explanation": "Individual means person."
+    },
+    {
+      "q": "Pet means?",
+      "opts": ["wild animal", "home animal", "plant", "bird only"],
+      "ans": 1,
+      "explanation": "Pet is home animal."
+    },
+    {
+      "q": "Reach means?",
+      "opts": ["leave", "arrive", "run", "break"],
+      "ans": 1,
+      "explanation": "Reach means arrive."
+    },
+    {
+      "q": "Return means?",
+      "opts": ["go back", "go forward", "stay", "hide"],
+      "ans": 0,
+      "explanation": "Return means go back."
+    },
+    {
+      "q": "Survive means?",
+      "opts": ["die", "live through", "stop", "sleep"],
+      "ans": 1,
+      "explanation": "Survive means live through."
+    },
+    {
+      "q": "Upset means?",
+      "opts": ["happy", "sad", "fast", "strong"],
+      "ans": 1,
+      "explanation": "Upset means sad."
+    },
+    {
+      "q": "Voice means?",
+      "opts": ["sound of speaking", "light", "color", "object"],
+      "ans": 0,
+      "explanation": "Voice is speaking sound."
+    },
+    {
+      "q": "Weather means?",
+      "opts": ["food", "sky condition", "animal", "time"],
+      "ans": 1,
+      "explanation": "Weather is sky condition."
+    },
+    {
+      "q": "Wise means?",
+      "opts": ["foolish", "smart judgment", "slow", "weak"],
+      "ans": 1,
+      "explanation": "Wise means smart judgment."
+    }
+  ],
+
+  "story": {
+    "title": "The Wise Choice in Bad Weather",
+    "body": "One day in a small community, the weather suddenly became very bad. Dark clouds covered the sky, and strong wind started blowing. Rafi and his pet were walking home from school when they faced a difficult situation. The distance to home was long, and they had to make a choice quickly. Rafi remembered his teacher’s instruction to always stay calm and think wisely. He avoided dangerous areas and chose a safe road instead. On the way, he saw a frightened man who had fallen and could not reach his house. Rafi helped him, even though it made their return slower. Later, a loud storm spread across the village, but they survived safely. The man thanked Rafi with a kind voice and said he was very wise. Rafi felt upset about the storm but content that he made the right decision. That day he learned that a wise choice can save lives and help others too.",
+    "comprehension": [
+      {
+        "q": "What was the weather like?",
+        "opts": ["sunny", "bad", "cold", "clear"],
+        "ans": 1
+      },
+      {
+        "q": "What did Rafi do?",
+        "opts": ["ran away", "helped man", "slept", "played"],
+        "ans": 1
+      },
+      {
+        "q": "Did they survive?",
+        "opts": ["no", "yes", "unknown", "later"],
+        "ans": 1
+      },
+      {
+        "q": "What did Rafi learn?",
+        "opts": ["fear", "wisdom", "anger", "fun"],
+        "ans": 1
+      }
+    ],
+    "tags": ["weather", "community", "wise", "survive", "choice"]
+  },
+
+  "listening": {
+    "title": "Storm in the Village",
+    "script": "A: The weather looks bad today.\nB: Yes, dark clouds are coming.\nA: Should we return home?\nB: Yes, we must reach before rain.\nA: I feel a little fright.\nB: Stay calm.\nA: What about the dog?\nB: It is my pet, I will take it.\nA: The distance is long.\nB: Walk carefully.\nA: Do you hear that voice?\nB: Yes, maybe wind.\nA: Let’s follow the safe road.\nB: Good choice.\nA: We can survive this.\nB: Yes, we will.",
+    "comprehension": [
+      {
+        "q": "What is the problem?",
+        "opts": ["sun", "storm", "food", "noise"],
+        "ans": 1
+      },
+      {
+        "q": "What should they do?",
+        "opts": ["stay", "return home", "run away", "sleep"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Difficult Situation Experience",
+    "prompt": "Describe a time you faced a difficult situation. Use words like choice, survive, upset, and calm.",
+    "example": "I once faced bad weather while going home. I had to make a quick choice. I stayed calm and tried to survive the situation. I felt a bit upset but learned something important.",
+    "tips": [
+      "Explain situation clearly",
+      "Use emotion words",
+      "Speak slowly",
+      "Give real-life example"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Talking during bad weather",
+    "steps": [
+      { "speaker": "app", "text": "How is the weather today?" },
+      { "speaker": "user", "prompt": "Describe the weather." },
+      { "speaker": "app", "text": "What will you do?" },
+      { "speaker": "user", "prompt": "Say your choice." },
+      { "speaker": "app", "text": "Are you afraid?" },
+      {
+        "speaker": "user",
+        "prompt": "Answer using 'fright' or 'calm'."
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "day": 2,
+  "topic": "Directions & Places",
+  "lessonId": "L1D2",
+  "vocabulary": [
+    {
+      "word": "Straight",
+      "phonetic": "/streɪt/",
+      "meaning": "Directly forward without turning",
+      "bangla": "সরাসরি",
+      "example": "Go straight and you'll find it.",
+      "exampleBn": "সরাসরি যাও, তুমি পেয়ে যাবে।"
+    },
+    {
+      "word": "Intersection",
+      "phonetic": "/ˌɪntərˈsekʃən/",
+      "meaning": "A place where roads meet",
+      "bangla": "মোড়",
+      "example": "Turn left at the intersection.",
+      "exampleBn": "মোড়ে বাম দিকে মোড় নাও।"
+    },
+    {
+      "word": "Landmark",
+      "phonetic": "/ˈlændmɑːrk/",
+      "meaning": "A recognizable place used as a reference",
+      "bangla": "পরিচিত স্থান / চিহ্নিত স্থান",
+      "example": "The mosque is a famous landmark.",
+      "exampleBn": "মসজিদটি একটি বিখ্যাত ল্যান্ডমার্ক।"
+    },
+    {
+      "word": "Nearby",
+      "phonetic": "/ˌnɪərˈbaɪ/",
+      "meaning": "Not far away; close",
+      "bangla": "কাছাকাছি",
+      "example": "Is there a hospital nearby?",
+      "exampleBn": "কাছাকাছি কোনো হাসপাতাল আছে?"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "How do I get to...?",
+      "bangla": "আমি কীভাবে ... যাব?",
+      "usage": "Asking for directions",
+      "example": "How do I get to the bus station?"
+    },
+    {
+      "phrase": "Turn left / Turn right",
+      "bangla": "বাম দিকে / ডান দিকে মোড় নাও",
+      "usage": "Giving directions",
+      "example": "Turn right after the school."
+    },
+    {
+      "phrase": "It's about 5 minutes away",
+      "bangla": "এটা প্রায় ৫ মিনিটের পথ",
+      "usage": "Describing distance by time",
+      "example": "The station is about 5 minutes away."
+    },
+    {
+      "phrase": "You can't miss it",
+      "bangla": "তুমি মিস করবে না / সহজেই পাবে",
+      "usage": "When a place is easy to find",
+      "example": "It's a big building — you can't miss it!"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Could you tell me how to get to the hospital?",
+      "bn": "আপনি কি আমাকে হাসপাতালে যাওয়ার পথ বলবেন?"
+    },
+    {
+      "en": "Go straight for two blocks, then turn right.",
+      "bn": "দুটি ব্লক সরাসরি যান, তারপর ডানে মোড় নিন।"
+    },
+    {
+      "en": "The bank is next to the post office.",
+      "bn": "ব্যাংকটি পোস্ট অফিসের পাশে।"
+    },
+    {
+      "en": "Is there a pharmacy nearby?",
+      "bn": "কাছাকাছি কোনো ওষুধের দোকান আছে?"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does 'intersection' mean in Bangla?",
+      "opts": ["সরাসরি", "কাছাকাছি", "মোড়", "পরিচিত স্থান"],
+      "ans": 2,
+      "explanation": "An intersection is where two or more roads cross each other."
+    },
+    {
+      "q": "How do you ask for directions?",
+      "opts": [
+        "How much is it?",
+        "How do I get to...?",
+        "What is your name?",
+        "Where do you live?"
+      ],
+      "ans": 1,
+      "explanation": "'How do I get to...?' is the standard way to ask for directions."
+    },
+    {
+      "q": "'You can't miss it' means:",
+      "opts": [
+        "It's very far",
+        "It's easy to find",
+        "It's hidden",
+        "It doesn't exist"
+      ],
+      "ans": 1,
+      "explanation": "This phrase means the place is very visible and easy to find."
+    },
+    {
+      "q": "Translate: 'বাম দিকে মোড় নাও'",
+      "opts": ["Go straight", "Turn right", "Turn left", "Go back"],
+      "ans": 2,
+      "explanation": "'Turn left' means to turn to your left side."
+    }
+  ],
+  "story": {
+    "title": "Lost in the City",
+    "body": "Karim was new to the city. He needed to find the central hospital but he was lost.\n\nHe stopped an old man on the street. \"Excuse me, sir. Could you tell me how to get to the central hospital?\"\n\nThe old man smiled kindly. \"Of course! Go straight down this road. After about 5 minutes, you'll see a big intersection.\"\n\n\"Then what?\" asked Karim.\n\n\"Turn right at the intersection. The hospital is a large white building on your left. You can't miss it!\"\n\n\"Is it nearby?\" asked Karim.\n\n\"Yes, it's about 10 minutes on foot,\" said the man.\n\nKarim thanked him and followed the directions. Sure enough, he found the hospital easily!",
+    "comprehension": [
+      {
+        "q": "What was Karim looking for?",
+        "opts": ["A school", "A bank", "A hospital", "A market"],
+        "ans": 2
+      },
+      {
+        "q": "Which direction does Karim turn at the intersection?",
+        "opts": ["Left", "Right", "Straight", "Back"],
+        "ans": 1
+      }
+    ],
+    "tags": ["straight", "intersection", "landmark", "nearby"]
+  },
+  "listening": {
+    "title": "Asking for Directions",
+    "script": "Tourist: \"Excuse me! Do you know where the train station is?\"\n\nLocal: \"Yes! It's not far. Go straight down this road.\"\n\nTourist: \"How long will it take?\"\n\nLocal: \"About 10 minutes on foot. After the mosque — that's the big landmark — turn left.\"\n\nTourist: \"Turn left after the mosque. Got it!\"\n\nLocal: \"Then go straight. The station is a large building. You can't miss it!\"\n\nTourist: \"Is there a pharmacy nearby? I need medicine.\"\n\nLocal: \"Yes, there's one right next to the station entrance.\"\n\nTourist: \"Perfect! Thank you so much!\"\n\nLocal: \"You're welcome! Have a safe journey!\"",
+    "comprehension": [
+      {
+        "q": "What is the tourist looking for?",
+        "opts": ["Bus stop", "Train station", "Airport", "Hotel"],
+        "ans": 1
+      },
+      {
+        "q": "What landmark does the local mention?",
+        "opts": ["A church", "A school", "A mosque", "A market"],
+        "ans": 2
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Give Directions",
+    "prompt": "Describe how to get from your home to your school or workplace. Use: go straight, turn left/right, you'll see, it's nearby.",
+    "example": "From my home, go straight for 3 minutes. Then turn right at the intersection. You'll see a school on your left. My workplace is nearby.",
+    "tips": [
+      "Use sequencing words: first, then, after that",
+      "Mention landmarks to make directions clearer",
+      "Speak slowly so the listener can follow"
+    ]
+  },
+  "conversation": {
+    "scenario": "A tourist asks you for directions",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Excuse me! Can you help me find the nearest ATM?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Say yes and start giving directions."
+      },
+      { "speaker": "app", "text": "Do I need to turn anywhere?" },
+      {
+        "speaker": "user",
+        "prompt": "Tell them to turn at a specific place."
+      },
+      { "speaker": "app", "text": "Is it far from here?" },
+      {
+        "speaker": "user",
+        "prompt": "Tell how far it is and say they can't miss it."
+      }
+    ]
+  }
+}

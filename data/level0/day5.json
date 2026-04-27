@@ -1,0 +1,514 @@
+{
+  "day": 5,
+  "topic": "Space, Study & Thinking Vocabulary",
+  "lessonId": "L0D2",
+  "vocabulary": [
+    {
+      "word": "alien",
+      "phonetic": "/ˈeɪliən/",
+      "meaning": "a creature from another planet",
+      "bangla": "ভিনগ্রহের প্রাণী",
+      "example": "The movie shows an alien.",
+      "exampleBn": "সিনেমাটিতে একটি ভিনগ্রহের প্রাণী দেখানো হয়েছে।"
+    },
+    {
+      "word": "among",
+      "phonetic": "/əˈmʌŋ/",
+      "meaning": "in the middle of a group",
+      "bangla": "মধ্যে",
+      "example": "She sat among friends.",
+      "exampleBn": "সে বন্ধুদের মধ্যে বসেছিল।"
+    },
+    {
+      "word": "chart",
+      "phonetic": "/tʃɑːrt/",
+      "meaning": "a visual display of information",
+      "bangla": "চার্ট",
+      "example": "Look at the chart.",
+      "exampleBn": "চার্টটি দেখো।"
+    },
+    {
+      "word": "cloud",
+      "phonetic": "/klaʊd/",
+      "meaning": "a mass of water vapor in the sky",
+      "bangla": "মেঘ",
+      "example": "The cloud is white.",
+      "exampleBn": "মেঘটি সাদা।"
+    },
+    {
+      "word": "comprehend",
+      "phonetic": "/ˌkɑːmprɪˈhend/",
+      "meaning": "to understand something",
+      "bangla": "বোঝা",
+      "example": "I comprehend the lesson.",
+      "exampleBn": "আমি পাঠটি বুঝি।"
+    },
+    {
+      "word": "describe",
+      "phonetic": "/dɪˈskraɪb/",
+      "meaning": "to explain something in words",
+      "bangla": "বর্ণনা করা",
+      "example": "Describe the picture.",
+      "exampleBn": "ছবিটি বর্ণনা করো।"
+    },
+    {
+      "word": "ever",
+      "phonetic": "/ˈevər/",
+      "meaning": "at any time",
+      "bangla": "কখনও",
+      "example": "Have you ever seen it?",
+      "exampleBn": "তুমি কি কখনও এটি দেখেছ?"
+    },
+    {
+      "word": "fail",
+      "phonetic": "/feɪl/",
+      "meaning": "to not succeed",
+      "bangla": "ব্যর্থ হওয়া",
+      "example": "He may fail the test.",
+      "exampleBn": "সে পরীক্ষায় ব্যর্থ হতে পারে।"
+    },
+    {
+      "word": "friendly",
+      "phonetic": "/ˈfrendli/",
+      "meaning": "kind and pleasant",
+      "bangla": "বন্ধুত্বপূর্ণ",
+      "example": "She is very friendly.",
+      "exampleBn": "সে খুব বন্ধুত্বপূর্ণ।"
+    },
+    {
+      "word": "grade",
+      "phonetic": "/ɡreɪd/",
+      "meaning": "a score or level in school",
+      "bangla": "গ্রেড",
+      "example": "I got a good grade.",
+      "exampleBn": "আমি ভালো গ্রেড পেয়েছি।"
+    },
+    {
+      "word": "instead",
+      "phonetic": "/ɪnˈsted/",
+      "meaning": "in place of something else",
+      "bangla": "পরিবর্তে",
+      "example": "Drink water instead.",
+      "exampleBn": "এর পরিবর্তে পানি খাও।"
+    },
+    {
+      "word": "library",
+      "phonetic": "/ˈlaɪbreri/",
+      "meaning": "a place with books",
+      "bangla": "গ্রন্থাগার",
+      "example": "I study in the library.",
+      "exampleBn": "আমি গ্রন্থাগারে পড়ি।"
+    },
+    {
+      "word": "planet",
+      "phonetic": "/ˈplænɪt/",
+      "meaning": "a large body in space",
+      "bangla": "গ্রহ",
+      "example": "Earth is a planet.",
+      "exampleBn": "পৃথিবী একটি গ্রহ।"
+    },
+    {
+      "word": "report",
+      "phonetic": "/rɪˈpɔːrt/",
+      "meaning": "a written or spoken account",
+      "bangla": "প্রতিবেদন",
+      "example": "Write a report.",
+      "exampleBn": "একটি প্রতিবেদন লেখো।"
+    },
+    {
+      "word": "several",
+      "phonetic": "/ˈsevərəl/",
+      "meaning": "more than two but not many",
+      "bangla": "কয়েকটি",
+      "example": "I have several books.",
+      "exampleBn": "আমার কয়েকটি বই আছে।"
+    },
+    {
+      "word": "solve",
+      "phonetic": "/sɑːlv/",
+      "meaning": "to find an answer",
+      "bangla": "সমাধান করা",
+      "example": "Solve the problem.",
+      "exampleBn": "সমস্যাটি সমাধান করো।"
+    },
+    {
+      "word": "suddenly",
+      "phonetic": "/ˈsʌdənli/",
+      "meaning": "quickly and unexpectedly",
+      "bangla": "হঠাৎ",
+      "example": "He suddenly stopped.",
+      "exampleBn": "সে হঠাৎ থেমে গেল।"
+    },
+    {
+      "word": "suppose",
+      "phonetic": "/səˈpoʊz/",
+      "meaning": "to think or guess",
+      "bangla": "ধারণা করা",
+      "example": "I suppose he is right.",
+      "exampleBn": "আমি মনে করি সে ঠিক।"
+    },
+    {
+      "word": "universe",
+      "phonetic": "/ˈjuːnɪvɜːrs/",
+      "meaning": "all space and everything in it",
+      "bangla": "মহাবিশ্ব",
+      "example": "The universe is huge.",
+      "exampleBn": "মহাবিশ্ব অনেক বড়।"
+    },
+    {
+      "word": "view",
+      "phonetic": "/vjuː/",
+      "meaning": "what you can see",
+      "bangla": "দৃশ্য",
+      "example": "The view is beautiful.",
+      "exampleBn": "দৃশ্যটি সুন্দর।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "alien life",
+      "bangla": "ভিনগ্রহের প্রাণ",
+      "usage": "space discussion",
+      "example": "Scientists study alien life."
+    },
+    {
+      "phrase": "among friends",
+      "bangla": "বন্ধুদের মধ্যে",
+      "usage": "group context",
+      "example": "He sat among friends."
+    },
+    {
+      "phrase": "bar chart",
+      "bangla": "বার চার্ট",
+      "usage": "data display",
+      "example": "Look at the bar chart."
+    },
+    {
+      "phrase": "dark cloud",
+      "bangla": "কালো মেঘ",
+      "usage": "weather",
+      "example": "A dark cloud is coming."
+    },
+    {
+      "phrase": "comprehend clearly",
+      "bangla": "স্পষ্টভাবে বোঝা",
+      "usage": "learning",
+      "example": "I comprehend clearly."
+    },
+    {
+      "phrase": "describe in detail",
+      "bangla": "বিস্তারিত বর্ণনা করা",
+      "usage": "explanation",
+      "example": "Describe it in detail."
+    },
+    {
+      "phrase": "ever seen",
+      "bangla": "কখনও দেখেছ",
+      "usage": "experience",
+      "example": "Have you ever seen this?"
+    },
+    {
+      "phrase": "fail the exam",
+      "bangla": "পরীক্ষায় ফেল করা",
+      "usage": "education",
+      "example": "He failed the exam."
+    },
+    {
+      "phrase": "friendly behavior",
+      "bangla": "বন্ধুত্বপূর্ণ আচরণ",
+      "usage": "personality",
+      "example": "She shows friendly behavior."
+    },
+    {
+      "phrase": "good grade",
+      "bangla": "ভালো গ্রেড",
+      "usage": "school",
+      "example": "I got a good grade."
+    },
+    {
+      "phrase": "instead of",
+      "bangla": "এর পরিবর্তে",
+      "usage": "replacement",
+      "example": "Use pen instead of pencil."
+    },
+    {
+      "phrase": "public library",
+      "bangla": "পাবলিক লাইব্রেরি",
+      "usage": "place",
+      "example": "We go to the library."
+    },
+    {
+      "phrase": "new planet",
+      "bangla": "নতুন গ্রহ",
+      "usage": "space",
+      "example": "They found a new planet."
+    },
+    {
+      "phrase": "write a report",
+      "bangla": "প্রতিবেদন লেখা",
+      "usage": "task",
+      "example": "Write a report."
+    },
+    {
+      "phrase": "several times",
+      "bangla": "কয়েকবার",
+      "usage": "frequency",
+      "example": "I tried several times."
+    },
+    {
+      "phrase": "solve a problem",
+      "bangla": "সমস্যা সমাধান",
+      "usage": "thinking",
+      "example": "Solve the problem."
+    },
+    {
+      "phrase": "suddenly appear",
+      "bangla": "হঠাৎ দেখা দেওয়া",
+      "usage": "unexpected",
+      "example": "He suddenly appeared."
+    },
+    {
+      "phrase": "I suppose",
+      "bangla": "আমি মনে করি",
+      "usage": "guess",
+      "example": "I suppose it is true."
+    },
+    {
+      "phrase": "the universe",
+      "bangla": "মহাবিশ্ব",
+      "usage": "space",
+      "example": "The universe is big."
+    },
+    {
+      "phrase": "beautiful view",
+      "bangla": "সুন্দর দৃশ্য",
+      "usage": "description",
+      "example": "It is a beautiful view."
+    }
+  ],
+
+  "sentences": [
+    {
+      "en": "The alien is strange.",
+      "bn": "ভিনগ্রহের প্রাণীটি অদ্ভুত।"
+    },
+    { "en": "He sat among us.", "bn": "সে আমাদের মধ্যে বসেছিল।" },
+    { "en": "The chart is clear.", "bn": "চার্টটি পরিষ্কার।" },
+    { "en": "The cloud is dark.", "bn": "মেঘটি কালো।" },
+    { "en": "I comprehend it.", "bn": "আমি এটি বুঝি।" },
+    { "en": "Describe the scene.", "bn": "দৃশ্যটি বর্ণনা করো।" },
+    { "en": "Have you ever gone?", "bn": "তুমি কি কখনও গিয়েছ?" },
+    { "en": "Do not fail.", "bn": "ব্যর্থ হয়ো না।" },
+    { "en": "She is friendly.", "bn": "সে বন্ধুত্বপূর্ণ।" },
+    { "en": "I got grade A.", "bn": "আমি এ গ্রেড পেয়েছি।" },
+    { "en": "Use this instead.", "bn": "এটি ব্যবহার করো।" },
+    { "en": "The library is quiet.", "bn": "লাইব্রেরি শান্ত।" },
+    { "en": "Mars is a planet.", "bn": "মঙ্গল একটি গ্রহ।" },
+    { "en": "Write the report.", "bn": "প্রতিবেদন লেখো।" },
+    { "en": "I have several pens.", "bn": "আমার কয়েকটি কলম আছে।" },
+    { "en": "Solve it now.", "bn": "এখনই সমাধান করো।" },
+    { "en": "He suddenly left.", "bn": "সে হঠাৎ চলে গেল।" },
+    { "en": "I suppose so.", "bn": "আমি তাই মনে করি।" },
+    { "en": "The universe is big.", "bn": "মহাবিশ্ব বড়।" },
+    { "en": "Nice view!", "bn": "সুন্দর দৃশ্য!" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Alien means?",
+      "opts": ["animal", "human", "space creature", "tree"],
+      "ans": 2,
+      "explanation": "Alien is from another planet."
+    },
+    {
+      "q": "Among means?",
+      "opts": ["outside", "inside group", "alone", "far"],
+      "ans": 1,
+      "explanation": "Among means inside a group."
+    },
+    {
+      "q": "Chart is?",
+      "opts": ["picture", "data graph", "food", "book"],
+      "ans": 1,
+      "explanation": "Chart shows data."
+    },
+    {
+      "q": "Cloud is?",
+      "opts": ["sky vapor", "stone", "fire", "earth"],
+      "ans": 0,
+      "explanation": "Cloud is vapor."
+    },
+    {
+      "q": "Comprehend means?",
+      "opts": ["see", "hear", "understand", "touch"],
+      "ans": 2,
+      "explanation": "Comprehend means understand."
+    },
+    {
+      "q": "Describe means?",
+      "opts": ["write", "explain", "draw", "read"],
+      "ans": 1,
+      "explanation": "Describe is explain."
+    },
+    {
+      "q": "Ever means?",
+      "opts": ["never", "always", "any time", "now"],
+      "ans": 2,
+      "explanation": "Ever means any time."
+    },
+    {
+      "q": "Fail means?",
+      "opts": ["win", "lose", "pass", "try"],
+      "ans": 1,
+      "explanation": "Fail means not succeed."
+    },
+    {
+      "q": "Friendly means?",
+      "opts": ["bad", "kind", "angry", "sad"],
+      "ans": 1,
+      "explanation": "Friendly means kind."
+    },
+    {
+      "q": "Grade means?",
+      "opts": ["score", "pen", "class", "time"],
+      "ans": 0,
+      "explanation": "Grade is score."
+    },
+    {
+      "q": "Instead means?",
+      "opts": ["same", "replace", "add", "remove"],
+      "ans": 1,
+      "explanation": "Instead means replacement."
+    },
+    {
+      "q": "Library is?",
+      "opts": ["shop", "book place", "home", "school"],
+      "ans": 1,
+      "explanation": "Library has books."
+    },
+    {
+      "q": "Planet is?",
+      "opts": ["star", "earth body", "cloud", "water"],
+      "ans": 1,
+      "explanation": "Planet is space body."
+    },
+    {
+      "q": "Report is?",
+      "opts": ["story", "account", "song", "note"],
+      "ans": 1,
+      "explanation": "Report is account."
+    },
+    {
+      "q": "Several means?",
+      "opts": ["one", "two", "few", "many"],
+      "ans": 2,
+      "explanation": "Several means few."
+    },
+    {
+      "q": "Solve means?",
+      "opts": ["break", "fix", "answer", "run"],
+      "ans": 2,
+      "explanation": "Solve is answer."
+    },
+    {
+      "q": "Suddenly means?",
+      "opts": ["slowly", "quickly", "never", "always"],
+      "ans": 1,
+      "explanation": "Suddenly is quick."
+    },
+    {
+      "q": "Suppose means?",
+      "opts": ["know", "guess", "see", "hear"],
+      "ans": 1,
+      "explanation": "Suppose is guess."
+    },
+    {
+      "q": "Universe means?",
+      "opts": ["earth", "space", "all space", "sky"],
+      "ans": 2,
+      "explanation": "Universe is everything."
+    },
+    {
+      "q": "View means?",
+      "opts": ["hear", "see", "touch", "smell"],
+      "ans": 1,
+      "explanation": "View is what you see."
+    }
+  ],
+
+  "story": {
+    "title": "A Strange Discovery",
+    "body": "Rina was sitting in the library among her friends. They were working on a school project about the universe. She looked at a chart showing different planets. Suddenly, she saw something strange in the sky through the window. A dark cloud moved quickly, and an alien shape appeared. She could not comprehend what she saw at first. She tried to describe it to her friends, but they did not believe her. She felt nervous but stayed calm. Instead of running, she decided to write a report about it. Later, her teacher said it was a rare view of a new planet. Everyone was surprised. Rina did not fail her project. She got a good grade and felt proud.",
+    "comprehension": [
+      {
+        "q": "Where was Rina?",
+        "opts": ["home", "library", "park", "road"],
+        "ans": 1
+      },
+      {
+        "q": "What did she see?",
+        "opts": ["car", "alien", "dog", "tree"],
+        "ans": 1
+      },
+      {
+        "q": "How did she feel?",
+        "opts": ["happy", "nervous", "angry", "sleepy"],
+        "ans": 1
+      },
+      {
+        "q": "What did teacher say?",
+        "opts": ["wrong", "right", "planet", "nothing"],
+        "ans": 2
+      }
+    ],
+    "tags": ["alien", "library", "planet", "universe", "report"]
+  },
+
+  "listening": {
+    "title": "Library Conversation",
+    "script": "A: Are you in the library?\nB: Yes, I am.\nA: What are you doing?\nB: I am working on a report.\nA: About what?\nB: About the universe.\nA: That sounds interesting.\nB: Yes, I saw a chart.\nA: What did it show?\nB: It showed planets.\nA: Have you ever seen an alien?\nB: No, never.\nA: That would be scary.\nB: Yes, but also exciting.\nA: Let’s study now.",
+    "comprehension": [
+      {
+        "q": "Where are they?",
+        "opts": ["home", "library", "park", "shop"],
+        "ans": 1
+      },
+      {
+        "q": "What are they studying?",
+        "opts": ["math", "universe", "sports", "food"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Describe Something Interesting",
+    "prompt": "Talk about something interesting you have seen. Use words like view, describe, and suppose.",
+    "example": "I once saw a beautiful view in the sky. I tried to describe it to my friends. I suppose it was a rare cloud formation. It made me feel excited.",
+    "tips": [
+      "Use simple words",
+      "Speak clearly",
+      "Use new vocabulary",
+      "Practice daily"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Talking about study and space",
+    "steps": [
+      { "speaker": "app", "text": "Hello! What are you studying?" },
+      {
+        "speaker": "user",
+        "prompt": "Say you are studying about universe."
+      },
+      {
+        "speaker": "app",
+        "text": "Have you ever seen a planet chart?"
+      },
+      { "speaker": "user", "prompt": "Say yes and describe it." },
+      { "speaker": "app", "text": "Do you like space topics?" },
+      { "speaker": "user", "prompt": "Answer and explain why." }
+    ]
+  }
+}

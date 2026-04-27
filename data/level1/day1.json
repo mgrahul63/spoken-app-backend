@@ -1,0 +1,198 @@
+{
+  "day": 1,
+  "topic": "Shopping & Prices",
+  "lessonId": "L1D1",
+  "vocabulary": [
+    {
+      "word": "Purchase",
+      "phonetic": "/ˈpɜːrtʃəs/",
+      "meaning": "To buy something",
+      "bangla": "ক্রয় করা",
+      "example": "I want to purchase a new phone.",
+      "exampleBn": "আমি একটি নতুন ফোন কিনতে চাই।"
+    },
+    {
+      "word": "Discount",
+      "phonetic": "/ˈdɪskaʊnt/",
+      "meaning": "A reduction in price",
+      "bangla": "ছাড়",
+      "example": "There is a 20% discount today.",
+      "exampleBn": "আজ ২০% ছাড় আছে।"
+    },
+    {
+      "word": "Receipt",
+      "phonetic": "/rɪˈsiːt/",
+      "meaning": "A document showing payment",
+      "bangla": "রসিদ",
+      "example": "Please give me a receipt.",
+      "exampleBn": "দয়া করে আমাকে রসিদ দিন।"
+    },
+    {
+      "word": "Refund",
+      "phonetic": "/ˈriːfʌnd/",
+      "meaning": "Money returned after a purchase",
+      "bangla": "ফেরত",
+      "example": "I want a refund for this product.",
+      "exampleBn": "আমি এই পণ্যের জন্য টাকা ফেরত চাই।"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "How much does it cost?",
+      "bangla": "এটার দাম কত?",
+      "usage": "Asking about price",
+      "example": "Excuse me, how much does this cost?"
+    },
+    {
+      "phrase": "Do you have this in another size?",
+      "bangla": "আপনার কাছে এটা অন্য সাইজে আছে?",
+      "usage": "When shopping for clothes",
+      "example": "Do you have this shirt in a larger size?"
+    },
+    {
+      "phrase": "Can I get a discount?",
+      "bangla": "আমি কি ছাড় পেতে পারি?",
+      "usage": "Negotiating price",
+      "example": "This is expensive. Can I get a discount?"
+    },
+    {
+      "phrase": "I'll take it",
+      "bangla": "আমি এটা নেব",
+      "usage": "Deciding to buy",
+      "example": "It looks perfect. I'll take it!"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "How much does this shirt cost?",
+      "bn": "এই শার্টের দাম কত?"
+    },
+    {
+      "en": "That is too expensive for me.",
+      "bn": "এটা আমার জন্য অনেক বেশি দাম।"
+    },
+    {
+      "en": "Do you accept credit cards?",
+      "bn": "আপনি কি ক্রেডিট কার্ড নেন?"
+    },
+    {
+      "en": "I would like to return this item.",
+      "bn": "আমি এই জিনিসটি ফেরত দিতে চাই।"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does 'discount' mean?",
+      "opts": ["দাম বাড়া", "ছাড়", "রসিদ", "ফেরত"],
+      "ans": 1,
+      "explanation": "Discount means a reduction in the original price."
+    },
+    {
+      "q": "How do you ask for price in English?",
+      "opts": [
+        "What is the name?",
+        "How much does it cost?",
+        "Where is it?",
+        "When is it?"
+      ],
+      "ans": 1,
+      "explanation": "'How much does it cost?' is the standard way to ask about price."
+    },
+    {
+      "q": "'I'll take it' is used when:",
+      "opts": [
+        "You refuse to buy",
+        "You decide to buy",
+        "You ask for discount",
+        "You return an item"
+      ],
+      "ans": 1,
+      "explanation": "'I'll take it' means you have decided to purchase the item."
+    },
+    {
+      "q": "What is a 'receipt'?",
+      "opts": [
+        "A type of product",
+        "A discount coupon",
+        "A payment document",
+        "A price tag"
+      ],
+      "ans": 2,
+      "explanation": "A receipt is a document proving that you paid for something."
+    }
+  ],
+  "story": {
+    "title": "Shopping at the Market",
+    "body": "Sana went to the local market to buy some clothes.\n\nShe saw a beautiful blue dress and asked the shopkeeper, \"How much does this dress cost?\"\n\nThe shopkeeper said, \"It's 800 taka.\"\n\n\"That's a bit expensive. Can I get a discount?\" asked Sana.\n\n\"Okay, I'll give you 10% off. So it's 720 taka,\" said the shopkeeper.\n\nSana smiled. \"That sounds good. I'll take it!\"\n\nShe paid the money and asked for a receipt.\n\nAs she walked home, she thought, \"I love a good deal!\"",
+    "comprehension": [
+      {
+        "q": "What did Sana want to buy?",
+        "opts": ["A bag", "A dress", "Shoes", "A shirt"],
+        "ans": 1
+      },
+      {
+        "q": "How much did Sana pay after discount?",
+        "opts": ["800 taka", "750 taka", "720 taka", "700 taka"],
+        "ans": 2
+      }
+    ],
+    "tags": ["purchase", "discount", "receipt", "shopping"]
+  },
+  "listening": {
+    "title": "At the Electronics Shop",
+    "script": "Customer: \"Excuse me, how much is this laptop?\"\n\nShopkeeper: \"It's 45,000 taka, sir.\"\n\nCustomer: \"That's quite expensive. Is there any discount?\"\n\nShopkeeper: \"Yes, we have a 5% discount this week.\"\n\nCustomer: \"So it will be around 42,750 taka?\"\n\nShopkeeper: \"Exactly! And we also offer free delivery.\"\n\nCustomer: \"Great! Do you accept credit cards?\"\n\nShopkeeper: \"Yes, we do. Shall I pack it for you?\"\n\nCustomer: \"Yes please. And can I get a receipt?\"",
+    "comprehension": [
+      {
+        "q": "What is the original price of the laptop?",
+        "opts": ["40,000", "42,750", "45,000", "50,000"],
+        "ans": 2
+      },
+      {
+        "q": "What free service does the shop offer?",
+        "opts": [
+          "Free gift wrapping",
+          "Free delivery",
+          "Free warranty",
+          "Free installation"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Role-play: Buying Something",
+    "prompt": "Imagine you are at a shop. Ask about the price of an item, ask for a discount, and decide whether to buy it.",
+    "example": "Excuse me, how much does this bag cost? That's expensive. Can I get a discount? Okay, I'll take it!",
+    "tips": [
+      "Start with 'Excuse me'",
+      "Use 'How much does it cost?'",
+      "Be polite when asking for discount"
+    ]
+  },
+  "conversation": {
+    "scenario": "At a clothing shop",
+    "steps": [
+      { "speaker": "app", "text": "Welcome! How can I help you?" },
+      {
+        "speaker": "user",
+        "prompt": "Ask about the price of a shirt."
+      },
+      {
+        "speaker": "app",
+        "text": "This shirt is 500 taka. Do you like it?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Say it's expensive and ask for a discount."
+      },
+      {
+        "speaker": "app",
+        "text": "Okay, I'll give you 10% off. Will you take it?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Decide to buy and ask for a receipt."
+      }
+    ]
+  }
+}
