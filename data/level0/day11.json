@@ -1,0 +1,530 @@
+{
+  "day": 11,
+  "topic": "Nature, Life & Decision Vocabulary",
+  "lessonId": "L0D7",
+  "vocabulary": [
+    {
+      "word": "anymore",
+      "phonetic": "/ˌeniˈmɔːr/",
+      "meaning": "no longer; not now as before",
+      "bangla": "আর না",
+      "example": "I don't live there anymore.",
+      "exampleBn": "আমি আর সেখানে থাকি না।"
+    },
+    {
+      "word": "asleep",
+      "phonetic": "/əˈsliːp/",
+      "meaning": "in a state of sleep",
+      "bangla": "ঘুমিয়ে",
+      "example": "The baby is asleep.",
+      "exampleBn": "শিশুটি ঘুমিয়ে আছে।"
+    },
+    {
+      "word": "berry",
+      "phonetic": "/ˈberi/",
+      "meaning": "a small, round fruit",
+      "bangla": "ছোট ফল / বেরি",
+      "example": "She picked a berry from the bush.",
+      "exampleBn": "সে ঝোপ থেকে একটি বেরি তুলল।"
+    },
+    {
+      "word": "collect",
+      "phonetic": "/kəˈlekt/",
+      "meaning": "to gather things together",
+      "bangla": "সংগ্রহ করা",
+      "example": "He collects stamps.",
+      "exampleBn": "সে ডাকটিকিট সংগ্রহ করে।"
+    },
+    {
+      "word": "compete",
+      "phonetic": "/kəmˈpiːt/",
+      "meaning": "to take part in a contest",
+      "bangla": "প্রতিযোগিতা করা",
+      "example": "They compete in the race.",
+      "exampleBn": "তারা দৌড়ে প্রতিযোগিতা করে।"
+    },
+    {
+      "word": "conversation",
+      "phonetic": "/ˌkɒnvəˈseɪʃn/",
+      "meaning": "a talk between people",
+      "bangla": "কথোপকথন",
+      "example": "We had a long conversation.",
+      "exampleBn": "আমরা দীর্ঘ কথোপকথন করলাম।"
+    },
+    {
+      "word": "creature",
+      "phonetic": "/ˈkriːtʃər/",
+      "meaning": "a living animal or being",
+      "bangla": "প্রাণী",
+      "example": "A strange creature lives in the forest.",
+      "exampleBn": "বনে একটি অদ্ভুত প্রাণী বাস করে।"
+    },
+    {
+      "word": "decision",
+      "phonetic": "/dɪˈsɪʒn/",
+      "meaning": "a choice that is made",
+      "bangla": "সিদ্ধান্ত",
+      "example": "It was a hard decision.",
+      "exampleBn": "এটি একটি কঠিন সিদ্ধান্ত ছিল।"
+    },
+    {
+      "word": "either",
+      "phonetic": "/ˈiːðər/",
+      "meaning": "one or the other of two",
+      "bangla": "যেকোনো একটি",
+      "example": "You can take either path.",
+      "exampleBn": "তুমি যেকোনো একটি পথ নিতে পারো।"
+    },
+    {
+      "word": "forest",
+      "phonetic": "/ˈfɒrɪst/",
+      "meaning": "a large area covered with trees",
+      "bangla": "বন",
+      "example": "The forest is very green.",
+      "exampleBn": "বনটি অনেক সবুজ।"
+    },
+    {
+      "word": "ground",
+      "phonetic": "/ɡraʊnd/",
+      "meaning": "the surface of the earth",
+      "bangla": "মাটি / ভূমি",
+      "example": "He sat on the ground.",
+      "exampleBn": "সে মাটিতে বসল।"
+    },
+    {
+      "word": "introduce",
+      "phonetic": "/ˌɪntrəˈdjuːs/",
+      "meaning": "to present someone for the first time",
+      "bangla": "পরিচয় করিয়ে দেওয়া",
+      "example": "Let me introduce my friend.",
+      "exampleBn": "আমাকে আমার বন্ধুর পরিচয় করিয়ে দিতে দাও।"
+    },
+    {
+      "word": "marry",
+      "phonetic": "/ˈmæri/",
+      "meaning": "to become someone's husband or wife",
+      "bangla": "বিবাহ করা",
+      "example": "They will marry next year.",
+      "exampleBn": "তারা আগামী বছর বিয়ে করবে।"
+    },
+    {
+      "word": "prepare",
+      "phonetic": "/prɪˈpeər/",
+      "meaning": "to make ready",
+      "bangla": "প্রস্তুত করা",
+      "example": "She prepares food every morning.",
+      "exampleBn": "সে প্রতিদিন সকালে খাবার প্রস্তুত করে।"
+    },
+    {
+      "word": "sail",
+      "phonetic": "/seɪl/",
+      "meaning": "to travel on water by boat",
+      "bangla": "নৌকায় যাওয়া / পাল তোলা",
+      "example": "They sail across the sea.",
+      "exampleBn": "তারা সমুদ্র পার হয়।"
+    },
+    {
+      "word": "serious",
+      "phonetic": "/ˈsɪəriəs/",
+      "meaning": "important and requiring careful thought",
+      "bangla": "গুরুতর",
+      "example": "This is a serious matter.",
+      "exampleBn": "এটি একটি গুরুতর বিষয়।"
+    },
+    {
+      "word": "spend",
+      "phonetic": "/spend/",
+      "meaning": "to use time or money",
+      "bangla": "ব্যয় করা",
+      "example": "I spend time reading books.",
+      "exampleBn": "আমি বই পড়তে সময় ব্যয় করি।"
+    },
+    {
+      "word": "strange",
+      "phonetic": "/streɪndʒ/",
+      "meaning": "unusual or unfamiliar",
+      "bangla": "অদ্ভুত",
+      "example": "I heard a strange sound.",
+      "exampleBn": "আমি একটি অদ্ভুত শব্দ শুনলাম।"
+    },
+    {
+      "word": "truth",
+      "phonetic": "/truːθ/",
+      "meaning": "what is real and factual",
+      "bangla": "সত্য",
+      "example": "Always speak the truth.",
+      "exampleBn": "সবসময় সত্য কথা বলো।"
+    },
+    {
+      "word": "wake",
+      "phonetic": "/weɪk/",
+      "meaning": "to stop sleeping",
+      "bangla": "জাগা",
+      "example": "I wake up early every day.",
+      "exampleBn": "আমি প্রতিদিন সকালে ঘুম থেকে জাগি।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "not anymore",
+      "bangla": "আর না",
+      "usage": "negation",
+      "example": "I don't go there anymore."
+    },
+    {
+      "phrase": "fall asleep",
+      "bangla": "ঘুমিয়ে পড়া",
+      "usage": "sleep",
+      "example": "She fell asleep quickly."
+    },
+    {
+      "phrase": "pick berries",
+      "bangla": "বেরি সংগ্রহ করা",
+      "usage": "nature",
+      "example": "We pick berries in summer."
+    },
+    {
+      "phrase": "collect data",
+      "bangla": "তথ্য সংগ্রহ করা",
+      "usage": "research",
+      "example": "She collects data daily."
+    },
+    {
+      "phrase": "compete hard",
+      "bangla": "কঠোরভাবে প্রতিযোগিতা করা",
+      "usage": "competition",
+      "example": "He competes hard."
+    },
+    {
+      "phrase": "start conversation",
+      "bangla": "কথোপকথন শুরু করা",
+      "usage": "communication",
+      "example": "He starts conversation."
+    },
+    {
+      "phrase": "wild creature",
+      "bangla": "বন্য প্রাণী",
+      "usage": "nature",
+      "example": "It is a wild creature."
+    },
+    {
+      "phrase": "make decision",
+      "bangla": "সিদ্ধান্ত নেওয়া",
+      "usage": "choice",
+      "example": "Make a good decision."
+    },
+    {
+      "phrase": "either way",
+      "bangla": "যেভাবেই হোক",
+      "usage": "options",
+      "example": "Either way is fine."
+    },
+    {
+      "phrase": "deep forest",
+      "bangla": "গভীর বন",
+      "usage": "nature",
+      "example": "They entered the deep forest."
+    },
+    {
+      "phrase": "on the ground",
+      "bangla": "মাটিতে",
+      "usage": "position",
+      "example": "Sit on the ground."
+    },
+    {
+      "phrase": "introduce yourself",
+      "bangla": "নিজের পরিচয় দেওয়া",
+      "usage": "social",
+      "example": "Please introduce yourself."
+    },
+    {
+      "phrase": "get married",
+      "bangla": "বিবাহিত হওয়া",
+      "usage": "life event",
+      "example": "They got married."
+    },
+    {
+      "phrase": "prepare well",
+      "bangla": "ভালোভাবে প্রস্তুত হওয়া",
+      "usage": "readiness",
+      "example": "Prepare well for the exam."
+    },
+    {
+      "phrase": "sail away",
+      "bangla": "দূরে চলে যাওয়া",
+      "usage": "travel",
+      "example": "The boat sails away."
+    },
+    {
+      "phrase": "serious problem",
+      "bangla": "গুরুতর সমস্যা",
+      "usage": "concern",
+      "example": "It is a serious problem."
+    },
+    {
+      "phrase": "spend time",
+      "bangla": "সময় কাটানো",
+      "usage": "daily life",
+      "example": "Spend time wisely."
+    },
+    {
+      "phrase": "strange sound",
+      "bangla": "অদ্ভুত শব্দ",
+      "usage": "description",
+      "example": "I heard a strange sound."
+    },
+    {
+      "phrase": "tell the truth",
+      "bangla": "সত্য বলা",
+      "usage": "honesty",
+      "example": "Always tell the truth."
+    },
+    {
+      "phrase": "wake up",
+      "bangla": "ঘুম থেকে ওঠা",
+      "usage": "morning routine",
+      "example": "Wake up early."
+    }
+  ],
+
+  "sentences": [
+    { "en": "I don't go there anymore.", "bn": "আমি আর সেখানে যাই না।" },
+    { "en": "She is asleep now.", "bn": "সে এখন ঘুমিয়ে আছে।" },
+    { "en": "The berry is sweet.", "bn": "বেরিটি মিষ্টি।" },
+    { "en": "I collect coins.", "bn": "আমি মুদ্রা সংগ্রহ করি।" },
+    { "en": "We compete together.", "bn": "আমরা একসাথে প্রতিযোগিতা করি।" },
+    { "en": "Have a conversation.", "bn": "কথোপকথন করো।" },
+    { "en": "It is a strange creature.", "bn": "এটি একটি অদ্ভুত প্রাণী।" },
+    { "en": "Make a good decision.", "bn": "একটি ভালো সিদ্ধান্ত নাও।" },
+    { "en": "Take either one.", "bn": "যেকোনো একটি নাও।" },
+    { "en": "The forest is quiet.", "bn": "বনটি শান্ত।" },
+    { "en": "Sit on the ground.", "bn": "মাটিতে বসো।" },
+    {
+      "en": "Let me introduce her.",
+      "bn": "আমাকে তাকে পরিচয় করিয়ে দিতে দাও।"
+    },
+    { "en": "They want to marry.", "bn": "তারা বিয়ে করতে চায়।" },
+    { "en": "Prepare for the exam.", "bn": "পরীক্ষার জন্য প্রস্তুত হও।" },
+    { "en": "We sail at dawn.", "bn": "আমরা ভোরে নৌকায় যাই।" },
+    { "en": "This is serious.", "bn": "এটি গুরুতর।" },
+    { "en": "Spend time wisely.", "bn": "সময় বুদ্ধিমানের সাথে ব্যয় করো।" },
+    { "en": "That was strange.", "bn": "এটি অদ্ভুত ছিল।" },
+    { "en": "Speak the truth.", "bn": "সত্য কথা বলো।" },
+    { "en": "Wake up early.", "bn": "সকালে জাগো।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Anymore means?",
+      "opts": ["always", "no longer", "again", "soon"],
+      "ans": 1,
+      "explanation": "Anymore means no longer."
+    },
+    {
+      "q": "Asleep means?",
+      "opts": ["awake", "sleeping", "running", "eating"],
+      "ans": 1,
+      "explanation": "Asleep means in a state of sleep."
+    },
+    {
+      "q": "Berry means?",
+      "opts": ["big fruit", "small round fruit", "vegetable", "leaf"],
+      "ans": 1,
+      "explanation": "Berry means a small round fruit."
+    },
+    {
+      "q": "Collect means?",
+      "opts": ["scatter", "gather", "lose", "break"],
+      "ans": 1,
+      "explanation": "Collect means to gather."
+    },
+    {
+      "q": "Compete means?",
+      "opts": ["avoid", "take part in contest", "help", "sleep"],
+      "ans": 1,
+      "explanation": "Compete means to take part in a contest."
+    },
+    {
+      "q": "Conversation means?",
+      "opts": ["fight", "talk", "letter", "book"],
+      "ans": 1,
+      "explanation": "Conversation means a talk between people."
+    },
+    {
+      "q": "Creature means?",
+      "opts": ["building", "living being", "tool", "food"],
+      "ans": 1,
+      "explanation": "Creature means a living animal or being."
+    },
+    {
+      "q": "Decision means?",
+      "opts": ["color", "choice", "place", "noise"],
+      "ans": 1,
+      "explanation": "Decision means a choice that is made."
+    },
+    {
+      "q": "Either means?",
+      "opts": ["both", "one of two", "none", "all"],
+      "ans": 1,
+      "explanation": "Either means one or the other of two."
+    },
+    {
+      "q": "Forest means?",
+      "opts": ["desert", "large area of trees", "ocean", "city"],
+      "ans": 1,
+      "explanation": "Forest means a large area covered with trees."
+    },
+    {
+      "q": "Ground means?",
+      "opts": ["sky", "earth surface", "water", "roof"],
+      "ans": 1,
+      "explanation": "Ground means the surface of the earth."
+    },
+    {
+      "q": "Introduce means?",
+      "opts": ["ignore", "present someone", "leave", "forget"],
+      "ans": 1,
+      "explanation": "Introduce means to present someone for the first time."
+    },
+    {
+      "q": "Marry means?",
+      "opts": ["divorce", "become husband or wife", "travel", "study"],
+      "ans": 1,
+      "explanation": "Marry means to become someone's spouse."
+    },
+    {
+      "q": "Prepare means?",
+      "opts": ["destroy", "make ready", "sleep", "run"],
+      "ans": 1,
+      "explanation": "Prepare means to make ready."
+    },
+    {
+      "q": "Sail means?",
+      "opts": ["fly", "travel by boat", "swim", "run"],
+      "ans": 1,
+      "explanation": "Sail means to travel on water by boat."
+    },
+    {
+      "q": "Serious means?",
+      "opts": ["funny", "important and careful", "small", "fast"],
+      "ans": 1,
+      "explanation": "Serious means important and requiring careful thought."
+    },
+    {
+      "q": "Spend means?",
+      "opts": ["save", "use time or money", "collect", "break"],
+      "ans": 1,
+      "explanation": "Spend means to use time or money."
+    },
+    {
+      "q": "Strange means?",
+      "opts": ["normal", "unusual", "simple", "clear"],
+      "ans": 1,
+      "explanation": "Strange means unusual or unfamiliar."
+    },
+    {
+      "q": "Truth means?",
+      "opts": ["lie", "what is real", "guess", "story"],
+      "ans": 1,
+      "explanation": "Truth means what is real and factual."
+    },
+    {
+      "q": "Wake means?",
+      "opts": ["sleep", "stop sleeping", "dream", "rest"],
+      "ans": 1,
+      "explanation": "Wake means to stop sleeping."
+    }
+  ],
+
+  "story": {
+    "title": "The Truth in the Forest",
+    "body": "One morning, Nila decided to wake up early and go for a walk. She did not want to stay home anymore. She walked toward the deep forest near her village. As she entered, she heard a strange sound from the ground. She looked carefully and saw a small creature sleeping under a berry bush. Nila had a serious decision to make — should she disturb it or leave? She chose to collect some berries quietly and prepare to leave. Suddenly, the creature woke up. Nila froze. But the creature only looked at her and began a gentle conversation with its eyes. Nila smiled. She wanted to introduce it to her friends, but she knew that was not possible. Either way, she felt happy. As she sailed back home through the river path, she thought about the truth she had learned — that nature holds secrets for those who spend time in silence. She never forgot that morning.",
+    "comprehension": [
+      {
+        "q": "Where did Nila go?",
+        "opts": ["school", "forest", "market", "sea"],
+        "ans": 1
+      },
+      {
+        "q": "What did she find?",
+        "opts": ["a fruit", "a creature", "a friend", "a stone"],
+        "ans": 1
+      },
+      {
+        "q": "What did she collect?",
+        "opts": ["coins", "berries", "water", "books"],
+        "ans": 1
+      },
+      {
+        "q": "What truth did she learn?",
+        "opts": [
+          "forests are scary",
+          "nature holds secrets",
+          "creatures are loud",
+          "berries are sour"
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "forest",
+      "truth",
+      "creature",
+      "decision",
+      "spend",
+      "wake",
+      "serious"
+    ]
+  },
+
+  "listening": {
+    "title": "Morning Decision",
+    "script": "A: Did you wake up early today?\nB: Yes, I couldn't sleep anymore.\nA: Where did you go?\nB: I went to the forest to collect berries.\nA: Was it strange?\nB: Yes, I saw a strange creature on the ground.\nA: That sounds serious.\nB: It was. I had to make a quick decision.\nA: What did you do?\nB: I started a quiet conversation with it.\nA: Did you introduce yourself?\nB: Sort of! Either way, it was peaceful.\nA: You should prepare better next time.\nB: True. Always tell the truth about what you find.",
+    "comprehension": [
+      {
+        "q": "Where did B go?",
+        "opts": ["market", "forest", "school", "sea"],
+        "ans": 1
+      },
+      {
+        "q": "What did B see?",
+        "opts": ["a flower", "a creature", "a child", "a boat"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "A Strange Experience in Nature",
+    "prompt": "Talk about a strange or interesting experience in nature. Use words like forest, creature, decision, truth, and spend.",
+    "example": "One day, I spent time in the forest. I saw a strange creature on the ground. I had to make a serious decision — stay or leave. I chose to stay and learn the truth about nature.",
+    "tips": [
+      "Use descriptive words",
+      "Talk about your feelings",
+      "Use past tense for past events",
+      "Mention what decision you made"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Talking about a morning adventure",
+    "steps": [
+      { "speaker": "app", "text": "Did you wake up early today?" },
+      { "speaker": "user", "prompt": "Say yes and describe your morning." },
+      {
+        "speaker": "app",
+        "text": "Did you go to the forest or somewhere else?"
+      },
+      { "speaker": "user", "prompt": "Describe where you went." },
+      {
+        "speaker": "app",
+        "text": "Did you see any strange creature or thing?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Describe what you saw and your decision."
+      }
+    ]
+  }
+}
