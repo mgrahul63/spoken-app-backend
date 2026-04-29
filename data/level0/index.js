@@ -8,10 +8,11 @@ const day7 = require("./day7.json");
 const day8 = require("./day8.json");
 const day9 = require("./day9.json");
 const day10 = require("./day10.json");
+const day11 = require("./day11.json");
 
 module.exports = {
   levelId: 0,
   levelName: "Beginner",
   emoji: "🌱",
-  days: [day1, day2, day3, day4, day5, day6, day7, day8, day9, day10],
+  days: [day1, day2, day3, day4, day5, day6, day7, day8, day9, day10, day11],
 };
