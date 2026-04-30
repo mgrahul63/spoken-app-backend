@@ -1,0 +1,565 @@
+{
+  "day": 22,
+  "topic": "Business, Action & Everyday Life Vocabulary",
+  "lessonId": "L0D22",
+  "vocabulary": [
+    {
+      "word": "actual",
+      "phonetic": "/ˈæktʃuəl/",
+      "meaning": "existing in reality; real",
+      "bangla": "প্রকৃত / আসল",
+      "example": "What is the actual price?",
+      "exampleBn": "প্রকৃত মূল্য কত?"
+    },
+    {
+      "word": "amaze",
+      "phonetic": "/əˈmeɪz/",
+      "meaning": "to surprise or fill with wonder",
+      "bangla": "অবাক করা",
+      "example": "Her talent amazed everyone.",
+      "exampleBn": "তার প্রতিভা সবাইকে অবাক করল।"
+    },
+    {
+      "word": "charge",
+      "phonetic": "/tʃɑːrdʒ/",
+      "meaning": "to ask a price; to be responsible for something",
+      "bangla": "মূল্য নেওয়া / দায়িত্বে থাকা",
+      "example": "They charge a high fee.",
+      "exampleBn": "তারা উচ্চ মূল্য নেয়।"
+    },
+    {
+      "word": "comfort",
+      "phonetic": "/ˈkʌmfərt/",
+      "meaning": "a state of ease or freedom from pain",
+      "bangla": "আরাম / সান্ত্বনা",
+      "example": "She found comfort in music.",
+      "exampleBn": "সে সংগীতে আরাম খুঁজে পেল।"
+    },
+    {
+      "word": "contact",
+      "phonetic": "/ˈkɒntækt/",
+      "meaning": "to communicate with someone",
+      "bangla": "যোগাযোগ করা",
+      "example": "Please contact me later.",
+      "exampleBn": "অনুগ্রহ করে পরে আমার সাথে যোগাযোগ করো।"
+    },
+    {
+      "word": "customer",
+      "phonetic": "/ˈkʌstəmər/",
+      "meaning": "a person who buys goods or services",
+      "bangla": "গ্রাহক",
+      "example": "The customer is always right.",
+      "exampleBn": "গ্রাহক সবসময় সঠিক।"
+    },
+    {
+      "word": "deliver",
+      "phonetic": "/dɪˈlɪvər/",
+      "meaning": "to take goods or messages to a place",
+      "bangla": "পৌঁছে দেওয়া",
+      "example": "He delivers letters every morning.",
+      "exampleBn": "সে প্রতিদিন সকালে চিঠি পৌঁছে দেয়।"
+    },
+    {
+      "word": "earn",
+      "phonetic": "/ɜːrn/",
+      "meaning": "to get money by working",
+      "bangla": "উপার্জন করা",
+      "example": "She earns money by teaching.",
+      "exampleBn": "সে শিক্ষকতা করে অর্থ উপার্জন করে।"
+    },
+    {
+      "word": "gate",
+      "phonetic": "/ɡeɪt/",
+      "meaning": "a door in a fence or wall",
+      "bangla": "ফটক / গেট",
+      "example": "Open the gate, please.",
+      "exampleBn": "অনুগ্রহ করে ফটকটি খোলো।"
+    },
+    {
+      "word": "include",
+      "phonetic": "/ɪnˈkluːd/",
+      "meaning": "to make something part of a whole",
+      "bangla": "অন্তর্ভুক্ত করা",
+      "example": "Please include my name.",
+      "exampleBn": "অনুগ্রহ করে আমার নাম অন্তর্ভুক্ত করো।"
+    },
+    {
+      "word": "manage",
+      "phonetic": "/ˈmænɪdʒ/",
+      "meaning": "to be in charge of or succeed in doing something",
+      "bangla": "পরিচালনা করা / সামলানো",
+      "example": "She manages the shop well.",
+      "exampleBn": "সে দোকানটি ভালোভাবে পরিচালনা করে।"
+    },
+    {
+      "word": "mystery",
+      "phonetic": "/ˈmɪstəri/",
+      "meaning": "something that is unknown or hard to explain",
+      "bangla": "রহস্য",
+      "example": "The disappearance is a mystery.",
+      "exampleBn": "নিখোঁজ হওয়াটা একটি রহস্য।"
+    },
+    {
+      "word": "occur",
+      "phonetic": "/əˈkɜːr/",
+      "meaning": "to happen or take place",
+      "bangla": "ঘটা",
+      "example": "The accident occurred at night.",
+      "exampleBn": "দুর্ঘটনাটি রাতে ঘটেছিল।"
+    },
+    {
+      "word": "opposite",
+      "phonetic": "/ˈɒpəzɪt/",
+      "meaning": "completely different; facing another side",
+      "bangla": "বিপরীত",
+      "example": "Hot is opposite of cold.",
+      "exampleBn": "গরম ঠান্ডার বিপরীত।"
+    },
+    {
+      "word": "plate",
+      "phonetic": "/pleɪt/",
+      "meaning": "a flat dish for food",
+      "bangla": "থালা / প্লেট",
+      "example": "She put rice on the plate.",
+      "exampleBn": "সে থালায় ভাত রাখল।"
+    },
+    {
+      "word": "receive",
+      "phonetic": "/rɪˈsiːv/",
+      "meaning": "to get or accept something given",
+      "bangla": "পাওয়া / গ্রহণ করা",
+      "example": "I received a gift today.",
+      "exampleBn": "আমি আজ একটি উপহার পেলাম।"
+    },
+    {
+      "word": "reward",
+      "phonetic": "/rɪˈwɔːrd/",
+      "meaning": "something given for good work or behaviour",
+      "bangla": "পুরস্কার",
+      "example": "Hard work brings a reward.",
+      "exampleBn": "কঠোর পরিশ্রম পুরস্কার আনে।"
+    },
+    {
+      "word": "set",
+      "phonetic": "/set/",
+      "meaning": "to put something in a place; a group of things",
+      "bangla": "রাখা / সেট করা",
+      "example": "Set the table for dinner.",
+      "exampleBn": "রাতের খাবারের জন্য টেবিল সাজাও।"
+    },
+    {
+      "word": "steal",
+      "phonetic": "/stiːl/",
+      "meaning": "to take something without permission",
+      "bangla": "চুরি করা",
+      "example": "It is wrong to steal.",
+      "exampleBn": "চুরি করা ভুল।"
+    },
+    {
+      "word": "thief",
+      "phonetic": "/θiːf/",
+      "meaning": "a person who steals",
+      "bangla": "চোর",
+      "example": "The thief was caught.",
+      "exampleBn": "চোরটি ধরা পড়ল।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "actual cost",
+      "bangla": "প্রকৃত খরচ",
+      "usage": "finance",
+      "example": "Tell me the actual cost."
+    },
+    {
+      "phrase": "amaze the crowd",
+      "bangla": "ভিড়কে অবাক করা",
+      "usage": "performance",
+      "example": "She amazed the crowd."
+    },
+    {
+      "phrase": "in charge of",
+      "bangla": "দায়িত্বে",
+      "usage": "leadership",
+      "example": "He is in charge of the team."
+    },
+    {
+      "phrase": "feel comfort",
+      "bangla": "আরাম অনুভব করা",
+      "usage": "emotion",
+      "example": "She felt comfort at home."
+    },
+    {
+      "phrase": "contact number",
+      "bangla": "যোগাযোগ নম্বর",
+      "usage": "communication",
+      "example": "Give me your contact number."
+    },
+    {
+      "phrase": "loyal customer",
+      "bangla": "বিশ্বস্ত গ্রাহক",
+      "usage": "business",
+      "example": "He is a loyal customer."
+    },
+    {
+      "phrase": "deliver on time",
+      "bangla": "সময়মতো পৌঁছে দেওয়া",
+      "usage": "service",
+      "example": "We deliver on time."
+    },
+    {
+      "phrase": "earn money",
+      "bangla": "অর্থ উপার্জন করা",
+      "usage": "work",
+      "example": "He works hard to earn money."
+    },
+    {
+      "phrase": "front gate",
+      "bangla": "সামনের ফটক",
+      "usage": "place",
+      "example": "Meet me at the front gate."
+    },
+    {
+      "phrase": "include everyone",
+      "bangla": "সবাইকে অন্তর্ভুক্ত করা",
+      "usage": "group",
+      "example": "Please include everyone."
+    },
+    {
+      "phrase": "manage time",
+      "bangla": "সময় পরিচালনা করা",
+      "usage": "skill",
+      "example": "Learn to manage your time."
+    },
+    {
+      "phrase": "unsolved mystery",
+      "bangla": "অমীমাংসিত রহস্য",
+      "usage": "unknown",
+      "example": "It is an unsolved mystery."
+    },
+    {
+      "phrase": "occur again",
+      "bangla": "আবার ঘটা",
+      "usage": "event",
+      "example": "It must not occur again."
+    },
+    {
+      "phrase": "exact opposite",
+      "bangla": "একেবারে বিপরীত",
+      "usage": "contrast",
+      "example": "That is the exact opposite."
+    },
+    {
+      "phrase": "clean plate",
+      "bangla": "পরিষ্কার থালা",
+      "usage": "food",
+      "example": "Eat from a clean plate."
+    },
+    {
+      "phrase": "receive a gift",
+      "bangla": "উপহার পাওয়া",
+      "usage": "celebration",
+      "example": "She received a lovely gift."
+    },
+    {
+      "phrase": "earn a reward",
+      "bangla": "পুরস্কার অর্জন করা",
+      "usage": "achievement",
+      "example": "He earned a great reward."
+    },
+    {
+      "phrase": "set a goal",
+      "bangla": "লক্ষ্য নির্ধারণ করা",
+      "usage": "planning",
+      "example": "Set a goal every morning."
+    },
+    {
+      "phrase": "steal money",
+      "bangla": "টাকা চুরি করা",
+      "usage": "crime",
+      "example": "He tried to steal money."
+    },
+    {
+      "phrase": "catch a thief",
+      "bangla": "চোর ধরা",
+      "usage": "justice",
+      "example": "The police caught the thief."
+    }
+  ],
+
+  "sentences": [
+    { "en": "What is the actual reason?", "bn": "প্রকৃত কারণ কী?" },
+    { "en": "The show amazed us all.", "bn": "শোটি আমাদের সবাইকে অবাক করল।" },
+    { "en": "Who is in charge here?", "bn": "এখানে কে দায়িত্বে আছেন?" },
+    { "en": "Rest gives comfort.", "bn": "বিশ্রাম আরাম দেয়।" },
+    { "en": "Contact the manager.", "bn": "ম্যানেজারের সাথে যোগাযোগ করো।" },
+    { "en": "The customer complained.", "bn": "গ্রাহক অভিযোগ করলেন।" },
+    {
+      "en": "Deliver the package quickly.",
+      "bn": "প্যাকেজটি দ্রুত পৌঁছে দাও।"
+    },
+    {
+      "en": "I earn by working hard.",
+      "bn": "আমি কঠোর পরিশ্রম করে উপার্জন করি।"
+    },
+    { "en": "The gate was locked.", "bn": "ফটকটি বন্ধ ছিল।" },
+    { "en": "Include all the details.", "bn": "সমস্ত বিবরণ অন্তর্ভুক্ত করো।" },
+    {
+      "en": "He manages everything alone.",
+      "bn": "সে একাই সবকিছু পরিচালনা করে।"
+    },
+    { "en": "This is still a mystery.", "bn": "এটি এখনও একটি রহস্য।" },
+    { "en": "Changes occur over time.", "bn": "সময়ের সাথে পরিবর্তন ঘটে।" },
+    { "en": "Good is opposite of bad.", "bn": "ভালো মন্দের বিপরীত।" },
+    { "en": "Pass me the plate.", "bn": "আমাকে থালাটি দাও।" },
+    { "en": "Did you receive the mail?", "bn": "তুমি কি চিঠিটি পেয়েছ?" },
+    {
+      "en": "She got a great reward.",
+      "bn": "সে একটি দুর্দান্ত পুরস্কার পেল।"
+    },
+    {
+      "en": "Set your goals clearly.",
+      "bn": "তোমার লক্ষ্য স্পষ্টভাবে নির্ধারণ করো।"
+    },
+    {
+      "en": "Never steal from others.",
+      "bn": "কখনো অন্যের কাছ থেকে চুরি করো না।"
+    },
+    { "en": "The thief ran away.", "bn": "চোরটি পালিয়ে গেল।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Actual means?",
+      "opts": ["fake", "existing in reality", "old", "broken"],
+      "ans": 1,
+      "explanation": "Actual means existing in reality; real."
+    },
+    {
+      "q": "Amaze means?",
+      "opts": ["bore", "surprise with wonder", "frighten", "confuse"],
+      "ans": 1,
+      "explanation": "Amaze means to surprise or fill with wonder."
+    },
+    {
+      "q": "Charge means?",
+      "opts": [
+        "give free",
+        "ask a price or be responsible",
+        "ignore",
+        "run away"
+      ],
+      "ans": 1,
+      "explanation": "Charge means to ask a price or to be responsible for something."
+    },
+    {
+      "q": "Comfort means?",
+      "opts": ["pain", "state of ease or relief", "noise", "fear"],
+      "ans": 1,
+      "explanation": "Comfort means a state of ease or freedom from pain."
+    },
+    {
+      "q": "Contact means?",
+      "opts": ["avoid", "communicate with someone", "hide", "leave"],
+      "ans": 1,
+      "explanation": "Contact means to communicate with someone."
+    },
+    {
+      "q": "Customer means?",
+      "opts": ["seller", "person who buys goods", "worker", "officer"],
+      "ans": 1,
+      "explanation": "Customer means a person who buys goods or services."
+    },
+    {
+      "q": "Deliver means?",
+      "opts": ["keep", "take goods to a place", "lose", "break"],
+      "ans": 1,
+      "explanation": "Deliver means to take goods or messages to a place."
+    },
+    {
+      "q": "Earn means?",
+      "opts": ["spend", "get money by working", "borrow", "waste"],
+      "ans": 1,
+      "explanation": "Earn means to get money by working."
+    },
+    {
+      "q": "Gate means?",
+      "opts": ["window", "door in a fence or wall", "roof", "floor"],
+      "ans": 1,
+      "explanation": "Gate means a door in a fence or wall."
+    },
+    {
+      "q": "Include means?",
+      "opts": ["remove", "make part of a whole", "destroy", "ignore"],
+      "ans": 1,
+      "explanation": "Include means to make something part of a whole."
+    },
+    {
+      "q": "Manage means?",
+      "opts": ["fail", "be in charge or succeed", "leave", "break"],
+      "ans": 1,
+      "explanation": "Manage means to be in charge of or succeed in doing something."
+    },
+    {
+      "q": "Mystery means?",
+      "opts": [
+        "clear fact",
+        "something unknown or unexplained",
+        "simple answer",
+        "story"
+      ],
+      "ans": 1,
+      "explanation": "Mystery means something that is unknown or hard to explain."
+    },
+    {
+      "q": "Occur means?",
+      "opts": ["stop", "happen or take place", "wait", "sleep"],
+      "ans": 1,
+      "explanation": "Occur means to happen or take place."
+    },
+    {
+      "q": "Opposite means?",
+      "opts": ["same", "completely different", "equal", "close"],
+      "ans": 1,
+      "explanation": "Opposite means completely different; facing another side."
+    },
+    {
+      "q": "Plate means?",
+      "opts": ["cup", "flat dish for food", "spoon", "pot"],
+      "ans": 1,
+      "explanation": "Plate means a flat dish for food."
+    },
+    {
+      "q": "Receive means?",
+      "opts": ["send", "get or accept something given", "refuse", "return"],
+      "ans": 1,
+      "explanation": "Receive means to get or accept something given."
+    },
+    {
+      "q": "Reward means?",
+      "opts": ["punishment", "something given for good work", "loss", "charge"],
+      "ans": 1,
+      "explanation": "Reward means something given for good work or behaviour."
+    },
+    {
+      "q": "Set means?",
+      "opts": [
+        "remove",
+        "put in place or a group of things",
+        "destroy",
+        "hide"
+      ],
+      "ans": 1,
+      "explanation": "Set means to put something in a place or a group of things."
+    },
+    {
+      "q": "Steal means?",
+      "opts": ["buy", "take without permission", "give", "earn"],
+      "ans": 1,
+      "explanation": "Steal means to take something without permission."
+    },
+    {
+      "q": "Thief means?",
+      "opts": ["officer", "person who steals", "customer", "hero"],
+      "ans": 1,
+      "explanation": "Thief means a person who steals."
+    }
+  ],
+
+  "story": {
+    "title": "The Mystery at the Market Gate",
+    "body": "In a busy local market, a customer named Rafi arrived every morning to set up his food stall. He would place a clean plate of rice and curry and deliver meals to various workers nearby. His actual earnings were small, but the comfort he received from his work amazed even him. One day, something strange occurred. A thief had stolen a bag of money from the gate of the market. The manager, who was in charge of the market, tried to contact the police but could not locate them quickly. The opposite side of the gate showed signs of a break-in. Rafi decided to help. He managed to include several witnesses and gave the officer a set of important clues. Though he was just a simple food seller, his sharp brain amazed the officer. The thief was caught before he could steal again. As a reward, the market board gave Rafi a letter of appreciation. He framed it and hung it beside his stall — a reminder that honest people who earn their living with dignity deserve recognition. The mystery was solved, and the market returned to its comfortable rhythm.",
+    "comprehension": [
+      {
+        "q": "What did Rafi sell at the market?",
+        "opts": ["fruits", "rice and curry meals", "clothes", "books"],
+        "ans": 1
+      },
+      {
+        "q": "What occurred at the gate?",
+        "opts": ["a fire", "a theft", "an accident", "a concert"],
+        "ans": 1
+      },
+      {
+        "q": "How did Rafi help?",
+        "opts": [
+          "he ran away",
+          "he gave clues and included witnesses",
+          "he called the thief",
+          "he hid the money"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Rafi receive as a reward?",
+        "opts": ["money", "a letter of appreciation", "a medal", "a new stall"],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "mystery",
+      "thief",
+      "steal",
+      "gate",
+      "customer",
+      "reward",
+      "manage",
+      "occur",
+      "charge",
+      "deliver",
+      "earn",
+      "comfort"
+    ]
+  },
+
+  "listening": {
+    "title": "A Problem at the Shop",
+    "script": "A: Did you hear what occurred at the market?\nB: Yes! A thief tried to steal from the gate.\nA: Who is in charge of the market?\nB: The manager. He contacted the police.\nA: Did they catch the thief?\nB: Yes! A customer helped locate him.\nA: That is amazing. The actual thief was someone we knew?\nB: Opposite to what we expected — it was a delivery worker.\nA: He used to deliver packages and earn trust.\nB: Exactly. He managed to steal several plates of gold.\nA: What reward did the customer receive?\nB: The market board gave him a set of gifts.\nA: That is the comfort of doing the right thing.\nB: True. Honest people always receive recognition.",
+    "comprehension": [
+      {
+        "q": "Who helped locate the thief?",
+        "opts": ["the manager", "a customer", "a clerk", "the nurse"],
+        "ans": 1
+      },
+      {
+        "q": "What did the thief steal?",
+        "opts": ["food", "plates of gold", "letters", "books"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Earning Honestly and Getting Rewarded",
+    "prompt": "Talk about a time when honest effort brought a reward. Use words like earn, manage, receive, reward, and actual.",
+    "example": "I once worked hard to manage a school event. The actual effort was huge, but I enjoyed it. I earned the trust of my teachers and received a reward at the end. It amazed me how honesty always brings comfort.",
+    "tips": [
+      "Start with what you did",
+      "Mention the effort it required",
+      "Use 'actual' to describe real facts",
+      "End with the reward or result"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Talking about a crime that occurred nearby",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Did you hear about the mystery at the market gate?"
+      },
+      { "speaker": "user", "prompt": "Say yes and share what you know." },
+      { "speaker": "app", "text": "Who was in charge of handling it?" },
+      { "speaker": "user", "prompt": "Describe who managed the situation." },
+      {
+        "speaker": "app",
+        "text": "Do you think the thief received a fair punishment?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Give your opinion using 'actual' and 'opposite'."
+      }
+    ]
+  }
+}

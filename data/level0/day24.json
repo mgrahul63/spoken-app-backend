@@ -1,0 +1,790 @@
+{
+  "day": 24,
+  "topic": "Community, Performance & Challenges Vocabulary",
+  "lessonId": "L0D24",
+  "vocabulary": [
+    {
+      "word": "block",
+      "phonetic": "/blɒk/",
+      "meaning": "to stop something from passing; a solid piece of material",
+      "bangla": "বাধা দেওয়া / চাঙ্গা",
+      "example": "A fallen tree blocked the road.",
+      "exampleBn": "একটি পড়ে যাওয়া গাছ রাস্তা বন্ধ করে দিল।"
+    },
+    {
+      "word": "cheer",
+      "phonetic": "/tʃɪər/",
+      "meaning": "to shout with joy to show support or encouragement",
+      "bangla": "উৎসাহ দেওয়া / জয়ধ্বনি করা",
+      "example": "The crowd cheered loudly.",
+      "exampleBn": "ভিড় জোরে জয়ধ্বনি করল।"
+    },
+    {
+      "word": "complex",
+      "phonetic": "/ˈkɒmpleks/",
+      "meaning": "made of many connected parts; difficult to understand",
+      "bangla": "জটিল",
+      "example": "This is a complex problem.",
+      "exampleBn": "এটি একটি জটিল সমস্যা।"
+    },
+    {
+      "word": "critic",
+      "phonetic": "/ˈkrɪtɪk/",
+      "meaning": "a person who judges and comments on the quality of something",
+      "bangla": "সমালোচক",
+      "example": "The critic praised the performance.",
+      "exampleBn": "সমালোচক পারফরম্যান্সের প্রশংসা করলেন।"
+    },
+    {
+      "word": "event",
+      "phonetic": "/ɪˈvent/",
+      "meaning": "a planned occasion or happening",
+      "bangla": "অনুষ্ঠান / ঘটনা",
+      "example": "The school held a sports event.",
+      "exampleBn": "স্কুলটি একটি ক্রীড়া অনুষ্ঠানের আয়োজন করল।"
+    },
+    {
+      "word": "exercise",
+      "phonetic": "/ˈeksərsaɪz/",
+      "meaning": "physical activity done to keep the body healthy",
+      "bangla": "ব্যায়াম",
+      "example": "Exercise keeps you fit and healthy.",
+      "exampleBn": "ব্যায়াম তোমাকে সুস্থ ও ফিট রাখে।"
+    },
+    {
+      "word": "fit",
+      "phonetic": "/fɪt/",
+      "meaning": "in good physical condition; suitable for a purpose",
+      "bangla": "সুস্থ / উপযুক্ত",
+      "example": "She is very fit and active.",
+      "exampleBn": "সে খুব সুস্থ ও সক্রিয়।"
+    },
+    {
+      "word": "friendship",
+      "phonetic": "/ˈfrendʃɪp/",
+      "meaning": "a relationship between friends based on trust and care",
+      "bangla": "বন্ধুত্ব",
+      "example": "Their friendship is very strong.",
+      "exampleBn": "তাদের বন্ধুত্ব অনেক শক্তিশালী।"
+    },
+    {
+      "word": "guide",
+      "phonetic": "/ɡaɪd/",
+      "meaning": "to show someone the way or give advice and direction",
+      "bangla": "পথ দেখানো / গাইড করা",
+      "example": "A teacher guides students.",
+      "exampleBn": "একজন শিক্ষক শিক্ষার্থীদের পথ দেখান।"
+    },
+    {
+      "word": "lack",
+      "phonetic": "/læk/",
+      "meaning": "the state of not having enough of something",
+      "bangla": "অভাব / ঘাটতি",
+      "example": "A lack of sleep affects health.",
+      "exampleBn": "ঘুমের অভাব স্বাস্থ্যকে প্রভাবিত করে।"
+    },
+    {
+      "word": "passage",
+      "phonetic": "/ˈpæsɪdʒ/",
+      "meaning": "a way through; a section of a text or piece of music",
+      "bangla": "পথ / অনুচ্ছেদ",
+      "example": "Read the passage carefully.",
+      "exampleBn": "অনুচ্ছেদটি মনোযোগ দিয়ে পড়ো।"
+    },
+    {
+      "word": "perform",
+      "phonetic": "/pərˈfɔːrm/",
+      "meaning": "to carry out a task or present a show to an audience",
+      "bangla": "সম্পাদন করা / পরিবেশন করা",
+      "example": "She performed beautifully on stage.",
+      "exampleBn": "সে মঞ্চে সুন্দরভাবে পরিবেশন করল।"
+    },
+    {
+      "word": "pressure",
+      "phonetic": "/ˈpreʃər/",
+      "meaning": "the force applied to something; stress or demand",
+      "bangla": "চাপ",
+      "example": "He works well under pressure.",
+      "exampleBn": "সে চাপের মধ্যে ভালো কাজ করে।"
+    },
+    {
+      "word": "probable",
+      "phonetic": "/ˈprɒbəbl/",
+      "meaning": "likely to happen or be true",
+      "bangla": "সম্ভাব্য",
+      "example": "Rain is probable today.",
+      "exampleBn": "আজ বৃষ্টি সম্ভাব্য।"
+    },
+    {
+      "word": "public",
+      "phonetic": "/ˈpʌblɪk/",
+      "meaning": "relating to all people; open to everyone",
+      "bangla": "সর্বজনীন / জনসাধারণ",
+      "example": "This is a public park.",
+      "exampleBn": "এটি একটি সর্বজনীন পার্ক।"
+    },
+    {
+      "word": "strike",
+      "phonetic": "/straɪk/",
+      "meaning": "to hit something; a work stoppage by employees",
+      "bangla": "আঘাত করা / ধর্মঘট",
+      "example": "Lightning struck the tree.",
+      "exampleBn": "বজ্রপাত গাছটিতে আঘাত করল।"
+    },
+    {
+      "word": "support",
+      "phonetic": "/səˈpɔːrt/",
+      "meaning": "to help or encourage someone; to hold something up",
+      "bangla": "সমর্থন করা / সহায়তা করা",
+      "example": "Friends support each other.",
+      "exampleBn": "বন্ধুরা একে অপরকে সমর্থন করে।"
+    },
+    {
+      "word": "task",
+      "phonetic": "/tɑːsk/",
+      "meaning": "a piece of work to be done",
+      "bangla": "কাজ / দায়িত্ব",
+      "example": "She completed every task on time.",
+      "exampleBn": "সে প্রতিটি কাজ সময়মতো সম্পন্ন করল।"
+    },
+    {
+      "word": "term",
+      "phonetic": "/tɜːrm/",
+      "meaning": "a word or phrase; a period of time",
+      "bangla": "মেয়াদ / পরিভাষা",
+      "example": "The school term ends in December.",
+      "exampleBn": "স্কুলের মেয়াদ ডিসেম্বরে শেষ হয়।"
+    },
+    {
+      "word": "unite",
+      "phonetic": "/juːˈnaɪt/",
+      "meaning": "to come or bring together for a common purpose",
+      "bangla": "একত্রিত হওয়া / ঐক্যবদ্ধ করা",
+      "example": "They united to solve the problem.",
+      "exampleBn": "তারা সমস্যা সমাধানে একত্রিত হলো।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "block the way",
+      "bangla": "পথ আটকানো",
+      "usage": "obstruction",
+      "example": "A large crowd blocked the way to the event."
+    },
+    {
+      "phrase": "cheer loudly",
+      "bangla": "জোরে জয়ধ্বনি করা",
+      "usage": "sports",
+      "example": "The audience cheered loudly when she performed."
+    },
+    {
+      "phrase": "complex task",
+      "bangla": "জটিল কাজ",
+      "usage": "work",
+      "example": "Managing a team is a complex task."
+    },
+    {
+      "phrase": "harsh critic",
+      "bangla": "কঠোর সমালোচক",
+      "usage": "feedback",
+      "example": "Even a harsh critic praised her performance."
+    },
+    {
+      "phrase": "public event",
+      "bangla": "সর্বজনীন অনুষ্ঠান",
+      "usage": "community",
+      "example": "The public event brought the whole community together."
+    },
+    {
+      "phrase": "daily exercise",
+      "bangla": "দৈনিক ব্যায়াম",
+      "usage": "health",
+      "example": "Daily exercise keeps you fit and reduces pressure."
+    },
+    {
+      "phrase": "stay fit",
+      "bangla": "সুস্থ থাকা",
+      "usage": "health",
+      "example": "Athletes must stay fit throughout the term."
+    },
+    {
+      "phrase": "strong friendship",
+      "bangla": "শক্তিশালী বন্ধুত্ব",
+      "usage": "relationship",
+      "example": "A strong friendship can support you through any task."
+    },
+    {
+      "phrase": "guide through",
+      "bangla": "পথ দেখানো",
+      "usage": "direction",
+      "example": "The teacher guided students through the complex passage."
+    },
+    {
+      "phrase": "lack of support",
+      "bangla": "সমর্থনের অভাব",
+      "usage": "challenge",
+      "example": "A lack of support made the task more difficult."
+    },
+    {
+      "phrase": "read a passage",
+      "bangla": "একটি অনুচ্ছেদ পড়া",
+      "usage": "education",
+      "example": "She read the passage aloud to the class."
+    },
+    {
+      "phrase": "perform under pressure",
+      "bangla": "চাপের মধ্যে পরিবেশন করা",
+      "usage": "performance",
+      "example": "Great athletes know how to perform under pressure."
+    },
+    {
+      "phrase": "under pressure",
+      "bangla": "চাপের মধ্যে",
+      "usage": "stress",
+      "example": "She remained calm even under extreme pressure."
+    },
+    {
+      "phrase": "probable cause",
+      "bangla": "সম্ভাব্য কারণ",
+      "usage": "analysis",
+      "example": "The lack of exercise is a probable cause of illness."
+    },
+    {
+      "phrase": "public support",
+      "bangla": "জনসমর্থন",
+      "usage": "community",
+      "example": "The event received a huge amount of public support."
+    },
+    {
+      "phrase": "strike a balance",
+      "bangla": "ভারসাম্য রাখা",
+      "usage": "life skills",
+      "example": "It is important to strike a balance between work and rest."
+    },
+    {
+      "phrase": "support each other",
+      "bangla": "একে অপরকে সমর্থন করা",
+      "usage": "teamwork",
+      "example": "United teams always support each other."
+    },
+    {
+      "phrase": "complete a task",
+      "bangla": "একটি কাজ সম্পন্ন করা",
+      "usage": "responsibility",
+      "example": "He completed every task before the term ended."
+    },
+    {
+      "phrase": "long term",
+      "bangla": "দীর্ঘমেয়াদী",
+      "usage": "planning",
+      "example": "Daily exercise has long term benefits for health."
+    },
+    {
+      "phrase": "unite the community",
+      "bangla": "সম্প্রদায়কে ঐক্যবদ্ধ করা",
+      "usage": "leadership",
+      "example": "The public event helped unite the whole community."
+    }
+  ],
+
+  "sentences": [
+    {
+      "en": "A lack of communication can block the progress of any team.",
+      "bn": "যোগাযোগের অভাব যেকোনো দলের অগ্রগতি বাধাগ্রস্ত করতে পারে।"
+    },
+    {
+      "en": "The crowd began to cheer as the performer walked onto the public stage.",
+      "bn": "পারফর্মার সর্বজনীন মঞ্চে হাঁটতে হাঁটতে ভিড় জয়ধ্বনি করতে শুরু করল।"
+    },
+    {
+      "en": "Managing pressure during a complex task is a real skill.",
+      "bn": "একটি জটিল কাজের সময় চাপ সামলানো একটি বাস্তব দক্ষতা।"
+    },
+    {
+      "en": "Even a strict critic admitted that the event was a great success.",
+      "bn": "একজন কঠোর সমালোচকও স্বীকার করলেন যে অনুষ্ঠানটি বড় সাফল্য ছিল।"
+    },
+    {
+      "en": "The annual sports event united the whole school community.",
+      "bn": "বার্ষিক ক্রীড়া অনুষ্ঠান পুরো স্কুল সম্প্রদায়কে একত্রিত করল।"
+    },
+    {
+      "en": "Regular exercise helps the body stay fit and the mind stay calm.",
+      "bn": "নিয়মিত ব্যায়াম শরীরকে সুস্থ এবং মনকে শান্ত রাখতে সাহায্য করে।"
+    },
+    {
+      "en": "She was fit enough to perform every task without any difficulty.",
+      "bn": "সে প্রতিটি কাজ কোনো অসুবিধা ছাড়াই সম্পাদন করার মতো সুস্থ ছিল।"
+    },
+    {
+      "en": "True friendship means offering support without being asked.",
+      "bn": "সত্যিকারের বন্ধুত্ব মানে না বলেই সমর্থন করা।"
+    },
+    {
+      "en": "The guide helped the group find a safe passage through the forest.",
+      "bn": "গাইড দলটিকে বনের মধ্য দিয়ে নিরাপদ পথ খুঁজে পেতে সাহায্য করল।"
+    },
+    {
+      "en": "A lack of confidence can block a person from performing their best.",
+      "bn": "আত্মবিশ্বাসের অভাব একজন মানুষকে সেরাটা পরিবেশন করা থেকে বিরত রাখতে পারে।"
+    },
+    {
+      "en": "The reading passage contained complex terms that required careful attention.",
+      "bn": "পাঠের অনুচ্ছেদটিতে জটিল পরিভাষা ছিল যার জন্য সাবধান মনোযোগ প্রয়োজন ছিল।"
+    },
+    {
+      "en": "She performed the most difficult task of the term without any support.",
+      "bn": "সে কোনো সহায়তা ছাড়াই মেয়াদের সবচেয়ে কঠিন কাজটি সম্পাদন করল।"
+    },
+    {
+      "en": "The pressure of the public event made it probable that some would make mistakes.",
+      "bn": "সর্বজনীন অনুষ্ঠানের চাপে কেউ কেউ ভুল করবে সেটা সম্ভাব্য ছিল।"
+    },
+    {
+      "en": "It is probable that the strike will block public transport tomorrow.",
+      "bn": "আগামীকাল ধর্মঘট সর্বজনীন পরিবহন বন্ধ করে দেবে এটা সম্ভাব্য।"
+    },
+    {
+      "en": "The public strongly supported the team throughout the entire event.",
+      "bn": "জনসাধারণ পুরো অনুষ্ঠান জুড়ে দলটিকে জোরালোভাবে সমর্থন করল।"
+    },
+    {
+      "en": "When lightning struck during the outdoor event, everyone moved to safety.",
+      "bn": "আউটডোর অনুষ্ঠানের সময় বজ্রপাত হলে সবাই নিরাপদ স্থানে সরে গেল।"
+    },
+    {
+      "en": "Family support is one of the most important guides through any complex challenge.",
+      "bn": "পারিবারিক সহায়তা যেকোনো জটিল চ্যালেঞ্জের মধ্য দিয়ে সবচেয়ে গুরুত্বপূর্ণ পথপ্রদর্শক।"
+    },
+    {
+      "en": "The teacher gave each student a different task to perform by the end of term.",
+      "bn": "শিক্ষক প্রতিটি ছাত্রকে মেয়াদ শেষের মধ্যে সম্পাদন করার জন্য আলাদা কাজ দিলেন।"
+    },
+    {
+      "en": "The long term benefits of exercise are worth every bit of effort.",
+      "bn": "ব্যায়ামের দীর্ঘমেয়াদী সুবিধাগুলো প্রতিটি সামান্য প্রচেষ্টার মূল্যবান।"
+    },
+    {
+      "en": "When people unite and cheer together, even the most complex challenges become possible.",
+      "bn": "যখন মানুষ একত্রিত হয় এবং একসাথে উৎসাহ দেয় তখন সবচেয়ে জটিল চ্যালেঞ্জও সম্ভব হয়।"
+    }
+  ],
+
+  "quiz": [
+    {
+      "q": "Block means?",
+      "opts": [
+        "to open a path freely",
+        "to stop something from passing",
+        "to cheer loudly",
+        "to guide through a passage"
+      ],
+      "ans": 1,
+      "explanation": "Block means to prevent movement or progress by placing an obstacle in the way."
+    },
+    {
+      "q": "Cheer means?",
+      "opts": [
+        "to remain silent during an event",
+        "to shout with joy to show support",
+        "to strike against something",
+        "to block the public"
+      ],
+      "ans": 1,
+      "explanation": "Cheer means to shout for joy or encouragement, especially at a sports event or performance."
+    },
+    {
+      "q": "Complex means?",
+      "opts": [
+        "simple and easy to understand",
+        "made of many parts and difficult to understand",
+        "fit and ready to perform",
+        "probable and likely"
+      ],
+      "ans": 1,
+      "explanation": "Complex means consisting of many different and connected parts, making it difficult to understand."
+    },
+    {
+      "q": "Critic means?",
+      "opts": [
+        "a person who only supports others",
+        "a person who judges the quality of something",
+        "a public guide at an event",
+        "a term used in exercise"
+      ],
+      "ans": 1,
+      "explanation": "Critic means a person who expresses judgments about the quality of something such as art or a performance."
+    },
+    {
+      "q": "Event means?",
+      "opts": [
+        "a private thought or feeling",
+        "a planned occasion or happening",
+        "a long term task",
+        "a complex passage"
+      ],
+      "ans": 1,
+      "explanation": "Event means a planned public or social occasion or something that happens or takes place."
+    },
+    {
+      "q": "Exercise means?",
+      "opts": [
+        "resting to stay healthy",
+        "physical activity done to keep the body healthy",
+        "a public performance task",
+        "a complex mental term"
+      ],
+      "ans": 1,
+      "explanation": "Exercise means physical activity carried out to sustain or improve health and fitness."
+    },
+    {
+      "q": "Fit means?",
+      "opts": [
+        "too tired to perform",
+        "in good physical condition or suitable for a purpose",
+        "a complex block in a task",
+        "a probable lack of energy"
+      ],
+      "ans": 1,
+      "explanation": "Fit means in good health due to regular exercise, or suitable and appropriate for a particular purpose."
+    },
+    {
+      "q": "Friendship means?",
+      "opts": [
+        "a public competition between two critics",
+        "a relationship based on trust and care between friends",
+        "a complex task that requires support",
+        "a term used in public events"
+      ],
+      "ans": 1,
+      "explanation": "Friendship means the state of being friends, involving mutual affection, trust, and support."
+    },
+    {
+      "q": "Guide means?",
+      "opts": [
+        "to block someone's progress",
+        "to show someone the way or give direction",
+        "to strike against a task",
+        "to perform without support"
+      ],
+      "ans": 1,
+      "explanation": "Guide means to show or direct someone along a route or through a process."
+    },
+    {
+      "q": "Lack means?",
+      "opts": [
+        "having more than enough",
+        "the state of not having enough of something",
+        "a public term for fitness",
+        "a complex exercise event"
+      ],
+      "ans": 1,
+      "explanation": "Lack means the state of being without or not having enough of something needed."
+    },
+    {
+      "q": "Passage means?",
+      "opts": [
+        "a complex public block",
+        "a way through or a section of a text",
+        "a term for a sports event",
+        "a probable strike in music"
+      ],
+      "ans": 1,
+      "explanation": "Passage means a way through something or a section of written or spoken text."
+    },
+    {
+      "q": "Perform means?",
+      "opts": [
+        "to block a public event",
+        "to carry out a task or present a show",
+        "to cheer for a critic",
+        "to lack the fitness to exercise"
+      ],
+      "ans": 1,
+      "explanation": "Perform means to carry out an action, task, or to present entertainment to an audience."
+    },
+    {
+      "q": "Pressure means?",
+      "opts": [
+        "complete relaxation and ease",
+        "the force applied or stress and demand",
+        "a public term for fitness",
+        "a probable event guide"
+      ],
+      "ans": 1,
+      "explanation": "Pressure means the force applied to something or mental stress caused by demanding circumstances."
+    },
+    {
+      "q": "Probable means?",
+      "opts": [
+        "impossible to happen",
+        "likely to happen or be true",
+        "already done and complete",
+        "complex and difficult"
+      ],
+      "ans": 1,
+      "explanation": "Probable means likely to be the case or to happen; more likely than not."
+    },
+    {
+      "q": "Public means?",
+      "opts": [
+        "private and restricted to one person",
+        "relating to all people and open to everyone",
+        "a complex task for critics",
+        "a probable block in a passage"
+      ],
+      "ans": 1,
+      "explanation": "Public means of or relating to the people as a whole, or open and available to everyone."
+    },
+    {
+      "q": "Strike means?",
+      "opts": [
+        "to gently support something",
+        "to hit something or a work stoppage",
+        "to guide through a passage",
+        "to perform a complex task"
+      ],
+      "ans": 1,
+      "explanation": "Strike means to hit something forcefully or a organized refusal to work by employees."
+    },
+    {
+      "q": "Support means?",
+      "opts": [
+        "to block someone's progress",
+        "to help or encourage someone",
+        "to perform without a guide",
+        "to cheer against a team"
+      ],
+      "ans": 1,
+      "explanation": "Support means to give assistance, encouragement, or approval to someone or something."
+    },
+    {
+      "q": "Task means?",
+      "opts": [
+        "a long public event",
+        "a piece of work to be done",
+        "a complex support term",
+        "a probable guide passage"
+      ],
+      "ans": 1,
+      "explanation": "Task means a piece of work that needs to be done, especially as part of a duty or assignment."
+    },
+    {
+      "q": "Term means?",
+      "opts": [
+        "a type of public cheer",
+        "a word or phrase or a period of time",
+        "a complex block of exercise",
+        "a probable event critic"
+      ],
+      "ans": 1,
+      "explanation": "Term means a word or expression used in a particular context, or a fixed period of time."
+    },
+    {
+      "q": "Unite means?",
+      "opts": [
+        "to separate into smaller groups",
+        "to come or bring together for a common purpose",
+        "to block a public passage",
+        "to strike against a complex task"
+      ],
+      "ans": 1,
+      "explanation": "Unite means to come together or cause people to join together for a shared goal or purpose."
+    }
+  ],
+
+  "story": {
+    "title": "United by the Stage",
+    "body": "Every year at the end of the school term, the students of Greenfield Academy would gather for the most important public event of the year — the Grand Performance Night. It was a complex event involving music, drama, poetry, and dance, and every member of the school was expected to perform at least one task on stage. For most students it was exciting. But for Nila, a quiet girl in the tenth grade, it was a source of enormous pressure. Nila had a real lack of confidence when it came to performing in public. The idea of standing on stage while a critic in the audience judged her every move made her want to block out the entire experience and hide somewhere far away. Her best friend Sana, who had the kind of warm and cheerful personality that could guide anyone through their darkest moments, noticed the change in Nila's behavior as the event drew near. Sana sat beside her during a break and read aloud from the script — a beautiful passage from a classic poem — to show her how the words could be felt rather than simply performed. 'Stop thinking about the critics,' Sana said. 'Think about the friendship we share and the public who came here to be entertained and moved — not to strike you down.' Those words struck something deep inside Nila. That evening, she began to exercise not just her voice but her courage. She read the passage over and over, letting each term and phrase become part of her. She asked her guide — an older student who had performed many times — to help her with the complex parts. She practiced until the probable became certain. On the night of the event, the hall was packed. The public filled every seat. When Nila's turn came, she walked onto the stage. For a moment the pressure was immense. But then she heard the sound of her classmates beginning to cheer softly from the sides, and she felt the support of every person who had guided her here. She performed the entire passage without a single block in her voice — steady, clear, and full of feeling. When she finished, the hall erupted. Even the most experienced critic in the room stood to applaud. After the show, Nila and Sana sat together under the stars. 'I never thought I could do it,' Nila said quietly. Sana smiled. 'That is what friendship is for — to unite us with the best version of ourselves, especially when we lack the courage to see it alone.'",
+    "comprehension": [
+      {
+        "q": "What was the Grand Performance Night?",
+        "opts": [
+          "a private music lesson",
+          "a complex public event at the end of the school term",
+          "a sports match between two schools",
+          "a term exam for all students"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What caused Nila the most pressure about the event?",
+        "opts": [
+          "the lack of exercise before the show",
+          "performing in public while a critic judged her",
+          "a complex task she had not finished",
+          "a probable strike at the school"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "How did Sana help guide Nila through her fear?",
+        "opts": [
+          "by blocking the critics from entering",
+          "by reading the passage aloud and encouraging her with words about friendship",
+          "by performing the task for her",
+          "by uniting the public against the critics"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What happened when Nila performed on stage?",
+        "opts": [
+          "she forgot the passage under pressure",
+          "she performed the entire passage steadily and the crowd cheered",
+          "a critic struck her performance down",
+          "she blocked out and left the stage"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Sana say friendship is for?",
+        "opts": [
+          "to guide us away from complex public events",
+          "to unite us with the best version of ourselves when we lack courage",
+          "to support critics at every term event",
+          "to block pressure from the public"
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "block",
+      "cheer",
+      "complex",
+      "critic",
+      "event",
+      "exercise",
+      "fit",
+      "friendship",
+      "guide",
+      "lack",
+      "passage",
+      "perform",
+      "pressure",
+      "probable",
+      "public",
+      "strike",
+      "support",
+      "task",
+      "term",
+      "unite"
+    ]
+  },
+
+  "listening": {
+    "title": "Two Friends Preparing for a Public Performance",
+    "script": "A: The end of term event is in three days. Are you ready to perform?\nB: Not really. I feel a lot of pressure every time I think about it.\nA: That is probable. It is a complex thing to perform in public for the first time.\nB: What if the critic in the front row strikes down everything I do?\nA: A good critic looks for real effort, not perfection. Your task is to perform your best.\nB: I keep reading the passage but some of the terms are still confusing me.\nA: Let me guide you through it. We can work on the complex parts together.\nB: Do you think I am fit enough to handle the pressure on stage?\nA: You have been exercising your voice every day. That is the best preparation.\nB: I just lack the confidence to walk out in front of the public.\nA: That is where friendship helps. I will be in the front row cheering for you.\nB: What if I block and forget the words?\nA: Take a breath, pause, and the words will come back. The public is there to support you.\nB: You really think they will cheer instead of judge?\nA: Most of them will. And the ones who cheer will unite the whole hall behind you.\nB: I suppose it is probable that I am stronger than I think.\nA: Exactly. The lack of confidence is just a block in your mind. Remove it.\nB: I will try. Will you help me run through the passage one more time?\nA: Of course. That is what friendship is for. Let us go through every term together.\nB: Thank you. I feel less pressure already.",
+    "comprehension": [
+      {
+        "q": "What is causing the person pressure?",
+        "opts": [
+          "a complex exercise routine",
+          "performing in public for the first time at the end of term event",
+          "a strike by public transport workers",
+          "a lack of task guides"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does the friend offer to help with?",
+        "opts": [
+          "blocking the critics from coming",
+          "guiding through the complex passage and confusing terms",
+          "performing the task instead",
+          "uniting the public against judges"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does the friend say about the public?",
+        "opts": [
+          "they will all strike the performance down",
+          "most will cheer and their support will unite the whole hall",
+          "they lack the ability to judge fairly",
+          "they are too complex to please"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does the friend say the lack of confidence really is?",
+        "opts": [
+          "a probable event that cannot be removed",
+          "just a block in the mind that can be removed",
+          "a complex term in psychology",
+          "a task that requires public support"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Talking About a Time You Performed or Did Something in Public",
+    "prompt": "Describe a time you had to perform a task or do something in front of others. Use words like perform, pressure, public, support, cheer, lack, guide, friendship, fit, and term.",
+    "example": "At the end of last term, our school held a public event where every student had to perform something on stage. I chose to read a passage from a poem I had written myself. At first, the pressure was immense. I had a real lack of confidence and was not sure I was fit enough mentally to stand in front of so many people. But my closest friend guided me through every complex part of the preparation. On the day, I heard my classmates begin to cheer when I stepped forward, and that support gave me the strength to perform without blocking. When I finished, even the critic on the panel gave me a positive term — he called my reading honest and heartfelt. It was one of the best experiences of my life, and it taught me that friendship and public support can unite a person with courage they did not know they had.",
+    "tips": [
+      "Start by describing the event and what task you had to perform",
+      "Use pressure and lack to explain your feelings before the performance",
+      "Mention who guided or supported you and how friendship helped",
+      "Describe how the public reacted and whether they cheered",
+      "Use fit and exercise to talk about how you prepared",
+      "End with what you learned and how the term or experience changed you"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Two classmates discussing an upcoming public event and how to support each other",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "The end of term public event is coming soon. What task have you been given to perform?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Describe your task and how you feel about performing it in public."
+      },
+      {
+        "speaker": "app",
+        "text": "Do you feel a lot of pressure about it or are you feeling fit and ready?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Talk about the pressure you feel and any lack of confidence you have."
+      },
+      {
+        "speaker": "app",
+        "text": "Is there anything complex about your task that you need a guide to help you through?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Describe the complex parts and say who or what has helped guide you."
+      },
+      {
+        "speaker": "app",
+        "text": "How has friendship supported you in preparing for this event?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Talk about how a friend has cheered you on or helped you perform better."
+      },
+      {
+        "speaker": "app",
+        "text": "Do you think the public will support you or is it probable that some will be harsh critics?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Share your honest opinion about public reactions and how you will handle them."
+      },
+      {
+        "speaker": "app",
+        "text": "What would you say to someone who wants to block out and avoid performing altogether?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Give advice about how to unite courage and support to overcome the block."
+      }
+    ]
+  }
+}

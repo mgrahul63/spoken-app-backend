@@ -1,0 +1,611 @@
+{
+  "day": 25,
+  "topic": "Nature, Society & Production Vocabulary",
+  "lessonId": "L0D25",
+  "vocabulary": [
+    {
+      "word": "associate",
+      "phonetic": "/əˈsoʊsieɪt/",
+      "meaning": "to connect or link things together; a partner",
+      "bangla": "সংযুক্ত করা / সহযোগী",
+      "example": "I associate rain with cold weather.",
+      "exampleBn": "আমি বৃষ্টিকে ঠান্ডা আবহাওয়ার সাথে যুক্ত করি।"
+    },
+    {
+      "word": "environment",
+      "phonetic": "/ɪnˈvaɪrənmənt/",
+      "meaning": "the natural world around us",
+      "bangla": "পরিবেশ",
+      "example": "We must protect the environment.",
+      "exampleBn": "আমাদের পরিবেশ রক্ষা করতে হবে।"
+    },
+    {
+      "word": "factory",
+      "phonetic": "/ˈfæktəri/",
+      "meaning": "a building where goods are manufactured",
+      "bangla": "কারখানা",
+      "example": "He works in a garment factory.",
+      "exampleBn": "সে একটি পোশাক কারখানায় কাজ করে।"
+    },
+    {
+      "word": "feature",
+      "phonetic": "/ˈfiːtʃər/",
+      "meaning": "an important or interesting part of something",
+      "bangla": "বৈশিষ্ট্য",
+      "example": "The best feature of this phone is its camera.",
+      "exampleBn": "এই ফোনের সেরা বৈশিষ্ট্য হলো এর ক্যামেরা।"
+    },
+    {
+      "word": "instance",
+      "phonetic": "/ˈɪnstəns/",
+      "meaning": "an example or single occurrence of something",
+      "bangla": "উদাহরণ / ঘটনা",
+      "example": "For instance, tigers live in forests.",
+      "exampleBn": "উদাহরণস্বরূপ, বাঘ বনে বাস করে।"
+    },
+    {
+      "word": "involve",
+      "phonetic": "/ɪnˈvɒlv/",
+      "meaning": "to include or require as part of something",
+      "bangla": "জড়িত করা / অন্তর্ভুক্ত করা",
+      "example": "This task involves a lot of effort.",
+      "exampleBn": "এই কাজে অনেক প্রচেষ্টা জড়িত।"
+    },
+    {
+      "word": "medicine",
+      "phonetic": "/ˈmedɪsɪn/",
+      "meaning": "a substance used to treat illness",
+      "bangla": "ওষুধ",
+      "example": "Take your medicine on time.",
+      "exampleBn": "সময়মতো তোমার ওষুধ খাও।"
+    },
+    {
+      "word": "mix",
+      "phonetic": "/mɪks/",
+      "meaning": "to combine different things together",
+      "bangla": "মেশানো",
+      "example": "Mix the flour with water.",
+      "exampleBn": "আটার সাথে পানি মেশাও।"
+    },
+    {
+      "word": "organize",
+      "phonetic": "/ˈɔːrɡənaɪz/",
+      "meaning": "to arrange things in an orderly way",
+      "bangla": "সংগঠিত করা / গুছানো",
+      "example": "She organized the event perfectly.",
+      "exampleBn": "সে অনুষ্ঠানটি নিখুঁতভাবে সংগঠিত করল।"
+    },
+    {
+      "word": "period",
+      "phonetic": "/ˈpɪəriəd/",
+      "meaning": "a length of time",
+      "bangla": "সময়কাল",
+      "example": "He studied for a long period.",
+      "exampleBn": "সে দীর্ঘ সময়কাল ধরে পড়াশোনা করল।"
+    },
+    {
+      "word": "populate",
+      "phonetic": "/ˈpɒpjuleɪt/",
+      "meaning": "to fill an area with people or animals",
+      "bangla": "জনবসতি স্থাপন করা",
+      "example": "Many birds populate this forest.",
+      "exampleBn": "অনেক পাখি এই বনে বাস করে।"
+    },
+    {
+      "word": "produce",
+      "phonetic": "/prəˈdjuːs/",
+      "meaning": "to make or create something",
+      "bangla": "উৎপাদন করা",
+      "example": "This factory produces shoes.",
+      "exampleBn": "এই কারখানা জুতা উৎপাদন করে।"
+    },
+    {
+      "word": "range",
+      "phonetic": "/reɪndʒ/",
+      "meaning": "a variety of different things; an area between two limits",
+      "bangla": "পরিসর / বিস্তার",
+      "example": "The store has a wide range of products.",
+      "exampleBn": "দোকানে পণ্যের একটি বিস্তৃত পরিসর আছে।"
+    },
+    {
+      "word": "recognize",
+      "phonetic": "/ˈrekəɡnaɪz/",
+      "meaning": "to identify someone or something seen before",
+      "bangla": "চেনা / স্বীকার করা",
+      "example": "I recognized her voice immediately.",
+      "exampleBn": "আমি তার কণ্ঠস্বর সাথে সাথেই চিনলাম।"
+    },
+    {
+      "word": "regular",
+      "phonetic": "/ˈreɡjulər/",
+      "meaning": "happening often and at fixed times",
+      "bangla": "নিয়মিত",
+      "example": "He goes for a regular walk.",
+      "exampleBn": "সে নিয়মিত হাঁটতে যায়।"
+    },
+    {
+      "word": "sign",
+      "phonetic": "/saɪn/",
+      "meaning": "a mark or symbol with meaning; to write your name",
+      "bangla": "চিহ্ন / স্বাক্ষর করা",
+      "example": "The sign said 'No Entry'.",
+      "exampleBn": "চিহ্নটিতে লেখা ছিল 'প্রবেশ নিষেধ'।"
+    },
+    {
+      "word": "tip",
+      "phonetic": "/tɪp/",
+      "meaning": "a useful piece of advice; the pointed end of something",
+      "bangla": "পরামর্শ / ডগা",
+      "example": "She gave me a helpful tip.",
+      "exampleBn": "সে আমাকে একটি সহায়ক পরামর্শ দিল।"
+    },
+    {
+      "word": "tradition",
+      "phonetic": "/trəˈdɪʃn/",
+      "meaning": "a custom passed down through generations",
+      "bangla": "ঐতিহ্য / প্রথা",
+      "example": "Eid is a beautiful tradition.",
+      "exampleBn": "ঈদ একটি সুন্দর ঐতিহ্য।"
+    },
+    {
+      "word": "trash",
+      "phonetic": "/træʃ/",
+      "meaning": "waste material or rubbish",
+      "bangla": "আবর্জনা",
+      "example": "Do not throw trash on the road.",
+      "exampleBn": "রাস্তায় আবর্জনা ফেলো না।"
+    },
+    {
+      "word": "wide",
+      "phonetic": "/waɪd/",
+      "meaning": "having a large distance from one side to the other",
+      "bangla": "চওড়া / প্রশস্ত",
+      "example": "The river is very wide.",
+      "exampleBn": "নদীটি অনেক চওড়া।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "associate with",
+      "bangla": "সাথে যুক্ত করা",
+      "usage": "connection",
+      "example": "I associate green with nature."
+    },
+    {
+      "phrase": "protect environment",
+      "bangla": "পরিবেশ রক্ষা করা",
+      "usage": "nature",
+      "example": "We must protect the environment."
+    },
+    {
+      "phrase": "garment factory",
+      "bangla": "পোশাক কারখানা",
+      "usage": "industry",
+      "example": "She works in a garment factory."
+    },
+    {
+      "phrase": "key feature",
+      "bangla": "মূল বৈশিষ্ট্য",
+      "usage": "description",
+      "example": "What is the key feature?"
+    },
+    {
+      "phrase": "for instance",
+      "bangla": "উদাহরণস্বরূপ",
+      "usage": "example",
+      "example": "For instance, birds can fly."
+    },
+    {
+      "phrase": "involve everyone",
+      "bangla": "সবাইকে জড়িত করা",
+      "usage": "participation",
+      "example": "Try to involve everyone."
+    },
+    {
+      "phrase": "take medicine",
+      "bangla": "ওষুধ খাওয়া",
+      "usage": "health",
+      "example": "Take your medicine daily."
+    },
+    {
+      "phrase": "mix well",
+      "bangla": "ভালোভাবে মেশানো",
+      "usage": "cooking",
+      "example": "Mix the ingredients well."
+    },
+    {
+      "phrase": "organize event",
+      "bangla": "অনুষ্ঠান সংগঠিত করা",
+      "usage": "planning",
+      "example": "They organized a big event."
+    },
+    {
+      "phrase": "long period",
+      "bangla": "দীর্ঘ সময়কাল",
+      "usage": "time",
+      "example": "He waited for a long period."
+    },
+    {
+      "phrase": "densely populated",
+      "bangla": "ঘনবসতিপূর্ণ",
+      "usage": "geography",
+      "example": "Dhaka is densely populated."
+    },
+    {
+      "phrase": "produce goods",
+      "bangla": "পণ্য উৎপাদন করা",
+      "usage": "industry",
+      "example": "The factory produces goods."
+    },
+    {
+      "phrase": "wide range",
+      "bangla": "বিস্তৃত পরিসর",
+      "usage": "variety",
+      "example": "We offer a wide range."
+    },
+    {
+      "phrase": "recognize easily",
+      "bangla": "সহজে চেনা",
+      "usage": "identity",
+      "example": "I recognize him easily."
+    },
+    {
+      "phrase": "regular habit",
+      "bangla": "নিয়মিত অভ্যাস",
+      "usage": "routine",
+      "example": "Reading is a regular habit."
+    },
+    {
+      "phrase": "warning sign",
+      "bangla": "সতর্কতা চিহ্ন",
+      "usage": "safety",
+      "example": "Follow the warning sign."
+    },
+    {
+      "phrase": "helpful tip",
+      "bangla": "সহায়ক পরামর্শ",
+      "usage": "advice",
+      "example": "She gave a helpful tip."
+    },
+    {
+      "phrase": "cultural tradition",
+      "bangla": "সাংস্কৃতিক ঐতিহ্য",
+      "usage": "culture",
+      "example": "It is a cultural tradition."
+    },
+    {
+      "phrase": "throw trash",
+      "bangla": "আবর্জনা ফেলা",
+      "usage": "environment",
+      "example": "Never throw trash anywhere."
+    },
+    {
+      "phrase": "wide road",
+      "bangla": "চওড়া রাস্তা",
+      "usage": "place",
+      "example": "This is a wide road."
+    }
+  ],
+
+  "sentences": [
+    {
+      "en": "I associate effort with success.",
+      "bn": "আমি প্রচেষ্টাকে সাফল্যের সাথে যুক্ত করি।"
+    },
+    { "en": "Keep the environment clean.", "bn": "পরিবেশ পরিষ্কার রাখো।" },
+    { "en": "The factory runs all day.", "bn": "কারখানাটি সারাদিন চলে।" },
+    {
+      "en": "Name one feature of this place.",
+      "bn": "এই জায়গার একটি বৈশিষ্ট্য বলো।"
+    },
+    {
+      "en": "For instance, try walking daily.",
+      "bn": "উদাহরণস্বরূপ, প্রতিদিন হাঁটার চেষ্টা করো।"
+    },
+    { "en": "This work involves many steps.", "bn": "এই কাজে অনেক ধাপ জড়িত।" },
+    {
+      "en": "The medicine helped him recover.",
+      "bn": "ওষুধটি তাকে সুস্থ হতে সাহায্য করল।"
+    },
+    { "en": "Mix sugar and milk.", "bn": "চিনি ও দুধ মেশাও।" },
+    { "en": "Let us organize the room.", "bn": "আমরা ঘরটি গুছাই।" },
+    {
+      "en": "Study for a fixed period.",
+      "bn": "নির্দিষ্ট সময়কালের জন্য পড়াশোনা করো।"
+    },
+    {
+      "en": "Fish populate rivers and lakes.",
+      "bn": "মাছ নদী ও হ্রদে বাস করে।"
+    },
+    {
+      "en": "They produce rice every season.",
+      "bn": "তারা প্রতি মৌসুমে ধান উৎপাদন করে।"
+    },
+    { "en": "The range of colours is wide.", "bn": "রঙের পরিসর বিস্তৃত।" },
+    {
+      "en": "Do you recognize this song?",
+      "bn": "তুমি কি এই গানটি চিনতে পারো?"
+    },
+    {
+      "en": "Make exercise a regular habit.",
+      "bn": "ব্যায়ামকে নিয়মিত অভ্যাস করো।"
+    },
+    { "en": "Read the sign carefully.", "bn": "চিহ্নটি মনোযোগ দিয়ে পড়ো।" },
+    { "en": "That is a great tip.", "bn": "এটি একটি দুর্দান্ত পরামর্শ।" },
+    {
+      "en": "We must keep our traditions.",
+      "bn": "আমাদের ঐতিহ্য ধরে রাখতে হবে।"
+    },
+    {
+      "en": "Trash harms the environment.",
+      "bn": "আবর্জনা পরিবেশের ক্ষতি করে।"
+    },
+    { "en": "The road is wide and clean.", "bn": "রাস্তাটি চওড়া ও পরিষ্কার।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Associate means?",
+      "opts": ["separate", "connect or link together", "destroy", "ignore"],
+      "ans": 1,
+      "explanation": "Associate means to connect or link things together."
+    },
+    {
+      "q": "Environment means?",
+      "opts": ["factory", "natural world around us", "road", "building"],
+      "ans": 1,
+      "explanation": "Environment means the natural world around us."
+    },
+    {
+      "q": "Factory means?",
+      "opts": ["school", "building where goods are made", "hospital", "market"],
+      "ans": 1,
+      "explanation": "Factory means a building where goods are manufactured."
+    },
+    {
+      "q": "Feature means?",
+      "opts": ["mistake", "important part of something", "problem", "noise"],
+      "ans": 1,
+      "explanation": "Feature means an important or interesting part of something."
+    },
+    {
+      "q": "Instance means?",
+      "opts": ["rule", "example or single occurrence", "ending", "question"],
+      "ans": 1,
+      "explanation": "Instance means an example or single occurrence of something."
+    },
+    {
+      "q": "Involve means?",
+      "opts": ["exclude", "include or require as part", "remove", "deny"],
+      "ans": 1,
+      "explanation": "Involve means to include or require as part of something."
+    },
+    {
+      "q": "Medicine means?",
+      "opts": ["food", "substance used to treat illness", "water", "tool"],
+      "ans": 1,
+      "explanation": "Medicine means a substance used to treat illness."
+    },
+    {
+      "q": "Mix means?",
+      "opts": ["separate", "combine different things", "break", "hide"],
+      "ans": 1,
+      "explanation": "Mix means to combine different things together."
+    },
+    {
+      "q": "Organize means?",
+      "opts": ["scatter", "arrange in an orderly way", "destroy", "confuse"],
+      "ans": 1,
+      "explanation": "Organize means to arrange things in an orderly way."
+    },
+    {
+      "q": "Period means?",
+      "opts": ["place", "length of time", "color", "size"],
+      "ans": 1,
+      "explanation": "Period means a length of time."
+    },
+    {
+      "q": "Populate means?",
+      "opts": [
+        "empty",
+        "fill an area with people or animals",
+        "destroy",
+        "build"
+      ],
+      "ans": 1,
+      "explanation": "Populate means to fill an area with people or animals."
+    },
+    {
+      "q": "Produce means?",
+      "opts": ["consume", "make or create something", "lose", "break"],
+      "ans": 1,
+      "explanation": "Produce means to make or create something."
+    },
+    {
+      "q": "Range means?",
+      "opts": [
+        "single item",
+        "variety between two limits",
+        "one color",
+        "silence"
+      ],
+      "ans": 1,
+      "explanation": "Range means a variety of different things or area between two limits."
+    },
+    {
+      "q": "Recognize means?",
+      "opts": ["forget", "identify someone seen before", "ignore", "lose"],
+      "ans": 1,
+      "explanation": "Recognize means to identify someone or something seen before."
+    },
+    {
+      "q": "Regular means?",
+      "opts": ["rare", "happening often at fixed times", "random", "single"],
+      "ans": 1,
+      "explanation": "Regular means happening often and at fixed times."
+    },
+    {
+      "q": "Sign means?",
+      "opts": ["noise", "mark or symbol with meaning", "color", "smell"],
+      "ans": 1,
+      "explanation": "Sign means a mark or symbol with meaning; also to write your name."
+    },
+    {
+      "q": "Tip means?",
+      "opts": ["problem", "useful advice or pointed end", "noise", "mistake"],
+      "ans": 1,
+      "explanation": "Tip means a useful piece of advice or the pointed end of something."
+    },
+    {
+      "q": "Tradition means?",
+      "opts": [
+        "new rule",
+        "custom passed down through generations",
+        "modern idea",
+        "law"
+      ],
+      "ans": 1,
+      "explanation": "Tradition means a custom passed down through generations."
+    },
+    {
+      "q": "Trash means?",
+      "opts": ["treasure", "waste material or rubbish", "food", "gift"],
+      "ans": 1,
+      "explanation": "Trash means waste material or rubbish."
+    },
+    {
+      "q": "Wide means?",
+      "opts": [
+        "narrow",
+        "having large distance from side to side",
+        "short",
+        "deep"
+      ],
+      "ans": 1,
+      "explanation": "Wide means having a large distance from one side to the other."
+    }
+  ],
+
+  "story": {
+    "title": "The Green Factory",
+    "body": "In a wide valley surrounded by green hills, there was a factory that produced herbal medicine. It was known for its unique feature — it involved local farmers and kept the environment clean. The factory manager, a kind woman named Tania, would regularly organize meetings to mix traditional knowledge with modern methods. She associated the factory's success with the health of the surrounding environment. For instance, she made it a regular habit to collect trash from nearby areas and sign agreements with farmers to produce clean herbs. Over a long period, the factory became famous across a wide range of cities. People began to recognize its products as the best in the region. Tania involved young workers and gave them helpful tips on how to manage production. The factory populated the valley with activity and hope. She kept the cultural tradition of the village alive by including local signs and symbols on every bottle. The result amazed everyone — clean medicine, clean land, and a community that learned to organize and produce together.",
+    "comprehension": [
+      {
+        "q": "What did the factory produce?",
+        "opts": ["shoes", "herbal medicine", "clothes", "food"],
+        "ans": 1
+      },
+      {
+        "q": "What was the factory's unique feature?",
+        "opts": [
+          "it was very large",
+          "it involved local farmers and kept the environment clean",
+          "it used robots",
+          "it was very old"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Tania do with trash?",
+        "opts": [
+          "ignored it",
+          "regularly collected it",
+          "burned it",
+          "sold it"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What kept the cultural tradition alive?",
+        "opts": [
+          "new machines",
+          "local signs and symbols on bottles",
+          "foreign workers",
+          "wide roads"
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "factory",
+      "environment",
+      "medicine",
+      "tradition",
+      "organize",
+      "produce",
+      "range",
+      "regular",
+      "mix",
+      "associate",
+      "feature",
+      "trash"
+    ]
+  },
+
+  "listening": {
+    "title": "Talking About the Environment",
+    "script": "A: Did you visit the herbal medicine factory?\nB: Yes! It has such an amazing feature.\nA: What do you associate it with?\nB: I associate it with a clean environment and tradition.\nA: For instance, do they involve local farmers?\nB: Exactly. They organize regular meetings with them.\nA: Do they produce a wide range of medicine?\nB: Yes, and they mix traditional recipes with modern methods.\nA: How do they manage trash?\nB: They sign agreements to keep the area clean.\nA: That is a great tip for other factories too.\nB: Over a long period, this can populate the whole region with green industry.\nA: I hope more people recognize this tradition.\nB: Me too. It is a sign of a healthy future.",
+    "comprehension": [
+      {
+        "q": "What does B associate the factory with?",
+        "opts": [
+          "money",
+          "clean environment and tradition",
+          "machines",
+          "foreign workers"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "How do they manage trash?",
+        "opts": [
+          "they burn it",
+          "they sign agreements to keep area clean",
+          "they ignore it",
+          "they sell it"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Protecting Our Environment",
+    "prompt": "Talk about ways to protect the environment. Use words like trash, regular, involve, tradition, and produce.",
+    "example": "To protect the environment, we should make it a regular habit to avoid throwing trash. We can involve our community and produce less waste. For instance, keeping our traditions of respecting nature is a great sign of care.",
+    "tips": [
+      "Start with a problem in the environment",
+      "Use 'for instance' to give examples",
+      "Suggest regular habits to fix the problem",
+      "End with a tradition or cultural value"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Discussing ways to keep the community clean",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Have you noticed trash problems in your area?"
+      },
+      { "speaker": "user", "prompt": "Say yes and describe what you see." },
+      {
+        "speaker": "app",
+        "text": "What regular steps can people take to fix it?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Give two tips using 'involve' and 'organize'."
+      },
+      {
+        "speaker": "app",
+        "text": "Is there a local tradition of keeping the environment clean?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Describe the tradition and its features."
+      }
+    ]
+  }
+}

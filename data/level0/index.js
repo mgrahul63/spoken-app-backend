@@ -19,7 +19,10 @@ const day18 = require("./day18.json");
 const day19 = require("./day19.json");
 const day20 = require("./day20.json");
 const day21 = require("./day21.json");
+const day22 = require("./day22.json");
 const day23 = require("./day23.json");
+const day24 = require("./day24.json");
+const day25 = require("./day25.json");
 
 module.exports = {
   levelId: 0,
@@ -47,6 +50,9 @@ module.exports = {
     day19,
     day20,
     day21,
+    day22,
     day23,
+    day24,
+    day25,
   ],
 };
