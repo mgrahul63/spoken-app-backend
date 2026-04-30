@@ -1,0 +1,528 @@
+{
+  "day": 12,
+  "topic": "People, Places & Everyday Life Vocabulary",
+  "lessonId": "L0D7",
+  "vocabulary": [
+    {
+      "word": "alone",
+      "phonetic": "/əˈloʊn/",
+      "meaning": "without others; by oneself",
+      "bangla": "একা / একাকী",
+      "example": "She lives alone.",
+      "exampleBn": "সে একা থাকে।"
+    },
+    {
+      "word": "apartment",
+      "phonetic": "/əˈpɑːrtmənt/",
+      "meaning": "a set of rooms for living in a building",
+      "bangla": "অ্যাপার্টমেন্ট / ফ্ল্যাট",
+      "example": "He rents an apartment.",
+      "exampleBn": "সে একটি অ্যাপার্টমেন্ট ভাড়া নেয়।"
+    },
+    {
+      "word": "article",
+      "phonetic": "/ˈɑːrtɪkl/",
+      "meaning": "a piece of writing in a newspaper or magazine",
+      "bangla": "নিবন্ধ / প্রবন্ধ",
+      "example": "I read an article today.",
+      "exampleBn": "আমি আজ একটি নিবন্ধ পড়লাম।"
+    },
+    {
+      "word": "artist",
+      "phonetic": "/ˈɑːrtɪst/",
+      "meaning": "a person who creates art",
+      "bangla": "শিল্পী",
+      "example": "She is a talented artist.",
+      "exampleBn": "সে একজন প্রতিভাবান শিল্পী।"
+    },
+    {
+      "word": "attitude",
+      "phonetic": "/ˈætɪtjuːd/",
+      "meaning": "a way of thinking or feeling about something",
+      "bangla": "মনোভাব / দৃষ্টিভঙ্গি",
+      "example": "He has a positive attitude.",
+      "exampleBn": "তার একটি ইতিবাচক মনোভাব আছে।"
+    },
+    {
+      "word": "compare",
+      "phonetic": "/kəmˈpeər/",
+      "meaning": "to examine the similarities and differences",
+      "bangla": "তুলনা করা",
+      "example": "Compare the two prices.",
+      "exampleBn": "দুটি দাম তুলনা করো।"
+    },
+    {
+      "word": "judge",
+      "phonetic": "/dʒʌdʒ/",
+      "meaning": "to form an opinion about someone or something",
+      "bangla": "বিচার করা / মূল্যায়ন করা",
+      "example": "Do not judge others quickly.",
+      "exampleBn": "অন্যদের দ্রুত বিচার করো না।"
+    },
+    {
+      "word": "magazine",
+      "phonetic": "/ˌmæɡəˈziːn/",
+      "meaning": "a periodical publication with articles and pictures",
+      "bangla": "ম্যাগাজিন / পত্রিকা",
+      "example": "She reads a magazine.",
+      "exampleBn": "সে একটি ম্যাগাজিন পড়ে।"
+    },
+    {
+      "word": "material",
+      "phonetic": "/məˈtɪəriəl/",
+      "meaning": "the substance from which something is made",
+      "bangla": "উপাদান / কাঁচামাল",
+      "example": "This material is soft.",
+      "exampleBn": "এই উপাদানটি নরম।"
+    },
+    {
+      "word": "meal",
+      "phonetic": "/miːl/",
+      "meaning": "food eaten at a specific time",
+      "bangla": "খাবার / আহার",
+      "example": "We had a big meal.",
+      "exampleBn": "আমরা একটি বড় আহার খেলাম।"
+    },
+    {
+      "word": "method",
+      "phonetic": "/ˈmeθəd/",
+      "meaning": "a way of doing something",
+      "bangla": "পদ্ধতি",
+      "example": "This is a good method.",
+      "exampleBn": "এটি একটি ভালো পদ্ধতি।"
+    },
+    {
+      "word": "neighbor",
+      "phonetic": "/ˈneɪbər/",
+      "meaning": "a person who lives near you",
+      "bangla": "প্রতিবেশী",
+      "example": "My neighbor is kind.",
+      "exampleBn": "আমার প্রতিবেশী সদয়।"
+    },
+    {
+      "word": "professional",
+      "phonetic": "/prəˈfeʃənl/",
+      "meaning": "relating to a skilled job or career",
+      "bangla": "পেশাদার",
+      "example": "He is a professional doctor.",
+      "exampleBn": "সে একজন পেশাদার ডাক্তার।"
+    },
+    {
+      "word": "profit",
+      "phonetic": "/ˈprɒfɪt/",
+      "meaning": "money gained after expenses",
+      "bangla": "লাভ / মুনাফা",
+      "example": "The shop made a profit.",
+      "exampleBn": "দোকানটি লাভ করল।"
+    },
+    {
+      "word": "quality",
+      "phonetic": "/ˈkwɒlɪti/",
+      "meaning": "the standard or degree of excellence",
+      "bangla": "গুণমান / মান",
+      "example": "This product has good quality.",
+      "exampleBn": "এই পণ্যটির ভালো গুণমান আছে।"
+    },
+    {
+      "word": "shape",
+      "phonetic": "/ʃeɪp/",
+      "meaning": "the outer form or appearance of something",
+      "bangla": "আকৃতি / আকার",
+      "example": "Draw a circle shape.",
+      "exampleBn": "একটি বৃত্তের আকৃতি আঁকো।"
+    },
+    {
+      "word": "space",
+      "phonetic": "/speɪs/",
+      "meaning": "an empty area or the universe beyond Earth",
+      "bangla": "জায়গা / মহাকাশ",
+      "example": "There is no space here.",
+      "exampleBn": "এখানে কোনো জায়গা নেই।"
+    },
+    {
+      "word": "stair",
+      "phonetic": "/steər/",
+      "meaning": "a step or series of steps to go up or down",
+      "bangla": "সিঁড়ি",
+      "example": "She climbed the stairs.",
+      "exampleBn": "সে সিঁড়ি বেয়ে উঠল।"
+    },
+    {
+      "word": "symbol",
+      "phonetic": "/ˈsɪmbəl/",
+      "meaning": "a sign that represents something",
+      "bangla": "প্রতীক / চিহ্ন",
+      "example": "The dove is a symbol of peace.",
+      "exampleBn": "কবুতর শান্তির প্রতীক।"
+    },
+    {
+      "word": "thin",
+      "phonetic": "/θɪn/",
+      "meaning": "having little width or small body",
+      "bangla": "পাতলা / চিকন",
+      "example": "She is very thin.",
+      "exampleBn": "সে খুবই পাতলা।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "live alone",
+      "bangla": "একা বাস করা",
+      "usage": "lifestyle",
+      "example": "He lives alone in the city."
+    },
+    {
+      "phrase": "rent an apartment",
+      "bangla": "অ্যাপার্টমেন্ট ভাড়া নেওয়া",
+      "usage": "housing",
+      "example": "She rented a small apartment."
+    },
+    {
+      "phrase": "write an article",
+      "bangla": "একটি নিবন্ধ লেখা",
+      "usage": "writing",
+      "example": "He wrote an article for the newspaper."
+    },
+    {
+      "phrase": "talented artist",
+      "bangla": "প্রতিভাবান শিল্পী",
+      "usage": "description",
+      "example": "She is a talented artist."
+    },
+    {
+      "phrase": "positive attitude",
+      "bangla": "ইতিবাচক মনোভাব",
+      "usage": "personality",
+      "example": "Keep a positive attitude always."
+    },
+    {
+      "phrase": "compare prices",
+      "bangla": "দাম তুলনা করা",
+      "usage": "shopping",
+      "example": "Always compare prices before buying."
+    },
+    {
+      "phrase": "judge fairly",
+      "bangla": "ন্যায়সঙ্গতভাবে বিচার করা",
+      "usage": "evaluation",
+      "example": "The teacher judged fairly."
+    },
+    {
+      "phrase": "read a magazine",
+      "bangla": "ম্যাগাজিন পড়া",
+      "usage": "leisure",
+      "example": "She reads a magazine every evening."
+    },
+    {
+      "phrase": "raw material",
+      "bangla": "কাঁচামাল",
+      "usage": "production",
+      "example": "The factory needs raw material."
+    },
+    {
+      "phrase": "prepare a meal",
+      "bangla": "খাবার তৈরি করা",
+      "usage": "cooking",
+      "example": "She prepared a delicious meal."
+    },
+    {
+      "phrase": "teaching method",
+      "bangla": "শিক্ষণ পদ্ধতি",
+      "usage": "education",
+      "example": "The teacher uses a new method."
+    },
+    {
+      "phrase": "kind neighbor",
+      "bangla": "সদয় প্রতিবেশী",
+      "usage": "community",
+      "example": "My neighbor always helps me."
+    },
+    {
+      "phrase": "professional advice",
+      "bangla": "পেশাদার পরামর্শ",
+      "usage": "career",
+      "example": "Seek professional advice for health."
+    },
+    {
+      "phrase": "earn profit",
+      "bangla": "লাভ অর্জন করা",
+      "usage": "business",
+      "example": "The business earned a huge profit."
+    },
+    {
+      "phrase": "high quality",
+      "bangla": "উচ্চ মানের",
+      "usage": "standard",
+      "example": "We sell high quality products."
+    },
+    {
+      "phrase": "round shape",
+      "bangla": "গোলাকার আকৃতি",
+      "usage": "geometry",
+      "example": "The ball has a round shape."
+    },
+    {
+      "phrase": "outer space",
+      "bangla": "মহাকাশ",
+      "usage": "science",
+      "example": "Astronauts travel to outer space."
+    },
+    {
+      "phrase": "climb the stairs",
+      "bangla": "সিঁড়ি বেয়ে ওঠা",
+      "usage": "movement",
+      "example": "He climbed the stairs slowly."
+    },
+    {
+      "phrase": "national symbol",
+      "bangla": "জাতীয় প্রতীক",
+      "usage": "culture",
+      "example": "The flag is a national symbol."
+    },
+    {
+      "phrase": "look thin",
+      "bangla": "পাতলা দেখানো",
+      "usage": "appearance",
+      "example": "She looks thin after the illness."
+    }
+  ],
+
+  "sentences": [
+    { "en": "He prefers to stay alone.", "bn": "সে একা থাকতে পছন্দ করে।" },
+    { "en": "They moved into a new apartment.", "bn": "তারা একটি নতুন অ্যাপার্টমেন্টে উঠল।" },
+    { "en": "I wrote an article about nature.", "bn": "আমি প্রকৃতি নিয়ে একটি নিবন্ধ লিখলাম।" },
+    { "en": "The artist painted a beautiful picture.", "bn": "শিল্পী একটি সুন্দর ছবি আঁকলেন।" },
+    { "en": "Your attitude determines your success.", "bn": "তোমার মনোভাব তোমার সাফল্য নির্ধারণ করে।" },
+    { "en": "She compared the two dresses.", "bn": "সে দুটি পোশাক তুলনা করল।" },
+    { "en": "Do not judge a book by its cover.", "bn": "বইয়ের প্রচ্ছদ দেখে বিচার করো না।" },
+    { "en": "He bought a magazine at the shop.", "bn": "সে দোকানে একটি ম্যাগাজিন কিনল।" },
+    { "en": "The material is made of cotton.", "bn": "উপাদানটি তুলা দিয়ে তৈরি।" },
+    { "en": "We enjoyed a hot meal together.", "bn": "আমরা একসাথে গরম খাবার উপভোগ করলাম।" },
+    { "en": "He explained his method clearly.", "bn": "সে তার পদ্ধতি স্পষ্টভাবে ব্যাখ্যা করল।" },
+    { "en": "My neighbor brought us food.", "bn": "আমার প্রতিবেশী আমাদের খাবার এনে দিল।" },
+    { "en": "She gave professional advice.", "bn": "সে পেশাদার পরামর্শ দিল।" },
+    { "en": "The company made a large profit.", "bn": "কোম্পানিটি একটি বড় লাভ করল।" },
+    { "en": "The quality of this cloth is excellent.", "bn": "এই কাপড়ের গুণমান চমৎকার।" },
+    { "en": "The shape of the moon changes.", "bn": "চাঁদের আকৃতি পরিবর্তন হয়।" },
+    { "en": "We need more space in this room.", "bn": "এই ঘরে আমাদের আরও জায়গা দরকার।" },
+    { "en": "Be careful on the stairs.", "bn": "সিঁড়িতে সাবধান থেকো।" },
+    { "en": "The lotus is a symbol of purity.", "bn": "পদ্মফুল পবিত্রতার প্রতীক।" },
+    { "en": "He is too thin and needs to eat more.", "bn": "সে খুব পাতলা এবং আরও খাওয়া দরকার।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Alone means?",
+      "opts": ["with friends", "by oneself", "in a group", "at school"],
+      "ans": 1,
+      "explanation": "Alone means without others, by oneself."
+    },
+    {
+      "q": "Apartment means?",
+      "opts": ["a garden", "a flat to live in", "a school", "a market"],
+      "ans": 1,
+      "explanation": "Apartment means a set of rooms for living in a building."
+    },
+    {
+      "q": "Article means?",
+      "opts": ["a picture", "a piece of writing", "a song", "a tool"],
+      "ans": 1,
+      "explanation": "Article means a piece of writing published in a newspaper or magazine."
+    },
+    {
+      "q": "Artist means?",
+      "opts": ["a doctor", "a person who creates art", "a driver", "a cook"],
+      "ans": 1,
+      "explanation": "Artist means a person who creates paintings, music, or other art."
+    },
+    {
+      "q": "Attitude means?",
+      "opts": ["a place", "way of thinking or feeling", "a color", "a food"],
+      "ans": 1,
+      "explanation": "Attitude means a way of thinking or feeling about something."
+    },
+    {
+      "q": "Compare means?",
+      "opts": ["ignore", "examine differences", "destroy", "hide"],
+      "ans": 1,
+      "explanation": "Compare means to look at similarities and differences between things."
+    },
+    {
+      "q": "Judge means?",
+      "opts": ["celebrate", "form an opinion", "travel", "cook"],
+      "ans": 1,
+      "explanation": "Judge means to form an opinion or make a decision about someone."
+    },
+    {
+      "q": "Magazine means?",
+      "opts": ["a tool", "a periodic publication", "a vehicle", "a building"],
+      "ans": 1,
+      "explanation": "Magazine means a publication with articles and pictures released regularly."
+    },
+    {
+      "q": "Material means?",
+      "opts": ["a sound", "substance things are made from", "a language", "a feeling"],
+      "ans": 1,
+      "explanation": "Material means the substance from which something is made."
+    },
+    {
+      "q": "Meal means?",
+      "opts": ["a drink", "food eaten at a time", "a song", "a book"],
+      "ans": 1,
+      "explanation": "Meal means food eaten at a particular time of the day."
+    },
+    {
+      "q": "Method means?",
+      "opts": ["a problem", "a way of doing something", "a mistake", "a color"],
+      "ans": 1,
+      "explanation": "Method means a particular way of doing something."
+    },
+    {
+      "q": "Neighbor means?",
+      "opts": ["a stranger", "a person living nearby", "an enemy", "a teacher"],
+      "ans": 1,
+      "explanation": "Neighbor means a person who lives near you."
+    },
+    {
+      "q": "Professional means?",
+      "opts": ["unskilled", "relating to a skilled job", "lazy", "young"],
+      "ans": 1,
+      "explanation": "Professional means having or showing the skill of a trained expert."
+    },
+    {
+      "q": "Profit means?",
+      "opts": ["loss", "money gained after expenses", "debt", "cost"],
+      "ans": 1,
+      "explanation": "Profit means money earned after all costs are paid."
+    },
+    {
+      "q": "Quality means?",
+      "opts": ["quantity", "standard of excellence", "speed", "color"],
+      "ans": 1,
+      "explanation": "Quality means the standard or degree of excellence of something."
+    },
+    {
+      "q": "Shape means?",
+      "opts": ["sound", "outer form of something", "smell", "taste"],
+      "ans": 1,
+      "explanation": "Shape means the outer form or appearance of something."
+    },
+    {
+      "q": "Space means?",
+      "opts": ["noise", "empty area or universe", "food", "color"],
+      "ans": 1,
+      "explanation": "Space means an empty area or the region beyond Earth's atmosphere."
+    },
+    {
+      "q": "Stair means?",
+      "opts": ["a window", "a step to go up or down", "a wall", "a door"],
+      "ans": 1,
+      "explanation": "Stair means one of a series of steps for going between floors."
+    },
+    {
+      "q": "Symbol means?",
+      "opts": ["a noise", "a sign representing something", "a meal", "a sport"],
+      "ans": 1,
+      "explanation": "Symbol means a sign, shape, or object used to represent something."
+    },
+    {
+      "q": "Thin means?",
+      "opts": ["fat", "having little width or small body", "tall", "loud"],
+      "ans": 1,
+      "explanation": "Thin means having little thickness or a slender body."
+    }
+  ],
+
+  "story": {
+    "title": "The Artist in the Apartment",
+    "body": "Rina was a professional artist who lived alone in a small apartment on the fourth floor. Every morning, she climbed the stairs slowly, carrying her art materials. She never used the elevator because she believed the stairs helped her stay healthy and thin. Her apartment had a unique shape — long and narrow — but she used every inch of space wisely. On the walls, she hung symbols of her culture: a painting of a lotus, the symbol of purity, and a dove, the symbol of peace. Her neighbor, an old man named Karim, often brought her a warm meal when she forgot to eat while painting. One day, a famous magazine editor read an article about Rina's work and visited her apartment. The editor compared her paintings with those of famous artists and was amazed by their quality. He asked Rina about her method. She explained that her attitude toward life — staying calm, thinking deeply, and never judging people harshly — was the key to her art. She did not compare herself with others; she only focused on improving her own work. The editor offered to publish her artwork. The profit from the deal helped Rina buy better art material. From that day, Rina's name became a symbol of hard work and creativity in her community.",
+    "comprehension": [
+      {
+        "q": "Where did Rina live?",
+        "opts": ["in a house", "in an apartment", "in a school", "in a hotel"],
+        "ans": 1
+      },
+      {
+        "q": "What did her neighbor bring her?",
+        "opts": ["books", "a warm meal", "money", "clothes"],
+        "ans": 1
+      },
+      {
+        "q": "Who visited her apartment?",
+        "opts": ["a doctor", "a magazine editor", "a neighbor", "a student"],
+        "ans": 1
+      },
+      {
+        "q": "What was Rina's key to great art?",
+        "opts": ["money", "attitude toward life", "travel", "competition"],
+        "ans": 1
+      },
+      {
+        "q": "What did the profit help Rina buy?",
+        "opts": ["a car", "better art material", "a new apartment", "a magazine"],
+        "ans": 1
+      }
+    ],
+    "tags": ["alone", "apartment", "artist", "professional", "symbol", "quality", "attitude", "neighbor", "material", "method"]
+  },
+
+  "listening": {
+    "title": "A Conversation at the Art Exhibition",
+    "script": "A: Excuse me, are you the artist who painted these?\nB: Yes, I am. I live alone and paint every day.\nA: Your work is amazing. What material do you use?\nB: I use only high quality cotton canvas and natural colors.\nA: How do you find space to work in a small apartment?\nB: I arrange my tools carefully and use every corner.\nA: I read an article about you in a magazine last week.\nB: Yes, the editor compared my work with professional artists.\nA: What is your method of painting?\nB: I study shapes, symbols, and the thin lines in nature.\nA: Do you ever judge your own work?\nB: Yes, but with a positive attitude. I improve every day.\nA: Does your neighbor disturb you?\nB: No, he is kind. He brings me a meal when I forget to eat.\nA: Have you made a profit from your art?\nB: Yes, it helped me buy better material.\nA: You are truly a professional artist.\nB: Thank you. Hard work and quality never fail.",
+    "comprehension": [
+      {
+        "q": "What material does the artist use?",
+        "opts": ["plastic", "cotton canvas", "paper", "metal"],
+        "ans": 1
+      },
+      {
+        "q": "How does she arrange her apartment?",
+        "opts": ["she doesn't", "uses every corner carefully", "leaves it messy", "rents more space"],
+        "ans": 1
+      },
+      {
+        "q": "What does her neighbor do for her?",
+        "opts": ["paints with her", "brings her a meal", "reads her articles", "sells her work"],
+        "ans": 1
+      },
+      {
+        "q": "What helped her buy better material?",
+        "opts": ["a loan", "profit from art", "her neighbor", "a magazine"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Describing Your Living Space and Daily Life",
+    "prompt": "Talk about where you live and how you spend your day. Use words like apartment, space, neighbor, meal, method, and quality.",
+    "example": "I live in a small apartment with my family. Our space is limited, but we keep it organized. My neighbor is very friendly and kind. Every morning, we prepare a healthy meal together. My method of studying is simple: I read, write, and practice daily. I always try to maintain quality in my work and keep a positive attitude toward life.",
+    "tips": [
+      "Describe your living place clearly",
+      "Talk about your daily routine",
+      "Mention how you interact with neighbors",
+      "Use adjectives like thin, small, high quality",
+      "Share your personal method or habit",
+      "Speak slowly and with confidence"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Two friends talking about a new apartment and neighborhood",
+    "steps": [
+      { "speaker": "app", "text": "Did you move into your new apartment?" },
+      { "speaker": "user", "prompt": "Say yes and describe the apartment." },
+      { "speaker": "app", "text": "Is there enough space for your things?" },
+      { "speaker": "user", "prompt": "Talk about the space and how you arranged it." },
+      { "speaker": "app", "text": "How is your neighbor?" },
+      { "speaker": "user", "prompt": "Describe your neighbor's attitude and behavior." },
+      { "speaker": "app", "text": "Do you cook your own meal or order food?" },
+      { "speaker": "user", "prompt": "Talk about your meal habits and method of cooking." },
+      { "speaker": "app", "text": "Have you read any article or magazine lately?" },
+      { "speaker": "user", "prompt": "Share what you read and compare it with something you know." },
+      { "speaker": "app", "text": "What symbol or object makes your apartment feel like home?" },
+      { "speaker": "user", "prompt": "Describe a symbol or item that is meaningful to you." }
+    ]
+  }
+}

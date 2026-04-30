@@ -1,0 +1,528 @@
+{
+  "day": 13,
+  "topic": "Nature, Science & Responsibility Vocabulary",
+  "lessonId": "L0D8",
+  "vocabulary": [
+    {
+      "word": "blood",
+      "phonetic": "/blʌd/",
+      "meaning": "the red liquid that flows through the body",
+      "bangla": "রক্ত",
+      "example": "Blood is important for life.",
+      "exampleBn": "রক্ত জীবনের জন্য গুরুত্বপূর্ণ।"
+    },
+    {
+      "word": "burn",
+      "phonetic": "/bɜːrn/",
+      "meaning": "to be on fire or to destroy by fire",
+      "bangla": "পোড়া / জ্বলা",
+      "example": "The candle burns slowly.",
+      "exampleBn": "মোমবাতিটি ধীরে ধীরে জ্বলে।"
+    },
+    {
+      "word": "cell",
+      "phonetic": "/sel/",
+      "meaning": "the smallest unit of a living organism",
+      "bangla": "কোষ",
+      "example": "The body is made of cells.",
+      "exampleBn": "শরীর কোষ দিয়ে তৈরি।"
+    },
+    {
+      "word": "contain",
+      "phonetic": "/kənˈteɪn/",
+      "meaning": "to have something inside",
+      "bangla": "ধারণ করা / থাকা",
+      "example": "This bottle contains water.",
+      "exampleBn": "এই বোতলে পানি আছে।"
+    },
+    {
+      "word": "correct",
+      "phonetic": "/kəˈrekt/",
+      "meaning": "free from error; right",
+      "bangla": "সঠিক / শুদ্ধ",
+      "example": "Your answer is correct.",
+      "exampleBn": "তোমার উত্তর সঠিক।"
+    },
+    {
+      "word": "crop",
+      "phonetic": "/krɒp/",
+      "meaning": "a plant or harvest grown by farmers",
+      "bangla": "ফসল",
+      "example": "Farmers grow crops every season.",
+      "exampleBn": "কৃষকরা প্রতি মৌসুমে ফসল ফলায়।"
+    },
+    {
+      "word": "demand",
+      "phonetic": "/dɪˈmɑːnd/",
+      "meaning": "a strong request or need for something",
+      "bangla": "চাহিদা / দাবি",
+      "example": "There is a huge demand for rice.",
+      "exampleBn": "চালের জন্য বিশাল চাহিদা রয়েছে।"
+    },
+    {
+      "word": "equal",
+      "phonetic": "/ˈiːkwəl/",
+      "meaning": "the same in size, value, or amount",
+      "bangla": "সমান",
+      "example": "All people are equal.",
+      "exampleBn": "সকল মানুষ সমান।"
+    },
+    {
+      "word": "feed",
+      "phonetic": "/fiːd/",
+      "meaning": "to give food to someone or something",
+      "bangla": "খাওয়ানো",
+      "example": "She feeds the baby.",
+      "exampleBn": "সে শিশুকে খাওয়ায়।"
+    },
+    {
+      "word": "hole",
+      "phonetic": "/hoʊl/",
+      "meaning": "an opening or gap in something",
+      "bangla": "গর্ত / ছিদ্র",
+      "example": "There is a hole in the wall.",
+      "exampleBn": "দেয়ালে একটি গর্ত আছে।"
+    },
+    {
+      "word": "increase",
+      "phonetic": "/ɪnˈkriːs/",
+      "meaning": "to become or make larger in amount",
+      "bangla": "বৃদ্ধি পাওয়া / বাড়ানো",
+      "example": "Prices increase every year.",
+      "exampleBn": "প্রতি বছর দাম বৃদ্ধি পায়।"
+    },
+    {
+      "word": "lord",
+      "phonetic": "/lɔːrd/",
+      "meaning": "a master, ruler, or title of respect",
+      "bangla": "প্রভু / মালিক",
+      "example": "He is the lord of the land.",
+      "exampleBn": "সে জমির প্রভু।"
+    },
+    {
+      "word": "owe",
+      "phonetic": "/oʊ/",
+      "meaning": "to be required to pay or give something",
+      "bangla": "ঋণী থাকা / দেনা থাকা",
+      "example": "I owe him some money.",
+      "exampleBn": "আমি তার কাছে কিছু টাকা ধার করেছি।"
+    },
+    {
+      "word": "position",
+      "phonetic": "/pəˈzɪʃn/",
+      "meaning": "the place or rank where someone or something is",
+      "bangla": "অবস্থান / পদ",
+      "example": "He holds a high position.",
+      "exampleBn": "সে একটি উচ্চ পদে আছে।"
+    },
+    {
+      "word": "raise",
+      "phonetic": "/reɪz/",
+      "meaning": "to lift something up or to bring up a child",
+      "bangla": "তোলা / লালন-পালন করা",
+      "example": "She raised her hand.",
+      "exampleBn": "সে তার হাত তুলল।"
+    },
+    {
+      "word": "responsible",
+      "phonetic": "/rɪˈspɒnsɪbl/",
+      "meaning": "having a duty to deal with something",
+      "bangla": "দায়িত্বশীল",
+      "example": "Be responsible for your actions.",
+      "exampleBn": "তোমার কাজের জন্য দায়িত্বশীল হও।"
+    },
+    {
+      "word": "sight",
+      "phonetic": "/saɪt/",
+      "meaning": "the ability to see; something seen",
+      "bangla": "দৃষ্টি / দৃশ্য",
+      "example": "The sight of the mountains is beautiful.",
+      "exampleBn": "পাহাড়ের দৃশ্যটি সুন্দর।"
+    },
+    {
+      "word": "spot",
+      "phonetic": "/spɒt/",
+      "meaning": "a particular place or a small mark",
+      "bangla": "স্থান / দাগ",
+      "example": "This is my favorite spot.",
+      "exampleBn": "এটি আমার প্রিয় স্থান।"
+    },
+    {
+      "word": "structure",
+      "phonetic": "/ˈstrʌktʃər/",
+      "meaning": "the way something is built or organized",
+      "bangla": "কাঠামো / গঠন",
+      "example": "The structure of the building is strong.",
+      "exampleBn": "ভবনের কাঠামো মজবুত।"
+    },
+    {
+      "word": "whole",
+      "phonetic": "/hoʊl/",
+      "meaning": "complete; all of something",
+      "bangla": "সম্পূর্ণ / পুরো",
+      "example": "I ate the whole meal.",
+      "exampleBn": "আমি পুরো খাবার খেয়ে ফেললাম।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "blood pressure",
+      "bangla": "রক্তচাপ",
+      "usage": "health",
+      "example": "His blood pressure is high."
+    },
+    {
+      "phrase": "burn down",
+      "bangla": "পুড়ে যাওয়া",
+      "usage": "disaster",
+      "example": "The house burned down last night."
+    },
+    {
+      "phrase": "blood cell",
+      "bangla": "রক্তকণিকা",
+      "usage": "science",
+      "example": "Red blood cells carry oxygen."
+    },
+    {
+      "phrase": "contain sugar",
+      "bangla": "চিনি ধারণ করা",
+      "usage": "food",
+      "example": "This drink contains too much sugar."
+    },
+    {
+      "phrase": "correct answer",
+      "bangla": "সঠিক উত্তর",
+      "usage": "education",
+      "example": "She gave the correct answer."
+    },
+    {
+      "phrase": "grow crops",
+      "bangla": "ফসল উৎপাদন করা",
+      "usage": "agriculture",
+      "example": "Farmers grow crops in the field."
+    },
+    {
+      "phrase": "meet demand",
+      "bangla": "চাহিদা পূরণ করা",
+      "usage": "business",
+      "example": "The factory cannot meet demand."
+    },
+    {
+      "phrase": "equal rights",
+      "bangla": "সমান অধিকার",
+      "usage": "social",
+      "example": "Everyone deserves equal rights."
+    },
+    {
+      "phrase": "feed the poor",
+      "bangla": "গরিবদের খাওয়ানো",
+      "usage": "charity",
+      "example": "They feed the poor every Friday."
+    },
+    {
+      "phrase": "dig a hole",
+      "bangla": "গর্ত খোঁড়া",
+      "usage": "action",
+      "example": "He dug a hole in the ground."
+    },
+    {
+      "phrase": "increase speed",
+      "bangla": "গতি বাড়ানো",
+      "usage": "movement",
+      "example": "The car increased speed on the road."
+    },
+    {
+      "phrase": "lord of the land",
+      "bangla": "জমির প্রভু",
+      "usage": "authority",
+      "example": "He was the lord of the land."
+    },
+    {
+      "phrase": "owe money",
+      "bangla": "টাকা ধার থাকা",
+      "usage": "finance",
+      "example": "I owe him a lot of money."
+    },
+    {
+      "phrase": "job position",
+      "bangla": "চাকরির পদ",
+      "usage": "career",
+      "example": "She applied for a higher position."
+    },
+    {
+      "phrase": "raise a child",
+      "bangla": "শিশু লালন-পালন করা",
+      "usage": "family",
+      "example": "They raised their child with love."
+    },
+    {
+      "phrase": "responsible person",
+      "bangla": "দায়িত্বশীল ব্যক্তি",
+      "usage": "character",
+      "example": "He is a very responsible person."
+    },
+    {
+      "phrase": "lose sight",
+      "bangla": "দৃষ্টি হারানো",
+      "usage": "health",
+      "example": "She lost sight in one eye."
+    },
+    {
+      "phrase": "beautiful spot",
+      "bangla": "সুন্দর স্থান",
+      "usage": "travel",
+      "example": "This is a beautiful spot for a picnic."
+    },
+    {
+      "phrase": "sentence structure",
+      "bangla": "বাক্যের কাঠামো",
+      "usage": "grammar",
+      "example": "Learn the correct sentence structure."
+    },
+    {
+      "phrase": "whole truth",
+      "bangla": "সম্পূর্ণ সত্য",
+      "usage": "honesty",
+      "example": "Tell me the whole truth."
+    }
+  ],
+
+  "sentences": [
+    { "en": "The doctor tested his blood.", "bn": "ডাক্তার তার রক্ত পরীক্ষা করলেন।" },
+    { "en": "The dry leaves burn quickly.", "bn": "শুকনো পাতা দ্রুত পুড়ে যায়।" },
+    { "en": "Every cell in the body has a function.", "bn": "শরীরের প্রতিটি কোষের একটি কাজ আছে।" },
+    { "en": "The box contains old books.", "bn": "বাক্সটিতে পুরনো বই আছে।" },
+    { "en": "Please correct your mistakes.", "bn": "দয়া করে তোমার ভুলগুলো সংশোধন করো।" },
+    { "en": "The crop was destroyed by the flood.", "bn": "বন্যায় ফসল নষ্ট হয়ে গেল।" },
+    { "en": "The demand for doctors is increasing.", "bn": "ডাক্তারের চাহিদা বাড়ছে।" },
+    { "en": "Boys and girls should have equal opportunities.", "bn": "ছেলে ও মেয়েদের সমান সুযোগ থাকা উচিত।" },
+    { "en": "He feeds the birds every morning.", "bn": "সে প্রতিদিন সকালে পাখিদের খাওয়ায়।" },
+    { "en": "The rat made a hole in the bag.", "bn": "ইঁদুরটি ব্যাগে একটি ছিদ্র করল।" },
+    { "en": "We must increase our knowledge daily.", "bn": "আমাদের প্রতিদিন জ্ঞান বৃদ্ধি করতে হবে।" },
+    { "en": "He prayed to the lord for help.", "bn": "সে সাহায্যের জন্য প্রভুর কাছে প্রার্থনা করল।" },
+    { "en": "I owe her a big thank you.", "bn": "আমি তার কাছে একটি বড় ধন্যবাদ পাওনা আছি।" },
+    { "en": "She secured the top position in class.", "bn": "সে ক্লাসে সর্বোচ্চ স্থান অর্জন করল।" },
+    { "en": "His parents raised him with great care.", "bn": "তার বাবা-মা তাকে অনেক যত্নে বড় করেছেন।" },
+    { "en": "A responsible leader never gives up.", "bn": "একজন দায়িত্বশীল নেতা কখনো হাল ছাড়েন না।" },
+    { "en": "The sight of the river calmed his mind.", "bn": "নদীর দৃশ্য তার মন শান্ত করল।" },
+    { "en": "They found a quiet spot near the lake.", "bn": "তারা হ্রদের কাছে একটি শান্ত স্থান খুঁজে পেল।" },
+    { "en": "The structure of the old bridge is weak.", "bn": "পুরনো সেতুর কাঠামো দুর্বল।" },
+    { "en": "She spent the whole day studying.", "bn": "সে সারাদিন পড়াশোনায় কাটাল।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Blood means?",
+      "opts": ["water in the body", "red liquid flowing in the body", "air in the lungs", "food in the stomach"],
+      "ans": 1,
+      "explanation": "Blood is the red liquid that flows through the body carrying oxygen and nutrients."
+    },
+    {
+      "q": "Burn means?",
+      "opts": ["freeze", "be on fire", "float", "grow"],
+      "ans": 1,
+      "explanation": "Burn means to be on fire or to be destroyed by fire."
+    },
+    {
+      "q": "Cell means?",
+      "opts": ["a room", "smallest unit of a living organism", "a machine", "a book"],
+      "ans": 1,
+      "explanation": "Cell is the smallest structural and functional unit of a living organism."
+    },
+    {
+      "q": "Contain means?",
+      "opts": ["to throw away", "to have something inside", "to break", "to lose"],
+      "ans": 1,
+      "explanation": "Contain means to have something inside or to hold something within."
+    },
+    {
+      "q": "Correct means?",
+      "opts": ["wrong", "right or free from error", "lost", "broken"],
+      "ans": 1,
+      "explanation": "Correct means free from error; true or accurate."
+    },
+    {
+      "q": "Crop means?",
+      "opts": ["a tool", "a plant grown by farmers", "a building", "a river"],
+      "ans": 1,
+      "explanation": "Crop means a plant or agricultural produce grown and harvested by farmers."
+    },
+    {
+      "q": "Demand means?",
+      "opts": ["offer", "strong need or request", "gift", "rest"],
+      "ans": 1,
+      "explanation": "Demand means a strong request or a need for something."
+    },
+    {
+      "q": "Equal means?",
+      "opts": ["different", "the same in amount or value", "bigger", "smaller"],
+      "ans": 1,
+      "explanation": "Equal means the same in size, value, amount, or status."
+    },
+    {
+      "q": "Feed means?",
+      "opts": ["to starve", "to give food to someone", "to sleep", "to run"],
+      "ans": 1,
+      "explanation": "Feed means to give food to a person, animal, or plant."
+    },
+    {
+      "q": "Hole means?",
+      "opts": ["a bridge", "an opening or gap", "a mountain", "a tree"],
+      "ans": 1,
+      "explanation": "Hole means an opening, gap, or hollow space in something."
+    },
+    {
+      "q": "Increase means?",
+      "opts": ["reduce", "become larger in amount", "stop", "forget"],
+      "ans": 1,
+      "explanation": "Increase means to become or make greater in size, amount, or number."
+    },
+    {
+      "q": "Lord means?",
+      "opts": ["a servant", "a master or ruler", "a child", "a farmer"],
+      "ans": 1,
+      "explanation": "Lord means a person who has power, authority, or ownership over others."
+    },
+    {
+      "q": "Owe means?",
+      "opts": ["to receive freely", "to be required to pay or give", "to save", "to ignore"],
+      "ans": 1,
+      "explanation": "Owe means to be under obligation to pay or give something to someone."
+    },
+    {
+      "q": "Position means?",
+      "opts": ["a color", "place or rank of someone", "a sound", "a food"],
+      "ans": 1,
+      "explanation": "Position means the place where someone or something is located, or a rank in a job."
+    },
+    {
+      "q": "Raise means?",
+      "opts": ["to lower", "to lift up or bring up", "to destroy", "to hide"],
+      "ans": 1,
+      "explanation": "Raise means to lift something upward or to bring up a child with care."
+    },
+    {
+      "q": "Responsible means?",
+      "opts": ["careless", "having a duty to deal with something", "lazy", "weak"],
+      "ans": 1,
+      "explanation": "Responsible means being the person who caused something or having a duty to manage it."
+    },
+    {
+      "q": "Sight means?",
+      "opts": ["hearing", "ability to see or something seen", "smell", "touch"],
+      "ans": 1,
+      "explanation": "Sight means the ability to see, or something that is seen."
+    },
+    {
+      "q": "Spot means?",
+      "opts": ["a loud noise", "a particular place or mark", "a large building", "a river"],
+      "ans": 1,
+      "explanation": "Spot means a particular place or a small mark on a surface."
+    },
+    {
+      "q": "Structure means?",
+      "opts": ["a color", "the way something is built or organized", "a sound", "a meal"],
+      "ans": 1,
+      "explanation": "Structure means the way in which something is built, arranged, or organized."
+    },
+    {
+      "q": "Whole means?",
+      "opts": ["partial", "complete or all of something", "broken", "empty"],
+      "ans": 1,
+      "explanation": "Whole means complete, entire, or all of something without any part missing."
+    }
+  ],
+
+  "story": {
+    "title": "The Responsible Farmer",
+    "body": "In a small village surrounded by green fields, there lived a farmer named Alam. He was known as the most responsible person in the whole village. Every season, he grew crops on a large piece of land that his lord had given him to manage. Alam knew that he owed everything — his position, his home, and his family's food — to the hard work he put into the soil every single day. One morning, Alam noticed a hole in the wall of the storage room where he kept his harvest. Rats had entered and were beginning to destroy the crop. Without wasting time, he fixed the hole, saved the remaining grain, and made a correct decision to build a stronger structure for storage. His blood, sweat, and effort went into every corner of his farm. He would raise his children near the fields so they could learn the value of the land from an early sight. He always told them, 'The whole earth feeds us — we must take care of it.' The demand for Alam's crops increased every year because of their quality. He made sure to feed every poor family in the village during difficult times, believing that all people are equal and deserve to eat. He burned the dry waste from the fields to make space for new growth, never wasting a single spot of land. Scientists once visited the village and were amazed by the cell-like structure of Alam's farming system — each section connected and working together perfectly. They said his method contained the best practices of sustainable farming. As the years passed, Alam's position in the community grew. He became a symbol of hard work, equality, and responsibility. His children raised their own families with the same values, and the sight of their green fields became the most beautiful spot in the entire region.",
+    "comprehension": [
+      {
+        "q": "What did Alam find in the storage room?",
+        "opts": ["a fire", "a hole made by rats", "a flood", "a broken door"],
+        "ans": 1
+      },
+      {
+        "q": "What did Alam do to save his crop?",
+        "opts": ["he ignored it", "he fixed the hole and built a stronger structure", "he sold the crop", "he left the village"],
+        "ans": 1
+      },
+      {
+        "q": "Why did the demand for his crops increase?",
+        "opts": ["because of luck", "because of their quality", "because of rain", "because of price"],
+        "ans": 1
+      },
+      {
+        "q": "What did Alam believe about all people?",
+        "opts": ["some are more important", "all people are equal and deserve to eat", "only farmers matter", "lords are superior"],
+        "ans": 1
+      },
+      {
+        "q": "What did scientists say about his farming?",
+        "opts": ["it was too old", "it contained the best practices of sustainable farming", "it was incorrect", "it needed to increase in size"],
+        "ans": 1
+      }
+    ],
+    "tags": ["responsible", "crop", "structure", "equal", "demand", "raise", "whole", "position", "feed", "blood", "hole", "correct", "increase", "spot", "sight"]
+  },
+
+  "listening": {
+    "title": "A Doctor Explains the Human Body",
+    "script": "A: Doctor, can you explain the structure of the human body simply?\nB: Of course. The whole body is made of tiny units called cells.\nA: What do cells do?\nB: Each cell has a correct position and contains specific material to do its job.\nA: What about blood?\nB: Blood is very important. It feeds every cell by carrying oxygen and nutrients.\nA: Can the demand for blood increase?\nB: Yes, during illness or injury, the body needs more blood cells.\nA: What happens when a cell burns or is damaged?\nB: The body raises its defense system to repair the spot.\nA: Is the body responsible for healing itself?\nB: Absolutely. A healthy body is an equal and balanced structure.\nA: Can sight be affected by blood?\nB: Yes. If blood flow to the eyes is reduced, sight can be lost.\nA: So we owe our health to our cells?\nB: Exactly. We must raise awareness about healthy habits.\nA: What should we do to increase health?\nB: Eat whole foods, exercise, and be responsible for your body every day.\nA: Thank you, doctor.\nB: Remember, the whole body works as one. Take care of every part.",
+    "comprehension": [
+      {
+        "q": "What is the whole body made of?",
+        "opts": ["bones only", "tiny units called cells", "blood only", "muscles only"],
+        "ans": 1
+      },
+      {
+        "q": "What does blood do?",
+        "opts": ["it burns cells", "it feeds every cell with oxygen", "it creates holes", "it contains crops"],
+        "ans": 1
+      },
+      {
+        "q": "What happens when a cell is damaged?",
+        "opts": ["the body gives up", "the body raises its defense to repair the spot", "the body increases hunger", "the blood stops"],
+        "ans": 1
+      },
+      {
+        "q": "What does the doctor advise to increase health?",
+        "opts": ["sleep more", "eat whole foods and be responsible", "take medicine daily", "avoid exercise"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Being Responsible in Daily Life",
+    "prompt": "Talk about what it means to be responsible. Use words like responsible, position, raise, equal, demand, correct, and whole.",
+    "example": "Being responsible means doing the correct thing even when it is difficult. In my position as a student, I must raise my knowledge every day. I believe all people are equal and we owe it to each other to be kind. The whole community benefits when everyone is responsible. The demand for good people is always high, so I try to improve myself every day.",
+    "tips": [
+      "Define what responsibility means to you",
+      "Give real examples from your life",
+      "Use words like owe, raise, position, and equal",
+      "Talk about how responsibility affects the whole community",
+      "Mention what happens when people are not responsible",
+      "Speak clearly and use full sentences"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Two students discussing farming and the environment",
+    "steps": [
+      { "speaker": "app", "text": "Have you ever seen a farm or crop field?" },
+      { "speaker": "user", "prompt": "Describe what you have seen or know about farms." },
+      { "speaker": "app", "text": "What crops do farmers grow in your area?" },
+      { "speaker": "user", "prompt": "Name some crops and explain why they are important." },
+      { "speaker": "app", "text": "Do you think the demand for food is increasing?" },
+      { "speaker": "user", "prompt": "Give your opinion with reasons." },
+      { "speaker": "app", "text": "How can we raise awareness about food problems?" },
+      { "speaker": "user", "prompt": "Suggest methods to increase food production responsibly." },
+      { "speaker": "app", "text": "Should all people have equal access to food?" },
+      { "speaker": "user", "prompt": "Share your view on equal rights and feeding everyone." },
+      { "speaker": "app", "text": "What is your position on burning crop waste — is it correct or harmful?" },
+      { "speaker": "user", "prompt": "Discuss the whole issue and give a responsible answer." }
+    ]
+  }
+}

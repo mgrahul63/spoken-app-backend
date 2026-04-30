@@ -1,0 +1,785 @@
+{
+  "day": 17,
+  "topic": "Nature, Emotions & Everyday Thinking Vocabulary",
+  "lessonId": "L0D10",
+  "vocabulary": [
+    {
+      "word": "appreciate",
+      "phonetic": "/əˈpriːʃieɪt/",
+      "meaning": "to recognize the value or good qualities of something",
+      "bangla": "কদর করা / মূল্য দেওয়া",
+      "example": "I appreciate your help.",
+      "exampleBn": "আমি তোমার সাহায্যের কদর করি।"
+    },
+    {
+      "word": "available",
+      "phonetic": "/əˈveɪləbl/",
+      "meaning": "able to be used or obtained; free to do something",
+      "bangla": "পাওয়া যায় / উপলব্ধ",
+      "example": "Is the doctor available now?",
+      "exampleBn": "ডাক্তার কি এখন পাওয়া যাবে?"
+    },
+    {
+      "word": "beat",
+      "phonetic": "/biːt/",
+      "meaning": "to defeat someone; to hit repeatedly; a rhythm",
+      "bangla": "হারানো / বাজানো / স্পন্দন",
+      "example": "Our team beat theirs.",
+      "exampleBn": "আমাদের দল তাদের হারিয়ে দিল।"
+    },
+    {
+      "word": "bright",
+      "phonetic": "/braɪt/",
+      "meaning": "giving out strong light; clever or intelligent",
+      "bangla": "উজ্জ্বল / মেধাবী",
+      "example": "She is a bright student.",
+      "exampleBn": "সে একজন মেধাবী ছাত্রী।"
+    },
+    {
+      "word": "celebrate",
+      "phonetic": "/ˈselɪbreɪt/",
+      "meaning": "to mark a special occasion with enjoyment",
+      "bangla": "উদযাপন করা",
+      "example": "We celebrate birthdays together.",
+      "exampleBn": "আমরা একসাথে জন্মদিন উদযাপন করি।"
+    },
+    {
+      "word": "determine",
+      "phonetic": "/dɪˈtɜːrmɪn/",
+      "meaning": "to decide firmly or find out exactly",
+      "bangla": "নির্ধারণ করা / সংকল্প করা",
+      "example": "She determined to finish the work.",
+      "exampleBn": "সে কাজটি শেষ করার সংকল্প করল।"
+    },
+    {
+      "word": "disappear",
+      "phonetic": "/ˌdɪsəˈpɪər/",
+      "meaning": "to stop being visible or to go away suddenly",
+      "bangla": "অদৃশ্য হওয়া / মিলিয়ে যাওয়া",
+      "example": "The clouds disappeared after rain.",
+      "exampleBn": "বৃষ্টির পরে মেঘ অদৃশ্য হয়ে গেল।"
+    },
+    {
+      "word": "else",
+      "phonetic": "/els/",
+      "meaning": "in addition; other than what has been mentioned",
+      "bangla": "আর / অন্য কিছু",
+      "example": "Is there anything else I can do?",
+      "exampleBn": "আমি আর কিছু করতে পারি?"
+    },
+    {
+      "word": "fair",
+      "phonetic": "/feər/",
+      "meaning": "treating everyone equally and without bias",
+      "bangla": "ন্যায্য / সুষম",
+      "example": "The judge was fair to everyone.",
+      "exampleBn": "বিচারক সবার প্রতি ন্যায্য ছিলেন।"
+    },
+    {
+      "word": "flow",
+      "phonetic": "/floʊ/",
+      "meaning": "to move steadily and continuously",
+      "bangla": "প্রবাহিত হওয়া",
+      "example": "The river flows to the sea.",
+      "exampleBn": "নদী সমুদ্রের দিকে প্রবাহিত হয়।"
+    },
+    {
+      "word": "forward",
+      "phonetic": "/ˈfɔːrwərd/",
+      "meaning": "toward the front; in the direction ahead",
+      "bangla": "সামনে / এগিয়ে",
+      "example": "Move forward with confidence.",
+      "exampleBn": "আত্মবিশ্বাসের সাথে এগিয়ে যাও।"
+    },
+    {
+      "word": "hill",
+      "phonetic": "/hɪl/",
+      "meaning": "a raised area of land smaller than a mountain",
+      "bangla": "টিলা / পাহাড়ি এলাকা",
+      "example": "We climbed the hill at sunrise.",
+      "exampleBn": "আমরা সূর্যোদয়ের সময় টিলায় উঠলাম।"
+    },
+    {
+      "word": "level",
+      "phonetic": "/ˈlevəl/",
+      "meaning": "a position on a scale; flat and even",
+      "bangla": "স্তর / সমতল",
+      "example": "She reached a new level.",
+      "exampleBn": "সে একটি নতুন স্তরে পৌঁছাল।"
+    },
+    {
+      "word": "lone",
+      "phonetic": "/loʊn/",
+      "meaning": "being alone; without others",
+      "bangla": "একাকী / নিঃসঙ্গ",
+      "example": "A lone bird sat on the branch.",
+      "exampleBn": "একটি একাকী পাখি ডালে বসে ছিল।"
+    },
+    {
+      "word": "puddle",
+      "phonetic": "/ˈpʌdl/",
+      "meaning": "a small pool of water on the ground",
+      "bangla": "ডোবা / পানির গর্ত",
+      "example": "Children played in the puddle.",
+      "exampleBn": "শিশুরা পানির গর্তে খেলল।"
+    },
+    {
+      "word": "response",
+      "phonetic": "/rɪˈspɒns/",
+      "meaning": "an answer or reaction to something",
+      "bangla": "প্রতিক্রিয়া / জবাব",
+      "example": "His response was very kind.",
+      "exampleBn": "তার জবাব খুব সদয় ছিল।"
+    },
+    {
+      "word": "season",
+      "phonetic": "/ˈsiːzn/",
+      "meaning": "one of the four periods of the year; a period of activity",
+      "bangla": "ঋতু / মৌসুম",
+      "example": "Winter is my favorite season.",
+      "exampleBn": "শীতকাল আমার প্রিয় ঋতু।"
+    },
+    {
+      "word": "solution",
+      "phonetic": "/səˈluːʃn/",
+      "meaning": "a way of solving a problem",
+      "bangla": "সমাধান",
+      "example": "We found a solution to the problem.",
+      "exampleBn": "আমরা সমস্যার একটি সমাধান খুঁজে পেলাম।"
+    },
+    {
+      "word": "waste",
+      "phonetic": "/weɪst/",
+      "meaning": "to use more than is needed; unwanted material",
+      "bangla": "অপচয় করা / বর্জ্য",
+      "example": "Do not waste food.",
+      "exampleBn": "খাবার অপচয় করো না।"
+    },
+    {
+      "word": "whether",
+      "phonetic": "/ˈweðər/",
+      "meaning": "used to introduce two alternatives or express doubt",
+      "bangla": "কিনা / যাই হোক",
+      "example": "I don't know whether he will come.",
+      "exampleBn": "সে আসবে কিনা আমি জানি না।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "appreciate kindness",
+      "bangla": "দয়া কদর করা",
+      "usage": "gratitude",
+      "example": "We should always appreciate kindness."
+    },
+    {
+      "phrase": "available for help",
+      "bangla": "সাহায্যের জন্য উপলব্ধ",
+      "usage": "support",
+      "example": "She is always available for help."
+    },
+    {
+      "phrase": "beat the record",
+      "bangla": "রেকর্ড ভাঙা",
+      "usage": "achievement",
+      "example": "He beat the school record in swimming."
+    },
+    {
+      "phrase": "bright future",
+      "bangla": "উজ্জ্বল ভবিষ্যৎ",
+      "usage": "hope",
+      "example": "Every child deserves a bright future."
+    },
+    {
+      "phrase": "celebrate success",
+      "bangla": "সাফল্য উদযাপন করা",
+      "usage": "achievement",
+      "example": "We celebrated our success together."
+    },
+    {
+      "phrase": "determine the cause",
+      "bangla": "কারণ নির্ধারণ করা",
+      "usage": "analysis",
+      "example": "Scientists determined the cause of the disease."
+    },
+    {
+      "phrase": "disappear into the crowd",
+      "bangla": "ভিড়ে মিলিয়ে যাওয়া",
+      "usage": "movement",
+      "example": "He disappeared into the crowd quickly."
+    },
+    {
+      "phrase": "something else",
+      "bangla": "অন্য কিছু",
+      "usage": "addition",
+      "example": "Is there something else you need?"
+    },
+    {
+      "phrase": "fair treatment",
+      "bangla": "ন্যায্য আচরণ",
+      "usage": "social",
+      "example": "Everyone deserves fair treatment."
+    },
+    {
+      "phrase": "flow of water",
+      "bangla": "পানির প্রবাহ",
+      "usage": "nature",
+      "example": "The flow of water was strong after the rain."
+    },
+    {
+      "phrase": "move forward",
+      "bangla": "এগিয়ে যাওয়া",
+      "usage": "progress",
+      "example": "We must move forward despite difficulties."
+    },
+    {
+      "phrase": "top of the hill",
+      "bangla": "টিলার চূড়া",
+      "usage": "geography",
+      "example": "The view from the top of the hill was amazing."
+    },
+    {
+      "phrase": "next level",
+      "bangla": "পরবর্তী স্তর",
+      "usage": "progress",
+      "example": "He reached the next level in his career."
+    },
+    {
+      "phrase": "lone traveler",
+      "bangla": "একাকী পথিক",
+      "usage": "description",
+      "example": "A lone traveler walked through the forest."
+    },
+    {
+      "phrase": "jump over a puddle",
+      "bangla": "ডোবার উপর দিয়ে লাফানো",
+      "usage": "action",
+      "example": "The child jumped over every puddle on the road."
+    },
+    {
+      "phrase": "positive response",
+      "bangla": "ইতিবাচক প্রতিক্রিয়া",
+      "usage": "communication",
+      "example": "The teacher gave a positive response."
+    },
+    {
+      "phrase": "rainy season",
+      "bangla": "বর্ষা মৌসুম",
+      "usage": "weather",
+      "example": "Rice grows well in the rainy season."
+    },
+    {
+      "phrase": "find a solution",
+      "bangla": "সমাধান খোঁজা",
+      "usage": "problem solving",
+      "example": "They worked together to find a solution."
+    },
+    {
+      "phrase": "waste of time",
+      "bangla": "সময়ের অপচয়",
+      "usage": "advice",
+      "example": "Worrying too much is a waste of time."
+    },
+    {
+      "phrase": "whether or not",
+      "bangla": "হোক বা না হোক",
+      "usage": "condition",
+      "example": "Tell me whether or not you agree."
+    }
+  ],
+
+  "sentences": [
+    {
+      "en": "We should appreciate the little things in life.",
+      "bn": "আমাদের জীবনের ছোট ছোট জিনিসের কদর করা উচিত।"
+    },
+    {
+      "en": "Fresh vegetables are available in the market every morning.",
+      "bn": "তাজা সবজি প্রতিদিন সকালে বাজারে পাওয়া যায়।"
+    },
+    {
+      "en": "Her heart beat fast when she heard the news.",
+      "bn": "খবর শুনে তার হৃদয় দ্রুত স্পন্দিত হলো।"
+    },
+    {
+      "en": "The bright sunlight filled the whole room.",
+      "bn": "উজ্জ্বল সূর্যের আলো পুরো ঘরটি ভরিয়ে দিল।"
+    },
+    {
+      "en": "They gathered to celebrate the end of the school year.",
+      "bn": "তারা স্কুল বছরের শেষ উদযাপন করতে জড়ো হলো।"
+    },
+    {
+      "en": "He determined to wake up early every morning.",
+      "bn": "সে প্রতিদিন সকালে তাড়াতাড়ি উঠার সংকল্প করল।"
+    },
+    {
+      "en": "The fog disappeared as the sun rose higher.",
+      "bn": "সূর্য উপরে উঠতেই কুয়াশা অদৃশ্য হয়ে গেল।"
+    },
+    {
+      "en": "Would you like anything else with your order?",
+      "bn": "তোমার অর্ডারের সাথে আর কিছু লাগবে?"
+    },
+    {
+      "en": "The competition was fair and everyone had equal chances.",
+      "bn": "প্রতিযোগিতাটি ন্যায্য ছিল এবং সবার সমান সুযোগ ছিল।"
+    },
+    {
+      "en": "Water always flows from high places to low places.",
+      "bn": "পানি সবসময় উঁচু জায়গা থেকে নিচু জায়গায় প্রবাহিত হয়।"
+    },
+    {
+      "en": "She took a deep breath and stepped forward bravely.",
+      "bn": "সে গভীরভাবে শ্বাস নিল এবং সাহসিকতার সাথে এগিয়ে গেল।"
+    },
+    {
+      "en": "They built a small house on top of the hill.",
+      "bn": "তারা টিলার চূড়ায় একটি ছোট বাড়ি তৈরি করল।"
+    },
+    {
+      "en": "You must reach a certain level before moving ahead.",
+      "bn": "এগিয়ে যাওয়ার আগে তোমাকে একটি নির্দিষ্ট স্তরে পৌঁছাতে হবে।"
+    },
+    {
+      "en": "A lone candle burned in the dark room.",
+      "bn": "অন্ধকার ঘরে একটি একাকী মোমবাতি জ্বলছিল।"
+    },
+    {
+      "en": "After the heavy rain, puddles covered the entire road.",
+      "bn": "ভারী বৃষ্টির পরে পুরো রাস্তায় ডোবা তৈরি হলো।"
+    },
+    {
+      "en": "Her response to the question surprised the whole class.",
+      "bn": "প্রশ্নের প্রতি তার প্রতিক্রিয়া পুরো ক্লাসকে অবাক করল।"
+    },
+    {
+      "en": "Every season brings its own beauty and challenges.",
+      "bn": "প্রতিটি ঋতু তার নিজস্ব সৌন্দর্য এবং চ্যালেঞ্জ নিয়ে আসে।"
+    },
+    {
+      "en": "Working together is the best solution to any problem.",
+      "bn": "একসাথে কাজ করা যেকোনো সমস্যার সেরা সমাধান।"
+    },
+    {
+      "en": "It is wrong to waste clean water carelessly.",
+      "bn": "অযত্নে পরিষ্কার পানি অপচয় করা ভুল।"
+    },
+    {
+      "en": "I could not decide whether to stay or leave.",
+      "bn": "থাকব নাকি চলে যাব তা আমি ঠিক করতে পারছিলাম না।"
+    }
+  ],
+
+  "quiz": [
+    {
+      "q": "Appreciate means?",
+      "opts": [
+        "to ignore value",
+        "to recognize the value of something",
+        "to destroy",
+        "to forget"
+      ],
+      "ans": 1,
+      "explanation": "Appreciate means to recognize and enjoy the good qualities of something or someone."
+    },
+    {
+      "q": "Available means?",
+      "opts": [
+        "hidden away",
+        "able to be used or obtained",
+        "broken",
+        "far away"
+      ],
+      "ans": 1,
+      "explanation": "Available means able to be used, obtained, or reached at a particular time."
+    },
+    {
+      "q": "Beat means?",
+      "opts": [
+        "to help someone win",
+        "to defeat or hit repeatedly",
+        "to sleep",
+        "to hide"
+      ],
+      "ans": 1,
+      "explanation": "Beat means to defeat someone in a competition or to strike something repeatedly."
+    },
+    {
+      "q": "Bright means?",
+      "opts": [
+        "dark and dull",
+        "giving strong light or being clever",
+        "slow",
+        "heavy"
+      ],
+      "ans": 1,
+      "explanation": "Bright means full of light or having a quick and intelligent mind."
+    },
+    {
+      "q": "Celebrate means?",
+      "opts": [
+        "to mourn",
+        "to mark a special occasion with enjoyment",
+        "to work hard",
+        "to sleep"
+      ],
+      "ans": 1,
+      "explanation": "Celebrate means to do something enjoyable for a special occasion or achievement."
+    },
+    {
+      "q": "Determine means?",
+      "opts": [
+        "to give up",
+        "to decide firmly or find out",
+        "to rest",
+        "to forget"
+      ],
+      "ans": 1,
+      "explanation": "Determine means to firmly decide on something or to discover the facts about something."
+    },
+    {
+      "q": "Disappear means?",
+      "opts": [
+        "to appear suddenly",
+        "to stop being visible or go away",
+        "to grow bigger",
+        "to stay still"
+      ],
+      "ans": 1,
+      "explanation": "Disappear means to stop being seen or to go away suddenly."
+    },
+    {
+      "q": "Else means?",
+      "opts": [
+        "the same thing",
+        "in addition or other than",
+        "exactly right",
+        "very close"
+      ],
+      "ans": 1,
+      "explanation": "Else means in addition to or other than what has already been mentioned."
+    },
+    {
+      "q": "Fair means?",
+      "opts": [
+        "biased and unjust",
+        "treating everyone equally",
+        "loud",
+        "dark"
+      ],
+      "ans": 1,
+      "explanation": "Fair means treating people equally and without favoritism or discrimination."
+    },
+    {
+      "q": "Flow means?",
+      "opts": [
+        "to stop completely",
+        "to move steadily and continuously",
+        "to break apart",
+        "to rise up"
+      ],
+      "ans": 1,
+      "explanation": "Flow means to move steadily and continuously in one direction like water."
+    },
+    {
+      "q": "Forward means?",
+      "opts": ["backward", "toward the front or ahead", "sideways", "downward"],
+      "ans": 1,
+      "explanation": "Forward means in the direction that one is facing or toward the front."
+    },
+    {
+      "q": "Hill means?",
+      "opts": [
+        "a deep valley",
+        "a raised area of land smaller than a mountain",
+        "a flat road",
+        "a wide river"
+      ],
+      "ans": 1,
+      "explanation": "Hill means a naturally raised area of land that is smaller and lower than a mountain."
+    },
+    {
+      "q": "Level means?",
+      "opts": [
+        "uneven and rough",
+        "a position on a scale or flat and even",
+        "steep",
+        "broken"
+      ],
+      "ans": 1,
+      "explanation": "Level means a particular position on a scale or a flat and even surface."
+    },
+    {
+      "q": "Lone means?",
+      "opts": [
+        "in a large group",
+        "being alone without others",
+        "very loud",
+        "very bright"
+      ],
+      "ans": 1,
+      "explanation": "Lone means being alone or without companions."
+    },
+    {
+      "q": "Puddle means?",
+      "opts": [
+        "a large lake",
+        "a small pool of water on the ground",
+        "a deep river",
+        "a waterfall"
+      ],
+      "ans": 1,
+      "explanation": "Puddle means a small pool of rainwater or other liquid on the ground."
+    },
+    {
+      "q": "Response means?",
+      "opts": [
+        "a question",
+        "an answer or reaction to something",
+        "a mistake",
+        "a plan"
+      ],
+      "ans": 1,
+      "explanation": "Response means a verbal or written answer or a reaction to something."
+    },
+    {
+      "q": "Season means?",
+      "opts": [
+        "a single day",
+        "one of the four periods of the year",
+        "a moment",
+        "an hour"
+      ],
+      "ans": 1,
+      "explanation": "Season means one of the four divisions of the year: spring, summer, autumn, or winter."
+    },
+    {
+      "q": "Solution means?",
+      "opts": [
+        "a bigger problem",
+        "a way of solving a problem",
+        "an argument",
+        "a question"
+      ],
+      "ans": 1,
+      "explanation": "Solution means a means of solving a problem or dealing with a difficult situation."
+    },
+    {
+      "q": "Waste means?",
+      "opts": [
+        "to save carefully",
+        "to use more than needed or unwanted material",
+        "to grow",
+        "to find"
+      ],
+      "ans": 1,
+      "explanation": "Waste means to use something carelessly or more than is needed."
+    },
+    {
+      "q": "Whether means?",
+      "opts": [
+        "a type of weather",
+        "used to introduce alternatives or express doubt",
+        "a season",
+        "a direction"
+      ],
+      "ans": 1,
+      "explanation": "Whether is used to introduce two alternatives or to express a doubt or choice."
+    }
+  ],
+
+  "story": {
+    "title": "The Lone Boy on the Hill",
+    "body": "Every rainy season, a lone boy named Sami would climb to the top of the hill behind his village and sit for hours, watching the clouds flow across the bright sky. He appreciated the beauty of nature more than anyone else in his village. When raindrops fell and puddles formed on the path below, he did not disappear inside like the others. Instead, he stayed forward-facing on the hilltop, letting the cool wind beat against his face. People in the village wondered whether he was strange or simply thoughtful. One day, a terrible flood swept through the lower level of the village, destroying crops and homes. Water flowed with extreme force from the hills and pooled into large puddles across the streets. The villagers panicked. No one knew what to do or whether help would ever come. Sami observed the flow of water carefully from the hill and determined the cause. He realized that blocked drains and wasted land had made the flooding worse. He came forward with a bright idea — a solution to redirect the water flow using a series of small channels dug across the hillside. At first, people did not respond with hope. Some said it was a waste of time. But Sami did not disappear or give up. He worked level by level, channel by channel, with whatever materials were available. Slowly, the water began to flow in a new direction, away from the homes. The response from the village was immediate — cheers, tears, and relief. They celebrated together for the first time in many seasons. The elder of the village stood before everyone and said, 'We must appreciate those who think differently. Whether things are good or bad, a bright mind always finds a solution.' From that day, Sami was no longer the lone boy on the hill. He became the one who moved the whole village forward.",
+    "comprehension": [
+      {
+        "q": "Where did Sami go every rainy season?",
+        "opts": [
+          "to the river",
+          "to the top of the hill",
+          "to the market",
+          "to school"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Sami determine caused the flooding?",
+        "opts": [
+          "too much rain only",
+          "blocked drains and wasted land",
+          "broken houses",
+          "strong winds"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What was Sami's solution?",
+        "opts": [
+          "build a wall",
+          "dig channels to redirect water flow",
+          "leave the village",
+          "ask for outside help"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "How did the villagers first respond to Sami's idea?",
+        "opts": [
+          "with great excitement",
+          "they said it was a waste of time",
+          "they helped immediately",
+          "they celebrated"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did the elder say about Sami?",
+        "opts": [
+          "he was too young",
+          "a bright mind always finds a solution",
+          "he should have left earlier",
+          "he wasted everyone's time"
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "lone",
+      "hill",
+      "season",
+      "flow",
+      "appreciate",
+      "puddle",
+      "disappear",
+      "forward",
+      "bright",
+      "determine",
+      "solution",
+      "waste",
+      "available",
+      "response",
+      "celebrate",
+      "whether",
+      "level",
+      "fair",
+      "beat",
+      "else"
+    ]
+  },
+
+  "listening": {
+    "title": "A Discussion About Environmental Problems",
+    "script": "A: Have you noticed how the weather has changed this season?\nB: Yes, it is extreme. The rain comes and disappears without warning.\nA: I wonder whether it will get worse in the future.\nB: Scientists say it will, unless we find a solution soon.\nA: What kind of solution do you think is available to us?\nB: First, we must stop wasting resources like water and energy.\nA: That is fair. But is it enough?\nB: No, we also need to determine the main causes and respond to each one.\nA: I appreciate that you think so carefully about this.\nB: Everyone else needs to think about it too, not just scientists.\nA: Do you think ordinary people can move things forward?\nB: Absolutely. Even small actions at a local level can beat big problems.\nA: Like what?\nB: Planting trees on every hill, keeping water flow clear, celebrating clean days.\nA: That sounds bright and hopeful.\nB: We should appreciate what nature gives us and not take it for granted.\nA: I agree. Whether we are rich or poor, we all need clean air and water.\nB: Exactly. A lone person cannot fix it, but together we can celebrate real change.\nA: Then let us move forward and do something about it.\nB: Yes, let us not waste any more time.",
+    "comprehension": [
+      {
+        "q": "What problem is being discussed?",
+        "opts": [
+          "food shortage",
+          "extreme weather and environmental changes",
+          "lack of schools",
+          "traffic problems"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does the speaker say we must stop doing first?",
+        "opts": [
+          "talking about it",
+          "wasting resources like water and energy",
+          "planting trees",
+          "celebrating"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What small actions are suggested to beat big problems?",
+        "opts": [
+          "moving to cities",
+          "planting trees and keeping water flow clear",
+          "building factories",
+          "ignoring the issue"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does the speaker say about a lone person fixing the problem?",
+        "opts": [
+          "one person is enough",
+          "a lone person cannot fix it but together we can",
+          "only governments can help",
+          "science will solve it"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Talking About Your Favorite Season and Nature",
+    "prompt": "Describe your favorite season and what you appreciate about nature. Use words like season, flow, bright, disappear, hill, puddle, waste, and celebrate.",
+    "example": "My favorite season is the rainy season. I love how the bright sky turns grey and the rain begins to flow down from the hills. After the rain, small puddles form on the roads and children jump over them happily. The green trees look fresh and alive. I appreciate how nature cleans itself during this season. I never waste a single rainy afternoon indoors. Sometimes I wonder whether other people feel the same peace I do when the rain disappears and the sun comes out again. I think we should celebrate nature more and take better care of it at every level.",
+    "tips": [
+      "Name your favorite season and describe how it looks and feels",
+      "Use flow and hill to describe natural scenery",
+      "Mention puddle or disappear to paint a vivid picture",
+      "Use appreciate to say what you value about nature",
+      "Talk about whether people take care of nature enough",
+      "End with a suggestion or solution to protect the environment"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Two friends planning a trip to the countryside",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Are you available this weekend for a trip to the countryside?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Say whether you are available and how you feel about the idea."
+      },
+      {
+        "speaker": "app",
+        "text": "Which season do you think is best for such a trip?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Name a season and explain why you appreciate it for traveling."
+      },
+      {
+        "speaker": "app",
+        "text": "Would you prefer to climb a hill or walk beside a flowing river?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Make your choice and describe what you would enjoy about it."
+      },
+      {
+        "speaker": "app",
+        "text": "What if it rains and there are puddles everywhere — would that bother you?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Respond honestly using words like fair, waste, or else."
+      },
+      {
+        "speaker": "app",
+        "text": "How can we make sure we do not waste or damage the natural space?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Suggest a solution and explain your response to protecting nature."
+      },
+      {
+        "speaker": "app",
+        "text": "Should we celebrate the trip with others or keep it a lone adventure?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Share your preference and determine what would make the trip most meaningful."
+      }
+    ]
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "day": 16,
+  "topic": "History, Society & Culture Vocabulary",
+  "lessonId": "L0D9",
+  "vocabulary": [
+    {
+      "word": "academy",
+      "phonetic": "/əˈkædəmi/",
+      "meaning": "a school or institution for special training",
+      "bangla": "একাডেমি / বিদ্যাপীঠ",
+      "example": "She studies at a music academy.",
+      "exampleBn": "সে একটি সংগীত একাডেমিতে পড়ে।"
+    },
+    {
+      "word": "ancient",
+      "phonetic": "/ˈeɪnʃənt/",
+      "meaning": "belonging to a very long time ago",
+      "bangla": "প্রাচীন",
+      "example": "This is an ancient temple.",
+      "exampleBn": "এটি একটি প্রাচীন মন্দির।"
+    },
+    {
+      "word": "board",
+      "phonetic": "/bɔːrd/",
+      "meaning": "a flat piece of wood or a group of people who manage something",
+      "bangla": "বোর্ড / তক্তা",
+      "example": "The board made a decision.",
+      "exampleBn": "বোর্ড একটি সিদ্ধান্ত নিল।"
+    },
+    {
+      "word": "century",
+      "phonetic": "/ˈsentʃəri/",
+      "meaning": "a period of one hundred years",
+      "bangla": "শতাব্দী",
+      "example": "This building is a century old.",
+      "exampleBn": "এই ভবনটি একশ বছর পুরনো।"
+    },
+    {
+      "word": "clue",
+      "phonetic": "/kluː/",
+      "meaning": "a piece of information that helps solve a mystery",
+      "bangla": "সূত্র",
+      "example": "The detective found a clue.",
+      "exampleBn": "গোয়েন্দা একটি সূত্র খুঁজে পেল।"
+    },
+    {
+      "word": "concert",
+      "phonetic": "/ˈkɒnsət/",
+      "meaning": "a live music performance",
+      "bangla": "সংগীত অনুষ্ঠান",
+      "example": "We went to a concert last night.",
+      "exampleBn": "আমরা গতকাল রাতে একটি সংগীত অনুষ্ঠানে গেলাম।"
+    },
+    {
+      "word": "county",
+      "phonetic": "/ˈkaʊnti/",
+      "meaning": "a region or district within a country",
+      "bangla": "জেলা / অঞ্চল",
+      "example": "She lives in a nearby county.",
+      "exampleBn": "সে একটি কাছের জেলায় থাকে।"
+    },
+    {
+      "word": "dictionary",
+      "phonetic": "/ˈdɪkʃəneri/",
+      "meaning": "a book that lists words and their meanings",
+      "bangla": "অভিধান",
+      "example": "Look it up in the dictionary.",
+      "exampleBn": "অভিধানে এটি দেখো।"
+    },
+    {
+      "word": "exist",
+      "phonetic": "/ɪɡˈzɪst/",
+      "meaning": "to be real or to live",
+      "bangla": "অস্তিত্ব থাকা",
+      "example": "Does this place still exist?",
+      "exampleBn": "এই জায়গাটি কি এখনও আছে?"
+    },
+    {
+      "word": "flat",
+      "phonetic": "/flæt/",
+      "meaning": "level and smooth; also an apartment",
+      "bangla": "সমতল / ফ্ল্যাট",
+      "example": "They live in a flat.",
+      "exampleBn": "তারা একটি ফ্ল্যাটে বাস করে।"
+    },
+    {
+      "word": "gentleman",
+      "phonetic": "/ˈdʒentlmən/",
+      "meaning": "a polite and well-mannered man",
+      "bangla": "ভদ্রলোক",
+      "example": "He is a true gentleman.",
+      "exampleBn": "সে একজন সত্যিকারের ভদ্রলোক।"
+    },
+    {
+      "word": "hidden",
+      "phonetic": "/ˈhɪdn/",
+      "meaning": "kept out of sight; not visible",
+      "bangla": "লুকানো",
+      "example": "There is a hidden door here.",
+      "exampleBn": "এখানে একটি লুকানো দরজা আছে।"
+    },
+    {
+      "word": "maybe",
+      "phonetic": "/ˈmeɪbi/",
+      "meaning": "perhaps; possibly",
+      "bangla": "হয়তো",
+      "example": "Maybe it will rain today.",
+      "exampleBn": "হয়তো আজ বৃষ্টি হবে।"
+    },
+    {
+      "word": "officer",
+      "phonetic": "/ˈɒfɪsər/",
+      "meaning": "a person in a position of authority",
+      "bangla": "কর্মকর্তা",
+      "example": "The officer helped the people.",
+      "exampleBn": "কর্মকর্তা মানুষদের সাহায্য করলেন।"
+    },
+    {
+      "word": "original",
+      "phonetic": "/əˈrɪdʒənl/",
+      "meaning": "the first or earliest version; not copied",
+      "bangla": "মূল / আসল",
+      "example": "This is the original painting.",
+      "exampleBn": "এটি মূল চিত্রকর্ম।"
+    },
+    {
+      "word": "pound",
+      "phonetic": "/paʊnd/",
+      "meaning": "a unit of weight or British currency",
+      "bangla": "পাউন্ড (ওজন বা মুদ্রা)",
+      "example": "It costs five pounds.",
+      "exampleBn": "এটির দাম পাঁচ পাউন্ড।"
+    },
+    {
+      "word": "process",
+      "phonetic": "/ˈprəʊses/",
+      "meaning": "a series of steps to achieve something",
+      "bangla": "প্রক্রিয়া",
+      "example": "Learning is a long process.",
+      "exampleBn": "শেখা একটি দীর্ঘ প্রক্রিয়া।"
+    },
+    {
+      "word": "publish",
+      "phonetic": "/ˈpʌblɪʃ/",
+      "meaning": "to produce and share written work",
+      "bangla": "প্রকাশ করা",
+      "example": "He will publish his book.",
+      "exampleBn": "সে তার বই প্রকাশ করবে।"
+    },
+    {
+      "word": "theater",
+      "phonetic": "/ˈθɪətər/",
+      "meaning": "a place where plays or films are shown",
+      "bangla": "নাটকশালা / সিনেমা হল",
+      "example": "We watched a play at the theater.",
+      "exampleBn": "আমরা নাটকশালায় একটি নাটক দেখলাম।"
+    },
+    {
+      "word": "wealth",
+      "phonetic": "/welθ/",
+      "meaning": "a large amount of money or valuable things",
+      "bangla": "সম্পদ",
+      "example": "Knowledge is true wealth.",
+      "exampleBn": "জ্ঞানই সত্যিকারের সম্পদ।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "music academy",
+      "bangla": "সংগীত একাডেমি",
+      "usage": "education",
+      "example": "She joined a music academy."
+    },
+    {
+      "phrase": "ancient city",
+      "bangla": "প্রাচীন শহর",
+      "usage": "history",
+      "example": "They visited an ancient city."
+    },
+    {
+      "phrase": "school board",
+      "bangla": "স্কুল বোর্ড",
+      "usage": "administration",
+      "example": "The school board met today."
+    },
+    {
+      "phrase": "past century",
+      "bangla": "বিগত শতাব্দী",
+      "usage": "time",
+      "example": "Life changed in the past century."
+    },
+    {
+      "phrase": "find a clue",
+      "bangla": "সূত্র খোঁজা",
+      "usage": "mystery",
+      "example": "She found a clue."
+    },
+    {
+      "phrase": "attend concert",
+      "bangla": "সংগীত অনুষ্ঠানে যোগ দেওয়া",
+      "usage": "entertainment",
+      "example": "We attended a concert."
+    },
+    {
+      "phrase": "local county",
+      "bangla": "স্থানীয় জেলা",
+      "usage": "region",
+      "example": "She works in the local county."
+    },
+    {
+      "phrase": "check dictionary",
+      "bangla": "অভিধান দেখা",
+      "usage": "learning",
+      "example": "Check the dictionary."
+    },
+    {
+      "phrase": "still exist",
+      "bangla": "এখনও আছে",
+      "usage": "existence",
+      "example": "Old customs still exist."
+    },
+    {
+      "phrase": "flat ground",
+      "bangla": "সমতল মাটি",
+      "usage": "surface",
+      "example": "The field is flat ground."
+    },
+    {
+      "phrase": "true gentleman",
+      "bangla": "সত্যিকারের ভদ্রলোক",
+      "usage": "character",
+      "example": "He is a true gentleman."
+    },
+    {
+      "phrase": "hidden treasure",
+      "bangla": "লুকানো ধন",
+      "usage": "mystery",
+      "example": "They found hidden treasure."
+    },
+    {
+      "phrase": "maybe tomorrow",
+      "bangla": "হয়তো আগামীকাল",
+      "usage": "uncertainty",
+      "example": "Maybe tomorrow it will be better."
+    },
+    {
+      "phrase": "police officer",
+      "bangla": "পুলিশ কর্মকর্তা",
+      "usage": "authority",
+      "example": "The police officer arrived."
+    },
+    {
+      "phrase": "original idea",
+      "bangla": "মূল ধারণা",
+      "usage": "creativity",
+      "example": "That is an original idea."
+    },
+    {
+      "phrase": "cost in pounds",
+      "bangla": "পাউন্ডে মূল্য",
+      "usage": "currency",
+      "example": "It costs ten pounds."
+    },
+    {
+      "phrase": "long process",
+      "bangla": "দীর্ঘ প্রক্রিয়া",
+      "usage": "effort",
+      "example": "It is a long process."
+    },
+    {
+      "phrase": "publish a book",
+      "bangla": "বই প্রকাশ করা",
+      "usage": "writing",
+      "example": "She will publish a book."
+    },
+    {
+      "phrase": "visit theater",
+      "bangla": "নাটকশালায় যাওয়া",
+      "usage": "culture",
+      "example": "We visited the theater."
+    },
+    {
+      "phrase": "build wealth",
+      "bangla": "সম্পদ গড়া",
+      "usage": "finance",
+      "example": "He worked hard to build wealth."
+    }
+  ],
+
+  "sentences": [
+    { "en": "She joined the academy.", "bn": "সে একাডেমিতে যোগ দিল।" },
+    { "en": "This is an ancient ruin.", "bn": "এটি একটি প্রাচীন ধ্বংসাবশেষ।" },
+    { "en": "The board approved it.", "bn": "বোর্ড এটি অনুমোদন করল।" },
+    { "en": "It happened a century ago.", "bn": "এটি একশ বছর আগে ঘটেছিল।" },
+    { "en": "I found a clue.", "bn": "আমি একটি সূত্র খুঁজে পেলাম।" },
+    { "en": "The concert was amazing.", "bn": "সংগীত অনুষ্ঠানটি অসাধারণ ছিল।" },
+    { "en": "He works in this county.", "bn": "সে এই জেলায় কাজ করে।" },
+    { "en": "Use a dictionary.", "bn": "একটি অভিধান ব্যবহার করো।" },
+    { "en": "Magic does not exist.", "bn": "জাদু বলে কিছু নেই।" },
+    { "en": "The road is flat.", "bn": "রাস্তাটি সমতল।" },
+    { "en": "He spoke like a gentleman.", "bn": "সে ভদ্রলোকের মতো কথা বলল।" },
+    { "en": "A key was hidden.", "bn": "একটি চাবি লুকানো ছিল।" },
+    { "en": "Maybe she is right.", "bn": "হয়তো সে সঠিক।" },
+    { "en": "The officer is kind.", "bn": "কর্মকর্তা দয়ালু।" },
+    { "en": "Keep the original copy.", "bn": "মূল কপিটি রাখো।" },
+    { "en": "It weighs one pound.", "bn": "এটির ওজন এক পাউন্ড।" },
+    { "en": "Follow the process.", "bn": "প্রক্রিয়া অনুসরণ করো।" },
+    { "en": "He wants to publish.", "bn": "সে প্রকাশ করতে চায়।" },
+    { "en": "The theater is full.", "bn": "নাটকশালাটি পূর্ণ।" },
+    { "en": "Wealth is not everything.", "bn": "সম্পদই সব কিছু নয়।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Academy means?",
+      "opts": ["hospital", "school for special training", "market", "park"],
+      "ans": 1,
+      "explanation": "Academy means a school or institution for special training."
+    },
+    {
+      "q": "Ancient means?",
+      "opts": ["modern", "from very long ago", "new", "small"],
+      "ans": 1,
+      "explanation": "Ancient means belonging to a very long time ago."
+    },
+    {
+      "q": "Board means?",
+      "opts": ["river", "group managing something", "food", "road"],
+      "ans": 1,
+      "explanation": "Board means a group of people who manage something."
+    },
+    {
+      "q": "Century means?",
+      "opts": ["ten years", "one hundred years", "one year", "one month"],
+      "ans": 1,
+      "explanation": "Century means a period of one hundred years."
+    },
+    {
+      "q": "Clue means?",
+      "opts": ["answer", "piece of helpful information", "problem", "noise"],
+      "ans": 1,
+      "explanation": "Clue means a piece of information that helps solve a mystery."
+    },
+    {
+      "q": "Concert means?",
+      "opts": [
+        "sport event",
+        "live music performance",
+        "art show",
+        "book fair"
+      ],
+      "ans": 1,
+      "explanation": "Concert means a live music performance."
+    },
+    {
+      "q": "County means?",
+      "opts": ["country", "region or district", "village", "ocean"],
+      "ans": 1,
+      "explanation": "County means a region or district within a country."
+    },
+    {
+      "q": "Dictionary means?",
+      "opts": [
+        "storybook",
+        "book listing words and meanings",
+        "notebook",
+        "atlas"
+      ],
+      "ans": 1,
+      "explanation": "Dictionary means a book that lists words and their meanings."
+    },
+    {
+      "q": "Exist means?",
+      "opts": ["disappear", "to be real or live", "to sleep", "to break"],
+      "ans": 1,
+      "explanation": "Exist means to be real or to live."
+    },
+    {
+      "q": "Flat means?",
+      "opts": ["round", "level and smooth", "deep", "rough"],
+      "ans": 1,
+      "explanation": "Flat means level and smooth, or an apartment."
+    },
+    {
+      "q": "Gentleman means?",
+      "opts": ["rude man", "polite well-mannered man", "old man", "rich man"],
+      "ans": 1,
+      "explanation": "Gentleman means a polite and well-mannered man."
+    },
+    {
+      "q": "Hidden means?",
+      "opts": ["visible", "kept out of sight", "loud", "open"],
+      "ans": 1,
+      "explanation": "Hidden means kept out of sight; not visible."
+    },
+    {
+      "q": "Maybe means?",
+      "opts": ["never", "perhaps", "always", "surely"],
+      "ans": 1,
+      "explanation": "Maybe means perhaps or possibly."
+    },
+    {
+      "q": "Officer means?",
+      "opts": ["student", "person in authority", "farmer", "artist"],
+      "ans": 1,
+      "explanation": "Officer means a person in a position of authority."
+    },
+    {
+      "q": "Original means?",
+      "opts": ["copied", "first or earliest version", "fake", "broken"],
+      "ans": 1,
+      "explanation": "Original means the first or earliest version; not copied."
+    },
+    {
+      "q": "Pound means?",
+      "opts": ["meter", "unit of weight or currency", "color", "sound"],
+      "ans": 1,
+      "explanation": "Pound means a unit of weight or British currency."
+    },
+    {
+      "q": "Process means?",
+      "opts": ["result", "series of steps", "ending", "color"],
+      "ans": 1,
+      "explanation": "Process means a series of steps to achieve something."
+    },
+    {
+      "q": "Publish means?",
+      "opts": ["hide", "produce and share written work", "destroy", "read"],
+      "ans": 1,
+      "explanation": "Publish means to produce and share written work."
+    },
+    {
+      "q": "Theater means?",
+      "opts": ["school", "place for plays or films", "hospital", "shop"],
+      "ans": 1,
+      "explanation": "Theater means a place where plays or films are shown."
+    },
+    {
+      "q": "Wealth means?",
+      "opts": [
+        "poverty",
+        "large amount of money or valuables",
+        "sadness",
+        "illness"
+      ],
+      "ans": 1,
+      "explanation": "Wealth means a large amount of money or valuable things."
+    }
+  ],
+
+  "story": {
+    "title": "The Hidden Wealth of the Ancient Academy",
+    "body": "In a small county, there existed an ancient academy that was over a century old. The board of the academy had a secret — a hidden room full of original manuscripts worth many pounds. One evening, a gentleman named Karim, who was a published writer, received a clue in the mail. It said: 'Maybe the wealth you seek is where music meets history.' Karim followed the process carefully. He checked every word in the dictionary, studied the board's old records, and attended a concert held at the local theater. During the concert, an officer approached him and whispered, 'There is a hidden door behind the flat wall near the stage.' Karim found it. Behind the door was a shelf of original books, ready to be published again. The academy decided to share this wealth of knowledge with the world. The story of the hidden room became famous across the county and beyond.",
+    "comprehension": [
+      {
+        "q": "How old was the academy?",
+        "opts": ["fifty years", "over a century", "ten years", "two centuries"],
+        "ans": 1
+      },
+      {
+        "q": "What did Karim receive?",
+        "opts": ["money", "a clue", "a book", "a key"],
+        "ans": 1
+      },
+      {
+        "q": "Where was the hidden door?",
+        "opts": [
+          "in the garden",
+          "behind the flat wall",
+          "under the floor",
+          "in the library"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What was inside the hidden room?",
+        "opts": ["gold coins", "original books", "old paintings", "food"],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "academy",
+      "ancient",
+      "century",
+      "hidden",
+      "clue",
+      "wealth",
+      "theater",
+      "officer",
+      "publish",
+      "process",
+      "original",
+      "county"
+    ]
+  },
+
+  "listening": {
+    "title": "A Visit to the Old Theater",
+    "script": "A: Have you ever visited that ancient theater?\nB: Yes, it exists since the last century.\nA: Did the board restore it?\nB: Maybe. A gentleman told me it was restored.\nA: Was there a concert there?\nB: Yes, a huge one. It cost ten pounds to enter.\nA: Did you find any clue about the hidden room?\nB: The officer at the door gave me a clue.\nA: What did he say?\nB: He said the original plan of the theater is in the dictionary room.\nA: That sounds like a long process.\nB: It was. But the academy published a book about it.\nA: I would love to read it.\nB: Knowledge is real wealth, after all.",
+    "comprehension": [
+      {
+        "q": "How much did the concert cost?",
+        "opts": ["five pounds", "ten pounds", "free", "twenty pounds"],
+        "ans": 1
+      },
+      {
+        "q": "Who gave B a clue?",
+        "opts": ["a friend", "the officer", "the board", "a poet"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "A Place with History",
+    "prompt": "Describe an ancient or historical place you know. Use words like century, original, hidden, exist, and wealth.",
+    "example": "There is an ancient mosque in my county that has existed for over a century. It has original tiles that are still hidden under new paint. For me, its history is true wealth.",
+    "tips": [
+      "Describe what the place looks like",
+      "Say how old it is",
+      "Mention something hidden or original about it",
+      "Explain why it is valuable to you"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Discussing a mysterious old building",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Have you heard about the ancient academy in this county?"
+      },
+      { "speaker": "user", "prompt": "Say yes and share what you know." },
+      {
+        "speaker": "app",
+        "text": "Do you think hidden rooms still exist there?"
+      },
+      { "speaker": "user", "prompt": "Give your opinion using maybe." },
+      {
+        "speaker": "app",
+        "text": "Would you publish a book about its history?"
+      },
+      { "speaker": "user", "prompt": "Say yes or no and explain your reason." }
+    ]
+  }
+}

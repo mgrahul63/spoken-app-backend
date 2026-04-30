@@ -1,0 +1,745 @@
+{
+  "day": 15,
+  "topic": "Feelings, Actions & Life Experience Vocabulary",
+  "lessonId": "L0D9",
+  "vocabulary": [
+    {
+      "word": "across",
+      "phonetic": "/əˈkrɒs/",
+      "meaning": "from one side to the other; on the other side",
+      "bangla": "পার হয়ে / ওপারে",
+      "example": "She walked across the road.",
+      "exampleBn": "সে রাস্তা পার হয়ে গেল।"
+    },
+    {
+      "word": "breathe",
+      "phonetic": "/briːð/",
+      "meaning": "to take air into the lungs and let it out",
+      "bangla": "শ্বাস নেওয়া",
+      "example": "Take a moment to breathe.",
+      "exampleBn": "একটু শ্বাস নাও।"
+    },
+    {
+      "word": "characteristic",
+      "phonetic": "/ˌkærəktəˈrɪstɪk/",
+      "meaning": "a typical feature or quality of something",
+      "bangla": "বৈশিষ্ট্য / গুণ",
+      "example": "Kindness is his best characteristic.",
+      "exampleBn": "দয়া তার সেরা বৈশিষ্ট্য।"
+    },
+    {
+      "word": "consume",
+      "phonetic": "/kənˈsjuːm/",
+      "meaning": "to eat, drink, or use something up",
+      "bangla": "ভোগ করা / খরচ করা",
+      "example": "We consume a lot of energy.",
+      "exampleBn": "আমরা অনেক শক্তি ভোগ করি।"
+    },
+    {
+      "word": "excite",
+      "phonetic": "/ɪkˈsaɪt/",
+      "meaning": "to make someone feel enthusiastic or eager",
+      "bangla": "উত্তেজিত করা",
+      "example": "The news excited everyone.",
+      "exampleBn": "সংবাদটি সবাইকে উত্তেজিত করল।"
+    },
+    {
+      "word": "extreme",
+      "phonetic": "/ɪkˈstriːm/",
+      "meaning": "very great or severe; far beyond normal",
+      "bangla": "চরম / অত্যধিক",
+      "example": "The weather was extreme.",
+      "exampleBn": "আবহাওয়া ছিল চরম।"
+    },
+    {
+      "word": "fear",
+      "phonetic": "/fɪər/",
+      "meaning": "an unpleasant feeling caused by danger or threat",
+      "bangla": "ভয়",
+      "example": "He has a fear of heights.",
+      "exampleBn": "তার উচ্চতার ভয় আছে।"
+    },
+    {
+      "word": "fortunate",
+      "phonetic": "/ˈfɔːrtʃənət/",
+      "meaning": "lucky; having good luck",
+      "bangla": "ভাগ্যবান",
+      "example": "She is fortunate to have good friends.",
+      "exampleBn": "সে ভালো বন্ধু পেয়ে ভাগ্যবান।"
+    },
+    {
+      "word": "happen",
+      "phonetic": "/ˈhæpən/",
+      "meaning": "to take place or occur",
+      "bangla": "ঘটা / হওয়া",
+      "example": "What happened yesterday?",
+      "exampleBn": "গতকাল কী ঘটেছিল?"
+    },
+    {
+      "word": "length",
+      "phonetic": "/leŋθ/",
+      "meaning": "the measurement of something from end to end",
+      "bangla": "দৈর্ঘ্য",
+      "example": "What is the length of this road?",
+      "exampleBn": "এই রাস্তার দৈর্ঘ্য কত?"
+    },
+    {
+      "word": "mistake",
+      "phonetic": "/mɪˈsteɪk/",
+      "meaning": "an error or wrong action",
+      "bangla": "ভুল",
+      "example": "I made a big mistake.",
+      "exampleBn": "আমি একটি বড় ভুল করেছি।"
+    },
+    {
+      "word": "observe",
+      "phonetic": "/əbˈzɜːrv/",
+      "meaning": "to watch carefully or notice",
+      "bangla": "পর্যবেক্ষণ করা / লক্ষ্য করা",
+      "example": "Scientists observe the stars.",
+      "exampleBn": "বিজ্ঞানীরা তারা পর্যবেক্ষণ করেন।"
+    },
+    {
+      "word": "opportunity",
+      "phonetic": "/ˌɒpəˈtjuːnɪti/",
+      "meaning": "a favorable time or chance to do something",
+      "bangla": "সুযোগ",
+      "example": "This is a great opportunity.",
+      "exampleBn": "এটি একটি দারুণ সুযোগ।"
+    },
+    {
+      "word": "prize",
+      "phonetic": "/praɪz/",
+      "meaning": "a reward given for winning or achievement",
+      "bangla": "পুরস্কার",
+      "example": "She won the first prize.",
+      "exampleBn": "সে প্রথম পুরস্কার জিতল।"
+    },
+    {
+      "word": "race",
+      "phonetic": "/reɪs/",
+      "meaning": "a competition of speed; a group of people sharing origin",
+      "bangla": "দৌড় প্রতিযোগিতা / জাতি",
+      "example": "He won the race easily.",
+      "exampleBn": "সে সহজেই দৌড় প্রতিযোগিতায় জিতল।"
+    },
+    {
+      "word": "realize",
+      "phonetic": "/ˈriːəlaɪz/",
+      "meaning": "to become aware of or understand something",
+      "bangla": "উপলব্ধি করা / বুঝতে পারা",
+      "example": "I realized my mistake.",
+      "exampleBn": "আমি আমার ভুল বুঝতে পারলাম।"
+    },
+    {
+      "word": "respond",
+      "phonetic": "/rɪˈspɒnd/",
+      "meaning": "to say or do something as a reaction",
+      "bangla": "সাড়া দেওয়া / জবাব দেওয়া",
+      "example": "Please respond to my message.",
+      "exampleBn": "দয়া করে আমার বার্তার জবাব দাও।"
+    },
+    {
+      "word": "risk",
+      "phonetic": "/rɪsk/",
+      "meaning": "the possibility of something bad happening",
+      "bangla": "ঝুঁকি",
+      "example": "He took a big risk.",
+      "exampleBn": "সে একটি বড় ঝুঁকি নিল।"
+    },
+    {
+      "word": "wonder",
+      "phonetic": "/ˈwʌndər/",
+      "meaning": "to think about with curiosity; a feeling of amazement",
+      "bangla": "আশ্চর্য হওয়া / ভাবা",
+      "example": "I wonder what will happen next.",
+      "exampleBn": "আমি ভাবছি পরবর্তীতে কী হবে।"
+    },
+    {
+      "word": "yet",
+      "phonetic": "/jet/",
+      "meaning": "up to this time; still; however",
+      "bangla": "এখনো / তবুও",
+      "example": "She has not arrived yet.",
+      "exampleBn": "সে এখনো আসেনি।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "walk across",
+      "bangla": "পার হয়ে হাঁটা",
+      "usage": "movement",
+      "example": "He walked across the bridge."
+    },
+    {
+      "phrase": "breathe deeply",
+      "bangla": "গভীরভাবে শ্বাস নেওয়া",
+      "usage": "relaxation",
+      "example": "Breathe deeply and stay calm."
+    },
+    {
+      "phrase": "key characteristic",
+      "bangla": "মূল বৈশিষ্ট্য",
+      "usage": "description",
+      "example": "Honesty is a key characteristic of a good person."
+    },
+    {
+      "phrase": "consume energy",
+      "bangla": "শক্তি ভোগ করা",
+      "usage": "science",
+      "example": "Machines consume a lot of energy."
+    },
+    {
+      "phrase": "excite the crowd",
+      "bangla": "ভিড়কে উত্তেজিত করা",
+      "usage": "event",
+      "example": "The performance excited the whole crowd."
+    },
+    {
+      "phrase": "extreme weather",
+      "bangla": "চরম আবহাওয়া",
+      "usage": "climate",
+      "example": "Extreme weather causes a lot of damage."
+    },
+    {
+      "phrase": "overcome fear",
+      "bangla": "ভয় জয় করা",
+      "usage": "courage",
+      "example": "She overcame her fear of water."
+    },
+    {
+      "phrase": "fortunate enough",
+      "bangla": "যথেষ্ট ভাগ্যবান",
+      "usage": "gratitude",
+      "example": "I am fortunate enough to have a good family."
+    },
+    {
+      "phrase": "happen suddenly",
+      "bangla": "হঠাৎ ঘটা",
+      "usage": "event",
+      "example": "Accidents happen suddenly."
+    },
+    {
+      "phrase": "full length",
+      "bangla": "পূর্ণ দৈর্ঘ্য",
+      "usage": "measurement",
+      "example": "Measure the full length of the rope."
+    },
+    {
+      "phrase": "learn from mistake",
+      "bangla": "ভুল থেকে শেখা",
+      "usage": "growth",
+      "example": "Always learn from your mistakes."
+    },
+    {
+      "phrase": "observe carefully",
+      "bangla": "সাবধানে পর্যবেক্ষণ করা",
+      "usage": "science",
+      "example": "Observe the experiment carefully."
+    },
+    {
+      "phrase": "golden opportunity",
+      "bangla": "সুবর্ণ সুযোগ",
+      "usage": "motivation",
+      "example": "Do not miss this golden opportunity."
+    },
+    {
+      "phrase": "win a prize",
+      "bangla": "পুরস্কার জেতা",
+      "usage": "achievement",
+      "example": "She worked hard to win the prize."
+    },
+    {
+      "phrase": "win the race",
+      "bangla": "দৌড়ে জেতা",
+      "usage": "competition",
+      "example": "He trained for months to win the race."
+    },
+    {
+      "phrase": "realize the truth",
+      "bangla": "সত্য উপলব্ধি করা",
+      "usage": "awareness",
+      "example": "He finally realized the truth."
+    },
+    {
+      "phrase": "respond quickly",
+      "bangla": "দ্রুত সাড়া দেওয়া",
+      "usage": "communication",
+      "example": "She responded quickly to the emergency."
+    },
+    {
+      "phrase": "take a risk",
+      "bangla": "ঝুঁকি নেওয়া",
+      "usage": "decision",
+      "example": "Sometimes you have to take a risk."
+    },
+    {
+      "phrase": "wonder about life",
+      "bangla": "জীবন নিয়ে ভাবা",
+      "usage": "reflection",
+      "example": "He often wonders about the meaning of life."
+    },
+    {
+      "phrase": "not yet",
+      "bangla": "এখনো না",
+      "usage": "time",
+      "example": "I have not finished yet."
+    }
+  ],
+
+  "sentences": [
+    {
+      "en": "The children ran across the field.",
+      "bn": "শিশুরা মাঠ পার হয়ে দৌড়াল।"
+    },
+    {
+      "en": "It is important to breathe fresh air every day.",
+      "bn": "প্রতিদিন তাজা বাতাসে শ্বাস নেওয়া গুরুত্বপূর্ণ।"
+    },
+    {
+      "en": "Patience is an important characteristic of a good leader.",
+      "bn": "ধৈর্য একজন ভালো নেতার একটি গুরুত্বপূর্ণ বৈশিষ্ট্য।"
+    },
+    {
+      "en": "We consume too much plastic in daily life.",
+      "bn": "আমরা দৈনন্দিন জীবনে অনেক বেশি প্লাস্টিক ব্যবহার করি।"
+    },
+    {
+      "en": "The surprise party excited the whole family.",
+      "bn": "বিস্ময় পার্টিটি পুরো পরিবারকে উত্তেজিত করল।"
+    },
+    {
+      "en": "Extreme heat can be dangerous for health.",
+      "bn": "চরম গরম স্বাস্থ্যের জন্য বিপজ্জনক হতে পারে।"
+    },
+    {
+      "en": "She faced her fear and spoke in front of the crowd.",
+      "bn": "সে তার ভয় মোকাবেলা করে ভিড়ের সামনে কথা বলল।"
+    },
+    {
+      "en": "We are fortunate to live in a peaceful country.",
+      "bn": "আমরা একটি শান্তিপূর্ণ দেশে বাস করতে পেরে ভাগ্যবান।"
+    },
+    {
+      "en": "Strange things happen when you least expect them.",
+      "bn": "যখন তুমি কম প্রত্যাশা করো তখন অদ্ভুত জিনিস ঘটে।"
+    },
+    {
+      "en": "The length of the river is over one thousand kilometers.",
+      "bn": "নদীটির দৈর্ঘ্য এক হাজার কিলোমিটারের বেশি।"
+    },
+    {
+      "en": "Everyone makes a mistake at some point in life.",
+      "bn": "জীবনের কোনো না কোনো সময়ে সবাই ভুল করে।"
+    },
+    {
+      "en": "The teacher asked us to observe the plant for a week.",
+      "bn": "শিক্ষক আমাদের এক সপ্তাহ গাছটি পর্যবেক্ষণ করতে বললেন।"
+    },
+    {
+      "en": "Never waste an opportunity to learn something new.",
+      "bn": "নতুন কিছু শেখার সুযোগ কখনো নষ্ট করো না।"
+    },
+    {
+      "en": "He received a prize for his outstanding performance.",
+      "bn": "সে তার অসাধারণ পারফরম্যান্সের জন্য একটি পুরস্কার পেল।"
+    },
+    {
+      "en": "She trained hard every day to win the race.",
+      "bn": "সে দৌড় প্রতিযোগিতায় জেতার জন্য প্রতিদিন কঠোর অনুশীলন করল।"
+    },
+    {
+      "en": "He realized that hard work always pays off.",
+      "bn": "সে বুঝতে পারল যে কঠোর পরিশ্রম সবসময় ফল দেয়।"
+    },
+    {
+      "en": "She responded to every question with confidence.",
+      "bn": "সে আত্মবিশ্বাসের সাথে প্রতিটি প্রশ্নের উত্তর দিল।"
+    },
+    {
+      "en": "Starting a new business always involves some risk.",
+      "bn": "নতুন ব্যবসা শুরু করতে সবসময় কিছু ঝুঁকি থাকে।"
+    },
+    {
+      "en": "I often wonder why the sky is blue.",
+      "bn": "আমি প্রায়ই ভাবি আকাশ কেন নীল।"
+    },
+    {
+      "en": "He has not given up yet and keeps trying.",
+      "bn": "সে এখনো হাল ছাড়েনি এবং চেষ্টা করতে থাকে।"
+    }
+  ],
+
+  "quiz": [
+    {
+      "q": "Across means?",
+      "opts": [
+        "inside something",
+        "from one side to the other",
+        "above everything",
+        "behind a wall"
+      ],
+      "ans": 1,
+      "explanation": "Across means moving from one side to the other or on the opposite side."
+    },
+    {
+      "q": "Breathe means?",
+      "opts": [
+        "to eat food",
+        "to take air into lungs and release it",
+        "to drink water",
+        "to run fast"
+      ],
+      "ans": 1,
+      "explanation": "Breathe means to take air into the lungs and then let it out."
+    },
+    {
+      "q": "Characteristic means?",
+      "opts": [
+        "a mistake",
+        "a typical feature or quality",
+        "a building",
+        "a meal"
+      ],
+      "ans": 1,
+      "explanation": "Characteristic means a typical or noticeable quality of a person or thing."
+    },
+    {
+      "q": "Consume means?",
+      "opts": ["to save", "to eat, drink or use up", "to build", "to find"],
+      "ans": 1,
+      "explanation": "Consume means to eat, drink, or use something completely."
+    },
+    {
+      "q": "Excite means?",
+      "opts": [
+        "to bore",
+        "to make someone enthusiastic",
+        "to sleep",
+        "to hide"
+      ],
+      "ans": 1,
+      "explanation": "Excite means to cause someone to feel very enthusiastic or eager."
+    },
+    {
+      "q": "Extreme means?",
+      "opts": [
+        "average",
+        "very great or far beyond normal",
+        "simple",
+        "common"
+      ],
+      "ans": 1,
+      "explanation": "Extreme means very severe, intense, or far beyond what is usual."
+    },
+    {
+      "q": "Fear means?",
+      "opts": [
+        "happiness",
+        "unpleasant feeling caused by danger",
+        "excitement",
+        "peace"
+      ],
+      "ans": 1,
+      "explanation": "Fear is an unpleasant emotion caused by the belief that someone or something is dangerous."
+    },
+    {
+      "q": "Fortunate means?",
+      "opts": ["unlucky", "lucky or having good luck", "sad", "poor"],
+      "ans": 1,
+      "explanation": "Fortunate means having good luck or being in a favorable situation."
+    },
+    {
+      "q": "Happen means?",
+      "opts": ["to plan", "to take place or occur", "to stop", "to imagine"],
+      "ans": 1,
+      "explanation": "Happen means to take place or occur, especially without being planned."
+    },
+    {
+      "q": "Length means?",
+      "opts": ["weight", "measurement from end to end", "color", "speed"],
+      "ans": 1,
+      "explanation": "Length means the measurement of something from one end to the other."
+    },
+    {
+      "q": "Mistake means?",
+      "opts": [
+        "a correct answer",
+        "an error or wrong action",
+        "a reward",
+        "a plan"
+      ],
+      "ans": 1,
+      "explanation": "Mistake means an action or judgment that is wrong or incorrect."
+    },
+    {
+      "q": "Observe means?",
+      "opts": [
+        "to ignore",
+        "to watch carefully or notice",
+        "to break",
+        "to sell"
+      ],
+      "ans": 1,
+      "explanation": "Observe means to watch something carefully and attentively."
+    },
+    {
+      "q": "Opportunity means?",
+      "opts": [
+        "a problem",
+        "a favorable chance to do something",
+        "a mistake",
+        "a loss"
+      ],
+      "ans": 1,
+      "explanation": "Opportunity means a set of circumstances that makes it possible to do something."
+    },
+    {
+      "q": "Prize means?",
+      "opts": [
+        "a punishment",
+        "a reward for winning or achievement",
+        "a question",
+        "a risk"
+      ],
+      "ans": 1,
+      "explanation": "Prize means a reward given to the winner of a competition or for outstanding work."
+    },
+    {
+      "q": "Race means?",
+      "opts": ["a rest", "a competition of speed", "a meal", "a building"],
+      "ans": 1,
+      "explanation": "Race means a competition in which people or animals compete to see who is fastest."
+    },
+    {
+      "q": "Realize means?",
+      "opts": [
+        "to forget",
+        "to become aware or understand",
+        "to sleep",
+        "to break"
+      ],
+      "ans": 1,
+      "explanation": "Realize means to become fully aware of something or to understand it clearly."
+    },
+    {
+      "q": "Respond means?",
+      "opts": [
+        "to ignore",
+        "to say or do something as a reaction",
+        "to sleep",
+        "to hide"
+      ],
+      "ans": 1,
+      "explanation": "Respond means to say or do something as a reply or reaction to something."
+    },
+    {
+      "q": "Risk means?",
+      "opts": [
+        "a guarantee",
+        "possibility of something bad happening",
+        "a prize",
+        "a gift"
+      ],
+      "ans": 1,
+      "explanation": "Risk means the possibility that something bad or unpleasant will happen."
+    },
+    {
+      "q": "Wonder means?",
+      "opts": [
+        "to ignore",
+        "to think with curiosity or feel amazed",
+        "to sleep",
+        "to break"
+      ],
+      "ans": 1,
+      "explanation": "Wonder means to feel curious and want to know something, or to feel amazement."
+    },
+    {
+      "q": "Yet means?",
+      "opts": [
+        "already done",
+        "up to this time or still",
+        "very fast",
+        "far away"
+      ],
+      "ans": 1,
+      "explanation": "Yet means up to this time, still, or however — used to indicate something has not happened so far."
+    }
+  ],
+
+  "story": {
+    "title": "The Race Across the Mountain",
+    "body": "Tariq had always wondered what it would feel like to win a race. Ever since he was a child, running had been his greatest characteristic — he was fast, focused, and fearless. But this year, he faced his most extreme challenge yet: the Mountain Cross Race, a competition that required runners to travel across a steep mountain trail of enormous length. The night before the race, Tariq could not sleep. Fear crept into his heart. He had observed other runners during training and realized that many of them were more experienced. He began to doubt himself and worry about the risks involved. His coach noticed and sat beside him. 'Breathe slowly,' she said. 'You are fortunate enough to be here. Not everyone gets this opportunity.' Her words excited something deep inside him. The next morning, the race began. Tariq moved across the rocky path with determination. Halfway through, he made a mistake — he took a wrong turn and lost precious time. For a moment, extreme panic set in. But instead of giving up, he responded quickly, corrected his path, and pushed forward. The crowd watching from across the valley began to cheer. Their energy consumed his fear and replaced it with strength. Step by step, breath by breath, he climbed. He did not yet know if he would win, but he realized that finishing the race was itself a prize. When he finally crossed the finish line, the crowd went wild. He had not come first, but he had won something greater — the courage to face his fear, take a risk, and respond to difficulty with strength. The judges observed his performance and awarded him a special prize for the most determined runner. Standing there, breathing hard, Tariq wondered no more about what winning felt like. He already knew.",
+    "comprehension": [
+      {
+        "q": "What was Tariq's greatest characteristic?",
+        "opts": ["singing", "running", "painting", "cooking"],
+        "ans": 1
+      },
+      {
+        "q": "What mistake did Tariq make during the race?",
+        "opts": [
+          "he fell down",
+          "he took a wrong turn",
+          "he stopped running",
+          "he lost his shoes"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What consumed Tariq's fear during the race?",
+        "opts": ["silence", "the crowd's energy", "his prize", "his coach"],
+        "ans": 1
+      },
+      {
+        "q": "What prize did Tariq receive?",
+        "opts": [
+          "first place trophy",
+          "a special prize for most determined runner",
+          "a cash reward",
+          "a medal for speed"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Tariq realize at the end?",
+        "opts": [
+          "racing is too risky",
+          "finishing with courage is itself a prize",
+          "he should quit running",
+          "he was the fastest"
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "race",
+      "across",
+      "fear",
+      "breathe",
+      "extreme",
+      "opportunity",
+      "mistake",
+      "realize",
+      "risk",
+      "respond",
+      "prize",
+      "wonder",
+      "fortunate",
+      "observe",
+      "yet"
+    ]
+  },
+
+  "listening": {
+    "title": "A Conversation Between Two Athletes",
+    "script": "A: Are you nervous about the race tomorrow?\nB: Yes, I have an extreme fear of losing.\nA: I understand. But you have trained so hard. You should feel fortunate.\nB: I realize that. But something bad could still happen.\nA: Mistakes happen to everyone. The key is how you respond.\nB: That is true. I observed the other runners today.\nA: What characteristic do they have that worries you?\nB: They consume less energy and breathe more steadily.\nA: Then you must learn from that. It is a great opportunity.\nB: I wonder if I can really win the prize.\nA: Do not think about the prize yet. Think about running across that finish line.\nB: You are right. I need to take the risk and give my best.\nA: Exactly. The length of the race does not matter. Your attitude does.\nB: Thank you. I feel excited now.\nA: Good. Breathe deeply, stay calm, and remember why you started.\nB: I will not give up. Not yet.\nA: That is the spirit. You are going to do great.\nB: Whatever happens, I will respond with my best effort.\nA: That is all anyone can ask for. Good luck tomorrow.",
+    "comprehension": [
+      {
+        "q": "What is the athlete's extreme fear?",
+        "opts": ["getting hurt", "losing the race", "bad weather", "the crowd"],
+        "ans": 1
+      },
+      {
+        "q": "What characteristic of other runners worried the athlete?",
+        "opts": [
+          "their speed",
+          "they consume less energy and breathe more steadily",
+          "their height",
+          "their shoes"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does the friend say about mistakes?",
+        "opts": [
+          "avoid them always",
+          "everyone makes them; the key is how you respond",
+          "they mean you will lose",
+          "mistakes are shameful"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does the friend say to focus on instead of the prize?",
+        "opts": [
+          "the other runners",
+          "running across the finish line",
+          "training more",
+          "the length of the race"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Talking About a Challenge You Faced",
+    "prompt": "Describe a time when you faced a fear or took a risk. Use words like fear, risk, realize, respond, opportunity, mistake, and fortunate.",
+    "example": "Once I had to speak in front of my whole class. I had an extreme fear of speaking in public. But I realized it was a great opportunity to improve myself. I made a small mistake at the beginning, but I responded calmly and continued. After I finished, everyone clapped. I felt very fortunate and excited. That day I learned that taking a risk can lead to something wonderful. I still wonder how I managed to do it, but I am glad I did not give up yet.",
+    "tips": [
+      "Start by describing the situation clearly",
+      "Use the word fear to explain how you felt",
+      "Say what risk you took and why",
+      "Explain the mistake you made and how you responded",
+      "Use fortunate and realize to reflect on what you learned",
+      "End with wonder or yet to show you are still growing"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Two friends discussing life goals and overcoming challenges",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Do you have a big goal you are working toward yet?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Share your goal and how far you have come."
+      },
+      {
+        "speaker": "app",
+        "text": "What is the most extreme challenge you have faced so far?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Describe the challenge using words like extreme, fear, and risk."
+      },
+      {
+        "speaker": "app",
+        "text": "Have you ever made a mistake while chasing your goal?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Talk about the mistake and what you realized from it."
+      },
+      {
+        "speaker": "app",
+        "text": "How did you respond when things went wrong?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Explain how you responded and what helped you continue."
+      },
+      {
+        "speaker": "app",
+        "text": "What characteristic do you think helped you the most?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Name a characteristic and explain why it matters."
+      },
+      {
+        "speaker": "app",
+        "text": "Do you feel fortunate to have the opportunities you have?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Reflect on your opportunities and what you wonder about the future."
+      }
+    ]
+  }
+}

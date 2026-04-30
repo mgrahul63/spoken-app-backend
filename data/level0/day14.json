@@ -1,0 +1,526 @@
+{
+  "day": 14,
+  "topic": "Education, Communication & Creativity Vocabulary",
+  "lessonId": "L0D8",
+  "vocabulary": [
+    {
+      "word": "coach",
+      "phonetic": "/koʊtʃ/",
+      "meaning": "a person who trains or guides others",
+      "bangla": "প্রশিক্ষক",
+      "example": "The coach trains the team.",
+      "exampleBn": "প্রশিক্ষক দলকে প্রশিক্ষণ দেন।"
+    },
+    {
+      "word": "control",
+      "phonetic": "/kənˈtroʊl/",
+      "meaning": "to have power over something",
+      "bangla": "নিয়ন্ত্রণ করা",
+      "example": "She controls her emotions.",
+      "exampleBn": "সে তার আবেগ নিয়ন্ত্রণ করে।"
+    },
+    {
+      "word": "description",
+      "phonetic": "/dɪˈskrɪpʃn/",
+      "meaning": "a spoken or written account of something",
+      "bangla": "বিবরণ",
+      "example": "Give a clear description.",
+      "exampleBn": "একটি স্পষ্ট বিবরণ দাও।"
+    },
+    {
+      "word": "direct",
+      "phonetic": "/dɪˈrekt/",
+      "meaning": "going straight to a point; to guide",
+      "bangla": "সরাসরি / পরিচালনা করা",
+      "example": "He gave a direct answer.",
+      "exampleBn": "সে সরাসরি উত্তর দিল।"
+    },
+    {
+      "word": "exam",
+      "phonetic": "/ɪɡˈzæm/",
+      "meaning": "a formal test of knowledge",
+      "bangla": "পরীক্ষা",
+      "example": "I passed my exam.",
+      "exampleBn": "আমি আমার পরীক্ষায় উত্তীর্ণ হয়েছি।"
+    },
+    {
+      "word": "example",
+      "phonetic": "/ɪɡˈzɑːmpl/",
+      "meaning": "something used to show or explain",
+      "bangla": "উদাহরণ",
+      "example": "Give me an example.",
+      "exampleBn": "আমাকে একটি উদাহরণ দাও।"
+    },
+    {
+      "word": "limit",
+      "phonetic": "/ˈlɪmɪt/",
+      "meaning": "the most or least amount allowed",
+      "bangla": "সীমা",
+      "example": "Know your limit.",
+      "exampleBn": "তোমার সীমা জানো।"
+    },
+    {
+      "word": "local",
+      "phonetic": "/ˈloʊkl/",
+      "meaning": "related to a nearby area",
+      "bangla": "স্থানীয়",
+      "example": "I shop at the local market.",
+      "exampleBn": "আমি স্থানীয় বাজারে কেনাকাটা করি।"
+    },
+    {
+      "word": "magical",
+      "phonetic": "/ˈmædʒɪkl/",
+      "meaning": "having a special and enchanting quality",
+      "bangla": "জাদুকরী",
+      "example": "It was a magical moment.",
+      "exampleBn": "এটি একটি জাদুকরী মুহূর্ত ছিল।"
+    },
+    {
+      "word": "mail",
+      "phonetic": "/meɪl/",
+      "meaning": "letters or parcels sent by post",
+      "bangla": "চিঠি / ডাক",
+      "example": "I received a mail today.",
+      "exampleBn": "আমি আজ একটি চিঠি পেয়েছি।"
+    },
+    {
+      "word": "novel",
+      "phonetic": "/ˈnɒvl/",
+      "meaning": "a long fictional book",
+      "bangla": "উপন্যাস",
+      "example": "She reads a novel every week.",
+      "exampleBn": "সে প্রতি সপ্তাহে একটি উপন্যাস পড়ে।"
+    },
+    {
+      "word": "outline",
+      "phonetic": "/ˈaʊtlaɪn/",
+      "meaning": "a general plan or summary",
+      "bangla": "রূপরেখা",
+      "example": "Write an outline first.",
+      "exampleBn": "প্রথমে একটি রূপরেখা লেখো।"
+    },
+    {
+      "word": "poet",
+      "phonetic": "/ˈpoʊɪt/",
+      "meaning": "a person who writes poems",
+      "bangla": "কবি",
+      "example": "He is a famous poet.",
+      "exampleBn": "সে একজন বিখ্যাত কবি।"
+    },
+    {
+      "word": "print",
+      "phonetic": "/prɪnt/",
+      "meaning": "to produce text or images on paper",
+      "bangla": "মুদ্রণ করা",
+      "example": "Please print this page.",
+      "exampleBn": "অনুগ্রহ করে এই পৃষ্ঠাটি মুদ্রণ করো।"
+    },
+    {
+      "word": "scene",
+      "phonetic": "/siːn/",
+      "meaning": "a place or part of a story or film",
+      "bangla": "দৃশ্য",
+      "example": "It was a beautiful scene.",
+      "exampleBn": "এটি একটি সুন্দর দৃশ্য ছিল।"
+    },
+    {
+      "word": "sheet",
+      "phonetic": "/ʃiːt/",
+      "meaning": "a flat piece of paper or fabric",
+      "bangla": "পাতা / চাদর",
+      "example": "Write on a clean sheet.",
+      "exampleBn": "একটি পরিষ্কার পাতায় লেখো।"
+    },
+    {
+      "word": "silly",
+      "phonetic": "/ˈsɪli/",
+      "meaning": "foolish or not serious",
+      "bangla": "বোকামি / হাস্যকর",
+      "example": "That was a silly mistake.",
+      "exampleBn": "এটি একটি বোকামির ভুল ছিল।"
+    },
+    {
+      "word": "store",
+      "phonetic": "/stɔːr/",
+      "meaning": "a place where things are sold or kept",
+      "bangla": "দোকান / সংরক্ষণ করা",
+      "example": "I went to the store.",
+      "exampleBn": "আমি দোকানে গেলাম।"
+    },
+    {
+      "word": "suffer",
+      "phonetic": "/ˈsʌfər/",
+      "meaning": "to experience pain or hardship",
+      "bangla": "কষ্ট পাওয়া",
+      "example": "He suffers from cold.",
+      "exampleBn": "সে ঠান্ডায় কষ্ট পায়।"
+    },
+    {
+      "word": "technology",
+      "phonetic": "/tekˈnɒlədʒi/",
+      "meaning": "the use of science for practical purposes",
+      "bangla": "প্রযুক্তি",
+      "example": "Technology changes our life.",
+      "exampleBn": "প্রযুক্তি আমাদের জীবন পরিবর্তন করে।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "football coach",
+      "bangla": "ফুটবল প্রশিক্ষক",
+      "usage": "sport",
+      "example": "He is a football coach."
+    },
+    {
+      "phrase": "control feelings",
+      "bangla": "আবেগ নিয়ন্ত্রণ করা",
+      "usage": "emotion",
+      "example": "Control your feelings."
+    },
+    {
+      "phrase": "clear description",
+      "bangla": "স্পষ্ট বিবরণ",
+      "usage": "communication",
+      "example": "Give a clear description."
+    },
+    {
+      "phrase": "direct answer",
+      "bangla": "সরাসরি উত্তর",
+      "usage": "honesty",
+      "example": "Give a direct answer."
+    },
+    {
+      "phrase": "pass exam",
+      "bangla": "পরীক্ষায় উত্তীর্ণ হওয়া",
+      "usage": "education",
+      "example": "I passed the exam."
+    },
+    {
+      "phrase": "give example",
+      "bangla": "উদাহরণ দেওয়া",
+      "usage": "explanation",
+      "example": "Give me an example."
+    },
+    {
+      "phrase": "set a limit",
+      "bangla": "সীমা নির্ধারণ করা",
+      "usage": "boundary",
+      "example": "Set a limit for yourself."
+    },
+    {
+      "phrase": "local market",
+      "bangla": "স্থানীয় বাজার",
+      "usage": "community",
+      "example": "Visit the local market."
+    },
+    {
+      "phrase": "magical moment",
+      "bangla": "জাদুকরী মুহূর্ত",
+      "usage": "feeling",
+      "example": "It was a magical moment."
+    },
+    {
+      "phrase": "send mail",
+      "bangla": "চিঠি পাঠানো",
+      "usage": "communication",
+      "example": "Send a mail today."
+    },
+    {
+      "phrase": "read novel",
+      "bangla": "উপন্যাস পড়া",
+      "usage": "reading",
+      "example": "She reads a novel."
+    },
+    {
+      "phrase": "write outline",
+      "bangla": "রূপরেখা লেখা",
+      "usage": "planning",
+      "example": "Write an outline first."
+    },
+    {
+      "phrase": "famous poet",
+      "bangla": "বিখ্যাত কবি",
+      "usage": "literature",
+      "example": "He is a famous poet."
+    },
+    {
+      "phrase": "print document",
+      "bangla": "নথি মুদ্রণ করা",
+      "usage": "work",
+      "example": "Print the document."
+    },
+    {
+      "phrase": "opening scene",
+      "bangla": "শুরুর দৃশ্য",
+      "usage": "film/story",
+      "example": "The opening scene was great."
+    },
+    {
+      "phrase": "blank sheet",
+      "bangla": "ফাঁকা পাতা",
+      "usage": "writing",
+      "example": "Use a blank sheet."
+    },
+    {
+      "phrase": "silly mistake",
+      "bangla": "বোকামির ভুল",
+      "usage": "error",
+      "example": "Avoid silly mistakes."
+    },
+    {
+      "phrase": "grocery store",
+      "bangla": "মুদি দোকান",
+      "usage": "shopping",
+      "example": "I went to the grocery store."
+    },
+    {
+      "phrase": "suffer pain",
+      "bangla": "ব্যথায় কষ্ট পাওয়া",
+      "usage": "hardship",
+      "example": "He suffers pain daily."
+    },
+    {
+      "phrase": "modern technology",
+      "bangla": "আধুনিক প্রযুক্তি",
+      "usage": "science",
+      "example": "Modern technology helps us."
+    }
+  ],
+
+  "sentences": [
+    { "en": "The coach is strict.", "bn": "প্রশিক্ষক কঠোর।" },
+    { "en": "Control your anger.", "bn": "তোমার রাগ নিয়ন্ত্রণ করো।" },
+    { "en": "Write a description.", "bn": "একটি বিবরণ লেখো।" },
+    { "en": "Give a direct reply.", "bn": "সরাসরি উত্তর দাও।" },
+    { "en": "The exam was hard.", "bn": "পরীক্ষাটি কঠিন ছিল।" },
+    { "en": "Show me an example.", "bn": "আমাকে একটি উদাহরণ দেখাও।" },
+    { "en": "There is a limit.", "bn": "একটি সীমা আছে।" },
+    { "en": "Buy from a local shop.", "bn": "স্থানীয় দোকান থেকে কিনুন।" },
+    { "en": "It felt magical.", "bn": "এটি জাদুকরী অনুভব হলো।" },
+    { "en": "I got a mail.", "bn": "আমি একটি চিঠি পেলাম।" },
+    { "en": "I love this novel.", "bn": "আমি এই উপন্যাসটি ভালোবাসি।" },
+    { "en": "Make an outline.", "bn": "একটি রূপরেখা তৈরি করো।" },
+    { "en": "She is a great poet.", "bn": "সে একজন দুর্দান্ত কবি।" },
+    { "en": "Print the sheet.", "bn": "পাতাটি মুদ্রণ করো।" },
+    { "en": "That scene was sad.", "bn": "সেই দৃশ্যটি দুঃখজনক ছিল।" },
+    { "en": "Use a clean sheet.", "bn": "একটি পরিষ্কার পাতা ব্যবহার করো।" },
+    { "en": "Don't be silly.", "bn": "বোকার মতো কাজ করো না।" },
+    { "en": "The store is open.", "bn": "দোকানটি খোলা আছে।" },
+    { "en": "Nobody should suffer.", "bn": "কারো কষ্ট পাওয়া উচিত নয়।" },
+    { "en": "Technology helps us.", "bn": "প্রযুক্তি আমাদের সাহায্য করে।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Coach means?",
+      "opts": ["player", "trainer", "student", "judge"],
+      "ans": 1,
+      "explanation": "Coach means a person who trains or guides others."
+    },
+    {
+      "q": "Control means?",
+      "opts": ["lose", "have power over", "ignore", "break"],
+      "ans": 1,
+      "explanation": "Control means to have power over something."
+    },
+    {
+      "q": "Description means?",
+      "opts": ["question", "account of something", "joke", "order"],
+      "ans": 1,
+      "explanation": "Description means a spoken or written account of something."
+    },
+    {
+      "q": "Direct means?",
+      "opts": ["hidden", "straight to a point", "slow", "confused"],
+      "ans": 1,
+      "explanation": "Direct means going straight to a point."
+    },
+    {
+      "q": "Exam means?",
+      "opts": ["game", "formal test", "class", "break"],
+      "ans": 1,
+      "explanation": "Exam means a formal test of knowledge."
+    },
+    {
+      "q": "Example means?",
+      "opts": ["problem", "something to show or explain", "rule", "limit"],
+      "ans": 1,
+      "explanation": "Example means something used to show or explain."
+    },
+    {
+      "q": "Limit means?",
+      "opts": ["freedom", "maximum or minimum allowed", "speed", "color"],
+      "ans": 1,
+      "explanation": "Limit means the most or least amount allowed."
+    },
+    {
+      "q": "Local means?",
+      "opts": ["foreign", "related to nearby area", "global", "ancient"],
+      "ans": 1,
+      "explanation": "Local means related to a nearby area."
+    },
+    {
+      "q": "Magical means?",
+      "opts": ["boring", "enchanting and special", "loud", "hard"],
+      "ans": 1,
+      "explanation": "Magical means having a special and enchanting quality."
+    },
+    {
+      "q": "Mail means?",
+      "opts": ["food", "letters or parcels", "money", "book"],
+      "ans": 1,
+      "explanation": "Mail means letters or parcels sent by post."
+    },
+    {
+      "q": "Novel means?",
+      "opts": ["poem", "long fictional book", "article", "note"],
+      "ans": 1,
+      "explanation": "Novel means a long fictional book."
+    },
+    {
+      "q": "Outline means?",
+      "opts": ["final result", "general plan or summary", "mistake", "color"],
+      "ans": 1,
+      "explanation": "Outline means a general plan or summary."
+    },
+    {
+      "q": "Poet means?",
+      "opts": ["painter", "person who writes poems", "singer", "dancer"],
+      "ans": 1,
+      "explanation": "Poet means a person who writes poems."
+    },
+    {
+      "q": "Print means?",
+      "opts": ["erase", "produce text on paper", "hide", "fold"],
+      "ans": 1,
+      "explanation": "Print means to produce text or images on paper."
+    },
+    {
+      "q": "Scene means?",
+      "opts": ["sound", "place or part of a story", "smell", "taste"],
+      "ans": 1,
+      "explanation": "Scene means a place or part of a story or film."
+    },
+    {
+      "q": "Sheet means?",
+      "opts": ["table", "flat piece of paper or fabric", "box", "rope"],
+      "ans": 1,
+      "explanation": "Sheet means a flat piece of paper or fabric."
+    },
+    {
+      "q": "Silly means?",
+      "opts": ["smart", "foolish or not serious", "brave", "calm"],
+      "ans": 1,
+      "explanation": "Silly means foolish or not serious."
+    },
+    {
+      "q": "Store means?",
+      "opts": ["road", "place to sell or keep things", "park", "river"],
+      "ans": 1,
+      "explanation": "Store means a place where things are sold or kept."
+    },
+    {
+      "q": "Suffer means?",
+      "opts": ["enjoy", "experience pain or hardship", "laugh", "win"],
+      "ans": 1,
+      "explanation": "Suffer means to experience pain or hardship."
+    },
+    {
+      "q": "Technology means?",
+      "opts": [
+        "history",
+        "use of science for practical purposes",
+        "art",
+        "music"
+      ],
+      "ans": 1,
+      "explanation": "Technology means the use of science for practical purposes."
+    }
+  ],
+
+  "story": {
+    "title": "The Poet and the Coach",
+    "body": "In a small local town, there lived a young poet named Arif. He loved to write scenes from daily life on every blank sheet he could find. One day, his school announced an exam on creative writing. Arif wanted to take part, but he had no control over his nervousness. His coach, Mr. Reza, gave him a direct piece of advice: write an outline before you begin, and give a clear description of each scene. Arif followed this example. He visited the local store to buy a notebook, sat down quietly, and started writing. He did not let silly thoughts distract him. He wrote about a magical forest and a creature that suffered alone until technology brought it help. He printed his story on clean sheets and mailed it to the school board. On exam day, everyone loved his novel style of writing. The coach smiled and said, 'You have no limit when you believe in yourself.' Arif never forgot those words.",
+    "comprehension": [
+      {
+        "q": "What was Arif's profession?",
+        "opts": ["teacher", "poet", "doctor", "coach"],
+        "ans": 1
+      },
+      {
+        "q": "What did the coach tell Arif to write first?",
+        "opts": ["description", "outline", "scene", "mail"],
+        "ans": 1
+      },
+      {
+        "q": "Where did Arif buy his notebook?",
+        "opts": ["online", "local store", "library", "school"],
+        "ans": 1
+      },
+      {
+        "q": "What did Arif do with his story?",
+        "opts": ["deleted it", "mailed it", "burned it", "hid it"],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "poet",
+      "coach",
+      "exam",
+      "outline",
+      "scene",
+      "technology",
+      "local",
+      "store",
+      "mail",
+      "magical",
+      "suffer",
+      "limit"
+    ]
+  },
+
+  "listening": {
+    "title": "Preparing for the Exam",
+    "script": "A: Did you prepare for the exam?\nB: Yes, my coach helped me a lot.\nA: What did the coach say?\nB: She gave a direct description of each topic.\nA: Did you write an outline?\nB: Yes, on a blank sheet.\nA: Did you use any technology?\nB: I printed examples from the internet.\nA: What if you make a silly mistake?\nB: I will control my nerves.\nA: Where did you study?\nB: At the local store cafe.\nA: That sounds magical!\nB: It really was. I don't want to suffer in the exam.\nA: You will do great. No limit to your effort!\nB: Thank you. I feel like a poet today.",
+    "comprehension": [
+      {
+        "q": "Who helped B prepare?",
+        "opts": ["friend", "coach", "parent", "teacher"],
+        "ans": 1
+      },
+      {
+        "q": "What did B use to find examples?",
+        "opts": ["library", "technology", "notebook", "mail"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "My Favourite Book or Story",
+    "prompt": "Describe your favourite novel or story. Use words like scene, poet, description, magical, and example.",
+    "example": "My favourite novel has a magical scene where the poet writes on a blank sheet. The description of the forest is so clear. For example, the trees seem to speak. It makes me feel calm and happy.",
+    "tips": [
+      "Describe a specific scene you like",
+      "Use adjectives to make it vivid",
+      "Give at least one example",
+      "Express how it makes you feel"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Talking about preparing for an exam",
+    "steps": [
+      { "speaker": "app", "text": "Are you ready for your exam?" },
+      { "speaker": "user", "prompt": "Say yes or no and give a reason." },
+      { "speaker": "app", "text": "Did your coach or teacher help you?" },
+      { "speaker": "user", "prompt": "Describe what advice they gave." },
+      { "speaker": "app", "text": "What technology did you use to study?" },
+      {
+        "speaker": "user",
+        "prompt": "Explain how technology helped you prepare."
+      }
+    ]
+  }
+}
