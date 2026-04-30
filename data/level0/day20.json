@@ -1,0 +1,780 @@
+{
+  "day": 20,
+  "topic": "Goals, Values & Everyday Choices Vocabulary",
+  "lessonId": "L0D20",
+  "vocabulary": [
+    {
+      "word": "achieve",
+      "phonetic": "/əˈtʃiːv/",
+      "meaning": "to successfully reach a goal through effort",
+      "bangla": "অর্জন করা",
+      "example": "She achieved her dream.",
+      "exampleBn": "সে তার স্বপ্ন অর্জন করল।"
+    },
+    {
+      "word": "advise",
+      "phonetic": "/ədˈvaɪz/",
+      "meaning": "to give a recommendation or suggestion to someone",
+      "bangla": "পরামর্শ দেওয়া",
+      "example": "I advise you to study daily.",
+      "exampleBn": "আমি তোমাকে প্রতিদিন পড়াশোনা করার পরামর্শ দিই।"
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈredi/",
+      "meaning": "before now or before a particular time",
+      "bangla": "ইতিমধ্যে / আগেই",
+      "example": "I have already finished.",
+      "exampleBn": "আমি ইতিমধ্যে শেষ করেছি।"
+    },
+    {
+      "word": "basic",
+      "phonetic": "/ˈbeɪsɪk/",
+      "meaning": "forming the simplest or most essential part",
+      "bangla": "মৌলিক / প্রাথমিক",
+      "example": "Food is a basic need.",
+      "exampleBn": "খাবার একটি মৌলিক প্রয়োজন।"
+    },
+    {
+      "word": "bit",
+      "phonetic": "/bɪt/",
+      "meaning": "a small amount or piece of something",
+      "bangla": "একটু / সামান্য",
+      "example": "Can I have a bit more?",
+      "exampleBn": "আমি কি আর একটু পেতে পারি?"
+    },
+    {
+      "word": "consider",
+      "phonetic": "/kənˈsɪdər/",
+      "meaning": "to think carefully about something",
+      "bangla": "বিবেচনা করা",
+      "example": "Consider all your options.",
+      "exampleBn": "তোমার সব বিকল্প বিবেচনা করো।"
+    },
+    {
+      "word": "destroy",
+      "phonetic": "/dɪˈstrɔɪ/",
+      "meaning": "to damage something so badly it cannot be used",
+      "bangla": "ধ্বংস করা",
+      "example": "Fire destroyed the building.",
+      "exampleBn": "আগুন ভবনটি ধ্বংস করে দিল।"
+    },
+    {
+      "word": "entertain",
+      "phonetic": "/ˌentəˈteɪn/",
+      "meaning": "to provide enjoyment or amusement for someone",
+      "bangla": "বিনোদন দেওয়া",
+      "example": "He entertains the crowd.",
+      "exampleBn": "সে দর্শকদের বিনোদন দেয়।"
+    },
+    {
+      "word": "extra",
+      "phonetic": "/ˈekstrə/",
+      "meaning": "more than what is usual or necessary",
+      "bangla": "অতিরিক্ত / বাড়তি",
+      "example": "She did extra work today.",
+      "exampleBn": "সে আজ অতিরিক্ত কাজ করল।"
+    },
+    {
+      "word": "goal",
+      "phonetic": "/ɡoʊl/",
+      "meaning": "an aim or desired result one works toward",
+      "bangla": "লক্ষ্য",
+      "example": "My goal is to learn English.",
+      "exampleBn": "আমার লক্ষ্য ইংরেজি শেখা।"
+    },
+    {
+      "word": "lie",
+      "phonetic": "/laɪ/",
+      "meaning": "to say something that is not true; to rest flat",
+      "bangla": "মিথ্যা বলা / শুয়ে থাকা",
+      "example": "Never lie to your friends.",
+      "exampleBn": "কখনো বন্ধুদের সাথে মিথ্যা বলো না।"
+    },
+    {
+      "word": "meat",
+      "phonetic": "/miːt/",
+      "meaning": "the flesh of an animal used as food",
+      "bangla": "মাংস",
+      "example": "He eats meat every day.",
+      "exampleBn": "সে প্রতিদিন মাংস খায়।"
+    },
+    {
+      "word": "opinion",
+      "phonetic": "/əˈpɪnjən/",
+      "meaning": "a personal view or judgment about something",
+      "bangla": "মতামত",
+      "example": "In my opinion, this is wrong.",
+      "exampleBn": "আমার মতামতে এটি ভুল।"
+    },
+    {
+      "word": "real",
+      "phonetic": "/riːl/",
+      "meaning": "actually existing or true; not imaginary or fake",
+      "bangla": "বাস্তব / সত্যিকারের",
+      "example": "Is this a real diamond?",
+      "exampleBn": "এটি কি একটি আসল হীরা?"
+    },
+    {
+      "word": "reflect",
+      "phonetic": "/rɪˈflekt/",
+      "meaning": "to think deeply about something; to show an image",
+      "bangla": "প্রতিফলিত করা / গভীরভাবে ভাবা",
+      "example": "Take time to reflect on your actions.",
+      "exampleBn": "তোমার কাজের বিষয়ে গভীরভাবে ভাবার সময় নাও।"
+    },
+    {
+      "word": "regard",
+      "phonetic": "/rɪˈɡɑːrd/",
+      "meaning": "to think of something in a particular way; respect",
+      "bangla": "মনে করা / সম্মান করা",
+      "example": "I regard her as my teacher.",
+      "exampleBn": "আমি তাকে আমার শিক্ষক মনে করি।"
+    },
+    {
+      "word": "serve",
+      "phonetic": "/sɜːrv/",
+      "meaning": "to give food or help to someone; to work for",
+      "bangla": "পরিবেশন করা / সেবা করা",
+      "example": "She serves food to the guests.",
+      "exampleBn": "সে অতিথিদের খাবার পরিবেশন করে।"
+    },
+    {
+      "word": "vegetable",
+      "phonetic": "/ˈvedʒtəbl/",
+      "meaning": "a plant or part of a plant used as food",
+      "bangla": "সবজি",
+      "example": "Eat vegetables every day.",
+      "exampleBn": "প্রতিদিন সবজি খাও।"
+    },
+    {
+      "word": "war",
+      "phonetic": "/wɔːr/",
+      "meaning": "an armed conflict between countries or groups",
+      "bangla": "যুদ্ধ",
+      "example": "War destroys everything.",
+      "exampleBn": "যুদ্ধ সবকিছু ধ্বংস করে।"
+    },
+    {
+      "word": "worth",
+      "phonetic": "/wɜːrθ/",
+      "meaning": "having a value equal to; deserving of",
+      "bangla": "মূল্যবান / যোগ্য",
+      "example": "This book is worth reading.",
+      "exampleBn": "এই বইটি পড়ার যোগ্য।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "achieve a goal",
+      "bangla": "লক্ষ্য অর্জন করা",
+      "usage": "motivation",
+      "example": "She worked hard to achieve her goal."
+    },
+    {
+      "phrase": "advise carefully",
+      "bangla": "সতর্কতার সাথে পরামর্শ দেওয়া",
+      "usage": "guidance",
+      "example": "A good teacher advises carefully."
+    },
+    {
+      "phrase": "already done",
+      "bangla": "ইতিমধ্যে সম্পন্ন",
+      "usage": "completion",
+      "example": "The work is already done."
+    },
+    {
+      "phrase": "basic skill",
+      "bangla": "মৌলিক দক্ষতা",
+      "usage": "education",
+      "example": "Reading is a basic skill every child needs."
+    },
+    {
+      "phrase": "a bit difficult",
+      "bangla": "একটু কঠিন",
+      "usage": "description",
+      "example": "The question was a bit difficult."
+    },
+    {
+      "phrase": "consider carefully",
+      "bangla": "সাবধানে বিবেচনা করা",
+      "usage": "decision",
+      "example": "Consider carefully before making a choice."
+    },
+    {
+      "phrase": "destroy hope",
+      "bangla": "আশা ধ্বংস করা",
+      "usage": "emotion",
+      "example": "Failure should never destroy your hope."
+    },
+    {
+      "phrase": "entertain guests",
+      "bangla": "অতিথিদের বিনোদন দেওয়া",
+      "usage": "hospitality",
+      "example": "He always knows how to entertain guests."
+    },
+    {
+      "phrase": "extra effort",
+      "bangla": "অতিরিক্ত প্রচেষ্টা",
+      "usage": "work",
+      "example": "She put in extra effort to finish on time."
+    },
+    {
+      "phrase": "set a goal",
+      "bangla": "লক্ষ্য নির্ধারণ করা",
+      "usage": "planning",
+      "example": "Set a goal and work toward it every day."
+    },
+    {
+      "phrase": "tell a lie",
+      "bangla": "মিথ্যা বলা",
+      "usage": "honesty",
+      "example": "It is wrong to tell a lie."
+    },
+    {
+      "phrase": "fresh meat",
+      "bangla": "তাজা মাংস",
+      "usage": "food",
+      "example": "Always buy fresh meat from a trusted seller."
+    },
+    {
+      "phrase": "share an opinion",
+      "bangla": "মতামত শেয়ার করা",
+      "usage": "communication",
+      "example": "Everyone is free to share an opinion."
+    },
+    {
+      "phrase": "real problem",
+      "bangla": "বাস্তব সমস্যা",
+      "usage": "situation",
+      "example": "Poverty is a real problem in many countries."
+    },
+    {
+      "phrase": "reflect on the past",
+      "bangla": "অতীত নিয়ে ভাবা",
+      "usage": "self-growth",
+      "example": "It is healthy to reflect on the past sometimes."
+    },
+    {
+      "phrase": "regard with respect",
+      "bangla": "সম্মানের সাথে দেখা",
+      "usage": "attitude",
+      "example": "We regard our teachers with respect."
+    },
+    {
+      "phrase": "serve the community",
+      "bangla": "সমাজের সেবা করা",
+      "usage": "social",
+      "example": "Doctors serve the community every day."
+    },
+    {
+      "phrase": "fresh vegetable",
+      "bangla": "তাজা সবজি",
+      "usage": "health",
+      "example": "She buys fresh vegetables from the market."
+    },
+    {
+      "phrase": "end a war",
+      "bangla": "যুদ্ধ শেষ করা",
+      "usage": "peace",
+      "example": "The whole world wants to end every war."
+    },
+    {
+      "phrase": "worth the effort",
+      "bangla": "প্রচেষ্টার যোগ্য",
+      "usage": "motivation",
+      "example": "Every extra effort is worth it in the end."
+    }
+  ],
+
+  "sentences": [
+    {
+      "en": "He worked for years to achieve his basic goal in life.",
+      "bn": "সে জীবনে তার মৌলিক লক্ষ্য অর্জন করতে বছরের পর বছর কাজ করল।"
+    },
+    {
+      "en": "I advise you to consider all your options before deciding.",
+      "bn": "সিদ্ধান্ত নেওয়ার আগে আমি তোমাকে সব বিকল্প বিবেচনা করার পরামর্শ দিই।"
+    },
+    {
+      "en": "She has already served the guests their meal.",
+      "bn": "সে ইতিমধ্যে অতিথিদের খাবার পরিবেশন করেছে।"
+    },
+    {
+      "en": "Water and food are the most basic needs of every living thing.",
+      "bn": "পানি ও খাবার প্রতিটি জীবের সবচেয়ে মৌলিক প্রয়োজন।"
+    },
+    {
+      "en": "Can you wait a bit while I gather the extra items?",
+      "bn": "আমি অতিরিক্ত জিনিসগুলো সংগ্রহ করার সময় কি তুমি একটু অপেক্ষা করতে পারবে?"
+    },
+    {
+      "en": "You must consider the real cost before you purchase any property.",
+      "bn": "কোনো সম্পত্তি কেনার আগে তোমাকে বাস্তব খরচ বিবেচনা করতে হবে।"
+    },
+    {
+      "en": "War destroys not only buildings but also the hopes of an entire generation.",
+      "bn": "যুদ্ধ শুধু ভবন নয়, পুরো একটি প্রজন্মের আশাও ধ্বংস করে দেয়।"
+    },
+    {
+      "en": "A good storyteller can entertain a crowd for hours without stopping.",
+      "bn": "একজন ভালো গল্পকার ভিড়কে ঘণ্টার পর ঘণ্টা না থেমে বিনোদন দিতে পারেন।"
+    },
+    {
+      "en": "She always puts in extra effort when the goal is worth achieving.",
+      "bn": "যখন লক্ষ্যটি অর্জনের যোগ্য তখন সে সবসময় অতিরিক্ত প্রচেষ্টা দেয়।"
+    },
+    {
+      "en": "Setting a clear goal is the first basic step toward success.",
+      "bn": "একটি স্পষ্ট লক্ষ্য নির্ধারণ করা সাফল্যের দিকে প্রথম মৌলিক পদক্ষেপ।"
+    },
+    {
+      "en": "It is never worth it to tell a lie to protect yourself.",
+      "bn": "নিজেকে রক্ষা করতে মিথ্যা বলা কখনো যোগ্য নয়।"
+    },
+    {
+      "en": "She prepared a dish with fresh vegetables and a bit of meat.",
+      "bn": "সে তাজা সবজি ও সামান্য মাংস দিয়ে একটি পদ তৈরি করল।"
+    },
+    {
+      "en": "In my opinion, we should regard every person with equal respect.",
+      "bn": "আমার মতামতে আমাদের প্রতিটি মানুষকে সমান সম্মানের সাথে দেখা উচিত।"
+    },
+    {
+      "en": "The painting reflects the real beauty of life in the countryside.",
+      "bn": "ছবিটি গ্রামীণ জীবনের বাস্তব সৌন্দর্য প্রতিফলিত করে।"
+    },
+    {
+      "en": "Take a bit of time each evening to reflect on what you have achieved.",
+      "bn": "প্রতি সন্ধ্যায় একটু সময় নাও তুমি কী অর্জন করেছ তা নিয়ে ভাবতে।"
+    },
+    {
+      "en": "I regard her opinion as one of the most valuable I have ever heard.",
+      "bn": "আমি তার মতামতকে এখন পর্যন্ত শোনা সবচেয়ে মূল্যবান একটি হিসেবে মনে করি।"
+    },
+    {
+      "en": "The volunteers serve fresh vegetables and meat to those in need every weekend.",
+      "bn": "স্বেচ্ছাসেবকরা প্রতি সপ্তাহান্তে অভাবগ্রস্তদের তাজা সবজি ও মাংস পরিবেশন করে।"
+    },
+    {
+      "en": "Eating more vegetables and a bit less meat is good for your health.",
+      "bn": "বেশি সবজি খাওয়া এবং একটু কম মাংস খাওয়া তোমার স্বাস্থ্যের জন্য ভালো।"
+    },
+    {
+      "en": "The war destroyed the entire village and left nothing behind.",
+      "bn": "যুদ্ধ পুরো গ্রামটি ধ্বংস করে দিল এবং পেছনে কিছুই রেখে গেল না।"
+    },
+    {
+      "en": "Every bit of extra work you do today is worth it for your future.",
+      "bn": "আজকে তুমি যে সামান্য অতিরিক্ত কাজ করছ তা তোমার ভবিষ্যতের জন্য মূল্যবান।"
+    }
+  ],
+
+  "quiz": [
+    {
+      "q": "Achieve means?",
+      "opts": [
+        "to fail completely",
+        "to successfully reach a goal through effort",
+        "to destroy a plan",
+        "to lie about results"
+      ],
+      "ans": 1,
+      "explanation": "Achieve means to successfully bring about a desired result through effort and determination."
+    },
+    {
+      "q": "Advise means?",
+      "opts": [
+        "to ignore someone's problem",
+        "to give a recommendation or suggestion",
+        "to argue about opinions",
+        "to serve extra food"
+      ],
+      "ans": 1,
+      "explanation": "Advise means to give someone a recommendation about what they should do."
+    },
+    {
+      "q": "Already means?",
+      "opts": [
+        "not yet happened",
+        "before now or before a particular time",
+        "happening right now",
+        "happening much later"
+      ],
+      "ans": 1,
+      "explanation": "Already means something has happened before now or earlier than expected."
+    },
+    {
+      "q": "Basic means?",
+      "opts": [
+        "complicated and advanced",
+        "forming the simplest or most essential part",
+        "extra and unnecessary",
+        "real and valuable"
+      ],
+      "ans": 1,
+      "explanation": "Basic means forming the essential foundation or the most simple and necessary part."
+    },
+    {
+      "q": "Bit means?",
+      "opts": [
+        "a very large amount",
+        "a small amount or piece of something",
+        "an exact measure",
+        "a complete portion"
+      ],
+      "ans": 1,
+      "explanation": "Bit means a small amount, piece, or degree of something."
+    },
+    {
+      "q": "Consider means?",
+      "opts": [
+        "to act without thinking",
+        "to think carefully about something",
+        "to destroy an idea",
+        "to serve immediately"
+      ],
+      "ans": 1,
+      "explanation": "Consider means to think carefully about something before making a decision."
+    },
+    {
+      "q": "Destroy means?",
+      "opts": [
+        "to build something new",
+        "to damage something so badly it cannot be used",
+        "to achieve a goal",
+        "to reflect on the past"
+      ],
+      "ans": 1,
+      "explanation": "Destroy means to cause so much damage that something no longer exists or functions."
+    },
+    {
+      "q": "Entertain means?",
+      "opts": [
+        "to bore or ignore people",
+        "to provide enjoyment or amusement",
+        "to advise carefully",
+        "to regard with respect"
+      ],
+      "ans": 1,
+      "explanation": "Entertain means to provide someone with enjoyment, amusement, or pleasure."
+    },
+    {
+      "q": "Extra means?",
+      "opts": [
+        "less than needed",
+        "more than what is usual or necessary",
+        "exactly the right amount",
+        "basic and simple"
+      ],
+      "ans": 1,
+      "explanation": "Extra means added to an existing or usual amount; more than what is normally required."
+    },
+    {
+      "q": "Goal means?",
+      "opts": [
+        "a type of lie",
+        "an aim or desired result one works toward",
+        "a basic vegetable",
+        "a real problem"
+      ],
+      "ans": 1,
+      "explanation": "Goal means an aim or objective that a person works toward achieving."
+    },
+    {
+      "q": "Lie means?",
+      "opts": [
+        "to speak the full truth",
+        "to say something that is not true",
+        "to serve food carefully",
+        "to achieve extra results"
+      ],
+      "ans": 1,
+      "explanation": "Lie means to make an untrue statement with the intention to deceive someone."
+    },
+    {
+      "q": "Meat means?",
+      "opts": [
+        "a type of vegetable",
+        "the flesh of an animal used as food",
+        "a basic tool",
+        "an extra dish"
+      ],
+      "ans": 1,
+      "explanation": "Meat means the flesh of an animal, especially a mammal, used as food."
+    },
+    {
+      "q": "Opinion means?",
+      "opts": [
+        "a confirmed fact",
+        "a personal view or judgment about something",
+        "a basic truth",
+        "a real achievement"
+      ],
+      "ans": 1,
+      "explanation": "Opinion means a personal belief, view, or judgment formed about a topic."
+    },
+    {
+      "q": "Real means?",
+      "opts": [
+        "imaginary or fake",
+        "actually existing or true",
+        "a bit unclear",
+        "extra and added"
+      ],
+      "ans": 1,
+      "explanation": "Real means actually existing or occurring in fact; not imagined or made up."
+    },
+    {
+      "q": "Reflect means?",
+      "opts": [
+        "to act without thinking",
+        "to think deeply or show an image back",
+        "to destroy a surface",
+        "to serve extra portions"
+      ],
+      "ans": 1,
+      "explanation": "Reflect means to think carefully and deeply about something, or to show an image back."
+    },
+    {
+      "q": "Regard means?",
+      "opts": [
+        "to ignore completely",
+        "to think of in a certain way or to respect",
+        "to destroy with effort",
+        "to achieve a goal quickly"
+      ],
+      "ans": 1,
+      "explanation": "Regard means to consider or think of someone or something in a particular way, or to show respect."
+    },
+    {
+      "q": "Serve means?",
+      "opts": [
+        "to take food away",
+        "to give food or help to someone",
+        "to lie about results",
+        "to destroy the goal"
+      ],
+      "ans": 1,
+      "explanation": "Serve means to give food or drink to someone, or to work for or help others."
+    },
+    {
+      "q": "Vegetable means?",
+      "opts": [
+        "the flesh of an animal",
+        "a plant or part of a plant used as food",
+        "an extra ingredient",
+        "a basic tool"
+      ],
+      "ans": 1,
+      "explanation": "Vegetable means a plant or part of a plant that is eaten as food, such as carrots or spinach."
+    },
+    {
+      "q": "War means?",
+      "opts": [
+        "a peaceful celebration",
+        "an armed conflict between countries or groups",
+        "a basic agreement",
+        "a real achievement"
+      ],
+      "ans": 1,
+      "explanation": "War means a state of armed conflict between different countries, states, or groups."
+    },
+    {
+      "q": "Worth means?",
+      "opts": [
+        "having no value",
+        "having a value equal to or deserving of",
+        "extra and unnecessary",
+        "basic and simple"
+      ],
+      "ans": 1,
+      "explanation": "Worth means having a value equal to a specified amount or deserving of a particular action."
+    }
+  ],
+
+  "story": {
+    "title": "Worth Every Bit",
+    "body": "Kamal was a young man who grew up in a village that had been destroyed by war many years before he was born. The real damage of that war was not only the broken buildings and burned fields — it was the loss of hope that lingered in the hearts of the people who remained. His grandmother, a woman of great wisdom whom everyone in the village regarded with deep respect, had survived the war and rebuilt her life from nothing. She would often sit with Kamal in the evenings, serve him a simple dish of rice with fresh vegetables and a small bit of meat, and share her opinions about life with a calm and steady voice. 'Kamal,' she would say, 'the most basic goal of a human being is not to achieve wealth or fame — it is to serve others and to live without telling a lie.' Kamal listened carefully, and over the years her words became the real foundation of his character. When he grew older, he considered her advice deeply and decided to become a teacher. It was not the easiest path. There were already many educated people in the city who regarded village teaching as a job not worth their effort. But Kamal thought differently. He believed that every child deserved someone who would entertain their curiosity, reflect their potential back to them, and advise them with genuine care. He set a goal: to give every student in his village the basic skills they needed to build a better life. He put in extra hours every day, prepared lessons with care, and never allowed small difficulties to destroy his determination. He would gather the children under a large tree, serve them stories and knowledge the way his grandmother had served him food — with warmth and love. In his opinion, education was the only tool that could truly end the cycle of poverty that war had left behind. After ten years, his students had already begun achieving things no one in the village had imagined possible. Some became doctors, others engineers, and a few became teachers themselves, regarding Kamal as their greatest inspiration. One evening, sitting under the same tree, a former student asked him, 'Was it worth it, sir — all that extra effort, all those years?' Kamal looked across the field, reflected for a moment, and smiled. 'Every bit of it,' he said.",
+    "comprehension": [
+      {
+        "q": "What had destroyed Kamal's village before he was born?",
+        "opts": ["a flood", "war", "a fire in the market", "an earthquake"],
+        "ans": 1
+      },
+      {
+        "q": "What did Kamal's grandmother say was the most basic goal of a human being?",
+        "opts": [
+          "to achieve wealth",
+          "to serve others and live without telling a lie",
+          "to destroy enemies",
+          "to purchase property"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Kamal decide to become when he grew older?",
+        "opts": ["a doctor", "a teacher", "a soldier", "a shopkeeper"],
+        "ans": 1
+      },
+      {
+        "q": "How did Kamal regard his role as a teacher?",
+        "opts": [
+          "as a waste of time",
+          "as a real and worthy goal worth every extra effort",
+          "as a basic job anyone could do",
+          "as something already achieved easily"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What was Kamal's opinion about education?",
+        "opts": [
+          "it was only for the wealthy",
+          "it was the only tool that could end the cycle of poverty",
+          "it was a bit overrated",
+          "it was worth less than farming"
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "achieve",
+      "advise",
+      "already",
+      "basic",
+      "bit",
+      "consider",
+      "destroy",
+      "entertain",
+      "extra",
+      "goal",
+      "lie",
+      "meat",
+      "opinion",
+      "real",
+      "reflect",
+      "regard",
+      "serve",
+      "vegetable",
+      "war",
+      "worth"
+    ]
+  },
+
+  "listening": {
+    "title": "A Conversation About Food, Health and Life Goals",
+    "script": "A: I have already decided to change my diet. I want to eat healthier.\nB: That is a real and worth achieving goal. What changes are you considering?\nA: I want to serve more vegetables in my meals and eat a bit less meat.\nB: I advise you to start with basic changes. Do not destroy your whole routine at once.\nA: In your opinion, what is the best way to begin?\nB: Consider adding one extra vegetable dish to your meals each day.\nA: That sounds achievable. I regard your advice as very practical.\nB: Also reflect on why you want this change. Your real reason will keep you motivated.\nA: I want to achieve better health so I can serve my family more actively.\nB: That is a worthy goal. Have you already spoken to a doctor?\nA: Not yet. I consider that the next basic step.\nB: I recommend it. A doctor can advise you with real knowledge about your body.\nA: I do not want to lie to myself anymore about my habits. They have already destroyed a bit of my health.\nB: That is honest of you. It is worth reflecting on our choices before they become a real problem.\nA: What do you regard as the most important food habit?\nB: In my opinion, eating fresh vegetables every day and avoiding extra processed meat is a real start.\nA: How do you entertain yourself while sticking to a healthy diet?\nB: I cook new dishes. Every meal becomes a bit of an adventure.\nA: I never considered that. Food can entertain too.\nB: Exactly. Regard your meals as something worth enjoying, not just a basic need to fill.",
+    "comprehension": [
+      {
+        "q": "What diet change is the person already considering?",
+        "opts": [
+          "eating more meat",
+          "serving more vegetables and eating a bit less meat",
+          "destroying their current diet completely",
+          "buying extra supplements"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does the friend advise about starting changes?",
+        "opts": [
+          "destroy the whole routine immediately",
+          "start with basic changes one at a time",
+          "lie about old habits",
+          "consider stopping food altogether"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does the person regard as the next basic step?",
+        "opts": [
+          "buying extra vegetables",
+          "speaking to a doctor",
+          "achieving a new goal first",
+          "reflecting on the past"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "How does the friend entertain themselves while eating healthy?",
+        "opts": [
+          "by watching television",
+          "by cooking new dishes and making meals an adventure",
+          "by eating extra meat",
+          "by advising others"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Talking About a Personal Goal and How You Plan to Achieve It",
+    "prompt": "Describe a goal you have set for yourself. Use words like achieve, goal, consider, advise, basic, extra, worth, reflect, and real.",
+    "example": "My real goal this year is to achieve a higher level of English. I consider this a basic and worth pursuing aim because good communication opens many doors. I have already started by spending a bit of extra time each evening reading and practicing. My teacher advised me to reflect on my progress every week and not to lie to myself about my weaknesses. In my opinion, the best way to achieve any goal is to serve the process with patience and extra effort. I regard every small improvement as a real victory. I know it will be worth every bit of effort I put in.",
+    "tips": [
+      "Start by clearly stating your goal and why it is real and important to you",
+      "Use consider and reflect to show thoughtful planning",
+      "Mention any advice you received or would give others",
+      "Talk about the basic steps and any extra effort required",
+      "Share your opinion honestly about whether the goal is worth it",
+      "End with a statement about what you have already achieved so far"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Two friends discussing life goals and personal values",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "What is one real goal you want to achieve this year?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Share your goal and explain why you regard it as worth pursuing."
+      },
+      {
+        "speaker": "app",
+        "text": "Have you already taken any basic steps toward it?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Talk about what you have already done and what extra effort you plan to give."
+      },
+      {
+        "speaker": "app",
+        "text": "What would you advise someone else who has the same goal?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Give advice using words like consider, reflect, and basic."
+      },
+      {
+        "speaker": "app",
+        "text": "In your opinion, what is the biggest thing that can destroy a person's goal?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Share your honest opinion using real examples."
+      },
+      {
+        "speaker": "app",
+        "text": "How do you serve your own motivation when things get a bit difficult?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Explain your method for staying motivated and reflecting on progress."
+      },
+      {
+        "speaker": "app",
+        "text": "Do you think every extra bit of effort is truly worth it in the end?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Reflect and give a thoughtful response about effort, worth, and achieving goals."
+      }
+    ]
+  }
+}

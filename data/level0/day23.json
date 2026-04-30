@@ -1,0 +1,790 @@
+{
+  "day": 23,
+  "topic": "Sports, People & Everyday World Vocabulary",
+  "lessonId": "L0D23",
+  "vocabulary": [
+    {
+      "word": "advance",
+      "phonetic": "/ədˈvæns/",
+      "meaning": "to move forward or make progress",
+      "bangla": "এগিয়ে যাওয়া / অগ্রগতি করা",
+      "example": "The team advanced to the final.",
+      "exampleBn": "দলটি ফাইনালে এগিয়ে গেল।"
+    },
+    {
+      "word": "athlete",
+      "phonetic": "/ˈæθliːt/",
+      "meaning": "a person who is trained in sports or physical activities",
+      "bangla": "ক্রীড়াবিদ / অ্যাথলেট",
+      "example": "She is a professional athlete.",
+      "exampleBn": "সে একজন পেশাদার ক্রীড়াবিদ।"
+    },
+    {
+      "word": "average",
+      "phonetic": "/ˈævərɪdʒ/",
+      "meaning": "the typical or ordinary level; a calculated middle value",
+      "bangla": "গড় / সাধারণ মানের",
+      "example": "His average score is eighty.",
+      "exampleBn": "তার গড় নম্বর আশি।"
+    },
+    {
+      "word": "behavior",
+      "phonetic": "/bɪˈheɪvjər/",
+      "meaning": "the way a person or animal acts",
+      "bangla": "আচরণ",
+      "example": "Her behavior is very polite.",
+      "exampleBn": "তার আচরণ খুব ভদ্র।"
+    },
+    {
+      "word": "behind",
+      "phonetic": "/bɪˈhaɪnd/",
+      "meaning": "at the back of; further back than",
+      "bangla": "পেছনে",
+      "example": "He is behind the others.",
+      "exampleBn": "সে অন্যদের পেছনে আছে।"
+    },
+    {
+      "word": "course",
+      "phonetic": "/kɔːrs/",
+      "meaning": "a series of lessons; a path or route",
+      "bangla": "কোর্স / পথ",
+      "example": "I joined an English course.",
+      "exampleBn": "আমি একটি ইংরেজি কোর্সে যোগ দিলাম।"
+    },
+    {
+      "word": "lower",
+      "phonetic": "/ˈloʊər/",
+      "meaning": "to move something down; less high in position or amount",
+      "bangla": "নামানো / কমানো",
+      "example": "Please lower your voice.",
+      "exampleBn": "দয়া করে তোমার কণ্ঠস্বর কমাও।"
+    },
+    {
+      "word": "match",
+      "phonetic": "/mætʃ/",
+      "meaning": "a sports game; something that fits or is equal to another",
+      "bangla": "ম্যাচ / মিল থাকা",
+      "example": "We won the match yesterday.",
+      "exampleBn": "আমরা গতকাল ম্যাচ জিতলাম।"
+    },
+    {
+      "word": "member",
+      "phonetic": "/ˈmembər/",
+      "meaning": "a person who belongs to a group or organization",
+      "bangla": "সদস্য",
+      "example": "She is a member of our team.",
+      "exampleBn": "সে আমাদের দলের একজন সদস্য।"
+    },
+    {
+      "word": "mental",
+      "phonetic": "/ˈmentl/",
+      "meaning": "relating to the mind or thinking",
+      "bangla": "মানসিক",
+      "example": "Mental health is very important.",
+      "exampleBn": "মানসিক স্বাস্থ্য অত্যন্ত গুরুত্বপূর্ণ।"
+    },
+    {
+      "word": "passenger",
+      "phonetic": "/ˈpæsɪndʒər/",
+      "meaning": "a person who travels in a vehicle but does not drive",
+      "bangla": "যাত্রী",
+      "example": "The passenger sat quietly.",
+      "exampleBn": "যাত্রীটি চুপচাপ বসে ছিল।"
+    },
+    {
+      "word": "personality",
+      "phonetic": "/ˌpɜːrsəˈnæləti/",
+      "meaning": "the combination of qualities that make a person unique",
+      "bangla": "ব্যক্তিত্ব",
+      "example": "She has a bright personality.",
+      "exampleBn": "তার একটি উজ্জ্বল ব্যক্তিত্ব আছে।"
+    },
+    {
+      "word": "poem",
+      "phonetic": "/ˈpoʊɪm/",
+      "meaning": "a piece of writing that expresses feelings using rhythm",
+      "bangla": "কবিতা",
+      "example": "He wrote a beautiful poem.",
+      "exampleBn": "সে একটি সুন্দর কবিতা লিখল।"
+    },
+    {
+      "word": "pole",
+      "phonetic": "/poʊl/",
+      "meaning": "a long thin piece of wood or metal; either end of the earth",
+      "bangla": "খুঁটি / মেরু",
+      "example": "The flag hangs on a pole.",
+      "exampleBn": "পতাকাটি একটি খুঁটিতে ঝুলছে।"
+    },
+    {
+      "word": "remove",
+      "phonetic": "/rɪˈmuːv/",
+      "meaning": "to take something away from its place",
+      "bangla": "সরানো / অপসারণ করা",
+      "example": "Remove your shoes at the door.",
+      "exampleBn": "দরজায় তোমার জুতা সরাও।"
+    },
+    {
+      "word": "safety",
+      "phonetic": "/ˈseɪfti/",
+      "meaning": "the condition of being protected from danger",
+      "bangla": "নিরাপত্তা",
+      "example": "Safety is the top priority.",
+      "exampleBn": "নিরাপত্তা সর্বোচ্চ অগ্রাধিকার।"
+    },
+    {
+      "word": "shoot",
+      "phonetic": "/ʃuːt/",
+      "meaning": "to fire a weapon; to kick or throw toward a goal",
+      "bangla": "গুলি করা / শট মারা",
+      "example": "He shoots the ball into the net.",
+      "exampleBn": "সে বলটি জালে মারল।"
+    },
+    {
+      "word": "sound",
+      "phonetic": "/saʊnd/",
+      "meaning": "a vibration that travels through the air and is heard; healthy",
+      "bangla": "শব্দ / সুস্থ",
+      "example": "I heard a strange sound.",
+      "exampleBn": "আমি একটি অদ্ভুত শব্দ শুনলাম।"
+    },
+    {
+      "word": "swim",
+      "phonetic": "/swɪm/",
+      "meaning": "to move through water using the body",
+      "bangla": "সাঁতার কাটা",
+      "example": "She can swim very fast.",
+      "exampleBn": "সে খুব দ্রুত সাঁতার কাটতে পারে।"
+    },
+    {
+      "word": "web",
+      "phonetic": "/web/",
+      "meaning": "a network of fine threads made by a spider; the internet",
+      "bangla": "মাকড়সার জাল / ওয়েব",
+      "example": "I found it on the web.",
+      "exampleBn": "আমি এটি ওয়েবে খুঁজে পেলাম।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "advance in career",
+      "bangla": "কর্মজীবনে এগিয়ে যাওয়া",
+      "usage": "career",
+      "example": "She worked hard to advance in her career."
+    },
+    {
+      "phrase": "professional athlete",
+      "bangla": "পেশাদার ক্রীড়াবিদ",
+      "usage": "sports",
+      "example": "He trained for years to become a professional athlete."
+    },
+    {
+      "phrase": "above average",
+      "bangla": "গড়ের উপরে",
+      "usage": "performance",
+      "example": "Her performance was above average in every subject."
+    },
+    {
+      "phrase": "good behavior",
+      "bangla": "ভালো আচরণ",
+      "usage": "character",
+      "example": "Good behavior is expected from every student."
+    },
+    {
+      "phrase": "fall behind",
+      "bangla": "পিছিয়ে পড়া",
+      "usage": "progress",
+      "example": "He worked extra hard so he would not fall behind."
+    },
+    {
+      "phrase": "complete a course",
+      "bangla": "কোর্স সম্পন্ন করা",
+      "usage": "education",
+      "example": "She completed the course in three months."
+    },
+    {
+      "phrase": "lower the risk",
+      "bangla": "ঝুঁকি কমানো",
+      "usage": "safety",
+      "example": "Exercise can lower the risk of many diseases."
+    },
+    {
+      "phrase": "win the match",
+      "bangla": "ম্যাচ জেতা",
+      "usage": "sports",
+      "example": "The team trained hard to win the match."
+    },
+    {
+      "phrase": "team member",
+      "bangla": "দলের সদস্য",
+      "usage": "group",
+      "example": "Every team member has an important role."
+    },
+    {
+      "phrase": "mental strength",
+      "bangla": "মানসিক শক্তি",
+      "usage": "psychology",
+      "example": "Athletes need both physical and mental strength."
+    },
+    {
+      "phrase": "fellow passenger",
+      "bangla": "সহযাত্রী",
+      "usage": "travel",
+      "example": "A fellow passenger helped her with her bag."
+    },
+    {
+      "phrase": "strong personality",
+      "bangla": "শক্তিশালী ব্যক্তিত্ব",
+      "usage": "character",
+      "example": "A strong personality helps in difficult situations."
+    },
+    {
+      "phrase": "recite a poem",
+      "bangla": "কবিতা আবৃত্তি করা",
+      "usage": "literature",
+      "example": "The student recited a poem in front of the class."
+    },
+    {
+      "phrase": "north pole",
+      "bangla": "উত্তর মেরু",
+      "usage": "geography",
+      "example": "Very few people have visited the North Pole."
+    },
+    {
+      "phrase": "remove obstacles",
+      "bangla": "বাধা দূর করা",
+      "usage": "progress",
+      "example": "A good leader works to remove obstacles for the team."
+    },
+    {
+      "phrase": "ensure safety",
+      "bangla": "নিরাপত্তা নিশ্চিত করা",
+      "usage": "protection",
+      "example": "The school takes steps to ensure the safety of students."
+    },
+    {
+      "phrase": "shoot a goal",
+      "bangla": "গোল করা",
+      "usage": "sports",
+      "example": "The striker managed to shoot a goal in the final minute."
+    },
+    {
+      "phrase": "sound advice",
+      "bangla": "সঠিক পরামর্শ",
+      "usage": "guidance",
+      "example": "The coach gave sound advice before the match."
+    },
+    {
+      "phrase": "swim across",
+      "bangla": "সাঁতরে পার হওয়া",
+      "usage": "action",
+      "example": "He swam across the river without stopping."
+    },
+    {
+      "phrase": "search the web",
+      "bangla": "ওয়েবে খোঁজা",
+      "usage": "technology",
+      "example": "She searched the web for information about the course."
+    }
+  ],
+
+  "sentences": [
+    {
+      "en": "The young athlete worked hard to advance to the national level.",
+      "bn": "তরুণ ক্রীড়াবিদটি জাতীয় পর্যায়ে এগিয়ে যেতে কঠোর পরিশ্রম করল।"
+    },
+    {
+      "en": "Every athlete needs both physical fitness and mental strength.",
+      "bn": "প্রতিটি ক্রীড়াবিদের শারীরিক সুস্থতা এবং মানসিক শক্তি উভয়ই প্রয়োজন।"
+    },
+    {
+      "en": "Her average mark in the course was well above the class average.",
+      "bn": "কোর্সে তার গড় নম্বর ক্লাসের গড়ের অনেক উপরে ছিল।"
+    },
+    {
+      "en": "Good behavior in public reflects a person's true personality.",
+      "bn": "জনসমক্ষে ভালো আচরণ একজন মানুষের সত্যিকারের ব্যক্তিত্ব প্রতিফলিত করে।"
+    },
+    {
+      "en": "He fell behind the other runners but refused to give up.",
+      "bn": "সে অন্য দৌড়বিদদের পেছনে পড়ে গেল কিন্তু হাল ছেড়ে দিতে অস্বীকার করল।"
+    },
+    {
+      "en": "She enrolled in an online course to improve her web design skills.",
+      "bn": "সে তার ওয়েব ডিজাইন দক্ষতা উন্নত করতে একটি অনলাইন কোর্সে ভর্তি হলো।"
+    },
+    {
+      "en": "The coach advised them to lower their speed on the wet track.",
+      "bn": "কোচ তাদের ভেজা ট্র্যাকে গতি কমানোর পরামর্শ দিলেন।"
+    },
+    {
+      "en": "The final match between the two teams attracted a huge crowd.",
+      "bn": "দুটি দলের মধ্যে চূড়ান্ত ম্যাচটি একটি বিশাল ভিড় আকর্ষণ করল।"
+    },
+    {
+      "en": "Every member of the team must follow the safety rules.",
+      "bn": "দলের প্রতিটি সদস্যকে নিরাপত্তার নিয়মগুলো মেনে চলতে হবে।"
+    },
+    {
+      "en": "Looking after your mental health is just as important as physical health.",
+      "bn": "মানসিক স্বাস্থ্যের যত্ন নেওয়া শারীরিক স্বাস্থ্যের মতোই গুরুত্বপূর্ণ।"
+    },
+    {
+      "en": "The passenger waited quietly as the bus advanced through heavy traffic.",
+      "bn": "বাস ঘন ট্রাফিকের মধ্য দিয়ে এগিয়ে যাওয়ার সময় যাত্রীটি চুপচাপ অপেক্ষা করল।"
+    },
+    {
+      "en": "A warm and friendly personality can make a real difference in any team.",
+      "bn": "একটি উষ্ণ ও বন্ধুত্বপূর্ণ ব্যক্তিত্ব যেকোনো দলে সত্যিকারের পার্থক্য আনতে পারে।"
+    },
+    {
+      "en": "The teacher asked each student to write a short poem about nature.",
+      "bn": "শিক্ষক প্রতিটি ছাত্রকে প্রকৃতি সম্পর্কে একটি ছোট কবিতা লিখতে বললেন।"
+    },
+    {
+      "en": "Workers removed the old pole and installed a new one safely.",
+      "bn": "শ্রমিকরা পুরনো খুঁটিটি সরিয়ে নিরাপদে নতুনটি স্থাপন করল।"
+    },
+    {
+      "en": "Please remove your shoes before entering the prayer room.",
+      "bn": "নামাজের ঘরে প্রবেশের আগে দয়া করে তোমার জুতা খুলে রাখো।"
+    },
+    {
+      "en": "The school introduced new rules to ensure the safety of all students.",
+      "bn": "স্কুলটি সব শিক্ষার্থীর নিরাপত্তা নিশ্চিত করতে নতুন নিয়ম চালু করল।"
+    },
+    {
+      "en": "The forward advanced past two defenders and shot the ball into the net.",
+      "bn": "ফরোয়ার্ড দুইজন ডিফেন্ডারকে পেছনে ফেলে এগিয়ে গেল এবং বলটি জালে মারল।"
+    },
+    {
+      "en": "The sound of the crowd cheering gave the athlete extra mental strength.",
+      "bn": "ভিড়ের উচ্ছ্বাসের শব্দ ক্রীড়াবিদকে অতিরিক্ত মানসিক শক্তি দিল।"
+    },
+    {
+      "en": "She can swim an average of two kilometers every morning without stopping.",
+      "bn": "সে প্রতিদিন সকালে গড়ে দুই কিলোমিটার না থেমে সাঁতার কাটতে পারে।"
+    },
+    {
+      "en": "He searched the web for sound advice on how to advance in his course.",
+      "bn": "সে তার কোর্সে কীভাবে এগিয়ে যেতে হবে তার সঠিক পরামর্শের জন্য ওয়েবে খুঁজল।"
+    }
+  ],
+
+  "quiz": [
+    {
+      "q": "Advance means?",
+      "opts": [
+        "to move backward",
+        "to move forward or make progress",
+        "to stay behind",
+        "to lower a score"
+      ],
+      "ans": 1,
+      "explanation": "Advance means to move forward, make progress, or develop to a higher level."
+    },
+    {
+      "q": "Athlete means?",
+      "opts": [
+        "a music performer",
+        "a person trained in sports or physical activities",
+        "a web designer",
+        "a course teacher"
+      ],
+      "ans": 1,
+      "explanation": "Athlete means a person who is trained or skilled in sports and physical exercise."
+    },
+    {
+      "q": "Average means?",
+      "opts": [
+        "the highest possible level",
+        "the typical or ordinary level or a middle value",
+        "below the lowest level",
+        "an extreme result"
+      ],
+      "ans": 1,
+      "explanation": "Average means the typical or normal standard, or a value calculated as the middle of a set."
+    },
+    {
+      "q": "Behavior means?",
+      "opts": [
+        "a type of poem",
+        "the way a person or animal acts",
+        "a safety rule",
+        "a mental course"
+      ],
+      "ans": 1,
+      "explanation": "Behavior means the way in which a person, animal, or thing acts or conducts itself."
+    },
+    {
+      "q": "Behind means?",
+      "opts": [
+        "at the front of",
+        "at the back of or further back than",
+        "above everything",
+        "beside another"
+      ],
+      "ans": 1,
+      "explanation": "Behind means at the back of something or in a position further back than another."
+    },
+    {
+      "q": "Course means?",
+      "opts": [
+        "a single lesson only",
+        "a series of lessons or a path or route",
+        "a type of match",
+        "a web search"
+      ],
+      "ans": 1,
+      "explanation": "Course means a series of lessons or lectures on a subject, or a path taken to reach a destination."
+    },
+    {
+      "q": "Lower means?",
+      "opts": [
+        "to raise something up",
+        "to move something down or reduce",
+        "to advance quickly",
+        "to remove safety"
+      ],
+      "ans": 1,
+      "explanation": "Lower means to move something to a less high position or to reduce an amount or level."
+    },
+    {
+      "q": "Match means?",
+      "opts": [
+        "a type of poem",
+        "a sports game or something that fits another",
+        "a safety pole",
+        "a web member"
+      ],
+      "ans": 1,
+      "explanation": "Match means a sports competition between two people or teams, or two things that are equal or similar."
+    },
+    {
+      "q": "Member means?",
+      "opts": [
+        "a stranger to a group",
+        "a person who belongs to a group or organization",
+        "an average passenger",
+        "a mental coach"
+      ],
+      "ans": 1,
+      "explanation": "Member means a person, animal, or thing that belongs to a particular group or organization."
+    },
+    {
+      "q": "Mental means?",
+      "opts": [
+        "relating to the body only",
+        "relating to the mind or thinking",
+        "relating to physical strength",
+        "relating to average scores"
+      ],
+      "ans": 1,
+      "explanation": "Mental means relating to the mind, thinking, or intellectual processes."
+    },
+    {
+      "q": "Passenger means?",
+      "opts": [
+        "a person who drives a vehicle",
+        "a person who travels in a vehicle but does not drive",
+        "a team member in a match",
+        "an athlete on a course"
+      ],
+      "ans": 1,
+      "explanation": "Passenger means a person who is traveling in a vehicle, aircraft, or ship but is not the driver."
+    },
+    {
+      "q": "Personality means?",
+      "opts": [
+        "a person's physical appearance only",
+        "the combination of qualities that make a person unique",
+        "a type of behavior course",
+        "a web-based member profile"
+      ],
+      "ans": 1,
+      "explanation": "Personality means the combination of characteristics that form a person's distinctive character."
+    },
+    {
+      "q": "Poem means?",
+      "opts": [
+        "a type of sports match",
+        "a piece of writing expressing feelings using rhythm",
+        "a web safety guide",
+        "a mental course outline"
+      ],
+      "ans": 1,
+      "explanation": "Poem means a piece of writing in which words are chosen for their sound and meaning, often with rhythm."
+    },
+    {
+      "q": "Pole means?",
+      "opts": [
+        "a flat surface",
+        "a long thin piece of wood or metal or either end of the earth",
+        "a type of web",
+        "an average score"
+      ],
+      "ans": 1,
+      "explanation": "Pole means a long thin rounded piece of wood or metal, or either of the two ends of the Earth's axis."
+    },
+    {
+      "q": "Remove means?",
+      "opts": [
+        "to place something carefully",
+        "to take something away from its place",
+        "to advance a member",
+        "to lower a sound"
+      ],
+      "ans": 1,
+      "explanation": "Remove means to take something away from the place where it is."
+    },
+    {
+      "q": "Safety means?",
+      "opts": [
+        "the condition of being in danger",
+        "the condition of being protected from danger",
+        "an average behavior level",
+        "a mental match score"
+      ],
+      "ans": 1,
+      "explanation": "Safety means the condition of being protected from or unlikely to cause danger or injury."
+    },
+    {
+      "q": "Shoot means?",
+      "opts": [
+        "to pass the ball backward",
+        "to fire a weapon or kick toward a goal",
+        "to swim behind the pole",
+        "to lower the web"
+      ],
+      "ans": 1,
+      "explanation": "Shoot means to fire a bullet or arrow, or to kick or throw a ball toward a goal."
+    },
+    {
+      "q": "Sound means?",
+      "opts": [
+        "complete silence only",
+        "a vibration that is heard or the word meaning healthy",
+        "a type of athlete",
+        "a web course member"
+      ],
+      "ans": 1,
+      "explanation": "Sound means vibrations that travel through air and are heard by the ear, or something that is reliable and healthy."
+    },
+    {
+      "q": "Swim means?",
+      "opts": [
+        "to run across a field",
+        "to move through water using the body",
+        "to advance behind a pole",
+        "to shoot a match goal"
+      ],
+      "ans": 1,
+      "explanation": "Swim means to propel the body through water by moving the limbs."
+    },
+    {
+      "q": "Web means?",
+      "opts": [
+        "a type of poem structure",
+        "a network of threads or the internet",
+        "an average member course",
+        "a mental safety pole"
+      ],
+      "ans": 1,
+      "explanation": "Web means a network of fine threads made by a spider, or the World Wide Web which is the internet."
+    }
+  ],
+
+  "story": {
+    "title": "The Athlete Behind the Web",
+    "body": "Rafi was not your average athlete. While most of his teammates advanced through training by focusing only on physical strength, Rafi believed that mental preparation was just as important. He was a member of his school's swimming team and had been practicing every morning since the age of nine — swimming across the full length of the pool before most passengers on the early bus had even woken up. His behavior on and off the course was always respectful and disciplined, and his personality made him a natural leader. Coaches regarded him highly and often gave him sound advice about how to lower his average lap time without risking his safety. One evening, Rafi sat beside a pole at the edge of the pool and searched the web for information about advanced swimming techniques. A poem he had written about his sport was open in another tab — he wrote poems sometimes to reflect on his mental state and process his emotions. As he read through articles, he came across a coaching course that promised to help swimmers advance to a higher level. The price was beyond what his family could afford, but rather than fall behind his goal, he wrote a message to the course director explaining his situation. He removed all hesitation and communicated honestly about who he was, what he had achieved, and why he believed the training was worth pursuing. Three days later, he received a response. The director had read his message and was moved by his personality and determination. He offered Rafi a full scholarship. On the day of the national match, Rafi stood at the starting pole, breathing steadily. The sound of the crowd filled the hall. When the signal came, he shot forward into the water like an arrow. He did not look behind. He advanced stroke by stroke, breath by breath, his mental focus unwavering. When he touched the wall at the finish, the crowd erupted. He had not only won — he had set a new average record for his age group. His coach removed his stopwatch from around his neck and placed it around Rafi's as a symbol of trust. Later, a journalist asked him what had made the difference. Rafi smiled and said, 'Mental strength, sound preparation, and never being afraid to ask for help — even if you have to search the web to find it.'",
+    "comprehension": [
+      {
+        "q": "What made Rafi different from average athletes?",
+        "opts": [
+          "he was faster than everyone",
+          "he believed mental preparation was just as important as physical strength",
+          "he had the best coach",
+          "he never fell behind in any match"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Rafi find when he searched the web?",
+        "opts": [
+          "a poem by another athlete",
+          "a coaching course to help him advance to a higher level",
+          "safety rules for swimmers",
+          "a match schedule"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "How did Rafi respond to the course being too expensive?",
+        "opts": [
+          "he gave up on his goal",
+          "he removed all hesitation and wrote honestly to the course director",
+          "he borrowed money from a member",
+          "he searched for a lower course"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What happened on the day of the national match?",
+        "opts": [
+          "Rafi fell behind and lost",
+          "Rafi won and set a new average record for his age group",
+          "the match was removed from the schedule",
+          "a passenger stopped the match"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Rafi say made the difference in his performance?",
+        "opts": [
+          "physical training and team members",
+          "mental strength, sound preparation, and asking for help",
+          "a new swimming pole and course",
+          "lower competition and average opponents"
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "advance",
+      "athlete",
+      "average",
+      "behavior",
+      "behind",
+      "course",
+      "lower",
+      "match",
+      "member",
+      "mental",
+      "passenger",
+      "personality",
+      "poem",
+      "pole",
+      "remove",
+      "safety",
+      "shoot",
+      "sound",
+      "swim",
+      "web"
+    ]
+  },
+
+  "listening": {
+    "title": "A Coach and an Athlete Before the Big Match",
+    "script": "A: How are you feeling before the match today?\nB: A bit nervous. I keep thinking about the last time I fell behind in the final lap.\nA: That is normal. Every athlete feels that before a big match.\nB: I searched the web last night for tips on how to advance faster.\nA: Sound advice is better found from experience than from a web search.\nB: You are right. What do you think I should focus on?\nA: Your mental state. Remove all negative thoughts from your mind before you step on the course.\nB: How do I do that?\nA: Breathe slowly. Focus on your behavior in the water — each stroke, each movement.\nB: What about the other members of the team? Some of them are well above average.\nA: Do not compare. Every athlete has their own course to follow.\nB: The safety rules for the pool — should I review them?\nA: You already know them. Just make sure you do not shoot forward too fast at the start and risk your form.\nB: What about the passenger seats — will there be a big crowd watching?\nA: Yes, the hall will be full. Use their sound to fuel your mental strength.\nB: I wrote a poem last night to calm myself. Is that strange for an athlete?\nA: Not at all. Personality and creativity are part of what makes a great athlete.\nB: The pole position I draw today will determine my lane. I hope it is a good one.\nA: Whatever lane you get, advance from it with everything you have.\nB: I will lower my average time today. I am sure of it.\nA: I believe you. Now go warm up and remove all doubt from your mind.\nB: Thank you, coach. Your sound advice always helps.",
+    "comprehension": [
+      {
+        "q": "What was the athlete nervous about?",
+        "opts": [
+          "the safety rules",
+          "falling behind in the final lap like last time",
+          "the web search results",
+          "the number of team members"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does the coach tell the athlete to remove before the match?",
+        "opts": [
+          "extra clothing",
+          "all negative thoughts from the mind",
+          "safety equipment",
+          "the poem he wrote"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "How does the coach say the athlete should use the crowd?",
+        "opts": [
+          "ignore the sound completely",
+          "use the sound of the crowd to fuel mental strength",
+          "ask members of the crowd for advice",
+          "remove themselves from the crowd's view"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does the coach say about the athlete writing a poem?",
+        "opts": [
+          "it is a waste of time for an athlete",
+          "personality and creativity are part of what makes a great athlete",
+          "poems lower average performance",
+          "web searches are better than poems"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Describing a Sport or Physical Activity You Enjoy",
+    "prompt": "Talk about a sport or physical activity you enjoy. Use words like athlete, advance, match, swim, shoot, mental, safety, average, course, and behavior.",
+    "example": "I enjoy swimming more than any other sport. I am not an average swimmer — I have been practicing since I was a child and I have advanced through several courses over the years. Swimming is not only a physical activity but also a mental one. When I am in the water, I remove all stress from my mind and focus only on each stroke. Safety is always important — I never swim without a lifeguard present. Before a match, I think carefully about my behavior in the water and how I can lower my average lap time. I regard every swim session as a step forward. One day I hope to compete at a higher level and shoot for a national record.",
+    "tips": [
+      "Name the sport or activity and say how long you have been doing it",
+      "Use advance and course to talk about your progress and training",
+      "Mention the mental side of the sport and how it affects your behavior",
+      "Talk about safety rules or habits you follow",
+      "Use average and match to describe your level and competitions",
+      "End with a goal you want to achieve in the sport"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Two students talking about joining a sports team or activity course",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Have you ever been a member of a sports team or joined a physical activity course?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Share your experience as a team member or describe a course you completed."
+      },
+      {
+        "speaker": "app",
+        "text": "What sport do you enjoy most — swimming, a team match, or something else?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Name your favorite sport and describe how you advance in it."
+      },
+      {
+        "speaker": "app",
+        "text": "How do you take care of your mental health when you fall behind or lose a match?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Talk about your mental approach and what behavior helps you recover."
+      },
+      {
+        "speaker": "app",
+        "text": "What sound advice would you give to an average beginner who wants to become a better athlete?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Give advice about safety, behavior, and how to advance step by step."
+      },
+      {
+        "speaker": "app",
+        "text": "Have you ever searched the web for tips to improve your performance?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Share what you found or what you would search for to lower your average time or score."
+      },
+      {
+        "speaker": "app",
+        "text": "If you could write a short poem about your sport or activity, what would it say?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Describe the poem you would write and what personality or feeling it would reflect."
+      }
+    ]
+  }
+}

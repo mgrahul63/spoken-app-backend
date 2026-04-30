@@ -1,0 +1,790 @@
+{
+  "day": 15,
+  "topic": "Shopping, Communication & Daily Life Vocabulary",
+  "lessonId": "L0D15",
+  "vocabulary": [
+    {
+      "word": "argue",
+      "phonetic": "/ˈɑːrɡjuː/",
+      "meaning": "to disagree and express opposing views",
+      "bangla": "তর্ক করা / যুক্তি দেওয়া",
+      "example": "They argue about everything.",
+      "exampleBn": "তারা সব বিষয়ে তর্ক করে।"
+    },
+    {
+      "word": "communicate",
+      "phonetic": "/kəˈmjuːnɪkeɪt/",
+      "meaning": "to share information or feelings with others",
+      "bangla": "যোগাযোগ করা",
+      "example": "We communicate by phone.",
+      "exampleBn": "আমরা ফোনে যোগাযোগ করি।"
+    },
+    {
+      "word": "crowd",
+      "phonetic": "/kraʊd/",
+      "meaning": "a large group of people gathered together",
+      "bangla": "ভিড় / জনতা",
+      "example": "A crowd gathered in the street.",
+      "exampleBn": "রাস্তায় একটি ভিড় জমা হলো।"
+    },
+    {
+      "word": "depend",
+      "phonetic": "/dɪˈpend/",
+      "meaning": "to rely on someone or something",
+      "bangla": "নির্ভর করা",
+      "example": "Children depend on their parents.",
+      "exampleBn": "শিশুরা তাদের বাবা-মার উপর নির্ভর করে।"
+    },
+    {
+      "word": "dish",
+      "phonetic": "/dɪʃ/",
+      "meaning": "a container for food; a type of prepared food",
+      "bangla": "থালা / খাবারের পদ",
+      "example": "She cooked a special dish.",
+      "exampleBn": "সে একটি বিশেষ খাবারের পদ রান্না করল।"
+    },
+    {
+      "word": "empty",
+      "phonetic": "/ˈempti/",
+      "meaning": "containing nothing; having no people or things",
+      "bangla": "খালি",
+      "example": "The bottle is empty.",
+      "exampleBn": "বোতলটি খালি।"
+    },
+    {
+      "word": "exact",
+      "phonetic": "/ɪɡˈzækt/",
+      "meaning": "completely correct and precise",
+      "bangla": "সঠিক / নির্ভুল",
+      "example": "Give me the exact time.",
+      "exampleBn": "আমাকে সঠিক সময় বলো।"
+    },
+    {
+      "word": "fresh",
+      "phonetic": "/freʃ/",
+      "meaning": "newly made or obtained; not stale or old",
+      "bangla": "তাজা / সতেজ",
+      "example": "I buy fresh vegetables daily.",
+      "exampleBn": "আমি প্রতিদিন তাজা সবজি কিনি।"
+    },
+    {
+      "word": "gather",
+      "phonetic": "/ˈɡæðər/",
+      "meaning": "to come together or collect things in one place",
+      "bangla": "জড়ো হওয়া / সংগ্রহ করা",
+      "example": "Students gather in the hall.",
+      "exampleBn": "ছাত্ররা হলে জড়ো হয়।"
+    },
+    {
+      "word": "indicate",
+      "phonetic": "/ˈɪndɪkeɪt/",
+      "meaning": "to point out or show something",
+      "bangla": "নির্দেশ করা / ইঙ্গিত দেওয়া",
+      "example": "The sign indicates the exit.",
+      "exampleBn": "চিহ্নটি বের হওয়ার পথ নির্দেশ করে।"
+    },
+    {
+      "word": "item",
+      "phonetic": "/ˈaɪtəm/",
+      "meaning": "a single thing or unit in a list or collection",
+      "bangla": "জিনিস / আইটেম",
+      "example": "I need one more item.",
+      "exampleBn": "আমার আরও একটি জিনিস দরকার।"
+    },
+    {
+      "word": "offer",
+      "phonetic": "/ˈɒfər/",
+      "meaning": "to present something for someone to accept or refuse",
+      "bangla": "প্রস্তাব করা / দেওয়া",
+      "example": "He offered me a seat.",
+      "exampleBn": "সে আমাকে একটি আসন দিল।"
+    },
+    {
+      "word": "price",
+      "phonetic": "/praɪs/",
+      "meaning": "the amount of money needed to buy something",
+      "bangla": "দাম / মূল্য",
+      "example": "What is the price of this bag?",
+      "exampleBn": "এই ব্যাগের দাম কত?"
+    },
+    {
+      "word": "product",
+      "phonetic": "/ˈprɒdʌkt/",
+      "meaning": "something that is made or grown to be sold",
+      "bangla": "পণ্য / উৎপাদিত বস্তু",
+      "example": "This is a quality product.",
+      "exampleBn": "এটি একটি মানসম্পন্ন পণ্য।"
+    },
+    {
+      "word": "property",
+      "phonetic": "/ˈprɒpəti/",
+      "meaning": "something owned by a person; land or buildings",
+      "bangla": "সম্পত্তি",
+      "example": "This land is his property.",
+      "exampleBn": "এই জমি তার সম্পত্তি।"
+    },
+    {
+      "word": "purchase",
+      "phonetic": "/ˈpɜːrtʃəs/",
+      "meaning": "to buy something",
+      "bangla": "কেনা / ক্রয় করা",
+      "example": "She purchased a new phone.",
+      "exampleBn": "সে একটি নতুন ফোন কিনল।"
+    },
+    {
+      "word": "recommend",
+      "phonetic": "/ˌrekəˈmend/",
+      "meaning": "to suggest something as being good or suitable",
+      "bangla": "সুপারিশ করা / পরামর্শ দেওয়া",
+      "example": "I recommend this book.",
+      "exampleBn": "আমি এই বইটি সুপারিশ করি।"
+    },
+    {
+      "word": "select",
+      "phonetic": "/sɪˈlekt/",
+      "meaning": "to carefully choose from a group",
+      "bangla": "বেছে নেওয়া / নির্বাচন করা",
+      "example": "Select the best answer.",
+      "exampleBn": "সেরা উত্তরটি বেছে নাও।"
+    },
+    {
+      "word": "tool",
+      "phonetic": "/tuːl/",
+      "meaning": "a device used to carry out a particular task",
+      "bangla": "যন্ত্রপাতি / সরঞ্জাম",
+      "example": "A hammer is a useful tool.",
+      "exampleBn": "হাতুড়ি একটি উপকারী সরঞ্জাম।"
+    },
+    {
+      "word": "treat",
+      "phonetic": "/triːt/",
+      "meaning": "to behave toward someone in a certain way; a special food or gift",
+      "bangla": "আচরণ করা / আপ্যায়ন করা",
+      "example": "Treat everyone with respect.",
+      "exampleBn": "সবার সাথে সম্মানের সাথে আচরণ করো।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "argue over price",
+      "bangla": "দাম নিয়ে তর্ক করা",
+      "usage": "shopping",
+      "example": "They argued over the price of the item."
+    },
+    {
+      "phrase": "communicate clearly",
+      "bangla": "স্পষ্টভাবে যোগাযোগ করা",
+      "usage": "communication",
+      "example": "Always communicate clearly with your team."
+    },
+    {
+      "phrase": "crowd of people",
+      "bangla": "মানুষের ভিড়",
+      "usage": "description",
+      "example": "A crowd of people waited outside the store."
+    },
+    {
+      "phrase": "depend on others",
+      "bangla": "অন্যের উপর নির্ভর করা",
+      "usage": "relationship",
+      "example": "Try not to depend on others for everything."
+    },
+    {
+      "phrase": "traditional dish",
+      "bangla": "ঐতিহ্যবাহী খাবার",
+      "usage": "food",
+      "example": "Biryani is a traditional dish in Bangladesh."
+    },
+    {
+      "phrase": "empty stomach",
+      "bangla": "খালি পেট",
+      "usage": "health",
+      "example": "Do not take medicine on an empty stomach."
+    },
+    {
+      "phrase": "exact amount",
+      "bangla": "সঠিক পরিমাণ",
+      "usage": "measurement",
+      "example": "Please pay the exact amount."
+    },
+    {
+      "phrase": "fresh food",
+      "bangla": "তাজা খাবার",
+      "usage": "health",
+      "example": "Eating fresh food keeps you healthy."
+    },
+    {
+      "phrase": "gather information",
+      "bangla": "তথ্য সংগ্রহ করা",
+      "usage": "research",
+      "example": "She gathered information before making a decision."
+    },
+    {
+      "phrase": "indicate direction",
+      "bangla": "দিকনির্দেশনা দেওয়া",
+      "usage": "navigation",
+      "example": "The map indicates the correct direction."
+    },
+    {
+      "phrase": "list of items",
+      "bangla": "জিনিসের তালিকা",
+      "usage": "shopping",
+      "example": "She made a list of items before going to the market."
+    },
+    {
+      "phrase": "offer a deal",
+      "bangla": "একটি চুক্তি প্রস্তাব করা",
+      "usage": "business",
+      "example": "The shop offered a great deal on products."
+    },
+    {
+      "phrase": "reduce the price",
+      "bangla": "দাম কমানো",
+      "usage": "shopping",
+      "example": "Can you reduce the price a little?"
+    },
+    {
+      "phrase": "quality product",
+      "bangla": "মানসম্পন্ন পণ্য",
+      "usage": "business",
+      "example": "Customers always look for a quality product."
+    },
+    {
+      "phrase": "private property",
+      "bangla": "ব্যক্তিগত সম্পত্তি",
+      "usage": "legal",
+      "example": "Do not enter private property without permission."
+    },
+    {
+      "phrase": "purchase online",
+      "bangla": "অনলাইনে কেনা",
+      "usage": "shopping",
+      "example": "Many people prefer to purchase online."
+    },
+    {
+      "phrase": "strongly recommend",
+      "bangla": "দৃঢ়ভাবে সুপারিশ করা",
+      "usage": "advice",
+      "example": "I strongly recommend this restaurant."
+    },
+    {
+      "phrase": "select carefully",
+      "bangla": "সাবধানে বেছে নেওয়া",
+      "usage": "decision",
+      "example": "Select your words carefully when speaking."
+    },
+    {
+      "phrase": "useful tool",
+      "bangla": "উপকারী সরঞ্জাম",
+      "usage": "work",
+      "example": "The internet is a useful tool for learning."
+    },
+    {
+      "phrase": "treat with kindness",
+      "bangla": "সদয়ভাবে আচরণ করা",
+      "usage": "behavior",
+      "example": "Always treat others with kindness."
+    }
+  ],
+
+  "sentences": [
+    {
+      "en": "They argue about the price every time they go shopping.",
+      "bn": "তারা যতবারই কেনাকাটা করতে যায় ততবারই দাম নিয়ে তর্ক করে।"
+    },
+    {
+      "en": "It is important to communicate clearly to avoid misunderstandings.",
+      "bn": "ভুল বোঝাবুঝি এড়াতে স্পষ্টভাবে যোগাযোগ করা গুরুত্বপূর্ণ।"
+    },
+    {
+      "en": "A large crowd gathered outside the stadium before the match.",
+      "bn": "খেলার আগে স্টেডিয়ামের বাইরে একটি বড় ভিড় জমা হলো।"
+    },
+    {
+      "en": "You should not depend on luck alone to succeed in life.",
+      "bn": "জীবনে সফল হতে শুধু ভাগ্যের উপর নির্ভর করা উচিত নয়।"
+    },
+    {
+      "en": "My mother made a fresh dish for every guest.",
+      "bn": "আমার মা প্রতিটি অতিথির জন্য তাজা খাবারের পদ তৈরি করলেন।"
+    },
+    {
+      "en": "The shelves were empty after the sale ended.",
+      "bn": "বিক্রয় শেষ হওয়ার পরে তাকগুলো খালি হয়ে গেল।"
+    },
+    {
+      "en": "Tell me the exact price before I decide to purchase.",
+      "bn": "কেনার সিদ্ধান্ত নেওয়ার আগে আমাকে সঠিক দাম বলো।"
+    },
+    {
+      "en": "The market is full of fresh fruits every morning.",
+      "bn": "প্রতিদিন সকালে বাজার তাজা ফলে ভরা থাকে।"
+    },
+    {
+      "en": "People gathered in the square to hear the announcement.",
+      "bn": "ঘোষণা শুনতে মানুষ চত্বরে জড়ো হলো।"
+    },
+    {
+      "en": "The red light indicates that you must stop.",
+      "bn": "লাল আলো নির্দেশ করে যে তোমাকে থামতে হবে।"
+    },
+    {
+      "en": "Every item on the list must be purchased today.",
+      "bn": "তালিকার প্রতিটি জিনিস আজ কিনতে হবে।"
+    },
+    {
+      "en": "She offered him a glass of fresh water.",
+      "bn": "সে তাকে এক গ্লাস তাজা পানি দিল।"
+    },
+    {
+      "en": "The price of vegetables has increased this week.",
+      "bn": "এই সপ্তাহে সবজির দাম বেড়েছে।"
+    },
+    {
+      "en": "This product is made from high quality natural material.",
+      "bn": "এই পণ্যটি উচ্চমানের প্রাকৃতিক উপাদান দিয়ে তৈরি।"
+    },
+    {
+      "en": "He sold his property to start a new business.",
+      "bn": "সে নতুন ব্যবসা শুরু করতে তার সম্পত্তি বিক্রি করল।"
+    },
+    {
+      "en": "I would like to purchase two items from this shop.",
+      "bn": "আমি এই দোকান থেকে দুটি জিনিস কিনতে চাই।"
+    },
+    {
+      "en": "The doctor recommended complete rest for one week.",
+      "bn": "ডাক্তার এক সপ্তাহ সম্পূর্ণ বিশ্রামের পরামর্শ দিলেন।"
+    },
+    {
+      "en": "She selected the brightest color from all the options.",
+      "bn": "সে সব বিকল্প থেকে সবচেয়ে উজ্জ্বল রঙটি বেছে নিল।"
+    },
+    {
+      "en": "A good dictionary is an essential tool for language learners.",
+      "bn": "একটি ভালো অভিধান ভাষা শিক্ষার্থীদের জন্য একটি অপরিহার্য সরঞ্জাম।"
+    },
+    {
+      "en": "He treated all his customers with patience and respect.",
+      "bn": "সে তার সকল গ্রাহকের সাথে ধৈর্য ও সম্মানের সাথে আচরণ করল।"
+    }
+  ],
+
+  "quiz": [
+    {
+      "q": "Argue means?",
+      "opts": [
+        "to agree quickly",
+        "to disagree and express opposing views",
+        "to celebrate",
+        "to purchase"
+      ],
+      "ans": 1,
+      "explanation": "Argue means to exchange opposing views or reasons in a disagreement."
+    },
+    {
+      "q": "Communicate means?",
+      "opts": [
+        "to hide information",
+        "to share information or feelings with others",
+        "to ignore someone",
+        "to select items"
+      ],
+      "ans": 1,
+      "explanation": "Communicate means to share or exchange information, ideas, or feelings with others."
+    },
+    {
+      "q": "Crowd means?",
+      "opts": [
+        "a single person",
+        "a large group of people gathered together",
+        "an empty street",
+        "a quiet room"
+      ],
+      "ans": 1,
+      "explanation": "Crowd means a large number of people gathered together in one place."
+    },
+    {
+      "q": "Depend means?",
+      "opts": [
+        "to avoid someone",
+        "to rely on someone or something",
+        "to argue with others",
+        "to purchase goods"
+      ],
+      "ans": 1,
+      "explanation": "Depend means to need the support, help, or existence of someone or something."
+    },
+    {
+      "q": "Dish means?",
+      "opts": [
+        "a type of tool",
+        "a container for food or a prepared food",
+        "an empty space",
+        "a product label"
+      ],
+      "ans": 1,
+      "explanation": "Dish means a flat container used for food, or a particular type of prepared food."
+    },
+    {
+      "q": "Empty means?",
+      "opts": [
+        "completely full",
+        "containing nothing or no one",
+        "very heavy",
+        "extremely bright"
+      ],
+      "ans": 1,
+      "explanation": "Empty means having nothing inside or no people present."
+    },
+    {
+      "q": "Exact means?",
+      "opts": [
+        "roughly correct",
+        "completely correct and precise",
+        "slightly wrong",
+        "nearly right"
+      ],
+      "ans": 1,
+      "explanation": "Exact means completely accurate and without any errors or approximations."
+    },
+    {
+      "q": "Fresh means?",
+      "opts": [
+        "old and stale",
+        "newly made or obtained and not stale",
+        "very dry",
+        "heavily cooked"
+      ],
+      "ans": 1,
+      "explanation": "Fresh means recently produced, picked, or prepared and not decayed or spoiled."
+    },
+    {
+      "q": "Gather means?",
+      "opts": [
+        "to scatter away",
+        "to come together or collect in one place",
+        "to disappear quickly",
+        "to argue loudly"
+      ],
+      "ans": 1,
+      "explanation": "Gather means to come together in a group or to collect things into one place."
+    },
+    {
+      "q": "Indicate means?",
+      "opts": [
+        "to hide a sign",
+        "to point out or show something",
+        "to purchase a tool",
+        "to empty a dish"
+      ],
+      "ans": 1,
+      "explanation": "Indicate means to point out, show, or suggest something clearly."
+    },
+    {
+      "q": "Item means?",
+      "opts": [
+        "a large crowd",
+        "a single thing or unit in a list",
+        "a type of property",
+        "an exact price"
+      ],
+      "ans": 1,
+      "explanation": "Item means an individual thing or unit, especially one in a list or collection."
+    },
+    {
+      "q": "Offer means?",
+      "opts": [
+        "to take away forcefully",
+        "to present something for acceptance or refusal",
+        "to argue about price",
+        "to gather a crowd"
+      ],
+      "ans": 1,
+      "explanation": "Offer means to present something to someone for them to accept or decline."
+    },
+    {
+      "q": "Price means?",
+      "opts": [
+        "the weight of a product",
+        "the amount of money needed to buy something",
+        "the color of an item",
+        "the size of a property"
+      ],
+      "ans": 1,
+      "explanation": "Price means the amount of money required to purchase something."
+    },
+    {
+      "q": "Product means?",
+      "opts": [
+        "an empty container",
+        "something made or grown to be sold",
+        "a type of crowd",
+        "an exact tool"
+      ],
+      "ans": 1,
+      "explanation": "Product means something that is manufactured or produced for sale."
+    },
+    {
+      "q": "Property means?",
+      "opts": [
+        "a fresh dish",
+        "something owned by a person or land and buildings",
+        "a selected item",
+        "a communication tool"
+      ],
+      "ans": 1,
+      "explanation": "Property means something that belongs to someone, especially land or buildings."
+    },
+    {
+      "q": "Purchase means?",
+      "opts": [
+        "to give away free",
+        "to buy something",
+        "to argue about value",
+        "to recommend a product"
+      ],
+      "ans": 1,
+      "explanation": "Purchase means to obtain something by paying money for it."
+    },
+    {
+      "q": "Recommend means?",
+      "opts": [
+        "to warn against",
+        "to suggest something as good or suitable",
+        "to argue strongly",
+        "to empty a shelf"
+      ],
+      "ans": 1,
+      "explanation": "Recommend means to put forward someone or something as being worthy of acceptance."
+    },
+    {
+      "q": "Select means?",
+      "opts": [
+        "to ignore all options",
+        "to carefully choose from a group",
+        "to gather a crowd",
+        "to indicate a price"
+      ],
+      "ans": 1,
+      "explanation": "Select means to carefully pick the best or most suitable option from a group."
+    },
+    {
+      "q": "Tool means?",
+      "opts": [
+        "a type of fresh dish",
+        "a device used to carry out a task",
+        "an empty property",
+        "a product price"
+      ],
+      "ans": 1,
+      "explanation": "Tool means an instrument or device used to carry out a particular function."
+    },
+    {
+      "q": "Treat means?",
+      "opts": [
+        "to ignore someone",
+        "to behave toward someone or give a special gift",
+        "to argue about items",
+        "to empty a crowd"
+      ],
+      "ans": 1,
+      "explanation": "Treat means to behave toward someone in a particular way or to give someone something special."
+    }
+  ],
+
+  "story": {
+    "title": "A Day at the Market",
+    "body": "Every Friday morning, Nadia and her mother would gather their bags and walk to the town market to purchase fresh items for the week. The market was always full of life — a crowd of buyers and sellers arguing over prices, the smell of fresh food filling the air, and colorful products displayed on every shelf and table. Nadia loved these trips. She treated every visit like an adventure, always eager to explore, select, and discover something new. Her mother, a careful and experienced shopper, had taught her an important rule: never purchase an item without knowing its exact price first. 'Always communicate clearly with the seller,' she would say. 'And if a price is not fair, do not depend on hope — negotiate or walk away.' That morning, Nadia spotted a beautiful dish she wanted to give as a gift. It was displayed on a wooden tool shelf near the entrance. The seller, noticing her interest, came forward to offer it at a high price. Nadia looked at her mother, who indicated with a gentle nod that she should try to bargain. 'Can you recommend a fair price?' Nadia asked politely. The seller smiled and reduced the amount slightly, but Nadia did not argue loudly — she simply gathered her thoughts, remained calm, and responded with a reasonable counter-offer. In the end, both sides agreed. As they left the market, their bags full of fresh vegetables, a selected dish, and several other items, Nadia's mother said, 'You treated that seller with respect, and in return, he treated you fairly. That is how good communication works.' Nadia smiled, appreciating the lesson. She realized that whether you are buying a product, managing property, or simply talking to a neighbor, the tools of kindness, patience, and clear communication are never empty — they always carry great value.",
+    "comprehension": [
+      {
+        "q": "Where did Nadia and her mother go every Friday?",
+        "opts": [
+          "to school",
+          "to the town market",
+          "to the property office",
+          "to a restaurant"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What rule did Nadia's mother teach her?",
+        "opts": [
+          "always argue loudly",
+          "never purchase without knowing the exact price",
+          "depend on luck",
+          "avoid the crowd"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What item did Nadia want to purchase?",
+        "opts": [
+          "a fresh vegetable",
+          "a beautiful dish",
+          "a useful tool",
+          "a new product"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "How did Nadia handle the price negotiation?",
+        "opts": [
+          "she argued loudly",
+          "she stayed calm and made a reasonable counter-offer",
+          "she walked away",
+          "she depended on her mother"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What lesson did Nadia's mother share at the end?",
+        "opts": [
+          "always select the cheapest item",
+          "kindness and clear communication carry great value",
+          "crowds make shopping difficult",
+          "property is more important than products"
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "argue",
+      "communicate",
+      "crowd",
+      "depend",
+      "dish",
+      "empty",
+      "exact",
+      "fresh",
+      "gather",
+      "indicate",
+      "item",
+      "offer",
+      "price",
+      "product",
+      "property",
+      "purchase",
+      "recommend",
+      "select",
+      "tool",
+      "treat"
+    ]
+  },
+
+  "listening": {
+    "title": "A Customer and a Shopkeeper",
+    "script": "A: Good morning. Can I help you select something today?\nB: Yes, I am looking for a fresh dish to serve at a family gathering.\nA: We have many products. Let me indicate the best ones for you.\nB: Thank you. What would you recommend?\nA: This one is very popular. It is made from quality material and the price is fair.\nB: What is the exact price?\nA: It is five hundred taka. But if you purchase two items, I can offer a small discount.\nB: That sounds good. Can you communicate the total price clearly?\nA: Of course. Two items will cost nine hundred taka in total.\nB: I depend on your honesty as a seller. Is this product fresh?\nA: Absolutely. All our products are gathered fresh every morning.\nB: Good. I do not want to argue about this but that price is still a little high.\nA: I understand. I can treat you as a regular customer and reduce it to eight hundred and fifty taka.\nB: That is fair. I will select these two items then.\nA: Excellent. Shall I wrap them as a treat for your guests?\nB: Yes please. And please indicate on the receipt the exact items I purchased.\nA: Of course. Is there anything else you need today?\nB: No, this is enough. The shelves looked a little empty when I came in.\nA: Yes, we gather new stock every Friday. Come back next week and the crowd will be here too.\nB: I will. Thank you for treating me so well.\nA: Thank you for your purchase. Please recommend us to your friends.",
+    "comprehension": [
+      {
+        "q": "What was the customer looking for?",
+        "opts": [
+          "a fresh tool",
+          "a fresh dish for a family gathering",
+          "a property item",
+          "a product for work"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What discount did the shopkeeper offer?",
+        "opts": [
+          "buy one get one free",
+          "a discount if the customer purchases two items",
+          "a free product",
+          "half price on all items"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "Why did the customer say the shelves looked empty?",
+        "opts": [
+          "the shop had closed",
+          "stock was low before Friday restocking",
+          "all items were sold out",
+          "the crowd took everything"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did the shopkeeper ask the customer to do at the end?",
+        "opts": [
+          "argue about price",
+          "recommend the shop to friends",
+          "gather more items",
+          "select another product"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Describing a Shopping Experience",
+    "prompt": "Talk about a time you went shopping. Use words like price, purchase, item, select, offer, fresh, recommend, and treat.",
+    "example": "Last weekend I went to the local market to purchase some fresh vegetables and a few other items. The crowd was very large and the noise was exciting. I had to communicate clearly with each seller to get the exact price. One seller tried to argue about the price of a dish I wanted, but I stayed calm and did not depend on him to reduce it — I simply walked to the next stall. Another seller offered me a great deal and recommended a product I had never tried before. I selected it and was very happy. The seller treated me kindly and gave me an extra item as a treat. It was a wonderful experience. I now recommend that market to all my friends.",
+    "tips": [
+      "Start by describing where and when you went shopping",
+      "Use price and purchase to talk about what you bought",
+      "Describe the crowd and how you communicated with sellers",
+      "Use select and recommend to talk about choices",
+      "Mention whether the deal was fair and how the seller treated you",
+      "End by saying whether you would recommend the place to others"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "A customer visits a shop to buy a gift",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Welcome to our shop. What item are you looking for today?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Say what you are looking for and why you want to purchase it."
+      },
+      {
+        "speaker": "app",
+        "text": "We have many products. Let me indicate a few good options for you."
+      },
+      {
+        "speaker": "user",
+        "prompt": "Ask the seller to recommend the best one and explain what you need."
+      },
+      {
+        "speaker": "app",
+        "text": "This one is very fresh and popular. What is your exact budget?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Share your budget and ask for the exact price of the item."
+      },
+      {
+        "speaker": "app",
+        "text": "The price is a little high but I can offer a small discount if you select two items."
+      },
+      {
+        "speaker": "user",
+        "prompt": "Decide whether to accept the offer or argue for a fairer price."
+      },
+      {
+        "speaker": "app",
+        "text": "Alright, I will treat you as a special customer. Here is my best price."
+      },
+      {
+        "speaker": "user",
+        "prompt": "Respond to the offer and say whether you will purchase the item."
+      },
+      {
+        "speaker": "app",
+        "text": "Is there anything else you need before you gather your things and leave?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Say whether you need anything else and thank the seller for treating you well."
+      }
+    ]
+  }
+}

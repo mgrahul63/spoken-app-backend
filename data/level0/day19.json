@@ -1,0 +1,505 @@
+{
+  "day": 19,
+  "topic": "People, Society & Justice Vocabulary",
+  "lessonId": "L0D19",
+  "vocabulary": [
+    {
+      "word": "alive",
+      "phonetic": "/əˈlaɪv/",
+      "meaning": "living; not dead",
+      "bangla": "জীবিত",
+      "example": "The plant is still alive.",
+      "exampleBn": "গাছটি এখনও জীবিত।"
+    },
+    {
+      "word": "bone",
+      "phonetic": "/boʊn/",
+      "meaning": "a hard part inside the body",
+      "bangla": "হাড়",
+      "example": "He broke a bone in his leg.",
+      "exampleBn": "সে তার পায়ের হাড় ভেঙেছে।"
+    },
+    {
+      "word": "bother",
+      "phonetic": "/ˈbɒðər/",
+      "meaning": "to disturb or worry someone",
+      "bangla": "বিরক্ত করা",
+      "example": "Don't bother me now.",
+      "exampleBn": "এখন আমাকে বিরক্ত করো না।"
+    },
+    {
+      "word": "captain",
+      "phonetic": "/ˈkæptɪn/",
+      "meaning": "the leader of a team or ship",
+      "bangla": "অধিনায়ক / ক্যাপ্টেন",
+      "example": "She is the captain of the team.",
+      "exampleBn": "সে দলের অধিনায়ক।"
+    },
+    {
+      "word": "conclusion",
+      "phonetic": "/kənˈkluːʒn/",
+      "meaning": "the final decision or ending",
+      "bangla": "উপসংহার",
+      "example": "What is your conclusion?",
+      "exampleBn": "তোমার উপসংহার কী?"
+    },
+    {
+      "word": "doubt",
+      "phonetic": "/daʊt/",
+      "meaning": "a feeling of uncertainty or disbelief",
+      "bangla": "সন্দেহ",
+      "example": "I have no doubt about it.",
+      "exampleBn": "এ বিষয়ে আমার কোনো সন্দেহ নেই।"
+    },
+    {
+      "word": "explore",
+      "phonetic": "/ɪkˈsplɔːr/",
+      "meaning": "to travel through and discover new places",
+      "bangla": "অন্বেষণ করা",
+      "example": "They explore the jungle.",
+      "exampleBn": "তারা জঙ্গল অন্বেষণ করে।"
+    },
+    {
+      "word": "foreign",
+      "phonetic": "/ˈfɒrən/",
+      "meaning": "from or relating to another country",
+      "bangla": "বিদেশী",
+      "example": "She speaks a foreign language.",
+      "exampleBn": "সে একটি বিদেশী ভাষায় কথা বলে।"
+    },
+    {
+      "word": "glad",
+      "phonetic": "/ɡlæd/",
+      "meaning": "feeling pleased or happy",
+      "bangla": "খুশি",
+      "example": "I am glad to meet you.",
+      "exampleBn": "তোমার সাথে দেখা হয়ে আমি খুশি।"
+    },
+    {
+      "word": "however",
+      "phonetic": "/haʊˈevər/",
+      "meaning": "used to introduce a contrasting point",
+      "bangla": "তবে / তবুও",
+      "example": "It was hard. However, I did it.",
+      "exampleBn": "এটি কঠিন ছিল। তবুও, আমি এটি করেছি।"
+    },
+    {
+      "word": "injustice",
+      "phonetic": "/ɪnˈdʒʌstɪs/",
+      "meaning": "unfair treatment or lack of justice",
+      "bangla": "অবিচার",
+      "example": "We must fight injustice.",
+      "exampleBn": "আমাদের অবিচারের বিরুদ্ধে লড়তে হবে।"
+    },
+    {
+      "word": "international",
+      "phonetic": "/ˌɪntəˈnæʃənl/",
+      "meaning": "involving more than one country",
+      "bangla": "আন্তর্জাতিক",
+      "example": "It is an international event.",
+      "exampleBn": "এটি একটি আন্তর্জাতিক অনুষ্ঠান।"
+    },
+    {
+      "word": "lawyer",
+      "phonetic": "/ˈlɔːjər/",
+      "meaning": "a person who practices law",
+      "bangla": "আইনজীবী",
+      "example": "She is a famous lawyer.",
+      "exampleBn": "সে একজন বিখ্যাত আইনজীবী।"
+    },
+    {
+      "word": "mention",
+      "phonetic": "/ˈmenʃn/",
+      "meaning": "to refer to something briefly",
+      "bangla": "উল্লেখ করা",
+      "example": "He mentioned your name.",
+      "exampleBn": "সে তোমার নাম উল্লেখ করেছে।"
+    },
+    {
+      "word": "policy",
+      "phonetic": "/ˈpɒləsi/",
+      "meaning": "a set of rules or plans made by an authority",
+      "bangla": "নীতি",
+      "example": "The school has a strict policy.",
+      "exampleBn": "স্কুলের একটি কঠোর নীতি আছে।"
+    },
+    {
+      "word": "social",
+      "phonetic": "/ˈsoʊʃl/",
+      "meaning": "relating to society and people living together",
+      "bangla": "সামাজিক",
+      "example": "She has good social skills.",
+      "exampleBn": "তার ভালো সামাজিক দক্ষতা আছে।"
+    },
+    {
+      "word": "speech",
+      "phonetic": "/spiːtʃ/",
+      "meaning": "a formal talk given to an audience",
+      "bangla": "বক্তৃতা",
+      "example": "He gave a powerful speech.",
+      "exampleBn": "সে একটি শক্তিশালী বক্তৃতা দিল।"
+    },
+    {
+      "word": "staff",
+      "phonetic": "/stɑːf/",
+      "meaning": "the group of people who work somewhere",
+      "bangla": "কর্মী / স্টাফ",
+      "example": "The staff is very helpful.",
+      "exampleBn": "কর্মীরা অনেক সহায়ক।"
+    },
+    {
+      "word": "toward",
+      "phonetic": "/təˈwɔːrd/",
+      "meaning": "in the direction of",
+      "bangla": "দিকে",
+      "example": "She walked toward the door.",
+      "exampleBn": "সে দরজার দিকে হাঁটল।"
+    },
+    {
+      "word": "wood",
+      "phonetic": "/wʊd/",
+      "meaning": "the hard material from trees",
+      "bangla": "কাঠ",
+      "example": "The table is made of wood.",
+      "exampleBn": "টেবিলটি কাঠ দিয়ে তৈরি।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "still alive",
+      "bangla": "এখনও জীবিত",
+      "usage": "survival",
+      "example": "He is still alive."
+    },
+    {
+      "phrase": "break a bone",
+      "bangla": "হাড় ভাঙা",
+      "usage": "injury",
+      "example": "She broke a bone."
+    },
+    {
+      "phrase": "don't bother",
+      "bangla": "বিরক্ত করো না",
+      "usage": "request",
+      "example": "Please don't bother me."
+    },
+    {
+      "phrase": "team captain",
+      "bangla": "দলের অধিনায়ক",
+      "usage": "leadership",
+      "example": "He is the team captain."
+    },
+    {
+      "phrase": "reach conclusion",
+      "bangla": "উপসংহারে পৌঁছানো",
+      "usage": "decision",
+      "example": "We reached a conclusion."
+    },
+    {
+      "phrase": "no doubt",
+      "bangla": "কোনো সন্দেহ নেই",
+      "usage": "certainty",
+      "example": "There is no doubt."
+    },
+    {
+      "phrase": "explore nature",
+      "bangla": "প্রকৃতি অন্বেষণ করা",
+      "usage": "adventure",
+      "example": "We explore nature together."
+    },
+    {
+      "phrase": "foreign country",
+      "bangla": "বিদেশী দেশ",
+      "usage": "travel",
+      "example": "She moved to a foreign country."
+    },
+    {
+      "phrase": "feel glad",
+      "bangla": "খুশি অনুভব করা",
+      "usage": "emotion",
+      "example": "I feel glad today."
+    },
+    {
+      "phrase": "however difficult",
+      "bangla": "যতই কঠিন হোক",
+      "usage": "contrast",
+      "example": "However difficult, I will try."
+    },
+    {
+      "phrase": "fight injustice",
+      "bangla": "অবিচারের বিরুদ্ধে লড়া",
+      "usage": "justice",
+      "example": "We must fight injustice."
+    },
+    {
+      "phrase": "international event",
+      "bangla": "আন্তর্জাতিক অনুষ্ঠান",
+      "usage": "global",
+      "example": "It is an international event."
+    },
+    {
+      "phrase": "hire a lawyer",
+      "bangla": "আইনজীবী নিয়োগ করা",
+      "usage": "legal",
+      "example": "He hired a lawyer."
+    },
+    {
+      "phrase": "mention name",
+      "bangla": "নাম উল্লেখ করা",
+      "usage": "reference",
+      "example": "She mentioned his name."
+    },
+    {
+      "phrase": "follow policy",
+      "bangla": "নীতি অনুসরণ করা",
+      "usage": "rules",
+      "example": "Follow the school policy."
+    },
+    {
+      "phrase": "social media",
+      "bangla": "সামাজিক মিডিয়া",
+      "usage": "technology",
+      "example": "She uses social media."
+    },
+    {
+      "phrase": "give speech",
+      "bangla": "বক্তৃতা দেওয়া",
+      "usage": "public speaking",
+      "example": "He gave a speech."
+    },
+    {
+      "phrase": "office staff",
+      "bangla": "অফিসের কর্মী",
+      "usage": "work",
+      "example": "The office staff is busy."
+    },
+    {
+      "phrase": "walk toward",
+      "bangla": "দিকে হাঁটা",
+      "usage": "direction",
+      "example": "Walk toward the light."
+    },
+    {
+      "phrase": "piece of wood",
+      "bangla": "কাঠের টুকরো",
+      "usage": "material",
+      "example": "He cut a piece of wood."
+    }
+  ],
+
+  "sentences": [
+    { "en": "Is the bird still alive?", "bn": "পাখিটি কি এখনও জীবিত?" },
+    { "en": "The bone is strong.", "bn": "হাড়টি শক্ত।" },
+    { "en": "Don't bother others.", "bn": "অন্যদের বিরক্ত করো না।" },
+    { "en": "The captain led the team.", "bn": "অধিনায়ক দলকে নেতৃত্ব দিল।" },
+    { "en": "State your conclusion.", "bn": "তোমার উপসংহার বলো।" },
+    { "en": "I have no doubt.", "bn": "আমার কোনো সন্দেহ নেই।" },
+    { "en": "Let us explore the city.", "bn": "আমরা শহরটি অন্বেষণ করি।" },
+    { "en": "He learned a foreign language.", "bn": "সে একটি বিদেশী ভাষা শিখেছে।" },
+    { "en": "I am glad you came.", "bn": "তুমি এসেছ বলে আমি খুশি।" },
+    { "en": "However, she never gave up.", "bn": "তবুও, সে কখনো হাল ছাড়েনি।" },
+    { "en": "Injustice must be stopped.", "bn": "অবিচার বন্ধ করতে হবে।" },
+    { "en": "This is an international school.", "bn": "এটি একটি আন্তর্জাতিক স্কুল।" },
+    { "en": "The lawyer spoke clearly.", "bn": "আইনজীবী স্পষ্টভাবে কথা বললেন।" },
+    { "en": "Please mention the details.", "bn": "অনুগ্রহ করে বিস্তারিত উল্লেখ করো।" },
+    { "en": "Read the school policy.", "bn": "স্কুলের নীতি পড়ো।" },
+    { "en": "She is very social.", "bn": "সে অনেক সামাজিক।" },
+    { "en": "His speech was inspiring.", "bn": "তার বক্তৃতা অনুপ্রেরণামূলক ছিল।" },
+    { "en": "The staff works hard.", "bn": "কর্মীরা কঠোর পরিশ্রম করে।" },
+    { "en": "Move toward the exit.", "bn": "বাহির দরজার দিকে যাও।" },
+    { "en": "This chair is made of wood.", "bn": "এই চেয়ারটি কাঠের তৈরি।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Alive means?",
+      "opts": ["dead", "living", "sleeping", "broken"],
+      "ans": 1,
+      "explanation": "Alive means living; not dead."
+    },
+    {
+      "q": "Bone means?",
+      "opts": ["muscle", "hard part inside body", "skin", "blood"],
+      "ans": 1,
+      "explanation": "Bone means a hard part inside the body."
+    },
+    {
+      "q": "Bother means?",
+      "opts": ["help", "disturb or worry", "cheer", "guide"],
+      "ans": 1,
+      "explanation": "Bother means to disturb or worry someone."
+    },
+    {
+      "q": "Captain means?",
+      "opts": ["player", "leader of a team or ship", "coach", "judge"],
+      "ans": 1,
+      "explanation": "Captain means the leader of a team or ship."
+    },
+    {
+      "q": "Conclusion means?",
+      "opts": ["beginning", "final decision or ending", "middle", "question"],
+      "ans": 1,
+      "explanation": "Conclusion means the final decision or ending."
+    },
+    {
+      "q": "Doubt means?",
+      "opts": ["belief", "feeling of uncertainty", "joy", "trust"],
+      "ans": 1,
+      "explanation": "Doubt means a feeling of uncertainty or disbelief."
+    },
+    {
+      "q": "Explore means?",
+      "opts": ["stay", "travel and discover", "hide", "sleep"],
+      "ans": 1,
+      "explanation": "Explore means to travel through and discover new places."
+    },
+    {
+      "q": "Foreign means?",
+      "opts": ["local", "from another country", "ancient", "hidden"],
+      "ans": 1,
+      "explanation": "Foreign means from or relating to another country."
+    },
+    {
+      "q": "Glad means?",
+      "opts": ["sad", "pleased or happy", "angry", "tired"],
+      "ans": 1,
+      "explanation": "Glad means feeling pleased or happy."
+    },
+    {
+      "q": "However means?",
+      "opts": ["therefore", "but or in contrast", "also", "because"],
+      "ans": 1,
+      "explanation": "However is used to introduce a contrasting point."
+    },
+    {
+      "q": "Injustice means?",
+      "opts": ["fairness", "unfair treatment", "kindness", "reward"],
+      "ans": 1,
+      "explanation": "Injustice means unfair treatment or lack of justice."
+    },
+    {
+      "q": "International means?",
+      "opts": ["local", "involving many countries", "ancient", "personal"],
+      "ans": 1,
+      "explanation": "International means involving more than one country."
+    },
+    {
+      "q": "Lawyer means?",
+      "opts": ["doctor", "person who practices law", "teacher", "engineer"],
+      "ans": 1,
+      "explanation": "Lawyer means a person who practices law."
+    },
+    {
+      "q": "Mention means?",
+      "opts": ["forget", "refer to briefly", "shout", "hide"],
+      "ans": 1,
+      "explanation": "Mention means to refer to something briefly."
+    },
+    {
+      "q": "Policy means?",
+      "opts": ["story", "set of rules by authority", "game", "food"],
+      "ans": 1,
+      "explanation": "Policy means a set of rules or plans made by an authority."
+    },
+    {
+      "q": "Social means?",
+      "opts": ["alone", "relating to society", "foreign", "broken"],
+      "ans": 1,
+      "explanation": "Social means relating to society and people living together."
+    },
+    {
+      "q": "Speech means?",
+      "opts": ["letter", "formal talk to audience", "book", "note"],
+      "ans": 1,
+      "explanation": "Speech means a formal talk given to an audience."
+    },
+    {
+      "q": "Staff means?",
+      "opts": ["building", "group of workers", "machine", "road"],
+      "ans": 1,
+      "explanation": "Staff means the group of people who work somewhere."
+    },
+    {
+      "q": "Toward means?",
+      "opts": ["away from", "in the direction of", "behind", "above"],
+      "ans": 1,
+      "explanation": "Toward means in the direction of."
+    },
+    {
+      "q": "Wood means?",
+      "opts": ["metal", "hard material from trees", "stone", "plastic"],
+      "ans": 1,
+      "explanation": "Wood means the hard material from trees."
+    }
+  ],
+
+  "story": {
+    "title": "The Captain's Speech",
+    "body": "In a small but lively town, there lived a captain named Farhan who was known for being social and kind. He worked with an international organization that fought against injustice in foreign countries. One day, the staff of his office asked him to give a speech at the town hall. Though he had some doubt about his words, Farhan agreed without letting it bother him. He walked toward the wooden stage, built from fine local wood, and began to speak. He mentioned the struggles of people who were barely alive in war zones, who had broken bones and no food. He spoke about a lawyer who had fought a case and reached a conclusion that changed the policy of an entire county. However, the most powerful part was when Farhan said, 'I am glad to live in a world where people still explore ways to fix injustice.' The audience fell silent, then rose in applause. It was an international moment — a reminder that social change begins with one honest voice.",
+    "comprehension": [
+      {
+        "q": "What was Farhan's role?",
+        "opts": ["teacher", "captain", "lawyer", "doctor"],
+        "ans": 1
+      },
+      {
+        "q": "What did the staff ask Farhan to do?",
+        "opts": ["write a book", "give a speech", "explore a jungle", "follow a policy"],
+        "ans": 1
+      },
+      {
+        "q": "What was the stage made of?",
+        "opts": ["metal", "wood", "stone", "plastic"],
+        "ans": 1
+      },
+      {
+        "q": "What did Farhan say he was glad about?",
+        "opts": ["his salary", "people exploring ways to fix injustice", "foreign travel", "the weather"],
+        "ans": 1
+      }
+    ],
+    "tags": ["captain", "speech", "injustice", "international", "lawyer", "policy", "social", "wood", "explore", "staff", "glad", "however"]
+  },
+
+  "listening": {
+    "title": "After the Big Speech",
+    "script": "A: Did you hear the captain's speech?\nB: Yes! I am so glad I attended.\nA: Did he mention the injustice in foreign countries?\nB: He did. There was no doubt it was powerful.\nA: The staff organized it well.\nB: However, I think the policy part was the most important.\nA: A lawyer also spoke, right?\nB: Yes, she talked about reaching a conclusion in a social case.\nA: Were many people alive to those ideas?\nB: Totally. Everyone walked toward a new understanding.\nA: Will this change anything internationally?\nB: It might. The captain said exploring solutions is the first bone of progress.\nA: I hope so. Don't bother with the doubters.\nB: Agreed. Let's move toward change.",
+    "comprehension": [
+      {
+        "q": "What did B think was most important?",
+        "opts": ["the music", "the policy part", "the food", "the decoration"],
+        "ans": 1
+      },
+      {
+        "q": "Who else spoke at the event?",
+        "opts": ["a doctor", "a lawyer", "a teacher", "a captain"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Speaking Up Against Injustice",
+    "prompt": "Talk about a time when you or someone you know stood up against injustice. Use words like doubt, however, glad, policy, and conclusion.",
+    "example": "Once I saw an injustice at school. However, I had doubt about speaking up. But I am glad I did. I talked to the staff and we reached a conclusion. The school changed its policy after that.",
+    "tips": [
+      "Start with what happened",
+      "Use 'however' to show contrast",
+      "Say how you felt using 'glad' or 'doubt'",
+      "End with a conclusion or result"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Discussing a social issue",
+    "steps": [
+      { "speaker": "app", "text": "Do you think injustice still exists in our society?" },
+      { "speaker": "user", "prompt": "Give your opinion with a reason." },
+      { "speaker": "app", "text": "Have you ever seen a foreign policy that seemed unfair?" },
+      { "speaker": "user", "prompt": "Mention an example you know." },
+      { "speaker": "app", "text": "What is your conclusion — can people explore solutions together?" },
+      { "speaker": "user", "prompt": "End with your final thought using 'however' or 'glad'." }
+    ]
+  }
+}

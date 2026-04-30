@@ -1,0 +1,548 @@
+{
+  "day": 21,
+  "topic": "Work, Health & Daily Life Vocabulary",
+  "lessonId": "L0D21",
+  "vocabulary": [
+    {
+      "word": "appear",
+      "phonetic": "/əˈpɪər/",
+      "meaning": "to come into sight or seem to be",
+      "bangla": "দেখা দেওয়া / মনে হওয়া",
+      "example": "A star appeared in the sky.",
+      "exampleBn": "আকাশে একটি তারা দেখা দিল।"
+    },
+    {
+      "word": "base",
+      "phonetic": "/beɪs/",
+      "meaning": "the bottom part or foundation of something",
+      "bangla": "ভিত্তি / মূল",
+      "example": "Hard work is the base of success.",
+      "exampleBn": "কঠোর পরিশ্রম সাফল্যের ভিত্তি।"
+    },
+    {
+      "word": "brain",
+      "phonetic": "/breɪn/",
+      "meaning": "the organ inside the head used for thinking",
+      "bangla": "মস্তিষ্ক",
+      "example": "Use your brain to solve it.",
+      "exampleBn": "এটি সমাধান করতে তোমার মস্তিষ্ক ব্যবহার করো।"
+    },
+    {
+      "word": "career",
+      "phonetic": "/kəˈrɪər/",
+      "meaning": "a long-term job or profession",
+      "bangla": "ক্যারিয়ার / পেশা",
+      "example": "She has a great career in medicine.",
+      "exampleBn": "তার চিকিৎসায় একটি দুর্দান্ত ক্যারিয়ার আছে।"
+    },
+    {
+      "word": "clerk",
+      "phonetic": "/klɑːrk/",
+      "meaning": "a person who works in an office doing records or accounts",
+      "bangla": "কেরানি / দোকানকর্মী",
+      "example": "The clerk filed the documents.",
+      "exampleBn": "কেরানি নথিপত্র দাখিল করলেন।"
+    },
+    {
+      "word": "effort",
+      "phonetic": "/ˈefərt/",
+      "meaning": "the use of energy or hard work to do something",
+      "bangla": "প্রচেষ্টা",
+      "example": "She put in a lot of effort.",
+      "exampleBn": "সে অনেক প্রচেষ্টা দিল।"
+    },
+    {
+      "word": "enter",
+      "phonetic": "/ˈentər/",
+      "meaning": "to go or come into a place",
+      "bangla": "প্রবেশ করা",
+      "example": "Please enter the room quietly.",
+      "exampleBn": "অনুগ্রহ করে শান্তভাবে ঘরে প্রবেশ করো।"
+    },
+    {
+      "word": "excellent",
+      "phonetic": "/ˈeksələnt/",
+      "meaning": "extremely good; outstanding",
+      "bangla": "চমৎকার",
+      "example": "She gave an excellent performance.",
+      "exampleBn": "সে একটি চমৎকার পারফরম্যান্স দিল।"
+    },
+    {
+      "word": "hero",
+      "phonetic": "/ˈhɪroʊ/",
+      "meaning": "a person admired for courage or great deeds",
+      "bangla": "বীর / নায়ক",
+      "example": "The firefighter is a true hero.",
+      "exampleBn": "অগ্নিনির্বাপক একজন সত্যিকারের বীর।"
+    },
+    {
+      "word": "hurry",
+      "phonetic": "/ˈhɜːri/",
+      "meaning": "to move or do something quickly",
+      "bangla": "তাড়াহুড়া করা",
+      "example": "We must hurry or we'll be late.",
+      "exampleBn": "আমাদের তাড়াহুড়া করতে হবে নয়তো দেরি হবে।"
+    },
+    {
+      "word": "inform",
+      "phonetic": "/ɪnˈfɔːrm/",
+      "meaning": "to give someone facts or information",
+      "bangla": "জানানো / অবহিত করা",
+      "example": "Please inform me about the meeting.",
+      "exampleBn": "অনুগ্রহ করে আমাকে মিটিং সম্পর্কে জানাও।"
+    },
+    {
+      "word": "later",
+      "phonetic": "/ˈleɪtər/",
+      "meaning": "at a time after the present",
+      "bangla": "পরে",
+      "example": "We will talk later.",
+      "exampleBn": "আমরা পরে কথা বলব।"
+    },
+    {
+      "word": "leave",
+      "phonetic": "/liːv/",
+      "meaning": "to go away from a place",
+      "bangla": "চলে যাওয়া",
+      "example": "She will leave tomorrow.",
+      "exampleBn": "সে আগামীকাল চলে যাবে।"
+    },
+    {
+      "word": "locate",
+      "phonetic": "/loʊˈkeɪt/",
+      "meaning": "to find the exact place of something",
+      "bangla": "খুঁজে বের করা",
+      "example": "Can you locate the hospital?",
+      "exampleBn": "তুমি কি হাসপাতালটি খুঁজে বের করতে পারবে?"
+    },
+    {
+      "word": "nurse",
+      "phonetic": "/nɜːrs/",
+      "meaning": "a person trained to care for sick people",
+      "bangla": "নার্স / সেবিকা",
+      "example": "The nurse checked his temperature.",
+      "exampleBn": "নার্স তার তাপমাত্রা পরীক্ষা করলেন।"
+    },
+    {
+      "word": "operation",
+      "phonetic": "/ˌɒpəˈreɪʃn/",
+      "meaning": "a medical procedure or an organized activity",
+      "bangla": "অপারেশন / কার্যক্রম",
+      "example": "The operation was successful.",
+      "exampleBn": "অপারেশনটি সফল হয়েছে।"
+    },
+    {
+      "word": "pain",
+      "phonetic": "/peɪn/",
+      "meaning": "physical or emotional suffering",
+      "bangla": "ব্যথা / যন্ত্রণা",
+      "example": "She felt pain in her back.",
+      "exampleBn": "সে পিঠে ব্যথা অনুভব করল।"
+    },
+    {
+      "word": "refuse",
+      "phonetic": "/rɪˈfjuːz/",
+      "meaning": "to say no to something",
+      "bangla": "প্রত্যাখ্যান করা",
+      "example": "He refused to leave.",
+      "exampleBn": "সে চলে যেতে অস্বীকার করল।"
+    },
+    {
+      "word": "though",
+      "phonetic": "/ðoʊ/",
+      "meaning": "despite the fact that; even so",
+      "bangla": "যদিও",
+      "example": "Though it was cold, she went out.",
+      "exampleBn": "যদিও ঠান্ডা ছিল, সে বাইরে গেল।"
+    },
+    {
+      "word": "various",
+      "phonetic": "/ˈveəriəs/",
+      "meaning": "of different kinds; several",
+      "bangla": "বিভিন্ন",
+      "example": "There are various ways to learn.",
+      "exampleBn": "শেখার বিভিন্ন উপায় আছে।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "appear suddenly",
+      "bangla": "হঠাৎ দেখা দেওয়া",
+      "usage": "surprise",
+      "example": "He appeared suddenly."
+    },
+    {
+      "phrase": "strong base",
+      "bangla": "শক্তিশালী ভিত্তি",
+      "usage": "foundation",
+      "example": "Build a strong base first."
+    },
+    {
+      "phrase": "use your brain",
+      "bangla": "মস্তিষ্ক ব্যবহার করো",
+      "usage": "thinking",
+      "example": "Use your brain wisely."
+    },
+    {
+      "phrase": "build a career",
+      "bangla": "ক্যারিয়ার গড়া",
+      "usage": "profession",
+      "example": "She built a great career."
+    },
+    {
+      "phrase": "office clerk",
+      "bangla": "অফিস কেরানি",
+      "usage": "work",
+      "example": "He works as an office clerk."
+    },
+    {
+      "phrase": "make effort",
+      "bangla": "প্রচেষ্টা করা",
+      "usage": "hard work",
+      "example": "Make every effort to succeed."
+    },
+    {
+      "phrase": "enter the room",
+      "bangla": "ঘরে প্রবেশ করা",
+      "usage": "movement",
+      "example": "Please enter the room."
+    },
+    {
+      "phrase": "excellent work",
+      "bangla": "চমৎকার কাজ",
+      "usage": "praise",
+      "example": "You did excellent work."
+    },
+    {
+      "phrase": "national hero",
+      "bangla": "জাতীয় বীর",
+      "usage": "honor",
+      "example": "He is a national hero."
+    },
+    {
+      "phrase": "in a hurry",
+      "bangla": "তাড়াহুড়ায়",
+      "usage": "speed",
+      "example": "She left in a hurry."
+    },
+    {
+      "phrase": "inform the team",
+      "bangla": "দলকে জানানো",
+      "usage": "communication",
+      "example": "Inform the team at once."
+    },
+    {
+      "phrase": "talk later",
+      "bangla": "পরে কথা বলা",
+      "usage": "time",
+      "example": "Let us talk later."
+    },
+    {
+      "phrase": "leave early",
+      "bangla": "তাড়াতাড়ি চলে যাওয়া",
+      "usage": "departure",
+      "example": "She likes to leave early."
+    },
+    {
+      "phrase": "locate the place",
+      "bangla": "স্থানটি খুঁজে বের করা",
+      "usage": "search",
+      "example": "Can you locate the place?"
+    },
+    {
+      "phrase": "senior nurse",
+      "bangla": "সিনিয়র নার্স",
+      "usage": "health",
+      "example": "The senior nurse helped him."
+    },
+    {
+      "phrase": "major operation",
+      "bangla": "বড় অপারেশন",
+      "usage": "medical",
+      "example": "He had a major operation."
+    },
+    {
+      "phrase": "feel pain",
+      "bangla": "ব্যথা অনুভব করা",
+      "usage": "health",
+      "example": "She felt pain in her arm."
+    },
+    {
+      "phrase": "refuse to accept",
+      "bangla": "মেনে নিতে অস্বীকার করা",
+      "usage": "rejection",
+      "example": "He refused to accept the offer."
+    },
+    {
+      "phrase": "though difficult",
+      "bangla": "যদিও কঠিন",
+      "usage": "contrast",
+      "example": "Though difficult, he succeeded."
+    },
+    {
+      "phrase": "various reasons",
+      "bangla": "বিভিন্ন কারণ",
+      "usage": "explanation",
+      "example": "There are various reasons."
+    }
+  ],
+
+  "sentences": [
+    { "en": "He appeared at the door.", "bn": "সে দরজায় দেখা দিল।" },
+    { "en": "Build a strong base.", "bn": "একটি শক্তিশালী ভিত্তি গড়ো।" },
+    { "en": "The brain never stops.", "bn": "মস্তিষ্ক কখনো থামে না।" },
+    { "en": "Choose a good career.", "bn": "একটি ভালো ক্যারিয়ার বেছে নাও।" },
+    { "en": "The clerk was busy.", "bn": "কেরানি ব্যস্ত ছিলেন।" },
+    { "en": "It takes great effort.", "bn": "এতে অনেক প্রচেষ্টা লাগে।" },
+    { "en": "Enter through the gate.", "bn": "গেট দিয়ে প্রবেশ করো।" },
+    { "en": "Your work is excellent.", "bn": "তোমার কাজ চমৎকার।" },
+    { "en": "She is my hero.", "bn": "সে আমার নায়ক।" },
+    {
+      "en": "Don't hurry, be careful.",
+      "bn": "তাড়াহুড়া করো না, সতর্ক থাকো।"
+    },
+    { "en": "Inform me about this.", "bn": "এ বিষয়ে আমাকে জানাও।" },
+    { "en": "We will meet later.", "bn": "আমরা পরে দেখা করব।" },
+    { "en": "When will you leave?", "bn": "তুমি কখন চলে যাবে?" },
+    { "en": "Locate the nearest shop.", "bn": "নিকটতম দোকানটি খুঁজে বের করো।" },
+    { "en": "The nurse was kind.", "bn": "নার্স দয়ালু ছিলেন।" },
+    { "en": "The operation took two hours.", "bn": "অপারেশনটি দুই ঘন্টা নিল।" },
+    { "en": "He is in great pain.", "bn": "সে অনেক ব্যথায় আছে।" },
+    { "en": "She refused the offer.", "bn": "সে প্রস্তাবটি প্রত্যাখ্যান করল।" },
+    {
+      "en": "Though tired, he walked on.",
+      "bn": "যদিও ক্লান্ত, সে হাঁটতে থাকল।"
+    },
+    { "en": "There are various options.", "bn": "বিভিন্ন বিকল্প আছে।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Appear means?",
+      "opts": ["hide", "come into sight", "break", "fall"],
+      "ans": 1,
+      "explanation": "Appear means to come into sight or seem to be."
+    },
+    {
+      "q": "Base means?",
+      "opts": ["top", "bottom or foundation", "side", "edge"],
+      "ans": 1,
+      "explanation": "Base means the bottom part or foundation of something."
+    },
+    {
+      "q": "Brain means?",
+      "opts": ["heart", "thinking organ in the head", "lung", "bone"],
+      "ans": 1,
+      "explanation": "Brain means the organ inside the head used for thinking."
+    },
+    {
+      "q": "Career means?",
+      "opts": ["hobby", "long-term job or profession", "holiday", "game"],
+      "ans": 1,
+      "explanation": "Career means a long-term job or profession."
+    },
+    {
+      "q": "Clerk means?",
+      "opts": ["doctor", "office worker handling records", "farmer", "singer"],
+      "ans": 1,
+      "explanation": "Clerk means a person who works in an office doing records or accounts."
+    },
+    {
+      "q": "Effort means?",
+      "opts": ["rest", "use of energy or hard work", "sleep", "luck"],
+      "ans": 1,
+      "explanation": "Effort means the use of energy or hard work to do something."
+    },
+    {
+      "q": "Enter means?",
+      "opts": ["exit", "go into a place", "fly", "run"],
+      "ans": 1,
+      "explanation": "Enter means to go or come into a place."
+    },
+    {
+      "q": "Excellent means?",
+      "opts": ["poor", "extremely good", "average", "small"],
+      "ans": 1,
+      "explanation": "Excellent means extremely good; outstanding."
+    },
+    {
+      "q": "Hero means?",
+      "opts": ["villain", "person admired for courage", "enemy", "stranger"],
+      "ans": 1,
+      "explanation": "Hero means a person admired for courage or great deeds."
+    },
+    {
+      "q": "Hurry means?",
+      "opts": ["rest", "move quickly", "wait", "sleep"],
+      "ans": 1,
+      "explanation": "Hurry means to move or do something quickly."
+    },
+    {
+      "q": "Inform means?",
+      "opts": ["confuse", "give facts or information", "hide", "forget"],
+      "ans": 1,
+      "explanation": "Inform means to give someone facts or information."
+    },
+    {
+      "q": "Later means?",
+      "opts": ["now", "at a time after the present", "before", "never"],
+      "ans": 1,
+      "explanation": "Later means at a time after the present."
+    },
+    {
+      "q": "Leave means?",
+      "opts": ["arrive", "go away from a place", "stay", "enter"],
+      "ans": 1,
+      "explanation": "Leave means to go away from a place."
+    },
+    {
+      "q": "Locate means?",
+      "opts": ["lose", "find the exact place", "break", "hide"],
+      "ans": 1,
+      "explanation": "Locate means to find the exact place of something."
+    },
+    {
+      "q": "Nurse means?",
+      "opts": [
+        "lawyer",
+        "person who cares for sick people",
+        "teacher",
+        "pilot"
+      ],
+      "ans": 1,
+      "explanation": "Nurse means a person trained to care for sick people."
+    },
+    {
+      "q": "Operation means?",
+      "opts": [
+        "holiday",
+        "medical procedure or organized activity",
+        "game",
+        "speech"
+      ],
+      "ans": 1,
+      "explanation": "Operation means a medical procedure or an organized activity."
+    },
+    {
+      "q": "Pain means?",
+      "opts": ["joy", "physical or emotional suffering", "rest", "fun"],
+      "ans": 1,
+      "explanation": "Pain means physical or emotional suffering."
+    },
+    {
+      "q": "Refuse means?",
+      "opts": ["accept", "say no to something", "agree", "help"],
+      "ans": 1,
+      "explanation": "Refuse means to say no to something."
+    },
+    {
+      "q": "Though means?",
+      "opts": ["because", "despite the fact that", "therefore", "however not"],
+      "ans": 1,
+      "explanation": "Though means despite the fact that; even so."
+    },
+    {
+      "q": "Various means?",
+      "opts": ["one", "of different kinds", "same", "single"],
+      "ans": 1,
+      "explanation": "Various means of different kinds; several."
+    }
+  ],
+
+  "story": {
+    "title": "The Nurse Who Refused to Leave",
+    "body": "In a busy hospital, there worked a nurse named Sadia who had built her entire career on caring for others. Though her shifts were long and painful, she never complained. One night, a young boy appeared at the emergency door in great pain. He had broken bones after a fall and needed an immediate operation. The clerk at the desk was in a hurry to locate the doctor, but the doctor was not available. Sadia did not refuse to help. Using her brain and excellent training, she informed the senior staff and prepared the boy for the operation. Though she was exhausted, she entered the operation room to assist. Various nurses worked through the night. Later, when the boy woke up, he looked at Sadia and said, 'You are my hero.' Sadia smiled. She knew that true effort never goes to waste. The base of a great career is not just skill — it is also a heart that refuses to leave when others need you most.",
+    "comprehension": [
+      {
+        "q": "What was Sadia's job?",
+        "opts": ["doctor", "nurse", "clerk", "teacher"],
+        "ans": 1
+      },
+      {
+        "q": "What did the boy need?",
+        "opts": ["medicine only", "an operation", "rest", "food"],
+        "ans": 1
+      },
+      {
+        "q": "What did Sadia use to help?",
+        "opts": ["luck", "her brain and training", "money", "a phone"],
+        "ans": 1
+      },
+      {
+        "q": "What did the boy call Sadia?",
+        "opts": ["a clerk", "a hero", "a captain", "a lawyer"],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "nurse",
+      "career",
+      "pain",
+      "operation",
+      "hero",
+      "effort",
+      "brain",
+      "refuse",
+      "though",
+      "various",
+      "hurry",
+      "locate"
+    ]
+  },
+
+  "listening": {
+    "title": "At the Hospital",
+    "script": "A: Did you hear about the operation last night?\nB: Yes! The nurse refused to leave the patient.\nA: Was there a doctor available?\nB: No, the clerk was in a hurry to locate one.\nA: How did they manage?\nB: Sadia used her brain and informed the senior staff.\nA: That must have taken a lot of effort.\nB: It did. Though she was tired, she entered the room.\nA: She is an excellent nurse.\nB: A true hero. The patient appeared better this morning.\nA: Various nurses helped too, right?\nB: Yes. They all worked hard. Pain or not, they stayed.\nA: I hope her career is recognized.\nB: Later, the hospital board will inform her of an award.",
+    "comprehension": [
+      {
+        "q": "Who refused to leave the patient?",
+        "opts": ["the doctor", "the nurse", "the clerk", "the officer"],
+        "ans": 1
+      },
+      {
+        "q": "What will the hospital board do later?",
+        "opts": [
+          "fire her",
+          "inform her of an award",
+          "move her",
+          "ignore her"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "A Person Who Inspired My Career",
+    "prompt": "Talk about someone who inspired your career or study. Use words like effort, excellent, hero, brain, and though.",
+    "example": "My mother inspired my career. Though life was hard, she made every effort to study. She used her brain to solve problems. Her work was always excellent. She is my true hero.",
+    "tips": [
+      "Name the person and their role",
+      "Use 'though' to show contrast",
+      "Describe the effort they made",
+      "Say why they are your hero"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Talking about someone in the hospital",
+    "steps": [
+      { "speaker": "app", "text": "Have you been to the hospital recently?" },
+      { "speaker": "user", "prompt": "Say yes or no and give a reason." },
+      { "speaker": "app", "text": "Was the nurse or doctor helpful?" },
+      {
+        "speaker": "user",
+        "prompt": "Describe what they did using 'effort' or 'excellent'."
+      },
+      {
+        "speaker": "app",
+        "text": "Did you feel pain or were you in a hurry to leave?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Explain your experience using 'though' and 'later'."
+      }
+    ]
+  }
+}
