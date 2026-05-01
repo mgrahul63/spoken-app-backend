@@ -1,0 +1,44 @@
+[
+  {
+    "base": "landmark",
+    "phonetic": "ˈlændmɑːrk",
+    "meaning": "প্রতীকী স্থান / গুরুত্বপূর্ণ স্থান",
+    "examples": [
+      {
+        "en": "The Eiffel Tower is a famous landmark.",
+        "bn": "আইফেল টাওয়ার একটি বিখ্যাত ল্যান্ডমার্ক।"
+      },
+      {
+        "en": "We visited several historical landmarks.",
+        "bn": "আমরা বেশ কয়েকটি ঐতিহাসিক ল্যান্ডমার্ক পরিদর্শন করেছি।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The building became a city landmark.",
+        "bn": "ভবনটি শহরের একটি ল্যান্ডমার্ক হয়ে উঠল।"
+      },
+      {
+        "en": "This monument is a national landmark.",
+        "bn": "এই স্মৃতিস্তম্ভ একটি জাতীয় ল্যান্ডমার্ক।"
+      },
+      {
+        "en": "They preserved the landmark carefully.",
+        "bn": "তারা ল্যান্ডমার্কটি যত্নসহকারে সংরক্ষণ করল।"
+      },
+      {
+        "en": "The church is a historical landmark.",
+        "bn": "চার্চটি একটি ঐতিহাসিক ল্যান্ডমার্ক।"
+      },
+      {
+        "en": "Tourists often visit this landmark.",
+        "bn": "পর্যটকরা প্রায়ই এই ল্যান্ডমার্কটি পরিদর্শন করে।"
+      },
+      {
+        "en": "The bridge is a famous landmark.",
+        "bn": "সেতুটি একটি বিখ্যাত ল্যান্ডমার্ক।"
+      }
+    ],
+    "synonyms": ["monument", "site", "point of interest"]
+  }
+]

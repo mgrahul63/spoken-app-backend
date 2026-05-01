@@ -1626,5 +1626,39 @@
       { "en": "He learned local customs.", "bn": "সে স্থানীয় রীতি শিখল।" }
     ],
     "synonyms": ["tradition", "practice"]
+  },
+
+  {
+    "base": "crew",
+    "phonetic": "kruː",
+    "meaning": "দল / কর্মী দল",
+    "examples": [
+      {
+        "en": "The film crew arrived early.",
+        "bn": "ফিল্মের দলটি সকালে পৌঁছাল।"
+      },
+      { "en": "The crew is working hard.", "bn": "দলটি কঠোর পরিশ্রম করছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The ship crew is very skilled.",
+        "bn": "জাহাজের কর্মীরা খুব দক্ষ।"
+      },
+      {
+        "en": "A rescue crew saved the people.",
+        "bn": "একটি উদ্ধারকারী দল মানুষদের বাঁচাল।"
+      },
+      { "en": "The crew prepared the stage.", "bn": "দলটি মঞ্চ প্রস্তুত করল।" },
+      {
+        "en": "The flight crew announced landing.",
+        "bn": "ফ্লাইটের কর্মীরা অবতরণের ঘোষণা দিল।"
+      },
+      { "en": "The crew cleaned the area.", "bn": "দলটি এলাকা পরিষ্কার করল।" },
+      {
+        "en": "A technical crew fixed the issue.",
+        "bn": "একটি প্রযুক্তিগত দল সমস্যাটি ঠিক করল।"
+      }
+    ],
+    "synonyms": ["team", "staff", "group"]
   }
 ]

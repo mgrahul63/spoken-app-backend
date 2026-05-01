@@ -21,26 +21,237 @@
     ],
     "synonyms": ["joy", "pleasure", "bliss", "delight"]
   },
+
   {
-    "base": "happiness",
-    "phonetic": "ˈhæpinəs",
-    "meaning": "সুখ",
+    "base": "hidden",
+    "phonetic": "ˈhɪdn",
+    "meaning": "লুকানো / গোপন",
     "examples": [
-      { "en": "Happiness is important.", "bn": "" },
-      { "en": "Money cannot buy happiness.", "bn": "" }
+      {
+        "en": "The key was hidden under the mat.",
+        "bn": "চাবিটি মাদুরের নিচে লুকানো ছিল।"
+      },
+      {
+        "en": "She kept her feelings hidden.",
+        "bn": "সে তার অনুভূতিগুলো লুকিয়ে রাখল।"
+      }
     ],
     "moreexample": [
-      { "en": "She found happiness in life.", "bn": "" },
-      { "en": "True happiness comes from within.", "bn": "" },
-      { "en": "Happiness makes life better.", "bn": "" },
-      { "en": "He smiled with happiness.", "bn": "" },
-      { "en": "Family brings happiness.", "bn": "" },
-      { "en": "Happiness is a choice.", "bn": "" },
-      { "en": "They shared their happiness.", "bn": "" },
-      { "en": "Success brought him happiness.", "bn": "" },
-      { "en": "Simple life gives happiness.", "bn": "" },
-      { "en": "She expressed happiness.", "bn": "" }
+      {
+        "en": "The treasure is hidden in the cave.",
+        "bn": "ধনটি গুহায় লুকানো আছে।"
+      },
+      {
+        "en": "He found a hidden message.",
+        "bn": "সে একটি গোপন বার্তা খুঁজে পেল।"
+      },
+      { "en": "Hidden danger exists.", "bn": "লুকানো বিপদ রয়েছে।" },
+      { "en": "The truth was hidden.", "bn": "সত্যটি লুকানো ছিল।" },
+      {
+        "en": "She discovered a hidden path.",
+        "bn": "সে একটি গোপন পথ খুঁজে পেল।"
+      },
+      { "en": "His talent was hidden.", "bn": "তার প্রতিভা লুকানো ছিল।" }
     ],
-    "synonyms": ["joy", "pleasure", "bliss", "delight"]
+    "synonyms": ["concealed", "secret", "covered"]
+  },
+
+  {
+    "base": "however",
+    "phonetic": "haʊˈevər",
+    "meaning": "তবে / যদিও",
+    "examples": [
+      {
+        "en": "I was tired; however, I kept working.",
+        "bn": "আমি ক্লান্ত ছিলাম; তবে কাজ চালিয়ে গেলাম।"
+      },
+      {
+        "en": "It is expensive; however, it is useful.",
+        "bn": "এটি দামী; তবে এটি উপকারী।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He failed; however, he tried again.",
+        "bn": "সে ব্যর্থ হলো; তবে আবার চেষ্টা করল।"
+      },
+      {
+        "en": "It was raining; however, we went out.",
+        "bn": "বৃষ্টি হচ্ছিল; তবে আমরা বাইরে গেলাম।"
+      },
+      {
+        "en": "She is young; however, she is smart.",
+        "bn": "সে তরুণ; তবে সে বুদ্ধিমান।"
+      },
+      {
+        "en": "The task was hard; however, he completed it.",
+        "bn": "কাজটি কঠিন ছিল; তবে সে শেষ করল।"
+      },
+      {
+        "en": "They disagreed; however, they stayed calm.",
+        "bn": "তারা দ্বিমত করল; তবে শান্ত ছিল।"
+      },
+      {
+        "en": "It is small; however, powerful.",
+        "bn": "এটি ছোট; তবে শক্তিশালী।"
+      }
+    ],
+    "synonyms": ["but", "yet", "nevertheless"]
+  },
+
+  {
+    "base": "hero",
+    "phonetic": "ˈhɪəroʊ",
+    "meaning": "নায়ক",
+    "examples": [
+      { "en": "He is a national hero.", "bn": "সে একজন জাতীয় নায়ক।" },
+      { "en": "The hero saved many lives.", "bn": "নায়ক অনেক জীবন বাঁচাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Every child has a hero.",
+        "bn": "প্রতিটি শিশুর একজন নায়ক থাকে।"
+      },
+      { "en": "She called him a hero.", "bn": "সে তাকে নায়ক বলল।" },
+      {
+        "en": "The hero fought bravely.",
+        "bn": "নায়ক সাহসিকতার সাথে লড়াই করল।"
+      },
+      {
+        "en": "He became a hero overnight.",
+        "bn": "সে রাতারাতি নায়ক হয়ে গেল।"
+      },
+      { "en": "The movie has a hero.", "bn": "মুভিতে একজন নায়ক আছে।" },
+      {
+        "en": "Heroes inspire people.",
+        "bn": "নায়করা মানুষকে অনুপ্রাণিত করে।"
+      }
+    ],
+    "synonyms": ["champion", "legend", "warrior"]
+  },
+
+  {
+    "base": "hurry",
+    "phonetic": "ˈhʌri",
+    "meaning": "তাড়াহুড়া করা",
+    "examples": [
+      { "en": "Don't hurry.", "bn": "তাড়াহুড়া কোরো না।" },
+      { "en": "He hurried to school.", "bn": "সে স্কুলে তাড়াহুড়া করে গেল।" }
+    ],
+    "moreexample": [
+      { "en": "She is in a hurry.", "bn": "সে তাড়াহুড়ায় আছে।" },
+      { "en": "We hurried home.", "bn": "আমরা তাড়াহুড়া করে বাড়ি গেলাম।" },
+      { "en": "He hurried his work.", "bn": "সে তার কাজ তাড়াতাড়ি করল।" },
+      {
+        "en": "They hurried to catch the bus.",
+        "bn": "তারা বাস ধরার জন্য তাড়াহুড়া করল।"
+      },
+      { "en": "No need to hurry.", "bn": "তাড়াহুড়া করার দরকার নেই।" },
+      {
+        "en": "She hurried through the crowd.",
+        "bn": "সে ভিড়ের মধ্যে দিয়ে তাড়াহুড়া করে গেল।"
+      }
+    ],
+    "synonyms": ["rush", "speed", "hasten"]
+  },
+
+  {
+    "base": "hunger",
+    "phonetic": "ˈhʌŋɡər",
+    "meaning": "ক্ষুধা",
+    "examples": [
+      { "en": "He felt hunger.", "bn": "সে ক্ষুধা অনুভব করল।" },
+      { "en": "Hunger is painful.", "bn": "ক্ষুধা কষ্টকর।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Many people suffer from hunger.",
+        "bn": "অনেক মানুষ ক্ষুধায় ভোগে।"
+      },
+      { "en": "She overcame hunger.", "bn": "সে ক্ষুধা কাটিয়ে উঠল।" },
+      { "en": "Hunger makes people weak.", "bn": "ক্ষুধা মানুষকে দুর্বল করে।" },
+      {
+        "en": "They shared food to stop hunger.",
+        "bn": "তারা ক্ষুধা দূর করতে খাবার ভাগ করে নিল।"
+      },
+      {
+        "en": "Hunger affects health.",
+        "bn": "ক্ষুধা স্বাস্থ্যের উপর প্রভাব ফেলে।"
+      },
+      {
+        "en": "He fought hunger daily.",
+        "bn": "সে প্রতিদিন ক্ষুধার সাথে লড়াই করত।"
+      }
+    ],
+    "synonyms": ["starvation", "appetite", "craving"]
+  },
+
+  {
+    "base": "honesty",
+    "phonetic": "ˈɒnɪsti",
+    "meaning": "সততা",
+    "examples": [
+      { "en": "Honesty is the best policy.", "bn": "সততা সর্বোত্তম নীতি।" },
+      { "en": "She is known for honesty.", "bn": "সে সততার জন্য পরিচিত।" }
+    ],
+    "moreexample": [
+      { "en": "Honesty builds trust.", "bn": "সততা বিশ্বাস তৈরি করে।" },
+      { "en": "He showed honesty.", "bn": "সে সততা দেখাল।" },
+      {
+        "en": "Honesty is important in life.",
+        "bn": "জীবনে সততা গুরুত্বপূর্ণ।"
+      },
+      { "en": "They valued honesty.", "bn": "তারা সততাকে মূল্য দিল।" },
+      {
+        "en": "Her honesty impressed everyone.",
+        "bn": "তার সততা সবাইকে মুগ্ধ করল।"
+      },
+      { "en": "Honesty solves problems.", "bn": "সততা সমস্যা সমাধান করে।" }
+    ],
+    "synonyms": ["truthfulness", "integrity", "sincerity"]
+  },
+
+  {
+    "base": "huge",
+    "phonetic": "hjuːdʒ",
+    "meaning": "বিশাল",
+    "examples": [
+      { "en": "The building is huge.", "bn": "ভবনটি বিশাল।" },
+      { "en": "He made a huge mistake.", "bn": "সে একটি বড় ভুল করল।" }
+    ],
+    "moreexample": [
+      { "en": "A huge crowd gathered.", "bn": "একটি বিশাল ভিড় জমা হলো।" },
+      { "en": "The elephant is huge.", "bn": "হাতিটি বিশাল।" },
+      { "en": "She has a huge heart.", "bn": "তার হৃদয় বিশাল।" },
+      { "en": "The project is huge.", "bn": "প্রকল্পটি বিশাল।" },
+      {
+        "en": "They faced a huge problem.",
+        "bn": "তারা একটি বড় সমস্যার মুখোমুখি হলো।"
+      },
+      { "en": "The wave was huge.", "bn": "ঢেউটি বিশাল ছিল।" }
+    ],
+    "synonyms": ["large", "enormous", "massive"]
+  },
+
+  {
+    "base": "human",
+    "phonetic": "ˈhjuːmən",
+    "meaning": "মানব / মানুষ",
+    "examples": [
+      { "en": "Human beings are intelligent.", "bn": "মানুষ বুদ্ধিমান।" },
+      { "en": "He showed human kindness.", "bn": "সে মানবিক দয়া দেখাল।" }
+    ],
+    "moreexample": [
+      { "en": "Humans need water.", "bn": "মানুষের পানি দরকার।" },
+      { "en": "Human life is precious.", "bn": "মানব জীবন মূল্যবান।" },
+      { "en": "He made a human mistake.", "bn": "সে একটি মানবিক ভুল করল।" },
+      { "en": "Human rights are important.", "bn": "মানবাধিকার গুরুত্বপূর্ণ।" },
+      { "en": "She showed human emotion.", "bn": "সে মানবিক অনুভূতি দেখাল।" },
+      {
+        "en": "Technology helps humans.",
+        "bn": "প্রযুক্তি মানুষকে সাহায্য করে।"
+      }
+    ],
+    "synonyms": ["person", "individual", "mankind"]
   }
 ]

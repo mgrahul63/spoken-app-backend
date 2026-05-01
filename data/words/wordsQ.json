@@ -1,0 +1,313 @@
+[
+  {
+    "base": "quite",
+    "phonetic": "kwaɪt",
+    "meaning": "একেবারে / বেশ / সম্পূর্ণভাবে",
+    "examples": [
+      { "en": "It is quite easy.", "bn": "এটি বেশ সহজ।" },
+      { "en": "She is quite tired.", "bn": "সে একেবারে ক্লান্ত।" }
+    ],
+    "moreexample": [
+      { "en": "The task is quite difficult.", "bn": "কাজটি বেশ কঠিন।" },
+      { "en": "He is quite happy today.", "bn": "সে আজ একেবারে খুশি।" },
+      { "en": "It is quite interesting.", "bn": "এটি বেশ আকর্ষণীয়।" },
+      { "en": "She is quite intelligent.", "bn": "সে বেশ বুদ্ধিমান।" },
+      { "en": "The food is quite good.", "bn": "খাবারটি বেশ ভালো।" },
+      { "en": "He was quite surprised.", "bn": "সে একেবারে অবাক হয়েছিল।" }
+    ],
+    "synonyms": ["fairly", "rather", "completely"]
+  },
+
+  {
+    "base": "quality",
+    "phonetic": "ˈkwɒləti",
+    "meaning": "গুণমান / মান",
+    "examples": [
+      { "en": "The quality is high.", "bn": "মান উচ্চ।" },
+      {
+        "en": "He checks the quality of products.",
+        "bn": "সে পণ্যের মান পরীক্ষা করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Quality matters in work.", "bn": "কাজে গুণমান গুরুত্বপূর্ণ।" },
+      { "en": "The quality of water is clean.", "bn": "পানির মান পরিষ্কার।" },
+      {
+        "en": "They improved product quality.",
+        "bn": "তারা পণ্যের মান উন্নত করল।"
+      },
+      {
+        "en": "She values quality over quantity.",
+        "bn": "সে পরিমাণের চেয়ে মানকে বেশি গুরুত্ব দেয়।"
+      },
+      { "en": "The quality is poor.", "bn": "মান খারাপ।" },
+      { "en": "Good quality lasts longer.", "bn": "ভালো মান বেশি টেকে।" }
+    ],
+    "synonyms": ["standard", "grade", "value"]
+  },
+
+  {
+    "base": "quantity",
+    "phonetic": "ˈkwɒntəti",
+    "meaning": "পরিমাণ",
+    "examples": [{ "en": "The quantity is large.", "bn": "পরিমাণ বড়।" }],
+    "moreexample": [
+      {
+        "en": "Check the quantity carefully.",
+        "bn": "পরিমাণটি ভালোভাবে দেখো।"
+      },
+      { "en": "The quantity increased.", "bn": "পরিমাণ বেড়েছে।" },
+      { "en": "We need more quantity.", "bn": "আমাদের আরও পরিমাণ দরকার।" },
+      { "en": "The quantity is enough.", "bn": "পরিমাণ যথেষ্ট।" },
+      { "en": "Reduce the quantity.", "bn": "পরিমাণ কমাও।" },
+      { "en": "The quantity matters.", "bn": "পরিমাণ গুরুত্বপূর্ণ।" },
+      { "en": "They measured the quantity.", "bn": "তারা পরিমাণ মাপল।" },
+      { "en": "The quantity is fixed.", "bn": "পরিমাণ নির্ধারিত।" },
+      { "en": "Add more quantity.", "bn": "আরও পরিমাণ যোগ করো।" },
+      { "en": "The quantity varies.", "bn": "পরিমাণ পরিবর্তিত হয়।" }
+    ],
+    "synonyms": ["amount", "volume", "number"]
+  },
+  {
+    "base": "question",
+    "phonetic": "ˈkwestʃən",
+    "meaning": "প্রশ্ন",
+    "examples": [{ "en": "Ask a question.", "bn": "একটি প্রশ্ন করো।" }],
+    "moreexample": [
+      { "en": "He asked many questions.", "bn": "সে অনেক প্রশ্ন করল।" },
+      { "en": "The question is simple.", "bn": "প্রশ্নটি সহজ।" },
+      { "en": "She answered the question.", "bn": "সে প্রশ্নের উত্তর দিল।" },
+      { "en": "I have a question.", "bn": "আমার একটি প্রশ্ন আছে।" },
+      {
+        "en": "The question confused him.",
+        "bn": "প্রশ্নটি তাকে বিভ্রান্ত করল।"
+      },
+      {
+        "en": "They discussed the question.",
+        "bn": "তারা প্রশ্নটি নিয়ে আলোচনা করল।"
+      },
+      {
+        "en": "Write the question clearly.",
+        "bn": "প্রশ্নটি পরিষ্কারভাবে লেখো।"
+      },
+      { "en": "He ignored the question.", "bn": "সে প্রশ্নটি উপেক্ষা করল।" },
+      { "en": "The question is important.", "bn": "প্রশ্নটি গুরুত্বপূর্ণ।" },
+      {
+        "en": "She repeated the question.",
+        "bn": "সে প্রশ্নটি পুনরাবৃত্তি করল।"
+      }
+    ],
+    "synonyms": ["query", "inquiry", "problem"]
+  },
+  {
+    "base": "quick",
+    "phonetic": "kwɪk",
+    "meaning": "দ্রুত",
+    "examples": [{ "en": "He is quick.", "bn": "সে দ্রুত।" }],
+    "moreexample": [
+      { "en": "She gave a quick answer.", "bn": "সে দ্রুত উত্তর দিল।" },
+      { "en": "Be quick.", "bn": "দ্রুত হও।" },
+      { "en": "The process is quick.", "bn": "প্রক্রিয়াটি দ্রুত।" },
+      { "en": "He made a quick move.", "bn": "সে দ্রুত পদক্ষেপ নিল।" },
+      { "en": "Quick action saved time.", "bn": "দ্রুত পদক্ষেপ সময় বাঁচাল।" },
+      { "en": "She is quick to learn.", "bn": "সে দ্রুত শিখে।" },
+      { "en": "The response was quick.", "bn": "প্রতিক্রিয়া দ্রুত ছিল।" },
+      { "en": "He took a quick look.", "bn": "সে দ্রুত একবার দেখল।" },
+      { "en": "Quick thinking helped.", "bn": "দ্রুত চিন্তা সাহায্য করল।" },
+      { "en": "Finish it quickly.", "bn": "এটি দ্রুত শেষ করো।" }
+    ],
+    "synonyms": ["fast", "rapid", "swift"]
+  },
+  {
+    "base": "quiet",
+    "phonetic": "ˈkwaɪət",
+    "meaning": "নীরব",
+    "examples": [{ "en": "The room is quiet.", "bn": "ঘরটি নীরব।" }],
+    "moreexample": [
+      { "en": "Stay quiet.", "bn": "চুপ থাকো।" },
+      { "en": "She kept quiet.", "bn": "সে নীরব রইল।" },
+      { "en": "The night is quiet.", "bn": "রাতটি নীরব।" },
+      { "en": "He spoke in a quiet voice.", "bn": "সে নীরব স্বরে কথা বলল।" },
+      { "en": "It became quiet suddenly.", "bn": "হঠাৎ নীরব হয়ে গেল।" },
+      { "en": "The place is quiet.", "bn": "জায়গাটি শান্ত।" },
+      { "en": "Keep the room quiet.", "bn": "ঘরটি নীরব রাখো।" },
+      { "en": "She remained quiet.", "bn": "সে নীরব থাকল।" },
+      { "en": "Everything is quiet now.", "bn": "এখন সবকিছু নীরব।" },
+      { "en": "He prefers quiet places.", "bn": "সে নীরব জায়গা পছন্দ করে।" }
+    ],
+    "synonyms": ["silent", "calm", "still"]
+  },
+  {
+    "base": "quit",
+    "phonetic": "kwɪt",
+    "meaning": "ছেড়ে দেওয়া",
+    "examples": [{ "en": "He quit his job.", "bn": "সে তার চাকরি ছেড়ে দিল।" }],
+    "moreexample": [
+      { "en": "Don’t quit early.", "bn": "আগে ছেড়ে দিও না।" },
+      { "en": "She quit smoking.", "bn": "সে ধূমপান ছেড়ে দিয়েছে।" },
+      { "en": "He wants to quit.", "bn": "সে ছেড়ে দিতে চায়।" },
+      { "en": "They quit the game.", "bn": "তারা খেলাটি ছেড়ে দিল।" },
+      { "en": "Never quit your dream.", "bn": "তোমার স্বপ্ন কখনো ছেড়ো না।" },
+      { "en": "She quit suddenly.", "bn": "সে হঠাৎ ছেড়ে দিল।" },
+      { "en": "He decided to quit.", "bn": "সে ছেড়ে দেওয়ার সিদ্ধান্ত নিল।" },
+      { "en": "Don’t quit learning.", "bn": "শেখা বন্ধ কোরো না।" },
+      {
+        "en": "They quit without notice.",
+        "bn": "তারা কোনো নোটিশ ছাড়াই ছেড়ে দিল।"
+      },
+      { "en": "He quit politely.", "bn": "সে ভদ্রভাবে ছেড়ে দিল।" }
+    ],
+    "synonyms": ["leave", "stop", "resign"]
+  },
+
+  {
+    "base": "quarrel",
+    "phonetic": "ˈkwɒrəl",
+    "meaning": "ঝগড়া",
+    "examples": [
+      { "en": "They had a quarrel.", "bn": "তাদের মধ্যে ঝগড়া হয়েছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Avoid unnecessary quarrels.",
+        "bn": "অপ্রয়োজনীয় ঝগড়া এড়াও।"
+      },
+      { "en": "The quarrel ended quickly.", "bn": "ঝগড়াটি দ্রুত শেষ হলো।" },
+      {
+        "en": "Brothers often quarrel.",
+        "bn": "ভাইদের মাঝে প্রায়ই ঝগড়া হয়।"
+      },
+      { "en": "She dislikes quarrels.", "bn": "সে ঝগড়া পছন্দ করে না।" },
+      {
+        "en": "Their quarrel became serious.",
+        "bn": "তাদের ঝগড়া গুরুতর হয়ে উঠল।"
+      },
+      { "en": "A small quarrel started.", "bn": "একটি ছোট ঝগড়া শুরু হলো।" },
+      { "en": "He caused a quarrel.", "bn": "সে একটি ঝগড়ার কারণ হলো।" },
+      { "en": "The quarrel was resolved.", "bn": "ঝগড়াটি মিটে গেল।" },
+      {
+        "en": "Friends should avoid quarrels.",
+        "bn": "বন্ধুদের ঝগড়া এড়ানো উচিত।"
+      },
+      { "en": "They forgot the quarrel.", "bn": "তারা ঝগড়ার কথা ভুলে গেল।" }
+    ],
+    "synonyms": ["argument", "dispute", "conflict"]
+  },
+  {
+    "base": "quartz",
+    "phonetic": "kwɔːts",
+    "meaning": "কোয়ার্টজ (খনিজ)",
+    "examples": [
+      { "en": "Quartz is a mineral.", "bn": "কোয়ার্টজ একটি খনিজ।" }
+    ],
+    "moreexample": [
+      { "en": "The watch uses quartz.", "bn": "ঘড়িতে কোয়ার্টজ ব্যবহৃত হয়।" },
+      { "en": "Quartz is hard.", "bn": "কোয়ার্টজ শক্ত।" },
+      { "en": "They found quartz stones.", "bn": "তারা কোয়ার্টজ পাথর পেল।" },
+      { "en": "Quartz is common in rocks.", "bn": "শিলায় কোয়ার্টজ সাধারণ।" },
+      { "en": "This crystal is quartz.", "bn": "এই স্ফটিকটি কোয়ার্টজ।" },
+      {
+        "en": "Quartz shines brightly.",
+        "bn": "কোয়ার্টজ উজ্জ্বলভাবে চকচক করে।"
+      },
+      { "en": "He studied quartz.", "bn": "সে কোয়ার্টজ অধ্যয়ন করল।" },
+      {
+        "en": "Quartz is useful in electronics.",
+        "bn": "ইলেকট্রনিক্সে কোয়ার্টজ উপকারী।"
+      },
+      { "en": "The ring has quartz.", "bn": "আংটিতে কোয়ার্টজ আছে।" },
+      { "en": "Quartz is natural.", "bn": "কোয়ার্টজ প্রাকৃতিক।" }
+    ],
+    "synonyms": ["crystal", "mineral", "stone"]
+  },
+  {
+    "base": "quench",
+    "phonetic": "kwentʃ",
+    "meaning": "নিবারণ করা / তৃষ্ণা মেটানো",
+    "examples": [
+      { "en": "Water quenched my thirst.", "bn": "পানি আমার তৃষ্ণা মেটাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Cold drinks quench thirst.",
+        "bn": "ঠান্ডা পানীয় তৃষ্ণা মেটায়।"
+      },
+      {
+        "en": "Nothing could quench his curiosity.",
+        "bn": "কিছুই তার কৌতূহল কমাতে পারেনি।"
+      },
+      { "en": "The rain quenched the fire.", "bn": "বৃষ্টি আগুন নেভাল।" },
+      { "en": "Juice quenched her thirst.", "bn": "জুস তার তৃষ্ণা মেটাল।" },
+      { "en": "He drank to quench thirst.", "bn": "সে তৃষ্ণা মেটাতে পান করল।" },
+      {
+        "en": "This cannot quench hunger.",
+        "bn": "এটি ক্ষুধা মেটাতে পারে না।"
+      },
+      { "en": "The desire was never quenched.", "bn": "ইচ্ছা কখনো মেটেনি।" },
+      { "en": "Water quickly quenched heat.", "bn": "পানি দ্রুত গরম কমাল।" },
+      { "en": "She quenched her thirst.", "bn": "সে তৃষ্ণা মেটাল।" },
+      {
+        "en": "Nothing quenched his anger.",
+        "bn": "কিছুই তার রাগ কমাতে পারেনি।"
+      }
+    ],
+    "synonyms": ["satisfy", "extinguish", "relieve"]
+  },
+  {
+    "base": "quiver",
+    "phonetic": "ˈkwɪvər",
+    "meaning": "কাঁপা / কম্পন",
+    "examples": [
+      { "en": "Her voice began to quiver.", "bn": "তার কণ্ঠ কাঁপতে শুরু করল।" }
+    ],
+    "moreexample": [
+      { "en": "His hands quivered.", "bn": "তার হাত কাঁপছিল।" },
+      { "en": "Leaves quiver in wind.", "bn": "বাতাসে পাতা কাঁপে।" },
+      { "en": "She felt a quiver.", "bn": "সে একটি কম্পন অনুভব করল।" },
+      { "en": "The child quivered in fear.", "bn": "শিশুটি ভয়ে কাঁপছিল।" },
+      { "en": "His lips quivered.", "bn": "তার ঠোঁট কাঁপছিল।" },
+      { "en": "The branch quivered slightly.", "bn": "ডালটি হালকা কাঁপল।" },
+      { "en": "She spoke with a quiver.", "bn": "সে কাঁপা কণ্ঠে বলল।" },
+      { "en": "The flame quivered.", "bn": "শিখাটি কাঁপছিল।" },
+      { "en": "He watched the quiver.", "bn": "সে কম্পনটি দেখল।" },
+      { "en": "Fear made him quiver.", "bn": "ভয় তাকে কাঁপিয়ে দিল।" }
+    ],
+    "synonyms": ["shake", "tremble", "shiver"]
+  },
+  {
+    "base": "quaint",
+    "phonetic": "kweɪnt",
+    "meaning": "মনোরম পুরনো ধাঁচের",
+    "examples": [
+      { "en": "It is a quaint village.", "bn": "এটি একটি মনোরম পুরনো গ্রাম।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The house looks quaint.",
+        "bn": "বাড়িটি পুরনো ধাঁচের সুন্দর দেখায়।"
+      },
+      {
+        "en": "She likes quaint places.",
+        "bn": "সে পুরনো ধাঁচের জায়গা পছন্দ করে।"
+      },
+      { "en": "The shop is quaint.", "bn": "দোকানটি মনোরম।" },
+      {
+        "en": "They visited a quaint town.",
+        "bn": "তারা একটি সুন্দর পুরনো শহর ঘুরল।"
+      },
+      { "en": "The café feels quaint.", "bn": "ক্যাফেটি পুরনো ধাঁচের লাগে।" },
+      { "en": "Its design is quaint.", "bn": "এর নকশা পুরনো ধাঁচের।" },
+      {
+        "en": "He bought a quaint lamp.",
+        "bn": "সে একটি সুন্দর পুরনো ল্যাম্প কিনল।"
+      },
+      { "en": "The street is quaint.", "bn": "রাস্তাটি মনোরম।" },
+      {
+        "en": "Quaint buildings attract tourists.",
+        "bn": "পুরনো সুন্দর ভবন পর্যটক আকর্ষণ করে।"
+      },
+      { "en": "The place felt quaint.", "bn": "জায়গাটি মনোরম লাগছিল।" }
+    ],
+    "synonyms": ["charming", "old-fashioned", "picturesque"]
+  }
+]

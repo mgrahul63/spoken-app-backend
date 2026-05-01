@@ -86,5 +86,124 @@
       { "en": "It was a strange feeling.", "bn": "" }
     ],
     "synonyms": ["odd", "unusual", "weird", "bizarre", "peculiar"]
+  },
+  {
+    "base": "stray",
+    "phonetic": "streɪ",
+    "meaning": "ভুল পথে চলে যাওয়া / পথভ্রষ্ট হওয়া",
+    "examples": [
+      {
+        "en": "The dog began to stray from home.",
+        "bn": "কুকুরটি বাড়ি থেকে দূরে চলে যেতে শুরু করল।"
+      },
+      {
+        "en": "Don’t stray from the main topic.",
+        "bn": "মূল বিষয় থেকে সরে যেও না।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She strayed into the wrong area.",
+        "bn": "সে ভুল এলাকায় চলে গেল।"
+      },
+      {
+        "en": "The child strayed away from his parents.",
+        "bn": "শিশুটি তার বাবা-মা থেকে দূরে সরে গেল।"
+      },
+      {
+        "en": "He strayed from his goal.",
+        "bn": "সে তার লক্ষ্য থেকে বিচ্যুত হলো।"
+      },
+      {
+        "en": "Animals often stray in forests.",
+        "bn": "প্রাণীরা প্রায়ই বনে পথভ্রষ্ট হয়।"
+      },
+      { "en": "She strayed off the path.", "bn": "সে পথ থেকে সরে গেল।" },
+      {
+        "en": "Do not let your thoughts stray.",
+        "bn": "তোমার চিন্তাগুলোকে ছড়িয়ে যেতে দিও না।"
+      }
+    ],
+    "synonyms": ["wander", "drift", "roam"]
+  },
+
+  {
+    "base": "significance",
+    "phonetic": "sɪɡˈnɪfɪkəns",
+    "meaning": "গুরুত্ব / তাৎপর্য",
+    "examples": [
+      {
+        "en": "The discovery has great significance.",
+        "bn": "আবিষ্কারটির বড় তাৎপর্য আছে।"
+      },
+      {
+        "en": "He explained the significance of the event.",
+        "bn": "সে ঘটনার গুরুত্ব ব্যাখ্যা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The sign has historical significance.",
+        "bn": "চিহ্নটির ঐতিহাসিক গুরুত্ব আছে।"
+      },
+      {
+        "en": "She understood the significance of education.",
+        "bn": "সে শিক্ষার গুরুত্ব বুঝল।"
+      },
+      {
+        "en": "The result has scientific significance.",
+        "bn": "ফলাফলটির বৈজ্ঞানিক তাৎপর্য আছে।"
+      },
+      {
+        "en": "They ignored the significance of the warning.",
+        "bn": "তারা সতর্কবার্তার গুরুত্ব উপেক্ষা করল।"
+      },
+      {
+        "en": "The moment held deep significance.",
+        "bn": "মুহূর্তটি গভীর তাৎপর্য বহন করেছিল।"
+      },
+      {
+        "en": "We must recognize its significance.",
+        "bn": "আমাদের এর গুরুত্ব বুঝতে হবে।"
+      }
+    ],
+    "synonyms": ["importance", "meaning", "value"]
+  },
+
+  {
+    "base": "split",
+    "phonetic": "splɪt",
+    "meaning": "ভাগ করা / বিভক্ত করা",
+    "examples": [
+      {
+        "en": "They split the bill equally.",
+        "bn": "তারা বিল সমানভাবে ভাগ করল।"
+      },
+      {
+        "en": "The road splits into two paths.",
+        "bn": "রাস্তা দুটি পথে বিভক্ত হয়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He split the wood into pieces.",
+        "bn": "সে কাঠ টুকরো টুকরো করল।"
+      },
+      { "en": "The team split into groups.", "bn": "দলটি গ্রুপে ভাগ হলো।" },
+      {
+        "en": "She split the money with her friend.",
+        "bn": "সে তার বন্ধুর সাথে টাকা ভাগ করল।"
+      },
+      {
+        "en": "The branch split under pressure.",
+        "bn": "চাপের কারণে ডালটি ভেঙে গেল।"
+      },
+      {
+        "en": "They split after the argument.",
+        "bn": "তারা ঝগড়ার পর আলাদা হয়ে গেল।"
+      },
+      { "en": "The path splits ahead.", "bn": "সামনে রাস্তা ভাগ হয়ে গেছে।" }
+    ],
+    "synonyms": ["divide", "separate", "break"]
   }
 ]

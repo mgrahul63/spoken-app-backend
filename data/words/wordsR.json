@@ -1,0 +1,309 @@
+[
+  {
+    "base": "response",
+    "phonetic": "rɪˈspɒns",
+    "meaning": "প্রতিক্রিয়া / উত্তর",
+    "examples": [
+      {
+        "en": "I got a quick response.",
+        "bn": "আমি দ্রুত একটি প্রতিক্রিয়া পেলাম।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Her response was clear.",
+        "bn": "তার প্রতিক্রিয়া পরিষ্কার ছিল।"
+      },
+      { "en": "He gave no response.", "bn": "সে কোনো উত্তর দেয়নি।" },
+      { "en": "The response was positive.", "bn": "প্রতিক্রিয়া ইতিবাচক ছিল।" },
+      {
+        "en": "They waited for a response.",
+        "bn": "তারা প্রতিক্রিয়ার জন্য অপেক্ষা করল।"
+      },
+      { "en": "His response surprised me.", "bn": "তার উত্তর আমাকে অবাক করল।" },
+      { "en": "The response came late.", "bn": "উত্তর দেরিতে এলো।" },
+      { "en": "She wrote a response.", "bn": "সে একটি উত্তর লিখল।" },
+      { "en": "The response was helpful.", "bn": "প্রতিক্রিয়াটি সহায়ক ছিল।" },
+      {
+        "en": "We expected a response.",
+        "bn": "আমরা একটি উত্তর আশা করেছিলাম।"
+      },
+      { "en": "His response was polite.", "bn": "তার উত্তর ভদ্র ছিল।" }
+    ],
+    "synonyms": ["reply", "answer", "reaction"]
+  },
+  
+  {
+    "base": "regard",
+    "phonetic": "rɪˈɡɑːd",
+    "meaning": "সম্মান / বিবেচনা করা",
+    "examples": [
+      { "en": "I regard him highly.", "bn": "আমি তাকে উচ্চভাবে সম্মান করি।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She has great regard for him.",
+        "bn": "সে তাকে খুব সম্মান করে।"
+      },
+      {
+        "en": "They regard it as important.",
+        "bn": "তারা এটিকে গুরুত্বপূর্ণ মনে করে।"
+      },
+      { "en": "He shows regard to elders.", "bn": "সে বয়স্কদের সম্মান করে।" },
+      { "en": "This matter needs regard.", "bn": "এই বিষয়টি বিবেচনা দরকার।" },
+      {
+        "en": "We regard her as a leader.",
+        "bn": "আমরা তাকে নেতা হিসেবে দেখি।"
+      },
+      {
+        "en": "He lost regard for rules.",
+        "bn": "সে নিয়মের প্রতি সম্মান হারিয়েছে।"
+      },
+      { "en": "She sent her regards.", "bn": "সে শুভেচ্ছা জানাল।" },
+      { "en": "They regard him as honest.", "bn": "তারা তাকে সৎ মনে করে।" },
+      { "en": "He spoke with regard.", "bn": "সে সম্মান দিয়ে কথা বলল।" },
+      {
+        "en": "This is held in high regard.",
+        "bn": "এটি উচ্চ সম্মানে রাখা হয়।"
+      }
+    ],
+    "synonyms": ["respect", "consider", "view"]
+  },
+
+  {
+    "base": "remove",
+    "phonetic": "rɪˈmuːv",
+    "meaning": "সরানো / অপসারণ করা",
+    "examples": [{ "en": "Please remove this.", "bn": "দয়া করে এটি সরাও।" }],
+    "moreexample": [
+      { "en": "He removed the chair.", "bn": "সে চেয়ারটি সরাল।" },
+      { "en": "They removed the problem.", "bn": "তারা সমস্যাটি দূর করল।" },
+      { "en": "She removed her shoes.", "bn": "সে জুতা খুলল।" },
+      { "en": "Remove the file.", "bn": "ফাইলটি মুছে ফেলো।" },
+      { "en": "The doctor removed pain.", "bn": "ডাক্তার ব্যথা দূর করলেন।" },
+      { "en": "He removed the cover.", "bn": "সে কভারটি সরাল।" },
+      { "en": "They removed obstacles.", "bn": "তারা বাধা সরাল।" },
+      { "en": "She removed dirt.", "bn": "সে ময়লা পরিষ্কার করল।" },
+      { "en": "Remove unnecessary items.", "bn": "অপ্রয়োজনীয় জিনিস সরাও।" },
+      { "en": "The app was removed.", "bn": "অ্যাপটি সরানো হয়েছে।" }
+    ],
+    "synonyms": ["delete", "take away", "eliminate"]
+  },
+
+  {
+    "base": "range",
+    "phonetic": "reɪndʒ",
+    "meaning": "পরিসর / সীমা",
+    "examples": [
+      { "en": "The price range is wide.", "bn": "দামের পরিসর বড়।" }
+    ],
+    "moreexample": [
+      { "en": "The range is limited.", "bn": "পরিসর সীমিত।" },
+      { "en": "He has a wide range.", "bn": "তার বিস্তৃত পরিসর আছে।" },
+      { "en": "The range increased.", "bn": "পরিসর বেড়েছে।" },
+      { "en": "This falls within range.", "bn": "এটি পরিসরের মধ্যে পড়ে।" },
+      { "en": "They expanded the range.", "bn": "তারা পরিসর বাড়াল।" },
+      { "en": "The range varies.", "bn": "পরিসর পরিবর্তিত হয়।" },
+      { "en": "Check the range.", "bn": "পরিসর পরীক্ষা করো।" },
+      { "en": "The range is fixed.", "bn": "পরিসর নির্দিষ্ট।" },
+      { "en": "The product has range.", "bn": "পণ্যের পরিসর আছে।" },
+      { "en": "The range is useful.", "bn": "পরিসরটি উপকারী।" }
+    ],
+    "synonyms": ["scope", "limit", "span"]
+  },
+
+  {
+    "base": "rapid",
+    "phonetic": "ˈræpɪd",
+    "meaning": "দ্রুত",
+    "examples": [{ "en": "The growth is rapid.", "bn": "বৃদ্ধি দ্রুত।" }],
+    "moreexample": [
+      { "en": "He made rapid progress.", "bn": "সে দ্রুত অগ্রগতি করল।" },
+      { "en": "The change was rapid.", "bn": "পরিবর্তনটি দ্রুত ছিল।" },
+      { "en": "Rapid action is needed.", "bn": "দ্রুত পদক্ষেপ প্রয়োজন।" },
+      {
+        "en": "She gave a rapid response.",
+        "bn": "সে দ্রুত প্রতিক্রিয়া দিল।"
+      },
+      { "en": "The river flows rapidly.", "bn": "নদী দ্রুত প্রবাহিত হয়।" },
+      {
+        "en": "Technology is developing rapidly.",
+        "bn": "প্রযুক্তি দ্রুত উন্নত হচ্ছে।"
+      },
+      { "en": "Rapid decisions help.", "bn": "দ্রুত সিদ্ধান্ত সাহায্য করে।" },
+      { "en": "He spoke in rapid speed.", "bn": "সে দ্রুত গতিতে কথা বলল।" },
+      {
+        "en": "The situation changed rapidly.",
+        "bn": "পরিস্থিতি দ্রুত বদলাল।"
+      },
+      {
+        "en": "Rapid growth surprised everyone.",
+        "bn": "দ্রুত বৃদ্ধি সবাইকে অবাক করল।"
+      }
+    ],
+    "synonyms": ["fast", "quick", "swift"]
+  },
+
+  {
+    "base": "rare",
+    "phonetic": "reə(r)",
+    "meaning": "বিরল",
+    "examples": [
+      { "en": "This is a rare event.", "bn": "এটি একটি বিরল ঘটনা।" }
+    ],
+    "moreexample": [
+      { "en": "Such cases are rare.", "bn": "এমন ঘটনা বিরল।" },
+      { "en": "He has rare talent.", "bn": "তার বিরল প্রতিভা আছে।" },
+      { "en": "This flower is rare.", "bn": "এই ফুলটি বিরল।" },
+      { "en": "Rare items are valuable.", "bn": "বিরল জিনিস মূল্যবান।" },
+      { "en": "It is rare to see this.", "bn": "এটি দেখা বিরল।" },
+      { "en": "She found a rare book.", "bn": "সে একটি বিরল বই পেল।" },
+      { "en": "The disease is rare.", "bn": "রোগটি বিরল।" },
+      { "en": "Rare moments matter.", "bn": "বিরল মুহূর্ত গুরুত্বপূর্ণ।" },
+      { "en": "He showed rare courage.", "bn": "সে বিরল সাহস দেখিয়েছে।" },
+      { "en": "Such talent is rare.", "bn": "এমন প্রতিভা বিরল।" }
+    ],
+    "synonyms": ["uncommon", "scarce", "unusual"]
+  },
+
+  {
+    "base": "raise",
+    "phonetic": "reɪz",
+    "meaning": "উঠানো / বাড়ানো",
+    "examples": [{ "en": "Raise your hand.", "bn": "তোমার হাত উঠাও।" }],
+    "moreexample": [
+      { "en": "They raised the price.", "bn": "তারা দাম বাড়াল।" },
+      { "en": "She raised her voice.", "bn": "সে তার কণ্ঠ উঁচু করল।" },
+      { "en": "He raised a question.", "bn": "সে একটি প্রশ্ন তুলল।" },
+      { "en": "The company raised funds.", "bn": "কোম্পানি তহবিল সংগ্রহ করল।" },
+      { "en": "Raise the standard.", "bn": "মান উন্নত করো।" },
+      { "en": "They raised awareness.", "bn": "তারা সচেতনতা বাড়াল।" },
+      {
+        "en": "He raised children well.",
+        "bn": "সে সন্তানদের ভালোভাবে বড় করেছে।"
+      },
+      { "en": "She raised an issue.", "bn": "সে একটি বিষয় তুলল।" },
+      { "en": "They raised a flag.", "bn": "তারা পতাকা তুলল।" },
+      { "en": "He raised expectations.", "bn": "সে প্রত্যাশা বাড়াল।" }
+    ],
+    "synonyms": ["lift", "increase", "elevate"]
+  },
+
+  {
+    "base": "reach",
+    "phonetic": "riːtʃ",
+    "meaning": "পৌঁছানো",
+    "examples": [
+      { "en": "He reached the station.", "bn": "সে স্টেশনে পৌঁছাল।" }
+    ],
+    "moreexample": [
+      { "en": "She reached home safely.", "bn": "সে নিরাপদে বাড়ি পৌঁছাল।" },
+      {
+        "en": "They reached an agreement.",
+        "bn": "তারা একটি চুক্তিতে পৌঁছাল।"
+      },
+      { "en": "He reached the top.", "bn": "সে শীর্ষে পৌঁছাল।" },
+      { "en": "We reached late.", "bn": "আমরা দেরিতে পৌঁছালাম।" },
+      { "en": "The message reached him.", "bn": "বার্তাটি তার কাছে পৌঁছাল।" },
+      { "en": "She reached her goal.", "bn": "সে তার লক্ষ্য অর্জন করল।" },
+      { "en": "They reached the village.", "bn": "তারা গ্রামে পৌঁছাল।" },
+      { "en": "He reached success.", "bn": "সে সাফল্যে পৌঁছাল।" },
+      { "en": "The news reached everyone.", "bn": "খবরটি সবার কাছে পৌঁছাল।" },
+      {
+        "en": "We finally reached there.",
+        "bn": "আমরা অবশেষে সেখানে পৌঁছালাম।"
+      }
+    ],
+    "synonyms": ["arrive", "attain", "achieve"]
+  },
+
+  {
+    "base": "react",
+    "phonetic": "riˈækt",
+    "meaning": "প্রতিক্রিয়া দেখানো",
+    "examples": [
+      { "en": "He reacted quickly.", "bn": "সে দ্রুত প্রতিক্রিয়া দেখাল।" }
+    ],
+    "moreexample": [
+      { "en": "She reacted calmly.", "bn": "সে শান্তভাবে প্রতিক্রিয়া দিল।" },
+      {
+        "en": "They reacted with anger.",
+        "bn": "তারা রাগ দিয়ে প্রতিক্রিয়া দেখাল।"
+      },
+      { "en": "He didn’t react.", "bn": "সে প্রতিক্রিয়া দেখায়নি।" },
+      {
+        "en": "She reacted positively.",
+        "bn": "সে ইতিবাচকভাবে প্রতিক্রিয়া দিল।"
+      },
+      {
+        "en": "The body reacts to heat.",
+        "bn": "শরীর গরমে প্রতিক্রিয়া দেখায়।"
+      },
+      {
+        "en": "He reacted to the news.",
+        "bn": "সে খবরের প্রতি প্রতিক্রিয়া দেখাল।"
+      },
+      { "en": "They reacted slowly.", "bn": "তারা ধীরে প্রতিক্রিয়া দেখাল।" },
+      {
+        "en": "She reacted strongly.",
+        "bn": "সে জোরালোভাবে প্রতিক্রিয়া দিল।"
+      },
+      {
+        "en": "Children react quickly.",
+        "bn": "শিশুরা দ্রুত প্রতিক্রিয়া দেখায়।"
+      },
+      {
+        "en": "He reacted with surprise.",
+        "bn": "সে অবাক হয়ে প্রতিক্রিয়া দেখাল।"
+      }
+    ],
+    "synonyms": ["respond", "reply", "act"]
+  },
+
+  {
+    "base": "realize",
+    "phonetic": "ˈrɪəlaɪz",
+    "meaning": "অনুধাবন করা",
+    "examples": [
+      { "en": "He realized the truth.", "bn": "সে সত্যটি বুঝতে পারল।" }
+    ],
+    "moreexample": [
+      { "en": "She realized her mistake.", "bn": "সে তার ভুল বুঝতে পারল।" },
+      { "en": "They realized the importance.", "bn": "তারা গুরুত্ব বুঝল।" },
+      { "en": "He realized too late.", "bn": "সে দেরিতে বুঝল।" },
+      { "en": "She finally realized.", "bn": "সে অবশেষে বুঝল।" },
+      { "en": "We realized the problem.", "bn": "আমরা সমস্যাটি বুঝলাম।" },
+      { "en": "He realized his dream.", "bn": "সে তার স্বপ্ন পূরণ করল।" },
+      { "en": "They realized the risk.", "bn": "তারা ঝুঁকি বুঝল।" },
+      {
+        "en": "She realized the truth quickly.",
+        "bn": "সে দ্রুত সত্যটি বুঝল।"
+      },
+      { "en": "He realized his value.", "bn": "সে তার মূল্য বুঝল।" },
+      { "en": "We realized the mistake.", "bn": "আমরা ভুলটি বুঝলাম।" }
+    ],
+    "synonyms": ["understand", "recognize", "become aware"]
+  },
+
+  {
+    "base": "receive",
+    "phonetic": "rɪˈsiːv",
+    "meaning": "গ্রহণ করা",
+    "examples": [
+      { "en": "I received a message.", "bn": "আমি একটি বার্তা পেয়েছি।" }
+    ],
+    "moreexample": [
+      { "en": "She received a gift.", "bn": "সে একটি উপহার পেয়েছে।" },
+      { "en": "They received help.", "bn": "তারা সাহায্য পেয়েছে।" },
+      { "en": "He received good news.", "bn": "সে ভালো খবর পেয়েছে।" },
+      { "en": "We received the package.", "bn": "আমরা প্যাকেজটি পেয়েছি।" },
+      { "en": "She received an award.", "bn": "সে একটি পুরস্কার পেয়েছে।" },
+      { "en": "He received a call.", "bn": "সে একটি কল পেয়েছে।" },
+      { "en": "They received instructions.", "bn": "তারা নির্দেশনা পেয়েছে।" },
+      { "en": "She received support.", "bn": "সে সহায়তা পেয়েছে।" },
+      { "en": "We received the results.", "bn": "আমরা ফলাফল পেয়েছি।" },
+      { "en": "He received respect.", "bn": "সে সম্মান পেয়েছে।" }
+    ],
+    "synonyms": ["get", "accept", "obtain"]
+  }
+]

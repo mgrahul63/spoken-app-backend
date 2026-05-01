@@ -1,0 +1,424 @@
+[
+  {
+    "base": "note",
+    "phonetic": "nəʊt",
+    "meaning": "নোট / লিখে রাখা তথ্য",
+    "examples": [
+      { "en": "She wrote a note.", "bn": "সে একটি নোট লিখল।" },
+      { "en": "I took a quick note.", "bn": "আমি দ্রুত একটি নোট নিলাম।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He left a note on the table.",
+        "bn": "সে টেবিলে একটি নোট রেখে গেল।"
+      },
+      { "en": "The teacher gave a note.", "bn": "শিক্ষক একটি নোট দিলেন।" },
+      {
+        "en": "She read the note carefully.",
+        "bn": "সে নোটটি মনোযোগ দিয়ে পড়ল।"
+      },
+      {
+        "en": "I forgot to check the note.",
+        "bn": "আমি নোটটি দেখতে ভুলে গেলাম।"
+      },
+      { "en": "The note was clear.", "bn": "নোটটি পরিষ্কার ছিল।" },
+      { "en": "He saved the note.", "bn": "সে নোটটি সংরক্ষণ করল।" }
+    ],
+    "synonyms": ["message", "remark", "record"]
+  },
+
+  {
+    "base": "normal",
+    "phonetic": "ˈnɔːməl",
+    "meaning": "স্বাভাবিক",
+    "examples": [
+      { "en": "Everything is normal.", "bn": "সবকিছু স্বাভাবিক।" },
+      { "en": "He feels normal now.", "bn": "সে এখন স্বাভাবিক অনুভব করছে।" }
+    ],
+    "moreexample": [
+      { "en": "The weather is normal today.", "bn": "আজ আবহাওয়া স্বাভাবিক।" },
+      {
+        "en": "She returned to normal life.",
+        "bn": "সে স্বাভাবিক জীবনে ফিরে গেল।"
+      },
+      { "en": "It is a normal day.", "bn": "এটি একটি স্বাভাবিক দিন।" },
+      { "en": "His heart rate is normal.", "bn": "তার হৃদস্পন্দন স্বাভাবিক।" },
+      { "en": "Stay calm and normal.", "bn": "শান্ত এবং স্বাভাবিক থাকো।" },
+      { "en": "The situation is normal now.", "bn": "পরিস্থিতি এখন স্বাভাবিক।" }
+    ],
+    "synonyms": ["usual", "regular", "ordinary"]
+  },
+
+  {
+    "base": "necessary",
+    "phonetic": "ˈnesəsəri",
+    "meaning": "প্রয়োজনীয়",
+    "examples": [
+      { "en": "It is necessary to study.", "bn": "পড়াশোনা করা প্রয়োজনীয়।" },
+      {
+        "en": "Sleep is necessary for health.",
+        "bn": "স্বাস্থ্যের জন্য ঘুম প্রয়োজনীয়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Water is necessary for life.",
+        "bn": "জীবনের জন্য পানি প্রয়োজনীয়।"
+      },
+      { "en": "Hard work is necessary.", "bn": "কঠোর পরিশ্রম প্রয়োজনীয়।" },
+      {
+        "en": "It is necessary to follow rules.",
+        "bn": "নিয়ম অনুসরণ করা প্রয়োজনীয়।"
+      },
+      { "en": "Food is necessary.", "bn": "খাবার প্রয়োজনীয়।" },
+      {
+        "en": "Practice is necessary for success.",
+        "bn": "সাফল্যের জন্য অনুশীলন প্রয়োজনীয়।"
+      },
+      { "en": "It is necessary to focus.", "bn": "মনোযোগ দেওয়া প্রয়োজনীয়।" }
+    ],
+    "synonyms": ["essential", "required", "important"]
+  },
+
+  {
+    "base": "neighbor",
+    "phonetic": "ˈneɪbər",
+    "meaning": "প্রতিবেশী",
+    "examples": [
+      { "en": "My neighbor is kind.", "bn": "আমার প্রতিবেশী দয়ালু।" },
+      {
+        "en": "We help our neighbors.",
+        "bn": "আমরা আমাদের প্রতিবেশীদের সাহায্য করি।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The neighbor called me.", "bn": "প্রতিবেশী আমাকে ডাকল।" },
+      {
+        "en": "She is my next-door neighbor.",
+        "bn": "সে আমার পাশের বাড়ির প্রতিবেশী।"
+      },
+      { "en": "Neighbors shared food.", "bn": "প্রতিবেশীরা খাবার ভাগ করল।" },
+      {
+        "en": "He visited his neighbor.",
+        "bn": "সে তার প্রতিবেশীর বাড়িতে গেল।"
+      },
+      {
+        "en": "Good neighbors are helpful.",
+        "bn": "ভালো প্রতিবেশীরা সাহায্যকারী।"
+      },
+      { "en": "The neighbor is friendly.", "bn": "প্রতিবেশী বন্ধুত্বপূর্ণ।" }
+    ],
+    "synonyms": ["resident nearby", "fellow villager"]
+  },
+
+  {
+    "base": "novel",
+    "phonetic": "ˈnɒvl",
+    "meaning": "উপন্যাস / নতুন",
+    "examples": [
+      { "en": "She is reading a novel.", "bn": "সে একটি উপন্যাস পড়ছে।" },
+      { "en": "It is a novel idea.", "bn": "এটি একটি নতুন ধারণা।" }
+    ],
+    "moreexample": [
+      { "en": "The novel is interesting.", "bn": "উপন্যাসটি আকর্ষণীয়।" },
+      { "en": "He wrote a novel.", "bn": "সে একটি উপন্যাস লিখল।" },
+      { "en": "This is a novel approach.", "bn": "এটি একটি নতুন পদ্ধতি।" },
+      { "en": "She enjoys novels.", "bn": "সে উপন্যাস উপভোগ করে।" },
+      {
+        "en": "The story is a novel concept.",
+        "bn": "গল্পটি একটি নতুন ধারণা।"
+      },
+      { "en": "He bought a new novel.", "bn": "সে একটি নতুন উপন্যাস কিনল।" }
+    ],
+    "synonyms": ["book", "story", "new"]
+  },
+
+  {
+    "base": "notice",
+    "phonetic": "ˈnəʊtɪs",
+    "meaning": "লক্ষ্য করা / বিজ্ঞপ্তি",
+    "examples": [
+      { "en": "I noticed a mistake.", "bn": "আমি একটি ভুল লক্ষ্য করলাম।" },
+      {
+        "en": "Read the notice carefully.",
+        "bn": "বিজ্ঞপ্তিটি মনোযোগ দিয়ে পড়ো।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He didn’t notice her.", "bn": "সে তাকে লক্ষ্য করল না।" },
+      { "en": "The notice is on the wall.", "bn": "বিজ্ঞপ্তিটি দেয়ালে আছে।" },
+      { "en": "She noticed a change.", "bn": "সে একটি পরিবর্তন লক্ষ্য করল।" },
+      { "en": "We received a notice.", "bn": "আমরা একটি বিজ্ঞপ্তি পেলাম।" },
+      { "en": "They noticed the noise.", "bn": "তারা শব্দটি লক্ষ্য করল।" },
+      {
+        "en": "The teacher noticed everything.",
+        "bn": "শিক্ষক সবকিছু লক্ষ্য করলেন।"
+      }
+    ],
+    "synonyms": ["observe", "see", "spot"]
+  },
+
+  {
+    "base": "narrow",
+    "phonetic": "ˈnærəʊ",
+    "meaning": "সরু / সীমিত",
+    "examples": [
+      { "en": "The road is narrow.", "bn": "রাস্তাটি সরু।" },
+      { "en": "He has narrow choices.", "bn": "তার বিকল্প সীমিত।" }
+    ],
+    "moreexample": [
+      { "en": "The bridge is narrow.", "bn": "সেতুটি সরু।" },
+      {
+        "en": "She walked through a narrow path.",
+        "bn": "সে একটি সরু পথে হাঁটল।"
+      },
+      { "en": "The room is narrow.", "bn": "ঘরটি সরু।" },
+      {
+        "en": "He escaped through a narrow gap.",
+        "bn": "সে একটি সরু ফাঁক দিয়ে পালিয়ে গেল।"
+      },
+      {
+        "en": "They crossed a narrow river.",
+        "bn": "তারা একটি সরু নদী পার হলো।"
+      },
+      { "en": "His thinking is narrow.", "bn": "তার চিন্তাভাবনা সীমিত।" }
+    ],
+    "synonyms": ["thin", "limited", "small"]
+  },
+
+  {
+    "base": "nation",
+    "phonetic": "ˈneɪʃn",
+    "meaning": "জাতি / দেশ",
+    "examples": [
+      { "en": "Our nation is growing.", "bn": "আমাদের জাতি উন্নতি করছে।" },
+      { "en": "He loves his nation.", "bn": "সে তার দেশকে ভালোবাসে।" }
+    ],
+    "moreexample": [
+      { "en": "The nation is united.", "bn": "জাতি একতাবদ্ধ।" },
+      { "en": "They serve the nation.", "bn": "তারা জাতির সেবা করে।" },
+      {
+        "en": "The nation celebrated victory.",
+        "bn": "জাতি বিজয় উদযাপন করল।"
+      },
+      {
+        "en": "Every nation has culture.",
+        "bn": "প্রতিটি জাতির সংস্কৃতি আছে।"
+      },
+      { "en": "The nation is strong.", "bn": "জাতি শক্তিশালী।" },
+      { "en": "He works for the nation.", "bn": "সে জাতির জন্য কাজ করে।" }
+    ],
+    "synonyms": ["country", "state", "land"]
+  },
+
+  {
+    "base": "nature",
+    "phonetic": "ˈneɪtʃər",
+    "meaning": "প্রকৃতি",
+    "examples": [
+      { "en": "Nature is beautiful.", "bn": "প্রকৃতি সুন্দর।" },
+      {
+        "en": "We must protect nature.",
+        "bn": "আমাদের প্রকৃতি রক্ষা করতে হবে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Nature gives us life.", "bn": "প্রকৃতি আমাদের জীবন দেয়।" },
+      { "en": "She loves nature.", "bn": "সে প্রকৃতিকে ভালোবাসে।" },
+      { "en": "Nature is powerful.", "bn": "প্রকৃতি শক্তিশালী।" },
+      { "en": "We enjoy nature.", "bn": "আমরা প্রকৃতি উপভোগ করি।" },
+      { "en": "Nature is changing.", "bn": "প্রকৃতি পরিবর্তিত হচ্ছে।" },
+      { "en": "He studies nature.", "bn": "সে প্রকৃতি অধ্যয়ন করে।" }
+    ],
+    "synonyms": ["environment", "world", "earth"]
+  },
+
+  {
+    "base": "noble",
+    "phonetic": "ˈnəʊbl",
+    "meaning": "মহৎ / সম্ভ্রান্ত",
+    "examples": [
+      { "en": "He is a noble man.", "bn": "সে একজন মহৎ মানুষ।" },
+      { "en": "She made a noble decision.", "bn": "সে একটি মহৎ সিদ্ধান্ত নিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Noble people help others.",
+        "bn": "মহৎ মানুষ অন্যদের সাহায্য করে।"
+      },
+      { "en": "He has a noble heart.", "bn": "তার হৃদয় মহৎ।" },
+      { "en": "She performed a noble act.", "bn": "সে একটি মহৎ কাজ করল।" },
+      {
+        "en": "The noble idea inspired us.",
+        "bn": "মহৎ ধারণাটি আমাদের অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "They lived a noble life.",
+        "bn": "তারা একটি মহৎ জীবন যাপন করল।"
+      },
+      {
+        "en": "His noble effort was praised.",
+        "bn": "তার মহৎ প্রচেষ্টা প্রশংসিত হলো।"
+      }
+    ],
+    "synonyms": ["honorable", "dignified", "virtuous"]
+  },
+
+  {
+    "base": "neat",
+    "phonetic": "niːt",
+    "meaning": "পরিচ্ছন্ন / গোছানো",
+    "examples": [
+      { "en": "Her room is neat.", "bn": "তার ঘরটি পরিচ্ছন্ন।" },
+      {
+        "en": "He wrote in a neat handwriting.",
+        "bn": "সে সুন্দর হাতের লেখায় লিখল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Keep your desk neat.", "bn": "তোমার ডেস্কটি গোছানো রাখো।" },
+      { "en": "The house looks neat.", "bn": "বাড়িটি পরিচ্ছন্ন দেখাচ্ছে।" },
+      {
+        "en": "She arranged things neatly.",
+        "bn": "সে জিনিসগুলো সুন্দরভাবে সাজাল।"
+      },
+      { "en": "His work is always neat.", "bn": "তার কাজ সবসময় গোছানো হয়।" },
+      { "en": "They kept the room neat.", "bn": "তারা ঘরটি পরিষ্কার রাখল।" },
+      {
+        "en": "A neat solution was found.",
+        "bn": "একটি সুন্দর সমাধান পাওয়া গেল।"
+      }
+    ],
+    "synonyms": ["tidy", "clean", "organized"]
+  },
+
+  {
+    "base": "network",
+    "phonetic": "ˈnetwɜːk",
+    "meaning": "নেটওয়ার্ক / যোগাযোগ ব্যবস্থা",
+    "examples": [
+      {
+        "en": "The internet is a global network.",
+        "bn": "ইন্টারনেট একটি বৈশ্বিক নেটওয়ার্ক।"
+      },
+      {
+        "en": "He built a strong network.",
+        "bn": "সে একটি শক্তিশালী নেটওয়ার্ক তৈরি করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The network is down.", "bn": "নেটওয়ার্ক বন্ধ আছে।" },
+      { "en": "She expanded her network.", "bn": "সে তার নেটওয়ার্ক বাড়াল।" },
+      {
+        "en": "They use a computer network.",
+        "bn": "তারা কম্পিউটার নেটওয়ার্ক ব্যবহার করে।"
+      },
+      { "en": "The network is fast.", "bn": "নেটওয়ার্ক দ্রুত।" },
+      {
+        "en": "He works in a social network.",
+        "bn": "সে একটি সামাজিক নেটওয়ার্কে কাজ করে।"
+      },
+      {
+        "en": "The network connects people.",
+        "bn": "নেটওয়ার্ক মানুষকে যুক্ত করে।"
+      }
+    ],
+    "synonyms": ["system", "connection", "web"]
+  },
+
+  {
+    "base": "noticeable",
+    "phonetic": "ˈnəʊtɪsəbl",
+    "meaning": "লক্ষণীয় / সহজে দেখা যায় এমন",
+    "examples": [
+      {
+        "en": "There is a noticeable change.",
+        "bn": "একটি লক্ষণীয় পরিবর্তন আছে।"
+      },
+      { "en": "Her improvement is noticeable.", "bn": "তার উন্নতি লক্ষণীয়।" }
+    ],
+    "moreexample": [
+      { "en": "The difference is noticeable.", "bn": "পার্থক্যটি লক্ষণীয়।" },
+      {
+        "en": "He made a noticeable effort.",
+        "bn": "সে একটি লক্ষণীয় প্রচেষ্টা করল।"
+      },
+      { "en": "The sound is noticeable.", "bn": "শব্দটি সহজে বোঝা যায়।" },
+      { "en": "Her smile is noticeable.", "bn": "তার হাসি লক্ষণীয়।" },
+      { "en": "There is noticeable progress.", "bn": "লক্ষণীয় অগ্রগতি আছে।" },
+      {
+        "en": "The change was noticeable immediately.",
+        "bn": "পরিবর্তনটি সঙ্গে সঙ্গে লক্ষণীয় ছিল।"
+      }
+    ],
+    "synonyms": ["visible", "clear", "obvious"]
+  },
+
+  {
+    "base": "navigate",
+    "phonetic": "ˈnævɪɡeɪt",
+    "meaning": "নেভিগেট করা / পথ খুঁজে বের করা",
+    "examples": [
+      {
+        "en": "We navigate using maps.",
+        "bn": "আমরা মানচিত্র ব্যবহার করে পথ খুঁজি।"
+      },
+      {
+        "en": "He navigated the city easily.",
+        "bn": "সে সহজে শহরটি ঘুরে দেখল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "They navigate the river.", "bn": "তারা নদীতে নেভিগেট করে।" },
+      {
+        "en": "She navigated through the crowd.",
+        "bn": "সে ভিড়ের মধ্যে দিয়ে পথ করল।"
+      },
+      {
+        "en": "He can navigate well.",
+        "bn": "সে ভালোভাবে পথ খুঁজে নিতে পারে।"
+      },
+      {
+        "en": "We navigated the website.",
+        "bn": "আমরা ওয়েবসাইট ব্যবহার করলাম।"
+      },
+      {
+        "en": "The captain navigated the ship.",
+        "bn": "ক্যাপ্টেন জাহাজ চালনা করল।"
+      },
+      { "en": "They navigated carefully.", "bn": "তারা সাবধানে পথ চলল।" }
+    ],
+    "synonyms": ["steer", "guide", "travel"]
+  },
+
+  {
+    "base": "neutral",
+    "phonetic": "ˈnjuːtrəl",
+    "meaning": "নিরপেক্ষ",
+    "examples": [
+      { "en": "He remained neutral.", "bn": "সে নিরপেক্ষ ছিল।" },
+      { "en": "The country is neutral.", "bn": "দেশটি নিরপেক্ষ।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She gave a neutral answer.",
+        "bn": "সে একটি নিরপেক্ষ উত্তর দিল।"
+      },
+      {
+        "en": "The judge must be neutral.",
+        "bn": "বিচারককে নিরপেক্ষ হতে হবে।"
+      },
+      { "en": "His tone was neutral.", "bn": "তার স্বর নিরপেক্ষ ছিল।" },
+      {
+        "en": "They stayed neutral in the debate.",
+        "bn": "তারা বিতর্কে নিরপেক্ষ ছিল।"
+      },
+      { "en": "Neutral colors are soft.", "bn": "নিরপেক্ষ রং নরম হয়।" },
+      {
+        "en": "She took a neutral position.",
+        "bn": "সে একটি নিরপেক্ষ অবস্থান নিল।"
+      }
+    ],
+    "synonyms": ["impartial", "unbiased", "fair"]
+  }
+]

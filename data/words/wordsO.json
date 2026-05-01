@@ -1,0 +1,524 @@
+[
+  {
+    "base": "officer",
+    "phonetic": "ˈɒfɪsər",
+    "meaning": "অফিসার / কর্মকর্তা",
+    "examples": [
+      { "en": "The officer arrived quickly.", "bn": "অফিসার দ্রুত পৌঁছালেন।" },
+      { "en": "He is a police officer.", "bn": "সে একজন পুলিশ অফিসার।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The officer checked the documents.",
+        "bn": "অফিসার কাগজপত্র পরীক্ষা করলেন।"
+      },
+      { "en": "She spoke to the officer.", "bn": "সে অফিসারের সাথে কথা বলল।" },
+      { "en": "The officer gave instructions.", "bn": "অফিসার নির্দেশ দিলেন।" },
+      {
+        "en": "An officer helped the crowd.",
+        "bn": "একজন অফিসার ভিড়কে সাহায্য করল।"
+      },
+      { "en": "He became an officer.", "bn": "সে একজন অফিসার হলো।" },
+      { "en": "The officer was strict.", "bn": "অফিসারটি কঠোর ছিল।" }
+    ],
+    "synonyms": ["official", "agent", "authority"]
+  },
+
+  {
+    "base": "original",
+    "phonetic": "əˈrɪdʒənl",
+    "meaning": "মূল / আসল",
+    "examples": [
+      { "en": "This is the original book.", "bn": "এটি আসল বই।" },
+      { "en": "He kept the original copy.", "bn": "সে মূল কপি রাখল।" }
+    ],
+    "moreexample": [
+      { "en": "The painting is original.", "bn": "চিত্রটি আসল।" },
+      { "en": "She bought the original product.", "bn": "সে আসল পণ্য কিনল।" },
+      { "en": "This idea is original.", "bn": "এই ধারণাটি মৌলিক।" },
+      {
+        "en": "The original plan changed.",
+        "bn": "মূল পরিকল্পনা পরিবর্তিত হলো।"
+      },
+      { "en": "He prefers original work.", "bn": "সে আসল কাজ পছন্দ করে।" },
+      { "en": "The original version is better.", "bn": "মূল সংস্করণটি ভালো।" }
+    ],
+    "synonyms": ["authentic", "real", "primary"]
+  },
+
+  {
+    "base": "operation",
+    "phonetic": "ˌɒpəˈreɪʃn",
+    "meaning": "অপারেশন / কার্যক্রম",
+    "examples": [
+      { "en": "The operation was successful.", "bn": "অপারেশন সফল হয়েছে।" },
+      { "en": "They started the operation.", "bn": "তারা কার্যক্রম শুরু করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The doctor performed an operation.",
+        "bn": "ডাক্তার একটি অপারেশন করলেন।"
+      },
+      {
+        "en": "The military operation began.",
+        "bn": "সামরিক অভিযান শুরু হলো।"
+      },
+      { "en": "The operation took hours.", "bn": "অপারেশনটি কয়েক ঘণ্টা চলল।" },
+      { "en": "It is a large operation.", "bn": "এটি একটি বড় কার্যক্রম।" },
+      { "en": "The operation was risky.", "bn": "অপারেশনটি ঝুঁকিপূর্ণ ছিল।" },
+      {
+        "en": "They monitored the operation.",
+        "bn": "তারা কার্যক্রম পর্যবেক্ষণ করল।"
+      }
+    ],
+    "synonyms": ["procedure", "process", "mission"]
+  },
+
+  {
+    "base": "opportunity",
+    "phonetic": "ˌɒpəˈtjuːnɪti",
+    "meaning": "সুযোগ",
+    "examples": [
+      { "en": "He got a great opportunity.", "bn": "সে একটি দারুণ সুযোগ পেল।" },
+      {
+        "en": "Don’t miss this opportunity.",
+        "bn": "এই সুযোগ হাতছাড়া কোরো না।"
+      }
+    ],
+    "moreexample": [
+      { "en": "This is a good opportunity.", "bn": "এটি একটি ভালো সুযোগ।" },
+      { "en": "She grabbed the opportunity.", "bn": "সে সুযোগটি গ্রহণ করল।" },
+      { "en": "Opportunities come rarely.", "bn": "সুযোগ খুব কম আসে।" },
+      {
+        "en": "He created his own opportunity.",
+        "bn": "সে নিজের সুযোগ তৈরি করল।"
+      },
+      {
+        "en": "They waited for opportunity.",
+        "bn": "তারা সুযোগের অপেক্ষা করল।"
+      },
+      {
+        "en": "The opportunity changed his life.",
+        "bn": "সুযোগটি তার জীবন বদলে দিল।"
+      }
+    ],
+    "synonyms": ["chance", "possibility", "opening"]
+  },
+
+  {
+    "base": "observe",
+    "phonetic": "əbˈzɜːv",
+    "meaning": "পর্যবেক্ষণ করা / লক্ষ্য করা",
+    "examples": [
+      {
+        "en": "We observe the stars at night.",
+        "bn": "আমরা রাতে তারা পর্যবেক্ষণ করি।"
+      },
+      { "en": "He observed her behavior.", "bn": "সে তার আচরণ লক্ষ্য করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Scientists observe nature.",
+        "bn": "বিজ্ঞানীরা প্রকৃতি পর্যবেক্ষণ করে।"
+      },
+      {
+        "en": "She observed everything carefully.",
+        "bn": "সে সবকিছু মনোযোগ দিয়ে লক্ষ্য করল।"
+      },
+      { "en": "They observed silence.", "bn": "তারা নীরবতা পালন করল।" },
+      { "en": "He observed the change.", "bn": "সে পরিবর্তনটি লক্ষ্য করল।" },
+      {
+        "en": "We observed the experiment.",
+        "bn": "আমরা পরীক্ষাটি পর্যবেক্ষণ করলাম।"
+      },
+      { "en": "She observed the crowd.", "bn": "সে ভিড়কে লক্ষ্য করল।" }
+    ],
+    "synonyms": ["watch", "notice", "study"]
+  },
+
+  {
+    "base": "occupy",
+    "phonetic": "ˈɒkjupaɪ",
+    "meaning": "দখল করা / স্থান নেওয়া",
+    "examples": [
+      { "en": "They occupy the room.", "bn": "তারা ঘরটি দখল করে আছে।" },
+      { "en": "The building is occupied.", "bn": "ভবনটি দখল করা আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The army occupied the area.",
+        "bn": "সেনাবাহিনী এলাকাটি দখল করল।"
+      },
+      {
+        "en": "She occupies her time with reading.",
+        "bn": "সে তার সময় পড়াশোনায় ব্যয় করে।"
+      },
+      { "en": "The seats were occupied.", "bn": "আসনগুলো দখল ছিল।" },
+      { "en": "They occupy the house.", "bn": "তারা বাড়িটি ব্যবহার করছে।" },
+      { "en": "Work occupies his mind.", "bn": "কাজ তার মন দখল করে রাখে।" },
+      { "en": "The space is occupied.", "bn": "জায়গাটি দখল করা আছে।" }
+    ],
+    "synonyms": ["take", "use", "fill"]
+  },
+
+  {
+    "base": "offend",
+    "phonetic": "əˈfend",
+    "meaning": "অপমান করা / কষ্ট দেওয়া",
+    "examples": [
+      { "en": "Don’t offend anyone.", "bn": "কারও মনে কষ্ট দিও না।" },
+      { "en": "He offended her.", "bn": "সে তাকে অপমান করল।" }
+    ],
+    "moreexample": [
+      { "en": "His words offended me.", "bn": "তার কথা আমাকে কষ্ট দিল।" },
+      { "en": "She didn’t mean to offend.", "bn": "সে অপমান করতে চায়নি।" },
+      { "en": "The joke offended people.", "bn": "মজাটি মানুষকে অপমান করল।" },
+      { "en": "He felt offended.", "bn": "সে অপমানিত অনুভব করল।" },
+      {
+        "en": "Try not to offend others.",
+        "bn": "অন্যদের কষ্ট না দেওয়ার চেষ্টা করো।"
+      },
+      {
+        "en": "They were offended by the comment.",
+        "bn": "তারা মন্তব্যে অপমানিত হলো।"
+      }
+    ],
+    "synonyms": ["hurt", "insult", "upset"]
+  },
+
+  {
+    "base": "outline",
+    "phonetic": "ˈaʊtlaɪn",
+    "meaning": "রূপরেখা / সংক্ষিপ্ত বিবরণ",
+    "examples": [
+      { "en": "He drew an outline.", "bn": "সে একটি রূপরেখা আঁকল।" },
+      { "en": "She explained the outline.", "bn": "সে রূপরেখাটি ব্যাখ্যা করল।" }
+    ],
+    "moreexample": [
+      { "en": "The outline is clear.", "bn": "রূপরেখাটি পরিষ্কার।" },
+      { "en": "We planned the outline.", "bn": "আমরা রূপরেখা তৈরি করলাম।" },
+      {
+        "en": "He gave a rough outline.",
+        "bn": "সে একটি সংক্ষিপ্ত রূপরেখা দিল।"
+      },
+      {
+        "en": "The outline helped understanding.",
+        "bn": "রূপরেখা বোঝাতে সাহায্য করল।"
+      },
+      { "en": "She followed the outline.", "bn": "সে রূপরেখা অনুসরণ করল।" },
+      { "en": "The outline was simple.", "bn": "রূপরেখাটি সহজ ছিল।" }
+    ],
+    "synonyms": ["summary", "plan", "framework"]
+  },
+
+  {
+    "base": "outcome",
+    "phonetic": "ˈaʊtkʌm",
+    "meaning": "ফলাফল",
+    "examples": [
+      { "en": "The outcome was positive.", "bn": "ফলাফল ইতিবাচক ছিল।" },
+      { "en": "We expected the outcome.", "bn": "আমরা ফলাফল আশা করেছিলাম।" }
+    ],
+    "moreexample": [
+      { "en": "The outcome surprised us.", "bn": "ফলাফল আমাদের অবাক করল।" },
+      {
+        "en": "They discussed the outcome.",
+        "bn": "তারা ফলাফল নিয়ে আলোচনা করল।"
+      },
+      {
+        "en": "The outcome depends on effort.",
+        "bn": "ফলাফল প্রচেষ্টার উপর নির্ভর করে।"
+      },
+      { "en": "It was a good outcome.", "bn": "এটি একটি ভালো ফলাফল ছিল।" },
+      { "en": "We changed the outcome.", "bn": "আমরা ফলাফল পরিবর্তন করলাম।" },
+      { "en": "The outcome is unknown.", "bn": "ফলাফল অজানা।" }
+    ],
+    "synonyms": ["result", "effect", "conclusion"]
+  },
+
+  {
+    "base": "obtain",
+    "phonetic": "əbˈteɪn",
+    "meaning": "অর্জন করা / পাওয়া",
+    "examples": [
+      { "en": "He obtained a degree.", "bn": "সে একটি ডিগ্রি অর্জন করল।" },
+      {
+        "en": "You can obtain information online.",
+        "bn": "তুমি অনলাইনে তথ্য পেতে পারো।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She obtained permission.", "bn": "সে অনুমতি পেল।" },
+      { "en": "They obtained good results.", "bn": "তারা ভালো ফলাফল পেল।" },
+      { "en": "He obtained the document.", "bn": "সে নথিটি সংগ্রহ করল।" },
+      {
+        "en": "We obtained knowledge from books.",
+        "bn": "আমরা বই থেকে জ্ঞান অর্জন করলাম।"
+      },
+      { "en": "The company obtained profit.", "bn": "কোম্পানি লাভ অর্জন করল।" },
+      { "en": "She obtained a job.", "bn": "সে একটি চাকরি পেল।" }
+    ],
+    "synonyms": ["get", "acquire", "gain"]
+  },
+
+  {
+    "base": "overcome",
+    "phonetic": "ˌəʊvərˈkʌm",
+    "meaning": "জয় করা / অতিক্রম করা",
+    "examples": [
+      { "en": "He overcame fear.", "bn": "সে ভয় জয় করল।" },
+      {
+        "en": "They overcame difficulties.",
+        "bn": "তারা কঠিন পরিস্থিতি অতিক্রম করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She overcame her weakness.", "bn": "সে তার দুর্বলতা জয় করল।" },
+      {
+        "en": "We overcame the problem.",
+        "bn": "আমরা সমস্যাটি অতিক্রম করলাম।"
+      },
+      { "en": "He overcame illness.", "bn": "সে অসুস্থতা কাটিয়ে উঠল।" },
+      {
+        "en": "They overcame challenges.",
+        "bn": "তারা চ্যালেঞ্জ অতিক্রম করল।"
+      },
+      { "en": "She overcame sadness.", "bn": "সে দুঃখ কাটিয়ে উঠল।" },
+      { "en": "He overcame obstacles.", "bn": "সে বাধা অতিক্রম করল।" }
+    ],
+    "synonyms": ["defeat", "conquer", "surmount"]
+  },
+
+  {
+    "base": "organize",
+    "phonetic": "ˈɔːɡənaɪz",
+    "meaning": "সাজানো / সংগঠিত করা",
+    "examples": [
+      { "en": "She organized the event.", "bn": "সে অনুষ্ঠানটি সংগঠিত করল।" },
+      { "en": "He organized his room.", "bn": "সে তার ঘর গুছিয়ে নিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They organized a meeting.",
+        "bn": "তারা একটি মিটিং সংগঠিত করল।"
+      },
+      { "en": "She organized her notes.", "bn": "সে তার নোটগুলো সাজাল।" },
+      { "en": "He organized the files.", "bn": "সে ফাইলগুলো সাজাল।" },
+      {
+        "en": "We organized a program.",
+        "bn": "আমরা একটি প্রোগ্রাম সংগঠিত করলাম।"
+      },
+      {
+        "en": "They organized everything well.",
+        "bn": "তারা সবকিছু ভালোভাবে সাজাল।"
+      },
+      {
+        "en": "She organized her thoughts.",
+        "bn": "সে তার চিন্তাগুলো গুছিয়ে নিল।"
+      }
+    ],
+    "synonyms": ["arrange", "plan", "systemize"]
+  },
+
+  {
+    "base": "origin",
+    "phonetic": "ˈɒrɪdʒɪn",
+    "meaning": "উৎপত্তি / শুরু",
+    "examples": [
+      { "en": "The origin of life is unknown.", "bn": "জীবনের উৎপত্তি অজানা।" },
+      {
+        "en": "We studied the origin of language.",
+        "bn": "আমরা ভাষার উৎপত্তি অধ্যয়ন করলাম।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The origin of the word is Latin.",
+        "bn": "শব্দটির উৎপত্তি লাতিন।"
+      },
+      { "en": "He explained the origin.", "bn": "সে উৎপত্তি ব্যাখ্যা করল।" },
+      { "en": "The origin is unclear.", "bn": "উৎপত্তি অস্পষ্ট।" },
+      { "en": "They traced the origin.", "bn": "তারা উৎপত্তি অনুসন্ধান করল।" },
+      {
+        "en": "The origin of river is high mountain.",
+        "bn": "নদীর উৎপত্তি উঁচু পাহাড়ে।"
+      },
+      { "en": "Her origin is unknown.", "bn": "তার উৎপত্তি অজানা।" }
+    ],
+    "synonyms": ["source", "beginning", "root"]
+  },
+
+  {
+    "base": "offering",
+    "phonetic": "ˈɒfərɪŋ",
+    "meaning": "উপহার / প্রস্তাব",
+    "examples": [
+      { "en": "He gave an offering.", "bn": "সে একটি উপহার দিল।" },
+      {
+        "en": "The company made an offering.",
+        "bn": "কোম্পানি একটি প্রস্তাব দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They made an offering to God.",
+        "bn": "তারা ঈশ্বরকে উপহার দিল।"
+      },
+      { "en": "The offering was accepted.", "bn": "উপহারটি গ্রহণ করা হলো।" },
+      {
+        "en": "She brought a small offering.",
+        "bn": "সে একটি ছোট উপহার নিয়ে এল।"
+      },
+      { "en": "The offering was valuable.", "bn": "উপহারটি মূল্যবান ছিল।" },
+      { "en": "He prepared an offering.", "bn": "সে একটি উপহার প্রস্তুত করল।" },
+      {
+        "en": "They refused the offering.",
+        "bn": "তারা প্রস্তাবটি প্রত্যাখ্যান করল।"
+      }
+    ],
+    "synonyms": ["gift", "donation", "present"]
+  },
+
+  {
+    "base": "obstacle",
+    "phonetic": "ˈɒbstəkl",
+    "meaning": "বাধা",
+    "examples": [
+      {
+        "en": "He faced many obstacles.",
+        "bn": "সে অনেক বাধার সম্মুখীন হয়েছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Life is full of obstacles.", "bn": "জীবন বাধায় পূর্ণ।" },
+      {
+        "en": "She overcame every obstacle.",
+        "bn": "সে প্রতিটি বাধা অতিক্রম করল।"
+      },
+      {
+        "en": "The obstacle slowed him down.",
+        "bn": "বাধাটি তাকে ধীর করে দিল।"
+      },
+      { "en": "They removed the obstacle.", "bn": "তারা বাধাটি সরিয়ে দিল।" },
+      {
+        "en": "An obstacle appeared suddenly.",
+        "bn": "হঠাৎ একটি বাধা দেখা দিল।"
+      },
+      { "en": "He didn’t fear obstacles.", "bn": "সে বাধাকে ভয় পায়নি।" },
+      {
+        "en": "Every obstacle teaches something.",
+        "bn": "প্রতিটি বাধা কিছু শেখায়।"
+      },
+      {
+        "en": "The obstacle blocked the path.",
+        "bn": "বাধাটি পথ বন্ধ করে দিল।"
+      },
+      {
+        "en": "She turned obstacles into success.",
+        "bn": "সে বাধাকে সাফল্যে রূপান্তর করল।"
+      },
+      {
+        "en": "We must face obstacles bravely.",
+        "bn": "আমাদের সাহসের সাথে বাধার মুখোমুখি হতে হবে।"
+      }
+    ],
+    "synonyms": ["barrier", "difficulty", "hurdle"]
+  },
+  {
+    "base": "obey",
+    "phonetic": "əˈbeɪ",
+    "meaning": "মান্য করা",
+    "examples": [{ "en": "Obey the rules.", "bn": "নিয়ম মানো।" }],
+    "moreexample": [
+      {
+        "en": "Children should obey parents.",
+        "bn": "শিশুদের বাবা-মাকে মানা উচিত।"
+      },
+      { "en": "He obeyed the teacher.", "bn": "সে শিক্ষকের কথা মানল।" },
+      { "en": "We must obey the law.", "bn": "আমাদের আইন মানতে হবে।" },
+      { "en": "She always obeys.", "bn": "সে সবসময় মান্য করে।" },
+      {
+        "en": "They obeyed instructions carefully.",
+        "bn": "তারা নির্দেশনা মনোযোগ দিয়ে মানল।"
+      },
+      { "en": "He refused to obey.", "bn": "সে মানতে অস্বীকার করল।" },
+      { "en": "Soldiers obey orders.", "bn": "সৈন্যরা আদেশ মানে।" },
+      { "en": "She obeyed without question.", "bn": "সে প্রশ্ন ছাড়াই মানল।" },
+      { "en": "We obey traffic rules.", "bn": "আমরা ট্রাফিক নিয়ম মানি।" },
+      { "en": "He obeyed silently.", "bn": "সে নীরবে মানল।" }
+    ],
+    "synonyms": ["follow", "respect", "comply"]
+  },
+  {
+    "base": "overall",
+    "phonetic": "ˌəʊvərˈɔːl",
+    "meaning": "সামগ্রিকভাবে",
+    "examples": [
+      {
+        "en": "Overall performance is good.",
+        "bn": "সামগ্রিক পারফরম্যান্স ভালো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Overall, the plan worked.",
+        "bn": "সামগ্রিকভাবে পরিকল্পনাটি কাজ করেছে।"
+      },
+      { "en": "Overall result is positive.", "bn": "সামগ্রিক ফলাফল ইতিবাচক।" },
+      { "en": "Overall, she improved.", "bn": "সামগ্রিকভাবে সে উন্নতি করেছে।" },
+      {
+        "en": "The overall effect is strong.",
+        "bn": "সামগ্রিক প্রভাব শক্তিশালী।"
+      },
+      {
+        "en": "Overall, it was successful.",
+        "bn": "সামগ্রিকভাবে এটি সফল ছিল।"
+      },
+      { "en": "Overall view is clear.", "bn": "সামগ্রিক দৃশ্য পরিষ্কার।" },
+      { "en": "Overall progress is steady.", "bn": "সামগ্রিক অগ্রগতি স্থির।" },
+      { "en": "Overall condition is fine.", "bn": "সামগ্রিক অবস্থা ভালো।" },
+      { "en": "Overall score improved.", "bn": "সামগ্রিক স্কোর উন্নত হয়েছে।" },
+      {
+        "en": "Overall, everything is okay.",
+        "bn": "সামগ্রিকভাবে সবকিছু ঠিক আছে।"
+      }
+    ],
+    "synonyms": ["generally", "mostly", "entirely"]
+  },
+  {
+    "base": "outstanding",
+    "phonetic": "aʊtˈstændɪŋ",
+    "meaning": "অসাধারণ",
+    "examples": [
+      { "en": "He is an outstanding student.", "bn": "সে একজন অসাধারণ ছাত্র।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Her performance was outstanding.",
+        "bn": "তার পারফরম্যান্স অসাধারণ ছিল।"
+      },
+      { "en": "He did an outstanding job.", "bn": "সে অসাধারণ কাজ করেছে।" },
+      { "en": "The result was outstanding.", "bn": "ফলাফল অসাধারণ ছিল।" },
+      {
+        "en": "She showed outstanding talent.",
+        "bn": "সে অসাধারণ প্রতিভা দেখিয়েছে।"
+      },
+      {
+        "en": "They gave an outstanding effort.",
+        "bn": "তারা অসাধারণ প্রচেষ্টা দেখিয়েছে।"
+      },
+      { "en": "His skills are outstanding.", "bn": "তার দক্ষতা অসাধারণ।" },
+      { "en": "The design is outstanding.", "bn": "ডিজাইনটি অসাধারণ।" },
+      {
+        "en": "She achieved outstanding success.",
+        "bn": "সে অসাধারণ সাফল্য অর্জন করেছে।"
+      },
+      { "en": "The service was outstanding.", "bn": "সেবাটি অসাধারণ ছিল।" },
+      {
+        "en": "He gave an outstanding answer.",
+        "bn": "সে অসাধারণ উত্তর দিয়েছে।"
+      }
+    ],
+    "synonyms": ["excellent", "remarkable", "exceptional"]
+  }
+]

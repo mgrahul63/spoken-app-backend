@@ -21,6 +21,7 @@
     ],
     "synonyms": ["companion", "mate", "buddy", "colleague"]
   },
+
   {
     "base": "forest",
     "phonetic": "ˈfɒrɪst",
@@ -42,5 +43,1111 @@
       { "en": "They protected the forest.", "bn": "" }
     ],
     "synonyms": ["wood", "jungle", "woodland", "grove", "rainforest"]
+  },
+
+  {
+    "base": "flat",
+    "phonetic": "flæt",
+    "meaning": "সমতল / চ্যাপ্টা",
+    "examples": [
+      { "en": "The land is flat.", "bn": "জমিটি সমতল।" },
+      { "en": "He lives in a flat.", "bn": "সে একটি ফ্ল্যাটে থাকে।" }
+    ],
+    "moreexample": [
+      { "en": "The tire is flat.", "bn": "টায়ারটি চ্যাপ্টা হয়ে গেছে।" },
+      {
+        "en": "She placed the book on a flat surface.",
+        "bn": "সে বইটি একটি সমতল জায়গায় রাখল।"
+      },
+      { "en": "The road is flat and smooth.", "bn": "রাস্তা সমতল ও মসৃণ।" },
+      { "en": "He painted a flat wall.", "bn": "সে একটি সমতল দেয়াল রং করল।" },
+      { "en": "The table has a flat top.", "bn": "টেবিলটির উপরের অংশ সমতল।" },
+      {
+        "en": "The terrain is completely flat.",
+        "bn": "এলাকাটি পুরোপুরি সমতল।"
+      }
+    ],
+    "synonyms": ["level", "smooth"]
+  },
+
+  {
+    "base": "fair",
+    "phonetic": "feər",
+    "meaning": "ন্যায্য / সুন্দর",
+    "examples": [
+      {
+        "en": "He made a fair decision.",
+        "bn": "সে একটি ন্যায্য সিদ্ধান্ত নিল।"
+      },
+      { "en": "She has fair skin.", "bn": "তার ত্বক ফর্সা।" }
+    ],
+    "moreexample": [
+      { "en": "The judge was fair.", "bn": "বিচারক ন্যায্য ছিলেন।" },
+      { "en": "It is a fair deal.", "bn": "এটি একটি ন্যায্য চুক্তি।" },
+      { "en": "We need fair rules.", "bn": "আমাদের ন্যায্য নিয়ম দরকার।" },
+      { "en": "The game was fair.", "bn": "খেলাটি ন্যায্য ছিল।" },
+      { "en": "She got a fair chance.", "bn": "সে একটি ন্যায্য সুযোগ পেল।" },
+      { "en": "The weather is fair today.", "bn": "আজ আবহাওয়া ভালো।" }
+    ],
+    "synonyms": ["just", "equal", "reasonable"]
+  },
+
+  {
+    "base": "foreign",
+    "phonetic": "ˈfɒrən",
+    "meaning": "বিদেশি",
+    "examples": [
+      {
+        "en": "He speaks a foreign language.",
+        "bn": "সে একটি বিদেশি ভাষায় কথা বলে।"
+      },
+      { "en": "Foreign goods are expensive.", "bn": "বিদেশি পণ্য দামি।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She works in a foreign country.",
+        "bn": "সে একটি বিদেশি দেশে কাজ করে।"
+      },
+      {
+        "en": "Foreign students study here.",
+        "bn": "বিদেশি শিক্ষার্থীরা এখানে পড়াশোনা করে।"
+      },
+      {
+        "en": "He likes foreign culture.",
+        "bn": "সে বিদেশি সংস্কৃতি পছন্দ করে।"
+      },
+      {
+        "en": "Foreign policy is important.",
+        "bn": "পররাষ্ট্রনীতি গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "They imported foreign products.",
+        "bn": "তারা বিদেশি পণ্য আমদানি করল।"
+      },
+      { "en": "Foreign travel is expensive.", "bn": "বিদেশ ভ্রমণ ব্যয়বহুল।" }
+    ],
+    "synonyms": ["international", "overseas"]
+  },
+
+  {
+    "base": "final",
+    "phonetic": "ˈfaɪnəl",
+    "meaning": "চূড়ান্ত",
+    "examples": [
+      { "en": "This is the final decision.", "bn": "এটি চূড়ান্ত সিদ্ধান্ত।" },
+      {
+        "en": "He reached the final stage.",
+        "bn": "সে চূড়ান্ত পর্যায়ে পৌঁছাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The final exam is tomorrow.",
+        "bn": "চূড়ান্ত পরীক্ষা আগামীকাল।"
+      },
+      {
+        "en": "We made the final call.",
+        "bn": "আমরা চূড়ান্ত সিদ্ধান্ত নিলাম।"
+      },
+      { "en": "The final round is tough.", "bn": "চূড়ান্ত রাউন্ড কঠিন।" },
+      {
+        "en": "She gave her final answer.",
+        "bn": "সে তার চূড়ান্ত উত্তর দিল।"
+      },
+      {
+        "en": "Final results are out.",
+        "bn": "চূড়ান্ত ফলাফল প্রকাশিত হয়েছে।"
+      },
+      { "en": "This is the final version.", "bn": "এটি চূড়ান্ত সংস্করণ।" }
+    ],
+    "synonyms": ["last", "ultimate"]
+  },
+
+  {
+    "base": "further",
+    "phonetic": "ˈfɜːrðər",
+    "meaning": "আরও / অতিরিক্ত",
+    "examples": [
+      { "en": "We need further discussion.", "bn": "আমাদের আরও আলোচনা দরকার।" },
+      {
+        "en": "He went further into the forest.",
+        "bn": "সে বনের আরও গভীরে গেল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Further study is required.", "bn": "আরও পড়াশোনা দরকার।" },
+      {
+        "en": "She explained it further.",
+        "bn": "সে বিষয়টি আরও ব্যাখ্যা করল।"
+      },
+      {
+        "en": "No further action is needed.",
+        "bn": "আর কোনো পদক্ষেপ দরকার নেই।"
+      },
+      { "en": "We moved further ahead.", "bn": "আমরা আরও সামনে এগোলাম।" },
+      {
+        "en": "Further information is available.",
+        "bn": "আরও তথ্য পাওয়া যায়।"
+      },
+      {
+        "en": "He further improved his skills.",
+        "bn": "সে তার দক্ষতা আরও উন্নত করল।"
+      }
+    ],
+    "synonyms": ["additional", "more"]
+  },
+
+  {
+    "base": "false",
+    "phonetic": "fɔːls",
+    "meaning": "মিথ্যা / ভুল",
+    "examples": [
+      { "en": "This statement is false.", "bn": "এই বক্তব্যটি মিথ্যা।" },
+      { "en": "He gave false information.", "bn": "সে ভুল তথ্য দিল।" }
+    ],
+    "moreexample": [
+      { "en": "The report is false.", "bn": "রিপোর্টটি মিথ্যা।" },
+      { "en": "False news spreads quickly.", "bn": "মিথ্যা খবর দ্রুত ছড়ায়।" },
+      { "en": "He made a false claim.", "bn": "সে মিথ্যা দাবি করল।" },
+      { "en": "The alarm was false.", "bn": "অ্যালার্মটি ভুল ছিল।" },
+      {
+        "en": "False promises hurt people.",
+        "bn": "মিথ্যা প্রতিশ্রুতি মানুষকে কষ্ট দেয়।"
+      },
+      { "en": "The data is false.", "bn": "তথ্যটি ভুল।" }
+    ],
+    "synonyms": ["incorrect", "untrue"]
+  },
+
+  {
+    "base": "friendly",
+    "phonetic": "ˈfrendli",
+    "meaning": "বন্ধুসুলভ",
+    "examples": [
+      { "en": "He is a friendly person.", "bn": "সে একজন বন্ধুসুলভ মানুষ।" },
+      {
+        "en": "She gave a friendly smile.",
+        "bn": "সে একটি বন্ধুসুলভ হাসি দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They are very friendly neighbors.",
+        "bn": "তারা খুব বন্ধুসুলভ প্রতিবেশী।"
+      },
+      {
+        "en": "The teacher is friendly to students.",
+        "bn": "শিক্ষক শিক্ষার্থীদের প্রতি বন্ধুসুলভ।"
+      },
+      {
+        "en": "We had a friendly conversation.",
+        "bn": "আমাদের একটি বন্ধুসুলভ আলোচনা হলো।"
+      },
+      {
+        "en": "He behaves in a friendly manner.",
+        "bn": "সে বন্ধুসুলভভাবে আচরণ করে।"
+      },
+      { "en": "The staff is friendly here.", "bn": "এখানে কর্মীরা বন্ধুসুলভ।" },
+      { "en": "She has a friendly nature.", "bn": "তার স্বভাব বন্ধুসুলভ।" }
+    ],
+    "synonyms": ["kind", "amicable", "pleasant"]
+  },
+
+  {
+    "base": "frequent",
+    "phonetic": "ˈfriːkwənt",
+    "meaning": "ঘন ঘন / প্রায়ই ঘটে এমন",
+    "examples": [
+      { "en": "He is a frequent visitor here.", "bn": "সে এখানে ঘন ঘন আসে।" },
+      {
+        "en": "Frequent rain is expected.",
+        "bn": "ঘন ঘন বৃষ্টি হওয়ার সম্ভাবনা আছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She makes frequent mistakes.", "bn": "সে ঘন ঘন ভুল করে।" },
+      { "en": "There are frequent delays.", "bn": "এখানে ঘন ঘন দেরি হয়।" },
+      { "en": "He takes frequent breaks.", "bn": "সে ঘন ঘন বিরতি নেয়।" },
+      { "en": "Frequent updates are needed.", "bn": "ঘন ঘন আপডেট দরকার।" },
+      { "en": "They have frequent meetings.", "bn": "তাদের ঘন ঘন মিটিং হয়।" },
+      { "en": "The bus runs frequent services.", "bn": "বাসটি ঘন ঘন চলে।" }
+    ],
+    "synonyms": ["regular", "repeated", "often"]
+  },
+
+  {
+    "base": "field",
+    "phonetic": "fiːld",
+    "meaning": "ক্ষেত্র / মাঠ",
+    "examples": [
+      { "en": "They are working in the field.", "bn": "তারা মাঠে কাজ করছে।" },
+      {
+        "en": "He is an expert in his field.",
+        "bn": "সে তার ক্ষেত্রে একজন বিশেষজ্ঞ।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The field is green.", "bn": "মাঠটি সবুজ।" },
+      { "en": "Farmers work in the field.", "bn": "কৃষকরা মাঠে কাজ করে।" },
+      {
+        "en": "She studied in the medical field.",
+        "bn": "সে চিকিৎসা ক্ষেত্রে পড়াশোনা করেছে।"
+      },
+      { "en": "The children played in the field.", "bn": "শিশুরা মাঠে খেলল।" },
+      { "en": "He leads in his field.", "bn": "সে তার ক্ষেত্রে নেতৃত্ব দেয়।" },
+      { "en": "The field is large.", "bn": "মাঠটি বড়।" }
+    ],
+    "synonyms": ["area", "domain", "ground"]
+  },
+
+  {
+    "base": "fright",
+    "phonetic": "fraɪt",
+    "meaning": "ভয় / আতঙ্ক",
+    "examples": [
+      {
+        "en": "The noise gave him a fright.",
+        "bn": "শব্দটি তাকে ভয় পাইয়ে দিল।"
+      },
+      { "en": "She screamed in fright.", "bn": "সে ভয়ে চিৎকার করল।" }
+    ],
+    "moreexample": [
+      { "en": "The dog caused a fright.", "bn": "কুকুরটি ভয় সৃষ্টি করল।" },
+      { "en": "He felt a sudden fright.", "bn": "সে হঠাৎ ভয় পেল।" },
+      {
+        "en": "The story gave me a fright.",
+        "bn": "গল্পটি আমাকে ভয় পাইয়ে দিল।"
+      },
+      { "en": "She recovered from the fright.", "bn": "সে ভয় থেকে সেরে উঠল।" },
+      {
+        "en": "The dark room gave a fright.",
+        "bn": "অন্ধকার ঘর ভয় সৃষ্টি করল।"
+      },
+      {
+        "en": "They experienced a fright.",
+        "bn": "তারা একটি ভয়ের অভিজ্ঞতা পেল।"
+      }
+    ],
+    "synonyms": ["fear", "shock", "terror"]
+  },
+
+  {
+    "base": "familiar",
+    "phonetic": "fəˈmɪliər",
+    "meaning": "পরিচিত",
+    "examples": [
+      {
+        "en": "This place is familiar to me.",
+        "bn": "এই জায়গাটি আমার পরিচিত।"
+      },
+      { "en": "His face looks familiar.", "bn": "তার মুখটা পরিচিত মনে হয়।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She is familiar with the topic.",
+        "bn": "সে বিষয়টির সাথে পরিচিত।"
+      },
+      { "en": "The song sounds familiar.", "bn": "গানটি পরিচিত শোনায়।" },
+      {
+        "en": "He is familiar with coding.",
+        "bn": "সে কোডিংয়ের সাথে পরিচিত।"
+      },
+      { "en": "The name is familiar.", "bn": "নামটি পরিচিত।" },
+      {
+        "en": "We are familiar with the system.",
+        "bn": "আমরা সিস্টেমটির সাথে পরিচিত।"
+      },
+      { "en": "This voice feels familiar.", "bn": "এই কণ্ঠটি পরিচিত মনে হয়।" }
+    ],
+    "synonyms": ["known", "recognized"]
+  },
+
+  {
+    "base": "frank",
+    "phonetic": "fræŋk",
+    "meaning": "সোজাসাপ্টা / খোলামেলা",
+    "examples": [
+      { "en": "He gave a frank answer.", "bn": "সে একটি খোলামেলা উত্তর দিল।" },
+      {
+        "en": "She was very frank with me.",
+        "bn": "সে আমার সাথে খুব খোলামেলা ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Let’s be frank about the issue.",
+        "bn": "চল বিষয়টি নিয়ে খোলামেলা হই।"
+      },
+      {
+        "en": "He made a frank confession.",
+        "bn": "সে একটি খোলামেলা স্বীকারোক্তি দিল।"
+      },
+      {
+        "en": "She is frank in her opinions.",
+        "bn": "সে তার মতামতে সোজাসাপ্টা।"
+      },
+      {
+        "en": "They had a frank discussion.",
+        "bn": "তাদের একটি খোলামেলা আলোচনা হলো।"
+      },
+      {
+        "en": "He was frank about his mistakes.",
+        "bn": "সে তার ভুল সম্পর্কে খোলামেলা ছিল।"
+      },
+      {
+        "en": "Frank communication is important.",
+        "bn": "খোলামেলা যোগাযোগ গুরুত্বপূর্ণ।"
+      }
+    ],
+    "synonyms": ["honest", "candid", "direct"]
+  },
+
+  {
+    "base": "focus",
+    "phonetic": "ˈfoʊkəs",
+    "meaning": "মনোযোগ / কেন্দ্রীভূত করা",
+    "examples": [
+      {
+        "en": "You need to focus on your studies.",
+        "bn": "তোমার পড়াশোনায় মনোযোগ দিতে হবে।"
+      },
+      { "en": "The camera is in focus.", "bn": "ক্যামেরাটি ফোকাসে আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She lost focus during the exam.",
+        "bn": "সে পরীক্ষার সময় মনোযোগ হারাল।"
+      },
+      {
+        "en": "He focuses on his career.",
+        "bn": "সে তার ক্যারিয়ারে মনোযোগ দেয়।"
+      },
+      {
+        "en": "The meeting focused on solutions.",
+        "bn": "মিটিংটি সমাধানের উপর কেন্দ্রীভূত ছিল।"
+      },
+      {
+        "en": "Focus is important for success.",
+        "bn": "সাফল্যের জন্য মনোযোগ গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "They focused on the goal.",
+        "bn": "তারা লক্ষ্যটির উপর মনোযোগ দিল।"
+      },
+      { "en": "Try to maintain focus.", "bn": "মনোযোগ বজায় রাখার চেষ্টা করো।" }
+    ],
+    "synonyms": ["concentrate", "attention", "center"]
+  },
+
+  {
+    "base": "force",
+    "phonetic": "fɔːrs",
+    "meaning": "শক্তি / জোর করা",
+    "examples": [
+      {
+        "en": "He used force to open the door.",
+        "bn": "সে দরজা খুলতে শক্তি ব্যবহার করল।"
+      },
+      {
+        "en": "They forced him to agree.",
+        "bn": "তারা তাকে সম্মত হতে বাধ্য করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The force of the wind was strong.",
+        "bn": "বাতাসের শক্তি খুব বেশি ছিল।"
+      },
+      { "en": "She forced a smile.", "bn": "সে জোর করে হাসল।" },
+      { "en": "Police used force.", "bn": "পুলিশ শক্তি ব্যবহার করল।" },
+      { "en": "The force moved the object.", "bn": "শক্তি বস্তুটি সরাল।" },
+      { "en": "He forced the issue.", "bn": "সে বিষয়টি জোর করে তুলল।" },
+      {
+        "en": "Natural forces are powerful.",
+        "bn": "প্রাকৃতিক শক্তি শক্তিশালী।"
+      }
+    ],
+    "synonyms": ["power", "strength", "pressure"]
+  },
+
+  {
+    "base": "flourish",
+    "phonetic": "ˈflʌrɪʃ",
+    "meaning": "সমৃদ্ধ হওয়া / বিকশিত হওয়া",
+    "examples": [
+      {
+        "en": "Plants flourish in sunlight.",
+        "bn": "গাছ সূর্যালোকে ভালোভাবে বেড়ে ওঠে।"
+      },
+      {
+        "en": "Her business flourished quickly.",
+        "bn": "তার ব্যবসা দ্রুত সমৃদ্ধ হলো।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Art flourished in the city.", "bn": "শহরে শিল্প বিকশিত হলো।" },
+      {
+        "en": "He flourished in his career.",
+        "bn": "সে তার ক্যারিয়ারে উন্নতি করল।"
+      },
+      {
+        "en": "Culture flourishes in peace.",
+        "bn": "শান্তিতে সংস্কৃতি বিকশিত হয়।"
+      },
+      {
+        "en": "The idea flourished over time.",
+        "bn": "ধারণাটি সময়ের সাথে বিকশিত হলো।"
+      },
+      {
+        "en": "They flourished after support.",
+        "bn": "সহায়তার পর তারা সমৃদ্ধ হলো।"
+      },
+      {
+        "en": "Education flourishes in good systems.",
+        "bn": "ভালো ব্যবস্থায় শিক্ষা বিকশিত হয়।"
+      }
+    ],
+    "synonyms": ["grow", "thrive", "prosper"]
+  },
+
+  {
+    "base": "frustrate",
+    "phonetic": "frʌˈstreɪt",
+    "meaning": "হতাশ করা",
+    "examples": [
+      { "en": "The delay frustrated him.", "bn": "দেরি তাকে হতাশ করল।" },
+      {
+        "en": "She felt frustrated by the problem.",
+        "bn": "সে সমস্যার কারণে হতাশ বোধ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The situation frustrated the team.",
+        "bn": "পরিস্থিতি দলকে হতাশ করল।"
+      },
+      {
+        "en": "He was frustrated with slow progress.",
+        "bn": "সে ধীর অগ্রগতিতে হতাশ ছিল।"
+      },
+      {
+        "en": "They felt frustrated at work.",
+        "bn": "তারা কাজে হতাশ বোধ করল।"
+      },
+      {
+        "en": "Errors frustrated the users.",
+        "bn": "ত্রুটিগুলো ব্যবহারকারীদের হতাশ করল।"
+      },
+      {
+        "en": "She frustrated her opponents.",
+        "bn": "সে তার প্রতিপক্ষকে হতাশ করল।"
+      },
+      {
+        "en": "The system frustrates learners.",
+        "bn": "সিস্টেমটি শিক্ষার্থীদের হতাশ করে।"
+      }
+    ],
+    "synonyms": ["annoy", "discourage", "disappoint"]
+  },
+
+  {
+    "base": "foundation",
+    "phonetic": "faʊnˈdeɪʃən",
+    "meaning": "ভিত্তি / ভিত্তিপ্রস্তর",
+    "examples": [
+      {
+        "en": "Education is the foundation of success.",
+        "bn": "শিক্ষা সাফল্যের ভিত্তি।"
+      },
+      {
+        "en": "They built a strong foundation.",
+        "bn": "তারা একটি শক্ত ভিত্তি তৈরি করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The building has a strong foundation.",
+        "bn": "ভবনের একটি শক্ত ভিত্তি আছে।"
+      },
+      {
+        "en": "Trust is the foundation of friendship.",
+        "bn": "বিশ্বাস বন্ধুত্বের ভিত্তি।"
+      },
+      {
+        "en": "He laid the foundation of the project.",
+        "bn": "সে প্রকল্পের ভিত্তি স্থাপন করল।"
+      },
+      {
+        "en": "Science is the foundation of technology.",
+        "bn": "বিজ্ঞান প্রযুক্তির ভিত্তি।"
+      },
+      {
+        "en": "The foundation supports the structure.",
+        "bn": "ভিত্তি কাঠামোকে সমর্থন করে।"
+      },
+      {
+        "en": "Good habits form a strong foundation.",
+        "bn": "ভালো অভ্যাস শক্ত ভিত্তি তৈরি করে।"
+      }
+    ],
+    "synonyms": ["base", "groundwork", "basis"]
+  },
+
+  {
+    "base": "foster",
+    "phonetic": "ˈfɒstər",
+    "meaning": "উৎসাহিত করা / লালন করা",
+    "examples": [
+      {
+        "en": "Parents foster their children's growth.",
+        "bn": "বাবা-মা সন্তানের বিকাশ লালন করে।"
+      },
+      {
+        "en": "The teacher fosters creativity.",
+        "bn": "শিক্ষক সৃজনশীলতা উৎসাহিত করেন।"
+      }
+    ],
+    "moreexample": [
+      { "en": "They foster teamwork.", "bn": "তারা দলগত কাজকে উৎসাহিত করে।" },
+      {
+        "en": "The program fosters learning.",
+        "bn": "প্রোগ্রামটি শেখাকে উৎসাহিত করে।"
+      },
+      { "en": "She fosters good habits.", "bn": "সে ভালো অভ্যাস লালন করে।" },
+      {
+        "en": "The environment fosters growth.",
+        "bn": "পরিবেশ বিকাশকে উৎসাহিত করে।"
+      },
+      {
+        "en": "Leaders foster innovation.",
+        "bn": "নেতারা উদ্ভাবন উৎসাহিত করেন।"
+      },
+      {
+        "en": "We foster mutual respect.",
+        "bn": "আমরা পারস্পরিক সম্মান লালন করি।"
+      }
+    ],
+    "synonyms": ["encourage", "nurture", "promote"]
+  },
+
+  {
+    "base": "fulfill",
+    "phonetic": "fʊlˈfɪl",
+    "meaning": "পূর্ণ করা / সম্পন্ন করা",
+    "examples": [
+      {
+        "en": "He fulfilled his promise.",
+        "bn": "সে তার প্রতিশ্রুতি পূরণ করল।"
+      },
+      { "en": "She fulfilled her dream.", "bn": "সে তার স্বপ্ন পূরণ করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They fulfilled the requirements.",
+        "bn": "তারা প্রয়োজনীয়তা পূরণ করল।"
+      },
+      {
+        "en": "The project fulfilled expectations.",
+        "bn": "প্রকল্পটি প্রত্যাশা পূরণ করল।"
+      },
+      { "en": "He fulfilled his duty.", "bn": "সে তার দায়িত্ব পূরণ করল।" },
+      { "en": "She fulfilled her goal.", "bn": "সে তার লক্ষ্য পূরণ করল।" },
+      { "en": "We fulfilled the order.", "bn": "আমরা অর্ডার সম্পন্ন করলাম।" },
+      {
+        "en": "Life fulfilled his expectations.",
+        "bn": "জীবন তার প্রত্যাশা পূরণ করল।"
+      }
+    ],
+    "synonyms": ["complete", "achieve", "satisfy"]
+  },
+
+  {
+    "base": "formidable",
+    "phonetic": "ˈfɔːrmɪdəbl",
+    "meaning": "ভয়ংকর / কঠিন / শক্তিশালী",
+    "examples": [
+      {
+        "en": "He is a formidable opponent.",
+        "bn": "সে একজন শক্তিশালী প্রতিপক্ষ।"
+      },
+      { "en": "The task is formidable.", "bn": "কাজটি কঠিন।" }
+    ],
+    "moreexample": [
+      { "en": "The challenge was formidable.", "bn": "চ্যালেঞ্জটি কঠিন ছিল।" },
+      {
+        "en": "She faced a formidable enemy.",
+        "bn": "সে একজন শক্তিশালী শত্রুর মুখোমুখি হলো।"
+      },
+      { "en": "The mountain is formidable.", "bn": "পাহাড়টি ভয়ংকর/কঠিন।" },
+      {
+        "en": "He is a formidable player.",
+        "bn": "সে একজন শক্তিশালী খেলোয়াড়।"
+      },
+      { "en": "The problem is formidable.", "bn": "সমস্যাটি কঠিন।" },
+      {
+        "en": "They overcame a formidable challenge.",
+        "bn": "তারা একটি কঠিন চ্যালেঞ্জ অতিক্রম করল।"
+      }
+    ],
+    "synonyms": ["powerful", "challenging", "intimidating"]
+  },
+
+  {
+    "base": "feasible",
+    "phonetic": "ˈfiːzəbl",
+    "meaning": "সম্ভব / বাস্তবায়নযোগ্য",
+    "examples": [
+      {
+        "en": "This plan is feasible.",
+        "bn": "এই পরিকল্পনাটি বাস্তবায়নযোগ্য।"
+      },
+      { "en": "Is it feasible to finish today?", "bn": "আজ শেষ করা কি সম্ভব?" }
+    ],
+    "moreexample": [
+      { "en": "The idea seems feasible.", "bn": "ধারণাটি সম্ভব বলে মনে হয়।" },
+      {
+        "en": "We need a feasible solution.",
+        "bn": "আমাদের একটি বাস্তবসম্মত সমাধান দরকার।"
+      },
+      { "en": "It is not feasible right now.", "bn": "এটা এখন সম্ভব নয়।" },
+      {
+        "en": "They found a feasible method.",
+        "bn": "তারা একটি কার্যকর পদ্ধতি খুঁজে পেল।"
+      },
+      {
+        "en": "Feasible plans are important.",
+        "bn": "বাস্তবসম্মত পরিকল্পনা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "The project is feasible with support.",
+        "bn": "সহায়তা পেলে প্রকল্পটি সম্ভব।"
+      }
+    ],
+    "synonyms": ["possible", "achievable", "practical"]
+  },
+
+  {
+    "base": "fragile",
+    "phonetic": "ˈfrædʒaɪl",
+    "meaning": "ভঙ্গুর / নাজুক",
+    "examples": [
+      { "en": "This glass is fragile.", "bn": "এই গ্লাসটি ভঙ্গুর।" },
+      { "en": "Be careful, it's fragile.", "bn": "সাবধান, এটি ভঙ্গুর।" }
+    ],
+    "moreexample": [
+      { "en": "The situation is fragile.", "bn": "পরিস্থিতি নাজুক।" },
+      { "en": "The vase is very fragile.", "bn": "ফুলদানি খুব ভঙ্গুর।" },
+      { "en": "Her health is fragile.", "bn": "তার স্বাস্থ্য নাজুক।" },
+      {
+        "en": "Fragile items need care.",
+        "bn": "ভঙ্গুর জিনিস সাবধানে রাখতে হয়।"
+      },
+      { "en": "The peace is fragile.", "bn": "শান্তি নাজুক।" },
+      {
+        "en": "Handle fragile objects carefully.",
+        "bn": "ভঙ্গুর জিনিস সাবধানে ধরো।"
+      }
+    ],
+    "synonyms": ["delicate", "weak", "breakable"]
+  },
+
+  {
+    "base": "fortify",
+    "phonetic": "ˈfɔːrtɪfaɪ",
+    "meaning": "শক্তিশালী করা / মজবুত করা",
+    "examples": [
+      { "en": "They fortified the wall.", "bn": "তারা দেয়াল শক্তিশালী করল।" },
+      {
+        "en": "Milk is fortified with vitamins.",
+        "bn": "দুধে ভিটামিন যোগ করে শক্তিশালী করা হয়।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The castle was fortified.", "bn": "দুর্গটি মজবুত করা হয়েছিল।" },
+      {
+        "en": "We must fortify our system.",
+        "bn": "আমাদের সিস্টেম শক্তিশালী করতে হবে।"
+      },
+      {
+        "en": "The city was heavily fortified.",
+        "bn": "শহরটি শক্তভাবে সুরক্ষিত ছিল।"
+      },
+      {
+        "en": "They fortified the defense.",
+        "bn": "তারা প্রতিরক্ষা শক্তিশালী করল।"
+      },
+      {
+        "en": "Food is fortified with nutrients.",
+        "bn": "খাবারে পুষ্টি যোগ করে শক্তিশালী করা হয়।"
+      },
+      {
+        "en": "We fortified our position.",
+        "bn": "আমরা আমাদের অবস্থান শক্ত করলাম।"
+      }
+    ],
+    "synonyms": ["strengthen", "reinforce", "secure"]
+  },
+
+  {
+    "base": "foresee",
+    "phonetic": "fɔːrˈsiː",
+    "meaning": "আগাম দেখা / পূর্বানুমান করা",
+    "examples": [
+      {
+        "en": "He foresaw the problem.",
+        "bn": "সে সমস্যাটি আগে থেকেই বুঝতে পেরেছিল।"
+      },
+      {
+        "en": "No one can foresee the future.",
+        "bn": "ভবিষ্যৎ কেউ আগে থেকে জানতে পারে না।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They foresaw the risks.",
+        "bn": "তারা ঝুঁকি আগে থেকেই বুঝেছিল।"
+      },
+      {
+        "en": "She foresaw success.",
+        "bn": "সে সাফল্য আগে থেকেই অনুমান করেছিল।"
+      },
+      {
+        "en": "We cannot foresee everything.",
+        "bn": "আমরা সবকিছু আগে থেকে জানতে পারি না।"
+      },
+      {
+        "en": "Experts foresaw changes.",
+        "bn": "বিশেষজ্ঞরা পরিবর্তন আগে থেকেই বুঝেছিল।"
+      },
+      { "en": "He foresaw danger.", "bn": "সে বিপদ আগে থেকেই বুঝেছিল।" },
+      {
+        "en": "The system foresaw errors.",
+        "bn": "সিস্টেমটি ত্রুটি আগে থেকেই ধরতে পেরেছিল।"
+      }
+    ],
+    "synonyms": ["predict", "anticipate", "expect"]
+  },
+
+  {
+    "base": "faint",
+    "phonetic": "feɪnt",
+    "meaning": "অজ্ঞান / অস্পষ্ট / দুর্বল",
+    "examples": [
+      { "en": "He felt faint.", "bn": "সে অজ্ঞান হয়ে পড়ছিল।" },
+      { "en": "There is a faint sound.", "bn": "একটি অস্পষ্ট শব্দ আছে।" }
+    ],
+    "moreexample": [
+      { "en": "She gave a faint smile.", "bn": "সে একটি হালকা হাসি দিল।" },
+      { "en": "The light is faint.", "bn": "আলোটি অস্পষ্ট।" },
+      {
+        "en": "He became faint in the heat.",
+        "bn": "গরমে সে অজ্ঞান হয়ে পড়ল।"
+      },
+      { "en": "A faint voice was heard.", "bn": "একটি অস্পষ্ট কণ্ঠ শোনা গেল।" },
+      {
+        "en": "She felt faint after running.",
+        "bn": "দৌড়ানোর পর সে দুর্বল অনুভব করল।"
+      },
+      { "en": "There is a faint smell.", "bn": "একটি হালকা গন্ধ আছে।" }
+    ],
+    "synonyms": ["weak", "blurred", "dim"]
+  },
+
+  {
+    "base": "fierce",
+    "phonetic": "fɪərs",
+    "meaning": "তীব্র / প্রচণ্ড / হিংস্র",
+    "examples": [
+      { "en": "The lion is fierce.", "bn": "সিংহটি হিংস্র।" },
+      {
+        "en": "They had a fierce argument.",
+        "bn": "তাদের মধ্যে তীব্র বিতর্ক হলো।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The storm was fierce.", "bn": "ঝড়টি প্রচণ্ড ছিল।" },
+      {
+        "en": "She showed fierce determination.",
+        "bn": "সে প্রচণ্ড দৃঢ়তা দেখাল।"
+      },
+      {
+        "en": "The competition was fierce.",
+        "bn": "প্রতিযোগিতা খুব কঠিন ছিল।"
+      },
+      {
+        "en": "He faced fierce opposition.",
+        "bn": "সে তীব্র বিরোধিতার মুখোমুখি হলো।"
+      },
+      { "en": "The fire was fierce.", "bn": "আগুনটি প্রচণ্ড ছিল।" },
+      { "en": "They are fierce rivals.", "bn": "তারা তীব্র প্রতিদ্বন্দ্বী।" }
+    ],
+    "synonyms": ["intense", "strong", "aggressive"]
+  },
+
+  {
+    "base": "flee",
+    "phonetic": "fliː",
+    "meaning": "পালিয়ে যাওয়া",
+    "examples": [
+      {
+        "en": "The thief fled the scene.",
+        "bn": "চোরটি ঘটনাস্থল থেকে পালিয়ে গেল।"
+      },
+      { "en": "People fled the city.", "bn": "মানুষ শহর থেকে পালিয়ে গেল।" }
+    ],
+    "moreexample": [
+      { "en": "They fled in fear.", "bn": "তারা ভয়ে পালিয়ে গেল।" },
+      { "en": "He fled from danger.", "bn": "সে বিপদ থেকে পালিয়ে গেল।" },
+      { "en": "The animal fled quickly.", "bn": "প্রাণীটি দ্রুত পালিয়ে গেল।" },
+      { "en": "She fled the country.", "bn": "সে দেশ ছেড়ে পালিয়ে গেল।" },
+      {
+        "en": "They fled the war zone.",
+        "bn": "তারা যুদ্ধ এলাকা থেকে পালিয়ে গেল।"
+      },
+      {
+        "en": "He fled without warning.",
+        "bn": "সে কোনো সতর্কতা ছাড়াই পালিয়ে গেল।"
+      }
+    ],
+    "synonyms": ["escape", "run away", "bolt"]
+  },
+
+  {
+    "base": "forecast",
+    "phonetic": "ˈfɔːrkæst",
+    "meaning": "পূর্বাভাস",
+    "examples": [
+      {
+        "en": "The weather forecast is good.",
+        "bn": "আবহাওয়ার পূর্বাভাস ভালো।"
+      },
+      {
+        "en": "Experts forecast growth.",
+        "bn": "বিশেষজ্ঞরা উন্নতির পূর্বাভাস দিয়েছেন।"
+      }
+    ],
+    "moreexample": [
+      { "en": "They forecast rain.", "bn": "তারা বৃষ্টির পূর্বাভাস দিল।" },
+      {
+        "en": "Economists forecast inflation.",
+        "bn": "অর্থনীতিবিদরা মুদ্রাস্ফীতির পূর্বাভাস দিলেন।"
+      },
+      { "en": "We forecast success.", "bn": "আমরা সাফল্যের পূর্বাভাস দিলাম।" },
+      { "en": "Storms were forecast.", "bn": "ঝড়ের পূর্বাভাস ছিল।" },
+      { "en": "He forecast changes.", "bn": "সে পরিবর্তনের পূর্বাভাস দিল।" },
+      {
+        "en": "Accurate forecasts help planning.",
+        "bn": "সঠিক পূর্বাভাস পরিকল্পনায় সাহায্য করে।"
+      }
+    ],
+    "synonyms": ["predict", "estimate", "anticipate"]
+  },
+
+  {
+    "base": "foundationless",
+    "phonetic": "faʊnˈdeɪʃənləs",
+    "meaning": "ভিত্তিহীন",
+    "examples": [
+      { "en": "The claim is foundationless.", "bn": "দাবিটি ভিত্তিহীন।" },
+      {
+        "en": "It is a foundationless rumor.",
+        "bn": "এটি একটি ভিত্তিহীন গুজব।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The argument is foundationless.", "bn": "যুক্তিটি ভিত্তিহীন।" },
+      {
+        "en": "He made a foundationless accusation.",
+        "bn": "সে একটি ভিত্তিহীন অভিযোগ করল।"
+      },
+      { "en": "The story is foundationless.", "bn": "গল্পটি ভিত্তিহীন।" },
+      {
+        "en": "They spread foundationless news.",
+        "bn": "তারা ভিত্তিহীন খবর ছড়াল।"
+      },
+      { "en": "The theory is foundationless.", "bn": "তত্ত্বটি ভিত্তিহীন।" },
+      { "en": "Her fear was foundationless.", "bn": "তার ভয় ছিল ভিত্তিহীন।" }
+    ],
+    "synonyms": ["baseless", "unfounded"]
+  },
+
+  {
+    "base": "fragility",
+    "phonetic": "frəˈdʒɪləti",
+    "meaning": "ভঙ্গুরতা / নাজুক অবস্থা",
+    "examples": [
+      { "en": "The fragility of glass is high.", "bn": "কাচের ভঙ্গুরতা বেশি।" },
+      {
+        "en": "We saw the fragility of peace.",
+        "bn": "আমরা শান্তির নাজুকতা দেখলাম।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The fragility of life is real.",
+        "bn": "জীবনের ভঙ্গুরতা বাস্তব।"
+      },
+      {
+        "en": "They understood the fragility of health.",
+        "bn": "তারা স্বাস্থ্যের নাজুকতা বুঝল।"
+      },
+      {
+        "en": "The system shows fragility.",
+        "bn": "সিস্টেমটি নাজুকতা দেখায়।"
+      },
+      { "en": "Fragility increases risk.", "bn": "ভঙ্গুরতা ঝুঁকি বাড়ায়।" },
+      {
+        "en": "The fragility of trust is important.",
+        "bn": "বিশ্বাসের নাজুকতা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "Fragility must be handled carefully.",
+        "bn": "ভঙ্গুরতা সাবধানে সামলাতে হয়।"
+      }
+    ],
+    "synonyms": ["weakness", "delicacy", "vulnerability"]
+  },
+
+  {
+    "base": "flawless",
+    "phonetic": "ˈflɔːləs",
+    "meaning": "নিখুঁত / ত্রুটিহীন",
+    "examples": [
+      {
+        "en": "Her performance was flawless.",
+        "bn": "তার পারফরম্যান্স ছিল নিখুঁত।"
+      },
+      { "en": "The design looks flawless.", "bn": "ডিজাইনটি নিখুঁত দেখাচ্ছে।" }
+    ],
+    "moreexample": [
+      { "en": "He gave a flawless speech.", "bn": "সে একটি নিখুঁত ভাষণ দিল।" },
+      { "en": "The diamond is flawless.", "bn": "হীরাটি ত্রুটিহীন।" },
+      {
+        "en": "They made a flawless plan.",
+        "bn": "তারা একটি নিখুঁত পরিকল্পনা করল।"
+      },
+      { "en": "Her logic is flawless.", "bn": "তার যুক্তি নিখুঁত।" },
+      { "en": "The execution was flawless.", "bn": "কার্যকরী করা ছিল নিখুঁত।" },
+      { "en": "It was a flawless victory.", "bn": "এটি ছিল একটি নিখুঁত বিজয়।" }
+    ],
+    "synonyms": ["perfect", "unblemished", "impeccable"]
+  },
+
+  {
+    "base": "foresight",
+    "phonetic": "ˈfɔːrsaɪt",
+    "meaning": "দূরদৃষ্টি",
+    "examples": [
+      {
+        "en": "He showed great foresight.",
+        "bn": "সে অসাধারণ দূরদৃষ্টি দেখিয়েছে।"
+      },
+      {
+        "en": "Foresight is important in planning.",
+        "bn": "পরিকল্পনায় দূরদৃষ্টি গুরুত্বপূর্ণ।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Her foresight saved the company.",
+        "bn": "তার দূরদৃষ্টি কোম্পানিকে বাঁচাল।"
+      },
+      { "en": "They lacked foresight.", "bn": "তাদের দূরদৃষ্টি ছিল না।" },
+      {
+        "en": "Foresight helps avoid problems.",
+        "bn": "দূরদৃষ্টি সমস্যা এড়াতে সাহায্য করে।"
+      },
+      { "en": "He acted with foresight.", "bn": "সে দূরদৃষ্টির সাথে কাজ করল।" },
+      {
+        "en": "Good leaders need foresight.",
+        "bn": "ভালো নেতাদের দূরদৃষ্টি দরকার।"
+      },
+      {
+        "en": "The decision showed foresight.",
+        "bn": "সিদ্ধান্তটি দূরদৃষ্টি দেখিয়েছে।"
+      }
+    ],
+    "synonyms": ["vision", "prudence", "planning"]
+  },
+
+  {
+    "base": "fluctuate",
+    "phonetic": "ˈflʌktʃueɪt",
+    "meaning": "উঠানামা করা / পরিবর্তিত হওয়া",
+    "examples": [
+      { "en": "Prices fluctuate daily.", "bn": "দাম প্রতিদিন ওঠানামা করে।" },
+      { "en": "His mood fluctuates.", "bn": "তার মেজাজ পরিবর্তিত হয়।" }
+    ],
+    "moreexample": [
+      { "en": "The temperature fluctuates.", "bn": "তাপমাত্রা ওঠানামা করে।" },
+      { "en": "Markets fluctuate often.", "bn": "বাজার প্রায়ই ওঠানামা করে।" },
+      { "en": "Her energy fluctuates.", "bn": "তার শক্তি পরিবর্তিত হয়।" },
+      {
+        "en": "Demand fluctuates in winter.",
+        "bn": "শীতকালে চাহিদা ওঠানামা করে।"
+      },
+      { "en": "The value fluctuates rapidly.", "bn": "মান দ্রুত ওঠানামা করে।" },
+      {
+        "en": "Traffic conditions fluctuate.",
+        "bn": "যানজট পরিস্থিতি পরিবর্তিত হয়।"
+      }
+    ],
+    "synonyms": ["vary", "change", "shift"]
+  },
+
+  {
+    "base": "foremost",
+    "phonetic": "ˈfɔːrmoʊst",
+    "meaning": "প্রধান / অগ্রগণ্য",
+    "examples": [
+      { "en": "He is the foremost expert.", "bn": "সে একজন প্রধান বিশেষজ্ঞ।" },
+      { "en": "Safety is foremost.", "bn": "নিরাপত্তা সবচেয়ে গুরুত্বপূর্ণ।" }
+    ],
+    "moreexample": [
+      { "en": "She is the foremost leader.", "bn": "সে প্রধান নেতা।" },
+      {
+        "en": "Education is foremost priority.",
+        "bn": "শিক্ষা অগ্রগণ্য অগ্রাধিকার।"
+      },
+      { "en": "He is a foremost scientist.", "bn": "সে একজন প্রধান বিজ্ঞানী।" },
+      {
+        "en": "Health is foremost concern.",
+        "bn": "স্বাস্থ্য সবচেয়ে গুরুত্বপূর্ণ বিষয়।"
+      },
+      { "en": "This is our foremost goal.", "bn": "এটি আমাদের প্রধান লক্ষ্য।" },
+      {
+        "en": "They are foremost in innovation.",
+        "bn": "তারা উদ্ভাবনে অগ্রগণ্য।"
+      }
+    ],
+    "synonyms": ["leading", "primary", "chief"]
+  },
+
+  {
+    "base": "furnish",
+    "phonetic": "ˈfɜːrnɪʃ",
+    "meaning": "সজ্জিত করা / সরবরাহ করা",
+    "examples": [
+      { "en": "They furnished the room.", "bn": "তারা ঘরটি সজ্জিত করল।" },
+      { "en": "He furnished details.", "bn": "সে বিস্তারিত তথ্য দিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The house is fully furnished.",
+        "bn": "বাড়িটি সম্পূর্ণ সজ্জিত।"
+      },
+      { "en": "She furnished the office.", "bn": "সে অফিসটি সজ্জিত করল।" },
+      { "en": "They furnished evidence.", "bn": "তারা প্রমাণ সরবরাহ করল।" },
+      {
+        "en": "The hotel is well furnished.",
+        "bn": "হোটেলটি ভালোভাবে সজ্জিত।"
+      },
+      { "en": "He furnished the report.", "bn": "সে রিপোর্ট সরবরাহ করল।" },
+      {
+        "en": "Rooms were furnished nicely.",
+        "bn": "ঘরগুলো সুন্দরভাবে সজ্জিত ছিল।"
+      }
+    ],
+    "synonyms": ["equip", "supply", "provide"]
   }
 ]

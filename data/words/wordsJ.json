@@ -1,0 +1,63 @@
+[
+  {
+    "base": "journey",
+    "phonetic": "ˈdʒɜːrni",
+    "meaning": "যাত্রা",
+    "examples": [
+      { "en": "The journey was long.", "bn": "যাত্রাটি দীর্ঘ ছিল।" },
+      {
+        "en": "He started his journey early.",
+        "bn": "সে তার যাত্রা সকালে শুরু করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Life is a journey.", "bn": "জীবন একটি যাত্রা।" },
+      { "en": "They enjoyed the journey.", "bn": "তারা যাত্রাটি উপভোগ করল।" },
+      { "en": "The journey changed him.", "bn": "যাত্রাটি তাকে বদলে দিল।" },
+      {
+        "en": "We are on a journey together.",
+        "bn": "আমরা একসাথে যাত্রায় আছি।"
+      },
+      {
+        "en": "The journey took many hours.",
+        "bn": "যাত্রাটি অনেক ঘন্টা নিয়েছিল।"
+      },
+      { "en": "She remembers her journey.", "bn": "সে তার যাত্রা মনে রাখে।" }
+    ],
+    "synonyms": ["trip", "voyage", "travel"]
+  },
+
+  {
+    "base": "judgment",
+    "phonetic": "ˈdʒʌdʒmənt",
+    "meaning": "রায় / বিচার / মতামত",
+    "examples": [
+      { "en": "The court gave its judgment.", "bn": "আদালত তার রায় দিল।" },
+      {
+        "en": "Don’t rush your judgment.",
+        "bn": "তোমার মতামতে তাড়াহুড়া কোরো না।"
+      }
+    ],
+    "moreexample": [
+      { "en": "His judgment was correct.", "bn": "তার রায় সঠিক ছিল।" },
+      {
+        "en": "We respect her judgment.",
+        "bn": "আমরা তার মতামতকে সম্মান করি।"
+      },
+      {
+        "en": "Poor judgment leads to mistakes.",
+        "bn": "খারাপ বিচার ভুলের দিকে নিয়ে যায়।"
+      },
+      { "en": "The judgment was final.", "bn": "রায়টি চূড়ান্ত ছিল।" },
+      {
+        "en": "He made a quick judgment.",
+        "bn": "সে দ্রুত একটি সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "Judgment should be fair.",
+        "bn": "বিচার ন্যায়সঙ্গত হওয়া উচিত।"
+      }
+    ],
+    "synonyms": ["decision", "opinion", "verdict"]
+  }
+]

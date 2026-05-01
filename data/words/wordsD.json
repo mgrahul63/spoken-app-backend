@@ -1271,5 +1271,39 @@
       }
     ],
     "synonyms": ["worsen", "decline"]
+  },
+
+  {
+    "base": "distinctive",
+    "phonetic": "dɪˈstɪŋktɪv",
+    "meaning": "স্বতন্ত্র / বিশেষ বৈশিষ্ট্যযুক্ত",
+    "examples": [
+      { "en": "He has a distinctive voice.", "bn": "তার স্বতন্ত্র কণ্ঠস্বর আছে।" },
+      {
+        "en": "The building has a distinctive design.",
+        "bn": "ভবনটির একটি বিশেষ নকশা আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She wears a distinctive style of dress.",
+        "bn": "সে একটি স্বতন্ত্র পোশাকের স্টাইল পরিধান করে।"
+      },
+      { "en": "The logo is very distinctive.", "bn": "লোগোটি খুবই স্বতন্ত্র।" },
+      {
+        "en": "Each culture has distinctive features.",
+        "bn": "প্রতিটি সংস্কৃতির নিজস্ব বৈশিষ্ট্য আছে।"
+      },
+      { "en": "The smell is quite distinctive.", "bn": "গন্ধটি বেশ আলাদা।" },
+      {
+        "en": "He has a distinctive way of speaking.",
+        "bn": "তার কথা বলার ধরন স্বতন্ত্র।"
+      },
+      {
+        "en": "The pattern is distinctive from others.",
+        "bn": "নকশাটি অন্যদের থেকে আলাদা।"
+      }
+    ],
+    "synonyms": ["unique", "special", "characteristic"]
   }
 ]

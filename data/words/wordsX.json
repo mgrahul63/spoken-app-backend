@@ -1,0 +1,104 @@
+[
+  {
+    "base": "x-ray",
+    "phonetic": "ˈeks reɪ",
+    "meaning": "এক্স-রে",
+    "examples": [
+      { "en": "The doctor took an x-ray.", "bn": "ডাক্তার একটি এক্স-রে করলেন।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The x-ray showed a fracture.",
+        "bn": "এক্স-রেতে ভাঙা দেখা গেল।"
+      },
+      { "en": "He went for an x-ray.", "bn": "সে এক্স-রে করতে গেল।" },
+      { "en": "The x-ray was clear.", "bn": "এক্স-রেটি পরিষ্কার ছিল।" },
+      {
+        "en": "Doctors use x-rays daily.",
+        "bn": "ডাক্তাররা প্রতিদিন এক্স-রে ব্যবহার করেন।"
+      },
+      { "en": "The x-ray machine is modern.", "bn": "এক্স-রে মেশিনটি আধুনিক।" },
+      {
+        "en": "She checked the x-ray report.",
+        "bn": "সে এক্স-রে রিপোর্ট দেখল।"
+      },
+      {
+        "en": "The x-ray helped diagnosis.",
+        "bn": "এক্স-রে রোগ নির্ণয়ে সাহায্য করল।"
+      },
+      { "en": "He saw the x-ray image.", "bn": "সে এক্স-রের ছবি দেখল।" },
+      {
+        "en": "The x-ray revealed nothing serious.",
+        "bn": "এক্স-রে তেমন গুরুতর কিছু দেখায়নি।"
+      },
+      { "en": "They repeated the x-ray.", "bn": "তারা আবার এক্স-রে করল।" }
+    ],
+    "synonyms": ["radiograph"]
+  },
+  {
+    "base": "xenon",
+    "phonetic": "ˈzenɒn",
+    "meaning": "জেনন (একটি গ্যাস)",
+    "examples": [
+      { "en": "Xenon is a noble gas.", "bn": "জেনন একটি নিষ্ক্রিয় গ্যাস।" }
+    ],
+    "moreexample": [
+      { "en": "Xenon is used in lamps.", "bn": "জেনন বাতিতে ব্যবহৃত হয়।" },
+      { "en": "The gas xenon is rare.", "bn": "জেনন গ্যাসটি বিরল।" },
+      { "en": "Xenon produces bright light.", "bn": "জেনন উজ্জ্বল আলো দেয়।" },
+      {
+        "en": "Scientists study xenon.",
+        "bn": "বিজ্ঞানীরা জেনন নিয়ে গবেষণা করেন।"
+      },
+      { "en": "Xenon is colorless.", "bn": "জেনন বর্ণহীন।" },
+      { "en": "The bulb contains xenon.", "bn": "বাল্বে জেনন আছে।" },
+      { "en": "Xenon is stable.", "bn": "জেনন স্থিতিশীল।" },
+      {
+        "en": "They used xenon in experiments.",
+        "bn": "তারা পরীক্ষায় জেনন ব্যবহার করল।"
+      },
+      { "en": "Xenon is part of chemistry.", "bn": "জেনন রসায়নের অংশ।" },
+      { "en": "The lab stored xenon gas.", "bn": "ল্যাবে জেনন গ্যাস রাখা ছিল।" }
+    ],
+    "synonyms": ["noble gas"]
+  },
+  {
+    "base": "xylophone",
+    "phonetic": "ˈzaɪləfəʊn",
+    "meaning": "জাইলোফোন (বাদ্যযন্ত্র)",
+    "examples": [
+      { "en": "She plays the xylophone.", "bn": "সে জাইলোফোন বাজায়।" }
+    ],
+    "moreexample": [
+      { "en": "The xylophone sounds sweet.", "bn": "জাইলোফোনের শব্দ মিষ্টি।" },
+      { "en": "He bought a xylophone.", "bn": "সে একটি জাইলোফোন কিনল।" },
+      {
+        "en": "Children enjoy xylophone music.",
+        "bn": "শিশুরা জাইলোফোনের সঙ্গীত উপভোগ করে।"
+      },
+      {
+        "en": "The xylophone has wooden bars.",
+        "bn": "জাইলোফোনে কাঠের বার থাকে।"
+      },
+      {
+        "en": "She learned xylophone quickly.",
+        "bn": "সে দ্রুত জাইলোফোন শিখল।"
+      },
+      { "en": "The xylophone is colorful.", "bn": "জাইলোফোনটি রঙিন।" },
+      {
+        "en": "He played a tune on xylophone.",
+        "bn": "সে জাইলোফোনে সুর বাজাল।"
+      },
+      { "en": "The xylophone is easy to play.", "bn": "জাইলোফোন বাজানো সহজ।" },
+      {
+        "en": "Music class used a xylophone.",
+        "bn": "সঙ্গীত ক্লাসে জাইলোফোন ব্যবহার হয়েছিল।"
+      },
+      {
+        "en": "She practices xylophone daily.",
+        "bn": "সে প্রতিদিন জাইলোফোন অনুশীলন করে।"
+      }
+    ],
+    "synonyms": ["instrument"]
+  }
+]

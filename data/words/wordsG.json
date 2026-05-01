@@ -1,24 +1,1537 @@
 [
   {
-    "base": "ground",
-    "phonetic": "ɡraʊnd",
-    "meaning": "মাটি / ভূমি",
+    "base": "gentleman",
+    "phonetic": "ˈdʒentlmən",
+    "meaning": "ভদ্রলোক",
     "examples": [
-      { "en": "He sat on the ground.", "bn": "" },
-      { "en": "The ground is wet.", "bn": "" }
+      { "en": "He is a true gentleman.", "bn": "সে একজন প্রকৃত ভদ্রলোক।" },
+      { "en": "The gentleman helped her.", "bn": "ভদ্রলোকটি তাকে সাহায্য করল।" }
     ],
     "moreexample": [
-      { "en": "She fell to the ground.", "bn": "" },
-      { "en": "The ground is hard.", "bn": "" },
-      { "en": "Seeds grow in the ground.", "bn": "" },
-      { "en": "He dug the ground.", "bn": "" },
-      { "en": "We played on the ground.", "bn": "" },
-      { "en": "The ground was covered in snow.", "bn": "" },
-      { "en": "He lay on the ground.", "bn": "" },
-      { "en": "They stood on the ground.", "bn": "" },
-      { "en": "The ground shook.", "bn": "" },
-      { "en": "She touched the ground.", "bn": "" }
+      {
+        "en": "A gentleman always respects others.",
+        "bn": "একজন ভদ্রলোক সবসময় অন্যদের সম্মান করে।"
+      },
+      {
+        "en": "The gentleman opened the door.",
+        "bn": "ভদ্রলোকটি দরজা খুলে দিল।"
+      },
+      {
+        "en": "He behaves like a gentleman.",
+        "bn": "সে ভদ্রলোকের মতো আচরণ করে।"
+      },
+      {
+        "en": "The gentleman smiled politely.",
+        "bn": "ভদ্রলোকটি বিনয়ীভাবে হাসল।"
+      },
+      {
+        "en": "Every gentleman should be kind.",
+        "bn": "প্রতিটি ভদ্রলোকের দয়ালু হওয়া উচিত।"
+      },
+      {
+        "en": "She met a gentleman at the event.",
+        "bn": "সে অনুষ্ঠানে একজন ভদ্রলোকের সাথে দেখা করল।"
+      }
     ],
-    "synonyms": ["earth", "soil", "land", "floor", "surface"]
+    "synonyms": ["man", "sir", "gentle person"]
+  },
+
+  {
+    "base": "gather",
+    "phonetic": "ˈɡæðər",
+    "meaning": "জমা হওয়া / সংগ্রহ করা",
+    "examples": [
+      { "en": "They gather in the hall.", "bn": "তারা হলে জমা হয়।" },
+      { "en": "She gathered information.", "bn": "সে তথ্য সংগ্রহ করল।" }
+    ],
+    "moreexample": [
+      { "en": "People gathered outside.", "bn": "মানুষ বাইরে জড়ো হলো।" },
+      { "en": "He gathered all the documents.", "bn": "সে সব নথি সংগ্রহ করল।" },
+      {
+        "en": "They gather every weekend.",
+        "bn": "তারা প্রতি সপ্তাহান্তে একত্র হয়।"
+      },
+      {
+        "en": "She gathered her thoughts.",
+        "bn": "সে তার চিন্তাগুলো একত্র করল।"
+      },
+      { "en": "Crowds gathered quickly.", "bn": "জনতা দ্রুত জড়ো হলো।" },
+      { "en": "He gathered evidence.", "bn": "সে প্রমাণ সংগ্রহ করল।" }
+    ],
+    "synonyms": ["collect", "assemble", "bring together"]
+  },
+
+  {
+    "base": "glad",
+    "phonetic": "ɡlæd",
+    "meaning": "খুশি / আনন্দিত",
+    "examples": [
+      { "en": "I am glad to see you.", "bn": "তোমাকে দেখে আমি খুশি।" },
+      {
+        "en": "She felt glad about the result.",
+        "bn": "সে ফলাফল নিয়ে খুশি ছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "We are glad you came.", "bn": "তুমি এসেছো বলে আমরা খুশি।" },
+      { "en": "He was glad to help.", "bn": "সে সাহায্য করতে পেরে খুশি ছিল।" },
+      { "en": "They looked glad.", "bn": "তারা খুশি দেখাচ্ছিল।" },
+      { "en": "I am glad it worked.", "bn": "এটি কাজ করেছে বলে আমি খুশি।" },
+      { "en": "She felt glad inside.", "bn": "সে ভিতরে খুশি অনুভব করল।" },
+      {
+        "en": "We are glad for your success.",
+        "bn": "তোমার সাফল্যে আমরা খুশি।"
+      }
+    ],
+    "synonyms": ["happy", "pleased", "joyful"]
+  },
+
+  {
+    "base": "goal",
+    "phonetic": "ɡoʊl",
+    "meaning": "লক্ষ্য",
+    "examples": [
+      {
+        "en": "His goal is to become a doctor.",
+        "bn": "তার লক্ষ্য ডাক্তার হওয়া।"
+      },
+      { "en": "She scored a goal.", "bn": "সে একটি গোল করল।" }
+    ],
+    "moreexample": [
+      { "en": "Set a clear goal.", "bn": "একটি স্পষ্ট লক্ষ্য নির্ধারণ করো।" },
+      {
+        "en": "They achieved their goal.",
+        "bn": "তারা তাদের লক্ষ্য অর্জন করল।"
+      },
+      { "en": "My goal is success.", "bn": "আমার লক্ষ্য সাফল্য।" },
+      {
+        "en": "He is working toward his goal.",
+        "bn": "সে তার লক্ষ্য অর্জনের জন্য কাজ করছে।"
+      },
+      {
+        "en": "The team reached its goal.",
+        "bn": "দলটি তার লক্ষ্য অর্জন করল।"
+      },
+      { "en": "Education is my goal.", "bn": "শিক্ষা আমার লক্ষ্য।" }
+    ],
+    "synonyms": ["aim", "target", "purpose"]
+  },
+
+  {
+    "base": "gate",
+    "phonetic": "ɡeɪt",
+    "meaning": "ফটক / গেট",
+    "examples": [
+      { "en": "The gate is open.", "bn": "গেটটি খোলা।" },
+      { "en": "He entered through the gate.", "bn": "সে গেট দিয়ে প্রবেশ করল।" }
+    ],
+    "moreexample": [
+      { "en": "The gate was locked.", "bn": "গেটটি তালাবদ্ধ ছিল।" },
+      { "en": "They stood at the gate.", "bn": "তারা গেটের সামনে দাঁড়াল।" },
+      { "en": "The school gate is big.", "bn": "স্কুলের গেট বড়।" },
+      { "en": "He closed the gate.", "bn": "সে গেট বন্ধ করল।" },
+      {
+        "en": "Visitors entered through the gate.",
+        "bn": "দর্শনার্থীরা গেট দিয়ে প্রবেশ করল।"
+      },
+      { "en": "The gate was broken.", "bn": "গেটটি ভেঙে ছিল।" }
+    ],
+    "synonyms": ["door", "entrance", "portal"]
+  },
+
+  {
+    "base": "gift",
+    "phonetic": "ɡɪft",
+    "meaning": "উপহার",
+    "examples": [
+      { "en": "She gave me a gift.", "bn": "সে আমাকে একটি উপহার দিল।" },
+      { "en": "This is a birthday gift.", "bn": "এটি জন্মদিনের উপহার।" }
+    ],
+    "moreexample": [
+      { "en": "He received a gift.", "bn": "সে একটি উপহার পেল।" },
+      { "en": "The gift was beautiful.", "bn": "উপহারটি সুন্দর ছিল।" },
+      { "en": "They exchanged gifts.", "bn": "তারা উপহার বিনিময় করল।" },
+      { "en": "She wrapped the gift.", "bn": "সে উপহার মোড়ালো।" },
+      { "en": "It is a special gift.", "bn": "এটি একটি বিশেষ উপহার।" },
+      { "en": "The gift made him happy.", "bn": "উপহারটি তাকে খুশি করল।" }
+    ],
+    "synonyms": ["present", "offering"]
+  },
+
+  {
+    "base": "gain",
+    "phonetic": "ɡeɪn",
+    "meaning": "অর্জন করা / লাভ করা",
+    "examples": [
+      { "en": "He gained knowledge.", "bn": "সে জ্ঞান অর্জন করল।" },
+      { "en": "They gained success.", "bn": "তারা সাফল্য অর্জন করল।" }
+    ],
+    "moreexample": [
+      { "en": "She gained experience.", "bn": "সে অভিজ্ঞতা অর্জন করল।" },
+      { "en": "We gained confidence.", "bn": "আমরা আত্মবিশ্বাস অর্জন করলাম।" },
+      { "en": "He gained weight.", "bn": "সে ওজন বাড়াল।" },
+      { "en": "They gained support.", "bn": "তারা সমর্থন পেল।" },
+      { "en": "She gained respect.", "bn": "সে সম্মান অর্জন করল।" },
+      { "en": "The team gained points.", "bn": "দলটি পয়েন্ট অর্জন করল।" }
+    ],
+    "synonyms": ["obtain", "acquire", "earn"]
+  },
+
+  {
+    "base": "grade",
+    "phonetic": "ɡreɪd",
+    "meaning": "গ্রেড / মান",
+    "examples": [
+      { "en": "He got a high grade.", "bn": "সে উচ্চ গ্রেড পেল।" },
+      { "en": "This is good grade material.", "bn": "এটি ভালো মানের উপাদান।" }
+    ],
+    "moreexample": [
+      { "en": "She improved her grade.", "bn": "সে তার গ্রেড উন্নত করল।" },
+      { "en": "The student got an A grade.", "bn": "ছাত্রটি A গ্রেড পেল।" },
+      { "en": "Grades are important.", "bn": "গ্রেড গুরুত্বপূর্ণ।" },
+      { "en": "He failed the grade.", "bn": "সে গ্রেডে ফেল করল।" },
+      { "en": "They checked the grade.", "bn": "তারা গ্রেড পরীক্ষা করল।" },
+      {
+        "en": "Good grade requires effort.",
+        "bn": "ভালো গ্রেড পেতে প্রচেষ্টা দরকার।"
+      }
+    ],
+    "synonyms": ["level", "mark", "score"]
+  },
+
+  {
+    "base": "grass",
+    "phonetic": "ɡræs",
+    "meaning": "ঘাস",
+    "examples": [
+      { "en": "The grass is green.", "bn": "ঘাস সবুজ।" },
+      { "en": "Children play on the grass.", "bn": "শিশুরা ঘাসের ওপর খেলে।" }
+    ],
+    "moreexample": [
+      { "en": "The grass is wet.", "bn": "ঘাস ভেজা।" },
+      { "en": "He sat on the grass.", "bn": "সে ঘাসের ওপর বসল।" },
+      { "en": "The grass grows fast.", "bn": "ঘাস দ্রুত বাড়ে।" },
+      { "en": "They cut the grass.", "bn": "তারা ঘাস কাটল।" },
+      { "en": "The field is full of grass.", "bn": "মাঠ ঘাসে ভরা।" },
+      { "en": "Fresh grass smells good.", "bn": "তাজা ঘাস ভালো গন্ধ দেয়।" }
+    ],
+    "synonyms": ["turf", "lawn"]
+  },
+
+  {
+    "base": "guard",
+    "phonetic": "ɡɑːrd",
+    "meaning": "রক্ষক / পাহারা দেওয়া",
+    "examples": [
+      {
+        "en": "The guard is standing outside.",
+        "bn": "রক্ষক বাইরে দাঁড়িয়ে আছে।"
+      },
+      { "en": "He guards the gate.", "bn": "সে গেট পাহারা দেয়।" }
+    ],
+    "moreexample": [
+      { "en": "The guard is alert.", "bn": "রক্ষক সতর্ক।" },
+      {
+        "en": "They hired a security guard.",
+        "bn": "তারা একজন নিরাপত্তা রক্ষী নিয়োগ করল।"
+      },
+      { "en": "He guarded the house.", "bn": "সে বাড়িটি পাহারা দিল।" },
+      { "en": "The guard stopped him.", "bn": "রক্ষক তাকে থামাল।" },
+      {
+        "en": "Security guards are important.",
+        "bn": "নিরাপত্তা রক্ষীরা গুরুত্বপূর্ণ।"
+      },
+      { "en": "She guards the secret.", "bn": "সে গোপন বিষয়টি রক্ষা করে।" }
+    ],
+    "synonyms": ["protect", "watch", "defend"]
+  },
+
+  {
+    "base": "genuine",
+    "phonetic": "ˈdʒenjuɪn",
+    "meaning": "আসল / খাঁটি / প্রকৃত",
+    "examples": [
+      { "en": "He is a genuine friend.", "bn": "সে একজন প্রকৃত বন্ধু।" },
+      { "en": "This is a genuine product.", "bn": "এটি একটি আসল পণ্য।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She showed genuine concern.",
+        "bn": "সে সত্যিকারের উদ্বেগ দেখিয়েছে।"
+      },
+      { "en": "His smile was genuine.", "bn": "তার হাসি ছিল আন্তরিক।" },
+      {
+        "en": "They made a genuine effort.",
+        "bn": "তারা সত্যিকারের প্রচেষ্টা করেছিল।"
+      },
+      {
+        "en": "This is a genuine opportunity.",
+        "bn": "এটি একটি প্রকৃত সুযোগ।"
+      },
+      { "en": "He gave a genuine apology.", "bn": "সে আন্তরিক ক্ষমা চাইল।" },
+      { "en": "She is a genuine person.", "bn": "সে একজন খাঁটি মানুষ।" }
+    ],
+    "synonyms": ["real", "authentic", "true"]
+  },
+
+  {
+    "base": "grateful",
+    "phonetic": "ˈɡreɪtfəl",
+    "meaning": "কৃতজ্ঞ",
+    "examples": [
+      {
+        "en": "I am grateful for your help.",
+        "bn": "তোমার সাহায্যের জন্য আমি কৃতজ্ঞ।"
+      },
+      { "en": "She felt grateful.", "bn": "সে কৃতজ্ঞ অনুভব করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "We are grateful to teachers.",
+        "bn": "আমরা শিক্ষকদের প্রতি কৃতজ্ঞ।"
+      },
+      {
+        "en": "He was grateful for support.",
+        "bn": "সে সহায়তার জন্য কৃতজ্ঞ ছিল।"
+      },
+      {
+        "en": "They felt grateful after success.",
+        "bn": "সাফল্যের পর তারা কৃতজ্ঞ বোধ করল।"
+      },
+      { "en": "I am grateful for life.", "bn": "আমি জীবনের জন্য কৃতজ্ঞ।" },
+      {
+        "en": "She is grateful to her parents.",
+        "bn": "সে তার বাবা-মার প্রতি কৃতজ্ঞ।"
+      },
+      {
+        "en": "We should be grateful always.",
+        "bn": "আমাদের সবসময় কৃতজ্ঞ থাকা উচিত।"
+      }
+    ],
+    "synonyms": ["thankful", "appreciative"]
+  },
+
+  {
+    "base": "grasp",
+    "phonetic": "ɡræsp",
+    "meaning": "ধরা / বুঝে নেওয়া",
+    "examples": [
+      { "en": "He grasped my hand.", "bn": "সে আমার হাত ধরল।" },
+      {
+        "en": "She grasped the idea quickly.",
+        "bn": "সে দ্রুত ধারণাটি বুঝে নিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He grasped the opportunity.", "bn": "সে সুযোগটি ধরল।" },
+      {
+        "en": "She grasped the concept well.",
+        "bn": "সে ধারণাটি ভালোভাবে বুঝল।"
+      },
+      { "en": "The child grasped the toy.", "bn": "শিশুটি খেলনাটি ধরল।" },
+      {
+        "en": "We need to grasp the situation.",
+        "bn": "আমাদের পরিস্থিতি বুঝতে হবে।"
+      },
+      { "en": "He grasped the rope tightly.", "bn": "সে দড়িটি শক্ত করে ধরল।" },
+      {
+        "en": "Students grasp knowledge quickly.",
+        "bn": "শিক্ষার্থীরা দ্রুত জ্ঞান বুঝে নেয়।"
+      }
+    ],
+    "synonyms": ["understand", "hold", "comprehend"]
+  },
+
+  {
+    "base": "generate",
+    "phonetic": "ˈdʒenəreɪt",
+    "meaning": "উৎপন্ন করা / তৈরি করা",
+    "examples": [
+      {
+        "en": "The machine generates power.",
+        "bn": "মেশিনটি শক্তি উৎপন্ন করে।"
+      },
+      { "en": "Ideas generate creativity.", "bn": "ধারণা সৃজনশীলতা তৈরি করে।" }
+    ],
+    "moreexample": [
+      { "en": "They generate electricity.", "bn": "তারা বিদ্যুৎ উৎপন্ন করে।" },
+      {
+        "en": "The plan generated interest.",
+        "bn": "পরিকল্পনাটি আগ্রহ তৈরি করল।"
+      },
+      { "en": "She generated new ideas.", "bn": "সে নতুন ধারণা তৈরি করল।" },
+      {
+        "en": "The system generates reports.",
+        "bn": "সিস্টেমটি রিপোর্ট তৈরি করে।"
+      },
+      { "en": "They generate income.", "bn": "তারা আয় তৈরি করে।" },
+      { "en": "Heat is generated by friction.", "bn": "ঘর্ষণে তাপ উৎপন্ন হয়।" }
+    ],
+    "synonyms": ["produce", "create", "form"]
+  },
+
+  {
+    "base": "glimpse",
+    "phonetic": "ɡlɪmps",
+    "meaning": "এক ঝলক দেখা",
+    "examples": [
+      { "en": "I caught a glimpse of him.", "bn": "আমি তার এক ঝলক দেখলাম।" },
+      { "en": "She got a glimpse of the city.", "bn": "সে শহরের এক ঝলক দেখল।" }
+    ],
+    "moreexample": [
+      { "en": "He glimpsed the mountain.", "bn": "সে পাহাড়ের এক ঝলক দেখল।" },
+      {
+        "en": "We got a glimpse of the future.",
+        "bn": "আমরা ভবিষ্যতের এক ঝলক দেখলাম।"
+      },
+      {
+        "en": "She glimpsed her reflection.",
+        "bn": "সে নিজের প্রতিবিম্ব এক ঝলক দেখল।"
+      },
+      { "en": "They glimpsed hope.", "bn": "তারা আশার এক ঝলক দেখল।" },
+      { "en": "I glimpsed the truth.", "bn": "আমি সত্যের এক ঝলক দেখলাম।" },
+      { "en": "He glimpsed the accident.", "bn": "সে দুর্ঘটনার এক ঝলক দেখল।" }
+    ],
+    "synonyms": ["peek", "glance", "see briefly"]
+  },
+
+  {
+    "base": "gloomy",
+    "phonetic": "ˈɡluːmi",
+    "meaning": "অন্ধকার / বিষণ্ণ",
+    "examples": [
+      { "en": "The room looks gloomy.", "bn": "ঘরটি অন্ধকার লাগছে।" },
+      { "en": "He felt gloomy today.", "bn": "আজ সে বিষণ্ণ অনুভব করল।" }
+    ],
+    "moreexample": [
+      { "en": "The weather is gloomy.", "bn": "আবহাওয়া বিষণ্ণ।" },
+      { "en": "She had a gloomy expression.", "bn": "তার মুখ বিষণ্ণ ছিল।" },
+      { "en": "The sky looks gloomy.", "bn": "আকাশ অন্ধকার দেখাচ্ছে।" },
+      {
+        "en": "He became gloomy after failure.",
+        "bn": "ব্যর্থতার পর সে বিষণ্ণ হয়ে গেল।"
+      },
+      { "en": "The future seems gloomy.", "bn": "ভবিষ্যৎ অন্ধকার মনে হয়।" },
+      { "en": "The house felt gloomy.", "bn": "বাড়িটি বিষণ্ণ লাগছিল।" }
+    ],
+    "synonyms": ["dark", "sad", "depressed"]
+  },
+
+  {
+    "base": "gradual",
+    "phonetic": "ˈɡrædʒuəl",
+    "meaning": "ধীরে ধীরে / ক্রমাগত",
+    "examples": [
+      { "en": "The change was gradual.", "bn": "পরিবর্তনটি ধীরে ধীরে হয়েছে।" },
+      { "en": "He made gradual progress.", "bn": "সে ধীরে ধীরে অগ্রগতি করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Gradual improvement is important.",
+        "bn": "ধীরে ধীরে উন্নতি গুরুত্বপূর্ণ।"
+      },
+      { "en": "The pain was gradual.", "bn": "ব্যথাটি ধীরে ধীরে বাড়ছিল।" },
+      { "en": "They saw a gradual rise.", "bn": "তারা ধীরে ধীরে বৃদ্ধি দেখল।" },
+      {
+        "en": "Learning is a gradual process.",
+        "bn": "শেখা একটি ধীরে ধীরে চলা প্রক্রিয়া।"
+      },
+      { "en": "The light faded gradually.", "bn": "আলো ধীরে ধীরে কমে গেল।" },
+      {
+        "en": "His health improved gradually.",
+        "bn": "তার স্বাস্থ্য ধীরে ধীরে উন্নত হলো।"
+      }
+    ],
+    "synonyms": ["slow", "steady", "progressive"]
+  },
+
+  {
+    "base": "gravity",
+    "phonetic": "ˈɡrævɪti",
+    "meaning": "মাধ্যাকর্ষণ / গুরুত্ব",
+    "examples": [
+      {
+        "en": "Gravity pulls objects down.",
+        "bn": "মাধ্যাকর্ষণ বস্তু নিচে টানে।"
+      },
+      {
+        "en": "He understood the gravity of the situation.",
+        "bn": "সে পরিস্থিতির গুরুত্ব বুঝল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Gravity keeps us on Earth.",
+        "bn": "মাধ্যাকর্ষণ আমাদের পৃথিবীতে রাখে।"
+      },
+      {
+        "en": "The gravity of the issue is high.",
+        "bn": "সমস্যাটির গুরুত্ব বেশি।"
+      },
+      {
+        "en": "Scientists study gravity.",
+        "bn": "বিজ্ঞানীরা মাধ্যাকর্ষণ অধ্যয়ন করে।"
+      },
+      {
+        "en": "Gravity affects everything.",
+        "bn": "মাধ্যাকর্ষণ সবকিছুকে প্রভাবিত করে।"
+      },
+      {
+        "en": "He ignored the gravity of danger.",
+        "bn": "সে বিপদের গুরুত্ব উপেক্ষা করল।"
+      },
+      {
+        "en": "Gravity is a natural force.",
+        "bn": "মাধ্যাকর্ষণ একটি প্রাকৃতিক শক্তি।"
+      }
+    ],
+    "synonyms": ["weight", "seriousness", "force"]
+  },
+
+  {
+    "base": "graceful",
+    "phonetic": "ˈɡreɪsfəl",
+    "meaning": "সুন্দর / মার্জিত",
+    "examples": [
+      {
+        "en": "She is a graceful dancer.",
+        "bn": "সে একজন মার্জিত নৃত্যশিল্পী।"
+      },
+      { "en": "The movement was graceful.", "bn": "চলাচলটি সুন্দর ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "The swan is graceful.", "bn": "হাঁসটি মার্জিত।" },
+      { "en": "He made a graceful bow.", "bn": "সে মার্জিতভাবে নত হলো।" },
+      { "en": "Her writing is graceful.", "bn": "তার লেখা সুন্দর।" },
+      { "en": "The tree looks graceful.", "bn": "গাছটি সুন্দর দেখাচ্ছে।" },
+      {
+        "en": "She handled it gracefully.",
+        "bn": "সে এটি মার্জিতভাবে সামলাল।"
+      },
+      {
+        "en": "The performance was graceful.",
+        "bn": "পারফরম্যান্সটি সুন্দর ছিল।"
+      }
+    ],
+    "synonyms": ["elegant", "smooth", "beautiful"]
+  },
+
+  {
+    "base": "grieve",
+    "phonetic": "ɡriːv",
+    "meaning": "শোক করা / দুঃখ পাওয়া",
+    "examples": [
+      {
+        "en": "She grieved for her loss.",
+        "bn": "সে তার ক্ষতির জন্য শোক করল।"
+      },
+      { "en": "They grieved deeply.", "bn": "তারা গভীরভাবে শোক করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He is grieving his father.",
+        "bn": "সে তার বাবার জন্য শোক করছে।"
+      },
+      {
+        "en": "We grieve for the victims.",
+        "bn": "আমরা ভুক্তভোগীদের জন্য শোক করি।"
+      },
+      { "en": "She grieved silently.", "bn": "সে নীরবে শোক করল।" },
+      {
+        "en": "The family grieved together.",
+        "bn": "পরিবারটি একসাথে শোক করল।"
+      },
+      {
+        "en": "He grieved after the accident.",
+        "bn": "দুর্ঘটনার পর সে শোক করল।"
+      },
+      {
+        "en": "Time helps people grieve.",
+        "bn": "সময় মানুষকে শোক কাটাতে সাহায্য করে।"
+      }
+    ],
+    "synonyms": ["mourn", "sorrow", "lament"]
+  },
+
+  {
+    "base": "genuine-like",
+    "phonetic": "ˈdʒenjuɪn laɪk",
+    "meaning": "প্রকৃতের মতো / আসল মনে হওয়া",
+    "examples": [
+      {
+        "en": "His apology felt genuine-like.",
+        "bn": "তার ক্ষমা চাওয়া আসলের মতো মনে হলো।"
+      },
+      {
+        "en": "The emotion was genuine-like.",
+        "bn": "অনুভূতিটি প্রকৃতের মতো ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The reaction was genuine-like.",
+        "bn": "প্রতিক্রিয়াটি আসলের মতো ছিল।"
+      },
+      {
+        "en": "She gave a genuine-like smile.",
+        "bn": "সে প্রকৃতের মতো হাসি দিল।"
+      },
+      {
+        "en": "His concern looked genuine-like.",
+        "bn": "তার উদ্বেগ প্রকৃতের মতো লাগছিল।"
+      },
+      {
+        "en": "The story felt genuine-like.",
+        "bn": "গল্পটি আসলের মতো মনে হলো।"
+      },
+      {
+        "en": "The support was genuine-like.",
+        "bn": "সমর্থনটি প্রকৃতের মতো ছিল।"
+      },
+      {
+        "en": "Her kindness seemed genuine-like.",
+        "bn": "তার দয়া প্রকৃতের মতো লাগছিল।"
+      }
+    ],
+    "synonyms": ["real-like", "authentic-feeling"]
+  },
+
+  {
+    "base": "guarantee",
+    "phonetic": "ˌɡærənˈtiː",
+    "meaning": "গ্যারান্টি / নিশ্চয়তা",
+    "examples": [
+      {
+        "en": "This product comes with a guarantee.",
+        "bn": "এই পণ্যের সাথে গ্যারান্টি আছে।"
+      },
+      { "en": "I guarantee success.", "bn": "আমি সাফল্যের নিশ্চয়তা দিচ্ছি।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The company gives a money-back guarantee.",
+        "bn": "কোম্পানিটি টাকা ফেরতের গ্যারান্টি দেয়।"
+      },
+      {
+        "en": "Nothing can guarantee happiness.",
+        "bn": "কোনো কিছু সুখের নিশ্চয়তা দিতে পারে না।"
+      },
+      {
+        "en": "He guaranteed the payment.",
+        "bn": "সে পেমেন্টের নিশ্চয়তা দিল।"
+      },
+      { "en": "They guarantee quality.", "bn": "তারা মানের নিশ্চয়তা দেয়।" },
+      { "en": "The result is not guaranteed.", "bn": "ফলাফল নিশ্চিত নয়।" },
+      {
+        "en": "She guaranteed his safety.",
+        "bn": "সে তার নিরাপত্তার নিশ্চয়তা দিল।"
+      }
+    ],
+    "synonyms": ["assure", "promise", "warranty"]
+  },
+
+  {
+    "base": "generate-like",
+    "phonetic": "ˈdʒenəreɪt laɪk",
+    "meaning": "উৎপাদনের মতো / তৈরি করার মতো",
+    "examples": [
+      {
+        "en": "The system works in a generate-like way.",
+        "bn": "সিস্টেমটি উৎপাদনের মতো কাজ করে।"
+      },
+      {
+        "en": "It has a generate-like process.",
+        "bn": "এর একটি উৎপাদন-সদৃশ প্রক্রিয়া আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The model behaves generate-like.",
+        "bn": "মডেলটি তৈরি করার মতো আচরণ করে।"
+      },
+      {
+        "en": "Energy flows in a generate-like pattern.",
+        "bn": "শক্তি উৎপাদনের মতোভাবে প্রবাহিত হয়।"
+      },
+      {
+        "en": "The engine is generate-like in function.",
+        "bn": "ইঞ্জিনটি কার্যক্রমে উৎপাদনের মতো।"
+      },
+      {
+        "en": "It shows generate-like output.",
+        "bn": "এটি উৎপাদনের মতো আউটপুট দেখায়।"
+      },
+      {
+        "en": "The process is generate-like but simple.",
+        "bn": "প্রক্রিয়াটি উৎপাদনের মতো কিন্তু সহজ।"
+      },
+      {
+        "en": "AI behaves in a generate-like manner.",
+        "bn": "এআই উৎপাদনের মতো আচরণ করে।"
+      }
+    ],
+    "synonyms": ["produce-like", "create-like"]
+  },
+
+  {
+    "base": "glorious",
+    "phonetic": "ˈɡlɔːriəs",
+    "meaning": "মহিমান্বিত / গৌরবময়",
+    "examples": [
+      { "en": "It was a glorious day.", "bn": "এটি ছিল একটি গৌরবময় দিন।" },
+      {
+        "en": "They achieved a glorious victory.",
+        "bn": "তারা একটি গৌরবময় বিজয় অর্জন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The sunrise looked glorious.",
+        "bn": "সূর্যোদয় গৌরবময় দেখাচ্ছিল।"
+      },
+      { "en": "She had a glorious smile.", "bn": "তার একটি সুন্দর হাসি ছিল।" },
+      {
+        "en": "It was a glorious moment.",
+        "bn": "এটি ছিল একটি গৌরবময় মুহূর্ত।"
+      },
+      {
+        "en": "The team had a glorious win.",
+        "bn": "দলটির একটি গৌরবময় জয় ছিল।"
+      },
+      { "en": "Nature looked glorious.", "bn": "প্রকৃতি গৌরবময় দেখাচ্ছিল।" },
+      {
+        "en": "They celebrated a glorious success.",
+        "bn": "তারা একটি গৌরবময় সাফল্য উদযাপন করল।"
+      }
+    ],
+    "synonyms": ["magnificent", "splendid", "brilliant"]
+  },
+
+  {
+    "base": "grudge",
+    "phonetic": "ɡrʌdʒ",
+    "meaning": "বিদ্বেষ / রাগ ধরে রাখা",
+    "examples": [
+      { "en": "He holds a grudge.", "bn": "সে বিদ্বেষ ধরে রেখেছে।" },
+      {
+        "en": "She has no grudge against him.",
+        "bn": "তার তার বিরুদ্ধে কোনো বিদ্বেষ নেই।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Don’t hold a grudge.", "bn": "বিদ্বেষ ধরে রেখো না।" },
+      {
+        "en": "He carried a grudge for years.",
+        "bn": "সে বছরের পর বছর বিদ্বেষ ধরে রেখেছিল।"
+      },
+      { "en": "She forgave his grudge.", "bn": "সে তার বিদ্বেষ ক্ষমা করল।" },
+      {
+        "en": "A grudge can harm relationships.",
+        "bn": "বিদ্বেষ সম্পর্ক নষ্ট করতে পারে।"
+      },
+      { "en": "They ended their grudge.", "bn": "তারা তাদের বিদ্বেষ শেষ করল।" },
+      { "en": "He expressed his grudge.", "bn": "সে তার বিদ্বেষ প্রকাশ করল।" }
+    ],
+    "synonyms": ["resentment", "hatred", "bitterness"]
+  },
+
+  {
+    "base": "gathering-like",
+    "phonetic": "ˈɡæðərɪŋ laɪk",
+    "meaning": "জমায়েতের মতো",
+    "examples": [
+      {
+        "en": "It felt gathering-like atmosphere.",
+        "bn": "এটি জমায়েতের মতো পরিবেশ ছিল।"
+      },
+      {
+        "en": "The event was gathering-like.",
+        "bn": "অনুষ্ঠানটি জমায়েতের মতো ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The place became gathering-like.",
+        "bn": "জায়গাটি জমায়েতের মতো হয়ে গেল।"
+      },
+      {
+        "en": "There was a gathering-like mood.",
+        "bn": "একটি জমায়েতের মতো মেজাজ ছিল।"
+      },
+      {
+        "en": "The crowd felt gathering-like.",
+        "bn": "জনতা জমায়েতের মতো লাগছিল।"
+      },
+      {
+        "en": "It turned into a gathering-like situation.",
+        "bn": "এটি একটি জমায়েতের মতো পরিস্থিতিতে পরিণত হলো।"
+      },
+      { "en": "The hall was gathering-like.", "bn": "হলটি জমায়েতের মতো ছিল।" },
+      {
+        "en": "Music created a gathering-like feeling.",
+        "bn": "সঙ্গীত একটি জমায়েতের মতো অনুভূতি তৈরি করল।"
+      }
+    ],
+    "synonyms": ["assembly-like", "crowded-like"]
+  },
+
+  {
+    "base": "genuine-like",
+    "phonetic": "ˈdʒenjuɪn laɪk",
+    "meaning": "প্রকৃতের মতো",
+    "examples": [
+      {
+        "en": "His concern felt genuine-like.",
+        "bn": "তার উদ্বেগ প্রকৃতের মতো মনে হলো।"
+      },
+      {
+        "en": "The reaction was genuine-like.",
+        "bn": "প্রতিক্রিয়াটি প্রকৃতের মতো ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She gave a genuine-like smile.",
+        "bn": "সে প্রকৃতের মতো হাসি দিল।"
+      },
+      {
+        "en": "The emotion seemed genuine-like.",
+        "bn": "অনুভূতিটি প্রকৃতের মতো লাগছিল।"
+      },
+      {
+        "en": "It was a genuine-like apology.",
+        "bn": "এটি ছিল একটি প্রকৃতের মতো ক্ষমা।"
+      },
+      {
+        "en": "His answer felt genuine-like.",
+        "bn": "তার উত্তর প্রকৃতের মতো মনে হলো।"
+      },
+      {
+        "en": "The support looked genuine-like.",
+        "bn": "সমর্থনটি প্রকৃতের মতো লাগছিল।"
+      },
+      {
+        "en": "The expression was genuine-like.",
+        "bn": "অভিব্যক্তিটি প্রকৃতের মতো ছিল।"
+      }
+    ],
+    "synonyms": ["real-like", "authentic-feeling"]
+  },
+
+  {
+    "base": "grace",
+    "phonetic": "ɡreɪs",
+    "meaning": "মার্জিততা / অনুগ্রহ",
+    "examples": [
+      { "en": "She moved with grace.", "bn": "সে মার্জিতভাবে চলল।" },
+      {
+        "en": "He showed grace under pressure.",
+        "bn": "সে চাপের মধ্যে মার্জিত আচরণ দেখাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The dancer has great grace.",
+        "bn": "নৃত্যশিল্পীর অসাধারণ মার্জিততা আছে।"
+      },
+      { "en": "She spoke with grace.", "bn": "সে মার্জিতভাবে কথা বলল।" },
+      {
+        "en": "Grace is important in behavior.",
+        "bn": "আচরণে মার্জিততা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "He accepted it with grace.",
+        "bn": "সে এটি মার্জিতভাবে গ্রহণ করল।"
+      },
+      { "en": "The bird moved with grace.", "bn": "পাখিটি মার্জিতভাবে চলল।" },
+      {
+        "en": "She handled the situation with grace.",
+        "bn": "সে পরিস্থিতি মার্জিতভাবে সামলাল।"
+      }
+    ],
+    "synonyms": ["elegance", "poise", "dignity"]
+  },
+
+  {
+    "base": "grind",
+    "phonetic": "ɡraɪnd",
+    "meaning": "পিষে ফেলা / কঠোর পরিশ্রম করা",
+    "examples": [
+      { "en": "He grinds coffee beans.", "bn": "সে কফি বিন পিষে ফেলে।" },
+      {
+        "en": "She is grinding hard for success.",
+        "bn": "সে সাফল্যের জন্য কঠোর পরিশ্রম করছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They grind wheat into flour.",
+        "bn": "তারা গম পিষে আটা তৈরি করে।"
+      },
+      {
+        "en": "Students grind for exams.",
+        "bn": "শিক্ষার্থীরা পরীক্ষার জন্য কঠোর পরিশ্রম করে।"
+      },
+      { "en": "He grinds every day.", "bn": "সে প্রতিদিন কঠোর পরিশ্রম করে।" },
+      { "en": "The machine grinds metal.", "bn": "মেশিনটি ধাতু পিষে ফেলে।" },
+      {
+        "en": "She grinds toward her goal.",
+        "bn": "সে তার লক্ষ্যের দিকে কঠোর পরিশ্রম করছে।"
+      },
+      {
+        "en": "Life feels like a grind.",
+        "bn": "জীবন কঠোর পরিশ্রমের মতো লাগে।"
+      }
+    ],
+    "synonyms": ["crush", "work hard", "toil"]
+  },
+
+  {
+    "base": "gratify",
+    "phonetic": "ˈɡrætɪfaɪ",
+    "meaning": "সন্তুষ্ট করা / খুশি করা",
+    "examples": [
+      {
+        "en": "He was gratified by success.",
+        "bn": "সে সাফল্যে সন্তুষ্ট হলো।"
+      },
+      { "en": "It gratified her ego.", "bn": "এটি তার অহংকে সন্তুষ্ট করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The result gratified the team.",
+        "bn": "ফলাফল দলকে সন্তুষ্ট করল।"
+      },
+      { "en": "She felt gratified.", "bn": "সে সন্তুষ্ট অনুভব করল।" },
+      {
+        "en": "Helping others gratifies him.",
+        "bn": "অন্যদের সাহায্য করা তাকে খুশি করে।"
+      },
+      {
+        "en": "The feedback gratified the teacher.",
+        "bn": "প্রতিক্রিয়াটি শিক্ষককে সন্তুষ্ট করল।"
+      },
+      {
+        "en": "Success gratified their effort.",
+        "bn": "সাফল্য তাদের প্রচেষ্টাকে সন্তুষ্ট করল।"
+      },
+      {
+        "en": "It is gratifying to see progress.",
+        "bn": "অগ্রগতি দেখা সন্তোষজনক।"
+      }
+    ],
+    "synonyms": ["satisfy", "please", "delight"]
+  },
+
+  {
+    "base": "guide",
+    "phonetic": "ɡaɪd",
+    "meaning": "নির্দেশনা দেওয়া / গাইড",
+    "examples": [
+      { "en": "He will guide us.", "bn": "সে আমাদের পথ দেখাবে।" },
+      { "en": "She is a tourist guide.", "bn": "সে একজন পর্যটক গাইড।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The teacher guides students.",
+        "bn": "শিক্ষক শিক্ষার্থীদের নির্দেশনা দেন।"
+      },
+      {
+        "en": "Follow the guide carefully.",
+        "bn": "গাইডটি মনোযোগ দিয়ে অনুসরণ করো।"
+      },
+      {
+        "en": "He guided them home.",
+        "bn": "সে তাদের বাড়ি পর্যন্ত নিয়ে গেল।"
+      },
+      { "en": "The book is a useful guide.", "bn": "বইটি একটি উপকারী গাইড।" },
+      {
+        "en": "She guides new workers.",
+        "bn": "সে নতুন কর্মীদের নির্দেশনা দেয়।"
+      },
+      {
+        "en": "Technology guides modern life.",
+        "bn": "প্রযুক্তি আধুনিক জীবনকে নির্দেশনা দেয়।"
+      }
+    ],
+    "synonyms": ["lead", "direct", "assist"]
+  },
+
+  {
+    "base": "gigantic",
+    "phonetic": "dʒaɪˈɡæntɪk",
+    "meaning": "বিশাল / অত্যন্ত বড়",
+    "examples": [
+      { "en": "The building is gigantic.", "bn": "ভবনটি বিশাল।" },
+      { "en": "They saw a gigantic wave.", "bn": "তারা একটি বিশাল ঢেউ দেখল।" }
+    ],
+    "moreexample": [
+      { "en": "The elephant is gigantic.", "bn": "হাতিটি বিশাল।" },
+      { "en": "He made a gigantic effort.", "bn": "সে বিশাল প্রচেষ্টা করল।" },
+      { "en": "The project is gigantic.", "bn": "প্রকল্পটি বিশাল।" },
+      {
+        "en": "A gigantic problem arose.",
+        "bn": "একটি বিশাল সমস্যা দেখা দিল।"
+      },
+      { "en": "The statue is gigantic.", "bn": "মূর্তিটি বিশাল।" },
+      {
+        "en": "They built a gigantic structure.",
+        "bn": "তারা একটি বিশাল কাঠামো তৈরি করল।"
+      }
+    ],
+    "synonyms": ["huge", "enormous", "massive"]
+  },
+
+  {
+    "base": "glide",
+    "phonetic": "ɡlaɪd",
+    "meaning": "সহজে সরে চলা / ভেসে চলা",
+    "examples": [
+      { "en": "The bird glides in the sky.", "bn": "পাখিটি আকাশে ভেসে চলে।" },
+      { "en": "She glided across the floor.", "bn": "সে মেঝেতে সহজে চলল।" }
+    ],
+    "moreexample": [
+      { "en": "The boat glides on water.", "bn": "নৌকাটি পানিতে ভেসে চলে।" },
+      { "en": "He glided into the room.", "bn": "সে ঘরে সহজে প্রবেশ করল।" },
+      {
+        "en": "The dancer glides smoothly.",
+        "bn": "নৃত্যশিল্পী মসৃণভাবে চলে।"
+      },
+      { "en": "The plane glides down.", "bn": "বিমানটি ধীরে নিচে নামে।" },
+      {
+        "en": "Ice skaters glide easily.",
+        "bn": "আইস স্কেটাররা সহজে স্লাইড করে।"
+      },
+      {
+        "en": "She glided through the crowd.",
+        "bn": "সে ভিড়ের মধ্যে দিয়ে সহজে গেল।"
+      }
+    ],
+    "synonyms": ["slide", "sail", "move smoothly"]
+  },
+
+  {
+    "base": "gorgeous",
+    "phonetic": "ˈɡɔːrdʒəs",
+    "meaning": "অত্যন্ত সুন্দর",
+    "examples": [
+      { "en": "She looks gorgeous.", "bn": "সে অত্যন্ত সুন্দর দেখাচ্ছে।" },
+      { "en": "The view is gorgeous.", "bn": "দৃশ্যটি অত্যন্ত সুন্দর।" }
+    ],
+    "moreexample": [
+      { "en": "The sunset is gorgeous.", "bn": "সূর্যাস্তটি অত্যন্ত সুন্দর।" },
+      {
+        "en": "She wore a gorgeous dress.",
+        "bn": "সে একটি সুন্দর পোশাক পরেছিল।"
+      },
+      { "en": "The garden looks gorgeous.", "bn": "বাগানটি সুন্দর দেখাচ্ছে।" },
+      { "en": "He gave a gorgeous smile.", "bn": "সে একটি সুন্দর হাসি দিল।" },
+      {
+        "en": "The city is gorgeous at night.",
+        "bn": "রাতে শহরটি অত্যন্ত সুন্দর।"
+      },
+      { "en": "It was a gorgeous day.", "bn": "এটি ছিল একটি সুন্দর দিন।" }
+    ],
+    "synonyms": ["beautiful", "stunning", "lovely"]
+  },
+
+  {
+    "base": "gratitude",
+    "phonetic": "ˈɡrætɪtjuːd",
+    "meaning": "কৃতজ্ঞতা",
+    "examples": [
+      { "en": "He showed gratitude.", "bn": "সে কৃতজ্ঞতা দেখাল।" },
+      { "en": "We express gratitude.", "bn": "আমরা কৃতজ্ঞতা প্রকাশ করি।" }
+    ],
+    "moreexample": [
+      { "en": "She felt deep gratitude.", "bn": "সে গভীর কৃতজ্ঞতা অনুভব করল।" },
+      {
+        "en": "Gratitude makes life better.",
+        "bn": "কৃতজ্ঞতা জীবনকে ভালো করে।"
+      },
+      {
+        "en": "He wrote a note of gratitude.",
+        "bn": "সে কৃতজ্ঞতার একটি নোট লিখল।"
+      },
+      {
+        "en": "They showed gratitude to teachers.",
+        "bn": "তারা শিক্ষকদের প্রতি কৃতজ্ঞতা দেখাল।"
+      },
+      { "en": "Gratitude is important.", "bn": "কৃতজ্ঞতা গুরুত্বপূর্ণ।" },
+      {
+        "en": "She expressed gratitude loudly.",
+        "bn": "সে জোরে কৃতজ্ঞতা প্রকাশ করল।"
+      }
+    ],
+    "synonyms": ["thankfulness", "appreciation"]
+  },
+
+  {
+    "base": "gulf",
+    "phonetic": "ɡʌlf",
+    "meaning": "উপসাগর / বড় ফাঁক",
+    "examples": [
+      { "en": "The ship sailed into the gulf.", "bn": "জাহাজটি উপসাগরে গেল।" },
+      {
+        "en": "There is a gulf between them.",
+        "bn": "তাদের মধ্যে বড় ফাঁক আছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The gulf is wide.", "bn": "উপসাগরটি প্রশস্ত।" },
+      { "en": "A cultural gulf exists.", "bn": "একটি সাংস্কৃতিক ফাঁক আছে।" },
+      {
+        "en": "The gulf separates countries.",
+        "bn": "উপসাগর দেশগুলোকে আলাদা করে।"
+      },
+      {
+        "en": "He crossed the gulf of misunderstanding.",
+        "bn": "সে ভুল বোঝাবুঝির ফাঁক পার করল।"
+      },
+      { "en": "The gulf is deep.", "bn": "উপসাগরটি গভীর।" },
+      { "en": "There is a communication gulf.", "bn": "যোগাযোগের ফাঁক আছে।" }
+    ],
+    "synonyms": ["gap", "sea inlet", "divide"]
+  },
+
+  {
+    "base": "guardian",
+    "phonetic": "ˈɡɑːrdiən",
+    "meaning": "অভিভাবক / রক্ষক",
+    "examples": [
+      { "en": "He is her legal guardian.", "bn": "সে তার আইনগত অভিভাবক।" },
+      {
+        "en": "A guardian protects children.",
+        "bn": "একজন অভিভাবক শিশুদের রক্ষা করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The guardian took responsibility.",
+        "bn": "অভিভাবক দায়িত্ব নিল।"
+      },
+      {
+        "en": "She acted as a guardian.",
+        "bn": "সে অভিভাবকের ভূমিকা পালন করল।"
+      },
+      {
+        "en": "Guardians must be responsible.",
+        "bn": "অভিভাবকদের দায়িত্বশীল হতে হয়।"
+      },
+      {
+        "en": "The guardian signed the papers.",
+        "bn": "অভিভাবক কাগজপত্রে স্বাক্ষর করল।"
+      },
+      { "en": "He became her guardian.", "bn": "সে তার অভিভাবক হলো।" },
+      { "en": "The guardian supported him.", "bn": "অভিভাবক তাকে সমর্থন করল।" }
+    ],
+    "synonyms": ["caretaker", "protector"]
+  },
+
+  {
+    "base": "graspable",
+    "phonetic": "ˈɡræspəbl",
+    "meaning": "বোঝার উপযোগী / ধরার মতো",
+    "examples": [
+      { "en": "The idea is graspable.", "bn": "ধারণাটি বোঝার উপযোগী।" },
+      {
+        "en": "Make it graspable for students.",
+        "bn": "এটি শিক্ষার্থীদের জন্য সহজ করে দাও।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The concept is graspable.", "bn": "ধারণাটি বোঝার মতো।" },
+      { "en": "She made it graspable.", "bn": "সে এটি সহজ করে দিল।" },
+      { "en": "The lesson became graspable.", "bn": "পাঠটি সহজবোধ্য হলো।" },
+      {
+        "en": "Graspable ideas help learning.",
+        "bn": "বোঝার উপযোগী ধারণা শেখায় সাহায্য করে।"
+      },
+      { "en": "The topic is graspable now.", "bn": "বিষয়টি এখন সহজ।" },
+      {
+        "en": "He explained it in a graspable way.",
+        "bn": "সে এটি সহজভাবে ব্যাখ্যা করল।"
+      }
+    ],
+    "synonyms": ["understandable", "clear", "comprehensible"]
+  },
+
+  {
+    "base": "glimmer",
+    "phonetic": "ˈɡlɪmər",
+    "meaning": "মৃদু আলো / সামান্য আশা",
+    "examples": [
+      { "en": "A glimmer of light appeared.", "bn": "একটি মৃদু আলো দেখা দিল।" },
+      { "en": "There is a glimmer of hope.", "bn": "একটি আশার আলো আছে।" }
+    ],
+    "moreexample": [
+      { "en": "The stars gave a glimmer.", "bn": "তারাগুলো মৃদু আলো দিল।" },
+      {
+        "en": "She saw a glimmer of success.",
+        "bn": "সে সাফল্যের একটি ঝলক দেখল।"
+      },
+      {
+        "en": "A glimmer appeared in the dark.",
+        "bn": "অন্ধকারে একটি আলো দেখা দিল।"
+      },
+      {
+        "en": "He felt a glimmer of joy.",
+        "bn": "সে আনন্দের একটি ঝলক অনুভব করল।"
+      },
+      {
+        "en": "There was a glimmer in her eyes.",
+        "bn": "তার চোখে একটি ঝলক ছিল।"
+      },
+      {
+        "en": "The plan showed a glimmer of hope.",
+        "bn": "পরিকল্পনায় আশার একটি ঝলক ছিল।"
+      }
+    ],
+    "synonyms": ["spark", "shine", "trace"]
+  },
+
+  {
+    "base": "gush",
+    "phonetic": "ɡʌʃ",
+    "meaning": "প্রবাহিত হওয়া / উচ্ছ্বাস প্রকাশ করা",
+    "examples": [
+      {
+        "en": "Water gushed from the pipe.",
+        "bn": "পাইপ থেকে পানি প্রবাহিত হলো।"
+      },
+      { "en": "She gushed with excitement.", "bn": "সে উচ্ছ্বাসে ভরে গেল।" }
+    ],
+    "moreexample": [
+      { "en": "Blood gushed out.", "bn": "রক্ত প্রবাহিত হলো।" },
+      { "en": "He gushed praise.", "bn": "সে প্রশংসা উচ্ছ্বাসে করল।" },
+      { "en": "The river gushed forward.", "bn": "নদী প্রবাহিত হলো।" },
+      {
+        "en": "She gushed about the gift.",
+        "bn": "সে উপহার নিয়ে উচ্ছ্বাস প্রকাশ করল।"
+      },
+      { "en": "Oil gushed from the ground.", "bn": "মাটি থেকে তেল বের হলো।" },
+      { "en": "They gushed happiness.", "bn": "তারা আনন্দ প্রকাশ করল।" }
+    ],
+    "synonyms": ["flow", "burst", "pour"]
+  },
+
+  {
+    "base": "glisten",
+    "phonetic": "ˈɡlɪsən",
+    "meaning": "ঝলমল করা / চকচক করা",
+    "examples": [
+      { "en": "The wet road glistens.", "bn": "ভেজা রাস্তা ঝলমল করছে।" },
+      {
+        "en": "Her eyes glistened with tears.",
+        "bn": "তার চোখ অশ্রুতে ঝলমল করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Snow glistens in sunlight.", "bn": "বরফ সূর্যালোকে ঝলমল করে।" },
+      {
+        "en": "The floor glistened clean.",
+        "bn": "মেঝে পরিষ্কারভাবে ঝলমল করছিল।"
+      },
+      {
+        "en": "His skin glistened with sweat.",
+        "bn": "তার ত্বক ঘামে ঝলমল করছিল।"
+      },
+      {
+        "en": "The diamond glistened brightly.",
+        "bn": "হীরাটি উজ্জ্বলভাবে ঝলমল করছিল।"
+      },
+      { "en": "Leaves glisten after rain.", "bn": "বৃষ্টির পর পাতা ঝলমল করে।" },
+      { "en": "The lake glistened at night.", "bn": "রাতে হ্রদটি ঝলমল করছিল।" }
+    ],
+    "synonyms": ["shine", "sparkle", "twinkle"]
+  },
+
+  {
+    "base": "gracious",
+    "phonetic": "ˈɡreɪʃəs",
+    "meaning": "ভদ্র / দয়ালু / মার্জিত",
+    "examples": [
+      { "en": "She is very gracious.", "bn": "সে খুব ভদ্র ও দয়ালু।" },
+      { "en": "He gave a gracious reply.", "bn": "সে একটি মার্জিত উত্তর দিল।" }
+    ],
+    "moreexample": [
+      { "en": "The host was gracious.", "bn": "আয়োজক খুব ভদ্র ছিল।" },
+      {
+        "en": "She accepted it graciously.",
+        "bn": "সে এটি মার্জিতভাবে গ্রহণ করল।"
+      },
+      { "en": "He showed gracious behavior.", "bn": "সে ভদ্র আচরণ দেখাল।" },
+      {
+        "en": "They were gracious to guests.",
+        "bn": "তারা অতিথিদের প্রতি দয়ালু ছিল।"
+      },
+      { "en": "Her tone was gracious.", "bn": "তার স্বর ছিল মার্জিত।" },
+      {
+        "en": "He responded in a gracious way.",
+        "bn": "সে মার্জিতভাবে উত্তর দিল।"
+      }
+    ],
+    "synonyms": ["polite", "kind", "courteous"]
+  },
+
+  {
+    "base": "grumble",
+    "phonetic": "ˈɡrʌmbl",
+    "meaning": "বকবক করা / অসন্তুষ্টভাবে অভিযোগ করা",
+    "examples": [
+      { "en": "He always grumbles.", "bn": "সে সবসময় বকবক করে।" },
+      {
+        "en": "They grumbled about the food.",
+        "bn": "তারা খাবার নিয়ে অভিযোগ করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She grumbled softly.", "bn": "সে আস্তে করে বকবক করল।" },
+      {
+        "en": "Workers grumbled at work.",
+        "bn": "কর্মীরা কাজে অসন্তুষ্ট ছিল।"
+      },
+      {
+        "en": "He grumbled about the delay.",
+        "bn": "সে দেরি নিয়ে অভিযোগ করল।"
+      },
+      { "en": "They grumbled all day.", "bn": "তারা সারাদিন বকবক করল।" },
+      { "en": "The child grumbled loudly.", "bn": "শিশুটি জোরে বকবক করল।" },
+      {
+        "en": "She grumbled but did it.",
+        "bn": "সে বকবক করল কিন্তু কাজটি করল।"
+      }
+    ],
+    "synonyms": ["complain", "mutter", "whine"]
+  },
+
+  {
+    "base": "groove",
+    "phonetic": "ɡruːv",
+    "meaning": "খাঁজ / ছন্দে থাকা",
+    "examples": [
+      { "en": "The record has a groove.", "bn": "রেকর্ডে একটি খাঁজ আছে।" },
+      { "en": "He is in the groove.", "bn": "সে ছন্দে আছে।" }
+    ],
+    "moreexample": [
+      { "en": "The wheel fits into the groove.", "bn": "চাকা খাঁজে বসে।" },
+      {
+        "en": "She found her groove in music.",
+        "bn": "সে সঙ্গীতে তার ছন্দ খুঁজে পেল।"
+      },
+      { "en": "The machine has grooves.", "bn": "মেশিনে খাঁজ আছে।" },
+      { "en": "He danced in the groove.", "bn": "সে ছন্দে নাচল।" },
+      { "en": "The road has deep grooves.", "bn": "রাস্তায় গভীর খাঁজ আছে।" },
+      { "en": "She is in her work groove.", "bn": "সে তার কাজে ছন্দে আছে।" }
+    ],
+    "synonyms": ["rhythm", "track", "channel"]
+  },
+
+  {
+    "base": "gaze",
+    "phonetic": "ɡeɪz",
+    "meaning": "তাকিয়ে দেখা",
+    "examples": [
+      {
+        "en": "She gazed at the stars.",
+        "bn": "সে তারাগুলোর দিকে তাকিয়ে থাকল।"
+      },
+      { "en": "He gazed at the sea.", "bn": "সে সমুদ্রের দিকে তাকাল।" }
+    ],
+    "moreexample": [
+      { "en": "They gazed in silence.", "bn": "তারা নীরবে তাকিয়ে থাকল।" },
+      { "en": "She gazed into his eyes.", "bn": "সে তার চোখের দিকে তাকাল।" },
+      { "en": "He gazed at the painting.", "bn": "সে ছবিটির দিকে তাকাল।" },
+      { "en": "We gazed at the sky.", "bn": "আমরা আকাশের দিকে তাকালাম।" },
+      { "en": "The child gazed with wonder.", "bn": "শিশুটি বিস্ময়ে তাকাল।" },
+      {
+        "en": "They gazed at the sunset.",
+        "bn": "তারা সূর্যাস্তের দিকে তাকাল।"
+      }
+    ],
+    "synonyms": ["stare", "look", "observe"]
+  },
+
+  {
+    "base": "glory",
+    "phonetic": "ˈɡlɔːri",
+    "meaning": "গৌরব / মহিমা",
+    "examples": [
+      { "en": "He achieved glory.", "bn": "সে গৌরব অর্জন করল।" },
+      { "en": "The team returned in glory.", "bn": "দলটি গৌরব নিয়ে ফিরে এল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She brought glory to her country.",
+        "bn": "সে তার দেশের জন্য গৌরব আনল।"
+      },
+      {
+        "en": "History remembers their glory.",
+        "bn": "ইতিহাস তাদের গৌরব মনে রাখে।"
+      },
+      { "en": "They fought for glory.", "bn": "তারা গৌরবের জন্য লড়াই করল।" },
+      {
+        "en": "The victory was full of glory.",
+        "bn": "বিজয়টি গৌরবে পূর্ণ ছিল।"
+      },
+      { "en": "He seeks glory in sports.", "bn": "সে খেলাধুলায় গৌরব খোঁজে।" },
+      {
+        "en": "Their glory faded over time.",
+        "bn": "তাদের গৌরব সময়ের সাথে ম্লান হলো।"
+      }
+    ],
+    "synonyms": ["honor", "fame", "praise"]
+  },
+
+  {
+    "base": "glare",
+    "phonetic": "ɡler",
+    "meaning": "তীক্ষ্ণ দৃষ্টি / জোরালো আলো",
+    "examples": [
+      {
+        "en": "He gave her a cold glare.",
+        "bn": "সে তাকে ঠান্ডা দৃষ্টিতে তাকাল।"
+      },
+      { "en": "The sun’s glare was strong.", "bn": "সূর্যের তীব্র আলো ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She glared at him angrily.",
+        "bn": "সে রাগের সাথে তার দিকে তাকাল।"
+      },
+      { "en": "The glare hurt my eyes.", "bn": "তীব্র আলো আমার চোখে লাগল।" },
+      {
+        "en": "He avoided her glare.",
+        "bn": "সে তার তীক্ষ্ণ দৃষ্টি এড়িয়ে গেল।"
+      },
+      {
+        "en": "The screen has no glare.",
+        "bn": "স্ক্রিনে কোনো প্রতিফলিত আলো নেই।"
+      },
+      {
+        "en": "They exchanged angry glares.",
+        "bn": "তারা রাগান্বিত দৃষ্টি বিনিময় করল।"
+      },
+      {
+        "en": "The glare made driving hard.",
+        "bn": "তীব্র আলো গাড়ি চালানো কঠিন করে তুলল।"
+      }
+    ],
+    "synonyms": ["stare", "flash", "shine"]
+  },
+
+  {
+    "base": "gasp",
+    "phonetic": "ɡæsp",
+    "meaning": "হাঁপানো / অবাক হওয়া",
+    "examples": [
+      { "en": "She gasped in surprise.", "bn": "সে অবাক হয়ে হাঁপিয়ে উঠল।" },
+      { "en": "He gasped for air.", "bn": "সে শ্বাসের জন্য হাঁপাচ্ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "The crowd gasped loudly.", "bn": "জনতা জোরে হাঁপিয়ে উঠল।" },
+      { "en": "She gasped at the news.", "bn": "সে খবর শুনে অবাক হলো।" },
+      { "en": "He gasped after running.", "bn": "দৌড়ানোর পর সে হাঁপাচ্ছিল।" },
+      { "en": "They gasped in fear.", "bn": "তারা ভয়ে হাঁপিয়ে উঠল।" },
+      {
+        "en": "The child gasped with joy.",
+        "bn": "শিশুটি আনন্দে হাঁপিয়ে উঠল।"
+      },
+      { "en": "I gasped at the price.", "bn": "আমি দাম দেখে অবাক হলাম।" }
+    ],
+    "synonyms": ["breathe sharply", "sigh", "pant"]
+  },
+
+  {
+    "base": "germinate",
+    "phonetic": "ˈdʒɜːrmɪneɪt",
+    "meaning": "অঙ্কুরিত হওয়া",
+    "examples": [
+      { "en": "Seeds germinate in soil.", "bn": "বীজ মাটিতে অঙ্কুরিত হয়।" },
+      {
+        "en": "The idea began to germinate.",
+        "bn": "ধারণাটি বিকশিত হতে শুরু করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Seeds germinate quickly in rain.",
+        "bn": "বৃষ্টিতে বীজ দ্রুত অঙ্কুরিত হয়।"
+      },
+      { "en": "Thoughts germinate in mind.", "bn": "চিন্তা মনে বিকশিত হয়।" },
+      { "en": "The plant germinated fast.", "bn": "গাছটি দ্রুত অঙ্কুরিত হলো।" },
+      {
+        "en": "Ideas germinate over time.",
+        "bn": "ধারণা সময়ের সাথে বিকশিত হয়।"
+      },
+      { "en": "Wheat germinates in soil.", "bn": "গম মাটিতে অঙ্কুরিত হয়।" },
+      {
+        "en": "Innovation germinates in curiosity.",
+        "bn": "কৌতূহলে উদ্ভাবন জন্ম নেয়।"
+      }
+    ],
+    "synonyms": ["sprout", "grow", "develop"]
+  },
+
+  {
+    "base": "gloom",
+    "phonetic": "ɡluːm",
+    "meaning": "অন্ধকার / বিষণ্ণতা",
+    "examples": [
+      {
+        "en": "The room was filled with gloom.",
+        "bn": "ঘরটি অন্ধকারে ভরে ছিল।"
+      },
+      { "en": "He felt deep gloom.", "bn": "সে গভীর বিষণ্ণতা অনুভব করল।" }
+    ],
+    "moreexample": [
+      { "en": "Gloom covered the sky.", "bn": "অন্ধকার আকাশ ঢেকে ফেলল।" },
+      {
+        "en": "She was in gloom after failure.",
+        "bn": "ব্যর্থতার পর সে বিষণ্ণ ছিল।"
+      },
+      { "en": "The city was full of gloom.", "bn": "শহরটি অন্ধকারে ভরা ছিল।" },
+      {
+        "en": "Gloom spread everywhere.",
+        "bn": "অন্ধকার চারদিকে ছড়িয়ে পড়ল।"
+      },
+      { "en": "His face showed gloom.", "bn": "তার মুখে বিষণ্ণতা ছিল।" },
+      { "en": "The news brought gloom.", "bn": "খবরটি বিষণ্ণতা নিয়ে এলো।" }
+    ],
+    "synonyms": ["darkness", "sadness", "melancholy"]
+  },
+
+  {
+    "base": "gleam",
+    "phonetic": "ɡliːm",
+    "meaning": "ঝিলিক / মৃদু আলো",
+    "examples": [
+      { "en": "A gleam of hope appeared.", "bn": "আশার একটি ঝিলিক দেখা দিল।" },
+      { "en": "Her eyes gleamed with joy.", "bn": "তার চোখ আনন্দে ঝলমল করছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The sword gleamed in light.",
+        "bn": "তলোয়ারটি আলোতে ঝলমল করছিল।"
+      },
+      {
+        "en": "He saw a gleam of success.",
+        "bn": "সে সাফল্যের একটি ঝিলিক দেখল।"
+      },
+      {
+        "en": "The floor gleamed clean.",
+        "bn": "মেঝে পরিষ্কারভাবে ঝলমল করছিল।"
+      },
+      { "en": "Her smile had a gleam.", "bn": "তার হাসিতে একটি ঝিলিক ছিল।" },
+      {
+        "en": "The metal gleamed brightly.",
+        "bn": "ধাতুটি উজ্জ্বলভাবে ঝলমল করছিল।"
+      },
+      {
+        "en": "A gleam appeared in darkness.",
+        "bn": "অন্ধকারে একটি ঝিলিক দেখা দিল।"
+      }
+    ],
+    "synonyms": ["shine", "sparkle", "flash"]
   }
 ]

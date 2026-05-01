@@ -21,6 +21,7 @@
     ],
     "synonyms": ["liquid", "fluid", "H2O"]
   },
+
   {
     "base": "wake",
     "phonetic": "weɪk",
@@ -42,5 +43,308 @@
       { "en": "He wakes early.", "bn": "" }
     ],
     "synonyms": ["rise", "get up", "arouse", "awaken", "stir"]
+  },
+
+  {
+    "base": "wealth",
+    "phonetic": "welθ",
+    "meaning": "সম্পদ",
+    "examples": [{ "en": "He has great wealth.", "bn": "তার অনেক সম্পদ আছে।" }],
+    "moreexample": [
+      { "en": "Wealth brings comfort.", "bn": "সম্পদ স্বাচ্ছন্দ্য আনে।" },
+      {
+        "en": "She inherited wealth.",
+        "bn": "সে সম্পদ উত্তরাধিকার সূত্রে পেয়েছে।"
+      },
+      { "en": "Wealth is not everything.", "bn": "সম্পদই সব নয়।" },
+      {
+        "en": "He used his wealth wisely.",
+        "bn": "সে তার সম্পদ বুদ্ধিমত্তার সাথে ব্যবহার করল।"
+      },
+      {
+        "en": "Wealth can change lives.",
+        "bn": "সম্পদ জীবন পরিবর্তন করতে পারে।"
+      },
+      { "en": "They lost their wealth.", "bn": "তারা তাদের সম্পদ হারিয়েছে।" },
+      { "en": "Wealth attracts attention.", "bn": "সম্পদ মনোযোগ আকর্ষণ করে।" },
+      {
+        "en": "He gained wealth slowly.",
+        "bn": "সে ধীরে ধীরে সম্পদ অর্জন করল।"
+      },
+      { "en": "Wealth creates opportunities.", "bn": "সম্পদ সুযোগ তৈরি করে।" },
+      { "en": "True wealth is knowledge.", "bn": "সত্যিকারের সম্পদ হলো জ্ঞান।" }
+    ],
+    "synonyms": ["riches", "fortune", "assets"]
+  },
+
+  {
+    "base": "whether",
+    "phonetic": "ˈweðər",
+    "meaning": "কিনা",
+    "examples": [
+      {
+        "en": "I don’t know whether he will come.",
+        "bn": "সে আসবে কিনা আমি জানি না।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Tell me whether it is true.", "bn": "এটি সত্য কিনা বলো।" },
+      {
+        "en": "She asked whether I agree.",
+        "bn": "সে জিজ্ঞেস করল আমি সম্মত কিনা।"
+      },
+      { "en": "We don’t know whether to go.", "bn": "আমরা জানি না যাব কিনা।" },
+      { "en": "He wondered whether she knew.", "bn": "সে ভাবল সে জানে কিনা।" },
+      { "en": "Decide whether to stay.", "bn": "থাকবে কিনা সিদ্ধান্ত নাও।" },
+      {
+        "en": "Ask whether he finished.",
+        "bn": "সে শেষ করেছে কিনা জিজ্ঞেস করো।"
+      },
+      { "en": "Check whether it works.", "bn": "এটি কাজ করে কিনা দেখো।" },
+      {
+        "en": "I doubt whether it’s correct.",
+        "bn": "এটি সঠিক কিনা সন্দেহ আছে।"
+      },
+      {
+        "en": "We discussed whether to start.",
+        "bn": "শুরু করব কিনা আলোচনা করলাম।"
+      },
+      {
+        "en": "She asked whether I was ready.",
+        "bn": "সে জিজ্ঞেস করল আমি প্রস্তুত কিনা।"
+      }
+    ],
+    "synonyms": ["if"]
+  },
+
+  {
+    "base": "wood",
+    "phonetic": "wʊd",
+    "meaning": "কাঠ",
+    "examples": [
+      { "en": "This table is made of wood.", "bn": "এই টেবিলটি কাঠের তৈরি।" }
+    ],
+    "moreexample": [
+      { "en": "Wood burns easily.", "bn": "কাঠ সহজে পুড়ে।" },
+      { "en": "They collected wood.", "bn": "তারা কাঠ সংগ্রহ করল।" },
+      { "en": "The house is wooden.", "bn": "বাড়িটি কাঠের।" },
+      { "en": "Wood is strong.", "bn": "কাঠ শক্ত।" },
+      { "en": "He carved wood.", "bn": "সে কাঠ খোদাই করল।" },
+      { "en": "Wood floats on water.", "bn": "কাঠ পানিতে ভাসে।" },
+      {
+        "en": "They used wood for fire.",
+        "bn": "তারা আগুনের জন্য কাঠ ব্যবহার করল।"
+      },
+      { "en": "This is fine wood.", "bn": "এটি ভালো কাঠ।" },
+      { "en": "Wood smells good.", "bn": "কাঠের গন্ধ ভালো।" },
+      { "en": "He cut the wood.", "bn": "সে কাঠ কাটল।" }
+    ],
+    "synonyms": ["timber", "lumber"]
+  },
+
+  {
+    "base": "web",
+    "phonetic": "web",
+    "meaning": "জাল / ওয়েব",
+    "examples": [
+      { "en": "The spider made a web.", "bn": "মাকড়সা একটি জাল তৈরি করল।" }
+    ],
+    "moreexample": [
+      { "en": "The web is sticky.", "bn": "জালটি আঠালো।" },
+      { "en": "He found a web.", "bn": "সে একটি জাল খুঁজে পেল।" },
+      { "en": "The spider sits in the web.", "bn": "মাকড়সা জালে বসে থাকে।" },
+      { "en": "The web caught insects.", "bn": "জালটি পোকা ধরল।" },
+      { "en": "Clean the web.", "bn": "জাল পরিষ্কার করো।" },
+      { "en": "The web is delicate.", "bn": "জালটি সূক্ষ্ম।" },
+      { "en": "He walked into a web.", "bn": "সে জালে আটকে গেল।" },
+      { "en": "The web shines in light.", "bn": "আলোতে জাল ঝলমল করে।" },
+      { "en": "Web design is popular.", "bn": "ওয়েব ডিজাইন জনপ্রিয়।" },
+      { "en": "She builds web apps.", "bn": "সে ওয়েব অ্যাপ তৈরি করে।" }
+    ],
+    "synonyms": ["network", "mesh"]
+  },
+
+  {
+    "base": "wide",
+    "phonetic": "waɪd",
+    "meaning": "প্রশস্ত",
+    "examples": [{ "en": "The road is wide.", "bn": "রাস্তাটি প্রশস্ত।" }],
+    "moreexample": [
+      { "en": "The river is wide.", "bn": "নদীটি প্রশস্ত।" },
+      { "en": "He opened his eyes wide.", "bn": "সে চোখ বড় করে খুলল।" },
+      { "en": "The gap is wide.", "bn": "ফাঁকটি বড়।" },
+      { "en": "She smiled wide.", "bn": "সে বড় করে হাসল।" },
+      { "en": "The field is wide.", "bn": "মাঠটি প্রশস্ত।" },
+      { "en": "The door is wide open.", "bn": "দরজা পুরো খোলা।" },
+      { "en": "He has wide knowledge.", "bn": "তার বিস্তৃত জ্ঞান আছে।" },
+      { "en": "The space is wide.", "bn": "জায়গাটি প্রশস্ত।" },
+      {
+        "en": "Wide roads help traffic.",
+        "bn": "প্রশস্ত রাস্তা যান চলাচল সহজ করে।"
+      },
+      { "en": "The lake is wide.", "bn": "হ্রদটি প্রশস্ত।" }
+    ],
+    "synonyms": ["broad", "spacious", "vast"]
+  },
+
+  {
+    "base": "within",
+    "phonetic": "wɪˈðɪn",
+    "meaning": "ভিতরে / মধ্যে",
+    "examples": [{ "en": "Stay within the limit.", "bn": "সীমার মধ্যে থাকো।" }],
+    "moreexample": [
+      { "en": "He lives within the city.", "bn": "সে শহরের মধ্যে বাস করে।" },
+      { "en": "Keep it within reach.", "bn": "এটি হাতের নাগালের মধ্যে রাখো।" },
+      { "en": "The answer lies within.", "bn": "উত্তর ভেতরেই আছে।" },
+      { "en": "Finish it within time.", "bn": "সময়ের মধ্যে এটি শেষ করো।" },
+      {
+        "en": "Everything is within control.",
+        "bn": "সবকিছু নিয়ন্ত্রণের মধ্যে আছে।"
+      },
+      { "en": "Stay within your budget.", "bn": "তোমার বাজেটের মধ্যে থাকো।" },
+      { "en": "The truth is within him.", "bn": "সত্য তার ভেতরে আছে।" },
+      {
+        "en": "She kept it within herself.",
+        "bn": "সে বিষয়টি নিজের মধ্যে রাখল।"
+      },
+      { "en": "Work within the rules.", "bn": "নিয়মের মধ্যে কাজ করো।" },
+      {
+        "en": "The park is within walking distance.",
+        "bn": "পার্কটি হাঁটার দূরত্বের মধ্যে।"
+      }
+    ],
+    "synonyms": ["inside", "in", "internally"]
+  },
+
+  {
+    "base": "wise",
+    "phonetic": "waɪz",
+    "meaning": "জ্ঞানী / বুদ্ধিমান",
+    "examples": [{ "en": "He is a wise man.", "bn": "সে একজন জ্ঞানী মানুষ।" }],
+    "moreexample": [
+      {
+        "en": "She made a wise decision.",
+        "bn": "সে একটি বুদ্ধিমান সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "Wise people think before acting.",
+        "bn": "জ্ঞানীরা কাজের আগে চিন্তা করে।"
+      },
+      {
+        "en": "It was wise to wait.",
+        "bn": "অপেক্ষা করা বুদ্ধিমানের কাজ ছিল।"
+      },
+      { "en": "He gave wise advice.", "bn": "সে জ্ঞানপূর্ণ পরামর্শ দিল।" },
+      {
+        "en": "A wise choice saves time.",
+        "bn": "বুদ্ধিমান পছন্দ সময় বাঁচায়।"
+      },
+      {
+        "en": "She is wise beyond her age.",
+        "bn": "সে বয়সের তুলনায় বেশি জ্ঞানী।"
+      },
+      {
+        "en": "Wise leaders guide others.",
+        "bn": "জ্ঞানী নেতারা অন্যদের পথ দেখায়।"
+      },
+      { "en": "He spoke wise words.", "bn": "সে জ্ঞানপূর্ণ কথা বলল।" },
+      {
+        "en": "It’s wise to plan ahead.",
+        "bn": "আগে থেকে পরিকল্পনা করা বুদ্ধিমানের কাজ।"
+      },
+      {
+        "en": "Wise thinking avoids problems.",
+        "bn": "বুদ্ধিমান চিন্তা সমস্যা এড়ায়।"
+      }
+    ],
+    "synonyms": ["smart", "intelligent", "sensible"]
+  },
+
+  {
+    "base": "weather",
+    "phonetic": "ˈweðər",
+    "meaning": "আবহাওয়া",
+    "examples": [{ "en": "The weather is nice.", "bn": "আবহাওয়া সুন্দর।" }],
+    "moreexample": [
+      {
+        "en": "The weather changed suddenly.",
+        "bn": "আবহাওয়া হঠাৎ বদলে গেল।"
+      },
+      { "en": "Bad weather stopped us.", "bn": "খারাপ আবহাওয়া আমাদের থামাল।" },
+      { "en": "The weather is hot today.", "bn": "আজ আবহাওয়া গরম।" },
+      {
+        "en": "Cold weather affects health.",
+        "bn": "ঠান্ডা আবহাওয়া স্বাস্থ্যে প্রভাব ফেলে।"
+      },
+      { "en": "The weather looks cloudy.", "bn": "আবহাওয়া মেঘলা দেখাচ্ছে।" },
+      {
+        "en": "Check the weather forecast.",
+        "bn": "আবহাওয়ার পূর্বাভাস দেখো।"
+      },
+      { "en": "The weather is perfect.", "bn": "আবহাওয়া একদম ঠিক আছে।" },
+      { "en": "Rainy weather is common.", "bn": "বৃষ্টির আবহাওয়া সাধারণ।" },
+      {
+        "en": "The weather is getting cooler.",
+        "bn": "আবহাওয়া ঠান্ডা হচ্ছে।"
+      },
+      { "en": "Weather affects travel.", "bn": "আবহাওয়া ভ্রমণে প্রভাব ফেলে।" }
+    ],
+    "synonyms": ["climate", "conditions"]
+  },
+
+  {
+    "base": "whole",
+    "phonetic": "həʊl",
+    "meaning": "সম্পূর্ণ / পুরো",
+    "examples": [
+      { "en": "He ate the whole cake.", "bn": "সে পুরো কেকটি খেয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "I read the whole book.", "bn": "আমি পুরো বইটি পড়েছি।" },
+      { "en": "The whole team agreed.", "bn": "পুরো দল একমত হলো।" },
+      { "en": "She spent the whole day.", "bn": "সে পুরো দিন কাটিয়েছে।" },
+      { "en": "The whole area is clean.", "bn": "পুরো এলাকা পরিষ্কার।" },
+      { "en": "He told the whole story.", "bn": "সে পুরো গল্পটি বলল।" },
+      { "en": "The whole class listened.", "bn": "পুরো ক্লাস শুনল।" },
+      { "en": "I finished the whole task.", "bn": "আমি পুরো কাজটি শেষ করেছি।" },
+      { "en": "The whole world knows.", "bn": "পুরো পৃথিবী জানে।" },
+      { "en": "She cleaned the whole room.", "bn": "সে পুরো ঘর পরিষ্কার করল।" },
+      { "en": "The whole process is simple.", "bn": "পুরো প্রক্রিয়াটি সহজ।" }
+    ],
+    "synonyms": ["entire", "complete", "total"]
+  },
+
+  {
+    "base": "wonder",
+    "phonetic": "ˈwʌndər",
+    "meaning": "আশ্চর্য / বিস্ময়",
+    "examples": [
+      { "en": "The place is a wonder.", "bn": "জায়গাটি একটি বিস্ময়।" }
+    ],
+    "moreexample": [
+      { "en": "I wonder why he left.", "bn": "আমি ভাবছি সে কেন চলে গেল।" },
+      { "en": "She looked in wonder.", "bn": "সে বিস্ময়ে তাকাল।" },
+      { "en": "The child watched in wonder.", "bn": "শিশুটি বিস্ময়ে দেখল।" },
+      {
+        "en": "It’s a wonder he survived.",
+        "bn": "সে বেঁচে আছে এটা বিস্ময়কর।"
+      },
+      { "en": "He felt a sense of wonder.", "bn": "সে বিস্ময়ের অনুভূতি পেল।" },
+      {
+        "en": "They wondered about the future.",
+        "bn": "তারা ভবিষ্যৎ নিয়ে ভাবল।"
+      },
+      {
+        "en": "The view filled her with wonder.",
+        "bn": "দৃশ্যটি তাকে বিস্ময়ে ভরিয়ে দিল।"
+      },
+      { "en": "I wonder what happened.", "bn": "আমি ভাবছি কী ঘটেছে।" },
+      { "en": "The story creates wonder.", "bn": "গল্পটি বিস্ময় সৃষ্টি করে।" },
+      {
+        "en": "He stood there in wonder.",
+        "bn": "সে সেখানে বিস্ময়ে দাঁড়িয়ে ছিল।"
+      }
+    ],
+    "synonyms": ["amazement", "curiosity", "awe"]
   }
 ]

@@ -1,0 +1,340 @@
+[
+  {
+    "base": "yard",
+    "phonetic": "jɑːd",
+    "meaning": "আঙিনা / উঠান",
+    "examples": [
+      {
+        "en": "The children are playing in the yard.",
+        "bn": "শিশুরা উঠানে খেলছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He cleaned the yard.", "bn": "সে উঠান পরিষ্কার করল।" },
+      { "en": "The yard is big.", "bn": "উঠানটি বড়।" },
+      { "en": "Dogs are in the yard.", "bn": "কুকুরগুলো উঠানে আছে।" },
+      {
+        "en": "She watered the yard plants.",
+        "bn": "সে উঠানের গাছগুলোতে পানি দিল।"
+      },
+      { "en": "The yard is empty.", "bn": "উঠানটি ফাঁকা।" },
+      { "en": "They sat in the yard.", "bn": "তারা উঠানে বসেছিল।" },
+      { "en": "He swept the yard.", "bn": "সে উঠান ঝাড়ু দিল।" },
+      { "en": "The yard looks clean.", "bn": "উঠানটি পরিষ্কার দেখাচ্ছে।" },
+      { "en": "Kids love the yard.", "bn": "শিশুরা উঠান পছন্দ করে।" },
+      { "en": "The yard is full of trees.", "bn": "উঠানটি গাছে ভরা।" }
+    ],
+    "synonyms": ["courtyard", "garden"]
+  },
+  {
+    "base": "year",
+    "phonetic": "jɪə(r)",
+    "meaning": "বছর",
+    "examples": [{ "en": "This year is special.", "bn": "এই বছরটি বিশেষ।" }],
+    "moreexample": [
+      { "en": "A year has 12 months.", "bn": "এক বছরে ১২ মাস থাকে।" },
+      { "en": "He will come next year.", "bn": "সে আগামী বছর আসবে।" },
+      { "en": "This year is difficult.", "bn": "এই বছরটি কঠিন।" },
+      { "en": "She studied for a year.", "bn": "সে এক বছর পড়াশোনা করেছে।" },
+      { "en": "The year passed quickly.", "bn": "বছরটি দ্রুত কেটে গেল।" },
+      { "en": "They met last year.", "bn": "তারা গত বছর দেখা করেছিল।" },
+      { "en": "Every year is different.", "bn": "প্রতিটি বছর আলাদা।" },
+      { "en": "He improved this year.", "bn": "সে এই বছর উন্নতি করেছে।" },
+      { "en": "A new year starts soon.", "bn": "নতুন বছর শিগগির শুরু হবে।" },
+      { "en": "We plan for the year.", "bn": "আমরা বছরের পরিকল্পনা করি।" }
+    ],
+    "synonyms": ["twelve-month period"]
+  },
+  {
+    "base": "yellow",
+    "phonetic": "ˈjeləʊ",
+    "meaning": "হলুদ",
+    "examples": [{ "en": "The flower is yellow.", "bn": "ফুলটি হলুদ।" }],
+    "moreexample": [
+      { "en": "He wore a yellow shirt.", "bn": "সে হলুদ শার্ট পরেছিল।" },
+      { "en": "The sun looks yellow.", "bn": "সূর্য হলুদ দেখায়।" },
+      { "en": "Yellow is a bright color.", "bn": "হলুদ একটি উজ্জ্বল রঙ।" },
+      { "en": "The wall is yellow.", "bn": "দেয়ালটি হলুদ।" },
+      { "en": "She drew a yellow bird.", "bn": "সে একটি হলুদ পাখি আঁকল।" },
+      { "en": "Yellow leaves fell.", "bn": "হলুদ পাতা ঝরল।" },
+      { "en": "The light turned yellow.", "bn": "আলো হলুদ হলো।" },
+      { "en": "He painted it yellow.", "bn": "সে এটি হলুদ রঙ করল।" },
+      { "en": "Yellow signals caution.", "bn": "হলুদ সতর্কতা বোঝায়।" },
+      { "en": "The room was yellow.", "bn": "ঘরটি হলুদ ছিল।" }
+    ],
+    "synonyms": ["golden", "amber"]
+  },
+  {
+    "base": "youth",
+    "phonetic": "juːθ",
+    "meaning": "যৌবন / তরুণ",
+    "examples": [
+      { "en": "Youth is full of energy.", "bn": "যৌবন শক্তিতে পূর্ণ।" }
+    ],
+    "moreexample": [
+      { "en": "Youth is a golden time.", "bn": "যৌবন একটি সোনালী সময়।" },
+      {
+        "en": "He spent his youth here.",
+        "bn": "সে তার যৌবন এখানে কাটিয়েছে।"
+      },
+      {
+        "en": "Youth should learn discipline.",
+        "bn": "যুবকদের শৃঙ্খলা শেখা উচিত।"
+      },
+      {
+        "en": "She helps youth programs.",
+        "bn": "সে যুব কার্যক্রমে সাহায্য করে।"
+      },
+      { "en": "Youth is powerful.", "bn": "যৌবন শক্তিশালী।" },
+      { "en": "He inspires youth.", "bn": "সে যুবকদের অনুপ্রাণিত করে।" },
+      { "en": "Youth brings change.", "bn": "যৌবন পরিবর্তন আনে।" },
+      { "en": "Many youth attended.", "bn": "অনেক যুবক অংশ নিয়েছিল।" },
+      { "en": "Youth is the future.", "bn": "যৌবনই ভবিষ্যৎ।" },
+      {
+        "en": "They support youth education.",
+        "bn": "তারা যুব শিক্ষা সমর্থন করে।"
+      }
+    ],
+    "synonyms": ["young age", "adolescence"]
+  },
+
+  {
+    "base": "yield",
+    "phonetic": "jiːld",
+    "meaning": "ফলন দেওয়া / ছাড় দেওয়া",
+    "examples": [
+      { "en": "The farm yields rice.", "bn": "খামারটি ধান উৎপাদন করে।" }
+    ],
+    "moreexample": [
+      { "en": "This tree yields fruit.", "bn": "এই গাছ ফল দেয়।" },
+      {
+        "en": "He yielded to pressure.",
+        "bn": "সে চাপের কাছে নতি স্বীকার করল।"
+      },
+      { "en": "The land yields crops.", "bn": "জমি ফসল উৎপাদন করে।" },
+      { "en": "She refused to yield.", "bn": "সে নতি স্বীকার করল না।" },
+      { "en": "Cars must yield here.", "bn": "এখানে গাড়িকে পথ ছাড়তে হবে।" },
+      { "en": "The investment yields profit.", "bn": "বিনিয়োগ লাভ দেয়।" },
+      { "en": "He yielded control.", "bn": "সে নিয়ন্ত্রণ ছাড়ল।" },
+      { "en": "The soil yields wheat.", "bn": "মাটি গম উৎপাদন করে।" },
+      { "en": "They yielded results.", "bn": "তারা ফলাফল দিল।" },
+      { "en": "She yielded her seat.", "bn": "সে তার আসন ছেড়ে দিল।" }
+    ],
+    "synonyms": ["produce", "surrender", "give"]
+  },
+  {
+    "base": "yawn",
+    "phonetic": "jɔːn",
+    "meaning": "হাই তোলা",
+    "examples": [
+      { "en": "He tried to hide a yawn.", "bn": "সে হাই লুকানোর চেষ্টা করল।" }
+    ],
+    "moreexample": [
+      { "en": "She yawned loudly.", "bn": "সে জোরে হাই তুলল।" },
+      {
+        "en": "The class made him yawn.",
+        "bn": "ক্লাস তাকে হাই তুলতে বাধ্য করল।"
+      },
+      { "en": "I yawn when I am tired.", "bn": "আমি ক্লান্ত হলে হাই তুলি।" },
+      { "en": "He couldn’t stop yawning.", "bn": "সে হাই থামাতে পারছিল না।" },
+      {
+        "en": "The boring lecture made them yawn.",
+        "bn": "বিরক্তিকর লেকচার তাদের হাই তুলাল।"
+      },
+      { "en": "She covered her yawn.", "bn": "সে হাই ঢেকে ফেলল।" },
+      { "en": "Yawning is natural.", "bn": "হাই তোলা স্বাভাবিক।" },
+      { "en": "He yawned during the meeting.", "bn": "সে মিটিংয়ে হাই তুলল।" },
+      {
+        "en": "The child yawned sleepily.",
+        "bn": "শিশুটি ঘুমঘুম চোখে হাই তুলল।"
+      },
+      {
+        "en": "They started yawning together.",
+        "bn": "তারা একসাথে হাই তুলতে শুরু করল।"
+      }
+    ],
+    "synonyms": ["doze reflex", "sleep reaction"]
+  },
+  {
+    "base": "yearn",
+    "phonetic": "jɜːn",
+    "meaning": "আকাঙ্ক্ষা করা / প্রবল ইচ্ছা",
+    "examples": [
+      {
+        "en": "She yearns for success.",
+        "bn": "সে সাফল্যের জন্য আকাঙ্ক্ষা করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He yearns for home.", "bn": "সে বাড়ির জন্য আকাঙ্ক্ষা করে।" },
+      {
+        "en": "They yearn for freedom.",
+        "bn": "তারা স্বাধীনতার জন্য আকাঙ্ক্ষা করে।"
+      },
+      { "en": "She yearns to travel.", "bn": "সে ভ্রমণের জন্য আকাঙ্ক্ষা করে।" },
+      { "en": "He yearns for peace.", "bn": "সে শান্তির জন্য আকাঙ্ক্ষা করে।" },
+      {
+        "en": "They yearn for love.",
+        "bn": "তারা ভালোবাসার জন্য আকাঙ্ক্ষা করে।"
+      },
+      {
+        "en": "She yearns to learn more.",
+        "bn": "সে আরও শেখার জন্য আকাঙ্ক্ষা করে।"
+      },
+      {
+        "en": "He yearns for success.",
+        "bn": "সে সাফল্যের জন্য আকাঙ্ক্ষা করে।"
+      },
+      {
+        "en": "We all yearn for happiness.",
+        "bn": "আমরা সবাই সুখের জন্য আকাঙ্ক্ষা করি।"
+      },
+      {
+        "en": "The child yearns for attention.",
+        "bn": "শিশুটি মনোযোগের জন্য আকাঙ্ক্ষা করে।"
+      },
+      {
+        "en": "They yearn for change.",
+        "bn": "তারা পরিবর্তনের জন্য আকাঙ্ক্ষা করে।"
+      }
+    ],
+    "synonyms": ["long for", "desire", "crave"]
+  },
+  {
+    "base": "yolk",
+    "phonetic": "jəʊk",
+    "meaning": "ডিমের কুসুম",
+    "examples": [
+      { "en": "The egg yolk is yellow.", "bn": "ডিমের কুসুম হলুদ।" }
+    ],
+    "moreexample": [
+      { "en": "The yolk is rich in nutrients.", "bn": "কুসুম পুষ্টিতে ভরপুর।" },
+      { "en": "She separated the yolk.", "bn": "সে কুসুম আলাদা করল।" },
+      { "en": "The yolk looks fresh.", "bn": "কুসুমটি তাজা দেখাচ্ছে।" },
+      { "en": "Egg yolk is healthy.", "bn": "ডিমের কুসুম স্বাস্থ্যকর।" },
+      { "en": "He ate only the yolk.", "bn": "সে শুধু কুসুম খেল।" },
+      { "en": "The yolk is soft.", "bn": "কুসুম নরম।" },
+      { "en": "Mix the yolk well.", "bn": "কুসুম ভালোভাবে মেশাও।" },
+      { "en": "The yolk broke.", "bn": "কুসুম ভেঙে গেল।" },
+      { "en": "She removed the yolk.", "bn": "সে কুসুম সরাল।" },
+      { "en": "Yolk gives energy.", "bn": "কুসুম শক্তি দেয়।" }
+    ],
+    "synonyms": ["egg center"]
+  },
+
+  {
+    "base": "yell",
+    "phonetic": "jel",
+    "meaning": "চিৎকার করা",
+    "examples": [
+      { "en": "He yelled for help.", "bn": "সে সাহায্যের জন্য চিৎকার করল।" }
+    ],
+    "moreexample": [
+      { "en": "She yelled loudly.", "bn": "সে জোরে চিৎকার করল।" },
+      { "en": "Don’t yell at me.", "bn": "আমার ওপর চিৎকার কোরো না।" },
+      { "en": "He yelled in anger.", "bn": "সে রাগে চিৎকার করল।" },
+      { "en": "They yelled together.", "bn": "তারা একসাথে চিৎকার করল।" },
+      {
+        "en": "The child yelled for his mother.",
+        "bn": "শিশুটি তার মায়ের জন্য চিৎকার করল।"
+      },
+      {
+        "en": "She yelled across the street.",
+        "bn": "সে রাস্তার ওপারে চিৎকার করল।"
+      },
+      { "en": "He yelled at the dog.", "bn": "সে কুকুরের ওপর চিৎকার করল।" },
+      {
+        "en": "The crowd yelled in excitement.",
+        "bn": "ভিড় উত্তেজনায় চিৎকার করল।"
+      },
+      { "en": "Stop yelling!", "bn": "চিৎকার বন্ধ করো!" },
+      { "en": "They yelled for joy.", "bn": "তারা আনন্দে চিৎকার করল।" }
+    ],
+    "synonyms": ["shout", "scream", "cry out"]
+  },
+  {
+    "base": "yummy",
+    "phonetic": "ˈjʌmi",
+    "meaning": "সুস্বাদু",
+    "examples": [{ "en": "The food is yummy.", "bn": "খাবারটি সুস্বাদু।" }],
+    "moreexample": [
+      { "en": "This cake is yummy.", "bn": "এই কেকটি সুস্বাদু।" },
+      { "en": "The soup tastes yummy.", "bn": "স্যুপটি সুস্বাদু লাগে।" },
+      {
+        "en": "She cooked something yummy.",
+        "bn": "সে কিছু সুস্বাদু রান্না করল।"
+      },
+      { "en": "The pizza is yummy.", "bn": "পিজ্জাটি সুস্বাদু।" },
+      {
+        "en": "Yummy food makes me happy.",
+        "bn": "সুস্বাদু খাবার আমাকে খুশি করে।"
+      },
+      { "en": "He ate a yummy snack.", "bn": "সে একটি সুস্বাদু নাস্তা খেল।" },
+      { "en": "The meal was yummy.", "bn": "খাবারটি সুস্বাদু ছিল।" },
+      { "en": "She shared yummy food.", "bn": "সে সুস্বাদু খাবার ভাগ করল।" },
+      { "en": "The dish looks yummy.", "bn": "খাবারটি দেখতে সুস্বাদু।" },
+      { "en": "Everything tasted yummy.", "bn": "সবকিছু সুস্বাদু লাগল।" }
+    ],
+    "synonyms": ["delicious", "tasty"]
+  },
+  {
+    "base": "yearly",
+    "phonetic": "ˈjɪəli",
+    "meaning": "বার্ষিক",
+    "examples": [
+      {
+        "en": "They have a yearly meeting.",
+        "bn": "তাদের একটি বার্ষিক সভা আছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He gets a yearly bonus.", "bn": "সে বার্ষিক বোনাস পায়।" },
+      {
+        "en": "Yearly exams are important.",
+        "bn": "বার্ষিক পরীক্ষা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "They plan yearly trips.",
+        "bn": "তারা বার্ষিক ভ্রমণের পরিকল্পনা করে।"
+      },
+      { "en": "The report is yearly.", "bn": "রিপোর্টটি বার্ষিক।" },
+      {
+        "en": "She attends a yearly event.",
+        "bn": "সে একটি বার্ষিক অনুষ্ঠানে যায়।"
+      },
+      { "en": "Yearly income increased.", "bn": "বার্ষিক আয় বেড়েছে।" },
+      {
+        "en": "We review it yearly.",
+        "bn": "আমরা এটি বার্ষিক পর্যালোচনা করি।"
+      },
+      { "en": "The fee is yearly.", "bn": "ফি বার্ষিক।" },
+      { "en": "He checks yearly progress.", "bn": "সে বার্ষিক অগ্রগতি দেখে।" },
+      {
+        "en": "Yearly goals are set.",
+        "bn": "বার্ষিক লক্ষ্য নির্ধারণ করা হয়।"
+      }
+    ],
+    "synonyms": ["annual", "once-a-year"]
+  },
+  {
+    "base": "youthful",
+    "phonetic": "ˈjuːθfəl",
+    "meaning": "যৌবনপূর্ণ / তরুণসুলভ",
+    "examples": [
+      { "en": "She has a youthful look.", "bn": "তার চেহারা তরুণসুলভ।" }
+    ],
+    "moreexample": [
+      { "en": "He looks youthful.", "bn": "সে তরুণ দেখায়।" },
+      { "en": "Her smile is youthful.", "bn": "তার হাসি তরুণসুলভ।" },
+      { "en": "They have youthful energy.", "bn": "তাদের তরুণসুলভ শক্তি আছে।" },
+      { "en": "He remains youthful.", "bn": "সে তরুণই রয়ে গেছে।" },
+      { "en": "The design feels youthful.", "bn": "ডিজাইনটি তরুণসুলভ লাগে।" },
+      { "en": "She is youthful in spirit.", "bn": "সে মনে তরুণ।" },
+      { "en": "Youthful people are active.", "bn": "তরুণরা সক্রিয় হয়।" },
+      { "en": "He has a youthful face.", "bn": "তার মুখ তরুণসুলভ।" },
+      { "en": "The style is youthful.", "bn": "স্টাইলটি তরুণসুলভ।" },
+      { "en": "She stays youthful forever.", "bn": "সে সবসময় তরুণ থাকে।" }
+    ],
+    "synonyms": ["young", "fresh", "energetic"]
+  }
+]

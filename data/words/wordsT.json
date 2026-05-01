@@ -20,5 +20,88 @@
       { "en": "Truth always wins.", "bn": "" }
     ],
     "synonyms": ["fact", "reality", "honesty", "accuracy", "sincerity"]
+  },
+
+  {
+    "base": "tackle",
+    "phonetic": "ˈtækəl",
+    "meaning": "মোকাবিলা করা / সামলানো / ট্যাকল করা",
+    "examples": [
+      {
+        "en": "We need to tackle this problem.",
+        "bn": "আমাদের এই সমস্যার মোকাবিলা করতে হবে।"
+      },
+      {
+        "en": "He tackled the issue quickly.",
+        "bn": "সে দ্রুত সমস্যাটি সামলাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They tackled the challenge together.",
+        "bn": "তারা একসাথে চ্যালেঞ্জ মোকাবিলা করল।"
+      },
+      {
+        "en": "She tackled the difficult question.",
+        "bn": "সে কঠিন প্রশ্নটির মোকাবিলা করল।"
+      },
+      {
+        "en": "The government tackled corruption.",
+        "bn": "সরকার দুর্নীতি মোকাবিলা করল।"
+      },
+      {
+        "en": "He tackled the opponent in the game.",
+        "bn": "সে খেলায় প্রতিপক্ষকে ট্যাকল করল।"
+      },
+      {
+        "en": "We must tackle climate change.",
+        "bn": "আমাদের জলবায়ু পরিবর্তনের মোকাবিলা করতে হবে।"
+      },
+      {
+        "en": "The team tackled the problem effectively.",
+        "bn": "দলটি সমস্যাটি কার্যকরভাবে সামলাল।"
+      }
+    ],
+    "synonyms": ["handle", "deal with", "confront"]
+  },
+
+  {
+    "base": "trust",
+    "phonetic": "trʌst",
+    "meaning": "বিশ্বাস",
+    "examples": [
+      {
+        "en": "I trust him completely.",
+        "bn": "আমি তাকে সম্পূর্ণ বিশ্বাস করি।"
+      },
+      {
+        "en": "Trust is important in relationships.",
+        "bn": "সম্পর্কে বিশ্বাস গুরুত্বপূর্ণ।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She lost trust in him.", "bn": "সে তার ওপর বিশ্বাস হারাল।" },
+      {
+        "en": "You can trust this system.",
+        "bn": "তুমি এই সিস্টেমে বিশ্বাস করতে পারো।"
+      },
+      {
+        "en": "They built trust over time.",
+        "bn": "তারা সময়ের সাথে বিশ্বাস তৈরি করল।"
+      },
+      {
+        "en": "Trust takes time to grow.",
+        "bn": "বিশ্বাস তৈরি হতে সময় লাগে।"
+      },
+      {
+        "en": "He trusted her decision.",
+        "bn": "সে তার সিদ্ধান্তে বিশ্বাস করল।"
+      },
+      {
+        "en": "Mutual trust is essential.",
+        "bn": "পারস্পরিক বিশ্বাস অপরিহার্য।"
+      }
+    ],
+    "synonyms": ["faith", "belief", "confidence"]
   }
 ]

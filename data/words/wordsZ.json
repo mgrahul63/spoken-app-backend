@@ -1,0 +1,407 @@
+[
+  {
+    "base": "zebra",
+    "phonetic": "ˈzebrə",
+    "meaning": "জেব্রা (একটি প্রাণী)",
+    "examples": [
+      { "en": "The zebra is black and white.", "bn": "জেব্রা কালো ও সাদা।" }
+    ],
+    "moreexample": [
+      { "en": "The zebra runs fast.", "bn": "জেব্রা দ্রুত দৌড়ায়।" },
+      {
+        "en": "We saw a zebra at the zoo.",
+        "bn": "আমরা চিড়িয়াখানায় একটি জেব্রা দেখেছি।"
+      },
+      { "en": "The zebra has stripes.", "bn": "জেব্রার ডোরা আছে।" },
+      { "en": "Zebras live in Africa.", "bn": "জেব্রা আফ্রিকায় বাস করে।" },
+      { "en": "The zebra is an animal.", "bn": "জেব্রা একটি প্রাণী।" },
+      { "en": "Children like zebras.", "bn": "শিশুরা জেব্রা পছন্দ করে।" },
+      { "en": "The zebra crossed the road.", "bn": "জেব্রাটি রাস্তা পার হলো।" },
+      { "en": "Zebras travel in groups.", "bn": "জেব্রারা দলে চলাফেরা করে।" },
+      { "en": "The zebra stood still.", "bn": "জেব্রাটি স্থির দাঁড়িয়ে ছিল।" },
+      { "en": "Zebras are wild animals.", "bn": "জেব্রা বন্য প্রাণী।" }
+    ],
+    "synonyms": ["wild horse-like animal"]
+  },
+  {
+    "base": "zero",
+    "phonetic": "ˈzɪərəʊ",
+    "meaning": "শূন্য",
+    "examples": [{ "en": "The answer is zero.", "bn": "উত্তর শূন্য।" }],
+    "moreexample": [
+      { "en": "He scored zero.", "bn": "সে শূন্য পেয়েছে।" },
+      {
+        "en": "Temperature dropped to zero.",
+        "bn": "তাপমাত্রা শূন্যে নেমে গেল।"
+      },
+      { "en": "Start from zero.", "bn": "শূন্য থেকে শুরু করো।" },
+      { "en": "There is zero chance.", "bn": "এখানে কোনো সম্ভাবনা নেই।" },
+      { "en": "She got zero marks.", "bn": "সে শূন্য নম্বর পেয়েছে।" },
+      { "en": "Zero means nothing.", "bn": "শূন্য মানে কিছুই না।" },
+      { "en": "The balance is zero.", "bn": "ব্যালেন্স শূন্য।" },
+      { "en": "He returned to zero.", "bn": "সে আবার শূন্যে ফিরে গেল।" },
+      { "en": "Zero error is ideal.", "bn": "শূন্য ভুল আদর্শ।" },
+      { "en": "They reset to zero.", "bn": "তারা শূন্যে রিসেট করল।" }
+    ],
+    "synonyms": ["nil", "nothing", "none"]
+  },
+  {
+    "base": "zone",
+    "phonetic": "zəʊn",
+    "meaning": "অঞ্চল / এলাকা",
+    "examples": [
+      { "en": "This is a safe zone.", "bn": "এটি একটি নিরাপদ এলাকা।" }
+    ],
+    "moreexample": [
+      { "en": "The school zone is quiet.", "bn": "স্কুল এলাকা শান্ত।" },
+      { "en": "Enter the danger zone.", "bn": "বিপজ্জনক অঞ্চলে প্রবেশ করো।" },
+      { "en": "This zone is restricted.", "bn": "এই এলাকা নিষিদ্ধ।" },
+      { "en": "He moved into another zone.", "bn": "সে অন্য অঞ্চলে চলে গেল।" },
+      { "en": "The parking zone is full.", "bn": "পার্কিং এলাকা পূর্ণ।" },
+      { "en": "Stay in your zone.", "bn": "তোমার এলাকায় থাকো।" },
+      { "en": "This is a free zone.", "bn": "এটি একটি মুক্ত এলাকা।" },
+      { "en": "The zone is controlled.", "bn": "এলাকাটি নিয়ন্ত্রিত।" },
+      { "en": "They entered the zone.", "bn": "তারা এলাকায় প্রবেশ করল।" },
+      {
+        "en": "Different zones have rules.",
+        "bn": "বিভিন্ন অঞ্চলের নিয়ম আলাদা।"
+      }
+    ],
+    "synonyms": ["area", "region", "district"]
+  },
+  {
+    "base": "zeal",
+    "phonetic": "ziːl",
+    "meaning": "উদ্দীপনা / আগ্রহ",
+    "examples": [
+      { "en": "He works with zeal.", "bn": "সে উদ্দীপনার সাথে কাজ করে।" }
+    ],
+    "moreexample": [
+      { "en": "She showed great zeal.", "bn": "সে অনেক উদ্দীপনা দেখাল।" },
+      { "en": "He studies with zeal.", "bn": "সে আগ্রহ নিয়ে পড়ে।" },
+      {
+        "en": "Their zeal impressed everyone.",
+        "bn": "তাদের উদ্দীপনা সবাইকে মুগ্ধ করল।"
+      },
+      { "en": "Zeal brings success.", "bn": "উদ্দীপনা সাফল্য আনে।" },
+      { "en": "He has zeal for learning.", "bn": "তার শেখার জন্য আগ্রহ আছে।" },
+      { "en": "She lost her zeal.", "bn": "সে তার আগ্রহ হারাল।" },
+      {
+        "en": "Zeal is important in life.",
+        "bn": "জীবনে উদ্দীপনা গুরুত্বপূর্ণ।"
+      },
+      { "en": "They work with zeal.", "bn": "তারা উদ্দীপনার সাথে কাজ করে।" },
+      { "en": "His zeal is strong.", "bn": "তার উদ্দীপনা শক্তিশালী।" },
+      {
+        "en": "Zeal leads to achievement.",
+        "bn": "উদ্দীপনা অর্জনের দিকে নিয়ে যায়।"
+      }
+    ],
+    "synonyms": ["enthusiasm", "passion", "energy"]
+  },
+
+  {
+    "base": "zigzag",
+    "phonetic": "ˈzɪɡzæɡ",
+    "meaning": "জিগজ্যাগ / আঁকাবাঁকা",
+    "examples": [
+      {
+        "en": "The road goes in a zigzag path. It is not straight at all.",
+        "bn": "রাস্তাটি আঁকাবাঁকা পথে গেছে। এটি একদম সোজা নয়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He drew a zigzag line on paper. The line had many turns.",
+        "bn": "সে কাগজে একটি জিগজ্যাগ লাইন আঁকল। লাইনে অনেক বাঁক ছিল।"
+      },
+      {
+        "en": "The lightning moved in a zigzag shape. It looked scary.",
+        "bn": "বজ্রপাত জিগজ্যাগ আকারে নড়ল। এটি ভয়ঙ্কর দেখাচ্ছিল।"
+      },
+      {
+        "en": "We walked in a zigzag direction. The path was confusing.",
+        "bn": "আমরা আঁকাবাঁকা পথে হাঁটলাম। পথটি বিভ্রান্তিকর ছিল।"
+      },
+      {
+        "en": "The dancer moved in zigzag steps. The moves were fast.",
+        "bn": "নৃত্যশিল্পী জিগজ্যাগ স্টেপে নাচল। নড়াচড়াগুলো দ্রুত ছিল।"
+      },
+      {
+        "en": "The car left a zigzag trail. The path was unusual.",
+        "bn": "গাড়িটি জিগজ্যাগ পথ রেখে গেল। পথটি অস্বাভাবিক ছিল।"
+      },
+      {
+        "en": "The river flows in a zigzag form. It is not straight.",
+        "bn": "নদীটি আঁকাবাঁকা ভাবে প্রবাহিত হয়। এটি সোজা নয়।"
+      },
+      {
+        "en": "Children ran in a zigzag pattern. They were playing.",
+        "bn": "শিশুরা জিগজ্যাগভাবে দৌড়াল। তারা খেলছিল।"
+      },
+      {
+        "en": "The road zigzags through hills. It climbs slowly.",
+        "bn": "রাস্তাটি পাহাড়ের মধ্যে আঁকাবাঁকা। এটি ধীরে ওঠে।"
+      },
+      {
+        "en": "He moved in zigzag motion. It was unpredictable.",
+        "bn": "সে জিগজ্যাগভাবে নড়ল। এটি অনুমান করা কঠিন ছিল।"
+      },
+      {
+        "en": "The snake moved in zigzag style. It looked smooth.",
+        "bn": "সাপটি জিগজ্যাগভাবে চলল। এটি মসৃণ দেখাচ্ছিল।"
+      }
+    ],
+    "synonyms": ["s-shaped", "wavy", "crooked"]
+  },
+  {
+    "base": "zenith",
+    "phonetic": "ˈzenɪθ",
+    "meaning": "চূড়া / সর্বোচ্চ বিন্দু",
+    "examples": [
+      {
+        "en": "He reached the zenith of success. It was his peak moment.",
+        "bn": "সে সাফল্যের চূড়ায় পৌঁছাল। এটি ছিল তার শীর্ষ মুহূর্ত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The sun is at its zenith. It is directly above us.",
+        "bn": "সূর্য তার চূড়ায় আছে। এটি সরাসরি মাথার উপরে।"
+      },
+      {
+        "en": "Her career reached its zenith. She was very successful.",
+        "bn": "তার ক্যারিয়ার চূড়ায় পৌঁছাল। সে খুব সফল ছিল।"
+      },
+      {
+        "en": "The empire was at its zenith. It was very powerful.",
+        "bn": "সাম্রাজ্য তার চূড়ায় ছিল। এটি খুব শক্তিশালী ছিল।"
+      },
+      {
+        "en": "He achieved zenith performance. It was outstanding.",
+        "bn": "সে চূড়ান্ত পারফরম্যান্স অর্জন করল। এটি অসাধারণ ছিল।"
+      },
+      {
+        "en": "The moon reached zenith position. It looked bright.",
+        "bn": "চাঁদ চূড়া অবস্থানে পৌঁছাল। এটি উজ্জ্বল দেখাচ্ছিল।"
+      },
+      {
+        "en": "Her fame was at zenith level. Everyone knew her.",
+        "bn": "তার খ্যাতি শীর্ষে ছিল। সবাই তাকে চিনত।"
+      },
+      {
+        "en": "The company reached zenith growth. It expanded fast.",
+        "bn": "কোম্পানি শীর্ষ বৃদ্ধি অর্জন করল। এটি দ্রুত বেড়েছে।"
+      },
+      {
+        "en": "His power was at zenith. No one could match him.",
+        "bn": "তার ক্ষমতা শীর্ষে ছিল। কেউ তাকে সমান করতে পারত না।"
+      },
+      {
+        "en": "The culture reached its zenith. It was flourishing.",
+        "bn": "সংস্কৃতি তার চূড়ায় পৌঁছাল। এটি সমৃদ্ধ ছিল।"
+      },
+      {
+        "en": "She stood at zenith of her life. It was her best time.",
+        "bn": "সে জীবনের চূড়ায় ছিল। এটি তার সেরা সময় ছিল।"
+      }
+    ],
+    "synonyms": ["peak", "summit", "top"]
+  },
+  {
+    "base": "zest",
+    "phonetic": "zest",
+    "meaning": "উদ্দীপনা / আগ্রহ",
+    "examples": [
+      {
+        "en": "He lives life with zest. Every moment feels exciting.",
+        "bn": "সে উদ্দীপনা নিয়ে জীবন যাপন করে। প্রতিটি মুহূর্ত উত্তেজনাপূর্ণ লাগে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She works with great zest. Her energy is high.",
+        "bn": "সে অনেক উদ্দীপনা নিয়ে কাজ করে। তার শক্তি অনেক বেশি।"
+      },
+      {
+        "en": "He showed zest for learning. He enjoyed studying.",
+        "bn": "সে শেখার জন্য উদ্দীপনা দেখাল। সে পড়াশোনা উপভোগ করত।"
+      },
+      {
+        "en": "The team played with zest. They were very active.",
+        "bn": "দলটি উদ্দীপনা নিয়ে খেলল। তারা খুব সক্রিয় ছিল।"
+      },
+      {
+        "en": "She added zest to the class. It became lively.",
+        "bn": "সে ক্লাসে প্রাণ যোগ করল। এটি প্রাণবন্ত হয়ে উঠল।"
+      },
+      {
+        "en": "He has zest for travel. He loves exploring.",
+        "bn": "তার ভ্রমণের জন্য আগ্রহ আছে। সে ঘুরতে ভালোবাসে।"
+      },
+      {
+        "en": "Life needs zest and energy. It keeps us active.",
+        "bn": "জীবনে উদ্দীপনা ও শক্তি দরকার। এটি আমাদের সক্রিয় রাখে।"
+      },
+      {
+        "en": "She lost her zest for work. She felt tired.",
+        "bn": "সে কাজের আগ্রহ হারাল। সে ক্লান্ত অনুভব করল।"
+      },
+      {
+        "en": "He approaches tasks with zest. He enjoys challenges.",
+        "bn": "সে কাজগুলো উদ্দীপনা নিয়ে করে। সে চ্যালেঞ্জ উপভোগ করে।"
+      },
+      {
+        "en": "Zest makes life interesting. It removes boredom.",
+        "bn": "উদ্দীপনা জীবনকে আকর্ষণীয় করে। এটি বিরক্তি দূর করে।"
+      },
+      {
+        "en": "They work with zest every day. It keeps them motivated.",
+        "bn": "তারা প্রতিদিন উদ্দীপনা নিয়ে কাজ করে। এটি তাদের অনুপ্রাণিত রাখে।"
+      }
+    ],
+    "synonyms": ["enthusiasm", "energy", "passion"]
+  },
+
+  {
+    "base": "zip",
+    "phonetic": "zɪp",
+    "meaning": "দ্রুত চলা / জিপ (বন্ধ করা)",
+    "examples": [
+      {
+        "en": "He zipped up his jacket quickly.",
+        "bn": "সে দ্রুত তার জ্যাকেটের জিপ লাগাল।"
+      },
+      {
+        "en": "The car zipped past us.",
+        "bn": "গাড়িটি আমাদের পাশ দিয়ে দ্রুত চলে গেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She zipped the bag shut.",
+        "bn": "সে ব্যাগটি জিপ দিয়ে বন্ধ করল।"
+      },
+      { "en": "He zipped through the task.", "bn": "সে কাজটি দ্রুত শেষ করল।" },
+      {
+        "en": "The bird zipped across the sky.",
+        "bn": "পাখিটি আকাশ জুড়ে দ্রুত উড়ে গেল।"
+      },
+      {
+        "en": "They zipped around the city.",
+        "bn": "তারা শহরের মধ্যে দ্রুত ঘুরল।"
+      },
+      { "en": "She zipped her coat.", "bn": "সে তার কোট জিপ করল।" },
+      {
+        "en": "The bike zipped down the road.",
+        "bn": "বাইসাইকেলটি রাস্তা দিয়ে দ্রুত চলল।"
+      },
+      { "en": "He zipped his luggage.", "bn": "সে তার লাগেজ জিপ করল।" },
+      {
+        "en": "We zipped to the station.",
+        "bn": "আমরা দ্রুত স্টেশনে পৌঁছালাম।"
+      },
+      { "en": "The file zipped quickly.", "bn": "ফাইলটি দ্রুত কমপ্রেস হলো।" },
+      {
+        "en": "She zipped out of the room.",
+        "bn": "সে দ্রুত রুম থেকে বের হয়ে গেল।"
+      }
+    ],
+    "synonyms": ["speed", "rush", "close"]
+  },
+  {
+    "base": "zodiac",
+    "phonetic": "ˈzəʊdiæk",
+    "meaning": "রাশিচক্র",
+    "examples": [
+      { "en": "My zodiac sign is Leo.", "bn": "আমার রাশি লিও।" },
+      {
+        "en": "She believes in zodiac predictions.",
+        "bn": "সে রাশিফলে বিশ্বাস করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The zodiac has twelve signs.",
+        "bn": "রাশিচক্রে বারোটি রাশি আছে।"
+      },
+      { "en": "He reads zodiac charts.", "bn": "সে রাশিচক্র চার্ট পড়ে।" },
+      {
+        "en": "Zodiac signs describe personality.",
+        "bn": "রাশি ব্যক্তিত্ব বোঝায়।"
+      },
+      {
+        "en": "She follows zodiac advice.",
+        "bn": "সে রাশিফলের পরামর্শ অনুসরণ করে।"
+      },
+      {
+        "en": "The zodiac is ancient knowledge.",
+        "bn": "রাশিচক্র প্রাচীন জ্ঞান।"
+      },
+      {
+        "en": "They discussed zodiac compatibility.",
+        "bn": "তারা রাশির মিল নিয়ে আলোচনা করল।"
+      },
+      {
+        "en": "Zodiac signs change monthly.",
+        "bn": "রাশি মাসে মাসে পরিবর্তিত হয়।"
+      },
+      {
+        "en": "He is curious about zodiac.",
+        "bn": "সে রাশিচক্র নিয়ে কৌতূহলী।"
+      },
+      {
+        "en": "The zodiac is popular worldwide.",
+        "bn": "রাশিচক্র বিশ্বব্যাপী জনপ্রিয়।"
+      },
+      {
+        "en": "She checked her zodiac daily.",
+        "bn": "সে প্রতিদিন তার রাশিফল দেখে।"
+      }
+    ],
+    "synonyms": ["horoscope system", "astrology chart"]
+  },
+  {
+    "base": "zoom",
+    "phonetic": "zuːm",
+    "meaning": "দ্রুত এগোনো / বড় করে দেখা",
+    "examples": [
+      {
+        "en": "The camera zooms in on the face.",
+        "bn": "ক্যামেরা মুখের ওপর জুম করে।"
+      },
+      {
+        "en": "He zoomed past the finish line.",
+        "bn": "সে ফিনিশ লাইনের পাশ দিয়ে দ্রুত গেল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She zoomed into the picture.", "bn": "সে ছবিটি বড় করে দেখল।" },
+      { "en": "The car zoomed away.", "bn": "গাড়িটি দ্রুত চলে গেল।" },
+      {
+        "en": "He zoomed through traffic.",
+        "bn": "সে ট্রাফিকের মধ্যে দ্রুত চলল।"
+      },
+      {
+        "en": "We zoomed in on details.",
+        "bn": "আমরা বিস্তারিত অংশে জুম করলাম।"
+      },
+      {
+        "en": "The plane zoomed across the sky.",
+        "bn": "বিমানটি আকাশ জুড়ে দ্রুত গেল।"
+      },
+      {
+        "en": "She zoomed into the document.",
+        "bn": "সে ডকুমেন্ট বড় করে দেখল।"
+      },
+      { "en": "The athlete zoomed forward.", "bn": "অ্যাথলেটটি দ্রুত এগোল।" },
+      { "en": "The drone zoomed above.", "bn": "ড্রোনটি উপরে দ্রুত উড়ল।" },
+      {
+        "en": "He zoomed out to see the map.",
+        "bn": "সে ম্যাপ দেখার জন্য জুম আউট করল।"
+      },
+      { "en": "The video zooms smoothly.", "bn": "ভিডিওটি সুন্দরভাবে জুম হয়।" }
+    ],
+    "synonyms": ["speed", "rush", "magnify"]
+  }
+]

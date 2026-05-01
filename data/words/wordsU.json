@@ -1,0 +1,158 @@
+[
+  {
+    "base": "unfair",
+    "phonetic": "ʌnˈfeər",
+    "meaning": "অন্যায় / অবিচারপূর্ণ",
+    "examples": [
+      {
+        "en": "That decision was unfair.",
+        "bn": "সেই সিদ্ধান্তটি অন্যায় ছিল।"
+      },
+      { "en": "It is unfair to blame him.", "bn": "তাকে দোষ দেওয়া অন্যায়।" }
+    ],
+    "moreexample": [
+      { "en": "The rules feel unfair.", "bn": "নিয়মগুলো অন্যায় মনে হয়।" },
+      {
+        "en": "She faced unfair treatment.",
+        "bn": "সে অন্যায় আচরণের মুখোমুখি হলো।"
+      },
+      { "en": "It was an unfair game.", "bn": "এটি একটি অন্যায় খেলা ছিল।" },
+      {
+        "en": "He complained about unfair behavior.",
+        "bn": "সে অন্যায় আচরণের বিরুদ্ধে অভিযোগ করল।"
+      },
+      {
+        "en": "The system is unfair to students.",
+        "bn": "সিস্টেমটি শিক্ষার্থীদের প্রতি অন্যায়।"
+      },
+      {
+        "en": "They protested against unfair laws.",
+        "bn": "তারা অন্যায় আইনের বিরুদ্ধে প্রতিবাদ করল।"
+      }
+    ],
+    "synonyms": ["biased", "unjust", "inequitable"]
+  },
+
+  {
+    "base": "unfortunately",
+    "phonetic": "ʌnˈfɔːrtʃənətli",
+    "meaning": "দুর্ভাগ্যবশত",
+    "examples": [
+      {
+        "en": "Unfortunately, he missed the train.",
+        "bn": "দুর্ভাগ্যবশত সে ট্রেন মিস করল।"
+      },
+      {
+        "en": "Unfortunately, the event was canceled.",
+        "bn": "দুর্ভাগ্যবশত অনুষ্ঠানটি বাতিল করা হয়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Unfortunately, I cannot help you.",
+        "bn": "দুর্ভাগ্যবশত আমি তোমাকে সাহায্য করতে পারছি না।"
+      },
+      {
+        "en": "Unfortunately, it started raining.",
+        "bn": "দুর্ভাগ্যবশত বৃষ্টি শুরু হলো।"
+      },
+      {
+        "en": "Unfortunately, she was late.",
+        "bn": "দুর্ভাগ্যবশত সে দেরি করল।"
+      },
+      {
+        "en": "Unfortunately, we lost the match.",
+        "bn": "দুর্ভাগ্যবশত আমরা ম্যাচটি হেরে গেলাম।"
+      },
+      {
+        "en": "Unfortunately, the shop is closed.",
+        "bn": "দুর্ভাগ্যবশত দোকানটি বন্ধ।"
+      },
+      {
+        "en": "Unfortunately, the plan failed.",
+        "bn": "দুর্ভাগ্যবশত পরিকল্পনাটি ব্যর্থ হলো।"
+      }
+    ],
+    "synonyms": ["sadly", "regrettably"]
+  },
+
+  {
+    "base": "unforeseen",
+    "phonetic": "ˌʌnfɔːrˈsiːn",
+    "meaning": "অপ্রত্যাশিত",
+    "examples": [
+      {
+        "en": "Unforeseen events delayed the project.",
+        "bn": "অপ্রত্যাশিত ঘটনা প্রকল্পটি বিলম্বিত করল।"
+      },
+      {
+        "en": "We faced unforeseen problems.",
+        "bn": "আমরা অপ্রত্যাশিত সমস্যার মুখোমুখি হলাম।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Unforeseen circumstances changed the plan.",
+        "bn": "অপ্রত্যাশিত পরিস্থিতি পরিকল্পনা বদলে দিল।"
+      },
+      {
+        "en": "The trip had unforeseen delays.",
+        "bn": "ভ্রমণে অপ্রত্যাশিত বিলম্ব ছিল।"
+      },
+      {
+        "en": "Unforeseen risks appeared suddenly.",
+        "bn": "অপ্রত্যাশিত ঝুঁকি হঠাৎ দেখা দিল।"
+      },
+      {
+        "en": "The accident was unforeseen.",
+        "bn": "দুর্ঘটনাটি অপ্রত্যাশিত ছিল।"
+      },
+      {
+        "en": "Unforeseen issues caused stress.",
+        "bn": "অপ্রত্যাশিত সমস্যা চাপ তৈরি করল।"
+      },
+      {
+        "en": "We must prepare for unforeseen events.",
+        "bn": "আমাদের অপ্রত্যাশিত ঘটনার জন্য প্রস্তুত থাকতে হবে।"
+      }
+    ],
+    "synonyms": ["unexpected", "unplanned"]
+  },
+
+  {
+    "base": "upper",
+    "phonetic": "ˈʌpər",
+    "meaning": "উপরের / উচ্চতর",
+    "examples": [
+      { "en": "The upper floor is closed.", "bn": "উপরের তলাটি বন্ধ।" },
+      { "en": "He climbed to the upper level.", "bn": "সে উপরের স্তরে উঠল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The upper part of the building is new.",
+        "bn": "ভবনের উপরের অংশটি নতুন।"
+      },
+      {
+        "en": "She reached the upper shelf.",
+        "bn": "সে উপরের তাক পর্যন্ত পৌঁছাল।"
+      },
+      {
+        "en": "Upper management made the decision.",
+        "bn": "উচ্চ ব্যবস্থাপনা সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "The upper limit was set.",
+        "bn": "উচ্চ সীমা নির্ধারণ করা হয়েছিল।"
+      },
+      {
+        "en": "He looked at the upper sky.",
+        "bn": "সে আকাশের উপরের দিকে তাকাল।"
+      },
+      {
+        "en": "Upper grades require more effort.",
+        "bn": "উচ্চ শ্রেণিতে আরও প্রচেষ্টা দরকার।"
+      }
+    ],
+    "synonyms": ["higher", "top", "above"]
+  }
+]

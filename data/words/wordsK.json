@@ -1,0 +1,257 @@
+[
+  {
+    "base": "keen",
+    "phonetic": "kiːn",
+    "meaning": "উৎসুক / তীক্ষ্ণ / আগ্রহী",
+    "examples": [
+      {
+        "en": "She is keen to learn English.",
+        "bn": "সে ইংরেজি শিখতে আগ্রহী।"
+      },
+      { "en": "He has a keen mind.", "bn": "তার তীক্ষ্ণ বুদ্ধি আছে।" }
+    ],
+    "moreexample": [
+      { "en": "I am keen on sports.", "bn": "আমি খেলাধুলায় আগ্রহী।" },
+      {
+        "en": "She has a keen interest in music.",
+        "bn": "তার সঙ্গীতে গভীর আগ্রহ আছে।"
+      },
+      { "en": "The knife is very keen.", "bn": "ছুরিটি খুব ধারালো।" },
+      { "en": "He is a keen observer.", "bn": "সে একজন তীক্ষ্ণ পর্যবেক্ষক।" },
+      { "en": "They are keen to start.", "bn": "তারা শুরু করতে আগ্রহী।" },
+      { "en": "She showed keen attention.", "bn": "সে তীক্ষ্ণ মনোযোগ দেখাল।" }
+    ],
+    "synonyms": ["eager", "sharp", "enthusiastic"]
+  },
+
+  {
+    "base": "kind",
+    "phonetic": "kaɪnd",
+    "meaning": "দয়ালু",
+    "examples": [
+      { "en": "She is a kind person.", "bn": "সে একজন দয়ালু মানুষ।" },
+      { "en": "He was kind to everyone.", "bn": "সে সবার প্রতি দয়ালু ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Kind people help others.",
+        "bn": "দয়ালু মানুষ অন্যদের সাহায্য করে।"
+      },
+      { "en": "She gave a kind smile.", "bn": "সে একটি দয়ালু হাসি দিল।" },
+      { "en": "It was very kind of him.", "bn": "এটি তার খুব দয়ালু কাজ ছিল।" },
+      { "en": "Kind words heal hearts.", "bn": "দয়ালু কথা হৃদয়কে ভালো করে।" },
+      { "en": "He has a kind nature.", "bn": "তার স্বভাব দয়ালু।" },
+      {
+        "en": "They treated me kindly.",
+        "bn": "তারা আমাকে দয়ালুভাবে আচরণ করল।"
+      }
+    ],
+    "synonyms": ["gentle", "caring", "friendly"]
+  },
+
+  {
+    "base": "keep",
+    "phonetic": "kiːp",
+    "meaning": "রাখা / ধরে রাখা",
+    "examples": [
+      { "en": "Keep your promise.", "bn": "তোমার প্রতিশ্রুতি রাখো।" },
+      { "en": "She keeps her books clean.", "bn": "সে তার বই পরিষ্কার রাখে।" }
+    ],
+    "moreexample": [
+      { "en": "Keep quiet.", "bn": "চুপ থাকো।" },
+      { "en": "He kept the secret.", "bn": "সে গোপন কথা রেখেছিল।" },
+      { "en": "Keep trying.", "bn": "চেষ্টা চালিয়ে যাও।" },
+      { "en": "She keeps her room tidy.", "bn": "সে তার ঘর পরিষ্কার রাখে।" },
+      { "en": "Keep the door closed.", "bn": "দরজা বন্ধ রাখো।" },
+      { "en": "They kept in touch.", "bn": "তারা যোগাযোগ বজায় রাখল।" }
+    ],
+    "synonyms": ["hold", "maintain", "retain"]
+  },
+
+  {
+    "base": "knowledgeable",
+    "phonetic": "ˈnɒlɪdʒəbl",
+    "meaning": "জ্ঞানসম্পন্ন",
+    "examples": [
+      {
+        "en": "He is a knowledgeable teacher.",
+        "bn": "সে একজন জ্ঞানসম্পন্ন শিক্ষক।"
+      },
+      {
+        "en": "She is knowledgeable about science.",
+        "bn": "সে বিজ্ঞানে জ্ঞানসম্পন্ন।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He is very knowledgeable.", "bn": "সে খুব জ্ঞানসম্পন্ন।" },
+      {
+        "en": "She gave a knowledgeable answer.",
+        "bn": "সে একটি জ্ঞানপূর্ণ উত্তর দিল।"
+      },
+      {
+        "en": "Knowledgeable people think clearly.",
+        "bn": "জ্ঞানসম্পন্ন মানুষ স্পষ্টভাবে চিন্তা করে।"
+      },
+      {
+        "en": "The guide was knowledgeable.",
+        "bn": "গাইডটি জ্ঞানসম্পন্ন ছিল।"
+      },
+      {
+        "en": "He is knowledgeable in history.",
+        "bn": "সে ইতিহাসে জ্ঞানসম্পন্ন।"
+      },
+      {
+        "en": "They are knowledgeable experts.",
+        "bn": "তারা জ্ঞানসম্পন্ন বিশেষজ্ঞ।"
+      }
+    ],
+    "synonyms": ["well-informed", "educated", "skilled"]
+  },
+
+  {
+    "base": "kick",
+    "phonetic": "kɪk",
+    "meaning": "লাথি মারা",
+    "examples": [
+      { "en": "He kicked the ball.", "bn": "সে বলটি লাথি মারল।" },
+      { "en": "The horse kicked him.", "bn": "ঘোড়াটি তাকে লাথি মারল।" }
+    ],
+    "moreexample": [
+      { "en": "She kicked the door.", "bn": "সে দরজায় লাথি মারল।" },
+      { "en": "He kicked out of frustration.", "bn": "সে হতাশায় লাথি মারল।" },
+      { "en": "They kicked the ball hard.", "bn": "তারা জোরে বলটি লাথি মারল।" },
+      { "en": "The child kicked happily.", "bn": "শিশুটি আনন্দে লাথি মারল।" },
+      {
+        "en": "He kicked the stone away.",
+        "bn": "সে পাথরটি লাথি দিয়ে সরিয়ে দিল।"
+      },
+      { "en": "She kicked lightly.", "bn": "সে হালকা লাথি মারল।" }
+    ],
+    "synonyms": ["strike", "hit", "boot"]
+  },
+
+  {
+    "base": "kindness",
+    "phonetic": "ˈkaɪndnəs",
+    "meaning": "দয়ালুতা",
+    "examples": [
+      {
+        "en": "Kindness makes the world better.",
+        "bn": "দয়ালুতা পৃথিবীকে ভালো করে তোলে।"
+      },
+      { "en": "She showed great kindness.", "bn": "সে বড় দয়ালুতা দেখাল।" }
+    ],
+    "moreexample": [
+      { "en": "Kindness costs nothing.", "bn": "দয়ালুতা কোনো খরচ করে না।" },
+      { "en": "He acted with kindness.", "bn": "সে দয়ালুভাবে আচরণ করল।" },
+      { "en": "Kindness spreads happiness.", "bn": "দয়ালুতা সুখ ছড়ায়।" },
+      {
+        "en": "She remembered his kindness.",
+        "bn": "সে তার দয়ালুতা মনে রাখল।"
+      },
+      { "en": "Kindness is powerful.", "bn": "দয়ালুতা শক্তিশালী।" },
+      { "en": "They rewarded kindness.", "bn": "তারা দয়ালুতা পুরস্কৃত করল।" }
+    ],
+    "synonyms": ["goodness", "compassion", "gentleness"]
+  },
+
+  {
+    "base": "kingdom",
+    "phonetic": "ˈkɪŋdəm",
+    "meaning": "রাজ্য",
+    "examples": [
+      { "en": "He ruled a kingdom.", "bn": "সে একটি রাজ্য শাসন করত।" },
+      { "en": "The animal kingdom is vast.", "bn": "প্রাণীজগৎ বিশাল।" }
+    ],
+    "moreexample": [
+      { "en": "The kingdom was rich.", "bn": "রাজ্যটি ধনী ছিল।" },
+      {
+        "en": "She read about ancient kingdoms.",
+        "bn": "সে প্রাচীন রাজ্য সম্পর্কে পড়ল।"
+      },
+      { "en": "The kingdom fell.", "bn": "রাজ্যটি পতন হলো।" },
+      { "en": "They explored the kingdom.", "bn": "তারা রাজ্যটি অন্বেষণ করল।" },
+      { "en": "The kingdom expanded.", "bn": "রাজ্যটি বিস্তৃত হলো।" },
+      {
+        "en": "Animals belong to different kingdoms.",
+        "bn": "প্রাণীরা বিভিন্ন রাজ্যে বিভক্ত।"
+      }
+    ],
+    "synonyms": ["realm", "domain", "state"]
+  },
+
+  {
+    "base": "knock",
+    "phonetic": "nɒk",
+    "meaning": "ঠকঠক করা / আঘাত করা",
+    "examples": [
+      { "en": "He knocked on the door.", "bn": "সে দরজায় ঠকঠক করল।" },
+      { "en": "Don’t knock the table.", "bn": "টেবিলে আঘাত কোরো না।" }
+    ],
+    "moreexample": [
+      { "en": "She knocked loudly.", "bn": "সে জোরে ঠকঠক করল।" },
+      { "en": "He knocked the glass over.", "bn": "সে গ্লাস ফেলে দিল।" },
+      {
+        "en": "They knocked at midnight.",
+        "bn": "তারা মধ্যরাতে দরজায় ঠকঠক করল।"
+      },
+      {
+        "en": "I knocked before entering.",
+        "bn": "আমি ঢোকার আগে দরজায় ঠকঠক করলাম।"
+      },
+      { "en": "The ball knocked him down.", "bn": "বলটি তাকে ফেলে দিল।" },
+      { "en": "She knocked softly.", "bn": "সে আস্তে করে ঠকঠক করল।" }
+    ],
+    "synonyms": ["tap", "strike", "hit"]
+  },
+
+  {
+    "base": "knot",
+    "phonetic": "nɒt",
+    "meaning": "গিঁট / জট",
+    "examples": [
+      { "en": "Tie a knot in the rope.", "bn": "দড়িতে একটি গিঁট বাঁধো।" },
+      { "en": "My shoelace has a knot.", "bn": "আমার জুতার ফিতে জট বেঁধেছে।" }
+    ],
+    "moreexample": [
+      { "en": "He tied a strong knot.", "bn": "সে শক্ত গিঁট বাঁধল।" },
+      { "en": "The rope has many knots.", "bn": "দড়িতে অনেক গিঁট আছে।" },
+      { "en": "She made a knot quickly.", "bn": "সে দ্রুত একটি গিঁট বানাল।" },
+      { "en": "The knot is tight.", "bn": "গিঁটটি শক্ত।" },
+      { "en": "He untied the knot.", "bn": "সে গিঁট খুলল।" },
+      { "en": "Knots are useful in climbing.", "bn": "গিঁট আরোহনে কাজে লাগে।" }
+    ],
+    "synonyms": ["tie", "loop", "bind"]
+  },
+
+  {
+    "base": "knowingly",
+    "phonetic": "ˈnəʊɪŋli",
+    "meaning": "ইচ্ছাকৃতভাবে / জেনে বুঝে",
+    "examples": [
+      { "en": "He knowingly lied.", "bn": "সে জেনে বুঝে মিথ্যা বলল।" },
+      {
+        "en": "She knowingly ignored the rule.",
+        "bn": "সে ইচ্ছাকৃতভাবে নিয়ম উপেক্ষা করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He knowingly broke the law.", "bn": "সে জেনে বুঝে আইন ভাঙল।" },
+      {
+        "en": "She knowingly helped him.",
+        "bn": "সে ইচ্ছাকৃতভাবে তাকে সাহায্য করল।"
+      },
+      {
+        "en": "They knowingly avoided danger.",
+        "bn": "তারা জেনে বুঝে বিপদ এড়াল।"
+      },
+      { "en": "He knowingly stayed silent.", "bn": "সে ইচ্ছাকৃতভাবে চুপ ছিল।" },
+      { "en": "She knowingly made a mistake.", "bn": "সে জেনে বুঝে ভুল করল।" },
+      {
+        "en": "They knowingly broke rules.",
+        "bn": "তারা জেনে বুঝে নিয়ম ভাঙল।"
+      }
+    ],
+    "synonyms": ["intentionally", "deliberately", "consciously"]
+  }
+]

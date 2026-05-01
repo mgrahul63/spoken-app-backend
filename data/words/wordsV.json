@@ -1,0 +1,75 @@
+[
+  {
+    "base": "vehicle",
+    "phonetic": "ˈviːəkl",
+    "meaning": "যানবাহন",
+    "examples": [
+      { "en": "This vehicle is very fast.", "bn": "এই যানবাহনটি খুব দ্রুত।" },
+      {
+        "en": "He drives a small vehicle.",
+        "bn": "সে একটি ছোট যানবাহন চালায়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The vehicle stopped suddenly.",
+        "bn": "যানবাহনটি হঠাৎ থেমে গেল।"
+      },
+      {
+        "en": "Electric vehicles are popular.",
+        "bn": "ইলেকট্রিক যানবাহন জনপ্রিয়।"
+      },
+      {
+        "en": "The vehicle entered the city.",
+        "bn": "যানবাহনটি শহরে প্রবেশ করল।"
+      },
+      {
+        "en": "They repaired the vehicle.",
+        "bn": "তারা যানবাহনটি মেরামত করল।"
+      },
+      { "en": "The vehicle carried goods.", "bn": "যানবাহনটি পণ্য বহন করল।" },
+      {
+        "en": "Safety of the vehicle is important.",
+        "bn": "যানবাহনের নিরাপত্তা গুরুত্বপূর্ণ।"
+      }
+    ],
+    "synonyms": ["transport", "conveyance"]
+  },
+
+  {
+    "base": "visible",
+    "phonetic": "ˈvɪzəbl",
+    "meaning": "দৃশ্যমান",
+    "examples": [
+      {
+        "en": "The stars are visible at night.",
+        "bn": "রাতে তারা দৃশ্যমান থাকে।"
+      },
+      {
+        "en": "The mountain is visible from here.",
+        "bn": "এখান থেকে পাহাড়টি দেখা যায়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The damage is clearly visible.",
+        "bn": "ক্ষতিটি স্পষ্টভাবে দৃশ্যমান।"
+      },
+      {
+        "en": "He became visible in the crowd.",
+        "bn": "সে ভিড়ের মধ্যে দৃশ্যমান হলো।"
+      },
+      {
+        "en": "The writing is barely visible.",
+        "bn": "লেখাটি খুব কম দেখা যায়।"
+      },
+      {
+        "en": "Pollution is visible in the sky.",
+        "bn": "আকাশে দূষণ দেখা যায়।"
+      },
+      { "en": "Her emotions were visible.", "bn": "তার অনুভূতি দৃশ্যমান ছিল।" },
+      { "en": "The effect is visible now.", "bn": "প্রভাবটি এখন দৃশ্যমান।" }
+    ],
+    "synonyms": ["clear", "noticeable", "observable"]
+  }
+]
