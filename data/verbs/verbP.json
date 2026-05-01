@@ -1,0 +1,62 @@
+[
+  {
+    "base": "pay",
+    "phonetic": "peɪ",
+    "v2": "paid",
+    "v3": "paid",
+    "meaning": "পেমেন্ট করা",
+    "examples": [
+      {
+        "en": "I pay bill.",
+        "bn": ""
+      },
+      {
+        "en": "She pays rent.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He paid money.",
+        "bn": ""
+      },
+      {
+        "en": "They have paid bill.",
+        "bn": ""
+      },
+      {
+        "en": "I am paying now.",
+        "bn": ""
+      },
+      {
+        "en": "She paid rent.",
+        "bn": ""
+      },
+      {
+        "en": "We pay fees.",
+        "bn": ""
+      },
+      {
+        "en": "They paid cost.",
+        "bn": ""
+      },
+      {
+        "en": "I paid online.",
+        "bn": ""
+      },
+      {
+        "en": "He is paying.",
+        "bn": ""
+      },
+      {
+        "en": "She pays tax.",
+        "bn": ""
+      },
+      {
+        "en": "They pay daily.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["settle", "compensate", "remit"]
+  }
+]

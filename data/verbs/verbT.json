@@ -1,0 +1,370 @@
+[
+  {
+    "base": "take",
+    "phonetic": "teɪk",
+    "v2": "took",
+    "v3": "taken",
+    "meaning": "নেওয়া",
+    "examples": [
+      {
+        "en": "I take tea.",
+        "bn": ""
+      },
+      {
+        "en": "She takes medicine.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "I took a photo.",
+        "bn": ""
+      },
+      {
+        "en": "He has taken my book.",
+        "bn": ""
+      },
+      {
+        "en": "They take lessons daily.",
+        "bn": ""
+      },
+      {
+        "en": "She took my pen.",
+        "bn": ""
+      },
+      {
+        "en": "We take responsibility.",
+        "bn": ""
+      },
+      {
+        "en": "He is taking notes.",
+        "bn": ""
+      },
+      {
+        "en": "I will take a break.",
+        "bn": ""
+      },
+      {
+        "en": "She took the bus.",
+        "bn": ""
+      },
+      {
+        "en": "They have taken action.",
+        "bn": ""
+      },
+      {
+        "en": "He takes risks.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["grab", "carry", "bring", "accept", "capture"]
+  },
+  {
+    "base": "think",
+    "phonetic": "θɪŋk",
+    "v2": "thought",
+    "v3": "thought",
+    "meaning": "ভাবা",
+    "examples": [
+      {
+        "en": "I think deeply.",
+        "bn": ""
+      },
+      {
+        "en": "She thinks fast.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "I thought about it.",
+        "bn": ""
+      },
+      {
+        "en": "He has thought enough.",
+        "bn": ""
+      },
+      {
+        "en": "They think carefully.",
+        "bn": ""
+      },
+      {
+        "en": "She thought differently.",
+        "bn": ""
+      },
+      {
+        "en": "We think about future.",
+        "bn": ""
+      },
+      {
+        "en": "He is thinking now.",
+        "bn": ""
+      },
+      {
+        "en": "I thought yesterday.",
+        "bn": ""
+      },
+      {
+        "en": "They have thought hard.",
+        "bn": ""
+      },
+      {
+        "en": "She thinks wisely.",
+        "bn": ""
+      },
+      {
+        "en": "He thought quickly.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["consider", "ponder", "imagine", "reflect", "analyze"]
+  },
+  {
+    "base": "tolerate",
+    "phonetic": "ˈtɒləreɪt",
+    "v2": "tolerated",
+    "v3": "tolerated",
+    "meaning": "সহ্য করা / মেনে নেওয়া",
+    "examples": [
+      {
+        "en": "I cannot tolerate noise.",
+        "bn": ""
+      },
+      {
+        "en": "She tolerates bad behavior.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He cannot tolerate injustice.",
+        "bn": "সে অন্যায় সহ্য করতে পারে না।"
+      },
+      {
+        "en": "They tolerated the situation for years.",
+        "bn": "তারা বহু বছর ধরে পরিস্থিতি সহ্য করেছে।"
+      },
+      {
+        "en": "She tolerates pain very well.",
+        "bn": "সে ব্যথা খুব ভালোভাবে সহ্য করতে পারে।"
+      },
+      {
+        "en": "I tolerate his behavior.",
+        "bn": "আমি তার আচরণ সহ্য করি।"
+      },
+      {
+        "en": "We cannot tolerate lies.",
+        "bn": "আমরা মিথ্যা সহ্য করতে পারি না।"
+      },
+      {
+        "en": "The teacher tolerated the mistake.",
+        "bn": "শিক্ষক ভুলটি সহ্য করেছিলেন।"
+      },
+      {
+        "en": "He is tolerating the treatment.",
+        "bn": "সে চিকিৎসা সহ্য করছে।"
+      },
+      {
+        "en": "They tolerate different opinions.",
+        "bn": "তারা ভিন্ন মতামত সহ্য করে।"
+      },
+      {
+        "en": "She tolerated the noise last night.",
+        "bn": "সে গত রাতে শব্দ সহ্য করেছে।"
+      },
+      {
+        "en": "I can't tolerate this anymore.",
+        "bn": "আমি আর এটা সহ্য করতে পারছি না।"
+      }
+    ],
+    "synonyms": ["endure", "bear", "accept", "stand", "put up with"]
+  },
+  {
+    "base": "torture",
+    "phonetic": "ˈtɔːrtʃər",
+    "v2": "tortured",
+    "v3": "tortured",
+    "meaning": "নির্যাতন করা / অত্যাচার করা",
+    "examples": [
+      {
+        "en": "The prisoners were tortured.",
+        "bn": ""
+      },
+      {
+        "en": "He tortures himself with bad thoughts.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They tortured the captured soldier.",
+        "bn": ""
+      },
+      {
+        "en": "He was tortured during interrogation.",
+        "bn": ""
+      },
+      {
+        "en": "The villain tortures innocent people.",
+        "bn": ""
+      },
+      {
+        "en": "She feels tortured by memories.",
+        "bn": ""
+      },
+      {
+        "en": "They tortured him for information.",
+        "bn": ""
+      },
+      {
+        "en": "The animals were illegally tortured.",
+        "bn": ""
+      },
+      {
+        "en": "He tortures himself with guilt.",
+        "bn": ""
+      },
+      {
+        "en": "Victims were tortured in prison.",
+        "bn": ""
+      },
+      {
+        "en": "They tortured the suspect brutally.",
+        "bn": ""
+      },
+      {
+        "en": "The story describes how he was tortured.",
+        "bn": ""
+      },
+      {
+        "en": "He was mentally tortured for years.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["abuse", "harass", "maltreat", "oppress", "torment"]
+  },
+  {
+    "base": "touch",
+    "phonetic": "tʌtʃ",
+    "v2": "touched",
+    "v3": "touched",
+    "meaning": "ছোঁয়া",
+    "examples": [
+      {
+        "en": "I touch the wall.",
+        "bn": ""
+      },
+      {
+        "en": "She touches book.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He touched door.",
+        "bn": ""
+      },
+      {
+        "en": "They touch screen.",
+        "bn": ""
+      },
+      {
+        "en": "I am touching it.",
+        "bn": ""
+      },
+      {
+        "en": "She touched water.",
+        "bn": ""
+      },
+      {
+        "en": "We touch objects.",
+        "bn": ""
+      },
+      {
+        "en": "They have touched it.",
+        "bn": ""
+      },
+      {
+        "en": "I touched phone.",
+        "bn": ""
+      },
+      {
+        "en": "He is touching.",
+        "bn": ""
+      },
+      {
+        "en": "She touches soft things.",
+        "bn": ""
+      },
+      {
+        "en": "They touched glass.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["feel", "handle", "contact"]
+  },
+  {
+    "base": "trade",
+    "phonetic": "treɪd",
+    "v2": "traded",
+    "v3": "traded",
+    "meaning": "বাণিজ্য করা / আদান-প্রদান করা",
+    "examples": [
+      {
+        "en": "They trade goods in the market.",
+        "bn": ""
+      },
+      {
+        "en": "He trades with other countries.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "We traded old books.",
+        "bn": ""
+      },
+      {
+        "en": "They have traded products online.",
+        "bn": ""
+      },
+      {
+        "en": "She trades clothes with friends.",
+        "bn": ""
+      },
+      {
+        "en": "He traded his phone for a laptop.",
+        "bn": ""
+      },
+      {
+        "en": "Farmers trade crops in the village.",
+        "bn": ""
+      },
+      {
+        "en": "They are trading stocks today.",
+        "bn": ""
+      },
+      {
+        "en": "I traded my bike last year.",
+        "bn": ""
+      },
+      {
+        "en": "Businesses trade internationally.",
+        "bn": ""
+      },
+      {
+        "en": "He has traded many items.",
+        "bn": ""
+      },
+      {
+        "en": "We trade fairly in the market.",
+        "bn": ""
+      },
+      {
+        "en": "She traded gifts with her cousin.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["exchange", "barter", "swap", "deal", "negotiate"]
+  }
+]

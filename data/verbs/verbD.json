@@ -1,0 +1,62 @@
+[
+  {
+    "base": "drive",
+    "phonetic": "draɪv",
+    "v2": "drove",
+    "v3": "driven",
+    "meaning": "গাড়ি চালানো",
+    "examples": [
+      {
+        "en": "I drive car.",
+        "bn": ""
+      },
+      {
+        "en": "She drives fast.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He drove car.",
+        "bn": ""
+      },
+      {
+        "en": "They drive daily.",
+        "bn": ""
+      },
+      {
+        "en": "I am driving now.",
+        "bn": ""
+      },
+      {
+        "en": "She drove yesterday.",
+        "bn": ""
+      },
+      {
+        "en": "We drive safely.",
+        "bn": ""
+      },
+      {
+        "en": "They have driven it.",
+        "bn": ""
+      },
+      {
+        "en": "I drove home.",
+        "bn": ""
+      },
+      {
+        "en": "He is driving.",
+        "bn": ""
+      },
+      {
+        "en": "She drives carefully.",
+        "bn": ""
+      },
+      {
+        "en": "They drove fast.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["steer", "operate", "control"]
+  }
+]

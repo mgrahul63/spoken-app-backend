@@ -1,0 +1,62 @@
+[
+  {
+    "base": "know",
+    "phonetic": "noʊ",
+    "v2": "knew",
+    "v3": "known",
+    "meaning": "জানা",
+    "examples": [
+      {
+        "en": "I know him.",
+        "bn": ""
+      },
+      {
+        "en": "She knows English.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "I knew the answer.",
+        "bn": ""
+      },
+      {
+        "en": "They have known me.",
+        "bn": ""
+      },
+      {
+        "en": "He knows the truth.",
+        "bn": ""
+      },
+      {
+        "en": "She knew everything.",
+        "bn": ""
+      },
+      {
+        "en": "We know the rules.",
+        "bn": ""
+      },
+      {
+        "en": "I have known him long.",
+        "bn": ""
+      },
+      {
+        "en": "They knew the problem.",
+        "bn": ""
+      },
+      {
+        "en": "She knows math well.",
+        "bn": ""
+      },
+      {
+        "en": "He has known her.",
+        "bn": ""
+      },
+      {
+        "en": "I know the place.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["understand", "recognize", "realize", "comprehend"]
+  }
+]

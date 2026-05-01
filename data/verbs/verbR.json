@@ -1,0 +1,62 @@
+[
+  {
+    "base": "run",
+    "phonetic": "rʌn",
+    "v2": "ran",
+    "v3": "run",
+    "meaning": "দৌড়ানো",
+    "examples": [
+      {
+        "en": "I run every morning.",
+        "bn": ""
+      },
+      {
+        "en": "She runs fast.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He ran yesterday.",
+        "bn": ""
+      },
+      {
+        "en": "They run daily.",
+        "bn": ""
+      },
+      {
+        "en": "I am running now.",
+        "bn": ""
+      },
+      {
+        "en": "She runs in park.",
+        "bn": ""
+      },
+      {
+        "en": "We ran together.",
+        "bn": ""
+      },
+      {
+        "en": "He has run far.",
+        "bn": ""
+      },
+      {
+        "en": "They ran quickly.",
+        "bn": ""
+      },
+      {
+        "en": "I run fast.",
+        "bn": ""
+      },
+      {
+        "en": "She ran home.",
+        "bn": ""
+      },
+      {
+        "en": "He is running late.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["sprint", "jog", "rush", "move fast", "dash"]
+  }
+]

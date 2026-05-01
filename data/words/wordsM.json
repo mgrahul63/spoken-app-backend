@@ -1,0 +1,24 @@
+[
+  {
+    "base": "marry",
+    "phonetic": "ˈmæri",
+    "meaning": "বিয়ে করা",
+    "examples": [
+      { "en": "They will marry soon.", "bn": "" },
+      { "en": "She married last year.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He wants to marry her.", "bn": "" },
+      { "en": "They got married in June.", "bn": "" },
+      { "en": "I plan to marry someday.", "bn": "" },
+      { "en": "She married a kind man.", "bn": "" },
+      { "en": "We were married for ten years.", "bn": "" },
+      { "en": "He married his childhood friend.", "bn": "" },
+      { "en": "They are going to marry.", "bn": "" },
+      { "en": "I married young.", "bn": "" },
+      { "en": "She refused to marry him.", "bn": "" },
+      { "en": "He married quietly.", "bn": "" }
+    ],
+    "synonyms": ["wed", "get married", "tie the knot", "espouse", "unite"]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "base": "beautiful",
+    "phonetic": "ˈbjuːtɪfʊl",
+    "meaning": "সুন্দর",
+    "examples": [
+      { "en": "She is beautiful.", "bn": "" },
+      { "en": "This is a beautiful place.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "The sky looks beautiful today.", "bn": "" },
+      { "en": "It is a beautiful garden.", "bn": "" },
+      { "en": "She has a beautiful voice.", "bn": "" },
+      { "en": "The painting is very beautiful.", "bn": "" },
+      { "en": "We saw a beautiful view.", "bn": "" },
+      { "en": "This flower is beautiful.", "bn": "" },
+      { "en": "He drew a beautiful picture.", "bn": "" },
+      { "en": "The city is beautiful at night.", "bn": "" },
+      { "en": "She wore a beautiful dress.", "bn": "" },
+      { "en": "Nature is beautiful.", "bn": "" }
+    ],
+    "synonyms": ["attractive", "pretty", "lovely", "gorgeous", "handsome"]
+  },
+  {
+    "base": "book",
+    "phonetic": "bʊk",
+    "meaning": "বই",
+    "examples": [
+      { "en": "I read a book.", "bn": "" },
+      { "en": "This is my book.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "She bought a book.", "bn": "" },
+      { "en": "I love reading books.", "bn": "" },
+      { "en": "The book is interesting.", "bn": "" },
+      { "en": "He wrote a book.", "bn": "" },
+      { "en": "I opened the book.", "bn": "" },
+      { "en": "She borrowed a book.", "bn": "" },
+      { "en": "The book is old.", "bn": "" },
+      { "en": "I finished the book.", "bn": "" },
+      { "en": "Books are knowledge.", "bn": "" },
+      { "en": "He gave me a book.", "bn": "" }
+    ],
+    "synonyms": ["novel", "text", "volume", "publication"]
+  },
+  {
+    "base": "beautiful",
+    "phonetic": "ˈbjuːtɪfʊl",
+    "meaning": "সুন্দর",
+    "examples": [
+      { "en": "She is beautiful.", "bn": "" },
+      { "en": "This is a beautiful place.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "The sky looks beautiful today.", "bn": "" },
+      { "en": "It is a beautiful garden.", "bn": "" },
+      { "en": "She has a beautiful voice.", "bn": "" },
+      { "en": "The painting is very beautiful.", "bn": "" },
+      { "en": "We saw a beautiful view.", "bn": "" },
+      { "en": "This flower is beautiful.", "bn": "" },
+      { "en": "He drew a beautiful picture.", "bn": "" },
+      { "en": "The city is beautiful at night.", "bn": "" },
+      { "en": "She wore a beautiful dress.", "bn": "" },
+      { "en": "Nature is beautiful.", "bn": "" }
+    ],
+    "synonyms": ["attractive", "pretty", "lovely", "gorgeous", "handsome"]
+  },
+  {
+    "base": "berry",
+    "phonetic": "ˈberi",
+    "meaning": "বেরি ফল",
+    "examples": [
+      { "en": "I love eating berries.", "bn": "" },
+      { "en": "She picked a berry.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "The berry is sweet.", "bn": "" },
+      { "en": "He found berries in the forest.", "bn": "" },
+      { "en": "We picked berries from the bush.", "bn": "" },
+      { "en": "She made juice from berries.", "bn": "" },
+      { "en": "Berries are healthy to eat.", "bn": "" },
+      { "en": "He ate a handful of berries.", "bn": "" },
+      { "en": "The red berry is sweet.", "bn": "" },
+      { "en": "They collected berries together.", "bn": "" },
+      { "en": "She put berries in her salad.", "bn": "" },
+      { "en": "Wild berries grow in the forest.", "bn": "" }
+    ],
+    "synonyms": ["fruit", "blueberry", "strawberry", "raspberry", "currant"]
+  },
+  {
+    "base": "book",
+    "phonetic": "bʊk",
+    "meaning": "বই",
+    "examples": [
+      { "en": "I read a book.", "bn": "" },
+      { "en": "This is my book.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "She bought a book.", "bn": "" },
+      { "en": "I love reading books.", "bn": "" },
+      { "en": "The book is interesting.", "bn": "" },
+      { "en": "He wrote a book.", "bn": "" },
+      { "en": "I opened the book.", "bn": "" },
+      { "en": "She borrowed a book.", "bn": "" },
+      { "en": "The book is old.", "bn": "" },
+      { "en": "I finished the book.", "bn": "" },
+      { "en": "Books are knowledge.", "bn": "" },
+      { "en": "He gave me a book.", "bn": "" }
+    ],
+    "synonyms": ["novel", "text", "volume", "publication"]
+  }
+]

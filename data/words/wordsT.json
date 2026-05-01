@@ -1,0 +1,24 @@
+[
+  {
+    "base": "truth",
+    "phonetic": "truːθ",
+    "meaning": "সত্য",
+    "examples": [
+      { "en": "Tell the truth.", "bn": "" },
+      { "en": "The truth is important.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He always speaks the truth.", "bn": "" },
+      { "en": "They hid the truth.", "bn": "" },
+      { "en": "I want to know the truth.", "bn": "" },
+      { "en": "She told the truth.", "bn": "" },
+      { "en": "We must face the truth.", "bn": "" },
+      { "en": "He accepted the truth.", "bn": "" },
+      { "en": "The truth came out.", "bn": "" },
+      { "en": "I believe the truth.", "bn": "" },
+      { "en": "She hid the truth.", "bn": "" },
+      { "en": "Truth always wins.", "bn": "" }
+    ],
+    "synonyms": ["fact", "reality", "honesty", "accuracy", "sincerity"]
+  }
+]

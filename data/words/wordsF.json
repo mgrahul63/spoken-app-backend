@@ -1,0 +1,46 @@
+[
+  {
+    "base": "friend",
+    "phonetic": "frend",
+    "meaning": "বন্ধু",
+    "examples": [
+      { "en": "He is my friend.", "bn": "" },
+      { "en": "She is a good friend.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "I met my friend today.", "bn": "" },
+      { "en": "She is a close friend.", "bn": "" },
+      { "en": "Friends help each other.", "bn": "" },
+      { "en": "He lost his friend.", "bn": "" },
+      { "en": "We are best friends.", "bn": "" },
+      { "en": "My friend called me.", "bn": "" },
+      { "en": "She visited her friend.", "bn": "" },
+      { "en": "They became friends.", "bn": "" },
+      { "en": "A true friend is rare.", "bn": "" },
+      { "en": "He trusted his friend.", "bn": "" }
+    ],
+    "synonyms": ["companion", "mate", "buddy", "colleague"]
+  },
+  {
+    "base": "forest",
+    "phonetic": "ˈfɒrɪst",
+    "meaning": "বন / অরণ্য",
+    "examples": [
+      { "en": "We walked in the forest.", "bn": "" },
+      { "en": "The forest is very deep.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He got lost in the forest.", "bn": "" },
+      { "en": "Animals live in the forest.", "bn": "" },
+      { "en": "The forest is green.", "bn": "" },
+      { "en": "She explored the forest alone.", "bn": "" },
+      { "en": "We camped in the forest.", "bn": "" },
+      { "en": "The forest has many trees.", "bn": "" },
+      { "en": "He cut trees in the forest.", "bn": "" },
+      { "en": "Birds live in the forest.", "bn": "" },
+      { "en": "The forest was dark at night.", "bn": "" },
+      { "en": "They protected the forest.", "bn": "" }
+    ],
+    "synonyms": ["wood", "jungle", "woodland", "grove", "rainforest"]
+  }
+]

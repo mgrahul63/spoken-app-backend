@@ -1,0 +1,62 @@
+[
+  {
+    "base": "lose",
+    "phonetic": "luːz",
+    "v2": "lost",
+    "v3": "lost",
+    "meaning": "হারানো",
+    "examples": [
+      {
+        "en": "I lose my pen.",
+        "bn": ""
+      },
+      {
+        "en": "She loses keys.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He lost money.",
+        "bn": ""
+      },
+      {
+        "en": "They have lost game.",
+        "bn": ""
+      },
+      {
+        "en": "I am losing time.",
+        "bn": ""
+      },
+      {
+        "en": "She lost bag.",
+        "bn": ""
+      },
+      {
+        "en": "We lose hope.",
+        "bn": ""
+      },
+      {
+        "en": "They lost phone.",
+        "bn": ""
+      },
+      {
+        "en": "I lost ticket.",
+        "bn": ""
+      },
+      {
+        "en": "He is losing now.",
+        "bn": ""
+      },
+      {
+        "en": "She loses things.",
+        "bn": ""
+      },
+      {
+        "en": "They lost match.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["misplace", "fail", "forfeit"]
+  }
+]

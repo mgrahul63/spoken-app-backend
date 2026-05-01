@@ -1,0 +1,46 @@
+[
+  {
+    "base": "anymore",
+    "phonetic": "ˌeniˈmɔːr",
+    "meaning": "আর / এখন আর",
+    "examples": [
+      { "en": "I don't live there anymore.", "bn": "" },
+      { "en": "She doesn't call anymore.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He doesn't play anymore.", "bn": "" },
+      { "en": "They don't meet anymore.", "bn": "" },
+      { "en": "I can't wait anymore.", "bn": "" },
+      { "en": "She doesn't cry anymore.", "bn": "" },
+      { "en": "We don't talk anymore.", "bn": "" },
+      { "en": "He isn't here anymore.", "bn": "" },
+      { "en": "I don't care anymore.", "bn": "" },
+      { "en": "They don't work here anymore.", "bn": "" },
+      { "en": "She doesn't trust him anymore.", "bn": "" },
+      { "en": "I don't believe that anymore.", "bn": "" }
+    ],
+    "synonyms": ["no longer", "not any more", "not now", "no more"]
+  },
+  {
+    "base": "asleep",
+    "phonetic": "əˈsliːp",
+    "meaning": "ঘুমন্ত / ঘুমিয়ে",
+    "examples": [
+      { "en": "The baby is asleep.", "bn": "" },
+      { "en": "She fell asleep quickly.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He is fast asleep.", "bn": "" },
+      { "en": "They fell asleep early.", "bn": "" },
+      { "en": "I found him asleep.", "bn": "" },
+      { "en": "She was asleep all morning.", "bn": "" },
+      { "en": "The child is asleep now.", "bn": "" },
+      { "en": "He fell asleep on the sofa.", "bn": "" },
+      { "en": "I was asleep when he called.", "bn": "" },
+      { "en": "They are still asleep.", "bn": "" },
+      { "en": "She fell asleep during the movie.", "bn": "" },
+      { "en": "He was asleep by nine.", "bn": "" }
+    ],
+    "synonyms": ["sleeping", "dozing", "slumbering", "napping", "resting"]
+  }
+]

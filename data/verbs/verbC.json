@@ -1,0 +1,182 @@
+[
+  {
+    "base": "clean",
+    "phonetic": "kliːn",
+    "v2": "cleaned",
+    "v3": "cleaned",
+    "meaning": "পরিষ্কার করা",
+    "examples": [
+      {
+        "en": "I clean room.",
+        "bn": ""
+      },
+      {
+        "en": "He cleans house.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She cleaned floor.",
+        "bn": ""
+      },
+      {
+        "en": "They clean daily.",
+        "bn": ""
+      },
+      {
+        "en": "I am cleaning now.",
+        "bn": ""
+      },
+      {
+        "en": "He cleaned table.",
+        "bn": ""
+      },
+      {
+        "en": "We clean office.",
+        "bn": ""
+      },
+      {
+        "en": "They have cleaned it.",
+        "bn": ""
+      },
+      {
+        "en": "I cleaned car.",
+        "bn": ""
+      },
+      {
+        "en": "She is cleaning.",
+        "bn": ""
+      },
+      {
+        "en": "He cleans room.",
+        "bn": ""
+      },
+      {
+        "en": "They cleaned house.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["wash", "tidy", "sweep"]
+  },
+  {
+    "base": "close",
+    "phonetic": "kloʊz",
+    "v2": "closed",
+    "v3": "closed",
+    "meaning": "বন্ধ করা",
+    "examples": [
+      {
+        "en": "I close the door.",
+        "bn": ""
+      },
+      {
+        "en": "He closes shop.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She closed window.",
+        "bn": ""
+      },
+      {
+        "en": "They close shop.",
+        "bn": ""
+      },
+      {
+        "en": "I am closing it.",
+        "bn": ""
+      },
+      {
+        "en": "He closed gate.",
+        "bn": ""
+      },
+      {
+        "en": "We close daily.",
+        "bn": ""
+      },
+      {
+        "en": "They closed road.",
+        "bn": ""
+      },
+      {
+        "en": "I closed book.",
+        "bn": ""
+      },
+      {
+        "en": "She is closing box.",
+        "bn": ""
+      },
+      {
+        "en": "He closes door.",
+        "bn": ""
+      },
+      {
+        "en": "They have closed shop.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["shut", "seal", "lock"]
+  },
+  {
+    "base": "cut",
+    "phonetic": "kʌt",
+    "v2": "cut",
+    "v3": "cut",
+    "meaning": "কাটা",
+    "examples": [
+      {
+        "en": "I cut paper.",
+        "bn": ""
+      },
+      {
+        "en": "He cuts wood.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She cut hair.",
+        "bn": ""
+      },
+      {
+        "en": "They cut trees.",
+        "bn": ""
+      },
+      {
+        "en": "I am cutting now.",
+        "bn": ""
+      },
+      {
+        "en": "He cut rope.",
+        "bn": ""
+      },
+      {
+        "en": "We cut vegetables.",
+        "bn": ""
+      },
+      {
+        "en": "They have cut it.",
+        "bn": ""
+      },
+      {
+        "en": "I cut cloth.",
+        "bn": ""
+      },
+      {
+        "en": "She is cutting.",
+        "bn": ""
+      },
+      {
+        "en": "He cuts paper.",
+        "bn": ""
+      },
+      {
+        "en": "They cut cake.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["slice", "divide", "trim"]
+  }
+]

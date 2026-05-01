@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const learningData = require("../data/index");
+const learningData = require("../data/spokenLevel/index");
 
 router.get("/", (req, res) => {
   const summary = learningData.levels.map((level) => ({

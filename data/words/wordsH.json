@@ -1,0 +1,46 @@
+[
+  {
+    "base": "happiness",
+    "phonetic": "ˈhæpinəs",
+    "meaning": "সুখ",
+    "examples": [
+      { "en": "Happiness is important.", "bn": "" },
+      { "en": "Money cannot buy happiness.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "She found happiness in life.", "bn": "" },
+      { "en": "True happiness comes from within.", "bn": "" },
+      { "en": "Happiness makes life better.", "bn": "" },
+      { "en": "He smiled with happiness.", "bn": "" },
+      { "en": "Family brings happiness.", "bn": "" },
+      { "en": "Happiness is a choice.", "bn": "" },
+      { "en": "They shared their happiness.", "bn": "" },
+      { "en": "Success brought him happiness.", "bn": "" },
+      { "en": "Simple life gives happiness.", "bn": "" },
+      { "en": "She expressed happiness.", "bn": "" }
+    ],
+    "synonyms": ["joy", "pleasure", "bliss", "delight"]
+  },
+  {
+    "base": "happiness",
+    "phonetic": "ˈhæpinəs",
+    "meaning": "সুখ",
+    "examples": [
+      { "en": "Happiness is important.", "bn": "" },
+      { "en": "Money cannot buy happiness.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "She found happiness in life.", "bn": "" },
+      { "en": "True happiness comes from within.", "bn": "" },
+      { "en": "Happiness makes life better.", "bn": "" },
+      { "en": "He smiled with happiness.", "bn": "" },
+      { "en": "Family brings happiness.", "bn": "" },
+      { "en": "Happiness is a choice.", "bn": "" },
+      { "en": "They shared their happiness.", "bn": "" },
+      { "en": "Success brought him happiness.", "bn": "" },
+      { "en": "Simple life gives happiness.", "bn": "" },
+      { "en": "She expressed happiness.", "bn": "" }
+    ],
+    "synonyms": ["joy", "pleasure", "bliss", "delight"]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "base": "water",
+    "phonetic": "ˈwɔːtər",
+    "meaning": "পানি",
+    "examples": [
+      { "en": "I drink water.", "bn": "" },
+      { "en": "Water is clean.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "She drinks water daily.", "bn": "" },
+      { "en": "We need water to live.", "bn": "" },
+      { "en": "The water is cold.", "bn": "" },
+      { "en": "He spilled water.", "bn": "" },
+      { "en": "Clean water is important.", "bn": "" },
+      { "en": "I filled the bottle with water.", "bn": "" },
+      { "en": "Water is life.", "bn": "" },
+      { "en": "They drank water.", "bn": "" },
+      { "en": "Hot water is useful.", "bn": "" },
+      { "en": "The water flows fast.", "bn": "" }
+    ],
+    "synonyms": ["liquid", "fluid", "H2O"]
+  },
+  {
+    "base": "wake",
+    "phonetic": "weɪk",
+    "meaning": "জাগা",
+    "examples": [
+      { "en": "I wake up early.", "bn": "" },
+      { "en": "She wakes at 6.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He woke up late.", "bn": "" },
+      { "en": "They wake early.", "bn": "" },
+      { "en": "I am waking now.", "bn": "" },
+      { "en": "She woke yesterday.", "bn": "" },
+      { "en": "We wake daily.", "bn": "" },
+      { "en": "He has woken up.", "bn": "" },
+      { "en": "They woke together.", "bn": "" },
+      { "en": "I wake every day.", "bn": "" },
+      { "en": "She is waking now.", "bn": "" },
+      { "en": "He wakes early.", "bn": "" }
+    ],
+    "synonyms": ["rise", "get up", "arouse", "awaken", "stir"]
+  }
+]

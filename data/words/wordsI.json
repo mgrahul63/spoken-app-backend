@@ -1,0 +1,24 @@
+[
+  {
+    "base": "introduce",
+    "phonetic": "ˌɪntrəˈdjuːs",
+    "meaning": "পরিচয় করিয়ে দেওয়া",
+    "examples": [
+      { "en": "Let me introduce myself.", "bn": "" },
+      { "en": "She introduced her friend.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He introduced a new rule.", "bn": "" },
+      { "en": "They introduced themselves.", "bn": "" },
+      { "en": "I introduced him to my family.", "bn": "" },
+      { "en": "She introduced the topic.", "bn": "" },
+      { "en": "We introduced a new system.", "bn": "" },
+      { "en": "He is introducing the speaker.", "bn": "" },
+      { "en": "They introduced new products.", "bn": "" },
+      { "en": "I was introduced to her.", "bn": "" },
+      { "en": "She introduced the plan.", "bn": "" },
+      { "en": "He introduced his colleague.", "bn": "" }
+    ],
+    "synonyms": ["present", "acquaint", "launch", "initiate", "bring in"]
+  }
+]

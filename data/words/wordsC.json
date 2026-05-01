@@ -1,0 +1,90 @@
+[
+  {
+    "base": "collect",
+    "phonetic": "kəˈlekt",
+    "meaning": "সংগ্রহ করা",
+    "examples": [
+      { "en": "I collect stamps.", "bn": "" },
+      { "en": "She collects coins.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He collected old books.", "bn": "" },
+      { "en": "They collect rainwater.", "bn": "" },
+      { "en": "I am collecting data.", "bn": "" },
+      { "en": "She collected flowers.", "bn": "" },
+      { "en": "We collect donations.", "bn": "" },
+      { "en": "He collects rare items.", "bn": "" },
+      { "en": "They have collected enough.", "bn": "" },
+      { "en": "I collected leaves.", "bn": "" },
+      { "en": "She is collecting samples.", "bn": "" },
+      { "en": "He collected money for charity.", "bn": "" }
+    ],
+    "synonyms": ["gather", "accumulate", "assemble", "compile", "acquire"]
+  },
+  {
+    "base": "compete",
+    "phonetic": "kəmˈpiːt",
+    "meaning": "প্রতিযোগিতা করা",
+    "examples": [
+      { "en": "They compete every year.", "bn": "" },
+      { "en": "She loves to compete.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He competed in a race.", "bn": "" },
+      { "en": "They compete for the prize.", "bn": "" },
+      { "en": "I compete with my brother.", "bn": "" },
+      { "en": "She competed and won.", "bn": "" },
+      { "en": "We compete in sports.", "bn": "" },
+      { "en": "He competes every week.", "bn": "" },
+      { "en": "They have competed before.", "bn": "" },
+      { "en": "I am competing today.", "bn": "" },
+      { "en": "She competes bravely.", "bn": "" },
+      { "en": "He competed in the final.", "bn": "" }
+    ],
+    "synonyms": ["contest", "rival", "challenge", "participate", "strive"]
+  },
+  {
+    "base": "conversation",
+    "phonetic": "ˌkɒnvəˈseɪʃn",
+    "meaning": "কথোপকথন / আলাপ",
+    "examples": [
+      { "en": "We had a long conversation.", "bn": "" },
+      { "en": "She started a conversation.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He enjoyed the conversation.", "bn": "" },
+      { "en": "They had a serious conversation.", "bn": "" },
+      { "en": "I joined their conversation.", "bn": "" },
+      { "en": "She ended the conversation.", "bn": "" },
+      { "en": "We need to have a conversation.", "bn": "" },
+      { "en": "He avoided the conversation.", "bn": "" },
+      { "en": "Their conversation lasted hours.", "bn": "" },
+      { "en": "I started a conversation with him.", "bn": "" },
+      { "en": "She had a private conversation.", "bn": "" },
+      { "en": "The conversation was interesting.", "bn": "" }
+    ],
+    "synonyms": ["talk", "discussion", "dialogue", "chat", "exchange"]
+  },
+  {
+    "base": "creature",
+    "phonetic": "ˈkriːtʃər",
+    "meaning": "প্রাণী / জীব",
+    "examples": [
+      { "en": "It is a strange creature.", "bn": "" },
+      { "en": "Every creature has a life.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "The creature lives in water.", "bn": "" },
+      { "en": "He saw a small creature.", "bn": "" },
+      { "en": "Wild creatures are in the forest.", "bn": "" },
+      { "en": "She studied sea creatures.", "bn": "" },
+      { "en": "Every creature needs food.", "bn": "" },
+      { "en": "The creature was very large.", "bn": "" },
+      { "en": "He is a gentle creature.", "bn": "" },
+      { "en": "Creatures live in all habitats.", "bn": "" },
+      { "en": "She loves all living creatures.", "bn": "" },
+      { "en": "The creature hid in the dark.", "bn": "" }
+    ],
+    "synonyms": ["animal", "being", "organism", "living thing", "beast"]
+  }
+]

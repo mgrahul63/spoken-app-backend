@@ -1,0 +1,90 @@
+[
+  {
+    "base": "sail",
+    "phonetic": "seɪl",
+    "meaning": "পাল তোলা / নৌকা চালানো",
+    "examples": [
+      { "en": "They sail every weekend.", "bn": "" },
+      { "en": "He sailed across the sea.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "She learned to sail.", "bn": "" },
+      { "en": "They sailed at sunrise.", "bn": "" },
+      { "en": "I want to sail the ocean.", "bn": "" },
+      { "en": "He sailed the boat alone.", "bn": "" },
+      { "en": "We sailed far from shore.", "bn": "" },
+      { "en": "She sailed smoothly.", "bn": "" },
+      { "en": "They have sailed before.", "bn": "" },
+      { "en": "I sailed with my friends.", "bn": "" },
+      { "en": "He sails every summer.", "bn": "" },
+      { "en": "The ship sailed away.", "bn": "" }
+    ],
+    "synonyms": ["navigate", "voyage", "cruise", "drift", "travel by sea"]
+  },
+  {
+    "base": "serious",
+    "phonetic": "ˈsɪəriəs",
+    "meaning": "গুরুতর / সিরিয়াস",
+    "examples": [
+      { "en": "This is a serious matter.", "bn": "" },
+      { "en": "He looks very serious.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "She has a serious problem.", "bn": "" },
+      { "en": "They had a serious talk.", "bn": "" },
+      { "en": "I am being serious.", "bn": "" },
+      { "en": "He is a serious student.", "bn": "" },
+      { "en": "We face serious issues.", "bn": "" },
+      { "en": "She is seriously ill.", "bn": "" },
+      { "en": "They took it seriously.", "bn": "" },
+      { "en": "I have a serious concern.", "bn": "" },
+      { "en": "He spoke in a serious tone.", "bn": "" },
+      { "en": "The situation is very serious.", "bn": "" }
+    ],
+    "synonyms": ["grave", "important", "severe", "solemn", "critical"]
+  },
+  {
+    "base": "spend",
+    "phonetic": "spend",
+    "meaning": "ব্যয় করা / সময় কাটানো",
+    "examples": [
+      { "en": "I spend money wisely.", "bn": "" },
+      { "en": "She spends time reading.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He spent all his money.", "bn": "" },
+      { "en": "They spend weekends together.", "bn": "" },
+      { "en": "I am spending too much.", "bn": "" },
+      { "en": "She spent the day outside.", "bn": "" },
+      { "en": "We spend time with family.", "bn": "" },
+      { "en": "He spends freely.", "bn": "" },
+      { "en": "They have spent a lot.", "bn": "" },
+      { "en": "I spent the night there.", "bn": "" },
+      { "en": "She spends on clothes.", "bn": "" },
+      { "en": "He spent years abroad.", "bn": "" }
+    ],
+    "synonyms": ["use", "pay", "consume", "pass", "invest"]
+  },
+  {
+    "base": "strange",
+    "phonetic": "streɪndʒ",
+    "meaning": "অদ্ভুত / অপরিচিত",
+    "examples": [
+      { "en": "That is very strange.", "bn": "" },
+      { "en": "She heard a strange sound.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He behaved in a strange way.", "bn": "" },
+      { "en": "They found something strange.", "bn": "" },
+      { "en": "I had a strange dream.", "bn": "" },
+      { "en": "She felt strange.", "bn": "" },
+      { "en": "We saw a strange animal.", "bn": "" },
+      { "en": "He asked a strange question.", "bn": "" },
+      { "en": "The place looked strange.", "bn": "" },
+      { "en": "I met a strange man.", "bn": "" },
+      { "en": "She wore strange clothes.", "bn": "" },
+      { "en": "It was a strange feeling.", "bn": "" }
+    ],
+    "synonyms": ["odd", "unusual", "weird", "bizarre", "peculiar"]
+  }
+]

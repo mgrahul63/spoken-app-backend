@@ -1,0 +1,62 @@
+[
+  {
+    "base": "make",
+    "phonetic": "meɪk",
+    "v2": "made",
+    "v3": "made",
+    "meaning": "তৈরি করা",
+    "examples": [
+      {
+        "en": "I make tea.",
+        "bn": ""
+      },
+      {
+        "en": "She makes food.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He made a cake.",
+        "bn": ""
+      },
+      {
+        "en": "They have made a plan.",
+        "bn": ""
+      },
+      {
+        "en": "I make mistakes.",
+        "bn": ""
+      },
+      {
+        "en": "She made a dress.",
+        "bn": ""
+      },
+      {
+        "en": "We make progress.",
+        "bn": ""
+      },
+      {
+        "en": "He is making noise.",
+        "bn": ""
+      },
+      {
+        "en": "They made money.",
+        "bn": ""
+      },
+      {
+        "en": "I made a decision.",
+        "bn": ""
+      },
+      {
+        "en": "She has made dinner.",
+        "bn": ""
+      },
+      {
+        "en": "He makes furniture.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["create", "build", "produce", "form", "construct"]
+  }
+]

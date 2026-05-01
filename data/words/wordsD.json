@@ -1,0 +1,24 @@
+[
+  {
+    "base": "decision",
+    "phonetic": "dɪˈsɪʒn",
+    "meaning": "সিদ্ধান্ত",
+    "examples": [
+      { "en": "It was a hard decision.", "bn": "" },
+      { "en": "She made a good decision.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He made the final decision.", "bn": "" },
+      { "en": "They took a bold decision.", "bn": "" },
+      { "en": "I regret my decision.", "bn": "" },
+      { "en": "She changed her decision.", "bn": "" },
+      { "en": "We made a quick decision.", "bn": "" },
+      { "en": "He stood by his decision.", "bn": "" },
+      { "en": "Their decision was correct.", "bn": "" },
+      { "en": "I made a difficult decision.", "bn": "" },
+      { "en": "She announced her decision.", "bn": "" },
+      { "en": "The decision changed everything.", "bn": "" }
+    ],
+    "synonyms": ["choice", "resolution", "conclusion", "judgment", "ruling"]
+  }
+]

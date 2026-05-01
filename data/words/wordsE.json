@@ -1,0 +1,24 @@
+[
+  {
+    "base": "either",
+    "phonetic": "ˈiːðər",
+    "meaning": "যেকোনো একটি / উভয়ের মধ্যে",
+    "examples": [
+      { "en": "Take either one.", "bn": "" },
+      { "en": "Either answer is correct.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "You can use either hand.", "bn": "" },
+      { "en": "Either day works for me.", "bn": "" },
+      { "en": "I don't like either option.", "bn": "" },
+      { "en": "She can go either way.", "bn": "" },
+      { "en": "Either he or she will come.", "bn": "" },
+      { "en": "I will take either one.", "bn": "" },
+      { "en": "Either road leads there.", "bn": "" },
+      { "en": "He didn't agree either.", "bn": "" },
+      { "en": "Either choice is fine.", "bn": "" },
+      { "en": "She didn't come either.", "bn": "" }
+    ],
+    "synonyms": ["any", "one or the other", "both", "each", "whichever"]
+  }
+]

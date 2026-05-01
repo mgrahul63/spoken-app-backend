@@ -1,0 +1,47 @@
+[
+  {
+    "base": "prison",
+    "phonetic": "ˈprɪzn",
+    "meaning": "কারাগার / জেল",
+    "examples": [
+      { "en": "He was sent to prison.", "bn": "" },
+      { "en": "The prisoner is in prison.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He spent five years in prison.", "bn": "" },
+      { "en": "The prison is heavily guarded.", "bn": "" },
+      { "en": "Many criminals are kept in prison.", "bn": "" },
+      { "en": "She visited her brother in prison.", "bn": "" },
+      { "en": "He escaped from prison.", "bn": "" },
+      { "en": "The prison was built long ago.", "bn": "" },
+      { "en": "Life in prison is very hard.", "bn": "" },
+      { "en": "They transferred him to another prison.", "bn": "" },
+      { "en": "The prison holds dangerous criminals.", "bn": "" },
+      { "en": "He was released from prison.", "bn": "" }
+    ],
+    "synonyms": ["jail", "detention center", "lockup", "penitentiary"]
+  },
+
+  {
+    "base": "prepare",
+    "phonetic": "prɪˈpeər",
+    "meaning": "প্রস্তুত করা",
+    "examples": [
+      { "en": "I prepare my lessons.", "bn": "" },
+      { "en": "She prepares food daily.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "He prepared for the exam.", "bn": "" },
+      { "en": "They prepare well.", "bn": "" },
+      { "en": "I am preparing now.", "bn": "" },
+      { "en": "She prepared the report.", "bn": "" },
+      { "en": "We prepared the plan.", "bn": "" },
+      { "en": "He is preparing dinner.", "bn": "" },
+      { "en": "They prepared in advance.", "bn": "" },
+      { "en": "I prepared the speech.", "bn": "" },
+      { "en": "She prepares carefully.", "bn": "" },
+      { "en": "He prepared a surprise.", "bn": "" }
+    ],
+    "synonyms": ["ready", "arrange", "organize", "plan", "set up"]
+  }
+]

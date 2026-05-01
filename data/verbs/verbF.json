@@ -1,0 +1,182 @@
+[
+  {
+    "base": "find",
+    "phonetic": "faɪnd",
+    "v2": "found",
+    "v3": "found",
+    "meaning": "খুঁজে পাওয়া",
+    "examples": [
+      {
+        "en": "I find my key.",
+        "bn": ""
+      },
+      {
+        "en": "She finds book.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He found money.",
+        "bn": ""
+      },
+      {
+        "en": "They have found it.",
+        "bn": ""
+      },
+      {
+        "en": "I am finding answer.",
+        "bn": ""
+      },
+      {
+        "en": "She found bag.",
+        "bn": ""
+      },
+      {
+        "en": "We find solution.",
+        "bn": ""
+      },
+      {
+        "en": "They found place.",
+        "bn": ""
+      },
+      {
+        "en": "I found phone.",
+        "bn": ""
+      },
+      {
+        "en": "He is finding it.",
+        "bn": ""
+      },
+      {
+        "en": "She finds errors.",
+        "bn": ""
+      },
+      {
+        "en": "They found truth.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["discover", "locate", "detect"]
+  },
+  {
+    "base": "fix",
+    "phonetic": "fɪks",
+    "v2": "fixed",
+    "v3": "fixed",
+    "meaning": "মেরামত করা",
+    "examples": [
+      {
+        "en": "I fix phone.",
+        "bn": ""
+      },
+      {
+        "en": "She fixes bike.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He fixed car.",
+        "bn": ""
+      },
+      {
+        "en": "They fix computer.",
+        "bn": ""
+      },
+      {
+        "en": "I am fixing it.",
+        "bn": ""
+      },
+      {
+        "en": "She fixed door.",
+        "bn": ""
+      },
+      {
+        "en": "We fix problem.",
+        "bn": ""
+      },
+      {
+        "en": "They have fixed it.",
+        "bn": ""
+      },
+      {
+        "en": "I fixed bike.",
+        "bn": ""
+      },
+      {
+        "en": "She is fixing.",
+        "bn": ""
+      },
+      {
+        "en": "He fixes machine.",
+        "bn": ""
+      },
+      {
+        "en": "They fixed issue.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["repair", "mend", "restore"]
+  },
+  {
+    "base": "fly",
+    "phonetic": "flaɪ",
+    "v2": "flew",
+    "v3": "flown",
+    "meaning": "উড়া",
+    "examples": [
+      {
+        "en": "Birds fly high.",
+        "bn": ""
+      },
+      {
+        "en": "Plane flies today.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He flew yesterday.",
+        "bn": ""
+      },
+      {
+        "en": "They fly often.",
+        "bn": ""
+      },
+      {
+        "en": "I am flying now.",
+        "bn": ""
+      },
+      {
+        "en": "She flew abroad.",
+        "bn": ""
+      },
+      {
+        "en": "We fly together.",
+        "bn": ""
+      },
+      {
+        "en": "They have flown.",
+        "bn": ""
+      },
+      {
+        "en": "I flew home.",
+        "bn": ""
+      },
+      {
+        "en": "He is flying.",
+        "bn": ""
+      },
+      {
+        "en": "Birds fly fast.",
+        "bn": ""
+      },
+      {
+        "en": "They flew safely.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["soar", "glide", "travel by air"]
+  }
+]

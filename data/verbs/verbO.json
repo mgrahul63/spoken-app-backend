@@ -1,0 +1,62 @@
+[
+  {
+    "base": "open",
+    "phonetic": "ˈoʊpən",
+    "v2": "opened",
+    "v3": "opened",
+    "meaning": "খোলা",
+    "examples": [
+      {
+        "en": "I open the door.",
+        "bn": ""
+      },
+      {
+        "en": "She opens a box.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He opened the shop.",
+        "bn": ""
+      },
+      {
+        "en": "They open daily.",
+        "bn": ""
+      },
+      {
+        "en": "I am opening it.",
+        "bn": ""
+      },
+      {
+        "en": "She opened window.",
+        "bn": ""
+      },
+      {
+        "en": "We open school.",
+        "bn": ""
+      },
+      {
+        "en": "He has opened door.",
+        "bn": ""
+      },
+      {
+        "en": "They opened gate.",
+        "bn": ""
+      },
+      {
+        "en": "I open book.",
+        "bn": ""
+      },
+      {
+        "en": "She is opening bag.",
+        "bn": ""
+      },
+      {
+        "en": "He opens box.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["unlock", "uncover", "start"]
+  }
+]

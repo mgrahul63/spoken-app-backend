@@ -1,0 +1,382 @@
+[
+  {
+    "base": "wake",
+    "phonetic": "weɪk",
+    "v2": "woke",
+    "v3": "woken",
+    "meaning": "জাগা",
+    "examples": [
+      {
+        "en": "I wake up early.",
+        "bn": ""
+      },
+      {
+        "en": "She wakes at 6.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He woke up late.",
+        "bn": ""
+      },
+      {
+        "en": "They wake early.",
+        "bn": ""
+      },
+      {
+        "en": "I am waking now.",
+        "bn": ""
+      },
+      {
+        "en": "She woke yesterday.",
+        "bn": ""
+      },
+      {
+        "en": "We wake daily.",
+        "bn": ""
+      },
+      {
+        "en": "He has woken up.",
+        "bn": ""
+      },
+      {
+        "en": "They woke together.",
+        "bn": ""
+      },
+      {
+        "en": "I wake every day.",
+        "bn": ""
+      },
+      {
+        "en": "She is waking now.",
+        "bn": ""
+      },
+      {
+        "en": "He wakes early.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["rise", "get up", "arouse"]
+  },
+  {
+    "base": "walk",
+    "phonetic": "wɔːk",
+    "v2": "walked",
+    "v3": "walked",
+    "meaning": "হাঁটা",
+    "examples": [
+      {
+        "en": "I walk to school.",
+        "bn": ""
+      },
+      {
+        "en": "She walks slowly.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He walked home.",
+        "bn": ""
+      },
+      {
+        "en": "They walk daily.",
+        "bn": ""
+      },
+      {
+        "en": "I am walking now.",
+        "bn": ""
+      },
+      {
+        "en": "She walked yesterday.",
+        "bn": ""
+      },
+      {
+        "en": "We walk together.",
+        "bn": ""
+      },
+      {
+        "en": "He walks fast.",
+        "bn": ""
+      },
+      {
+        "en": "They walked far.",
+        "bn": ""
+      },
+      {
+        "en": "I walked alone.",
+        "bn": ""
+      },
+      {
+        "en": "She is walking outside.",
+        "bn": ""
+      },
+      {
+        "en": "He walks every morning.",
+        "bn": ""
+      }
+    ],
+    "synonyms": [
+      "stroll",
+      "move",
+      "pace",
+      "hike",
+      "saunter",
+      "amble",
+      "march",
+      "wander",
+      "trek",
+      "roam",
+      "meander",
+      "perambulate",
+      "promenade",
+      "trudge",
+      "sashay",
+      "strut",
+      "tiptoe",
+      "tread",
+      "wade"
+    ]
+  },
+  {
+    "base": "wash",
+    "phonetic": "wɒʃ",
+    "v2": "washed",
+    "v3": "washed",
+    "meaning": "ধোয়া",
+    "examples": [
+      {
+        "en": "I wash clothes.",
+        "bn": ""
+      },
+      {
+        "en": "She washes dishes.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He washed hands.",
+        "bn": ""
+      },
+      {
+        "en": "They wash car.",
+        "bn": ""
+      },
+      {
+        "en": "I am washing now.",
+        "bn": ""
+      },
+      {
+        "en": "She washed clothes.",
+        "bn": ""
+      },
+      {
+        "en": "We wash plates.",
+        "bn": ""
+      },
+      {
+        "en": "They have washed it.",
+        "bn": ""
+      },
+      {
+        "en": "I washed face.",
+        "bn": ""
+      },
+      {
+        "en": "She is washing.",
+        "bn": ""
+      },
+      {
+        "en": "He washes clothes.",
+        "bn": ""
+      },
+      {
+        "en": "They washed room.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["rinse", "clean", "scrub"]
+  },
+  {
+    "base": "watch",
+    "phonetic": "wɒtʃ",
+    "v2": "watched",
+    "v3": "watched",
+    "meaning": "দেখা/নজর রাখা",
+    "examples": [
+      {
+        "en": "I watch TV.",
+        "bn": ""
+      },
+      {
+        "en": "She watches movie.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He watched game.",
+        "bn": ""
+      },
+      {
+        "en": "They watch match.",
+        "bn": ""
+      },
+      {
+        "en": "I am watching now.",
+        "bn": ""
+      },
+      {
+        "en": "She watched show.",
+        "bn": ""
+      },
+      {
+        "en": "We watch news.",
+        "bn": ""
+      },
+      {
+        "en": "They have watched it.",
+        "bn": ""
+      },
+      {
+        "en": "I watched film.",
+        "bn": ""
+      },
+      {
+        "en": "He is watching.",
+        "bn": ""
+      },
+      {
+        "en": "She watches daily.",
+        "bn": ""
+      },
+      {
+        "en": "They watched TV.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["observe", "view", "look at"]
+  },
+  {
+    "base": "win",
+    "phonetic": "wɪn",
+    "v2": "won",
+    "v3": "won",
+    "meaning": "জেতা",
+    "examples": [
+      {
+        "en": "I win the game.",
+        "bn": ""
+      },
+      {
+        "en": "She wins prize.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He won match.",
+        "bn": ""
+      },
+      {
+        "en": "They have won game.",
+        "bn": ""
+      },
+      {
+        "en": "I am winning now.",
+        "bn": ""
+      },
+      {
+        "en": "She won award.",
+        "bn": ""
+      },
+      {
+        "en": "We win often.",
+        "bn": ""
+      },
+      {
+        "en": "They won trophy.",
+        "bn": ""
+      },
+      {
+        "en": "I won yesterday.",
+        "bn": ""
+      },
+      {
+        "en": "He is winning.",
+        "bn": ""
+      },
+      {
+        "en": "She wins always.",
+        "bn": ""
+      },
+      {
+        "en": "They won competition.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["succeed", "beat", "triumph"]
+  },
+  {
+    "base": "work",
+    "phonetic": "wɜːrk",
+    "v2": "worked",
+    "v3": "worked",
+    "meaning": "কাজ করা",
+    "examples": [
+      {
+        "en": "I work hard.",
+        "bn": ""
+      },
+      {
+        "en": "She works daily.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He worked yesterday.",
+        "bn": ""
+      },
+      {
+        "en": "They have worked hard.",
+        "bn": ""
+      },
+      {
+        "en": "I work in office.",
+        "bn": ""
+      },
+      {
+        "en": "She is working now.",
+        "bn": ""
+      },
+      {
+        "en": "We worked together.",
+        "bn": ""
+      },
+      {
+        "en": "He works online.",
+        "bn": ""
+      },
+      {
+        "en": "They worked late.",
+        "bn": ""
+      },
+      {
+        "en": "I have worked enough.",
+        "bn": ""
+      },
+      {
+        "en": "She works fast.",
+        "bn": ""
+      },
+      {
+        "en": "He worked yesterday night.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["labor", "perform", "operate", "function"]
+  }
+]

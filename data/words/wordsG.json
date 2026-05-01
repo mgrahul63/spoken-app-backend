@@ -1,0 +1,24 @@
+[
+  {
+    "base": "ground",
+    "phonetic": "ɡraʊnd",
+    "meaning": "মাটি / ভূমি",
+    "examples": [
+      { "en": "He sat on the ground.", "bn": "" },
+      { "en": "The ground is wet.", "bn": "" }
+    ],
+    "moreexample": [
+      { "en": "She fell to the ground.", "bn": "" },
+      { "en": "The ground is hard.", "bn": "" },
+      { "en": "Seeds grow in the ground.", "bn": "" },
+      { "en": "He dug the ground.", "bn": "" },
+      { "en": "We played on the ground.", "bn": "" },
+      { "en": "The ground was covered in snow.", "bn": "" },
+      { "en": "He lay on the ground.", "bn": "" },
+      { "en": "They stood on the ground.", "bn": "" },
+      { "en": "The ground shook.", "bn": "" },
+      { "en": "She touched the ground.", "bn": "" }
+    ],
+    "synonyms": ["earth", "soil", "land", "floor", "surface"]
+  }
+]

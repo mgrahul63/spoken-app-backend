@@ -1,0 +1,122 @@
+[
+  {
+    "base": "hear",
+    "phonetic": "hɪr",
+    "v2": "heard",
+    "v3": "heard",
+    "meaning": "শোনা",
+    "examples": [
+      {
+        "en": "I hear music.",
+        "bn": ""
+      },
+      {
+        "en": "She hears noise.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He heard sound.",
+        "bn": ""
+      },
+      {
+        "en": "They have heard it.",
+        "bn": ""
+      },
+      {
+        "en": "I am hearing now.",
+        "bn": ""
+      },
+      {
+        "en": "She heard story.",
+        "bn": ""
+      },
+      {
+        "en": "We hear voices.",
+        "bn": ""
+      },
+      {
+        "en": "They heard news.",
+        "bn": ""
+      },
+      {
+        "en": "I heard song.",
+        "bn": ""
+      },
+      {
+        "en": "He is hearing.",
+        "bn": ""
+      },
+      {
+        "en": "She hears clearly.",
+        "bn": ""
+      },
+      {
+        "en": "They heard call.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["listen", "detect", "perceive"]
+  },
+  {
+    "base": "help",
+    "phonetic": "help",
+    "v2": "helped",
+    "v3": "helped",
+    "meaning": "সাহায্য করা",
+    "examples": [
+      {
+        "en": "I help him.",
+        "bn": ""
+      },
+      {
+        "en": "She helps me.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He helped me yesterday.",
+        "bn": ""
+      },
+      {
+        "en": "They have helped us.",
+        "bn": ""
+      },
+      {
+        "en": "I help friends.",
+        "bn": ""
+      },
+      {
+        "en": "She is helping now.",
+        "bn": ""
+      },
+      {
+        "en": "We helped them.",
+        "bn": ""
+      },
+      {
+        "en": "He helps poor people.",
+        "bn": ""
+      },
+      {
+        "en": "They helped quickly.",
+        "bn": ""
+      },
+      {
+        "en": "I have helped before.",
+        "bn": ""
+      },
+      {
+        "en": "She helps always.",
+        "bn": ""
+      },
+      {
+        "en": "He helped a lot.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["assist", "support", "aid", "serve"]
+  }
+]

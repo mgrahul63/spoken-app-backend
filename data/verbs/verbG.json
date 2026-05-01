@@ -1,0 +1,62 @@
+[
+  {
+    "base": "give",
+    "phonetic": "ɡɪv",
+    "v2": "gave",
+    "v3": "given",
+    "meaning": "দেওয়া",
+    "examples": [
+      {
+        "en": "I give money.",
+        "bn": ""
+      },
+      {
+        "en": "She gives gifts.",
+        "bn": ""
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He gave me a pen.",
+        "bn": ""
+      },
+      {
+        "en": "They have given help.",
+        "bn": ""
+      },
+      {
+        "en": "She gives advice.",
+        "bn": ""
+      },
+      {
+        "en": "I gave him food.",
+        "bn": ""
+      },
+      {
+        "en": "We give respect.",
+        "bn": ""
+      },
+      {
+        "en": "He is giving money.",
+        "bn": ""
+      },
+      {
+        "en": "They gave reward.",
+        "bn": ""
+      },
+      {
+        "en": "She has given answer.",
+        "bn": ""
+      },
+      {
+        "en": "I give support.",
+        "bn": ""
+      },
+      {
+        "en": "He gives love.",
+        "bn": ""
+      }
+    ],
+    "synonyms": ["offer", "provide", "donate", "hand", "grant"]
+  }
+]
