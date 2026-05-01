@@ -1,0 +1,616 @@
+{
+  "day": 28,
+  "topic": "Daily Routine, Music & Events Vocabulary",
+  "lessonId": "L0D28",
+  "vocabulary": [
+    {
+      "word": "band",
+      "phonetic": "/bænd/",
+      "meaning": "a group of musicians who play together",
+      "bangla": "দল / ব্যান্ড",
+      "example": "The band played all night.",
+      "exampleBn": "ব্যান্ডটি সারারাত বাজাল।"
+    },
+    {
+      "word": "barely",
+      "phonetic": "/ˈbeərli/",
+      "meaning": "only just; almost not",
+      "bangla": "ক辛辛苦苦 / কোনোরকমে",
+      "example": "She barely finished on time.",
+      "exampleBn": "সে辛辛苦苦 সময়মতো শেষ করল।"
+    },
+    {
+      "word": "boring",
+      "phonetic": "/ˈbɔːrɪŋ/",
+      "meaning": "not interesting; dull",
+      "bangla": "একঘেয়ে / বিরক্তিকর",
+      "example": "The lecture was very boring.",
+      "exampleBn": "বক্তৃতাটি অনেক বিরক্তিকর ছিল।"
+    },
+    {
+      "word": "cancel",
+      "phonetic": "/ˈkænsəl/",
+      "meaning": "to decide that something planned will not happen",
+      "bangla": "বাতিল করা",
+      "example": "They cancelled the match due to rain.",
+      "exampleBn": "বৃষ্টির কারণে তারা ম্যাচটি বাতিল করল।"
+    },
+    {
+      "word": "driveway",
+      "phonetic": "/ˈdraɪvweɪ/",
+      "meaning": "a short private road leading to a house or garage",
+      "bangla": "বাড়ির সামনের রাস্তা",
+      "example": "The car is parked in the driveway.",
+      "exampleBn": "গাড়িটি বাড়ির সামনের রাস্তায় পার্ক করা আছে।"
+    },
+    {
+      "word": "garbage",
+      "phonetic": "/ˈɡɑːrbɪdʒ/",
+      "meaning": "waste material that is thrown away",
+      "bangla": "আবর্জনা / ময়লা",
+      "example": "Take out the garbage please.",
+      "exampleBn": "অনুগ্রহ করে আবর্জনাটি বের করো।"
+    },
+    {
+      "word": "instrument",
+      "phonetic": "/ˈɪnstrəmənt/",
+      "meaning": "a tool or device; a musical instrument",
+      "bangla": "যন্ত্র / বাদ্যযন্ত্র",
+      "example": "The guitar is her favourite instrument.",
+      "exampleBn": "গিটার তার প্রিয় বাদ্যযন্ত্র।"
+    },
+    {
+      "word": "list",
+      "phonetic": "/lɪst/",
+      "meaning": "a series of written items one after another",
+      "bangla": "তালিকা",
+      "example": "Make a list of things to buy.",
+      "exampleBn": "কেনার জিনিসের তালিকা তৈরি করো।"
+    },
+    {
+      "word": "magic",
+      "phonetic": "/ˈmædʒɪk/",
+      "meaning": "the power to make impossible things happen",
+      "bangla": "জাদু",
+      "example": "The show was pure magic.",
+      "exampleBn": "শোটি ছিল নিখাঁদ জাদু।"
+    },
+    {
+      "word": "message",
+      "phonetic": "/ˈmesɪdʒ/",
+      "meaning": "a spoken or written piece of information sent to someone",
+      "bangla": "বার্তা",
+      "example": "I received your message.",
+      "exampleBn": "আমি তোমার বার্তা পেয়েছি।"
+    },
+    {
+      "word": "notice",
+      "phonetic": "/ˈnoʊtɪs/",
+      "meaning": "to become aware of something; a written announcement",
+      "bangla": "লক্ষ্য করা / নোটিশ",
+      "example": "Did you notice the new sign?",
+      "exampleBn": "তুমি কি নতুন চিহ্নটি লক্ষ্য করেছ?"
+    },
+    {
+      "word": "own",
+      "phonetic": "/oʊn/",
+      "meaning": "belonging to oneself; to possess something",
+      "bangla": "নিজের / মালিক হওয়া",
+      "example": "She owns a small shop.",
+      "exampleBn": "সে একটি ছোট দোকানের মালিক।"
+    },
+    {
+      "word": "predict",
+      "phonetic": "/prɪˈdɪkt/",
+      "meaning": "to say what will happen in the future",
+      "bangla": "ভবিষ্যদ্বাণী করা",
+      "example": "Can you predict tomorrow's weather?",
+      "exampleBn": "তুমি কি আগামীকালের আবহাওয়ার ভবিষ্যদ্বাণী করতে পারবে?"
+    },
+    {
+      "word": "professor",
+      "phonetic": "/prəˈfesər/",
+      "meaning": "a senior teacher at a university or college",
+      "bangla": "অধ্যাপক",
+      "example": "The professor explained the topic well.",
+      "exampleBn": "অধ্যাপক বিষয়টি ভালোভাবে ব্যাখ্যা করলেন।"
+    },
+    {
+      "word": "rush",
+      "phonetic": "/rʌʃ/",
+      "meaning": "to move or do something very quickly",
+      "bangla": "ছুটে যাওয়া / তাড়া করা",
+      "example": "Don't rush, take your time.",
+      "exampleBn": "তাড়া করো না, সময় নিয়ে করো।"
+    },
+    {
+      "word": "schedule",
+      "phonetic": "/ˈskedʒuːl/",
+      "meaning": "a plan that shows when things will happen",
+      "bangla": "সময়সূচি",
+      "example": "Check the schedule before you go.",
+      "exampleBn": "যাওয়ার আগে সময়সূচি দেখো।"
+    },
+    {
+      "word": "share",
+      "phonetic": "/ʃeər/",
+      "meaning": "to give part of something to others",
+      "bangla": "ভাগ করা / শেয়ার করা",
+      "example": "She shared her food with me.",
+      "exampleBn": "সে আমার সাথে তার খাবার ভাগ করল।"
+    },
+    {
+      "word": "stage",
+      "phonetic": "/steɪdʒ/",
+      "meaning": "a raised platform for performances; a step in a process",
+      "bangla": "মঞ্চ / পর্যায়",
+      "example": "She sang on the stage.",
+      "exampleBn": "সে মঞ্চে গান গাইল।"
+    },
+    {
+      "word": "storm",
+      "phonetic": "/stɔːrm/",
+      "meaning": "a period of very bad weather with strong winds and rain",
+      "bangla": "ঝড়",
+      "example": "A big storm hit the city.",
+      "exampleBn": "শহরে একটি বড় ঝড় আঘাত করল।"
+    },
+    {
+      "word": "within",
+      "phonetic": "/wɪˈðɪn/",
+      "meaning": "inside or not beyond a certain limit",
+      "bangla": "মধ্যে / ভেতরে",
+      "example": "Finish it within an hour.",
+      "exampleBn": "এক ঘন্টার মধ্যে এটি শেষ করো।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "rock band",
+      "bangla": "রক ব্যান্ড",
+      "usage": "music",
+      "example": "He plays in a rock band."
+    },
+    {
+      "phrase": "barely enough",
+      "bangla": "辛辛苦苦 যথেষ্ট",
+      "usage": "quantity",
+      "example": "There was barely enough food."
+    },
+    {
+      "phrase": "boring class",
+      "bangla": "বিরক্তিকর ক্লাস",
+      "usage": "education",
+      "example": "It was a boring class."
+    },
+    {
+      "phrase": "cancel a plan",
+      "bangla": "পরিকল্পনা বাতিল করা",
+      "usage": "decision",
+      "example": "We had to cancel the plan."
+    },
+    {
+      "phrase": "sweep driveway",
+      "bangla": "বাড়ির সামনের রাস্তা ঝাড়ু দেওয়া",
+      "usage": "chores",
+      "example": "She swept the driveway."
+    },
+    {
+      "phrase": "collect garbage",
+      "bangla": "আবর্জনা সংগ্রহ করা",
+      "usage": "cleanliness",
+      "example": "They collect garbage daily."
+    },
+    {
+      "phrase": "play instrument",
+      "bangla": "বাদ্যযন্ত্র বাজানো",
+      "usage": "music",
+      "example": "He plays an instrument."
+    },
+    {
+      "phrase": "make a list",
+      "bangla": "তালিকা তৈরি করা",
+      "usage": "planning",
+      "example": "Always make a list first."
+    },
+    {
+      "phrase": "pure magic",
+      "bangla": "নিখাঁদ জাদু",
+      "usage": "wonder",
+      "example": "The performance was pure magic."
+    },
+    {
+      "phrase": "send a message",
+      "bangla": "বার্তা পাঠানো",
+      "usage": "communication",
+      "example": "Send me a message later."
+    },
+    {
+      "phrase": "notice a change",
+      "bangla": "পরিবর্তন লক্ষ্য করা",
+      "usage": "observation",
+      "example": "Did you notice the change?"
+    },
+    {
+      "phrase": "own a house",
+      "bangla": "বাড়ির মালিক হওয়া",
+      "usage": "possession",
+      "example": "He owns a big house."
+    },
+    {
+      "phrase": "predict the future",
+      "bangla": "ভবিষ্যৎ ভবিষ্যদ্বাণী করা",
+      "usage": "forecast",
+      "example": "No one can predict the future."
+    },
+    {
+      "phrase": "university professor",
+      "bangla": "বিশ্ববিদ্যালয়ের অধ্যাপক",
+      "usage": "education",
+      "example": "She is a university professor."
+    },
+    {
+      "phrase": "rush hour",
+      "bangla": "ব্যস্ত সময়",
+      "usage": "time",
+      "example": "Avoid driving in rush hour."
+    },
+    {
+      "phrase": "follow schedule",
+      "bangla": "সময়সূচি অনুসরণ করা",
+      "usage": "routine",
+      "example": "Always follow your schedule."
+    },
+    {
+      "phrase": "share knowledge",
+      "bangla": "জ্ঞান শেয়ার করা",
+      "usage": "education",
+      "example": "Share your knowledge freely."
+    },
+    {
+      "phrase": "perform on stage",
+      "bangla": "মঞ্চে পরিবেশন করা",
+      "usage": "performance",
+      "example": "She loves to perform on stage."
+    },
+    {
+      "phrase": "heavy storm",
+      "bangla": "ভারী ঝড়",
+      "usage": "weather",
+      "example": "A heavy storm is coming."
+    },
+    {
+      "phrase": "within reach",
+      "bangla": "নাগালের মধ্যে",
+      "usage": "distance",
+      "example": "Keep it within reach."
+    }
+  ],
+
+  "sentences": [
+    {
+      "en": "The band was excellent last night.",
+      "bn": "গতকাল রাতে ব্যান্ডটি চমৎকার ছিল।"
+    },
+    { "en": "He barely slept at all.", "bn": "সে একদমই কোনোরকমে ঘুমাল।" },
+    { "en": "This movie is boring.", "bn": "এই সিনেমাটি বিরক্তিকর।" },
+    {
+      "en": "We had to cancel the trip.",
+      "bn": "আমাদের ভ্রমণ বাতিল করতে হলো।"
+    },
+    {
+      "en": "The bike is in the driveway.",
+      "bn": "বাইকটি বাড়ির সামনের রাস্তায় আছে।"
+    },
+    { "en": "Put the garbage in the bin.", "bn": "আবর্জনাটি বিনে রাখো।" },
+    {
+      "en": "He plays every instrument.",
+      "bn": "সে প্রতিটি বাদ্যযন্ত্র বাজায়।"
+    },
+    {
+      "en": "Write a list of your goals.",
+      "bn": "তোমার লক্ষ্যের একটি তালিকা লেখো।"
+    },
+    { "en": "Music is pure magic.", "bn": "সংগীত হলো নিখাঁদ জাদু।" },
+    {
+      "en": "Read the message carefully.",
+      "bn": "বার্তাটি মনোযোগ দিয়ে পড়ো।"
+    },
+    {
+      "en": "I noticed something strange.",
+      "bn": "আমি কিছু অদ্ভুত লক্ষ্য করলাম।"
+    },
+    { "en": "This is my own decision.", "bn": "এটি আমার নিজের সিদ্ধান্ত।" },
+    {
+      "en": "Nobody can predict the storm.",
+      "bn": "কেউ ঝড়ের ভবিষ্যদ্বাণী করতে পারে না।"
+    },
+    {
+      "en": "The professor smiled at us.",
+      "bn": "অধ্যাপক আমাদের দিকে হাসলেন।"
+    },
+    { "en": "She rushed to catch the bus.", "bn": "সে বাস ধরতে ছুটে গেল।" },
+    { "en": "The schedule has changed.", "bn": "সময়সূচি পরিবর্তন হয়েছে।" },
+    {
+      "en": "Always share what you know.",
+      "bn": "তুমি যা জানো সবসময় তা শেয়ার করো।"
+    },
+    { "en": "He walked onto the stage.", "bn": "সে মঞ্চে হেঁটে গেল।" },
+    { "en": "The storm lasted all night.", "bn": "ঝড়টি সারারাত স্থায়ী হলো।" },
+    { "en": "Finish within the time limit.", "bn": "সময়সীমার মধ্যে শেষ করো।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Band means?",
+      "opts": ["solo singer", "group of musicians", "audience", "stage"],
+      "ans": 1,
+      "explanation": "Band means a group of musicians who play together."
+    },
+    {
+      "q": "Barely means?",
+      "opts": ["easily", "only just; almost not", "completely", "never"],
+      "ans": 1,
+      "explanation": "Barely means only just; almost not."
+    },
+    {
+      "q": "Boring means?",
+      "opts": ["exciting", "not interesting; dull", "magical", "loud"],
+      "ans": 1,
+      "explanation": "Boring means not interesting; dull."
+    },
+    {
+      "q": "Cancel means?",
+      "opts": [
+        "confirm",
+        "decide something will not happen",
+        "schedule",
+        "rush"
+      ],
+      "ans": 1,
+      "explanation": "Cancel means to decide that something planned will not happen."
+    },
+    {
+      "q": "Driveway means?",
+      "opts": ["highway", "short private road to a house", "stage", "sidewalk"],
+      "ans": 1,
+      "explanation": "Driveway means a short private road leading to a house or garage."
+    },
+    {
+      "q": "Garbage means?",
+      "opts": ["treasure", "waste material thrown away", "food", "gift"],
+      "ans": 1,
+      "explanation": "Garbage means waste material that is thrown away."
+    },
+    {
+      "q": "Instrument means?",
+      "opts": ["furniture", "tool or musical device", "cloth", "building"],
+      "ans": 1,
+      "explanation": "Instrument means a tool or device; a musical instrument."
+    },
+    {
+      "q": "List means?",
+      "opts": [
+        "single word",
+        "series of written items",
+        "sentence",
+        "paragraph"
+      ],
+      "ans": 1,
+      "explanation": "List means a series of written items one after another."
+    },
+    {
+      "q": "Magic means?",
+      "opts": [
+        "science",
+        "power to make impossible things happen",
+        "noise",
+        "routine"
+      ],
+      "ans": 1,
+      "explanation": "Magic means the power to make impossible things happen."
+    },
+    {
+      "q": "Message means?",
+      "opts": [
+        "question",
+        "spoken or written information sent to someone",
+        "noise",
+        "object"
+      ],
+      "ans": 1,
+      "explanation": "Message means a spoken or written piece of information sent to someone."
+    },
+    {
+      "q": "Notice means?",
+      "opts": ["ignore", "become aware of something", "hide", "forget"],
+      "ans": 1,
+      "explanation": "Notice means to become aware of something; a written announcement."
+    },
+    {
+      "q": "Own means?",
+      "opts": ["borrow", "belong to oneself or possess", "rent", "share"],
+      "ans": 1,
+      "explanation": "Own means belonging to oneself; to possess something."
+    },
+    {
+      "q": "Predict means?",
+      "opts": [
+        "forget",
+        "say what will happen in the future",
+        "deny",
+        "guess wrong"
+      ],
+      "ans": 1,
+      "explanation": "Predict means to say what will happen in the future."
+    },
+    {
+      "q": "Professor means?",
+      "opts": ["student", "senior university teacher", "clerk", "nurse"],
+      "ans": 1,
+      "explanation": "Professor means a senior teacher at a university or college."
+    },
+    {
+      "q": "Rush means?",
+      "opts": ["wait", "move or do something very quickly", "sleep", "stop"],
+      "ans": 1,
+      "explanation": "Rush means to move or do something very quickly."
+    },
+    {
+      "q": "Schedule means?",
+      "opts": [
+        "random event",
+        "plan showing when things happen",
+        "message",
+        "list"
+      ],
+      "ans": 1,
+      "explanation": "Schedule means a plan that shows when things will happen."
+    },
+    {
+      "q": "Share means?",
+      "opts": [
+        "keep alone",
+        "give part of something to others",
+        "steal",
+        "hide"
+      ],
+      "ans": 1,
+      "explanation": "Share means to give part of something to others."
+    },
+    {
+      "q": "Stage means?",
+      "opts": ["floor", "raised platform for performances", "roof", "wall"],
+      "ans": 1,
+      "explanation": "Stage means a raised platform for performances; a step in a process."
+    },
+    {
+      "q": "Storm means?",
+      "opts": ["sunshine", "period of very bad weather", "calm breeze", "fog"],
+      "ans": 1,
+      "explanation": "Storm means a period of very bad weather with strong winds and rain."
+    },
+    {
+      "q": "Within means?",
+      "opts": ["outside", "inside or not beyond a limit", "above", "far from"],
+      "ans": 1,
+      "explanation": "Within means inside or not beyond a certain limit."
+    }
+  ],
+
+  "story": {
+    "title": "The Night of the Storm Concert",
+    "body": "Professor Alam owned a small music school situated along the main road. Every year, his band of students performed on stage at the town festival. This year, the schedule was set — the concert was to begin within two hours. The students had barely finished rehearsing when dark clouds appeared in the sky. A heavy storm was predicted to hit the area. The professor sent a message to the organizers suggesting they cancel the event. But the band refused. They noticed the garbage had already been cleared from the driveway and the stage was ready. A student named Mira said, 'This is our own moment. We cannot let a storm take it away.' The professor smiled. He made a quick list of safety steps and shared it with the team. They rushed to cover the instruments and set up shelter. Within an hour, they were ready. When the storm passed, the band walked onto the stage and played with pure magic. The audience, who had barely left their seats, erupted in applause. It was no longer a boring night — it was the most unforgettable concert the town had ever seen. The professor stood at the side of the stage, proud that his students had predicted something he had not — that courage is the greatest instrument of all.",
+    "comprehension": [
+      {
+        "q": "What did the professor own?",
+        "opts": ["a hospital", "a music school", "a factory", "a theater"],
+        "ans": 1
+      },
+      {
+        "q": "What did the professor first suggest?",
+        "opts": [
+          "to play louder",
+          "to cancel the event",
+          "to change the schedule",
+          "to leave the stage"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Mira say about the concert?",
+        "opts": [
+          "it was boring",
+          "it was their own moment they could not lose",
+          "it was too difficult",
+          "it should be cancelled"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What was the greatest instrument according to the story?",
+        "opts": ["the guitar", "courage", "the drum", "magic"],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "band",
+      "stage",
+      "storm",
+      "cancel",
+      "schedule",
+      "instrument",
+      "magic",
+      "professor",
+      "rush",
+      "notice",
+      "own",
+      "within"
+    ]
+  },
+
+  "listening": {
+    "title": "Planning the School Concert",
+    "script": "A: Did you get my message about the concert schedule?\nB: Yes! But I barely had time to read it.\nA: The professor wants us to share the list of instruments needed.\nB: I noticed some are missing from the stage.\nA: Should we cancel the rehearsal?\nB: No. Rush over and let us fix it within the hour.\nA: A storm is predicted for tonight.\nB: I know. The professor owns a backup plan.\nA: Do you think the band will still perform?\nB: Of course. This is our own stage. We cannot let garbage or storms stop us.\nA: What if the audience finds it boring?\nB: With this band? Pure magic. Trust me.\nA: Fine. I will send a message to the driveway team.\nB: Good. Follow the schedule and everything will be fine.",
+    "comprehension": [
+      {
+        "q": "What is predicted for tonight?",
+        "opts": ["sunshine", "a storm", "a power cut", "a parade"],
+        "ans": 1
+      },
+      {
+        "q": "What does B say about the band's performance?",
+        "opts": [
+          "it will be boring",
+          "it will be pure magic",
+          "it will be cancelled",
+          "it will be short"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "An Exciting Event I Attended",
+    "prompt": "Describe an exciting event you attended. Use words like stage, band, magic, notice, and schedule.",
+    "example": "I once attended a concert where a local band performed on stage. I noticed the schedule had changed, but it did not matter. The music was pure magic. Within minutes, everyone forgot how the evening had barely started as boring and became fully alive.",
+    "tips": [
+      "Describe where the event was held",
+      "Mention what you noticed about the stage or band",
+      "Use 'barely' or 'within' to describe timing",
+      "End with how the magic of the event made you feel"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Discussing a cancelled or rescheduled event",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Did you get the message about the concert?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Say yes and mention what the message said."
+      },
+      {
+        "speaker": "app",
+        "text": "Was the event cancelled or did it go ahead?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Explain what happened using 'storm' and 'schedule'."
+      },
+      {
+        "speaker": "app",
+        "text": "Was the band's performance magical or boring?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Describe the performance using 'stage', 'instrument', and 'magic'."
+      }
+    ]
+  }
+}

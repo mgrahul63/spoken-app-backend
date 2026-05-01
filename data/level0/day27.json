@@ -1,0 +1,790 @@
+{
+  "day": 27,
+  "topic": "Travel, Nature & Real World Thinking Vocabulary",
+  "lessonId": "L0D27",
+  "vocabulary": [
+    {
+      "word": "actually",
+      "phonetic": "/ˈæktʃuəli/",
+      "meaning": "in reality; used to emphasize truth or correct a misunderstanding",
+      "bangla": "আসলে / বাস্তবে",
+      "example": "He is actually very kind.",
+      "exampleBn": "সে আসলে অনেক দয়ালু।"
+    },
+    {
+      "word": "bite",
+      "phonetic": "/baɪt/",
+      "meaning": "to use teeth to cut into something; a small amount of food",
+      "bangla": "কামড়ানো / একটু খাওয়া",
+      "example": "The dog bit his hand.",
+      "exampleBn": "কুকুরটি তার হাতে কামড় দিল।"
+    },
+    {
+      "word": "coast",
+      "phonetic": "/koʊst/",
+      "meaning": "the land along the edge of a sea or ocean",
+      "bangla": "উপকূল / সমুদ্র সৈকত",
+      "example": "We walked along the coast.",
+      "exampleBn": "আমরা উপকূল বরাবর হাঁটলাম।"
+    },
+    {
+      "word": "deal",
+      "phonetic": "/diːl/",
+      "meaning": "an agreement or arrangement; to handle a situation",
+      "bangla": "চুক্তি / মোকাবেলা করা",
+      "example": "They made a good deal.",
+      "exampleBn": "তারা একটি ভালো চুক্তি করল।"
+    },
+    {
+      "word": "desert",
+      "phonetic": "/ˈdezərt/",
+      "meaning": "a large dry area with little rain and few plants",
+      "bangla": "মরুভূমি",
+      "example": "The Sahara is a large desert.",
+      "exampleBn": "সাহারা একটি বিশাল মরুভূমি।"
+    },
+    {
+      "word": "earthquake",
+      "phonetic": "/ˈɜːrθkweɪk/",
+      "meaning": "a sudden shaking of the ground caused by movement beneath",
+      "bangla": "ভূমিকম্প",
+      "example": "The earthquake destroyed many homes.",
+      "exampleBn": "ভূমিকম্প অনেক বাড়ি ধ্বংস করে দিল।"
+    },
+    {
+      "word": "effective",
+      "phonetic": "/ɪˈfektɪv/",
+      "meaning": "producing the desired result successfully",
+      "bangla": "কার্যকর",
+      "example": "This method is very effective.",
+      "exampleBn": "এই পদ্ধতিটি অনেক কার্যকর।"
+    },
+    {
+      "word": "examine",
+      "phonetic": "/ɪɡˈzæmɪn/",
+      "meaning": "to look at or investigate carefully",
+      "bangla": "পরীক্ষা করা / যাচাই করা",
+      "example": "The doctor examined the patient.",
+      "exampleBn": "ডাক্তার রোগীকে পরীক্ষা করলেন।"
+    },
+    {
+      "word": "false",
+      "phonetic": "/fɔːls/",
+      "meaning": "not true or correct; intended to deceive",
+      "bangla": "মিথ্যা / ভুল",
+      "example": "That statement is false.",
+      "exampleBn": "সেই বক্তব্যটি মিথ্যা।"
+    },
+    {
+      "word": "gift",
+      "phonetic": "/ɡɪft/",
+      "meaning": "something given to someone; a natural talent",
+      "bangla": "উপহার / প্রতিভা",
+      "example": "She gave him a beautiful gift.",
+      "exampleBn": "সে তাকে একটি সুন্দর উপহার দিল।"
+    },
+    {
+      "word": "hunger",
+      "phonetic": "/ˈhʌŋɡər/",
+      "meaning": "the feeling of needing food; a strong desire for something",
+      "bangla": "ক্ষুধা / আকাঙ্ক্ষা",
+      "example": "Hunger kept him awake at night.",
+      "exampleBn": "ক্ষুধা তাকে রাতে জাগিয়ে রাখল।"
+    },
+    {
+      "word": "imagine",
+      "phonetic": "/ɪˈmædʒɪn/",
+      "meaning": "to form a picture or idea in the mind",
+      "bangla": "কল্পনা করা",
+      "example": "Imagine a world without war.",
+      "exampleBn": "যুদ্ধবিহীন একটি পৃথিবী কল্পনা করো।"
+    },
+    {
+      "word": "journey",
+      "phonetic": "/ˈdʒɜːrni/",
+      "meaning": "a long trip from one place to another",
+      "bangla": "যাত্রা / সফর",
+      "example": "The journey took three days.",
+      "exampleBn": "যাত্রাটি তিন দিন লেগেছিল।"
+    },
+    {
+      "word": "puzzle",
+      "phonetic": "/ˈpʌzl/",
+      "meaning": "something confusing or hard to understand; a game requiring thought",
+      "bangla": "ধাঁধা / বিভ্রান্তি",
+      "example": "This puzzle is quite difficult.",
+      "exampleBn": "এই ধাঁধাটি বেশ কঠিন।"
+    },
+    {
+      "word": "quite",
+      "phonetic": "/kwaɪt/",
+      "meaning": "to a certain degree; fairly or rather",
+      "bangla": "বেশ / মোটামুটি",
+      "example": "She is quite talented.",
+      "exampleBn": "সে বেশ প্রতিভাবান।"
+    },
+    {
+      "word": "rather",
+      "phonetic": "/ˈrɑːðər/",
+      "meaning": "to a certain degree; used to express preference",
+      "bangla": "বরং / মোটামুটি",
+      "example": "I would rather walk than drive.",
+      "exampleBn": "আমি গাড়ি চালানোর চেয়ে বরং হাঁটতে পছন্দ করব।"
+    },
+    {
+      "word": "specific",
+      "phonetic": "/spəˈsɪfɪk/",
+      "meaning": "clearly defined or particular",
+      "bangla": "নির্দিষ্ট / সুনির্দিষ্ট",
+      "example": "Give me a specific answer.",
+      "exampleBn": "আমাকে একটি নির্দিষ্ট উত্তর দাও।"
+    },
+    {
+      "word": "tour",
+      "phonetic": "/tʊər/",
+      "meaning": "a journey for pleasure visiting several places",
+      "bangla": "ভ্রমণ / পর্যটন",
+      "example": "We went on a tour of the city.",
+      "exampleBn": "আমরা শহরের একটি ভ্রমণে গেলাম।"
+    },
+    {
+      "word": "trip",
+      "phonetic": "/trɪp/",
+      "meaning": "a short journey to a place and back",
+      "bangla": "ভ্রমণ / সফর",
+      "example": "We took a trip to the coast.",
+      "exampleBn": "আমরা উপকূলে একটি সফরে গেলাম।"
+    },
+    {
+      "word": "value",
+      "phonetic": "/ˈvæljuː/",
+      "meaning": "the importance or worth of something; the price of something",
+      "bangla": "মূল্য / গুরুত্ব",
+      "example": "Hard work has great value.",
+      "exampleBn": "কঠোর পরিশ্রমের অনেক মূল্য আছে।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "actually believe",
+      "bangla": "আসলে বিশ্বাস করা",
+      "usage": "emphasis",
+      "example": "I actually believe this is the right path."
+    },
+    {
+      "phrase": "take a bite",
+      "bangla": "একটু কামড় দেওয়া",
+      "usage": "food",
+      "example": "She took a small bite of the fresh bread."
+    },
+    {
+      "phrase": "along the coast",
+      "bangla": "উপকূল বরাবর",
+      "usage": "geography",
+      "example": "They drove along the coast during their trip."
+    },
+    {
+      "phrase": "make a deal",
+      "bangla": "চুক্তি করা",
+      "usage": "business",
+      "example": "They made a deal before the tour began."
+    },
+    {
+      "phrase": "cross the desert",
+      "bangla": "মরুভূমি পার হওয়া",
+      "usage": "journey",
+      "example": "Their journey required them to cross the desert."
+    },
+    {
+      "phrase": "survive an earthquake",
+      "bangla": "ভূমিকম্পে বেঁচে থাকা",
+      "usage": "disaster",
+      "example": "Many families struggled to deal with life after surviving an earthquake."
+    },
+    {
+      "phrase": "effective method",
+      "bangla": "কার্যকর পদ্ধতি",
+      "usage": "problem solving",
+      "example": "She found quite an effective method for learning new words."
+    },
+    {
+      "phrase": "examine closely",
+      "bangla": "ঘনিষ্ঠভাবে পরীক্ষা করা",
+      "usage": "investigation",
+      "example": "The guide examined the map closely before the trip."
+    },
+    {
+      "phrase": "false information",
+      "bangla": "মিথ্যা তথ্য",
+      "usage": "honesty",
+      "example": "Spreading false information can cause real harm."
+    },
+    {
+      "phrase": "natural gift",
+      "bangla": "প্রাকৃতিক প্রতিভা",
+      "usage": "talent",
+      "example": "She has a natural gift for solving any puzzle."
+    },
+    {
+      "phrase": "hunger for knowledge",
+      "bangla": "জ্ঞানের আকাঙ্ক্ষা",
+      "usage": "motivation",
+      "example": "His hunger for knowledge made him quite an effective learner."
+    },
+    {
+      "phrase": "imagine a journey",
+      "bangla": "একটি যাত্রা কল্পনা করা",
+      "usage": "creativity",
+      "example": "Close your eyes and imagine a journey across the desert."
+    },
+    {
+      "phrase": "long journey",
+      "bangla": "দীর্ঘ যাত্রা",
+      "usage": "travel",
+      "example": "The long journey along the coast was quite tiring but worth it."
+    },
+    {
+      "phrase": "solve a puzzle",
+      "bangla": "ধাঁধা সমাধান করা",
+      "usage": "thinking",
+      "example": "It took rather a long time to solve the puzzle."
+    },
+    {
+      "phrase": "quite interesting",
+      "bangla": "বেশ আকর্ষণীয়",
+      "usage": "description",
+      "example": "The tour guide told quite interesting stories about the coast."
+    },
+    {
+      "phrase": "rather difficult",
+      "bangla": "বরং কঠিন",
+      "usage": "degree",
+      "example": "Crossing the desert was rather difficult without a guide."
+    },
+    {
+      "phrase": "specific place",
+      "bangla": "নির্দিষ্ট স্থান",
+      "usage": "direction",
+      "example": "The tour focused on a specific place along the coast."
+    },
+    {
+      "phrase": "go on a tour",
+      "bangla": "সফরে যাওয়া",
+      "usage": "travel",
+      "example": "They decided to go on a tour of the desert region."
+    },
+    {
+      "phrase": "short trip",
+      "bangla": "ছোট সফর",
+      "usage": "travel",
+      "example": "A short trip to the coast was quite refreshing."
+    },
+    {
+      "phrase": "true value",
+      "bangla": "প্রকৃত মূল্য",
+      "usage": "appreciation",
+      "example": "You only realize the true value of a journey when it ends."
+    }
+  ],
+
+  "sentences": [
+    {
+      "en": "She was quite nervous but actually performed better than anyone expected.",
+      "bn": "সে বেশ নার্ভাস ছিল কিন্তু আসলে সবার প্রত্যাশার চেয়ে ভালো পারফর্ম করল।"
+    },
+    {
+      "en": "A mosquito bite can actually cause quite a serious illness in some regions.",
+      "bn": "একটি মশার কামড় আসলে কিছু অঞ্চলে বেশ গুরুতর অসুখ সৃষ্টি করতে পারে।"
+    },
+    {
+      "en": "The tour followed the coast for two days before turning inland.",
+      "bn": "ভ্রমণটি ভেতরে ঢোকার আগে দুই দিন উপকূল অনুসরণ করল।"
+    },
+    {
+      "en": "It was quite a good deal considering the value of the gift.",
+      "bn": "উপহারের মূল্য বিবেচনা করলে এটি বেশ ভালো চুক্তি ছিল।"
+    },
+    {
+      "en": "Crossing a desert without a specific plan is rather dangerous.",
+      "bn": "একটি নির্দিষ্ট পরিকল্পনা ছাড়া মরুভূমি পার হওয়া বরং বিপজ্জনক।"
+    },
+    {
+      "en": "After the earthquake, the government examined the specific damage to each area.",
+      "bn": "ভূমিকম্পের পরে সরকার প্রতিটি এলাকার নির্দিষ্ট ক্ষতি পরীক্ষা করল।"
+    },
+    {
+      "en": "The most effective way to deal with hunger on a long journey is to plan ahead.",
+      "bn": "দীর্ঘ যাত্রায় ক্ষুধার মোকাবেলা করার সবচেয়ে কার্যকর উপায় হলো আগে থেকে পরিকল্পনা করা।"
+    },
+    {
+      "en": "The doctor examined him carefully and said the false alarm was actually harmless.",
+      "bn": "ডাক্তার তাকে সাবধানে পরীক্ষা করলেন এবং বললেন মিথ্যা সতর্কতাটি আসলে ক্ষতিকর নয়।"
+    },
+    {
+      "en": "It would be quite false to say the journey had no value at all.",
+      "bn": "এটা বলা বেশ মিথ্যা হবে যে যাত্রাটির কোনো মূল্যই ছিল না।"
+    },
+    {
+      "en": "The greatest gift a teacher can give is a hunger for learning.",
+      "bn": "একজন শিক্ষক যে সবচেয়ে বড় উপহার দিতে পারেন তা হলো শেখার ক্ষুধা।"
+    },
+    {
+      "en": "Her hunger for adventure led her on a rather unexpected journey to the coast.",
+      "bn": "রোমাঞ্চের আকাঙ্ক্ষা তাকে উপকূলে বরং অপ্রত্যাশিত একটি যাত্রায় নিয়ে গেল।"
+    },
+    {
+      "en": "Can you imagine taking a trip across the desert with no water at all?",
+      "bn": "তুমি কি কল্পনা করতে পারো একটু পানি ছাড়াই মরুভূমি পার হওয়ার সফরে যাওয়া?"
+    },
+    {
+      "en": "The journey taught them the true value of friendship and specific acts of kindness.",
+      "bn": "যাত্রাটি তাদের বন্ধুত্বের প্রকৃত মূল্য এবং সুনির্দিষ্ট সদয় আচরণের মূল্য শেখাল।"
+    },
+    {
+      "en": "Life is quite a puzzle until you examine it with patience and an open mind.",
+      "bn": "জীবন বেশ একটি ধাঁধা যতক্ষণ না তুমি ধৈর্য ও খোলা মন দিয়ে এটি পরীক্ষা করো।"
+    },
+    {
+      "en": "The coast was quite beautiful but rather crowded during the peak tour season.",
+      "bn": "পর্যটনের মৌসুমে উপকূলটি বেশ সুন্দর কিন্তু বরং ভিড়পূর্ণ ছিল।"
+    },
+    {
+      "en": "She would rather take a short trip to the coast than go on a long desert tour.",
+      "bn": "সে দীর্ঘ মরুভূমি সফরে যাওয়ার চেয়ে বরং উপকূলে একটি ছোট সফরে যেতে পছন্দ করত।"
+    },
+    {
+      "en": "Be specific about the route you plan to take before starting the journey.",
+      "bn": "যাত্রা শুরু করার আগে তুমি যে রুটটি নিতে চাও সে সম্পর্কে সুনির্দিষ্ট হও।"
+    },
+    {
+      "en": "The tour guide shared quite fascinating stories about the earthquake that struck the coast.",
+      "bn": "ট্যুর গাইড উপকূলে আঘাত করা ভূমিকম্প সম্পর্কে বেশ আকর্ষণীয় গল্প শেয়ার করলেন।"
+    },
+    {
+      "en": "The trip was rather short but it actually changed the way she thought about life.",
+      "bn": "সফরটি বরং ছোট ছিল কিন্তু এটি আসলে জীবন সম্পর্কে তার চিন্তাভাবনা পরিবর্তন করে দিল।"
+    },
+    {
+      "en": "The true value of any gift is not the price but the thought behind it.",
+      "bn": "যেকোনো উপহারের প্রকৃত মূল্য দাম নয় বরং এর পেছনের ভাবনা।"
+    }
+  ],
+
+  "quiz": [
+    {
+      "q": "Actually means?",
+      "opts": [
+        "in a false way",
+        "in reality or used to emphasize truth",
+        "quite specifically",
+        "rather slowly"
+      ],
+      "ans": 1,
+      "explanation": "Actually means in truth or in fact, often used to correct a misunderstanding or add emphasis."
+    },
+    {
+      "q": "Bite means?",
+      "opts": [
+        "to examine something closely",
+        "to use teeth to cut into something",
+        "to imagine a journey",
+        "to deal with hunger"
+      ],
+      "ans": 1,
+      "explanation": "Bite means to use the teeth to cut into or grip something, or a small amount of food."
+    },
+    {
+      "q": "Coast means?",
+      "opts": [
+        "the center of a desert",
+        "the land along the edge of a sea or ocean",
+        "a specific tour route",
+        "a rather long journey"
+      ],
+      "ans": 1,
+      "explanation": "Coast means the part of the land that is next to or near the sea or ocean."
+    },
+    {
+      "q": "Deal means?",
+      "opts": [
+        "a false promise",
+        "an agreement or to handle a situation",
+        "a specific gift",
+        "a quite long trip"
+      ],
+      "ans": 1,
+      "explanation": "Deal means an agreement made between two parties, or to take action to handle a situation."
+    },
+    {
+      "q": "Desert means?",
+      "opts": [
+        "a coast with many trees",
+        "a large dry area with little rain and few plants",
+        "a quite cold journey",
+        "a rather wet valley"
+      ],
+      "ans": 1,
+      "explanation": "Desert means a large area of land that receives very little rainfall and has little vegetation."
+    },
+    {
+      "q": "Earthquake means?",
+      "opts": [
+        "a flood along the coast",
+        "a sudden shaking of the ground",
+        "a quite long desert trip",
+        "a false alarm in a tour"
+      ],
+      "ans": 1,
+      "explanation": "Earthquake means a sudden violent shaking of the ground caused by movements in the Earth's crust."
+    },
+    {
+      "q": "Effective means?",
+      "opts": [
+        "producing no result at all",
+        "producing the desired result successfully",
+        "rather false and misleading",
+        "quite specific but useless"
+      ],
+      "ans": 1,
+      "explanation": "Effective means successful in producing a desired or intended result."
+    },
+    {
+      "q": "Examine means?",
+      "opts": [
+        "to ignore something completely",
+        "to look at or investigate carefully",
+        "to imagine a false journey",
+        "to deal with a puzzle quickly"
+      ],
+      "ans": 1,
+      "explanation": "Examine means to inspect something or someone carefully in order to understand or assess it."
+    },
+    {
+      "q": "False means?",
+      "opts": [
+        "completely true and correct",
+        "not true or intended to deceive",
+        "quite specific and helpful",
+        "rather effective and real"
+      ],
+      "ans": 1,
+      "explanation": "False means not correct or true, or intended to mislead or deceive someone."
+    },
+    {
+      "q": "Gift means?",
+      "opts": [
+        "a quite long trip",
+        "something given or a natural talent",
+        "a specific coast journey",
+        "a rather false deal"
+      ],
+      "ans": 1,
+      "explanation": "Gift means something given to someone as a present, or a natural talent or ability."
+    },
+    {
+      "q": "Hunger means?",
+      "opts": [
+        "a feeling of being full",
+        "the feeling of needing food or a strong desire",
+        "a quite specific deal",
+        "a false journey puzzle"
+      ],
+      "ans": 1,
+      "explanation": "Hunger means the discomfort caused by a need for food, or a strong craving or desire for something."
+    },
+    {
+      "q": "Imagine means?",
+      "opts": [
+        "to examine something false",
+        "to form a picture or idea in the mind",
+        "to deal with a specific coast",
+        "to bite into a gift"
+      ],
+      "ans": 1,
+      "explanation": "Imagine means to form a mental image or concept of something that is not actually present."
+    },
+    {
+      "q": "Journey means?",
+      "opts": [
+        "a short bite of food",
+        "a long trip from one place to another",
+        "a quite false deal",
+        "a specific earthquake puzzle"
+      ],
+      "ans": 1,
+      "explanation": "Journey means an act of traveling from one place to another, especially over a long distance."
+    },
+    {
+      "q": "Puzzle means?",
+      "opts": [
+        "something quite effective",
+        "something confusing or a game requiring thought",
+        "a false coast value",
+        "a rather specific gift"
+      ],
+      "ans": 1,
+      "explanation": "Puzzle means something that is difficult to understand or explain, or a game that tests thinking skills."
+    },
+    {
+      "q": "Quite means?",
+      "opts": [
+        "not at all or never",
+        "to a certain degree or fairly",
+        "rather false and specific",
+        "a long desert journey"
+      ],
+      "ans": 1,
+      "explanation": "Quite means to a certain or fairly significant degree, used to modify adjectives and adverbs."
+    },
+    {
+      "q": "Rather means?",
+      "opts": [
+        "not effective at all",
+        "to a certain degree or used to express preference",
+        "quite a false deal",
+        "a specific coast bite"
+      ],
+      "ans": 1,
+      "explanation": "Rather means to a moderate degree or used to indicate a preference between two choices."
+    },
+    {
+      "q": "Specific means?",
+      "opts": [
+        "vague and general",
+        "clearly defined or particular",
+        "quite false and puzzling",
+        "rather a long journey"
+      ],
+      "ans": 1,
+      "explanation": "Specific means clearly defined or identified, relating to a particular thing and no other."
+    },
+    {
+      "q": "Tour means?",
+      "opts": [
+        "a quite false earthquake",
+        "a journey for pleasure visiting several places",
+        "a specific desert bite",
+        "a rather long puzzle"
+      ],
+      "ans": 1,
+      "explanation": "Tour means a journey for pleasure in which several different places are visited."
+    },
+    {
+      "q": "Trip means?",
+      "opts": [
+        "a long journey with no return",
+        "a short journey to a place and back",
+        "a quite specific desert",
+        "a rather false coast"
+      ],
+      "ans": 1,
+      "explanation": "Trip means a journey to a place and back again, usually for a short time."
+    },
+    {
+      "q": "Value means?",
+      "opts": [
+        "something false and useless",
+        "the importance or worth of something",
+        "a quite specific bite",
+        "a rather long puzzle tour"
+      ],
+      "ans": 1,
+      "explanation": "Value means the regard that something is held to deserve or the importance, worth, or usefulness of something."
+    }
+  ],
+
+  "story": {
+    "title": "A Journey Worth Every Puzzle",
+    "body": "Zara had always imagined taking a long journey far from her city. She was quite an adventurous person with a natural gift for finding her way through unfamiliar places — solving the puzzle of each new road and trail the way others solved crosswords at breakfast. So when her teacher announced a specific educational tour along the southern coast, Zara felt a hunger unlike anything she had experienced before. It was not hunger for food but rather a deep and burning hunger for the world beyond her classroom walls. The trip was actually more complex than she had expected. It began with a two-day journey through a rather dry landscape that edged along the border of a small desert region. The guide — a tall, cheerful man named Hassan — walked beside them and pointed out specific features of the land with great enthusiasm. He told them that a powerful earthquake had once struck this coast many decades ago, destroying the original villages. Scientists had later come to examine the damage and it had taken quite a long time to rebuild what was lost. Zara listened to every word, examining each detail as though it were a piece of a larger puzzle. On the second day, they reached the coast. The sight was actually breathtaking — the blue water stretching far beyond what the eye could follow, the sound of waves quite unlike anything she had heard in the city. She sat at the edge of the shore and took a small bite of the bread she had packed, watching a fisherman deal with his nets in the shallow water nearby. She thought about the value of moments like this — how false it seemed, in that instant, that she had ever considered staying home. By the end of the tour, Zara had filled three notebooks with specific observations, sketches, and ideas. She had found quite an effective way to record her experience — not just facts but feelings. On the final evening Hassan gathered everyone and said, 'A journey is not just a trip from one place to another. Its real value is what it leaves inside you — the questions it raises, the puzzles it plants, and the hunger it creates to keep going.' Zara smiled. She was already imagining the next one.",
+    "comprehension": [
+      {
+        "q": "What kind of hunger did Zara feel before the trip?",
+        "opts": [
+          "hunger for food after a long day",
+          "a deep hunger for the world beyond her classroom",
+          "hunger caused by the desert heat",
+          "hunger that a bite of bread could fix"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What had the earthquake done to the original coast villages?",
+        "opts": [
+          "it made them quite famous",
+          "it destroyed them and scientists came to examine the damage",
+          "it created a specific desert nearby",
+          "it actually made the coast more beautiful"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "How did Zara describe her method of recording the journey?",
+        "opts": [
+          "she took quite a lot of photographs",
+          "she found an effective way to record not just facts but feelings",
+          "she dealt with a puzzle book instead",
+          "she rather ignored the specific details"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Hassan say about the value of a journey?",
+        "opts": [
+          "its value is the specific deal you make along the way",
+          "its real value is what it leaves inside you",
+          "its value is actually false unless you reach the coast",
+          "its value depends on the length of the trip"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What was Zara doing at the end of the story?",
+        "opts": [
+          "examining the earthquake damage",
+          "already imagining her next journey",
+          "dealing with a quite difficult puzzle",
+          "taking a bite of food on the coast"
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "actually",
+      "bite",
+      "coast",
+      "deal",
+      "desert",
+      "earthquake",
+      "effective",
+      "examine",
+      "false",
+      "gift",
+      "hunger",
+      "imagine",
+      "journey",
+      "puzzle",
+      "quite",
+      "rather",
+      "specific",
+      "tour",
+      "trip",
+      "value"
+    ]
+  },
+
+  "listening": {
+    "title": "Two Travelers Planning a Tour",
+    "script": "A: I have been imagining a long trip for quite some time now. Are you interested in joining?\nB: Actually yes. Where are you thinking of going specifically?\nA: I would rather go somewhere with nature — maybe a tour along the coast or through a desert region.\nB: That sounds quite exciting. A desert journey would be rather challenging though.\nA: True. But that is actually part of the gift of travel — dealing with challenges.\nB: Have you examined any specific tour packages yet?\nA: I have looked at a few. One is quite effective in covering both the coast and a desert area.\nB: What is the deal with the price? Is the value worth it?\nA: Actually it is quite reasonable. The guide is experienced and the tour is specific about safety.\nB: I would rather not go somewhere with high earthquake risk though.\nA: I understand. This specific region along the coast has quite a low risk according to experts.\nB: Good. I imagine the coast would be beautiful. A short trip there sounds rather ideal.\nA: Exactly. And I am quite hungry for a real journey — not just a short trip but a full tour.\nB: I feel the same hunger actually. Daily life can feel quite puzzling sometimes.\nA: That is a false way to feel. Travel actually helps you examine your life more clearly.\nB: You are right. The value of a good trip is quite difficult to put into words.\nA: So shall we make a deal and book the tour?\nB: Rather sooner than later. Let us examine the specific details tonight.\nA: Perfect. I imagine it will be quite an unforgettable journey.\nB: A gift to ourselves — that is actually what it is.",
+    "comprehension": [
+      {
+        "q": "Where would the first speaker rather go for their trip?",
+        "opts": [
+          "somewhere quite cold and rainy",
+          "somewhere with nature like the coast or desert",
+          "a specific city tour only",
+          "an earthquake zone to examine the damage"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does the first speaker say is the gift of travel?",
+        "opts": [
+          "getting quite a good deal on a tour",
+          "dealing with challenges along the journey",
+          "examining false information about specific places",
+          "taking a bite of local food"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "Why does the second speaker not want to go somewhere with earthquake risk?",
+        "opts": [
+          "they would rather take a desert trip instead",
+          "they are concerned about safety on the journey",
+          "they think the value of such a tour is false",
+          "they imagine it would be quite boring"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What do both speakers agree to do at the end?",
+        "opts": [
+          "examine a puzzle about the coast",
+          "make a deal and examine the specific tour details that night",
+          "take a rather short bite of the journey plan",
+          "imagine the trip rather than actually go"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Describing a Trip or Journey You Have Taken or Would Like to Take",
+    "prompt": "Talk about a real or imagined trip. Use words like journey, trip, tour, coast, desert, quite, rather, specific, value, imagine, gift, and effective.",
+    "example": "I once took a rather short trip to the coast with my family. It was actually one of the most valuable experiences of my life. I had imagined the sea many times before, but seeing it in person was quite different — the sound, the smell, and the sight of the water stretching endlessly forward was a true gift. We followed a specific route along the coast that our guide had mapped out effectively. On the second day, we examined some ruins from an old earthquake that had struck the region long ago. It was quite a puzzle to imagine how people had dealt with such a disaster and still rebuilt their lives. I would rather take a long journey like that than any amount of time sitting in one place. The true value of travel is not the distance you cover but the hunger it creates inside you for more of the world.",
+    "tips": [
+      "Start by naming a specific place you visited or would like to visit",
+      "Use journey and trip to describe the experience and how you traveled",
+      "Use quite and rather to describe how things felt along the way",
+      "Mention something specific you examined or discovered during the tour",
+      "Use gift, value, and hunger to reflect on what the journey meant to you",
+      "End by imagining what you would do differently or where you would go next"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Two friends planning their first trip together",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "Have you ever been on a long journey or tour outside your city?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Talk about a trip you have taken or imagine one you would like to go on."
+      },
+      {
+        "speaker": "app",
+        "text": "Would you rather visit a coast or travel through a desert region?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Share your preference and give specific reasons for your choice."
+      },
+      {
+        "speaker": "app",
+        "text": "What do you think is the most effective way to prepare for a long journey?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Describe your preparation method and what specific things you would examine before going."
+      },
+      {
+        "speaker": "app",
+        "text": "Have you ever had to deal with something quite unexpected on a trip?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Share a real or imagined story about something unexpected like an earthquake or false directions."
+      },
+      {
+        "speaker": "app",
+        "text": "What is the true value of travel to you — is it the places or what you learn about yourself?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Reflect on the value and gift of travel using words like hunger, imagine, and quite."
+      },
+      {
+        "speaker": "app",
+        "text": "If someone offered you a deal for a free tour anywhere in the world, where would you go and why?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Describe your dream destination with specific details and explain what puzzle or gift you hope to find there."
+      }
+    ]
+  }
+}

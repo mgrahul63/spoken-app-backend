@@ -1,0 +1,505 @@
+{
+  "day": 26,
+  "topic": "Thinking, Movement & Social Life Vocabulary",
+  "lessonId": "L0D26",
+  "vocabulary": [
+    {
+      "word": "advice",
+      "phonetic": "/ədˈvaɪs/",
+      "meaning": "a suggestion about what someone should do",
+      "bangla": "পরামর্শ",
+      "example": "She gave me good advice.",
+      "exampleBn": "সে আমাকে ভালো পরামর্শ দিল।"
+    },
+    {
+      "word": "along",
+      "phonetic": "/əˈlɒŋ/",
+      "meaning": "moving in the same direction or beside something",
+      "bangla": "বরাবর / সাথে",
+      "example": "We walked along the river.",
+      "exampleBn": "আমরা নদীর বরাবর হাঁটলাম।"
+    },
+    {
+      "word": "attention",
+      "phonetic": "/əˈtenʃn/",
+      "meaning": "the act of focusing the mind on something",
+      "bangla": "মনোযোগ",
+      "example": "Pay attention in class.",
+      "exampleBn": "ক্লাসে মনোযোগ দাও।"
+    },
+    {
+      "word": "attract",
+      "phonetic": "/əˈtrækt/",
+      "meaning": "to cause interest or draw someone toward something",
+      "bangla": "আকর্ষণ করা",
+      "example": "Flowers attract butterflies.",
+      "exampleBn": "ফুল প্রজাপতিকে আকর্ষণ করে।"
+    },
+    {
+      "word": "climb",
+      "phonetic": "/klaɪm/",
+      "meaning": "to go up something using hands and feet",
+      "bangla": "আরোহণ করা",
+      "example": "He climbed the tall tree.",
+      "exampleBn": "সে উঁচু গাছে আরোহণ করল।"
+    },
+    {
+      "word": "drop",
+      "phonetic": "/drɒp/",
+      "meaning": "to fall or let something fall",
+      "bangla": "ফেলে দেওয়া / পড়া",
+      "example": "Don't drop the glass.",
+      "exampleBn": "গ্লাসটি ফেলে দিও না।"
+    },
+    {
+      "word": "final",
+      "phonetic": "/ˈfaɪnl/",
+      "meaning": "the last in a series; coming at the end",
+      "bangla": "চূড়ান্ত / শেষ",
+      "example": "This is the final round.",
+      "exampleBn": "এটি চূড়ান্ত রাউন্ড।"
+    },
+    {
+      "word": "further",
+      "phonetic": "/ˈfɜːrðər/",
+      "meaning": "at a greater distance or to a greater degree",
+      "bangla": "আরও দূরে / আরও বেশি",
+      "example": "We need to go further.",
+      "exampleBn": "আমাদের আরও দূরে যেতে হবে।"
+    },
+    {
+      "word": "imply",
+      "phonetic": "/ɪmˈplaɪ/",
+      "meaning": "to suggest something without saying it directly",
+      "bangla": "ইঙ্গিত করা",
+      "example": "What does this sign imply?",
+      "exampleBn": "এই চিহ্নটি কী ইঙ্গিত করে?"
+    },
+    {
+      "word": "maintain",
+      "phonetic": "/meɪnˈteɪn/",
+      "meaning": "to keep something in good condition or continue it",
+      "bangla": "বজায় রাখা",
+      "example": "Maintain silence in the library.",
+      "exampleBn": "পাঠাগারে নীরবতা বজায় রাখো।"
+    },
+    {
+      "word": "neither",
+      "phonetic": "/ˈniːðər/",
+      "meaning": "not one and not the other of two things",
+      "bangla": "কোনোটিই না",
+      "example": "Neither answer is correct.",
+      "exampleBn": "কোনো উত্তরটিই সঠিক নয়।"
+    },
+    {
+      "word": "otherwise",
+      "phonetic": "/ˈʌðərwaɪz/",
+      "meaning": "in a different way; or else",
+      "bangla": "অন্যথায়",
+      "example": "Hurry, otherwise we will be late.",
+      "exampleBn": "তাড়াতাড়ি করো, অন্যথায় আমরা দেরি হয়ে যাব।"
+    },
+    {
+      "word": "physical",
+      "phonetic": "/ˈfɪzɪkl/",
+      "meaning": "relating to the body or natural world",
+      "bangla": "শারীরিক / প্রাকৃতিক",
+      "example": "Physical exercise keeps you healthy.",
+      "exampleBn": "শারীরিক ব্যায়াম তোমাকে সুস্থ রাখে।"
+    },
+    {
+      "word": "prove",
+      "phonetic": "/pruːv/",
+      "meaning": "to show that something is true",
+      "bangla": "প্রমাণ করা",
+      "example": "She proved her point clearly.",
+      "exampleBn": "সে তার বিষয়টি স্পষ্টভাবে প্রমাণ করল।"
+    },
+    {
+      "word": "react",
+      "phonetic": "/riˈækt/",
+      "meaning": "to respond to something that has happened",
+      "bangla": "প্রতিক্রিয়া দেখানো",
+      "example": "How did she react to the news?",
+      "exampleBn": "সে খবরে কীভাবে প্রতিক্রিয়া দেখাল?"
+    },
+    {
+      "word": "ride",
+      "phonetic": "/raɪd/",
+      "meaning": "to sit on and control a vehicle or animal",
+      "bangla": "চড়া / আরোহণ করা",
+      "example": "He rides a bicycle to school.",
+      "exampleBn": "সে স্কুলে সাইকেলে চড়ে যায়।"
+    },
+    {
+      "word": "situated",
+      "phonetic": "/ˈsɪtʃueɪtɪd/",
+      "meaning": "located in a particular place",
+      "bangla": "অবস্থিত",
+      "example": "The school is situated near the park.",
+      "exampleBn": "স্কুলটি পার্কের কাছে অবস্থিত।"
+    },
+    {
+      "word": "society",
+      "phonetic": "/səˈsaɪəti/",
+      "meaning": "people living together in an organized community",
+      "bangla": "সমাজ",
+      "example": "Education improves society.",
+      "exampleBn": "শিক্ষা সমাজকে উন্নত করে।"
+    },
+    {
+      "word": "standard",
+      "phonetic": "/ˈstændərd/",
+      "meaning": "a level of quality used as a measure",
+      "bangla": "মান / মানদণ্ড",
+      "example": "Maintain a high standard of work.",
+      "exampleBn": "কাজের উচ্চ মান বজায় রাখো।"
+    },
+    {
+      "word": "suggest",
+      "phonetic": "/səˈdʒest/",
+      "meaning": "to put forward an idea for someone to consider",
+      "bangla": "পরামর্শ দেওয়া / প্রস্তাব করা",
+      "example": "I suggest we leave early.",
+      "exampleBn": "আমি পরামর্শ দিচ্ছি আমরা আগে চলে যাই।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "give advice",
+      "bangla": "পরামর্শ দেওয়া",
+      "usage": "guidance",
+      "example": "She always gives good advice."
+    },
+    {
+      "phrase": "walk along",
+      "bangla": "বরাবর হাঁটা",
+      "usage": "movement",
+      "example": "Walk along the path."
+    },
+    {
+      "phrase": "pay attention",
+      "bangla": "মনোযোগ দেওয়া",
+      "usage": "focus",
+      "example": "Pay attention to the teacher."
+    },
+    {
+      "phrase": "attract attention",
+      "bangla": "মনোযোগ আকর্ষণ করা",
+      "usage": "interest",
+      "example": "The display attracted attention."
+    },
+    {
+      "phrase": "climb a mountain",
+      "bangla": "পাহাড়ে আরোহণ করা",
+      "usage": "adventure",
+      "example": "They climbed the mountain."
+    },
+    {
+      "phrase": "drop everything",
+      "bangla": "সব ছেড়ে দেওয়া",
+      "usage": "urgency",
+      "example": "She dropped everything to help."
+    },
+    {
+      "phrase": "final decision",
+      "bangla": "চূড়ান্ত সিদ্ধান্ত",
+      "usage": "conclusion",
+      "example": "What is your final decision?"
+    },
+    {
+      "phrase": "go further",
+      "bangla": "আরও এগিয়ে যাওয়া",
+      "usage": "progress",
+      "example": "He wants to go further in life."
+    },
+    {
+      "phrase": "imply meaning",
+      "bangla": "অর্থ ইঙ্গিত করা",
+      "usage": "communication",
+      "example": "What does this imply?"
+    },
+    {
+      "phrase": "maintain health",
+      "bangla": "স্বাস্থ্য বজায় রাখা",
+      "usage": "wellness",
+      "example": "Maintain your health daily."
+    },
+    {
+      "phrase": "neither option",
+      "bangla": "কোনো বিকল্পই না",
+      "usage": "choice",
+      "example": "Neither option is good."
+    },
+    {
+      "phrase": "otherwise fail",
+      "bangla": "অন্যথায় ব্যর্থ হওয়া",
+      "usage": "warning",
+      "example": "Study hard otherwise fail."
+    },
+    {
+      "phrase": "physical strength",
+      "bangla": "শারীরিক শক্তি",
+      "usage": "health",
+      "example": "Build your physical strength."
+    },
+    {
+      "phrase": "prove yourself",
+      "bangla": "নিজেকে প্রমাণ করা",
+      "usage": "achievement",
+      "example": "Always prove yourself."
+    },
+    {
+      "phrase": "react calmly",
+      "bangla": "শান্তভাবে প্রতিক্রিয়া দেখানো",
+      "usage": "emotion",
+      "example": "React calmly to problems."
+    },
+    {
+      "phrase": "ride a bike",
+      "bangla": "বাইক চালানো",
+      "usage": "transport",
+      "example": "He loves to ride a bike."
+    },
+    {
+      "phrase": "situated near",
+      "bangla": "কাছে অবস্থিত",
+      "usage": "location",
+      "example": "It is situated near the river."
+    },
+    {
+      "phrase": "benefit society",
+      "bangla": "সমাজের উপকার করা",
+      "usage": "community",
+      "example": "Education benefits society."
+    },
+    {
+      "phrase": "high standard",
+      "bangla": "উচ্চ মান",
+      "usage": "quality",
+      "example": "Keep a high standard always."
+    },
+    {
+      "phrase": "suggest an idea",
+      "bangla": "একটি ধারণা প্রস্তাব করা",
+      "usage": "planning",
+      "example": "Can you suggest an idea?"
+    }
+  ],
+
+  "sentences": [
+    { "en": "Take my advice seriously.", "bn": "আমার পরামর্শ গুরুত্বের সাথে নাও।" },
+    { "en": "She sat along the window.", "bn": "সে জানালার পাশে বসল।" },
+    { "en": "Give your full attention.", "bn": "তোমার সম্পূর্ণ মনোযোগ দাও।" },
+    { "en": "Light attracts insects.", "bn": "আলো পোকামাকড়কে আকর্ষণ করে।" },
+    { "en": "Can you climb that wall?", "bn": "তুমি কি সেই দেয়ালে উঠতে পারবে?" },
+    { "en": "The temperature dropped at night.", "bn": "রাতে তাপমাত্রা কমে গেল।" },
+    { "en": "Make a final choice.", "bn": "একটি চূড়ান্ত পছন্দ করো।" },
+    { "en": "Look no further for help.", "bn": "সাহায্যের জন্য আর খুঁজো না।" },
+    { "en": "What does that silence imply?", "bn": "সেই নীরবতা কী ইঙ্গিত করে?" },
+    { "en": "Maintain a clean desk.", "bn": "একটি পরিষ্কার ডেস্ক বজায় রাখো।" },
+    { "en": "Neither road leads home.", "bn": "কোনো রাস্তাই বাড়িতে যায় না।" },
+    { "en": "Eat well, otherwise get sick.", "bn": "ভালো খাও, অন্যথায় অসুস্থ হয়ে পড়বে।" },
+    { "en": "Physical fitness is important.", "bn": "শারীরিক সুস্থতা গুরুত্বপূর্ণ।" },
+    { "en": "He proved his innocence.", "bn": "সে তার নির্দোষিতা প্রমাণ করল।" },
+    { "en": "React wisely to criticism.", "bn": "সমালোচনায় বিজ্ঞতার সাথে প্রতিক্রিয়া দেখাও।" },
+    { "en": "She rides a horse every day.", "bn": "সে প্রতিদিন ঘোড়ায় চড়ে।" },
+    { "en": "The village is situated by a lake.", "bn": "গ্রামটি একটি হ্রদের পাশে অবস্থিত।" },
+    { "en": "We must serve our society.", "bn": "আমাদের সমাজের সেবা করতে হবে।" },
+    { "en": "Set a high standard for yourself.", "bn": "নিজের জন্য উচ্চ মান নির্ধারণ করো।" },
+    { "en": "I suggest you study more.", "bn": "আমি পরামর্শ দিচ্ছি তুমি আরও পড়াশোনা করো।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Advice means?",
+      "opts": ["order", "suggestion about what to do", "question", "complaint"],
+      "ans": 1,
+      "explanation": "Advice means a suggestion about what someone should do."
+    },
+    {
+      "q": "Along means?",
+      "opts": ["against", "moving beside something", "away", "above"],
+      "ans": 1,
+      "explanation": "Along means moving in the same direction or beside something."
+    },
+    {
+      "q": "Attention means?",
+      "opts": ["sleep", "focusing the mind on something", "noise", "break"],
+      "ans": 1,
+      "explanation": "Attention means the act of focusing the mind on something."
+    },
+    {
+      "q": "Attract means?",
+      "opts": ["push away", "draw someone toward something", "ignore", "destroy"],
+      "ans": 1,
+      "explanation": "Attract means to cause interest or draw someone toward something."
+    },
+    {
+      "q": "Climb means?",
+      "opts": ["fall", "go up using hands and feet", "swim", "run"],
+      "ans": 1,
+      "explanation": "Climb means to go up something using hands and feet."
+    },
+    {
+      "q": "Drop means?",
+      "opts": ["lift", "fall or let something fall", "carry", "push"],
+      "ans": 1,
+      "explanation": "Drop means to fall or let something fall."
+    },
+    {
+      "q": "Final means?",
+      "opts": ["first", "last in a series", "middle", "random"],
+      "ans": 1,
+      "explanation": "Final means the last in a series; coming at the end."
+    },
+    {
+      "q": "Further means?",
+      "opts": ["closer", "at a greater distance or degree", "behind", "less"],
+      "ans": 1,
+      "explanation": "Further means at a greater distance or to a greater degree."
+    },
+    {
+      "q": "Imply means?",
+      "opts": ["deny", "suggest without saying directly", "shout", "prove"],
+      "ans": 1,
+      "explanation": "Imply means to suggest something without saying it directly."
+    },
+    {
+      "q": "Maintain means?",
+      "opts": ["destroy", "keep in good condition", "ignore", "break"],
+      "ans": 1,
+      "explanation": "Maintain means to keep something in good condition or continue it."
+    },
+    {
+      "q": "Neither means?",
+      "opts": ["both", "not one and not the other", "all", "some"],
+      "ans": 1,
+      "explanation": "Neither means not one and not the other of two things."
+    },
+    {
+      "q": "Otherwise means?",
+      "opts": ["therefore", "in a different way or else", "also", "because"],
+      "ans": 1,
+      "explanation": "Otherwise means in a different way; or else."
+    },
+    {
+      "q": "Physical means?",
+      "opts": ["mental", "relating to the body", "emotional", "spiritual"],
+      "ans": 1,
+      "explanation": "Physical means relating to the body or natural world."
+    },
+    {
+      "q": "Prove means?",
+      "opts": ["doubt", "show that something is true", "hide", "guess"],
+      "ans": 1,
+      "explanation": "Prove means to show that something is true."
+    },
+    {
+      "q": "React means?",
+      "opts": ["plan ahead", "respond to something that happened", "stay silent", "forget"],
+      "ans": 1,
+      "explanation": "React means to respond to something that has happened."
+    },
+    {
+      "q": "Ride means?",
+      "opts": ["walk", "sit on and control a vehicle or animal", "carry", "push"],
+      "ans": 1,
+      "explanation": "Ride means to sit on and control a vehicle or animal."
+    },
+    {
+      "q": "Situated means?",
+      "opts": ["lost", "located in a particular place", "hidden", "moving"],
+      "ans": 1,
+      "explanation": "Situated means located in a particular place."
+    },
+    {
+      "q": "Society means?",
+      "opts": ["single person", "people living together in community", "building", "factory"],
+      "ans": 1,
+      "explanation": "Society means people living together in an organized community."
+    },
+    {
+      "q": "Standard means?",
+      "opts": ["random level", "level of quality used as a measure", "color", "noise"],
+      "ans": 1,
+      "explanation": "Standard means a level of quality used as a measure."
+    },
+    {
+      "q": "Suggest means?",
+      "opts": ["demand", "put forward an idea to consider", "order", "refuse"],
+      "ans": 1,
+      "explanation": "Suggest means to put forward an idea for someone to consider."
+    }
+  ],
+
+  "story": {
+    "title": "The Climb That Proved Everything",
+    "body": "Situated on the edge of a wide valley, there was a small school known for its high standard of physical education. The students were taught to maintain focus and pay attention to both their mental and physical health. One day, the teacher suggested a challenge — to climb the hill along the river and return before sunset. Neither the students nor the parents were sure it was a good idea. However, the teacher gave them clear advice: react calmly, help each other, and maintain your standard along the way. A boy named Nabil was the first to attract everyone's attention. He rode his bicycle to the base of the hill, then climbed further than anyone expected. Along the path, he picked up trash to keep the environment clean — a sign that implied he truly cared about society. When others began to drop back from exhaustion, Nabil stopped to give them tips and encourage them to go further. The final moment came when all students reached the top together. The teacher proved that physical effort, the right advice, and a strong society spirit could take anyone to the top. Otherwise, without each other, they would have failed alone.",
+    "comprehension": [
+      {
+        "q": "Where was the school situated?",
+        "opts": ["in a city", "on the edge of a wide valley", "near the sea", "in a forest"],
+        "ans": 1
+      },
+      {
+        "q": "What did the teacher suggest?",
+        "opts": ["a swimming race", "climbing the hill along the river", "a singing contest", "a writing exam"],
+        "ans": 1
+      },
+      {
+        "q": "What did Nabil do along the path?",
+        "opts": ["rested", "picked up trash", "ran back", "cried"],
+        "ans": 1
+      },
+      {
+        "q": "What did the final moment prove?",
+        "opts": ["that Nabil was the best", "that effort, advice, and society spirit can take anyone to the top", "that climbing is dangerous", "that the teacher was wrong"],
+        "ans": 1
+      }
+    ],
+    "tags": ["climb", "advice", "physical", "maintain", "society", "standard", "attract", "prove", "suggest", "along", "further", "otherwise"]
+  },
+
+  "listening": {
+    "title": "Planning a Community Event",
+    "script": "A: I suggest we organize a physical activity for the society.\nB: That is a great idea. What do you have in mind?\nA: We can climb the hill along the river.\nB: Neither the elders nor the children have done that before.\nA: Pay attention — I have advice for everyone.\nB: What does the plan imply exactly?\nA: It implies that we maintain our standard and react calmly to challenges.\nB: Otherwise some might drop out early.\nA: True. We should attract more people by making it fun.\nB: Suggest a final date and I will help organize.\nA: Let us go further and include food and music too.\nB: That will prove to society that we can do great things together.\nA: Exactly. A strong community is situated in shared effort.",
+    "comprehension": [
+      {
+        "q": "What activity does A suggest?",
+        "opts": ["swimming", "climbing the hill along the river", "cycling", "dancing"],
+        "ans": 1
+      },
+      {
+        "q": "What will prove to society their strength?",
+        "opts": ["winning prizes", "doing great things together", "spending money", "working alone"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "How to Improve Society",
+    "prompt": "Talk about one way to improve your society. Use words like suggest, maintain, standard, physical, and attract.",
+    "example": "I suggest we maintain clean streets to attract visitors. Physical cleanliness implies social pride. Otherwise, our standard of living will drop. A society that maintains its environment proves that it truly cares.",
+    "tips": [
+      "Start with one clear suggestion",
+      "Use 'otherwise' to show the consequence",
+      "Mention how it attracts or helps others",
+      "End with what it proves about society"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Discussing a community challenge",
+    "steps": [
+      { "speaker": "app", "text": "What do you suggest to improve our community?" },
+      { "speaker": "user", "prompt": "Give a suggestion and explain why." },
+      { "speaker": "app", "text": "How should people react if they find it difficult?" },
+      { "speaker": "user", "prompt": "Give advice using 'maintain' and 'otherwise'." },
+      { "speaker": "app", "text": "What standard should the community aim for?" },
+      { "speaker": "user", "prompt": "Describe the standard and what it implies for society." }
+    ]
+  }
+}

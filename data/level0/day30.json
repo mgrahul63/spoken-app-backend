@@ -1,0 +1,616 @@
+{
+  "day": 30,
+  "topic": "Knowledge, Values & Structure Vocabulary",
+  "lessonId": "L0D30",
+  "vocabulary": [
+    {
+      "word": "above",
+      "phonetic": "/əˈbʌv/",
+      "meaning": "at a higher level or position than something",
+      "bangla": "উপরে",
+      "example": "The sky is above us.",
+      "exampleBn": "আকাশ আমাদের উপরে।"
+    },
+    {
+      "word": "ahead",
+      "phonetic": "/əˈhed/",
+      "meaning": "further forward in space or time",
+      "bangla": "সামনে / এগিয়ে",
+      "example": "There is a long road ahead.",
+      "exampleBn": "সামনে একটি দীর্ঘ পথ আছে।"
+    },
+    {
+      "word": "amount",
+      "phonetic": "/əˈmaʊnt/",
+      "meaning": "a quantity of something",
+      "bangla": "পরিমাণ",
+      "example": "A large amount of work is done.",
+      "exampleBn": "অনেক পরিমাণ কাজ করা হয়েছে।"
+    },
+    {
+      "word": "belief",
+      "phonetic": "/bɪˈliːf/",
+      "meaning": "something accepted as true or real",
+      "bangla": "বিশ্বাস",
+      "example": "Hard work is my belief.",
+      "exampleBn": "কঠোর পরিশ্রম আমার বিশ্বাস।"
+    },
+    {
+      "word": "center",
+      "phonetic": "/ˈsentər/",
+      "meaning": "the middle point of something",
+      "bangla": "কেন্দ্র",
+      "example": "She stood at the center of the stage.",
+      "exampleBn": "সে মঞ্চের কেন্দ্রে দাঁড়াল।"
+    },
+    {
+      "word": "common",
+      "phonetic": "/ˈkɒmən/",
+      "meaning": "happening often; shared by many",
+      "bangla": "সাধারণ / প্রচলিত",
+      "example": "Colds are common in winter.",
+      "exampleBn": "শীতকালে ঠান্ডা লাগা সাধারণ।"
+    },
+    {
+      "word": "cost",
+      "phonetic": "/kɒst/",
+      "meaning": "the amount paid for something; to have a price",
+      "bangla": "মূল্য / খরচ",
+      "example": "What is the cost of this book?",
+      "exampleBn": "এই বইটির মূল্য কত?"
+    },
+    {
+      "word": "demonstrate",
+      "phonetic": "/ˈdemənstreɪt/",
+      "meaning": "to show or explain how something works",
+      "bangla": "প্রদর্শন করা",
+      "example": "She demonstrated how to cook.",
+      "exampleBn": "সে রান্না করার পদ্ধতি প্রদর্শন করল।"
+    },
+    {
+      "word": "different",
+      "phonetic": "/ˈdɪfrənt/",
+      "meaning": "not the same as another",
+      "bangla": "ভিন্ন / আলাদা",
+      "example": "We have different opinions.",
+      "exampleBn": "আমাদের ভিন্ন মতামত আছে।"
+    },
+    {
+      "word": "evidence",
+      "phonetic": "/ˈevɪdəns/",
+      "meaning": "information that proves something is true",
+      "bangla": "প্রমাণ",
+      "example": "There is clear evidence of his work.",
+      "exampleBn": "তার কাজের স্পষ্ট প্রমাণ আছে।"
+    },
+    {
+      "word": "honesty",
+      "phonetic": "/ˈɒnɪsti/",
+      "meaning": "the quality of being truthful and fair",
+      "bangla": "সততা",
+      "example": "Honesty is the best policy.",
+      "exampleBn": "সততাই সর্বোত্তম নীতি।"
+    },
+    {
+      "word": "idiom",
+      "phonetic": "/ˈɪdiəm/",
+      "meaning": "a phrase whose meaning differs from its individual words",
+      "bangla": "বাগধারা / প্রবাদ",
+      "example": "Break a leg is a common idiom.",
+      "exampleBn": "'Break a leg' একটি প্রচলিত বাগধারা।"
+    },
+    {
+      "word": "independent",
+      "phonetic": "/ˌɪndɪˈpendənt/",
+      "meaning": "not relying on others; free from control",
+      "bangla": "স্বাধীন / স্বনির্ভর",
+      "example": "She is an independent thinker.",
+      "exampleBn": "সে একজন স্বাধীন চিন্তাবিদ।"
+    },
+    {
+      "word": "inside",
+      "phonetic": "/ɪnˈsaɪd/",
+      "meaning": "the inner part of something",
+      "bangla": "ভেতরে / অভ্যন্তরে",
+      "example": "Come inside, it is raining.",
+      "exampleBn": "ভেতরে এসো, বৃষ্টি হচ্ছে।"
+    },
+    {
+      "word": "master",
+      "phonetic": "/ˈmɑːstər/",
+      "meaning": "to become very skilled at something; an expert",
+      "bangla": "দক্ষ হওয়া / ওস্তাদ",
+      "example": "He mastered the guitar in a year.",
+      "exampleBn": "সে এক বছরে গিটারে দক্ষ হয়ে গেল।"
+    },
+    {
+      "word": "memory",
+      "phonetic": "/ˈmeməri/",
+      "meaning": "the ability to remember; a past experience",
+      "bangla": "স্মৃতি",
+      "example": "She has a sharp memory.",
+      "exampleBn": "তার একটি তীক্ষ্ণ স্মৃতি আছে।"
+    },
+    {
+      "word": "proper",
+      "phonetic": "/ˈprɒpər/",
+      "meaning": "right, suitable or correct for a situation",
+      "bangla": "সঠিক / উপযুক্ত",
+      "example": "Use proper grammar in writing.",
+      "exampleBn": "লেখায় সঠিক ব্যাকরণ ব্যবহার করো।"
+    },
+    {
+      "word": "scan",
+      "phonetic": "/skæn/",
+      "meaning": "to look at something carefully or quickly",
+      "bangla": "দ্রুত দেখা / স্ক্যান করা",
+      "example": "Scan the page for key words.",
+      "exampleBn": "মূল শব্দের জন্য পৃষ্ঠাটি স্ক্যান করো।"
+    },
+    {
+      "word": "section",
+      "phonetic": "/ˈsekʃn/",
+      "meaning": "a part or division of something larger",
+      "bangla": "বিভাগ / অংশ",
+      "example": "Read the first section carefully.",
+      "exampleBn": "প্রথম বিভাগটি মনোযোগ দিয়ে পড়ো।"
+    },
+    {
+      "word": "surface",
+      "phonetic": "/ˈsɜːrfɪs/",
+      "meaning": "the outside or top layer of something",
+      "bangla": "পৃষ্ঠ / উপরিভাগ",
+      "example": "The surface of the table is smooth.",
+      "exampleBn": "টেবিলের পৃষ্ঠ মসৃণ।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "above average",
+      "bangla": "গড়ের উপরে",
+      "usage": "comparison",
+      "example": "Her score is above average."
+    },
+    {
+      "phrase": "ahead of time",
+      "bangla": "সময়ের আগে",
+      "usage": "planning",
+      "example": "Finish the work ahead of time."
+    },
+    {
+      "phrase": "large amount",
+      "bangla": "বড় পরিমাণ",
+      "usage": "quantity",
+      "example": "A large amount of rain fell."
+    },
+    {
+      "phrase": "strong belief",
+      "bangla": "দৃঢ় বিশ্বাস",
+      "usage": "faith",
+      "example": "She has a strong belief in justice."
+    },
+    {
+      "phrase": "city center",
+      "bangla": "শহরের কেন্দ্র",
+      "usage": "location",
+      "example": "The school is in the city center."
+    },
+    {
+      "phrase": "common mistake",
+      "bangla": "সাধারণ ভুল",
+      "usage": "error",
+      "example": "That is a common mistake."
+    },
+    {
+      "phrase": "total cost",
+      "bangla": "মোট খরচ",
+      "usage": "finance",
+      "example": "What is the total cost?"
+    },
+    {
+      "phrase": "demonstrate skills",
+      "bangla": "দক্ষতা প্রদর্শন করা",
+      "usage": "performance",
+      "example": "He demonstrated his skills."
+    },
+    {
+      "phrase": "completely different",
+      "bangla": "সম্পূর্ণ আলাদা",
+      "usage": "contrast",
+      "example": "These two are completely different."
+    },
+    {
+      "phrase": "strong evidence",
+      "bangla": "শক্তিশালী প্রমাণ",
+      "usage": "proof",
+      "example": "There is strong evidence here."
+    },
+    {
+      "phrase": "show honesty",
+      "bangla": "সততা দেখানো",
+      "usage": "values",
+      "example": "Always show honesty in your work."
+    },
+    {
+      "phrase": "use an idiom",
+      "bangla": "বাগধারা ব্যবহার করা",
+      "usage": "language",
+      "example": "She used an idiom correctly."
+    },
+    {
+      "phrase": "become independent",
+      "bangla": "স্বাধীন হওয়া",
+      "usage": "freedom",
+      "example": "Children must become independent."
+    },
+    {
+      "phrase": "look inside",
+      "bangla": "ভেতরে দেখা",
+      "usage": "direction",
+      "example": "Look inside the box."
+    },
+    {
+      "phrase": "master a skill",
+      "bangla": "একটি দক্ষতায় পারদর্শী হওয়া",
+      "usage": "achievement",
+      "example": "She mastered the skill quickly."
+    },
+    {
+      "phrase": "childhood memory",
+      "bangla": "শৈশবের স্মৃতি",
+      "usage": "past",
+      "example": "That is a childhood memory."
+    },
+    {
+      "phrase": "proper way",
+      "bangla": "সঠিক উপায়",
+      "usage": "method",
+      "example": "Do it the proper way."
+    },
+    {
+      "phrase": "scan quickly",
+      "bangla": "দ্রুত স্ক্যান করা",
+      "usage": "reading",
+      "example": "Scan the page quickly."
+    },
+    {
+      "phrase": "different section",
+      "bangla": "ভিন্ন বিভাগ",
+      "usage": "structure",
+      "example": "Move to a different section."
+    },
+    {
+      "phrase": "smooth surface",
+      "bangla": "মসৃণ পৃষ্ঠ",
+      "usage": "texture",
+      "example": "The surface is very smooth."
+    }
+  ],
+
+  "sentences": [
+    {
+      "en": "The birds fly above the clouds.",
+      "bn": "পাখিরা মেঘের উপরে উড়ে।"
+    },
+    {
+      "en": "Plan ahead for success.",
+      "bn": "সাফল্যের জন্য সামনে পরিকল্পনা করো।"
+    },
+    { "en": "The amount of work is huge.", "bn": "কাজের পরিমাণ অনেক বেশি।" },
+    {
+      "en": "Trust is built on belief.",
+      "bn": "বিশ্বাসের উপর আস্থা গড়ে ওঠে।"
+    },
+    { "en": "Meet me at the center.", "bn": "কেন্দ্রে আমার সাথে দেখা করো।" },
+    { "en": "It is a common problem.", "bn": "এটি একটি সাধারণ সমস্যা।" },
+    { "en": "The cost is too high.", "bn": "মূল্যটি অনেক বেশি।" },
+    {
+      "en": "He demonstrated the process.",
+      "bn": "সে প্রক্রিয়াটি প্রদর্শন করল।"
+    },
+    { "en": "Every person is different.", "bn": "প্রতিটি মানুষ আলাদা।" },
+    { "en": "Where is the evidence?", "bn": "প্রমাণ কোথায়?" },
+    { "en": "Honesty builds strong trust.", "bn": "সততা দৃঢ় আস্থা গড়ে।" },
+    { "en": "That is a great idiom.", "bn": "এটি একটি দুর্দান্ত বাগধারা।" },
+    {
+      "en": "She lives an independent life.",
+      "bn": "সে একটি স্বাধীন জীবনযাপন করে।"
+    },
+    { "en": "The cat is inside the box.", "bn": "বিড়ালটি বাক্সের ভেতরে আছে।" },
+    { "en": "She mastered the language.", "bn": "সে ভাষায় দক্ষ হয়ে গেল।" },
+    { "en": "He has a strong memory.", "bn": "তার একটি শক্তিশালী স্মৃতি আছে।" },
+    { "en": "Follow the proper steps.", "bn": "সঠিক ধাপগুলো অনুসরণ করো।" },
+    { "en": "Scan the document first.", "bn": "প্রথমে নথিটি স্ক্যান করো।" },
+    { "en": "Read each section slowly.", "bn": "প্রতিটি বিভাগ ধীরে পড়ো।" },
+    { "en": "The surface was wet.", "bn": "পৃষ্ঠটি ভেজা ছিল।" }
+  ],
+
+  "quiz": [
+    {
+      "q": "Above means?",
+      "opts": ["below", "at a higher position", "beside", "behind"],
+      "ans": 1,
+      "explanation": "Above means at a higher level or position than something."
+    },
+    {
+      "q": "Ahead means?",
+      "opts": ["behind", "further forward in space or time", "beside", "below"],
+      "ans": 1,
+      "explanation": "Ahead means further forward in space or time."
+    },
+    {
+      "q": "Amount means?",
+      "opts": ["color", "a quantity of something", "shape", "sound"],
+      "ans": 1,
+      "explanation": "Amount means a quantity of something."
+    },
+    {
+      "q": "Belief means?",
+      "opts": ["doubt", "something accepted as true", "question", "noise"],
+      "ans": 1,
+      "explanation": "Belief means something accepted as true or real."
+    },
+    {
+      "q": "Center means?",
+      "opts": ["edge", "middle point of something", "corner", "surface"],
+      "ans": 1,
+      "explanation": "Center means the middle point of something."
+    },
+    {
+      "q": "Common means?",
+      "opts": ["rare", "happening often; shared by many", "unique", "strange"],
+      "ans": 1,
+      "explanation": "Common means happening often; shared by many."
+    },
+    {
+      "q": "Cost means?",
+      "opts": ["free", "amount paid for something", "gift", "reward"],
+      "ans": 1,
+      "explanation": "Cost means the amount paid for something; to have a price."
+    },
+    {
+      "q": "Demonstrate means?",
+      "opts": [
+        "hide",
+        "show or explain how something works",
+        "break",
+        "ignore"
+      ],
+      "ans": 1,
+      "explanation": "Demonstrate means to show or explain how something works."
+    },
+    {
+      "q": "Different means?",
+      "opts": ["same", "not the same as another", "equal", "identical"],
+      "ans": 1,
+      "explanation": "Different means not the same as another."
+    },
+    {
+      "q": "Evidence means?",
+      "opts": ["story", "information that proves something", "guess", "idea"],
+      "ans": 1,
+      "explanation": "Evidence means information that proves something is true."
+    },
+    {
+      "q": "Honesty means?",
+      "opts": [
+        "lying",
+        "quality of being truthful and fair",
+        "cruelty",
+        "silence"
+      ],
+      "ans": 1,
+      "explanation": "Honesty means the quality of being truthful and fair."
+    },
+    {
+      "q": "Idiom means?",
+      "opts": [
+        "grammar rule",
+        "phrase with non-literal meaning",
+        "single word",
+        "sentence"
+      ],
+      "ans": 1,
+      "explanation": "Idiom means a phrase whose meaning differs from its individual words."
+    },
+    {
+      "q": "Independent means?",
+      "opts": [
+        "dependent",
+        "not relying on others; free",
+        "weak",
+        "controlled"
+      ],
+      "ans": 1,
+      "explanation": "Independent means not relying on others; free from control."
+    },
+    {
+      "q": "Inside means?",
+      "opts": ["outside", "the inner part of something", "above", "beside"],
+      "ans": 1,
+      "explanation": "Inside means the inner part of something."
+    },
+    {
+      "q": "Master means?",
+      "opts": ["fail", "become very skilled at something", "ignore", "start"],
+      "ans": 1,
+      "explanation": "Master means to become very skilled at something; an expert."
+    },
+    {
+      "q": "Memory means?",
+      "opts": [
+        "future plan",
+        "ability to remember or past experience",
+        "present moment",
+        "guess"
+      ],
+      "ans": 1,
+      "explanation": "Memory means the ability to remember; a past experience."
+    },
+    {
+      "q": "Proper means?",
+      "opts": [
+        "wrong",
+        "right and suitable for a situation",
+        "random",
+        "broken"
+      ],
+      "ans": 1,
+      "explanation": "Proper means right, suitable or correct for a situation."
+    },
+    {
+      "q": "Scan means?",
+      "opts": [
+        "ignore",
+        "look at something carefully or quickly",
+        "write",
+        "erase"
+      ],
+      "ans": 1,
+      "explanation": "Scan means to look at something carefully or quickly."
+    },
+    {
+      "q": "Section means?",
+      "opts": [
+        "whole",
+        "a part or division of something larger",
+        "total",
+        "surface"
+      ],
+      "ans": 1,
+      "explanation": "Section means a part or division of something larger."
+    },
+    {
+      "q": "Surface means?",
+      "opts": ["core", "outside or top layer of something", "depth", "center"],
+      "ans": 1,
+      "explanation": "Surface means the outside or top layer of something."
+    }
+  ],
+
+  "story": {
+    "title": "The Memory Inside the Old Book",
+    "body": "Above the city center, on the top floor of the oldest library, there was a section nobody visited. Inside this section sat an independent scholar named Dina who had mastered the art of reading ancient texts. Her belief was simple — honesty and proper study are the surfaces through which truth is found. One afternoon, she scanned the pages of a dusty book and noticed a different kind of writing on the surface of the back cover. She demonstrated to her student how to read it section by section. The idiom written there said 'Look ahead, not above.' It implied that evidence of knowledge is not in the stars — it is inside us. Dina explained that a common mistake people make is believing that wisdom costs a large amount of money or time. In reality, the proper amount of focus and a good memory are enough. Within that single afternoon, her student discovered evidence that the book was over three centuries old — a surface discovery that pointed to something far greater inside. Dina smiled and said, 'Now you are one step ahead. That is what independent learning feels like.'",
+    "comprehension": [
+      {
+        "q": "Where did Dina work?",
+        "opts": [
+          "a hospital",
+          "the top floor of the oldest library",
+          "a factory",
+          "a school center"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Dina demonstrate to her student?",
+        "opts": [
+          "how to cook",
+          "how to read the book section by section",
+          "how to scan a computer",
+          "how to paint"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What idiom was written in the book?",
+        "opts": [
+          "Believe in magic",
+          "Look ahead, not above",
+          "Common sense is proper",
+          "Memory costs nothing"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did the student discover?",
+        "opts": [
+          "that the book was stolen",
+          "that the book was over three centuries old",
+          "that the section was empty",
+          "that Dina was wrong"
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "memory",
+      "belief",
+      "honesty",
+      "idiom",
+      "section",
+      "surface",
+      "evidence",
+      "master",
+      "independent",
+      "scan",
+      "ahead",
+      "common"
+    ]
+  },
+
+  "listening": {
+    "title": "A Study Discussion",
+    "script": "A: Did you scan the first section of the chapter?\nB: Yes, but there is a large amount of content inside.\nA: What is your belief about the best way to study?\nB: Honesty first — admit what you don't know and master it properly.\nA: That is a different approach from the common method.\nB: True. Most students just scan the surface and miss the evidence.\nA: Can you demonstrate the proper way?\nB: Sure. Start from the center of each section and go ahead from there.\nA: What about memory? How do you strengthen it?\nB: Independent practice. Don't rely on others to remind you.\nA: That sounds like an idiom — stand on your own two feet.\nB: Exactly. And the cost of good memory is just time and focus.\nA: Above all, stay ahead of your schedule.\nB: That is the proper way to master any subject.",
+    "comprehension": [
+      {
+        "q": "What does B say about honesty in study?",
+        "opts": [
+          "ignore it",
+          "admit what you don't know and master it",
+          "copy others",
+          "scan quickly"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What is the cost of good memory according to B?",
+        "opts": ["money", "time and focus", "a tutor", "an expensive book"],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "The Proper Way to Learn",
+    "prompt": "Describe your personal method of learning. Use words like memory, scan, section, proper, and belief.",
+    "example": "My belief is that proper learning takes time. I scan each section of a chapter first to get a surface understanding. Then I go deeper inside. I use my memory to connect different ideas. Above all, I stay honest about what I do not know yet.",
+    "tips": [
+      "Start with your core belief about learning",
+      "Describe how you scan or read a section",
+      "Mention how memory helps you",
+      "End with what makes your method different"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Discussing how to improve at a skill",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "What skill are you trying to master right now?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Name the skill and give your belief about it."
+      },
+      {
+        "speaker": "app",
+        "text": "What is the common mistake people make when learning it?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Describe the mistake using 'surface' and 'evidence'."
+      },
+      {
+        "speaker": "app",
+        "text": "What is the proper and independent way to get ahead?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Suggest a proper method using 'section', 'scan', and 'memory'."
+      }
+    ]
+  }
+}

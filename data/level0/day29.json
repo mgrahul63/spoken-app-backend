@@ -1,0 +1,790 @@
+{
+  "day": 29,
+  "topic": "Leadership, Learning & Society Vocabulary",
+  "lessonId": "L0D29",
+  "vocabulary": [
+    {
+      "word": "advertise",
+      "phonetic": "/ˈædvərtaɪz/",
+      "meaning": "to promote a product, service, or idea to the public",
+      "bangla": "বিজ্ঞাপন দেওয়া / প্রচার করা",
+      "example": "They advertise their products online.",
+      "exampleBn": "তারা অনলাইনে তাদের পণ্য বিজ্ঞাপন দেয়।"
+    },
+    {
+      "word": "assign",
+      "phonetic": "/əˈsaɪn/",
+      "meaning": "to give a task or role to someone officially",
+      "bangla": "নিযুক্ত করা / দায়িত্ব দেওয়া",
+      "example": "The teacher assigned homework to everyone.",
+      "exampleBn": "শিক্ষক সবাইকে গৃহকাজ দিলেন।"
+    },
+    {
+      "word": "audience",
+      "phonetic": "/ˈɔːdiəns/",
+      "meaning": "the people who watch or listen to a performance or speech",
+      "bangla": "দর্শক / শ্রোতা",
+      "example": "The audience clapped loudly.",
+      "exampleBn": "দর্শকরা জোরে তালি দিল।"
+    },
+    {
+      "word": "breakfast",
+      "phonetic": "/ˈbrekfəst/",
+      "meaning": "the first meal of the day eaten in the morning",
+      "bangla": "সকালের নাস্তা",
+      "example": "She eats breakfast every morning.",
+      "exampleBn": "সে প্রতিদিন সকালে নাস্তা খায়।"
+    },
+    {
+      "word": "competition",
+      "phonetic": "/ˌkɒmpəˈtɪʃn/",
+      "meaning": "an event where people try to win by being the best",
+      "bangla": "প্রতিযোগিতা",
+      "example": "She won the singing competition.",
+      "exampleBn": "সে গানের প্রতিযোগিতায় জিতল।"
+    },
+    {
+      "word": "cool",
+      "phonetic": "/kuːl/",
+      "meaning": "slightly cold; calm and not excited; impressive",
+      "bangla": "ঠান্ডা / শান্ত / চমৎকার",
+      "example": "Stay cool under pressure.",
+      "exampleBn": "চাপের মধ্যে শান্ত থাকো।"
+    },
+    {
+      "word": "gain",
+      "phonetic": "/ɡeɪn/",
+      "meaning": "to obtain or achieve something beneficial",
+      "bangla": "অর্জন করা / লাভ করা",
+      "example": "She gained a lot of knowledge.",
+      "exampleBn": "সে অনেক জ্ঞান অর্জন করল।"
+    },
+    {
+      "word": "importance",
+      "phonetic": "/ɪmˈpɔːrtns/",
+      "meaning": "the quality of being significant or valuable",
+      "bangla": "গুরুত্ব",
+      "example": "Education has great importance.",
+      "exampleBn": "শিক্ষার অনেক গুরুত্ব আছে।"
+    },
+    {
+      "word": "knowledge",
+      "phonetic": "/ˈnɒlɪdʒ/",
+      "meaning": "information and understanding gained through learning",
+      "bangla": "জ্ঞান",
+      "example": "Knowledge is a powerful gift.",
+      "exampleBn": "জ্ঞান একটি শক্তিশালী উপহার।"
+    },
+    {
+      "word": "major",
+      "phonetic": "/ˈmeɪdʒər/",
+      "meaning": "very important or large; main or primary",
+      "bangla": "প্রধান / গুরুত্বপূর্ণ",
+      "example": "This is a major decision.",
+      "exampleBn": "এটি একটি প্রধান সিদ্ধান্ত।"
+    },
+    {
+      "word": "mean",
+      "phonetic": "/miːn/",
+      "meaning": "to intend or signify something; unkind in behavior",
+      "bangla": "অর্থ হওয়া / মানে করা / নির্দয়",
+      "example": "What does this word mean?",
+      "exampleBn": "এই শব্দের মানে কী?"
+    },
+    {
+      "word": "prefer",
+      "phonetic": "/prɪˈfɜːr/",
+      "meaning": "to like one thing more than another",
+      "bangla": "পছন্দ করা / বেশি পছন্দ করা",
+      "example": "I prefer tea over coffee.",
+      "exampleBn": "আমি কফির চেয়ে চা বেশি পছন্দ করি।"
+    },
+    {
+      "word": "president",
+      "phonetic": "/ˈprezɪdənt/",
+      "meaning": "the elected head of a country or organization",
+      "bangla": "রাষ্ট্রপতি / সভাপতি",
+      "example": "The president gave a speech.",
+      "exampleBn": "রাষ্ট্রপতি একটি বক্তৃতা দিলেন।"
+    },
+    {
+      "word": "progress",
+      "phonetic": "/ˈprɒɡres/",
+      "meaning": "forward movement toward a goal or improvement",
+      "bangla": "অগ্রগতি / উন্নতি",
+      "example": "She is making great progress.",
+      "exampleBn": "সে দারুণ অগ্রগতি করছে।"
+    },
+    {
+      "word": "respect",
+      "phonetic": "/rɪˈspekt/",
+      "meaning": "to show consideration and honor toward someone",
+      "bangla": "সম্মান করা",
+      "example": "Always respect your elders.",
+      "exampleBn": "সবসময় তোমার বড়দের সম্মান করো।"
+    },
+    {
+      "word": "rich",
+      "phonetic": "/rɪtʃ/",
+      "meaning": "having a lot of money or resources; full of something valuable",
+      "bangla": "ধনী / সমৃদ্ধ",
+      "example": "She became rich through hard work.",
+      "exampleBn": "সে কঠোর পরিশ্রমের মাধ্যমে ধনী হলো।"
+    },
+    {
+      "word": "skill",
+      "phonetic": "/skɪl/",
+      "meaning": "the ability to do something well through practice",
+      "bangla": "দক্ষতা / কৌশল",
+      "example": "Reading is an important skill.",
+      "exampleBn": "পড়া একটি গুরুত্বপূর্ণ দক্ষতা।"
+    },
+    {
+      "word": "somehow",
+      "phonetic": "/ˈsʌmhaʊ/",
+      "meaning": "in a way that is not known or certain",
+      "bangla": "কোনোভাবে / কীভাবে জানি না",
+      "example": "Somehow she finished on time.",
+      "exampleBn": "কোনোভাবে সে সময়মতো শেষ করল।"
+    },
+    {
+      "word": "strength",
+      "phonetic": "/streŋθ/",
+      "meaning": "the quality of being physically or mentally powerful",
+      "bangla": "শক্তি / সামর্থ্য",
+      "example": "Knowledge gives you strength.",
+      "exampleBn": "জ্ঞান তোমাকে শক্তি দেয়।"
+    },
+    {
+      "word": "vote",
+      "phonetic": "/voʊt/",
+      "meaning": "to make an official choice in an election or decision",
+      "bangla": "ভোট দেওয়া",
+      "example": "Everyone should vote in elections.",
+      "exampleBn": "নির্বাচনে সবার ভোট দেওয়া উচিত।"
+    }
+  ],
+
+  "phrases": [
+    {
+      "phrase": "advertise widely",
+      "bangla": "ব্যাপকভাবে বিজ্ঞাপন দেওয়া",
+      "usage": "marketing",
+      "example": "They advertised the competition widely to gain a large audience."
+    },
+    {
+      "phrase": "assign a task",
+      "bangla": "একটি কাজ দেওয়া",
+      "usage": "work",
+      "example": "The president assigned a major task to each team member."
+    },
+    {
+      "phrase": "large audience",
+      "bangla": "বড় দর্শক",
+      "usage": "performance",
+      "example": "A large audience gathered to vote for their favorite competitor."
+    },
+    {
+      "phrase": "skip breakfast",
+      "bangla": "সকালের নাস্তা না খাওয়া",
+      "usage": "health",
+      "example": "Skipping breakfast can reduce your strength and progress."
+    },
+    {
+      "phrase": "win a competition",
+      "bangla": "প্রতিযোগিতায় জেতা",
+      "usage": "achievement",
+      "example": "She gained major respect by winning the national competition."
+    },
+    {
+      "phrase": "keep cool",
+      "bangla": "শান্ত থাকা",
+      "usage": "emotion",
+      "example": "A good president knows how to keep cool under pressure."
+    },
+    {
+      "phrase": "gain knowledge",
+      "bangla": "জ্ঞান অর্জন করা",
+      "usage": "education",
+      "example": "Reading daily is the best way to gain knowledge."
+    },
+    {
+      "phrase": "realize the importance",
+      "bangla": "গুরুত্ব উপলব্ধি করা",
+      "usage": "awareness",
+      "example": "She realized the importance of skill after losing the competition."
+    },
+    {
+      "phrase": "rich in knowledge",
+      "bangla": "জ্ঞানে সমৃদ্ধ",
+      "usage": "learning",
+      "example": "A person rich in knowledge can somehow solve any major problem."
+    },
+    {
+      "phrase": "major progress",
+      "bangla": "বড় অগ্রগতি",
+      "usage": "development",
+      "example": "The student made major progress after being assigned extra tasks."
+    },
+    {
+      "phrase": "mean well",
+      "bangla": "ভালো উদ্দেশ্য থাকা",
+      "usage": "intention",
+      "example": "She may seem strict but she always means well."
+    },
+    {
+      "phrase": "prefer to learn",
+      "bangla": "শিখতে পছন্দ করা",
+      "usage": "attitude",
+      "example": "I prefer to learn a new skill over watching television."
+    },
+    {
+      "phrase": "elect a president",
+      "bangla": "রাষ্ট্রপতি নির্বাচন করা",
+      "usage": "politics",
+      "example": "The audience voted to elect a new president of the club."
+    },
+    {
+      "phrase": "track progress",
+      "bangla": "অগ্রগতি পর্যবেক্ষণ করা",
+      "usage": "education",
+      "example": "The teacher tracked each student's progress throughout the term."
+    },
+    {
+      "phrase": "earn respect",
+      "bangla": "সম্মান অর্জন করা",
+      "usage": "character",
+      "example": "You earn respect by showing strength of character not wealth."
+    },
+    {
+      "phrase": "rich and poor",
+      "bangla": "ধনী ও গরিব",
+      "usage": "society",
+      "example": "Knowledge has equal importance for both the rich and poor."
+    },
+    {
+      "phrase": "develop a skill",
+      "bangla": "একটি দক্ষতা উন্নত করা",
+      "usage": "growth",
+      "example": "She somehow developed the skill to stay cool under any pressure."
+    },
+    {
+      "phrase": "somehow manage",
+      "bangla": "কোনোভাবে সামলানো",
+      "usage": "resilience",
+      "example": "He somehow managed to gain the audience's respect despite the competition."
+    },
+    {
+      "phrase": "inner strength",
+      "bangla": "অভ্যন্তরীণ শক্তি",
+      "usage": "motivation",
+      "example": "Knowledge and respect give a person true inner strength."
+    },
+    {
+      "phrase": "cast a vote",
+      "bangla": "ভোট দেওয়া",
+      "usage": "democracy",
+      "example": "Every member of the audience was invited to cast a vote."
+    }
+  ],
+
+  "sentences": [
+    {
+      "en": "The school decided to advertise the competition to gain a wider audience.",
+      "bn": "স্কুলটি আরও বড় দর্শক অর্জন করতে প্রতিযোগিতার বিজ্ঞাপন দেওয়ার সিদ্ধান্ত নিল।"
+    },
+    {
+      "en": "Each student was assigned a major task to complete before the end of term.",
+      "bn": "প্রতিটি ছাত্রকে মেয়াদ শেষের আগে সম্পন্ন করার জন্য একটি প্রধান কাজ দেওয়া হলো।"
+    },
+    {
+      "en": "The audience grew quiet as the president stepped forward to speak.",
+      "bn": "রাষ্ট্রপতি এগিয়ে কথা বলতে আসায় দর্শকরা চুপ হয়ে গেল।"
+    },
+    {
+      "en": "Eating a healthy breakfast gives you the strength to progress through a long day.",
+      "bn": "স্বাস্থ্যকর সকালের নাস্তা খাওয়া তোমাকে একটি দীর্ঘ দিনের মধ্য দিয়ে এগিয়ে যাওয়ার শক্তি দেয়।"
+    },
+    {
+      "en": "She somehow gained the confidence to enter the major public speaking competition.",
+      "bn": "সে কোনোভাবে প্রধান পাবলিক স্পিকিং প্রতিযোগিতায় অংশ নেওয়ার আত্মবিশ্বাস অর্জন করল।"
+    },
+    {
+      "en": "A cool and calm leader earns far more respect than a loud and mean one.",
+      "bn": "একজন শান্ত ও ঠান্ডা মাথার নেতা একজন উচ্চস্বর ও নির্দয় নেতার চেয়ে অনেক বেশি সম্মান অর্জন করে।"
+    },
+    {
+      "en": "You gain the most knowledge when you prefer asking questions over staying silent.",
+      "bn": "তুমি সবচেয়ে বেশি জ্ঞান অর্জন করো যখন তুমি চুপ থাকার চেয়ে প্রশ্ন করতে বেশি পছন্দ করো।"
+    },
+    {
+      "en": "The president emphasized the importance of education for both the rich and the poor.",
+      "bn": "রাষ্ট্রপতি ধনী ও গরিব উভয়ের জন্য শিক্ষার গুরুত্বের উপর জোর দিলেন।"
+    },
+    {
+      "en": "Knowledge gained through experience has far greater strength than any textbook alone.",
+      "bn": "অভিজ্ঞতার মাধ্যমে অর্জিত জ্ঞানের শক্তি যেকোনো পাঠ্যপুস্তকের চেয়ে অনেক বেশি।"
+    },
+    {
+      "en": "She made a major decision to assign her best skill to serving the community.",
+      "bn": "সে তার সেরা দক্ষতাকে সমাজের সেবায় নিয়োগ করার একটি প্রধান সিদ্ধান্ত নিল।"
+    },
+    {
+      "en": "What do you mean when you say progress is more important than competition?",
+      "bn": "তুমি কী বোঝাতে চাইছ যখন বলছ অগ্রগতি প্রতিযোগিতার চেয়ে বেশি গুরুত্বপূর্ণ?"
+    },
+    {
+      "en": "I prefer to gain new skills rather than simply advertise the ones I already have.",
+      "bn": "আমি ইতিমধ্যে যে দক্ষতাগুলো আছে সেগুলোর বিজ্ঞাপন দেওয়ার চেয়ে নতুন দক্ষতা অর্জন করতে বেশি পছন্দ করি।"
+    },
+    {
+      "en": "The new president was elected after the audience cast their vote at the grand event.",
+      "bn": "নতুন রাষ্ট্রপতি নির্বাচিত হলেন দর্শকরা মহা অনুষ্ঠানে তাদের ভোট দেওয়ার পরে।"
+    },
+    {
+      "en": "Real progress means building both knowledge and the strength of character over time.",
+      "bn": "প্রকৃত অগ্রগতি মানে সময়ের সাথে সাথে জ্ঞান ও চরিত্রের শক্তি উভয়ই গড়ে তোলা।"
+    },
+    {
+      "en": "Respect is not assigned to you — it is something you gain through consistent action.",
+      "bn": "সম্মান তোমাকে দেওয়া হয় না — এটি এমন কিছু যা তুমি ধারাবাহিক কাজের মাধ্যমে অর্জন করো।"
+    },
+    {
+      "en": "A country rich in knowledge and skill will always make major progress.",
+      "bn": "জ্ঞান ও দক্ষতায় সমৃদ্ধ একটি দেশ সবসময় প্রধান অগ্রগতি করবে।"
+    },
+    {
+      "en": "She developed a cool and effective skill of speaking to large audiences without fear.",
+      "bn": "সে ভয় ছাড়াই বড় দর্শকদের সামনে কথা বলার একটি শান্ত ও কার্যকর দক্ষতা গড়ে তুলল।"
+    },
+    {
+      "en": "Somehow the team managed to gain the audience's full respect despite the tough competition.",
+      "bn": "কোনোভাবে দলটি কঠিন প্রতিযোগিতার পরেও দর্শকদের পূর্ণ সম্মান অর্জন করতে সক্ষম হলো।"
+    },
+    {
+      "en": "The strength of a leader means nothing without the respect and trust of the people.",
+      "bn": "একজন নেতার শক্তির কোনো মানে নেই জনগণের সম্মান ও বিশ্বাস ছাড়া।"
+    },
+    {
+      "en": "Every citizen has the right to vote and that right carries major importance.",
+      "bn": "প্রতিটি নাগরিকের ভোট দেওয়ার অধিকার আছে এবং সেই অধিকার প্রধান গুরুত্ব বহন করে।"
+    }
+  ],
+
+  "quiz": [
+    {
+      "q": "Advertise means?",
+      "opts": [
+        "to hide a product from the public",
+        "to promote a product or idea to the public",
+        "to assign a major task",
+        "to vote for the best skill"
+      ],
+      "ans": 1,
+      "explanation": "Advertise means to make something publicly known, especially to promote a product, service, or event."
+    },
+    {
+      "q": "Assign means?",
+      "opts": [
+        "to take away a responsibility",
+        "to give a task or role to someone officially",
+        "to advertise for a competition",
+        "to gain respect from an audience"
+      ],
+      "ans": 1,
+      "explanation": "Assign means to allocate a job, duty, or role to a particular person."
+    },
+    {
+      "q": "Audience means?",
+      "opts": [
+        "a group of people who compete",
+        "the people who watch or listen to a performance",
+        "a major knowledge competition",
+        "a president's assigned team"
+      ],
+      "ans": 1,
+      "explanation": "Audience means the group of people who gather to watch or listen to a performance, speech, or event."
+    },
+    {
+      "q": "Breakfast means?",
+      "opts": [
+        "the last meal of the day",
+        "the first meal of the day eaten in the morning",
+        "a major competition meal",
+        "a cool skill gained daily"
+      ],
+      "ans": 1,
+      "explanation": "Breakfast means the first meal eaten in the morning after waking up."
+    },
+    {
+      "q": "Competition means?",
+      "opts": [
+        "a quiet gathering of friends",
+        "an event where people try to win by being the best",
+        "a major vote by the president",
+        "a cool audience skill"
+      ],
+      "ans": 1,
+      "explanation": "Competition means a contest in which people take part to establish superiority or win a prize."
+    },
+    {
+      "q": "Cool means?",
+      "opts": [
+        "very hot and excited",
+        "slightly cold, calm, or impressive",
+        "rich and major in strength",
+        "assigned and preferred"
+      ],
+      "ans": 1,
+      "explanation": "Cool means slightly cold in temperature, calm and composed under pressure, or informally impressive."
+    },
+    {
+      "q": "Gain means?",
+      "opts": [
+        "to lose something valuable",
+        "to obtain or achieve something beneficial",
+        "to advertise for progress",
+        "to assign a vote to the president"
+      ],
+      "ans": 1,
+      "explanation": "Gain means to obtain or secure something of value or benefit through effort or experience."
+    },
+    {
+      "q": "Importance means?",
+      "opts": [
+        "the quality of being unnoticed",
+        "the quality of being significant or valuable",
+        "a cool competition skill",
+        "a rich audience vote"
+      ],
+      "ans": 1,
+      "explanation": "Importance means the state or fact of being of great significance or value."
+    },
+    {
+      "q": "Knowledge means?",
+      "opts": [
+        "false information assigned daily",
+        "information and understanding gained through learning",
+        "a major vote in competition",
+        "a cool breakfast skill"
+      ],
+      "ans": 1,
+      "explanation": "Knowledge means facts, information, and skills acquired through experience or education."
+    },
+    {
+      "q": "Major means?",
+      "opts": [
+        "small and unimportant",
+        "very important or large and primary",
+        "cool and preferred",
+        "somehow rich and assigned"
+      ],
+      "ans": 1,
+      "explanation": "Major means more important, serious, or significant than others of the same type."
+    },
+    {
+      "q": "Mean means?",
+      "opts": [
+        "to celebrate something cool",
+        "to intend or signify or to be unkind",
+        "to gain a major audience",
+        "to vote for the president"
+      ],
+      "ans": 1,
+      "explanation": "Mean means to intend to convey or refer to, or to be unkind and unpleasant in behavior."
+    },
+    {
+      "q": "Prefer means?",
+      "opts": [
+        "to dislike equally",
+        "to like one thing more than another",
+        "to assign a major skill",
+        "to advertise a competition vote"
+      ],
+      "ans": 1,
+      "explanation": "Prefer means to like or want one thing more than another; to give priority to a choice."
+    },
+    {
+      "q": "President means?",
+      "opts": [
+        "a member of the audience only",
+        "the elected head of a country or organization",
+        "a cool skill competition winner",
+        "a rich person assigned to vote"
+      ],
+      "ans": 1,
+      "explanation": "President means the elected leader of a country, organization, or institution."
+    },
+    {
+      "q": "Progress means?",
+      "opts": [
+        "moving backward from a goal",
+        "forward movement toward a goal or improvement",
+        "a cool competition audience",
+        "a major breakfast assigned daily"
+      ],
+      "ans": 1,
+      "explanation": "Progress means movement toward a better or more complete state or toward a desired goal."
+    },
+    {
+      "q": "Respect means?",
+      "opts": [
+        "to ignore someone's importance",
+        "to show consideration and honor toward someone",
+        "to gain a cool skill vote",
+        "to advertise major strength"
+      ],
+      "ans": 1,
+      "explanation": "Respect means to feel or show deep admiration for someone because of their qualities or achievements."
+    },
+    {
+      "q": "Rich means?",
+      "opts": [
+        "having very little money or resources",
+        "having a lot of money or being full of something valuable",
+        "assigned to gain cool knowledge",
+        "preferred by the audience somehow"
+      ],
+      "ans": 1,
+      "explanation": "Rich means having a great deal of money or assets, or being full of something valuable or desirable."
+    },
+    {
+      "q": "Skill means?",
+      "opts": [
+        "something gained without any effort",
+        "the ability to do something well through practice",
+        "a cool vote in a competition",
+        "a major breakfast importance"
+      ],
+      "ans": 1,
+      "explanation": "Skill means the ability to do something well, usually gained through training or experience."
+    },
+    {
+      "q": "Somehow means?",
+      "opts": [
+        "in a very specific and known way",
+        "in a way that is not known or certain",
+        "a major cool competition",
+        "a rich audience vote"
+      ],
+      "ans": 1,
+      "explanation": "Somehow means in a way that is not clear or understood; by some means not yet known."
+    },
+    {
+      "q": "Strength means?",
+      "opts": [
+        "weakness and lack of ability",
+        "the quality of being physically or mentally powerful",
+        "a cool assigned competition",
+        "a rich audience knowledge"
+      ],
+      "ans": 1,
+      "explanation": "Strength means the quality or state of being strong, either physically or in character and resolve."
+    },
+    {
+      "q": "Vote means?",
+      "opts": [
+        "to ignore an election completely",
+        "to make an official choice in an election or decision",
+        "to advertise a cool skill",
+        "to assign progress to the president"
+      ],
+      "ans": 1,
+      "explanation": "Vote means to formally express a choice or opinion in an election or meeting by casting a ballot."
+    }
+  ],
+
+  "story": {
+    "title": "The Student Who Somehow Became President",
+    "body": "No one expected Dina to run for school president. She was not the richest student, not the loudest, and certainly not the one most likely to advertise herself to gain popularity. She was quiet, thoughtful, and somehow always found a way to gain the respect of those around her — not through competition but through genuine care and knowledge. It began one ordinary morning. Dina was eating breakfast alone when the school announced it would hold a major competition to elect a new student president. Every candidate would need to perform in front of a large audience, present their ideas, and earn votes from the student body. Her friends immediately encouraged her to join. She was not sure what they meant at first. 'You have the strength of character, the skill, and the knowledge,' said her closest friend Rahim. 'That is what a real president needs — not just someone who knows how to advertise themselves.' Dina considered this. She preferred to learn quietly rather than perform publicly, and the importance of the role felt almost too heavy for someone like her. But she somehow found the courage to assign herself the task of preparing. She spent the following weeks gaining knowledge about the school's major problems — the lack of a proper reading room, the absence of cool and calm spaces for students to think, and the unfair way tasks were assigned between students of different backgrounds. She wrote everything down with great care and prepared a speech that was rich in specific ideas and real solutions. On the day of the competition, the audience filled the hall. One by one, the candidates performed. Some were loud and impressive. Some promised things that seemed mean ingless without a plan. When Dina's turn came, she walked to the front cool and steady. She did not shout or try to impress. She simply spoke about what she had learned and what she meant to do. She talked about the importance of progress over popularity, the strength that comes from knowledge rather than wealth, and the value of respecting every student whether rich or poor. The audience grew still. Then, slowly, they began to cheer. When the votes were counted, Dina had won by a major margin. Afterward, a younger student came up to her and asked, 'How did you somehow do it?' Dina smiled and said, 'I did not try to gain votes. I tried to gain trust. And trust, once given, is the richest gift an audience can offer.'",
+    "comprehension": [
+      {
+        "q": "Why did no one expect Dina to run for president?",
+        "opts": [
+          "she had no skill or knowledge",
+          "she was quiet and did not advertise herself for popularity",
+          "she preferred to vote rather than compete",
+          "she was assigned a different major task"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Rahim mean when he encouraged Dina?",
+        "opts": [
+          "that she should advertise her strength to the audience",
+          "that she had the character, skill, and knowledge a real president needs",
+          "that she should gain votes by being rich and cool",
+          "that she should assign tasks and compete loudly"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What major problems did Dina discover about the school?",
+        "opts": [
+          "lack of competition and no audience for events",
+          "lack of a reading room, no calm spaces, and unfair task assignment",
+          "no breakfast program and no student vote",
+          "no knowledge of how to advertise or gain respect"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "How did Dina perform during the competition?",
+        "opts": [
+          "she was loud and tried to impress the audience",
+          "she spoke coolly and clearly about knowledge, progress, and respect",
+          "she advertised her wealth and major achievements",
+          "she somehow skipped and assigned another student instead"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What did Dina say was the richest gift an audience can offer?",
+        "opts": [
+          "a major vote in a competition",
+          "trust gained through genuine effort and respect",
+          "cool skill and strength",
+          "breakfast and knowledge assigned daily"
+        ],
+        "ans": 1
+      }
+    ],
+    "tags": [
+      "advertise",
+      "assign",
+      "audience",
+      "breakfast",
+      "competition",
+      "cool",
+      "gain",
+      "importance",
+      "knowledge",
+      "major",
+      "mean",
+      "prefer",
+      "president",
+      "progress",
+      "respect",
+      "rich",
+      "skill",
+      "somehow",
+      "strength",
+      "vote"
+    ]
+  },
+
+  "listening": {
+    "title": "A Discussion About Leadership and Learning",
+    "script": "A: Did you hear that the school is advertising a major competition to elect a new student president?\nB: Yes I did. I think it is quite important. It gives students a chance to gain real leadership skills.\nA: I prefer someone who actually knows what they mean when they talk about progress.\nB: Exactly. Not someone who is just trying to gain votes by being cool or rich.\nA: What qualities do you think a student president should have?\nB: Knowledge is the most important. And the strength to somehow stay calm under pressure.\nA: I also think they should respect every student equally — rich or poor.\nB: Absolutely. And they should not assign tasks unfairly. That means a lot to people.\nA: Did you eat breakfast this morning? You seem quite focused today.\nB: I always eat breakfast before a major discussion. It gives me strength to think clearly.\nA: Ha. That is a cool habit. So who will you vote for?\nB: I am not sure yet. I want to examine each candidate's knowledge and progress plan first.\nA: I prefer someone whose skill is in listening rather than just advertising themselves.\nB: Me too. An audience can always tell when someone means what they say.\nA: What does progress mean to you in a school president?\nB: It means gaining something real — better facilities, fairer systems, more respect for everyone.\nA: That is quite rich in meaning. I hope the audience votes wisely.\nB: I think they will. Somehow people always recognize genuine strength when they see it.\nA: I agree. The importance of this vote is major. It will shape the school for the whole term.\nB: Then let us both vote for the person who has knowledge, skill, and real respect for others.",
+    "comprehension": [
+      {
+        "q": "What does the first speaker prefer in a student president?",
+        "opts": [
+          "someone rich and cool who advertises widely",
+          "someone who actually knows what they mean about progress",
+          "someone assigned by the teacher with major skill",
+          "someone the audience voted for in a breakfast competition"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does the second speaker say is the most important quality?",
+        "opts": [
+          "being rich and gaining a cool audience",
+          "knowledge and the strength to stay calm under pressure",
+          "advertising skill and a major vote campaign",
+          "assigning breakfast tasks with importance"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "Why does the second speaker always eat breakfast before a major discussion?",
+        "opts": [
+          "to gain the respect of the audience",
+          "it gives them the strength to think clearly",
+          "it is assigned by the president as a skill",
+          "somehow it helps them vote more effectively"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "What does progress mean to the second speaker in a school president?",
+        "opts": [
+          "advertising widely and gaining cool popularity",
+          "gaining something real like better facilities and fairer systems",
+          "assigning major tasks and voting for knowledge",
+          "somehow becoming rich through competition"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+
+  "speaking": {
+    "topic": "Talking About a Person You Respect and Why",
+    "prompt": "Describe someone you deeply respect. Use words like respect, knowledge, strength, skill, progress, importance, major, somehow, rich, and mean.",
+    "example": "The person I respect most is my grandmother. She was not rich in money but she was incredibly rich in knowledge and wisdom. She somehow managed to raise a large family with patience and strength even during very difficult times. She always meant what she said — there was never a gap between her words and her actions. She understood the importance of education long before it became a major topic in our community. She preferred to assign tasks to her children rather than do everything herself, because she believed that skill is only gained through practice. Watching her progress through life with such calm and dignity taught me that true strength has nothing to do with wealth or competition. It is found in the quiet, consistent way a person treats others with respect every single day.",
+    "tips": [
+      "Name the person and describe their most important qualities",
+      "Use rich and knowledge to talk about what makes them valuable as a person",
+      "Use strength and somehow to describe how they overcame challenges",
+      "Mention the importance and major impact they have had on your life",
+      "Use mean and prefer to explain their values and choices",
+      "End with what you have gained from knowing or observing them"
+    ]
+  },
+
+  "conversation": {
+    "scenario": "Two students discussing an upcoming school election and what leadership means",
+    "steps": [
+      {
+        "speaker": "app",
+        "text": "The school is advertising a competition to elect a new student president. Are you interested in voting or even running?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Share whether you would prefer to vote or run and explain what the role means to you."
+      },
+      {
+        "speaker": "app",
+        "text": "What major qualities do you think a student president should have?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Talk about knowledge, skill, and strength as important qualities and give reasons."
+      },
+      {
+        "speaker": "app",
+        "text": "Do you think being rich or popular helps a person gain more votes?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Share your honest opinion about wealth, popularity, and what actually earns respect."
+      },
+      {
+        "speaker": "app",
+        "text": "What progress would you assign as the most important goal if you were elected?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Describe a specific goal and explain its importance to the whole audience of students."
+      },
+      {
+        "speaker": "app",
+        "text": "How would you advertise yourself to the student body without seeming mean or fake?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Describe a cool and honest way to communicate your ideas and gain trust."
+      },
+      {
+        "speaker": "app",
+        "text": "What does being a student president somehow teach you about life beyond school?"
+      },
+      {
+        "speaker": "user",
+        "prompt": "Reflect on the broader importance of leadership, strength, and respect in life."
+      }
+    ]
+  }
+}
