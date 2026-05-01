@@ -7,13 +7,7 @@ dotenv.config();
 
 const app = express();
 
-/* ---------------- ENV CHECK ---------------- */
-
-if (!process.env.MONGO_URI) {
-  throw new Error("MONGO_URI is missing in environment variables");
-}
-
-/* ---------------- CORS ---------------- */
+/* ---------------- CORS CONFIG ---------------- */
 
 const allowedOrigins = (process.env.CLIENT_ORIGIN || "")
   .split(",")
@@ -22,29 +16,30 @@ const allowedOrigins = (process.env.CLIENT_ORIGIN || "")
 app.use(
   cors({
     origin: function (origin, callback) {
+      // allow server-to-server / mobile apps / postman
       if (!origin) return callback(null, true);
 
       if (allowedOrigins.includes(origin)) {
         return callback(null, true);
       }
 
-      return callback(null, true); // safe fallback for Vercel/browser issues
+      return callback(null, false);
     },
     credentials: true,
   }),
 );
 
-app.options("*", cors());
-
 /* ---------------- MIDDLEWARE ---------------- */
 
 app.use(express.json());
 
-/* ---------------- ROUTES ---------------- */
+/* ---------------- HEALTH CHECK ---------------- */
 
 app.get("/", (req, res) => {
   res.send("🚀 API is running...");
 });
+
+/* ---------------- ROUTES ---------------- */
 
 app.use("/api/auth", require("./routes/auth"));
 app.use("/api/progress", require("./routes/progress"));
@@ -52,34 +47,29 @@ app.use("/api/lessons", require("./routes/lessons"));
 app.use("/api/verbs", require("./routes/verbs"));
 app.use("/api/words", require("./routes/words"));
 
-/* ---------------- MONGODB (SERVERLESS SAFE) ---------------- */
+/* ---------------- MONGODB ---------------- */
 
-let cached = global.mongoose;
+mongoose.connect(process.env.MONGO_URI);
 
-if (!cached) {
-  cached = global.mongoose = { conn: null, promise: null };
-}
+mongoose.connection.on("connected", () => {
+  console.log("✅ MongoDB Connected");
+});
 
-async function connectDB() {
-  if (cached.conn) return cached.conn;
-
-  if (!cached.promise) {
-    cached.promise = mongoose.connect(process.env.MONGO_URI).then((m) => m);
-  }
-
-  cached.conn = await cached.promise;
-  return cached.conn;
-}
-
-connectDB();
+mongoose.connection.on("error", (err) => {
+  console.error("❌ MongoDB Error:", err);
+});
 
 /* ---------------- ERROR HANDLER ---------------- */
 
 app.use((err, req, res, next) => {
-  console.error(err);
+  console.error(err.message);
   res.status(500).json({ message: "Server Error" });
 });
 
-/* ---------------- EXPORT FOR VERCEL ---------------- */
+/* ---------------- START SERVER ---------------- */
 
-module.exports = app;
+const PORT = process.env.PORT || 5001;
+
+app.listen(PORT, () => {
+  console.log(`🚀 Server running on port ${PORT}`);
+});
