@@ -9,7 +9,9 @@ const app = express();
 
 /* ---------------- CORS CONFIG ---------------- */
 
-const allowedOrigins = (process.env.CLIENT_ORIGIN || "").split(",");
+const allowedOrigins = (process.env.CLIENT_ORIGIN || "")
+  .split(",")
+  .map((o) => o.trim());
 
 app.use(
   cors({
