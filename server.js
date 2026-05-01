@@ -66,10 +66,15 @@ app.use((err, req, res, next) => {
   res.status(500).json({ message: "Server Error" });
 });
 
-/* ---------------- START SERVER ---------------- */
+/* ---------------- START SERVER (local only) ---------------- */
 
-const PORT = process.env.PORT || 5001;
+if (process.env.NODE_ENV !== "production") {
+  const PORT = process.env.PORT || 5001;
+  app.listen(PORT, () => {
+    console.log(`🚀 Server running on port ${PORT}`);
+  });
+}
 
-app.listen(PORT, () => {
-  console.log(`🚀 Server running on port ${PORT}`);
-});
+/* ---------------- VERCEL SERVERLESS EXPORT ---------------- */
+
+module.exports = app;
