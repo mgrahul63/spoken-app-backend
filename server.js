@@ -16,13 +16,8 @@ const allowedOrigins = (process.env.CLIENT_ORIGIN || "")
 app.use(
   cors({
     origin: function (origin, callback) {
-      // allow server-to-server / mobile apps / postman
       if (!origin) return callback(null, true);
-
-      if (allowedOrigins.includes(origin)) {
-        return callback(null, true);
-      }
-
+      if (allowedOrigins.includes(origin)) return callback(null, true);
       return callback(null, false);
     },
     credentials: true,
@@ -32,6 +27,28 @@ app.use(
 /* ---------------- MIDDLEWARE ---------------- */
 
 app.use(express.json());
+
+/* ---------------- MONGODB CONNECTION (Serverless safe) ---------------- */
+
+let isConnected = false;
+
+async function connectDB() {
+  if (isConnected) return;
+  await mongoose.connect(process.env.MONGO_URI);
+  isConnected = true;
+  console.log("✅ MongoDB Connected");
+}
+
+// Connect on every request (cached after first time)
+app.use(async (req, res, next) => {
+  try {
+    await connectDB();
+    next();
+  } catch (err) {
+    console.error("❌ MongoDB connection failed:", err.message);
+    res.status(500).json({ message: "Database connection failed" });
+  }
+});
 
 /* ---------------- HEALTH CHECK ---------------- */
 
@@ -47,18 +64,6 @@ app.use("/api/lessons", require("./routes/lessons"));
 app.use("/api/verbs", require("./routes/verbs"));
 app.use("/api/words", require("./routes/words"));
 
-/* ---------------- MONGODB ---------------- */
-
-mongoose.connect(process.env.MONGO_URI);
-
-mongoose.connection.on("connected", () => {
-  console.log("✅ MongoDB Connected");
-});
-
-mongoose.connection.on("error", (err) => {
-  console.error("❌ MongoDB Error:", err);
-});
-
 /* ---------------- ERROR HANDLER ---------------- */
 
 app.use((err, req, res, next) => {
@@ -66,7 +71,7 @@ app.use((err, req, res, next) => {
   res.status(500).json({ message: "Server Error" });
 });
 
-/* ---------------- START SERVER (local only) ---------------- */
+/* ---------------- LOCAL SERVER ---------------- */
 
 if (process.env.NODE_ENV !== "production") {
   const PORT = process.env.PORT || 5001;
@@ -74,7 +79,5 @@ if (process.env.NODE_ENV !== "production") {
     console.log(`🚀 Server running on port ${PORT}`);
   });
 }
-
-/* ---------------- VERCEL SERVERLESS EXPORT ---------------- */
 
 module.exports = app;
