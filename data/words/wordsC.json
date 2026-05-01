@@ -86,5 +86,1545 @@
       { "en": "The creature hid in the dark.", "bn": "" }
     ],
     "synonyms": ["animal", "being", "organism", "living thing", "beast"]
+  },
+
+  {
+    "base": "century",
+    "phonetic": "ˈsentʃəri",
+    "meaning": "শতাব্দী",
+    "examples": [
+      {
+        "en": "This building is over a century old.",
+        "bn": "এই ভবনটি এক শতাব্দীর বেশি পুরোনো।"
+      },
+      {
+        "en": "We are living in the 21st century.",
+        "bn": "আমরা ২১তম শতাব্দীতে বাস করছি।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The war changed the century.",
+        "bn": "যুদ্ধটি শতাব্দী বদলে দিল।"
+      },
+      {
+        "en": "That invention shaped the century.",
+        "bn": "সেই আবিষ্কার শতাব্দী গঠন করেছে।"
+      },
+      {
+        "en": "He studied history of the last century.",
+        "bn": "সে গত শতাব্দীর ইতিহাস পড়ল।"
+      },
+      {
+        "en": "The century brought many changes.",
+        "bn": "শতাব্দীটি অনেক পরিবর্তন এনেছে।"
+      },
+      {
+        "en": "A new century began in 2000.",
+        "bn": "২০০০ সালে একটি নতুন শতাব্দী শুরু হলো।"
+      },
+      {
+        "en": "The city grew over the century.",
+        "bn": "শতাব্দীর মধ্যে শহরটি বেড়েছে।"
+      }
+    ],
+    "synonyms": ["era", "age"]
+  },
+
+  {
+    "base": "clue",
+    "phonetic": "kluː",
+    "meaning": "ইঙ্গিত",
+    "examples": [
+      {
+        "en": "The detective found a clue.",
+        "bn": "গোয়েন্দা একটি ইঙ্গিত খুঁজে পেল।"
+      },
+      {
+        "en": "This note is a clue to the mystery.",
+        "bn": "এই নোটটি রহস্যের একটি ইঙ্গিত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She gave me a small clue.",
+        "bn": "সে আমাকে একটি ছোট ইঙ্গিত দিল।"
+      },
+      {
+        "en": "The clue helped solve the case.",
+        "bn": "ইঙ্গিতটি কেস সমাধানে সাহায্য করল।"
+      },
+      {
+        "en": "He followed every clue carefully.",
+        "bn": "সে প্রতিটি ইঙ্গিত সাবধানে অনুসরণ করল।"
+      },
+      {
+        "en": "The clue was hidden in the letter.",
+        "bn": "ইঙ্গিতটি চিঠিতে লুকানো ছিল।"
+      },
+      {
+        "en": "We missed an important clue.",
+        "bn": "আমরা একটি গুরুত্বপূর্ণ ইঙ্গিত মিস করলাম।"
+      },
+      { "en": "The puzzle has many clues.", "bn": "ধাঁধাটিতে অনেক ইঙ্গিত আছে।" }
+    ],
+    "synonyms": ["hint", "signal"]
+  },
+
+  {
+    "base": "concert",
+    "phonetic": "ˈkɒnsɜːt",
+    "meaning": "সঙ্গীতানুষ্ঠান",
+    "examples": [
+      {
+        "en": "We attended a live concert.",
+        "bn": "আমরা একটি লাইভ কনসার্টে অংশ নিয়েছিলাম।"
+      },
+      {
+        "en": "The concert was amazing.",
+        "bn": "সঙ্গীতানুষ্ঠানটি অসাধারণ ছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She sang at the concert.", "bn": "সে কনসার্টে গান গাইল।" },
+      {
+        "en": "The concert started at night.",
+        "bn": "কনসার্টটি রাতে শুরু হলো।"
+      },
+      {
+        "en": "Tickets for the concert sold fast.",
+        "bn": "কনসার্টের টিকিট দ্রুত বিক্রি হলো।"
+      },
+      {
+        "en": "The crowd enjoyed the concert.",
+        "bn": "জনতা কনসার্ট উপভোগ করল।"
+      },
+      {
+        "en": "He played guitar in the concert.",
+        "bn": "সে কনসার্টে গিটার বাজাল।"
+      },
+      {
+        "en": "The concert ended with applause.",
+        "bn": "কনসার্টটি করতালির মাধ্যমে শেষ হলো।"
+      }
+    ],
+    "synonyms": ["show", "performance"]
+  },
+
+  {
+    "base": "county",
+    "phonetic": "ˈkaʊnti",
+    "meaning": "জেলা/কাউন্টি",
+    "examples": [
+      {
+        "en": "They live in a rural county.",
+        "bn": "তারা একটি গ্রামীণ জেলায় বাস করে।"
+      },
+      {
+        "en": "The county is large and peaceful.",
+        "bn": "জেলাটি বড় এবং শান্ত।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The county office is nearby.", "bn": "কাউন্টি অফিস কাছেই।" },
+      {
+        "en": "Each county has its own rules.",
+        "bn": "প্রতিটি জেলায় আলাদা নিয়ম আছে।"
+      },
+      {
+        "en": "The county organizes festivals.",
+        "bn": "জেলাটি উৎসব আয়োজন করে।"
+      },
+      {
+        "en": "He works in county administration.",
+        "bn": "সে জেলা প্রশাসনে কাজ করে।"
+      },
+      {
+        "en": "The county road is under repair.",
+        "bn": "জেলার রাস্তা মেরামত চলছে।"
+      },
+      {
+        "en": "Many farms are in this county.",
+        "bn": "এই জেলায় অনেক খামার আছে।"
+      }
+    ],
+    "synonyms": ["district", "region"]
+  },
+
+  {
+    "base": "communicate",
+    "phonetic": "kəˈmjuːnɪkeɪt",
+    "meaning": "যোগাযোগ করা",
+    "examples": [
+      {
+        "en": "We communicate through messages.",
+        "bn": "আমরা বার্তার মাধ্যমে যোগাযোগ করি।"
+      },
+      {
+        "en": "He cannot communicate clearly.",
+        "bn": "সে স্পষ্টভাবে যোগাযোগ করতে পারে না।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They communicate in English.",
+        "bn": "তারা ইংরেজিতে যোগাযোগ করে।"
+      },
+      {
+        "en": "Animals communicate in different ways.",
+        "bn": "প্রাণীরা বিভিন্নভাবে যোগাযোগ করে।"
+      },
+      {
+        "en": "She communicates with her team daily.",
+        "bn": "সে প্রতিদিন তার দলের সাথে যোগাযোগ করে।"
+      },
+      {
+        "en": "Good leaders communicate well.",
+        "bn": "ভালো নেতারা ভালোভাবে যোগাযোগ করে।"
+      },
+      {
+        "en": "We use phones to communicate.",
+        "bn": "আমরা ফোন ব্যবহার করে যোগাযোগ করি।"
+      },
+      {
+        "en": "They failed to communicate properly.",
+        "bn": "তারা ঠিকভাবে যোগাযোগ করতে ব্যর্থ হলো।"
+      }
+    ],
+    "synonyms": ["convey", "interact"]
+  },
+
+  {
+    "base": "crowd",
+    "phonetic": "kraʊd",
+    "meaning": "ভিড়",
+    "examples": [
+      {
+        "en": "A huge crowd gathered there.",
+        "bn": "সেখানে বিশাল ভিড় জমা হলো।"
+      },
+      { "en": "He got lost in the crowd.", "bn": "সে ভিড়ে হারিয়ে গেল।" }
+    ],
+    "moreexample": [
+      { "en": "The crowd cheered loudly.", "bn": "ভিড় জোরে চিৎকার করল।" },
+      { "en": "There was a crowd at the station.", "bn": "স্টেশনে ভিড় ছিল।" },
+      {
+        "en": "She walked through the crowd.",
+        "bn": "সে ভিড়ের মধ্য দিয়ে হাঁটল।"
+      },
+      {
+        "en": "The crowd waited for the show.",
+        "bn": "ভিড় শো-এর জন্য অপেক্ষা করছিল।"
+      },
+      {
+        "en": "A small crowd gathered quickly.",
+        "bn": "একটি ছোট ভিড় দ্রুত জমা হলো।"
+      },
+      { "en": "The crowd was very noisy.", "bn": "ভিড়টি খুব শব্দ করছিল।" }
+    ],
+    "synonyms": ["group", "mob"]
+  },
+
+  {
+    "base": "captain",
+    "phonetic": "ˈkæptɪn",
+    "meaning": "অধিনায়ক",
+    "examples": [
+      { "en": "He is the team captain.", "bn": "সে দলের অধিনায়ক।" },
+      {
+        "en": "The captain led the players.",
+        "bn": "অধিনায়ক খেলোয়াড়দের নেতৃত্ব দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The captain made a decision.",
+        "bn": "অধিনায়ক একটি সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "She became the captain of the ship.",
+        "bn": "সে জাহাজের অধিনায়ক হলো।"
+      },
+      {
+        "en": "The captain motivated the team.",
+        "bn": "অধিনায়ক দলকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "Players respect their captain.",
+        "bn": "খেলোয়াড়রা তাদের অধিনায়ককে সম্মান করে।"
+      },
+      {
+        "en": "The captain planned the strategy.",
+        "bn": "অধিনায়ক কৌশল পরিকল্পনা করল।"
+      },
+      {
+        "en": "He was chosen as captain.",
+        "bn": "তাকে অধিনায়ক হিসেবে নির্বাচন করা হলো।"
+      }
+    ],
+    "synonyms": ["leader", "chief"]
+  },
+
+  {
+    "base": "conclusion",
+    "phonetic": "kənˈkluːʒn",
+    "meaning": "উপসংহার",
+    "examples": [
+      { "en": "The conclusion was clear.", "bn": "উপসংহারটি স্পষ্ট ছিল।" },
+      { "en": "He wrote the conclusion last.", "bn": "সে শেষে উপসংহার লিখল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The report reached a conclusion.",
+        "bn": "রিপোর্টটি একটি উপসংহারে পৌঁছাল।"
+      },
+      {
+        "en": "We agreed on the conclusion.",
+        "bn": "আমরা উপসংহারে একমত হলাম।"
+      },
+      {
+        "en": "The conclusion surprised everyone.",
+        "bn": "উপসংহার সবাইকে অবাক করল।"
+      },
+      {
+        "en": "She explained the conclusion.",
+        "bn": "সে উপসংহার ব্যাখ্যা করল।"
+      },
+      {
+        "en": "The conclusion is based on facts.",
+        "bn": "উপসংহারটি তথ্যের উপর ভিত্তি করে।"
+      },
+      {
+        "en": "They reached no conclusion.",
+        "bn": "তারা কোনো উপসংহারে পৌঁছায়নি।"
+      }
+    ],
+    "synonyms": ["result", "summary"]
+  },
+
+  {
+    "base": "consider",
+    "phonetic": "kənˈsɪdər",
+    "meaning": "বিবেচনা করা",
+    "examples": [
+      {
+        "en": "Please consider my request.",
+        "bn": "দয়া করে আমার অনুরোধটি বিবেচনা করো।"
+      },
+      {
+        "en": "He is considering a new job.",
+        "bn": "সে একটি নতুন কাজ বিবেচনা করছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She considered all options carefully.",
+        "bn": "সে সব বিকল্প সাবধানে বিবেচনা করল।"
+      },
+      {
+        "en": "We should consider the risks.",
+        "bn": "আমাদের ঝুঁকিগুলো বিবেচনা করা উচিত।"
+      },
+      {
+        "en": "He considered moving abroad.",
+        "bn": "সে বিদেশে যাওয়ার কথা ভাবছিল।"
+      },
+      {
+        "en": "They considered his advice.",
+        "bn": "তারা তার পরামর্শ বিবেচনা করল।"
+      },
+      {
+        "en": "Consider the consequences first.",
+        "bn": "প্রথমে ফলাফল বিবেচনা করো।"
+      },
+      {
+        "en": "She is considering her future.",
+        "bn": "সে তার ভবিষ্যৎ নিয়ে ভাবছে।"
+      }
+    ],
+    "synonyms": ["think about", "regard"]
+  },
+
+  {
+    "base": "career",
+    "phonetic": "kəˈrɪər",
+    "meaning": "পেশা",
+    "examples": [
+      {
+        "en": "He chose a medical career.",
+        "bn": "সে একটি চিকিৎসা পেশা বেছে নিল।"
+      },
+      { "en": "She has a successful career.", "bn": "তার একটি সফল পেশা আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He started his career early.",
+        "bn": "সে তার পেশা শুরু করেছিল তাড়াতাড়ি।"
+      },
+      { "en": "She wants a better career.", "bn": "সে একটি ভালো পেশা চায়।" },
+      {
+        "en": "Career growth takes time.",
+        "bn": "ক্যারিয়ার উন্নতিতে সময় লাগে।"
+      },
+      {
+        "en": "He changed his career path.",
+        "bn": "সে তার ক্যারিয়ারের পথ পরিবর্তন করল।"
+      },
+      {
+        "en": "Education helps career success.",
+        "bn": "শিক্ষা ক্যারিয়ারের সাফল্যে সাহায্য করে।"
+      },
+      {
+        "en": "She focuses on her career goals.",
+        "bn": "সে তার ক্যারিয়ার লক্ষ্যগুলোর দিকে মনোযোগ দেয়।"
+      }
+    ],
+    "synonyms": ["profession", "occupation"]
+  },
+
+  {
+    "base": "clerk",
+    "phonetic": "klɑːk",
+    "meaning": "ক্লার্ক / কেরানি",
+    "examples": [
+      {
+        "en": "The clerk checked the documents.",
+        "bn": "ক্লার্ক নথিপত্র পরীক্ষা করল।"
+      },
+      {
+        "en": "He works as a bank clerk.",
+        "bn": "সে ব্যাংক ক্লার্ক হিসেবে কাজ করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The clerk helped the customer.",
+        "bn": "ক্লার্ক গ্রাহককে সাহায্য করল।"
+      },
+      {
+        "en": "She became a government clerk.",
+        "bn": "সে সরকারি ক্লার্ক হলো।"
+      },
+      { "en": "The clerk organized files.", "bn": "ক্লার্ক ফাইলগুলো সাজাল।" },
+      { "en": "He is a senior clerk.", "bn": "সে একজন সিনিয়র ক্লার্ক।" },
+      {
+        "en": "The clerk answered questions.",
+        "bn": "ক্লার্ক প্রশ্নগুলোর উত্তর দিল।"
+      },
+      {
+        "en": "She trained new clerks.",
+        "bn": "সে নতুন ক্লার্কদের প্রশিক্ষণ দিল।"
+      }
+    ],
+    "synonyms": ["assistant", "record keeper"]
+  },
+
+  {
+    "base": "charge",
+    "phonetic": "tʃɑːrdʒ",
+    "meaning": "চার্জ / অভিযোগ / মূল্য",
+    "examples": [
+      { "en": "They charged a high price.", "bn": "তারা উচ্চ মূল্য নিল।" },
+      {
+        "en": "He was charged with theft.",
+        "bn": "তার বিরুদ্ধে চুরির অভিযোগ আনা হলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The phone is fully charged.",
+        "bn": "ফোনটি পুরোপুরি চার্জ হয়েছে।"
+      },
+      {
+        "en": "She paid the service charge.",
+        "bn": "সে সার্ভিস চার্জ পরিশোধ করল।"
+      },
+      {
+        "en": "The police charged him.",
+        "bn": "পুলিশ তার বিরুদ্ধে অভিযোগ আনল।"
+      },
+      {
+        "en": "There is no extra charge.",
+        "bn": "এখানে কোনো অতিরিক্ত চার্জ নেই।"
+      },
+      {
+        "en": "He charged forward quickly.",
+        "bn": "সে দ্রুত সামনে এগিয়ে গেল।"
+      },
+      { "en": "The battery needs charge.", "bn": "ব্যাটারির চার্জ দরকার।" }
+    ],
+    "synonyms": ["cost", "accuse"]
+  },
+
+  {
+    "base": "comfort",
+    "phonetic": "ˈkʌmfərt",
+    "meaning": "সান্ত্বনা / আরাম",
+    "examples": [
+      { "en": "She found comfort in music.", "bn": "সে সংগীতে সান্ত্বনা পেল।" },
+      { "en": "This chair gives comfort.", "bn": "এই চেয়ার আরাম দেয়।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He comforted his friend.",
+        "bn": "সে তার বন্ধুকে সান্ত্বনা দিল।"
+      },
+      { "en": "The room is full of comfort.", "bn": "ঘরটি আরামে ভরা।" },
+      {
+        "en": "She needs emotional comfort.",
+        "bn": "তার মানসিক সান্ত্বনা দরকার।"
+      },
+      { "en": "The bed provides comfort.", "bn": "বিছানাটি আরাম দেয়।" },
+      { "en": "He comforted the child.", "bn": "সে শিশুটিকে সান্ত্বনা দিল।" },
+      { "en": "Comfort comes after pain.", "bn": "কষ্টের পর সান্ত্বনা আসে।" }
+    ],
+    "synonyms": ["relief", "ease"]
+  },
+
+  {
+    "base": "contact",
+    "phonetic": "ˈkɒntækt",
+    "meaning": "যোগাযোগ / সংযোগ",
+    "examples": [
+      { "en": "Stay in contact with me.", "bn": "আমার সাথে যোগাযোগ রাখো।" },
+      {
+        "en": "I lost contact with him.",
+        "bn": "আমি তার সাথে যোগাযোগ হারিয়েছি।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She contacted her teacher.",
+        "bn": "সে তার শিক্ষকের সাথে যোগাযোগ করল।"
+      },
+      {
+        "en": "We are in contact daily.",
+        "bn": "আমরা প্রতিদিন যোগাযোগে থাকি।"
+      },
+      {
+        "en": "He made contact with support.",
+        "bn": "সে সাপোর্টের সাথে যোগাযোগ করল।"
+      },
+      {
+        "en": "I will contact you later.",
+        "bn": "আমি পরে তোমার সাথে যোগাযোগ করব।"
+      },
+      {
+        "en": "Emergency contact is important.",
+        "bn": "জরুরি যোগাযোগ গুরুত্বপূর্ণ।"
+      },
+      { "en": "They lost all contact.", "bn": "তারা সব যোগাযোগ হারিয়েছে।" }
+    ],
+    "synonyms": ["communication", "connection"]
+  },
+
+  {
+    "base": "customer",
+    "phonetic": "ˈkʌstəmər",
+    "meaning": "গ্রাহক",
+    "examples": [
+      { "en": "The customer is always right.", "bn": "গ্রাহক সবসময় সঠিক।" },
+      {
+        "en": "A customer entered the shop.",
+        "bn": "একজন গ্রাহক দোকানে প্রবেশ করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The customer asked for help.", "bn": "গ্রাহক সাহায্য চাইল।" },
+      {
+        "en": "They treated customers well.",
+        "bn": "তারা গ্রাহকদের ভালোভাবে আচরণ করল।"
+      },
+      { "en": "The customer paid quickly.", "bn": "গ্রাহক দ্রুত পেমেন্ট করল।" },
+      {
+        "en": "Many customers were waiting.",
+        "bn": "অনেক গ্রাহক অপেক্ষা করছিল।"
+      },
+      {
+        "en": "Customer service is important.",
+        "bn": "গ্রাহক সেবা গুরুত্বপূর্ণ।"
+      },
+      { "en": "He is a loyal customer.", "bn": "সে একজন বিশ্বস্ত গ্রাহক।" }
+    ],
+    "synonyms": ["client", "buyer"]
+  },
+
+  {
+    "base": "course",
+    "phonetic": "kɔːrs",
+    "meaning": "কোর্স / পথ",
+    "examples": [
+      {
+        "en": "He joined a computer course.",
+        "bn": "সে একটি কম্পিউটার কোর্সে ভর্তি হলো।"
+      },
+      {
+        "en": "The river changed its course.",
+        "bn": "নদীটি তার পথ পরিবর্তন করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She completed the course.", "bn": "সে কোর্সটি সম্পন্ন করল।" },
+      { "en": "The course lasts six months.", "bn": "কোর্সটি ছয় মাস চলে।" },
+      {
+        "en": "He changed his course of action.",
+        "bn": "সে তার কাজের পথ পরিবর্তন করল।"
+      },
+      { "en": "Online courses are popular.", "bn": "অনলাইন কোর্স জনপ্রিয়।" },
+      { "en": "The course is difficult.", "bn": "কোর্সটি কঠিন।" },
+      {
+        "en": "She selected a science course.",
+        "bn": "সে একটি বিজ্ঞান কোর্স বেছে নিল।"
+      }
+    ],
+    "synonyms": ["program", "path"]
+  },
+
+  {
+    "base": "coast",
+    "phonetic": "koʊst",
+    "meaning": "উপকূল",
+    "examples": [
+      { "en": "They live near the coast.", "bn": "তারা উপকূলের কাছে থাকে।" },
+      { "en": "The coast is beautiful.", "bn": "উপকূলটি সুন্দর।" }
+    ],
+    "moreexample": [
+      { "en": "We walked along the coast.", "bn": "আমরা উপকূল বরাবর হাঁটলাম।" },
+      { "en": "The coast was windy.", "bn": "উপকূলটি বাতাসপূর্ণ ছিল।" },
+      {
+        "en": "Fishermen work on the coast.",
+        "bn": "মৎস্যজীবীরা উপকূলে কাজ করে।"
+      },
+      { "en": "The coast has many beaches.", "bn": "উপকূলে অনেক সৈকত আছে।" },
+      {
+        "en": "They traveled across the coast.",
+        "bn": "তারা উপকূল জুড়ে ভ্রমণ করল।"
+      },
+      { "en": "The coast is peaceful.", "bn": "উপকূলটি শান্ত।" }
+    ],
+    "synonyms": ["shore", "seaside"]
+  },
+
+  {
+    "base": "chance",
+    "phonetic": "tʃæns",
+    "meaning": "সুযোগ",
+    "examples": [
+      {
+        "en": "Take a chance and try it.",
+        "bn": "একটা সুযোগ নিয়ে চেষ্টা করো।"
+      },
+      { "en": "He got a second chance.", "bn": "সে দ্বিতীয় সুযোগ পেল।" }
+    ],
+    "moreexample": [
+      { "en": "She missed the chance to win.", "bn": "সে জয়ের সুযোগ হারাল।" },
+      {
+        "en": "There is a good chance of rain.",
+        "bn": "বৃষ্টির ভালো সম্ভাবনা আছে।"
+      },
+      { "en": "He got a chance to speak.", "bn": "সে কথা বলার সুযোগ পেল।" },
+      { "en": "Don’t lose this chance.", "bn": "এই সুযোগ হারিও না।" },
+      {
+        "en": "Every chance matters in life.",
+        "bn": "জীবনে প্রতিটি সুযোগ গুরুত্বপূর্ণ।"
+      },
+      { "en": "She took a chance on him.", "bn": "সে তার উপর ঝুঁকি নিল।" }
+    ],
+    "synonyms": ["opportunity", "possibility"]
+  },
+
+  {
+    "base": "center",
+    "phonetic": "ˈsentər",
+    "meaning": "কেন্দ্র",
+    "examples": [
+      {
+        "en": "The shop is in the city center.",
+        "bn": "দোকানটি শহরের কেন্দ্রে।"
+      },
+      { "en": "She stood at the center.", "bn": "সে কেন্দ্রে দাঁড়াল।" }
+    ],
+    "moreexample": [
+      { "en": "The ball hit the center.", "bn": "বলটি কেন্দ্রে লাগল।" },
+      {
+        "en": "He works in a shopping center.",
+        "bn": "সে একটি শপিং সেন্টারে কাজ করে।"
+      },
+      { "en": "The center is crowded.", "bn": "কেন্দ্রটি ভিড়পূর্ণ।" },
+      { "en": "They moved to the center.", "bn": "তারা কেন্দ্রে চলে গেল।" },
+      {
+        "en": "The center of attention changed.",
+        "bn": "মনোযোগের কেন্দ্র পরিবর্তিত হলো।"
+      },
+      {
+        "en": "She lives near the city center.",
+        "bn": "সে শহরের কেন্দ্রের কাছে থাকে।"
+      }
+    ],
+    "synonyms": ["middle", "core"]
+  },
+
+  {
+    "base": "complex",
+    "phonetic": "ˈkɒmpleks",
+    "meaning": "জটিল",
+    "examples": [
+      { "en": "The problem is complex.", "bn": "সমস্যাটি জটিল।" },
+      {
+        "en": "He solved a complex equation.",
+        "bn": "সে একটি জটিল সমীকরণ সমাধান করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The system is very complex.", "bn": "সিস্টেমটি খুব জটিল।" },
+      {
+        "en": "She explained a complex idea.",
+        "bn": "সে একটি জটিল ধারণা ব্যাখ্যা করল।"
+      },
+      {
+        "en": "The building has a complex design.",
+        "bn": "ভবনটির ডিজাইন জটিল।"
+      },
+      {
+        "en": "Learning math can be complex.",
+        "bn": "গণিত শেখা জটিল হতে পারে।"
+      },
+      {
+        "en": "The issue became more complex.",
+        "bn": "সমস্যাটি আরও জটিল হয়ে গেল।"
+      },
+      {
+        "en": "He studied a complex theory.",
+        "bn": "সে একটি জটিল তত্ত্ব অধ্যয়ন করল।"
+      }
+    ],
+    "synonyms": ["complicated", "difficult"]
+  },
+
+  {
+    "base": "critic",
+    "phonetic": "ˈkrɪtɪk",
+    "meaning": "সমালোচক",
+    "examples": [
+      {
+        "en": "The critic reviewed the movie.",
+        "bn": "সমালোচক সিনেমাটি পর্যালোচনা করল।"
+      },
+      { "en": "He is a famous critic.", "bn": "সে একজন বিখ্যাত সমালোচক।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The critic gave a negative review.",
+        "bn": "সমালোচক একটি নেতিবাচক পর্যালোচনা দিল।"
+      },
+      { "en": "She is a music critic.", "bn": "সে একজন সংগীত সমালোচক।" },
+      {
+        "en": "The critic praised the actor.",
+        "bn": "সমালোচক অভিনেতার প্রশংসা করল।"
+      },
+      { "en": "He became a film critic.", "bn": "সে চলচ্চিত্র সমালোচক হলো।" },
+      {
+        "en": "The critic wrote an article.",
+        "bn": "সমালোচক একটি আর্টিকেল লিখল।"
+      },
+      {
+        "en": "Critics disagreed on the issue.",
+        "bn": "সমালোচকরা বিষয়টিতে একমত ছিল না।"
+      }
+    ],
+    "synonyms": ["reviewer", "analyst"]
+  },
+
+  {
+    "base": "competition",
+    "phonetic": "ˌkɒmpəˈtɪʃn",
+    "meaning": "প্রতিযোগিতা",
+    "examples": [
+      { "en": "The competition was tough.", "bn": "প্রতিযোগিতাটি কঠিন ছিল।" },
+      { "en": "She won the competition.", "bn": "সে প্রতিযোগিতাটি জিতল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Many students joined the competition.",
+        "bn": "অনেক শিক্ষার্থী প্রতিযোগিতায় অংশ নিল।"
+      },
+      {
+        "en": "The competition started early.",
+        "bn": "প্রতিযোগিতা সকালেই শুরু হলো।"
+      },
+      {
+        "en": "He prepared for the competition.",
+        "bn": "সে প্রতিযোগিতার জন্য প্রস্তুতি নিল।"
+      },
+      { "en": "The competition was fair.", "bn": "প্রতিযোগিতাটি ন্যায্য ছিল।" },
+      {
+        "en": "They faced strong competition.",
+        "bn": "তারা কঠিন প্রতিযোগিতার মুখোমুখি হলো।"
+      },
+      {
+        "en": "The competition ended yesterday.",
+        "bn": "প্রতিযোগিতাটি গতকাল শেষ হলো।"
+      }
+    ],
+    "synonyms": ["contest", "race"]
+  },
+
+  {
+    "base": "clever",
+    "phonetic": "ˈklevər",
+    "meaning": "চতুর / বুদ্ধিমান",
+    "examples": [
+      { "en": "She is a clever student.", "bn": "সে একজন চতুর শিক্ষার্থী।" },
+      { "en": "That was a clever idea.", "bn": "এটি একটি চতুর ধারণা ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He solved a clever puzzle.",
+        "bn": "সে একটি চতুর ধাঁধা সমাধান করল।"
+      },
+      { "en": "She gave a clever answer.", "bn": "সে একটি চতুর উত্তর দিল।" },
+      { "en": "The boy is very clever.", "bn": "ছেলেটি খুব বুদ্ধিমান।" },
+      { "en": "He made a clever move.", "bn": "সে একটি চতুর পদক্ষেপ নিল।" },
+      { "en": "That’s a clever trick.", "bn": "এটি একটি চতুর কৌশল।" },
+      { "en": "She is clever at math.", "bn": "সে গণিতে চতুর।" }
+    ],
+    "synonyms": ["smart", "intelligent"]
+  },
+
+  {
+    "base": "cruel",
+    "phonetic": "ˈkruːəl",
+    "meaning": "নিষ্ঠুর",
+    "examples": [
+      {
+        "en": "He was very cruel to animals.",
+        "bn": "সে প্রাণীদের প্রতি খুব নিষ্ঠুর ছিল।"
+      },
+      { "en": "That was a cruel joke.", "bn": "এটি একটি নিষ্ঠুর রসিকতা ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "The ruler was cruel.", "bn": "শাসকটি নিষ্ঠুর ছিল।" },
+      {
+        "en": "She faced cruel treatment.",
+        "bn": "সে নিষ্ঠুর আচরণের মুখোমুখি হলো।"
+      },
+      {
+        "en": "It was a cruel decision.",
+        "bn": "এটি একটি নিষ্ঠুর সিদ্ধান্ত ছিল।"
+      },
+      { "en": "He spoke in a cruel tone.", "bn": "সে নিষ্ঠুর সুরে কথা বলল।" },
+      {
+        "en": "Cruel people hurt others.",
+        "bn": "নিষ্ঠুর মানুষ অন্যদের আঘাত করে।"
+      },
+      { "en": "The weather was cruel.", "bn": "আবহাওয়াটি কঠোর ছিল।" }
+    ],
+    "synonyms": ["harsh", "brutal"]
+  },
+
+  {
+    "base": "chemical",
+    "phonetic": "ˈkemɪkl",
+    "meaning": "রাসায়নিক",
+    "examples": [
+      { "en": "The chemical is dangerous.", "bn": "রাসায়নিকটি বিপজ্জনক।" },
+      {
+        "en": "She studied chemical reactions.",
+        "bn": "সে রাসায়নিক বিক্রিয়া অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Chemicals are used in labs.",
+        "bn": "ল্যাবে রাসায়নিক ব্যবহার করা হয়।"
+      },
+      {
+        "en": "The chemical caused pollution.",
+        "bn": "রাসায়নিকটি দূষণ সৃষ্টি করল।"
+      },
+      {
+        "en": "He works in chemical industry.",
+        "bn": "সে রাসায়নিক শিল্পে কাজ করে।"
+      },
+      {
+        "en": "The chemical reaction was fast.",
+        "bn": "রাসায়নিক বিক্রিয়াটি দ্রুত ছিল।"
+      },
+      {
+        "en": "She handled chemicals safely.",
+        "bn": "সে রাসায়নিক নিরাপদে পরিচালনা করল।"
+      },
+      {
+        "en": "This is a strong chemical.",
+        "bn": "এটি একটি শক্তিশালী রাসায়নিক।"
+      }
+    ],
+    "synonyms": ["substance", "compound"]
+  },
+
+  {
+    "base": "chart",
+    "phonetic": "tʃɑːrt",
+    "meaning": "চার্ট",
+    "examples": [
+      {
+        "en": "The chart shows data clearly.",
+        "bn": "চার্টটি তথ্য স্পষ্টভাবে দেখায়।"
+      },
+      { "en": "She made a sales chart.", "bn": "সে একটি বিক্রয় চার্ট বানাল।" }
+    ],
+    "moreexample": [
+      { "en": "The chart is easy to read.", "bn": "চার্টটি পড়া সহজ।" },
+      { "en": "He explained the chart.", "bn": "সে চার্টটি ব্যাখ্যা করল।" },
+      { "en": "The chart shows progress.", "bn": "চার্টটি অগ্রগতি দেখায়।" },
+      { "en": "They analyzed the chart.", "bn": "তারা চার্ট বিশ্লেষণ করল।" },
+      {
+        "en": "The chart improved planning.",
+        "bn": "চার্টটি পরিকল্পনা উন্নত করল।"
+      },
+      { "en": "She updated the chart.", "bn": "সে চার্ট আপডেট করল।" }
+    ],
+    "synonyms": ["graph", "diagram"]
+  },
+
+  {
+    "base": "cloud",
+    "phonetic": "klaʊd",
+    "meaning": "মেঘ",
+    "examples": [
+      { "en": "Clouds covered the sky.", "bn": "মেঘ আকাশ ঢেকে দিল।" },
+      { "en": "The cloud looks dark.", "bn": "মেঘটি অন্ধকার দেখাচ্ছে।" }
+    ],
+    "moreexample": [
+      { "en": "White clouds floated above.", "bn": "সাদা মেঘ উপরে ভাসছিল।" },
+      { "en": "The cloud brings rain.", "bn": "মেঘ বৃষ্টি আনে।" },
+      { "en": "Clouds moved quickly.", "bn": "মেঘ দ্রুত সরল।" },
+      { "en": "The sky is full of clouds.", "bn": "আকাশ মেঘে ভরা।" },
+      { "en": "Dark clouds scared them.", "bn": "কালো মেঘ তাদের ভয় দেখাল।" },
+      { "en": "The cloud disappeared.", "bn": "মেঘটি অদৃশ্য হয়ে গেল।" }
+    ],
+    "synonyms": ["mist", "fog"]
+  },
+
+  {
+    "base": "coach",
+    "phonetic": "koʊtʃ",
+    "meaning": "প্রশিক্ষক",
+    "examples": [
+      { "en": "The coach trained the team.", "bn": "কোচ দলকে প্রশিক্ষণ দিল।" },
+      { "en": "He is a football coach.", "bn": "সে একজন ফুটবল কোচ।" }
+    ],
+    "moreexample": [
+      { "en": "The coach gave instructions.", "bn": "কোচ নির্দেশনা দিল।" },
+      { "en": "She became a coach.", "bn": "সে কোচ হলো।" },
+      {
+        "en": "The coach motivated players.",
+        "bn": "কোচ খেলোয়াড়দের অনুপ্রাণিত করল।"
+      },
+      { "en": "He listened to his coach.", "bn": "সে তার কোচের কথা শুনল।" },
+      {
+        "en": "The coach planned training.",
+        "bn": "কোচ প্রশিক্ষণ পরিকল্পনা করল।"
+      },
+      {
+        "en": "The team trusted their coach.",
+        "bn": "দল তাদের কোচকে বিশ্বাস করল।"
+      }
+    ],
+    "synonyms": ["trainer", "mentor"]
+  },
+
+  {
+    "base": "capture",
+    "phonetic": "ˈkæptʃər",
+    "meaning": "ধরা / বন্দি করা",
+    "examples": [
+      { "en": "The police captured the thief.", "bn": "পুলিশ চোরটিকে ধরল।" },
+      {
+        "en": "He captured the moment on camera.",
+        "bn": "সে মুহূর্তটি ক্যামেরায় ধরল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The army captured the city.",
+        "bn": "সেনাবাহিনী শহরটি দখল করল।"
+      },
+      {
+        "en": "She captured a beautiful photo.",
+        "bn": "সে একটি সুন্দর ছবি তুলল।"
+      },
+      {
+        "en": "They captured the wild animal.",
+        "bn": "তারা বন্য প্রাণীটিকে ধরল।"
+      },
+      {
+        "en": "The idea captured everyone's attention.",
+        "bn": "ধারণাটি সবার মনোযোগ আকর্ষণ করল।"
+      },
+      {
+        "en": "He captured the flag in the game.",
+        "bn": "সে খেলায় পতাকা দখল করল।"
+      },
+      {
+        "en": "The moment was perfectly captured.",
+        "bn": "মুহূর্তটি নিখুঁতভাবে ধরা পড়ল।"
+      }
+    ],
+    "synonyms": ["catch", "seize"]
+  },
+
+  {
+    "base": "climate",
+    "phonetic": "ˈklaɪmət",
+    "meaning": "জলবায়ু",
+    "examples": [
+      { "en": "The climate is changing.", "bn": "জলবায়ু পরিবর্তন হচ্ছে।" },
+      { "en": "This country has a hot climate.", "bn": "এই দেশের জলবায়ু গরম।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The climate affects farming.",
+        "bn": "জলবায়ু কৃষিকে প্রভাবিত করে।"
+      },
+      {
+        "en": "We must protect the climate.",
+        "bn": "আমাদের জলবায়ু রক্ষা করতে হবে।"
+      },
+      {
+        "en": "The climate is very dry here.",
+        "bn": "এখানে জলবায়ু খুব শুষ্ক।"
+      },
+      {
+        "en": "Global climate is warming.",
+        "bn": "বিশ্বের জলবায়ু উষ্ণ হচ্ছে।"
+      },
+      { "en": "Climate change is serious.", "bn": "জলবায়ু পরিবর্তন গুরুতর।" },
+      {
+        "en": "They studied climate patterns.",
+        "bn": "তারা জলবায়ুর ধরন অধ্যয়ন করল।"
+      }
+    ],
+    "synonyms": ["weather condition", "atmosphere"]
+  },
+
+  {
+    "base": "cooperate",
+    "phonetic": "koʊˈɒpəreɪt",
+    "meaning": "সহযোগিতা করা",
+    "examples": [
+      {
+        "en": "We must cooperate with each other.",
+        "bn": "আমাদের একে অপরের সাথে সহযোগিতা করতে হবে।"
+      },
+      {
+        "en": "They cooperated to finish the task.",
+        "bn": "তারা কাজ শেষ করতে সহযোগিতা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The team cooperated well.",
+        "bn": "দলটি ভালোভাবে সহযোগিতা করল।"
+      },
+      {
+        "en": "He refused to cooperate.",
+        "bn": "সে সহযোগিতা করতে অস্বীকার করল।"
+      },
+      {
+        "en": "Students cooperated in the project.",
+        "bn": "শিক্ষার্থীরা প্রজেক্টে সহযোগিতা করল।"
+      },
+      {
+        "en": "They cooperated with police.",
+        "bn": "তারা পুলিশের সাথে সহযোগিতা করল।"
+      },
+      {
+        "en": "Cooperate for better results.",
+        "bn": "ভালো ফলাফলের জন্য সহযোগিতা করো।"
+      },
+      {
+        "en": "The workers cooperated fully.",
+        "bn": "শ্রমিকরা সম্পূর্ণভাবে সহযোগিতা করল।"
+      }
+    ],
+    "synonyms": ["collaborate", "assist"]
+  },
+
+  {
+    "base": "criticize",
+    "phonetic": "ˈkrɪtɪsaɪz",
+    "meaning": "সমালোচনা করা",
+    "examples": [
+      {
+        "en": "Don’t criticize others unfairly.",
+        "bn": "অন্যকে অন্যায়ভাবে সমালোচনা করো না।"
+      },
+      {
+        "en": "He criticized the decision.",
+        "bn": "সে সিদ্ধান্তের সমালোচনা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She criticized the report.",
+        "bn": "সে রিপোর্টের সমালোচনা করল।"
+      },
+      {
+        "en": "They criticized his behavior.",
+        "bn": "তারা তার আচরণের সমালোচনা করল।"
+      },
+      {
+        "en": "He was criticized by teachers.",
+        "bn": "সে শিক্ষকদের দ্বারা সমালোচিত হলো।"
+      },
+      { "en": "The film was criticized.", "bn": "সিনেমাটি সমালোচিত হলো।" },
+      { "en": "She criticizes everything.", "bn": "সে সবকিছু সমালোচনা করে।" },
+      {
+        "en": "The policy was heavily criticized.",
+        "bn": "নীতিটি ব্যাপকভাবে সমালোচিত হলো।"
+      }
+    ],
+    "synonyms": ["judge", "condemn"]
+  },
+
+  {
+    "base": "calculate",
+    "phonetic": "ˈkælkjuleɪt",
+    "meaning": "গণনা করা",
+    "examples": [
+      { "en": "He calculated the total cost.", "bn": "সে মোট খরচ গণনা করল।" },
+      { "en": "She can calculate fast.", "bn": "সে দ্রুত গণনা করতে পারে।" }
+    ],
+    "moreexample": [
+      { "en": "They calculated the distance.", "bn": "তারা দূরত্ব গণনা করল।" },
+      { "en": "I calculated the result.", "bn": "আমি ফলাফল গণনা করলাম।" },
+      { "en": "She calculated carefully.", "bn": "সে সাবধানে গণনা করল।" },
+      {
+        "en": "The machine calculates automatically.",
+        "bn": "মেশিনটি স্বয়ংক্রিয়ভাবে গণনা করে।"
+      },
+      { "en": "He miscalculated the time.", "bn": "সে সময় ভুলভাবে গণনা করল।" },
+      {
+        "en": "We calculated everything correctly.",
+        "bn": "আমরা সবকিছু সঠিকভাবে গণনা করলাম।"
+      }
+    ],
+    "synonyms": ["compute", "estimate"]
+  },
+
+  {
+    "base": "commit",
+    "phonetic": "kəˈmɪt",
+    "meaning": "প্রতিশ্রুতি দেওয়া / অপরাধ করা",
+    "examples": [
+      { "en": "He committed a mistake.", "bn": "সে একটি ভুল করল।" },
+      {
+        "en": "She committed to the project.",
+        "bn": "সে প্রজেক্টে প্রতিশ্রুতিবদ্ধ হলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They committed to teamwork.",
+        "bn": "তারা দলগত কাজে প্রতিশ্রুতিবদ্ধ হলো।"
+      },
+      { "en": "He committed a crime.", "bn": "সে একটি অপরাধ করল।" },
+      { "en": "She committed her time.", "bn": "সে তার সময় উৎসর্গ করল।" },
+      {
+        "en": "He is fully committed.",
+        "bn": "সে সম্পূর্ণভাবে প্রতিশ্রুতিবদ্ধ।"
+      },
+      { "en": "They committed resources.", "bn": "তারা সম্পদ প্রদান করল।" },
+      {
+        "en": "She committed to success.",
+        "bn": "সে সাফল্যের জন্য প্রতিশ্রুতিবদ্ধ হলো।"
+      }
+    ],
+    "synonyms": ["dedicate", "pledge"]
+  },
+
+  {
+    "base": "contribute",
+    "phonetic": "kənˈtrɪbjuːt",
+    "meaning": "অবদান রাখা",
+    "examples": [
+      {
+        "en": "He contributed to the project.",
+        "bn": "সে প্রজেক্টে অবদান রাখল।"
+      },
+      { "en": "Everyone contributed money.", "bn": "সবাই টাকা অবদান দিল।" }
+    ],
+    "moreexample": [
+      { "en": "She contributed ideas.", "bn": "সে আইডিয়া অবদান দিল।" },
+      {
+        "en": "They contributed to charity.",
+        "bn": "তারা দাতব্য কাজে অবদান দিল।"
+      },
+      { "en": "He contributes regularly.", "bn": "সে নিয়মিত অবদান রাখে।" },
+      {
+        "en": "We all contributed equally.",
+        "bn": "আমরা সবাই সমানভাবে অবদান রাখলাম।"
+      },
+      {
+        "en": "The article contributes knowledge.",
+        "bn": "আর্টিকেলটি জ্ঞান যোগ করে।"
+      },
+      { "en": "She contributed to success.", "bn": "সে সাফল্যে অবদান রাখল।" }
+    ],
+    "synonyms": ["donate", "add"]
+  },
+
+  {
+    "base": "cancel",
+    "phonetic": "ˈkænsəl",
+    "meaning": "বাতিল করা",
+    "examples": [
+      { "en": "They canceled the meeting.", "bn": "তারা মিটিং বাতিল করল।" },
+      {
+        "en": "I had to cancel my trip.",
+        "bn": "আমাকে আমার ভ্রমণ বাতিল করতে হয়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The event was canceled due to rain.",
+        "bn": "বৃষ্টির কারণে ইভেন্টটি বাতিল করা হয়েছিল।"
+      },
+      {
+        "en": "She canceled her subscription.",
+        "bn": "সে তার সাবস্ক্রিপশন বাতিল করল।"
+      },
+      {
+        "en": "Flights were canceled today.",
+        "bn": "আজ ফ্লাইট বাতিল করা হয়েছে।"
+      },
+      {
+        "en": "He canceled the order online.",
+        "bn": "সে অনলাইনে অর্ডার বাতিল করল।"
+      },
+      {
+        "en": "We canceled the plan last minute.",
+        "bn": "আমরা শেষ মুহূর্তে পরিকল্পনা বাতিল করলাম।"
+      },
+      { "en": "The show got canceled.", "bn": "শোটি বাতিল হয়ে গেল।" }
+    ],
+    "synonyms": ["abort", "call off"]
+  },
+
+  {
+    "base": "create",
+    "phonetic": "kriˈeɪt",
+    "meaning": "সৃষ্টি করা",
+    "examples": [
+      {
+        "en": "She created a new design.",
+        "bn": "সে একটি নতুন ডিজাইন তৈরি করল।"
+      },
+      { "en": "God created the world.", "bn": "ঈশ্বর পৃথিবী সৃষ্টি করেছেন।" }
+    ],
+    "moreexample": [
+      { "en": "He created a website.", "bn": "সে একটি ওয়েবসাইট তৈরি করল।" },
+      {
+        "en": "Artists create beautiful art.",
+        "bn": "শিল্পীরা সুন্দর শিল্প সৃষ্টি করে।"
+      },
+      { "en": "They created a solution.", "bn": "তারা একটি সমাধান তৈরি করল।" },
+      {
+        "en": "She creates content daily.",
+        "bn": "সে প্রতিদিন কনটেন্ট তৈরি করে।"
+      },
+      {
+        "en": "Technology creates new jobs.",
+        "bn": "প্রযুক্তি নতুন চাকরি তৈরি করে।"
+      },
+      { "en": "He created a plan.", "bn": "সে একটি পরিকল্পনা তৈরি করল।" }
+    ],
+    "synonyms": ["make", "produce"]
+  },
+
+  {
+    "base": "compare",
+    "phonetic": "kəmˈpeər",
+    "meaning": "তুলনা করা",
+    "examples": [
+      { "en": "Compare these two books.", "bn": "এই দুটি বই তুলনা করো।" },
+      { "en": "She compared prices.", "bn": "সে দাম তুলনা করল।" }
+    ],
+    "moreexample": [
+      { "en": "He compared both options.", "bn": "সে দুইটি বিকল্প তুলনা করল।" },
+      { "en": "They compared results.", "bn": "তারা ফলাফল তুলনা করল।" },
+      { "en": "We compared notes.", "bn": "আমরা নোট তুলনা করলাম।" },
+      {
+        "en": "She compared products online.",
+        "bn": "সে অনলাইনে পণ্য তুলনা করল।"
+      },
+      {
+        "en": "Don’t compare yourself to others.",
+        "bn": "নিজেকে অন্যদের সাথে তুলনা করো না।"
+      },
+      {
+        "en": "The teacher compared answers.",
+        "bn": "শিক্ষক উত্তরগুলো তুলনা করলেন।"
+      }
+    ],
+    "synonyms": ["contrast", "match"]
+  },
+
+  {
+    "base": "collect",
+    "phonetic": "kəˈlekt",
+    "meaning": "সংগ্রহ করা",
+    "examples": [
+      { "en": "He collects stamps.", "bn": "সে স্ট্যাম্প সংগ্রহ করে।" },
+      {
+        "en": "They collected money for charity.",
+        "bn": "তারা দাতব্যের জন্য টাকা সংগ্রহ করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She collects coins.", "bn": "সে কয়েন সংগ্রহ করে।" },
+      { "en": "They collected data.", "bn": "তারা তথ্য সংগ্রহ করল।" },
+      { "en": "He collects books.", "bn": "সে বই সংগ্রহ করে।" },
+      { "en": "We collected samples.", "bn": "আমরা নমুনা সংগ্রহ করলাম।" },
+      {
+        "en": "She collected her things.",
+        "bn": "সে তার জিনিসপত্র সংগ্রহ করল।"
+      },
+      { "en": "The team collected feedback.", "bn": "দলটি মতামত সংগ্রহ করল।" }
+    ],
+    "synonyms": ["gather", "accumulate"]
+  },
+
+  {
+    "base": "control",
+    "phonetic": "kənˈtroʊl",
+    "meaning": "নিয়ন্ত্রণ করা",
+    "examples": [
+      {
+        "en": "He controlled the situation.",
+        "bn": "সে পরিস্থিতি নিয়ন্ত্রণ করল।"
+      },
+      { "en": "She lost control.", "bn": "সে নিয়ন্ত্রণ হারাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The driver controlled the car.",
+        "bn": "ড্রাইভার গাড়ি নিয়ন্ত্রণ করল।"
+      },
+      {
+        "en": "He cannot control anger.",
+        "bn": "সে রাগ নিয়ন্ত্রণ করতে পারে না।"
+      },
+      {
+        "en": "The system controls temperature.",
+        "bn": "সিস্টেম তাপমাত্রা নিয়ন্ত্রণ করে।"
+      },
+      { "en": "She controlled the crowd.", "bn": "সে ভিড় নিয়ন্ত্রণ করল।" },
+      {
+        "en": "We must control spending.",
+        "bn": "আমাদের খরচ নিয়ন্ত্রণ করতে হবে।"
+      },
+      {
+        "en": "He controlled his emotions.",
+        "bn": "সে তার আবেগ নিয়ন্ত্রণ করল।"
+      }
+    ],
+    "synonyms": ["manage", "regulate"]
+  },
+
+  {
+    "base": "connect",
+    "phonetic": "kəˈnekt",
+    "meaning": "সংযোগ করা",
+    "examples": [
+      {
+        "en": "Connect the cable to the TV.",
+        "bn": "ক্যাবলটি টিভির সাথে সংযোগ করো।"
+      },
+      { "en": "They connected online.", "bn": "তারা অনলাইনে সংযুক্ত হলো।" }
+    ],
+    "moreexample": [
+      { "en": "She connected the devices.", "bn": "সে ডিভাইসগুলো সংযোগ করল।" },
+      {
+        "en": "The bridge connects two cities.",
+        "bn": "সেতুটি দুই শহরকে সংযোগ করে।"
+      },
+      {
+        "en": "He connected with friends.",
+        "bn": "সে বন্ধুদের সাথে সংযোগ করল।"
+      },
+      { "en": "WiFi connects devices.", "bn": "ওয়াইফাই ডিভাইস সংযোগ করে।" },
+      { "en": "The idea connects well.", "bn": "ধারণাটি ভালোভাবে সংযুক্ত।" },
+      { "en": "They connected the system.", "bn": "তারা সিস্টেম সংযোগ করল।" }
+    ],
+    "synonyms": ["link", "attach"]
+  },
+
+  {
+    "base": "challenge",
+    "phonetic": "ˈtʃælɪndʒ",
+    "meaning": "চ্যালেঞ্জ",
+    "examples": [
+      { "en": "This is a big challenge.", "bn": "এটি একটি বড় চ্যালেঞ্জ।" },
+      { "en": "He accepted the challenge.", "bn": "সে চ্যালেঞ্জ গ্রহণ করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Life gives many challenges.",
+        "bn": "জীবন অনেক চ্যালেঞ্জ দেয়।"
+      },
+      {
+        "en": "She overcame the challenge.",
+        "bn": "সে চ্যালেঞ্জ অতিক্রম করল।"
+      },
+      {
+        "en": "The exam was a challenge.",
+        "bn": "পরীক্ষাটি একটি চ্যালেঞ্জ ছিল।"
+      },
+      {
+        "en": "They faced new challenges.",
+        "bn": "তারা নতুন চ্যালেঞ্জের মুখোমুখি হলো।"
+      },
+      { "en": "He enjoys challenges.", "bn": "সে চ্যালেঞ্জ উপভোগ করে।" },
+      {
+        "en": "It was a difficult challenge.",
+        "bn": "এটি একটি কঠিন চ্যালেঞ্জ ছিল।"
+      }
+    ],
+    "synonyms": ["difficulty", "test"]
+  },
+
+  {
+    "base": "choice",
+    "phonetic": "tʃɔɪs",
+    "meaning": "পছন্দ",
+    "examples": [
+      { "en": "It is your choice.", "bn": "এটি তোমার পছন্দ।" },
+      { "en": "She made a good choice.", "bn": "সে একটি ভালো পছন্দ করল।" }
+    ],
+    "moreexample": [
+      { "en": "He has no choice.", "bn": "তার কোনো পছন্দ নেই।" },
+      {
+        "en": "They gave me many choices.",
+        "bn": "তারা আমাকে অনেক পছন্দ দিল।"
+      },
+      { "en": "She chose the best choice.", "bn": "সে সেরা পছন্দটি বেছে নিল।" },
+      { "en": "Choice matters in life.", "bn": "জীবনে পছন্দ গুরুত্বপূর্ণ।" },
+      { "en": "He respected her choice.", "bn": "সে তার পছন্দকে সম্মান করল।" },
+      {
+        "en": "We made a wise choice.",
+        "bn": "আমরা একটি বুদ্ধিমান পছন্দ করলাম।"
+      }
+    ],
+    "synonyms": ["option", "selection"]
+  },
+
+  {
+    "base": "confuse",
+    "phonetic": "kənˈfjuːz",
+    "meaning": "বিভ্রান্ত করা",
+    "examples": [
+      {
+        "en": "The instructions confused me.",
+        "bn": "নির্দেশনাগুলো আমাকে বিভ্রান্ত করল।"
+      },
+      {
+        "en": "Don’t confuse the two words.",
+        "bn": "দুটি শব্দকে গুলিয়ে ফেলো না।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The question confused the students.",
+        "bn": "প্রশ্নটি শিক্ষার্থীদের বিভ্রান্ত করল।"
+      },
+      {
+        "en": "He was confused about the result.",
+        "bn": "সে ফলাফল নিয়ে বিভ্রান্ত ছিল।"
+      },
+      {
+        "en": "Too many rules confuse people.",
+        "bn": "অতিরিক্ত নিয়ম মানুষকে বিভ্রান্ত করে।"
+      },
+      { "en": "She confused the dates.", "bn": "সে তারিখগুলো গুলিয়ে ফেলল।" },
+      {
+        "en": "The map confused us.",
+        "bn": "মানচিত্রটি আমাদের বিভ্রান্ত করল।"
+      },
+      {
+        "en": "I got confused during the explanation.",
+        "bn": "ব্যাখ্যার সময় আমি বিভ্রান্ত হয়ে গেলাম।"
+      }
+    ],
+    "synonyms": ["mislead", "bewilder"]
+  },
+
+  {
+    "base": "cure",
+    "phonetic": "kjʊr",
+    "meaning": "চিকিৎসা / নিরাময়",
+    "examples": [
+      {
+        "en": "There is no cure for this disease.",
+        "bn": "এই রোগের কোনো নিরাময় নেই।"
+      },
+      { "en": "The doctor cured him.", "bn": "ডাক্তার তাকে সুস্থ করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They found a cure for flu.",
+        "bn": "তারা ফ্লুর জন্য একটি চিকিৎসা খুঁজে পেল।"
+      },
+      {
+        "en": "Rest can cure fatigue.",
+        "bn": "বিশ্রাম ক্লান্তি দূর করতে পারে।"
+      },
+      {
+        "en": "The medicine cured her quickly.",
+        "bn": "ওষুধটি তাকে দ্রুত সুস্থ করল।"
+      },
+      {
+        "en": "Scientists are searching for a cure.",
+        "bn": "বিজ্ঞানীরা একটি নিরাময়ের সন্ধান করছে।"
+      },
+      {
+        "en": "Time cannot cure everything.",
+        "bn": "সময় সবকিছু নিরাময় করতে পারে না।"
+      },
+      {
+        "en": "He believes in natural cures.",
+        "bn": "সে প্রাকৃতিক চিকিৎসায় বিশ্বাস করে।"
+      }
+    ],
+    "synonyms": ["heal", "treat"]
+  },
+
+  {
+    "base": "custom",
+    "phonetic": "ˈkʌstəm",
+    "meaning": "রীতি / প্রথা",
+    "examples": [
+      { "en": "It is a local custom.", "bn": "এটি একটি স্থানীয় রীতি।" },
+      {
+        "en": "They followed tradition and custom.",
+        "bn": "তারা ঐতিহ্য ও প্রথা অনুসরণ করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The custom is very old.", "bn": "প্রথাটি খুব পুরোনো।" },
+      {
+        "en": "Different countries have different customs.",
+        "bn": "বিভিন্ন দেশের বিভিন্ন রীতি আছে।"
+      },
+      { "en": "She respected the custom.", "bn": "সে প্রথাটিকে সম্মান করল।" },
+      {
+        "en": "Customs vary by culture.",
+        "bn": "সংস্কৃতি অনুযায়ী রীতির পার্থক্য হয়।"
+      },
+      { "en": "The wedding custom is unique.", "bn": "বিয়ের রীতি অনন্য।" },
+      { "en": "He learned local customs.", "bn": "সে স্থানীয় রীতি শিখল।" }
+    ],
+    "synonyms": ["tradition", "practice"]
   }
 ]

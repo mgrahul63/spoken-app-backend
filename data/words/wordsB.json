@@ -1,5 +1,1049 @@
 [
   {
+    "base": "board",
+    "phonetic": "bɔːrd",
+    "meaning": "বোর্ড",
+    "examples": [
+      {
+        "en": "The teacher explained the diagram on the board.",
+        "bn": "শিক্ষক বোর্ডে চিত্রটি ব্যাখ্যা করলেন।"
+      },
+      {
+        "en": "A notice was placed on the board near the entrance.",
+        "bn": "প্রবেশদ্বারের পাশে বোর্ডে একটি নোটিশ লাগানো ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Students gathered quietly as the lesson began on the board.",
+        "bn": "পাঠ বোর্ডে শুরু হলে শিক্ষার্থীরা চুপচাপ জড়ো হলো।"
+      },
+      {
+        "en": "He corrected the mistake written on the board.",
+        "bn": "সে বোর্ডে লেখা ভুলটি ঠিক করল।"
+      },
+      {
+        "en": "The board was freshly cleaned before the lecture.",
+        "bn": "লেকচারের আগে বোর্ডটি নতুন করে পরিষ্কার করা হয়েছিল।"
+      },
+      {
+        "en": "A schedule was pinned on the board outside the office.",
+        "bn": "অফিসের বাইরে বোর্ডে একটি সময়সূচি লাগানো ছিল।"
+      },
+      {
+        "en": "She drew a quick sketch to explain it on the board.",
+        "bn": "সে বোর্ডে বিষয়টি বোঝাতে দ্রুত একটি স্কেচ আঁকল।"
+      },
+      {
+        "en": "Important rules were written neatly on the board.",
+        "bn": "গুরুত্বপূর্ণ নিয়মগুলো বোর্ডে সুন্দরভাবে লেখা ছিল।"
+      },
+      {
+        "en": "Dust slowly covered the old board over time.",
+        "bn": "সময়ের সাথে পুরোনো বোর্ডে ধুলো জমে গেল।"
+      },
+      {
+        "en": "He pointed at the board while speaking.",
+        "bn": "সে কথা বলার সময় বোর্ডের দিকে ইঙ্গিত করল।"
+      },
+      {
+        "en": "The announcement on the board changed the plan.",
+        "bn": "বোর্ডের ঘোষণা পরিকল্পনা পরিবর্তন করল।"
+      },
+      {
+        "en": "The broken board was replaced with a new one.",
+        "bn": "ভাঙা বোর্ডটি নতুন একটি দিয়ে প্রতিস্থাপন করা হলো।"
+      }
+    ],
+    "synonyms": ["panel", "surface", "plank", "display"]
+  },
+
+  {
+    "base": "bright",
+    "phonetic": "braɪt",
+    "meaning": "উজ্জ্বল",
+    "examples": [
+      {
+        "en": "The bright sun made the road hard to see.",
+        "bn": "উজ্জ্বল সূর্যের আলোতে রাস্তা দেখা কঠিন হয়ে গেল।"
+      },
+      {
+        "en": "She has a bright future in medicine.",
+        "bn": "চিকিৎসা ক্ষেত্রে তার উজ্জ্বল ভবিষ্যৎ রয়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A bright light filled the entire room.",
+        "bn": "উজ্জ্বল আলো পুরো ঘর ভরিয়ে দিল।"
+      },
+      {
+        "en": "He wore a bright shirt to the event.",
+        "bn": "সে অনুষ্ঠানে উজ্জ্বল রঙের শার্ট পরেছিল।"
+      },
+      {
+        "en": "The stars looked bright in the night sky.",
+        "bn": "রাতের আকাশে তারাগুলো উজ্জ্বল দেখাচ্ছিল।"
+      },
+      {
+        "en": "Her bright smile changed the mood instantly.",
+        "bn": "তার উজ্জ্বল হাসি মুহূর্তেই পরিবেশ বদলে দিল।"
+      },
+      {
+        "en": "A bright idea solved the problem quickly.",
+        "bn": "একটি ভালো ধারণা দ্রুত সমস্যার সমাধান করল।"
+      },
+      {
+        "en": "The city looked bright during the festival.",
+        "bn": "উৎসবের সময় শহরটি উজ্জ্বল দেখাচ্ছিল।"
+      },
+      {
+        "en": "His eyes became bright after hearing the news.",
+        "bn": "খবর শুনে তার চোখ উজ্জ্বল হয়ে উঠল।"
+      },
+      {
+        "en": "A bright lamp lit the dark corridor.",
+        "bn": "একটি উজ্জ্বল বাতি অন্ধকার করিডোর আলোকিত করল।"
+      },
+      {
+        "en": "Bright colors make the painting more attractive.",
+        "bn": "উজ্জ্বল রঙ চিত্রটিকে আরও আকর্ষণীয় করে তোলে।"
+      },
+      {
+        "en": "The future of technology looks bright.",
+        "bn": "প্রযুক্তির ভবিষ্যৎ উজ্জ্বল মনে হচ্ছে।"
+      }
+    ],
+    "synonyms": ["radiant", "luminous", "shiny", "vivid"]
+  },
+
+  {
+    "base": "bone",
+    "phonetic": "boʊn",
+    "meaning": "হাড়",
+    "examples": [
+      {
+        "en": "He broke a bone in his arm.",
+        "bn": "সে তার হাতে একটি হাড় ভেঙেছে।"
+      },
+      {
+        "en": "The doctor examined the bone carefully.",
+        "bn": "ডাক্তার হাড়টি ভালোভাবে পরীক্ষা করলেন।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Strong bones support the body.",
+        "bn": "শক্ত হাড় শরীরকে সমর্থন করে।"
+      },
+      {
+        "en": "An X-ray showed a damaged bone.",
+        "bn": "এক্স-রে তে একটি ক্ষতিগ্রস্ত হাড় দেখা গেল।"
+      },
+      {
+        "en": "Calcium strengthens bones over time.",
+        "bn": "ক্যালসিয়াম সময়ের সাথে হাড় শক্তিশালী করে।"
+      },
+      {
+        "en": "The bone healed after treatment.",
+        "bn": "চিকিৎসার পর হাড়টি সেরে উঠল।"
+      },
+      {
+        "en": "The dog buried a bone in the yard.",
+        "bn": "কুকুরটি উঠানে একটি হাড় পুঁতে রাখল।"
+      },
+      {
+        "en": "He felt pain in his bone after falling.",
+        "bn": "পড়ে যাওয়ার পর তার হাড়ে ব্যথা অনুভব করল।"
+      },
+      {
+        "en": "Scientists studied ancient bone structures.",
+        "bn": "বিজ্ঞানীরা প্রাচীন হাড়ের গঠন নিয়ে গবেষণা করলেন।"
+      },
+      {
+        "en": "A fish bone stuck in his throat.",
+        "bn": "তার গলায় একটি মাছের হাড় আটকে গেল।"
+      },
+      {
+        "en": "The museum displayed a dinosaur bone.",
+        "bn": "জাদুঘরে ডাইনোসরের একটি হাড় প্রদর্শন করা হয়েছিল।"
+      },
+      {
+        "en": "Healthy food is important for bones.",
+        "bn": "সুস্থ খাবার হাড়ের জন্য গুরুত্বপূর্ণ।"
+      }
+    ],
+    "synonyms": ["skeletal part", "structure"]
+  },
+
+  {
+    "base": "bother",
+    "phonetic": "ˈbɒðər",
+    "meaning": "বিরক্ত করা",
+    "examples": [
+      {
+        "en": "Don’t bother him while he is studying.",
+        "bn": "সে পড়ার সময় তাকে বিরক্ত করো না।"
+      },
+      {
+        "en": "The noise began to bother me.",
+        "bn": "শব্দটি আমাকে বিরক্ত করতে শুরু করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She didn’t want to bother anyone for help.",
+        "bn": "সে কারও সাহায্যের জন্য বিরক্ত করতে চায়নি।"
+      },
+      {
+        "en": "The problem started to bother his mind.",
+        "bn": "সমস্যাটি তার মনকে বিরক্ত করতে শুরু করল।"
+      },
+      {
+        "en": "He didn’t bother to explain anything.",
+        "bn": "সে কিছুই ব্যাখ্যা করতে চেষ্টা করল না।"
+      },
+      {
+        "en": "Small issues often bother him more than big ones.",
+        "bn": "ছোট সমস্যাগুলো তাকে বড় সমস্যার চেয়ে বেশি বিরক্ত করে।"
+      },
+      {
+        "en": "The noise outside bothered everyone.",
+        "bn": "বাইরের শব্দ সবাইকে বিরক্ত করল।"
+      },
+      {
+        "en": "I won’t bother you with details.",
+        "bn": "আমি তোমাকে বিস্তারিত দিয়ে বিরক্ত করব না।"
+      },
+      {
+        "en": "Her comment bothered him all day.",
+        "bn": "তার মন্তব্য সারাদিন তাকে বিরক্ত করল।"
+      },
+      {
+        "en": "Don’t bother opening the window.",
+        "bn": "জানালা খোলার কষ্ট করো না।"
+      },
+      {
+        "en": "It doesn’t bother me at all.",
+        "bn": "এটা আমাকে একদম বিরক্ত করে না।"
+      },
+      {
+        "en": "He was bothered by the constant questions.",
+        "bn": "সে বারবার প্রশ্নে বিরক্ত হয়ে গেল।"
+      }
+    ],
+    "synonyms": ["disturb", "annoy", "irritate", "trouble"]
+  },
+
+  {
+    "base": "basic",
+    "phonetic": "ˈbeɪsɪk",
+    "meaning": "মৌলিক",
+    "examples": [
+      {
+        "en": "You need basic knowledge of English grammar.",
+        "bn": "তোমার ইংরেজি ব্যাকরণের মৌলিক জ্ঞান দরকার।"
+      },
+      {
+        "en": "This is a basic computer skill.",
+        "bn": "এটি একটি মৌলিক কম্পিউটার দক্ষতা।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Basic rules must be followed in every game.",
+        "bn": "প্রতিটি খেলায় মৌলিক নিয়ম মানতে হয়।"
+      },
+      {
+        "en": "She learned basic cooking at home.",
+        "bn": "সে বাড়িতে মৌলিক রান্না শিখেছে।"
+      },
+      {
+        "en": "Basic education is important for everyone.",
+        "bn": "মৌলিক শিক্ষা সবার জন্য গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "He understands basic mathematics well.",
+        "bn": "সে মৌলিক গণিত ভালো বোঝে।"
+      },
+      {
+        "en": "This is a basic requirement for the job.",
+        "bn": "এটি চাকরির একটি মৌলিক শর্ত।"
+      },
+      {
+        "en": "Basic tools are enough for this task.",
+        "bn": "এই কাজের জন্য মৌলিক সরঞ্জামই যথেষ্ট।"
+      },
+      {
+        "en": "She started with basic exercises.",
+        "bn": "সে মৌলিক ব্যায়াম দিয়ে শুরু করল।"
+      },
+      {
+        "en": "Basic safety rules should be followed.",
+        "bn": "মৌলিক নিরাপত্তা নিয়ম মানা উচিত।"
+      },
+      {
+        "en": "The course covers basic programming.",
+        "bn": "কোর্সটি মৌলিক প্রোগ্রামিং কভার করে।"
+      },
+      {
+        "en": "He explained the basic idea clearly.",
+        "bn": "সে মৌলিক ধারণাটি স্পষ্টভাবে ব্যাখ্যা করল।"
+      }
+    ],
+    "synonyms": ["fundamental", "simple", "essential", "primary"]
+  },
+
+  {
+    "base": "bit",
+    "phonetic": "bɪt",
+    "meaning": "টুকরো / একটু",
+    "examples": [
+      {
+        "en": "Can I have a bit of water?",
+        "bn": "আমি কি একটু পানি পেতে পারি?"
+      },
+      {
+        "en": "She broke the biscuit into bits.",
+        "bn": "সে বিস্কুটটি টুকরো টুকরো করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He felt a bit tired after the journey.",
+        "bn": "যাত্রার পর সে একটু ক্লান্ত অনুভব করল।"
+      },
+      {
+        "en": "There is a bit of salt in the soup.",
+        "bn": "সুপে একটু লবণ আছে।"
+      },
+      {
+        "en": "She smiled a bit when she heard the joke.",
+        "bn": "মজার কথা শুনে সে একটু হাসল।"
+      },
+      {
+        "en": "The cake was cut into small bits.",
+        "bn": "কেকটি ছোট টুকরোতে কাটা হলো।"
+      },
+      {
+        "en": "He waited for a bit before leaving.",
+        "bn": "সে যাওয়ার আগে একটু অপেক্ষা করল।"
+      },
+      { "en": "I need a bit more time.", "bn": "আমার একটু বেশি সময় দরকার।" },
+      {
+        "en": "The glass broke into tiny bits.",
+        "bn": "গ্লাসটি ছোট ছোট টুকরোতে ভেঙে গেল।"
+      },
+      {
+        "en": "She spoke a bit too fast.",
+        "bn": "সে একটু বেশি দ্রুত কথা বলল।"
+      },
+      {
+        "en": "There is a bit of truth in it.",
+        "bn": "এর মধ্যে একটু সত্য আছে।"
+      },
+      {
+        "en": "He improved a bit after practice.",
+        "bn": "অনুশীলনের পর সে একটু উন্নতি করল।"
+      }
+    ],
+    "synonyms": ["piece", "small part", "portion"]
+  },
+
+  {
+    "base": "band",
+    "phonetic": "bænd",
+    "meaning": "দল / ব্যান্ড",
+    "examples": [
+      {
+        "en": "The band played at the festival.",
+        "bn": "ব্যান্ডটি উৎসবে বাজনা করল।"
+      },
+      {
+        "en": "A band of students cleaned the park.",
+        "bn": "একদল শিক্ষার্থী পার্ক পরিষ্কার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The music band performed live on stage.",
+        "bn": "মিউজিক ব্যান্ডটি মঞ্চে সরাসরি পারফর্ম করল।"
+      },
+      {
+        "en": "A band of volunteers helped the victims.",
+        "bn": "একদল স্বেচ্ছাসেবক ক্ষতিগ্রস্তদের সাহায্য করল।"
+      },
+      {
+        "en": "She wore a silver band on her wrist.",
+        "bn": "সে কব্জিতে একটি রুপার ব্যান্ড পরেছিল।"
+      },
+      {
+        "en": "The band released a new album.",
+        "bn": "ব্যান্ডটি একটি নতুন অ্যালবাম প্রকাশ করল।"
+      },
+      {
+        "en": "A band of clouds covered the sky.",
+        "bn": "মেঘের একটি স্তর আকাশ ঢেকে দিল।"
+      },
+      {
+        "en": "He joined a rock band in college.",
+        "bn": "সে কলেজে একটি রক ব্যান্ডে যোগ দিল।"
+      },
+      {
+        "en": "The band practiced every evening.",
+        "bn": "ব্যান্ডটি প্রতিদিন সন্ধ্যায় অনুশীলন করত।"
+      },
+      {
+        "en": "A band of tourists visited the museum.",
+        "bn": "একদল পর্যটক জাদুঘর দেখতে গেল।"
+      },
+      {
+        "en": "She tied her hair with a band.",
+        "bn": "সে চুল একটি ব্যান্ড দিয়ে বেঁধে ফেলল।"
+      },
+      {
+        "en": "The band gained popularity quickly.",
+        "bn": "ব্যান্ডটি দ্রুত জনপ্রিয় হয়ে উঠল।"
+      }
+    ],
+    "synonyms": ["group", "team", "crew"]
+  },
+
+  {
+    "base": "barley",
+    "phonetic": "ˈbɑːrli",
+    "meaning": "যব / বার্লি",
+    "examples": [
+      {
+        "en": "Barley is used to make bread.",
+        "bn": "যব দিয়ে রুটি তৈরি করা হয়।"
+      },
+      {
+        "en": "Farmers grow barley in this region.",
+        "bn": "এই অঞ্চলে কৃষকেরা যব চাষ করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Barley is a healthy grain.", "bn": "যব একটি স্বাস্থ্যকর শস্য।" },
+      {
+        "en": "He bought barley from the market.",
+        "bn": "সে বাজার থেকে যব কিনল।"
+      },
+      {
+        "en": "Barley soup is very nutritious.",
+        "bn": "যবের স্যুপ খুব পুষ্টিকর।"
+      },
+      {
+        "en": "The field was full of barley crops.",
+        "bn": "ক্ষেতটি যবের ফসলে ভরা ছিল।"
+      },
+      {
+        "en": "Barley is used in brewing beer.",
+        "bn": "যব বিয়ার তৈরিতে ব্যবহৃত হয়।"
+      },
+      {
+        "en": "She cooked barley with vegetables.",
+        "bn": "সে সবজির সাথে যব রান্না করল।"
+      },
+      {
+        "en": "Barley grows well in cool climates.",
+        "bn": "ঠান্ডা আবহাওয়ায় যব ভালো জন্মায়।"
+      },
+      {
+        "en": "The farmer harvested barley last week.",
+        "bn": "কৃষক গত সপ্তাহে যব সংগ্রহ করল।"
+      },
+      {
+        "en": "Barley contains important nutrients.",
+        "bn": "যবে গুরুত্বপূর্ণ পুষ্টি উপাদান রয়েছে।"
+      },
+      {
+        "en": "They stored barley for winter use.",
+        "bn": "তারা শীতকালের জন্য যব সংরক্ষণ করল।"
+      }
+    ],
+    "synonyms": ["grain", "cereal"]
+  },
+
+  {
+    "base": "boring",
+    "phonetic": "ˈbɔːrɪŋ",
+    "meaning": "বিরক্তিকর",
+    "examples": [
+      {
+        "en": "The lecture was very boring.",
+        "bn": "লেকচারটি খুব বিরক্তিকর ছিল।"
+      },
+      { "en": "He finds math boring.", "bn": "সে গণিতকে বিরক্তিকর মনে করে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The movie turned out to be boring.",
+        "bn": "মুভিটি বিরক্তিকর হয়ে গেল।"
+      },
+      {
+        "en": "She left the boring meeting early.",
+        "bn": "সে বিরক্তিকর মিটিং থেকে আগেই বেরিয়ে গেল।"
+      },
+      {
+        "en": "Doing the same task daily is boring.",
+        "bn": "প্রতিদিন একই কাজ করা বিরক্তিকর।"
+      },
+      {
+        "en": "The story was boring to read.",
+        "bn": "গল্পটি পড়তে বিরক্তিকর ছিল।"
+      },
+      {
+        "en": "He gave a boring speech.",
+        "bn": "সে একটি বিরক্তিকর বক্তৃতা দিল।"
+      },
+      {
+        "en": "The game became boring after a while.",
+        "bn": "কিছুক্ষণ পর খেলা বিরক্তিকর হয়ে গেল।"
+      },
+      {
+        "en": "She avoids boring conversations.",
+        "bn": "সে বিরক্তিকর কথোপকথন এড়িয়ে চলে।"
+      },
+      {
+        "en": "The book is long and boring.",
+        "bn": "বইটি দীর্ঘ এবং বিরক্তিকর।"
+      },
+      {
+        "en": "He felt bored during the boring class.",
+        "bn": "বিরক্তিকর ক্লাসে সে বিরক্ত অনুভব করল।"
+      },
+      {
+        "en": "The waiting time was boring.",
+        "bn": "অপেক্ষার সময়টি বিরক্তিকর ছিল।"
+      }
+    ],
+    "synonyms": ["dull", "uninteresting", "tedious"]
+  },
+
+  {
+    "base": "border",
+    "phonetic": "ˈbɔːrdər",
+    "meaning": "সীমান্ত / কিনারা",
+    "examples": [
+      {
+        "en": "The river forms a natural border.",
+        "bn": "নদীটি একটি প্রাকৃতিক সীমান্ত তৈরি করে।"
+      },
+      {
+        "en": "They crossed the border safely.",
+        "bn": "তারা নিরাপদে সীমান্ত পার হলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The country shares a border with India.",
+        "bn": "দেশটির ভারতের সাথে সীমান্ত রয়েছে।"
+      },
+      {
+        "en": "A fence marks the garden border.",
+        "bn": "বেড়া বাগানের সীমান্ত নির্দেশ করে।"
+      },
+      {
+        "en": "He lives near the border town.",
+        "bn": "সে সীমান্ত শহরের কাছে থাকে।"
+      },
+      {
+        "en": "The border was heavily guarded.",
+        "bn": "সীমান্তটি কঠোরভাবে পাহারা দেওয়া ছিল।"
+      },
+      {
+        "en": "Flowers grow along the border of the path.",
+        "bn": "পথের কিনারা বরাবর ফুল জন্মায়।"
+      },
+      {
+        "en": "They painted a border around the design.",
+        "bn": "তারা ডিজাইনের চারপাশে একটি বর্ডার আঁকল।"
+      },
+      {
+        "en": "Crossing the border required documents.",
+        "bn": "সীমান্ত পার হতে নথিপত্র দরকার ছিল।"
+      },
+      {
+        "en": "The border region is peaceful.",
+        "bn": "সীমান্ত অঞ্চলটি শান্তিপূর্ণ।"
+      },
+      {
+        "en": "A mountain forms the border between two areas.",
+        "bn": "একটি পাহাড় দুই এলাকার সীমান্ত তৈরি করে।"
+      },
+      {
+        "en": "Security increased along the border.",
+        "bn": "সীমান্তে নিরাপত্তা বাড়ানো হলো।"
+      }
+    ],
+    "synonyms": ["boundary", "edge", "limit"]
+  },
+
+  {
+    "base": "breakfast",
+    "phonetic": "ˈbrekfəst",
+    "meaning": "নাস্তা",
+    "examples": [
+      {
+        "en": "I had breakfast at 8 a.m.",
+        "bn": "আমি সকাল ৮টায় নাস্তা করেছি।"
+      },
+      {
+        "en": "Breakfast is the most important meal.",
+        "bn": "নাস্তা হলো সবচেয়ে গুরুত্বপূর্ণ খাবার।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She skipped breakfast today.",
+        "bn": "সে আজ নাস্তা বাদ দিয়েছে।"
+      },
+      {
+        "en": "He cooked breakfast for his family.",
+        "bn": "সে পরিবারের জন্য নাস্তা রান্না করল।"
+      },
+      {
+        "en": "We had bread and eggs for breakfast.",
+        "bn": "আমরা নাস্তায় রুটি ও ডিম খেয়েছি।"
+      },
+      {
+        "en": "Breakfast is served early in the morning.",
+        "bn": "নাস্তা সকালে তাড়াতাড়ি পরিবেশন করা হয়।"
+      },
+      {
+        "en": "They enjoyed breakfast together.",
+        "bn": "তারা একসাথে নাস্তা উপভোগ করল।"
+      },
+      {
+        "en": "He drinks tea after breakfast.",
+        "bn": "সে নাস্তার পর চা পান করে।"
+      },
+      {
+        "en": "Breakfast helps start the day well.",
+        "bn": "নাস্তা দিন ভালোভাবে শুরু করতে সাহায্য করে।"
+      },
+      {
+        "en": "She prepared a light breakfast.",
+        "bn": "সে হালকা নাস্তা প্রস্তুত করল।"
+      },
+      {
+        "en": "We talked during breakfast.",
+        "bn": "আমরা নাস্তার সময় কথা বললাম।"
+      },
+      {
+        "en": "Skipping breakfast is unhealthy.",
+        "bn": "নাস্তা বাদ দেওয়া অস্বাস্থ্যকর।"
+      }
+    ],
+    "synonyms": ["morning meal"]
+  },
+
+  {
+    "base": "block",
+    "phonetic": "blɒk",
+    "meaning": "ব্লক / বাধা",
+    "examples": [
+      {
+        "en": "A block of ice melted quickly.",
+        "bn": "বরফের একটি ব্লক দ্রুত গলে গেল।"
+      },
+      {
+        "en": "Traffic blocked the road.",
+        "bn": "ট্রাফিক রাস্তা বন্ধ করে দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He built a house with cement blocks.",
+        "bn": "সে সিমেন্টের ব্লক দিয়ে একটি বাড়ি তৈরি করল।"
+      },
+      {
+        "en": "A fallen tree blocked the street.",
+        "bn": "একটি গাছ পড়ে রাস্তা বন্ধ হয়ে গেল।"
+      },
+      { "en": "She lives in the next block.", "bn": "সে পাশের ব্লকে থাকে।" },
+      {
+        "en": "The message was blocked by the system.",
+        "bn": "বার্তাটি সিস্টেম দ্বারা ব্লক করা হয়েছিল।"
+      },
+      {
+        "en": "They removed the block from the pipe.",
+        "bn": "তারা পাইপ থেকে বাধা সরিয়ে দিল।"
+      },
+      {
+        "en": "A block of wood floated on water.",
+        "bn": "কাঠের একটি ব্লক পানিতে ভাসছিল।"
+      },
+      {
+        "en": "He tried to unblock the drain.",
+        "bn": "সে ড্রেনের বাধা খুলতে চেষ্টা করল।"
+      },
+      {
+        "en": "The road was blocked due to accident.",
+        "bn": "দুর্ঘটনার কারণে রাস্তা বন্ধ ছিল।"
+      },
+      {
+        "en": "She lives one block away from school.",
+        "bn": "সে স্কুল থেকে এক ব্লক দূরে থাকে।"
+      },
+      {
+        "en": "Mental block stopped his thinking.",
+        "bn": "মানসিক বাধা তার চিন্তা থামিয়ে দিল।"
+      }
+    ],
+    "synonyms": ["barrier", "obstacle", "cube"]
+  },
+
+  {
+    "base": "bottom",
+    "phonetic": "ˈbɒtəm",
+    "meaning": "তল / নিচ",
+    "examples": [
+      {
+        "en": "The key is at the bottom of the bag.",
+        "bn": "চাবিটি ব্যাগের নিচে আছে।"
+      },
+      {
+        "en": "He sat at the bottom of the class.",
+        "bn": "সে ক্লাসের নিচের দিকে বসেছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The glass broke at the bottom.",
+        "bn": "গ্লাসটি নিচের দিকে ভেঙে গেল।"
+      },
+      {
+        "en": "She reached the bottom of the stairs.",
+        "bn": "সে সিঁড়ির নিচে পৌঁছাল।"
+      },
+      {
+        "en": "There is dirt at the bottom of the river.",
+        "bn": "নদীর তলায় ময়লা আছে।"
+      },
+      {
+        "en": "The box was heavy at the bottom.",
+        "bn": "বাক্সটি নিচের দিকে ভারী ছিল।"
+      },
+      {
+        "en": "He wrote his name at the bottom.",
+        "bn": "সে নিচে তার নাম লিখল।"
+      },
+      {
+        "en": "The problem lies at the bottom of the issue.",
+        "bn": "সমস্যার মূল কারণ নিচে রয়েছে।"
+      },
+      {
+        "en": "She found coins at the bottom of the drawer.",
+        "bn": "সে ড্রয়ারের নিচে কয়েন পেল।"
+      },
+      { "en": "The boat sank to the bottom.", "bn": "নৌকাটি তলায় ডুবে গেল।" },
+      {
+        "en": "He cleaned the bottom of the pot.",
+        "bn": "সে হাঁড়ির তলা পরিষ্কার করল।"
+      },
+      {
+        "en": "The truth came from the bottom.",
+        "bn": "সত্য নিচ থেকে বের হলো।"
+      }
+    ],
+    "synonyms": ["base", "lowest part"]
+  },
+
+  {
+    "base": "behave",
+    "phonetic": "bɪˈheɪv",
+    "meaning": "আচরণ করা",
+    "examples": [
+      {
+        "en": "Children should behave properly in class.",
+        "bn": "শিশুরা ক্লাসে ঠিকভাবে আচরণ করা উচিত।"
+      },
+      {
+        "en": "He behaved politely with guests.",
+        "bn": "সে অতিথিদের সাথে ভদ্রভাবে আচরণ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She behaved well during the interview.",
+        "bn": "সে সাক্ষাৎকারে ভালো আচরণ করল।"
+      },
+      {
+        "en": "Don’t behave rudely with others.",
+        "bn": "অন্যদের সাথে খারাপ আচরণ করো না।"
+      },
+      {
+        "en": "The dog behaves calmly now.",
+        "bn": "কুকুরটি এখন শান্তভাবে আচরণ করে।"
+      },
+      {
+        "en": "He failed because he didn’t behave properly.",
+        "bn": "সে ঠিকভাবে আচরণ না করায় ফেল করল।"
+      },
+      {
+        "en": "Students must behave in the library.",
+        "bn": "লাইব্রেরিতে শিক্ষার্থীদের আচরণ করা উচিত।"
+      },
+      {
+        "en": "She always behaves kindly.",
+        "bn": "সে সবসময় দয়ালুভাবে আচরণ করে।"
+      },
+      {
+        "en": "He behaved strangely yesterday.",
+        "bn": "সে গতকাল অদ্ভুত আচরণ করল।"
+      },
+      {
+        "en": "They behaved like professionals.",
+        "bn": "তারা পেশাদারের মতো আচরণ করল।"
+      },
+      {
+        "en": "Kids learn how to behave from parents.",
+        "bn": "শিশুরা বাবা-মার কাছ থেকে আচরণ শেখে।"
+      },
+      {
+        "en": "He didn’t behave as expected.",
+        "bn": "সে প্রত্যাশা অনুযায়ী আচরণ করল না।"
+      }
+    ],
+    "synonyms": ["act", "conduct", "carry oneself"]
+  },
+
+  {
+    "base": "balance",
+    "phonetic": "ˈbæləns",
+    "meaning": "ভারসাম্য",
+    "examples": [
+      {
+        "en": "He lost his balance and fell.",
+        "bn": "সে ভারসাম্য হারিয়ে পড়ে গেল।"
+      },
+      {
+        "en": "A healthy diet maintains body balance.",
+        "bn": "সুষম খাদ্য শরীরের ভারসাম্য বজায় রাখে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She tried to balance work and study.",
+        "bn": "সে কাজ ও পড়াশোনার মধ্যে ভারসাম্য রাখতে চেষ্টা করল।"
+      },
+      {
+        "en": "The balance of the system is stable.",
+        "bn": "সিস্টেমের ভারসাম্য স্থিতিশীল।"
+      },
+      {
+        "en": "He balanced the book on his head.",
+        "bn": "সে মাথার উপর বইটি ভারসাম্য করে রাখল।"
+      },
+      {
+        "en": "Emotional balance is important in life.",
+        "bn": "জীবনে মানসিক ভারসাম্য গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "The rope requires good balance.",
+        "bn": "দড়ির উপর ভালো ভারসাম্য দরকার।"
+      },
+      {
+        "en": "She maintained balance on the bicycle.",
+        "bn": "সে সাইকেলে ভারসাম্য বজায় রাখল।"
+      },
+      {
+        "en": "The budget is in balance now.",
+        "bn": "এখন বাজেট ভারসাম্যে আছে।"
+      },
+      {
+        "en": "He lost balance on the slippery road.",
+        "bn": "পিচ্ছিল রাস্তায় সে ভারসাম্য হারাল।"
+      },
+      {
+        "en": "Work-life balance is essential.",
+        "bn": "কাজ ও জীবনের ভারসাম্য জরুরি।"
+      },
+      {
+        "en": "The team achieved perfect balance.",
+        "bn": "দলটি নিখুঁত ভারসাম্য অর্জন করল।"
+      }
+    ],
+    "synonyms": ["equilibrium", "stability", "harmony"]
+  },
+
+  {
+    "base": "benefit",
+    "phonetic": "ˈbenɪfɪt",
+    "meaning": "উপকার",
+    "examples": [
+      {
+        "en": "Exercise has many health benefits.",
+        "bn": "ব্যায়ামের অনেক স্বাস্থ্য উপকার আছে।"
+      },
+      {
+        "en": "He benefited from the new program.",
+        "bn": "সে নতুন প্রোগ্রাম থেকে উপকার পেল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Education benefits everyone.", "bn": "শিক্ষা সবার উপকার করে।" },
+      {
+        "en": "She gained benefit from the training.",
+        "bn": "সে প্রশিক্ষণ থেকে উপকার পেল।"
+      },
+      {
+        "en": "The policy benefits poor people.",
+        "bn": "নীতিটি দরিদ্রদের উপকার করে।"
+      },
+      {
+        "en": "He did it for mutual benefit.",
+        "bn": "সে এটি পারস্পরিক উপকারের জন্য করল।"
+      },
+      {
+        "en": "Fruits provide health benefits.",
+        "bn": "ফল স্বাস্থ্য উপকার দেয়।"
+      },
+      {
+        "en": "The change brought many benefits.",
+        "bn": "পরিবর্তন অনেক উপকার নিয়ে এলো।"
+      },
+      {
+        "en": "She didn’t benefit from the deal.",
+        "bn": "সে চুক্তি থেকে উপকার পায়নি।"
+      },
+      {
+        "en": "The program benefits students.",
+        "bn": "প্রোগ্রামটি শিক্ষার্থীদের উপকার করে।"
+      },
+      {
+        "en": "He explained the benefit clearly.",
+        "bn": "সে উপকারটি স্পষ্টভাবে ব্যাখ্যা করল।"
+      },
+      {
+        "en": "Regular study brings long-term benefits.",
+        "bn": "নিয়মিত পড়াশোনা দীর্ঘমেয়াদী উপকার আনে।"
+      }
+    ],
+    "synonyms": ["advantage", "gain", "profit"]
+  },
+
+  {
+    "base": "berry",
+    "phonetic": "ˈberi",
+    "meaning": "বেরি ফল",
+    "examples": [
+      {
+        "en": "Strawberry is a sweet berry.",
+        "bn": "স্ট্রবেরি একটি মিষ্টি বেরি ফল।"
+      },
+      {
+        "en": "Birds eat small berries in the forest.",
+        "bn": "পাখিরা বনে ছোট বেরি খায়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She picked fresh berries from the garden.",
+        "bn": "সে বাগান থেকে তাজা বেরি তুলল।"
+      },
+      {
+        "en": "Berries are rich in vitamins.",
+        "bn": "বেরিতে ভিটামিন প্রচুর থাকে।"
+      },
+      {
+        "en": "He added berries to his breakfast.",
+        "bn": "সে নাস্তায় বেরি যোগ করল।"
+      },
+      {
+        "en": "Wild berries grow in the forest.",
+        "bn": "বুনো বেরি বনে জন্মায়।"
+      },
+      {
+        "en": "The smoothie contains mixed berries.",
+        "bn": "স্মুদিতে মিশ্র বেরি আছে।"
+      },
+      {
+        "en": "She likes blueberry jam.",
+        "bn": "সে ব্লুবেরি জ্যাম পছন্দ করে।"
+      },
+      {
+        "en": "Berries attract many animals.",
+        "bn": "বেরি অনেক প্রাণীকে আকর্ষণ করে।"
+      },
+      {
+        "en": "They sell fresh berries in the market.",
+        "bn": "তারা বাজারে তাজা বেরি বিক্রি করে।"
+      },
+      {
+        "en": "He planted berry bushes in the yard.",
+        "bn": "সে উঠানে বেরি গাছ লাগাল।"
+      },
+      {
+        "en": "Berries are healthy snacks.",
+        "bn": "বেরি একটি স্বাস্থ্যকর খাবার।"
+      }
+    ],
+    "synonyms": ["fruit", "small fruit"]
+  },
+
+  {
+    "base": "beach",
+    "phonetic": "biːtʃ",
+    "meaning": "সৈকত",
+    "examples": [
+      {
+        "en": "We spent the day at the beach.",
+        "bn": "আমরা দিনটি সৈকতে কাটালাম।"
+      },
+      {
+        "en": "The beach was crowded with tourists.",
+        "bn": "সৈকতটি পর্যটকে ভরা ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Children built sandcastles on the beach.",
+        "bn": "শিশুরা সৈকতে বালির দুর্গ বানাল।"
+      },
+      {
+        "en": "The waves hit the beach gently.",
+        "bn": "ঢেউগুলো ধীরে সৈকতে আছড়ে পড়ল।"
+      },
+      {
+        "en": "She walked along the beach at sunset.",
+        "bn": "সে সূর্যাস্তের সময় সৈকতে হাঁটল।"
+      },
+      {
+        "en": "The beach is clean and beautiful.",
+        "bn": "সৈকতটি পরিষ্কার এবং সুন্দর।"
+      },
+      {
+        "en": "They played volleyball on the beach.",
+        "bn": "তারা সৈকতে ভলিবল খেলল।"
+      },
+      {
+        "en": "Sea shells were scattered on the beach.",
+        "bn": "সৈকতে শামুক ছড়িয়ে ছিল।"
+      },
+      {
+        "en": "He relaxed under a tree near the beach.",
+        "bn": "সে সৈকতের পাশে গাছের নিচে বিশ্রাম নিল।"
+      },
+      {
+        "en": "The beach attracts many visitors.",
+        "bn": "সৈকতটি অনেক দর্শনার্থীকে আকর্ষণ করে।"
+      },
+      {
+        "en": "We had a picnic on the beach.",
+        "bn": "আমরা সৈকতে পিকনিক করলাম।"
+      },
+      {
+        "en": "The sunset made the beach more beautiful.",
+        "bn": "সূর্যাস্ত সৈকতকে আরও সুন্দর করে তুলল।"
+      }
+    ],
+    "synonyms": ["shore", "coast", "seaside"]
+  },
+
+  {
     "base": "beautiful",
     "phonetic": "ˈbjuːtɪfʊl",
     "meaning": "সুন্দর",
@@ -21,6 +1065,7 @@
     ],
     "synonyms": ["attractive", "pretty", "lovely", "gorgeous", "handsome"]
   },
+
   {
     "base": "book",
     "phonetic": "bʊk",
@@ -43,28 +1088,7 @@
     ],
     "synonyms": ["novel", "text", "volume", "publication"]
   },
-  {
-    "base": "beautiful",
-    "phonetic": "ˈbjuːtɪfʊl",
-    "meaning": "সুন্দর",
-    "examples": [
-      { "en": "She is beautiful.", "bn": "" },
-      { "en": "This is a beautiful place.", "bn": "" }
-    ],
-    "moreexample": [
-      { "en": "The sky looks beautiful today.", "bn": "" },
-      { "en": "It is a beautiful garden.", "bn": "" },
-      { "en": "She has a beautiful voice.", "bn": "" },
-      { "en": "The painting is very beautiful.", "bn": "" },
-      { "en": "We saw a beautiful view.", "bn": "" },
-      { "en": "This flower is beautiful.", "bn": "" },
-      { "en": "He drew a beautiful picture.", "bn": "" },
-      { "en": "The city is beautiful at night.", "bn": "" },
-      { "en": "She wore a beautiful dress.", "bn": "" },
-      { "en": "Nature is beautiful.", "bn": "" }
-    ],
-    "synonyms": ["attractive", "pretty", "lovely", "gorgeous", "handsome"]
-  },
+
   {
     "base": "berry",
     "phonetic": "ˈberi",
@@ -87,26 +1111,1071 @@
     ],
     "synonyms": ["fruit", "blueberry", "strawberry", "raspberry", "currant"]
   },
+
   {
     "base": "book",
     "phonetic": "bʊk",
     "meaning": "বই",
     "examples": [
-      { "en": "I read a book.", "bn": "" },
-      { "en": "This is my book.", "bn": "" }
+      {
+        "en": "She opened the book and started reading.",
+        "bn": "সে বইটি খুলে পড়া শুরু করল।"
+      },
+      {
+        "en": "The book was lying on the table.",
+        "bn": "বইটি টেবিলের উপর পড়ে ছিল।"
+      }
     ],
     "moreexample": [
-      { "en": "She bought a book.", "bn": "" },
-      { "en": "I love reading books.", "bn": "" },
-      { "en": "The book is interesting.", "bn": "" },
-      { "en": "He wrote a book.", "bn": "" },
-      { "en": "I opened the book.", "bn": "" },
-      { "en": "She borrowed a book.", "bn": "" },
-      { "en": "The book is old.", "bn": "" },
-      { "en": "I finished the book.", "bn": "" },
-      { "en": "Books are knowledge.", "bn": "" },
-      { "en": "He gave me a book.", "bn": "" }
+      {
+        "en": "He borrowed a book from the library.",
+        "bn": "সে লাইব্রেরি থেকে একটি বই ধার নিল।"
+      },
+      {
+        "en": "The book contains useful information.",
+        "bn": "বইটিতে দরকারি তথ্য রয়েছে।"
+      },
+      {
+        "en": "She finished the book in one day.",
+        "bn": "সে এক দিনে বইটি শেষ করল।"
+      },
+      {
+        "en": "A book fell from the shelf.",
+        "bn": "একটি বই তাক থেকে পড়ে গেল।"
+      },
+      {
+        "en": "He wrote a book about history.",
+        "bn": "সে ইতিহাস নিয়ে একটি বই লিখেছে।"
+      },
+      { "en": "The book is very interesting.", "bn": "বইটি খুব আকর্ষণীয়।" },
+      {
+        "en": "She keeps her book neatly.",
+        "bn": "সে তার বই সুন্দরভাবে রাখে।"
+      },
+      {
+        "en": "They discussed the book in class.",
+        "bn": "তারা ক্লাসে বইটি নিয়ে আলোচনা করল।"
+      },
+      {
+        "en": "The book was published last year.",
+        "bn": "বইটি গত বছর প্রকাশিত হয়েছিল।"
+      },
+      {
+        "en": "He forgot his book at home.",
+        "bn": "সে তার বই বাড়িতে ভুলে গেছে।"
+      }
     ],
-    "synonyms": ["novel", "text", "volume", "publication"]
+    "synonyms": ["text", "volume"]
+  },
+
+  {
+    "base": "brain",
+    "phonetic": "breɪn",
+    "meaning": "মস্তিষ্ক",
+    "examples": [
+      {
+        "en": "The brain controls all body functions.",
+        "bn": "মস্তিষ্ক শরীরের সব কাজ নিয়ন্ত্রণ করে।"
+      },
+      { "en": "He has a sharp brain.", "bn": "তার মস্তিষ্ক খুব তীক্ষ্ণ।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The brain needs proper rest.",
+        "bn": "মস্তিষ্কের সঠিক বিশ্রাম দরকার।"
+      },
+      {
+        "en": "She used her brain to solve the problem.",
+        "bn": "সে সমস্যা সমাধানে তার মস্তিষ্ক ব্যবহার করল।"
+      },
+      {
+        "en": "The brain processes information quickly.",
+        "bn": "মস্তিষ্ক দ্রুত তথ্য প্রক্রিয়াকরণ করে।"
+      },
+      {
+        "en": "He studied how the brain works.",
+        "bn": "সে মস্তিষ্ক কীভাবে কাজ করে তা অধ্যয়ন করল।"
+      },
+      {
+        "en": "A healthy diet supports the brain.",
+        "bn": "সুস্থ খাবার মস্তিষ্ককে সাহায্য করে।"
+      },
+      {
+        "en": "The brain stores memories.",
+        "bn": "মস্তিষ্ক স্মৃতি সংরক্ষণ করে।"
+      },
+      {
+        "en": "She trained her brain with puzzles.",
+        "bn": "সে ধাঁধা দিয়ে তার মস্তিষ্ক প্রশিক্ষণ দিল।"
+      },
+      {
+        "en": "Stress affects the brain badly.",
+        "bn": "মানসিক চাপ মস্তিষ্ককে খারাপভাবে প্রভাবিত করে।"
+      },
+      {
+        "en": "The brain is a complex organ.",
+        "bn": "মস্তিষ্ক একটি জটিল অঙ্গ।"
+      },
+      {
+        "en": "He kept his brain active with learning.",
+        "bn": "সে শেখার মাধ্যমে তার মস্তিষ্ক সক্রিয় রাখল।"
+      }
+    ],
+    "synonyms": ["mind", "intellect"]
+  },
+
+  {
+    "base": "bridge",
+    "phonetic": "brɪdʒ",
+    "meaning": "সেতু",
+    "examples": [
+      {
+        "en": "We crossed the bridge over the river.",
+        "bn": "আমরা নদীর উপর সেতু পার হলাম।"
+      },
+      {
+        "en": "The bridge connects two cities.",
+        "bn": "সেতুটি দুটি শহরকে সংযুক্ত করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The old bridge is very strong.",
+        "bn": "পুরোনো সেতুটি খুব শক্তিশালী।"
+      },
+      {
+        "en": "Cars are moving slowly on the bridge.",
+        "bn": "গাড়িগুলো সেতুর উপর ধীরে চলছে।"
+      },
+      {
+        "en": "The bridge collapsed after the flood.",
+        "bn": "বন্যার পর সেতুটি ভেঙে পড়ল।"
+      },
+      {
+        "en": "They built a new bridge last year.",
+        "bn": "তারা গত বছর একটি নতুন সেতু বানিয়েছে।"
+      },
+      {
+        "en": "The bridge is under repair.",
+        "bn": "সেতুটি মেরামতের অধীনে আছে।"
+      },
+      {
+        "en": "People walked across the wooden bridge.",
+        "bn": "মানুষ কাঠের সেতু পার হলো।"
+      },
+      {
+        "en": "The bridge looks beautiful at night.",
+        "bn": "রাতে সেতুটি সুন্দর দেখায়।"
+      },
+      {
+        "en": "A bridge connects two sides of the city.",
+        "bn": "একটি সেতু শহরের দুই পাশকে যুক্ত করে।"
+      },
+      {
+        "en": "He stood on the bridge watching the river.",
+        "bn": "সে সেতুর উপর দাঁড়িয়ে নদী দেখছিল।"
+      },
+      {
+        "en": "The bridge helped improve transportation.",
+        "bn": "সেতুটি পরিবহন ব্যবস্থাকে উন্নত করেছে।"
+      }
+    ],
+    "synonyms": ["link", "connection"]
+  },
+
+  {
+    "base": "brush",
+    "phonetic": "brʌʃ",
+    "meaning": "ব্রাশ",
+    "examples": [
+      {
+        "en": "He uses a brush to paint the wall.",
+        "bn": "সে দেয়াল রং করতে ব্রাশ ব্যবহার করে।"
+      },
+      {
+        "en": "She brushed her hair carefully.",
+        "bn": "সে সাবধানে চুল আঁচড়াল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The artist cleaned his brush after painting.",
+        "bn": "চিত্রশিল্পী আঁকার পর তার ব্রাশ পরিষ্কার করল।"
+      },
+      {
+        "en": "He bought a new toothbrush.",
+        "bn": "সে একটি নতুন টুথব্রাশ কিনল।"
+      },
+      {
+        "en": "She brushed the dust off the table.",
+        "bn": "সে টেবিল থেকে ধুলো ব্রাশ করে সরাল।"
+      },
+      {
+        "en": "The brush was made of soft hair.",
+        "bn": "ব্রাশটি নরম লোম দিয়ে তৈরি ছিল।"
+      },
+      {
+        "en": "He forgot his brush at home.",
+        "bn": "সে তার ব্রাশ বাড়িতে ভুলে গেছে।"
+      },
+      {
+        "en": "She uses a brush for painting pictures.",
+        "bn": "সে ছবি আঁকার জন্য ব্রাশ ব্যবহার করে।"
+      },
+      {
+        "en": "The floor was cleaned with a brush.",
+        "bn": "মেঝে ব্রাশ দিয়ে পরিষ্কার করা হয়েছিল।"
+      },
+      {
+        "en": "He changed his shaving brush.",
+        "bn": "সে তার শেভিং ব্রাশ বদলাল।"
+      },
+      {
+        "en": "She painted the fence with a brush.",
+        "bn": "সে ব্রাশ দিয়ে বেড়া রং করল।"
+      },
+      {
+        "en": "The brush helped remove dirt easily.",
+        "bn": "ব্রাশটি সহজে ময়লা সরাতে সাহায্য করল।"
+      }
+    ],
+    "synonyms": ["broom (context)", "tool"]
+  },
+
+  {
+    "base": "burn",
+    "phonetic": "bɜːrn",
+    "meaning": "পোড়ানো / জ্বলা",
+    "examples": [
+      { "en": "Don’t burn the paper.", "bn": "কাগজ পোড়িও না।" },
+      {
+        "en": "The fire started to burn brightly.",
+        "bn": "আগুন উজ্জ্বলভাবে জ্বলতে শুরু করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He burned the old letters.",
+        "bn": "সে পুরোনো চিঠিগুলো পুড়িয়ে ফেলল।"
+      },
+      { "en": "The candle burns slowly.", "bn": "মোমবাতি ধীরে ধীরে জ্বলে।" },
+      {
+        "en": "She burned her hand accidentally.",
+        "bn": "সে ভুলবশত তার হাত পুড়িয়ে ফেলল।"
+      },
+      { "en": "The fire burned all night.", "bn": "আগুন সারারাত জ্বলল।" },
+      {
+        "en": "He burned calories by exercising.",
+        "bn": "সে ব্যায়াম করে ক্যালরি বার্ন করল।"
+      },
+      {
+        "en": "The house burned down completely.",
+        "bn": "বাড়িটি পুরোপুরি পুড়ে গেল।"
+      },
+      {
+        "en": "They burned wood for cooking.",
+        "bn": "তারা রান্নার জন্য কাঠ পুড়িয়েছে।"
+      },
+      {
+        "en": "Her skin burned in the sun.",
+        "bn": "সূর্যের আলোতে তার ত্বক পুড়ে গেল।"
+      },
+      {
+        "en": "The flame burns blue in gas.",
+        "bn": "গ্যাসে শিখা নীল রঙে জ্বলে।"
+      },
+      {
+        "en": "He burned the midnight oil studying.",
+        "bn": "সে রাত জেগে পড়াশোনা করল।"
+      }
+    ],
+    "synonyms": ["ignite", "scorch", "fire"]
+  },
+
+  {
+    "base": "build",
+    "phonetic": "bɪld",
+    "meaning": "নির্মাণ করা",
+    "examples": [
+      {
+        "en": "They built a new house.",
+        "bn": "তারা একটি নতুন বাড়ি তৈরি করল।"
+      },
+      { "en": "He is building his career.", "bn": "সে তার ক্যারিয়ার গড়ছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Workers built the bridge in two years.",
+        "bn": "কর্মীরা দুই বছরে সেতুটি নির্মাণ করল।"
+      },
+      {
+        "en": "She built a strong relationship.",
+        "bn": "সে একটি শক্ত সম্পর্ক গড়ে তুলল।"
+      },
+      {
+        "en": "They are building a school.",
+        "bn": "তারা একটি স্কুল নির্মাণ করছে।"
+      },
+      {
+        "en": "He built a sandcastle on the beach.",
+        "bn": "সে সৈকতে বালির দুর্গ বানাল।"
+      },
+      { "en": "Trust takes time to build.", "bn": "বিশ্বাস গড়তে সময় লাগে।" },
+      {
+        "en": "The company built a new factory.",
+        "bn": "কোম্পানিটি একটি নতুন কারখানা তৈরি করল।"
+      },
+      {
+        "en": "She built confidence through practice.",
+        "bn": "সে অনুশীলনের মাধ্যমে আত্মবিশ্বাস গড়ল।"
+      },
+      {
+        "en": "They built the system carefully.",
+        "bn": "তারা সিস্টেমটি সাবধানে তৈরি করল।"
+      },
+      {
+        "en": "He built his own business.",
+        "bn": "সে নিজের ব্যবসা গড়ে তুলল।"
+      },
+      {
+        "en": "The city is building new roads.",
+        "bn": "শহরটি নতুন রাস্তা নির্মাণ করছে।"
+      }
+    ],
+    "synonyms": ["construct", "create", "develop"]
+  },
+
+  {
+    "base": "brave",
+    "phonetic": "breɪv",
+    "meaning": "সাহসী",
+    "examples": [
+      {
+        "en": "The brave soldier saved many lives.",
+        "bn": "সাহসী সৈনিক অনেক জীবন বাঁচাল।"
+      },
+      {
+        "en": "She made a brave decision.",
+        "bn": "সে একটি সাহসী সিদ্ধান্ত নিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was brave during the accident.",
+        "bn": "দুর্ঘটনার সময় সে সাহসী ছিল।"
+      },
+      {
+        "en": "The brave child spoke the truth.",
+        "bn": "সাহসী শিশুটি সত্য কথা বলল।"
+      },
+      {
+        "en": "They showed brave effort in the match.",
+        "bn": "তারা ম্যাচে সাহসী চেষ্টা দেখাল।"
+      },
+      {
+        "en": "She stayed brave in difficult times.",
+        "bn": "সে কঠিন সময়ে সাহসী ছিল।"
+      },
+      {
+        "en": "The brave fireman rescued the cat.",
+        "bn": "সাহসী ফায়ারম্যান বিড়ালটিকে উদ্ধার করল।"
+      },
+      {
+        "en": "He faced the problem bravely.",
+        "bn": "সে সাহসের সাথে সমস্যার মোকাবিলা করল।"
+      },
+      {
+        "en": "Brave people inspire others.",
+        "bn": "সাহসী মানুষ অন্যদের অনুপ্রাণিত করে।"
+      },
+      { "en": "She gave a brave speech.", "bn": "সে একটি সাহসী বক্তৃতা দিল।" },
+      { "en": "The brave team won the game.", "bn": "সাহসী দলটি খেলাটি জিতল।" },
+      {
+        "en": "He remained brave until the end.",
+        "bn": "সে শেষ পর্যন্ত সাহসী ছিল।"
+      }
+    ],
+    "synonyms": ["courageous", "bold", "fearless"]
+  },
+
+  {
+    "base": "breathe",
+    "phonetic": "briːð",
+    "meaning": "শ্বাস নেওয়া",
+    "examples": [
+      {
+        "en": "Take a deep breath and breathe slowly.",
+        "bn": "গভীর শ্বাস নাও এবং ধীরে শ্বাস নাও।"
+      },
+      {
+        "en": "She couldn’t breathe in the smoke.",
+        "bn": "ধোঁয়ায় সে শ্বাস নিতে পারছিল না।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He learned how to breathe properly.",
+        "bn": "সে সঠিকভাবে শ্বাস নেওয়া শিখল।"
+      },
+      {
+        "en": "The patient can breathe normally now.",
+        "bn": "রোগী এখন স্বাভাবিকভাবে শ্বাস নিতে পারে।"
+      },
+      {
+        "en": "She paused to breathe deeply.",
+        "bn": "সে গভীর শ্বাস নিতে থামল।"
+      },
+      {
+        "en": "Clean air helps people breathe easily.",
+        "bn": "পরিষ্কার বাতাস মানুষকে সহজে শ্বাস নিতে সাহায্য করে।"
+      },
+      {
+        "en": "He struggled to breathe underwater.",
+        "bn": "সে পানির নিচে শ্বাস নিতে কষ্ট করল।"
+      },
+      {
+        "en": "The room was too crowded to breathe.",
+        "bn": "ঘরটি এত ভিড় ছিল যে শ্বাস নিতে কষ্ট হচ্ছিল।"
+      },
+      {
+        "en": "She practices breathing exercises.",
+        "bn": "সে শ্বাস-প্রশ্বাসের ব্যায়াম করে।"
+      },
+      {
+        "en": "He can breathe fresh air in the countryside.",
+        "bn": "সে গ্রামে তাজা বাতাসে শ্বাস নিতে পারে।"
+      },
+      {
+        "en": "Don’t forget to breathe slowly.",
+        "bn": "ধীরে শ্বাস নিতে ভুলবে না।"
+      },
+      {
+        "en": "The athlete learned to control breathing.",
+        "bn": "অ্যাথলিট শ্বাস নিয়ন্ত্রণ করতে শিখল।"
+      }
+    ],
+    "synonyms": ["inhale", "respire"]
+  },
+
+  {
+    "base": "busy",
+    "phonetic": "ˈbɪzi",
+    "meaning": "ব্যস্ত",
+    "examples": [
+      {
+        "en": "She is busy with her studies.",
+        "bn": "সে তার পড়াশোনায় ব্যস্ত।"
+      },
+      {
+        "en": "The road is always busy in the morning.",
+        "bn": "সকালে রাস্তা সবসময় ব্যস্ত থাকে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He stayed busy all day.", "bn": "সে সারাদিন ব্যস্ত ছিল।" },
+      {
+        "en": "The shop is busy during holidays.",
+        "bn": "ছুটির সময় দোকানটি ব্যস্ত থাকে।"
+      },
+      {
+        "en": "She is too busy to talk.",
+        "bn": "সে কথা বলার জন্য খুব ব্যস্ত।"
+      },
+      {
+        "en": "The office looks busy today.",
+        "bn": "আজ অফিসটি ব্যস্ত দেখাচ্ছে।"
+      },
+      {
+        "en": "He keeps himself busy with work.",
+        "bn": "সে নিজেকে কাজে ব্যস্ত রাখে।"
+      },
+      { "en": "The phone line is busy.", "bn": "ফোন লাইনটি ব্যস্ত।" },
+      {
+        "en": "They are busy preparing for exams.",
+        "bn": "তারা পরীক্ষার প্রস্তুতিতে ব্যস্ত।"
+      },
+      {
+        "en": "The kitchen is busy in the evening.",
+        "bn": "সন্ধ্যায় রান্নাঘর ব্যস্ত থাকে।"
+      },
+      {
+        "en": "She was busy writing a report.",
+        "bn": "সে একটি রিপোর্ট লেখায় ব্যস্ত ছিল।"
+      },
+      { "en": "The city is always busy.", "bn": "শহরটি সবসময় ব্যস্ত থাকে।" }
+    ],
+    "synonyms": ["occupied", "engaged", "active"]
+  },
+
+  {
+    "base": "bottle",
+    "phonetic": "ˈbɒtl",
+    "meaning": "বোতল",
+    "examples": [
+      { "en": "He drank water from a bottle.", "bn": "সে বোতল থেকে পানি খেল।" },
+      { "en": "The bottle is made of glass.", "bn": "বোতলটি কাচের তৈরি।" }
+    ],
+    "moreexample": [
+      { "en": "She filled the bottle with juice.", "bn": "সে বোতলে জুস ভরল।" },
+      {
+        "en": "A plastic bottle was lying on the road.",
+        "bn": "একটি প্লাস্টিকের বোতল রাস্তায় পড়ে ছিল।"
+      },
+      { "en": "He bought a water bottle.", "bn": "সে একটি পানির বোতল কিনল।" },
+      {
+        "en": "The bottle broke on the floor.",
+        "bn": "বোতলটি মেঝেতে ভেঙে গেল।"
+      },
+      {
+        "en": "She recycled the empty bottle.",
+        "bn": "সে খালি বোতল রিসাইকেল করল।"
+      },
+      { "en": "The bottle contains milk.", "bn": "বোতলে দুধ আছে।" },
+      {
+        "en": "He opened the bottle carefully.",
+        "bn": "সে সাবধানে বোতল খুলল।"
+      },
+      {
+        "en": "They stored oil in a bottle.",
+        "bn": "তারা বোতলে তেল সংরক্ষণ করল।"
+      },
+      { "en": "The bottle floated on water.", "bn": "বোতলটি পানিতে ভেসে ছিল।" },
+      {
+        "en": "She washed the bottle after use.",
+        "bn": "ব্যবহারের পর সে বোতলটি ধুয়ে ফেলল।"
+      }
+    ],
+    "synonyms": ["container", "flask"]
+  },
+
+  {
+    "base": "bake",
+    "phonetic": "beɪk",
+    "meaning": "বেক করা",
+    "examples": [
+      {
+        "en": "She likes to bake cakes on weekends.",
+        "bn": "সে সপ্তাহান্তে কেক বেক করতে পছন্দ করে।"
+      },
+      {
+        "en": "He baked fresh bread this morning.",
+        "bn": "সে আজ সকালে তাজা রুটি বেক করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They bake cookies for the school event.",
+        "bn": "তারা স্কুল ইভেন্টের জন্য কুকি বেক করে।"
+      },
+      {
+        "en": "My mother bakes delicious pies.",
+        "bn": "আমার মা সুস্বাদু পাই বেক করেন।"
+      },
+      {
+        "en": "The bakery bakes early every day.",
+        "bn": "বেকারি প্রতিদিন সকালে বেক করে।"
+      },
+      {
+        "en": "He forgot to bake the cake on time.",
+        "bn": "সে সময়মতো কেক বেক করতে ভুলে গেল।"
+      },
+      {
+        "en": "We bake together during holidays.",
+        "bn": "ছুটির দিনে আমরা একসাথে বেক করি।"
+      },
+      {
+        "en": "The oven is used to bake food.",
+        "bn": "ওভেন খাবার বেক করতে ব্যবহার করা হয়।"
+      },
+      {
+        "en": "She baked a chocolate cake for him.",
+        "bn": "সে তার জন্য চকলেট কেক বেক করল।"
+      },
+      {
+        "en": "Freshly baked bread smells amazing.",
+        "bn": "তাজা বেক করা রুটির গন্ধ অসাধারণ।"
+      },
+      {
+        "en": "They bake without sugar sometimes.",
+        "bn": "তারা কখনও কখনও চিনি ছাড়া বেক করে।"
+      },
+      {
+        "en": "He learned how to bake online.",
+        "bn": "সে অনলাইনে বেক করা শিখেছে।"
+      }
+    ],
+    "synonyms": ["cook", "prepare"]
+  },
+
+  {
+    "base": "bank",
+    "phonetic": "bæŋk",
+    "meaning": "ব্যাংক",
+    "examples": [
+      {
+        "en": "She went to the bank to withdraw money.",
+        "bn": "সে টাকা তোলার জন্য ব্যাংকে গেল।"
+      },
+      { "en": "The bank is closed today.", "bn": "ব্যাংক আজ বন্ধ আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He opened an account in the bank.",
+        "bn": "সে ব্যাংকে একটি অ্যাকাউন্ট খুলল।"
+      },
+      {
+        "en": "The bank offers loans for students.",
+        "bn": "ব্যাংক শিক্ষার্থীদের জন্য ঋণ দেয়।"
+      },
+      {
+        "en": "They deposited money in the bank.",
+        "bn": "তারা ব্যাংকে টাকা জমা করল।"
+      },
+      { "en": "The bank is near the market.", "bn": "ব্যাংকটি বাজারের কাছে।" },
+      {
+        "en": "She works in a private bank.",
+        "bn": "সে একটি বেসরকারি ব্যাংকে কাজ করে।"
+      },
+      {
+        "en": "The bank approved his loan.",
+        "bn": "ব্যাংক তার ঋণ অনুমোদন করল।"
+      },
+      {
+        "en": "He lost his bank card.",
+        "bn": "সে তার ব্যাংক কার্ড হারিয়েছে।"
+      },
+      {
+        "en": "The bank closes at 4 PM.",
+        "bn": "ব্যাংক বিকেল ৪টায় বন্ধ হয়।"
+      },
+      {
+        "en": "Customers waited outside the bank.",
+        "bn": "গ্রাহকরা ব্যাংকের বাইরে অপেক্ষা করছিল।"
+      },
+      {
+        "en": "Online banking is very popular now.",
+        "bn": "অনলাইন ব্যাংকিং এখন খুব জনপ্রিয়।"
+      }
+    ],
+    "synonyms": ["financial institution"]
+  },
+
+  {
+    "base": "basket",
+    "phonetic": "ˈbæskɪt",
+    "meaning": "ঝুড়ি",
+    "examples": [
+      { "en": "She put fruits in the basket.", "bn": "সে ঝুড়িতে ফল রাখল।" },
+      { "en": "The basket is full of clothes.", "bn": "ঝুড়িটি কাপড়ে ভরা।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He carried vegetables in a basket.",
+        "bn": "সে ঝুড়িতে সবজি বহন করল।"
+      },
+      {
+        "en": "The picnic basket was heavy.",
+        "bn": "পিকনিকের ঝুড়িটি ভারী ছিল।"
+      },
+      { "en": "She bought a woven basket.", "bn": "সে একটি বোনা ঝুড়ি কিনল।" },
+      {
+        "en": "The basket fell from the table.",
+        "bn": "ঝুড়িটি টেবিল থেকে পড়ে গেল।"
+      },
+      {
+        "en": "They filled the basket with flowers.",
+        "bn": "তারা ঝুড়িটি ফুলে ভরল।"
+      },
+      {
+        "en": "He uses a basket for shopping.",
+        "bn": "সে কেনাকাটার জন্য ঝুড়ি ব্যবহার করে।"
+      },
+      {
+        "en": "The basket was made of bamboo.",
+        "bn": "ঝুড়িটি বাঁশ দিয়ে তৈরি।"
+      },
+      {
+        "en": "Children played with a small basket.",
+        "bn": "শিশুরা একটি ছোট ঝুড়ি নিয়ে খেলল।"
+      },
+      { "en": "She placed eggs in the basket.", "bn": "সে ঝুড়িতে ডিম রাখল।" },
+      {
+        "en": "The basket broke under pressure.",
+        "bn": "চাপের কারণে ঝুড়িটি ভেঙে গেল।"
+      }
+    ],
+    "synonyms": ["container", "holder"]
+  },
+
+  {
+    "base": "battle",
+    "phonetic": "ˈbætl",
+    "meaning": "যুদ্ধ",
+    "examples": [
+      {
+        "en": "The battle lasted for hours.",
+        "bn": "যুদ্ধটি কয়েক ঘণ্টা চলল।"
+      },
+      {
+        "en": "They won the battle bravely.",
+        "bn": "তারা সাহসিকতার সাথে যুদ্ধ জিতল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The battle changed history.", "bn": "যুদ্ধটি ইতিহাস বদলে দিল।" },
+      {
+        "en": "Soldiers prepared for battle.",
+        "bn": "সৈন্যরা যুদ্ধের জন্য প্রস্তুত হলো।"
+      },
+      { "en": "The battle was intense.", "bn": "যুদ্ধটি ছিল ভয়ংকর।" },
+      { "en": "He fought in the battle.", "bn": "সে যুদ্ধে অংশ নিয়েছিল।" },
+      { "en": "The battle ended at night.", "bn": "যুদ্ধটি রাতে শেষ হলো।" },
+      {
+        "en": "Many lives were lost in battle.",
+        "bn": "যুদ্ধে অনেক প্রাণ হারিয়েছে।"
+      },
+      {
+        "en": "The battle strategy was strong.",
+        "bn": "যুদ্ধ কৌশলটি শক্তিশালী ছিল।"
+      },
+      {
+        "en": "They trained for the battle.",
+        "bn": "তারা যুদ্ধের জন্য প্রশিক্ষণ নিল।"
+      },
+      {
+        "en": "The battle field was silent after.",
+        "bn": "যুদ্ধক্ষেত্র পরে শান্ত হয়ে গেল।"
+      },
+      { "en": "He survived the battle.", "bn": "সে যুদ্ধ থেকে বেঁচে গেল।" }
+    ],
+    "synonyms": ["fight", "war"]
+  },
+
+  {
+    "base": "beauty",
+    "phonetic": "ˈbjuːti",
+    "meaning": "সৌন্দর্য",
+    "examples": [
+      {
+        "en": "The beauty of nature is amazing.",
+        "bn": "প্রকৃতির সৌন্দর্য অসাধারণ।"
+      },
+      {
+        "en": "She is known for her beauty.",
+        "bn": "সে তার সৌন্দর্যের জন্য পরিচিত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The beauty of the sunset attracted everyone.",
+        "bn": "সূর্যাস্তের সৌন্দর্য সবাইকে আকর্ষণ করল।"
+      },
+      {
+        "en": "Inner beauty is more important.",
+        "bn": "অভ্যন্তরীণ সৌন্দর্য বেশি গুরুত্বপূর্ণ।"
+      },
+      { "en": "The garden is full of beauty.", "bn": "বাগানটি সৌন্দর্যে ভরা।" },
+      {
+        "en": "She admired the beauty of the painting.",
+        "bn": "সে চিত্রটির সৌন্দর্য প্রশংসা করল।"
+      },
+      {
+        "en": "Nature has endless beauty.",
+        "bn": "প্রকৃতির অসীম সৌন্দর্য আছে।"
+      },
+      {
+        "en": "The beauty of the river is calm.",
+        "bn": "নদীর সৌন্দর্য শান্ত।"
+      },
+      {
+        "en": "They enjoyed the beauty of the mountains.",
+        "bn": "তারা পাহাড়ের সৌন্দর্য উপভোগ করল।"
+      },
+      {
+        "en": "Beauty lies in simplicity.",
+        "bn": "সৌন্দর্য সরলতার মধ্যে থাকে।"
+      },
+      { "en": "She studies beauty care.", "bn": "সে বিউটি কেয়ার পড়ে।" },
+      {
+        "en": "The city has natural beauty.",
+        "bn": "শহরটির প্রাকৃতিক সৌন্দর্য আছে।"
+      }
+    ],
+    "synonyms": ["attractiveness", "grace"]
+  },
+
+  {
+    "base": "before",
+    "phonetic": "bɪˈfɔːr",
+    "meaning": "আগে",
+    "examples": [
+      {
+        "en": "Finish your work before dinner.",
+        "bn": "রাতের খাবারের আগে কাজ শেষ করো।"
+      },
+      { "en": "He arrived before me.", "bn": "সে আমার আগে পৌঁছেছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She called me before leaving.",
+        "bn": "সে যাওয়ার আগে আমাকে ফোন করল।"
+      },
+      { "en": "Study before the exam.", "bn": "পরীক্ষার আগে পড়াশোনা করো।" },
+      { "en": "He left before sunrise.", "bn": "সে সূর্য ওঠার আগে চলে গেল।" },
+      {
+        "en": "We met before the event.",
+        "bn": "আমরা ইভেন্টের আগে দেখা করেছি।"
+      },
+      { "en": "Think before you speak.", "bn": "কথা বলার আগে চিন্তা করো।" },
+      { "en": "She finished before everyone.", "bn": "সে সবার আগে শেষ করল।" },
+      { "en": "They arrived before time.", "bn": "তারা সময়ের আগে পৌঁছেছে।" },
+      {
+        "en": "He ate before going out.",
+        "bn": "সে বাইরে যাওয়ার আগে খেয়েছে।"
+      },
+      {
+        "en": "Read instructions before starting.",
+        "bn": "শুরু করার আগে নির্দেশনা পড়ো।"
+      },
+      {
+        "en": "We talked before the meeting.",
+        "bn": "মিটিংয়ের আগে আমরা কথা বলেছি।"
+      }
+    ],
+    "synonyms": ["earlier", "previously"]
+  },
+
+  {
+    "base": "begin",
+    "phonetic": "bɪˈɡɪn",
+    "meaning": "শুরু করা",
+    "examples": [
+      { "en": "Let’s begin the class.", "bn": "চল ক্লাস শুরু করি।" },
+      { "en": "The story begins here.", "bn": "গল্পটি এখান থেকে শুরু হয়।" }
+    ],
+    "moreexample": [
+      { "en": "He began a new job.", "bn": "সে নতুন কাজ শুরু করল।" },
+      { "en": "The meeting began late.", "bn": "মিটিং দেরিতে শুরু হলো।" },
+      { "en": "She began to cry.", "bn": "সে কাঁদতে শুরু করল।" },
+      { "en": "We begin work at 9 AM.", "bn": "আমরা সকাল ৯টায় কাজ শুরু করি।" },
+      {
+        "en": "The journey began yesterday.",
+        "bn": "যাত্রা গতকাল শুরু হয়েছে।"
+      },
+      { "en": "He began reading the book.", "bn": "সে বই পড়া শুরু করল।" },
+      { "en": "The movie began suddenly.", "bn": "মুভিটি হঠাৎ শুরু হলো।" },
+      { "en": "They began construction.", "bn": "তারা নির্মাণ শুরু করল।" },
+      {
+        "en": "She began to learn English.",
+        "bn": "সে ইংরেজি শিখতে শুরু করল।"
+      },
+      { "en": "The game began after lunch.", "bn": "দুপুরের পর খেলা শুরু হলো।" }
+    ],
+    "synonyms": ["start", "commence"]
+  },
+
+  {
+    "base": "believe",
+    "phonetic": "bɪˈliːv",
+    "meaning": "বিশ্বাস করা",
+    "examples": [
+      {
+        "en": "I believe in hard work.",
+        "bn": "আমি কঠোর পরিশ্রমে বিশ্বাস করি।"
+      },
+      { "en": "Do you believe him?", "bn": "তুমি কি তাকে বিশ্বাস করো?" }
+    ],
+    "moreexample": [
+      { "en": "She believes in honesty.", "bn": "সে সততায় বিশ্বাস করে।" },
+      {
+        "en": "He didn’t believe the story.",
+        "bn": "সে গল্পটি বিশ্বাস করেনি।"
+      },
+      {
+        "en": "They believe in teamwork.",
+        "bn": "তারা দলগত কাজে বিশ্বাস করে।"
+      },
+      {
+        "en": "I believe you can do it.",
+        "bn": "আমি বিশ্বাস করি তুমি এটা করতে পারবে।"
+      },
+      {
+        "en": "She believes everything she hears.",
+        "bn": "সে যা শোনে সব বিশ্বাস করে।"
+      },
+      { "en": "He believes in himself.", "bn": "সে নিজের উপর বিশ্বাস করে।" },
+      { "en": "We believe in science.", "bn": "আমরা বিজ্ঞানে বিশ্বাস করি।" },
+      { "en": "Do you believe in ghosts?", "bn": "তুমি কি ভূতে বিশ্বাস করো?" },
+      { "en": "She believes the news.", "bn": "সে খবরটি বিশ্বাস করে।" },
+      { "en": "They believe in change.", "bn": "তারা পরিবর্তনে বিশ্বাস করে।" }
+    ],
+    "synonyms": ["trust", "accept"]
+  },
+
+  {
+    "base": "between",
+    "phonetic": "bɪˈtwiːn",
+    "meaning": "মাঝে",
+    "examples": [
+      {
+        "en": "The shop is between two buildings.",
+        "bn": "দোকানটি দুই ভবনের মাঝে।"
+      },
+      {
+        "en": "Choose between tea and coffee.",
+        "bn": "চা আর কফির মাঝে একটি বেছে নাও।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The river flows between the hills.",
+        "bn": "নদীটি পাহাড়ের মাঝে প্রবাহিত হয়।"
+      },
+      {
+        "en": "He sat between his friends.",
+        "bn": "সে তার বন্ধুদের মাঝে বসেছিল।"
+      },
+      {
+        "en": "There is no difference between them.",
+        "bn": "তাদের মাঝে কোনো পার্থক্য নেই।"
+      },
+      {
+        "en": "The fight is between two teams.",
+        "bn": "লড়াইটি দুই দলের মাঝে।"
+      },
+      { "en": "She stood between the crowd.", "bn": "সে ভিড়ের মাঝে দাঁড়াল।" },
+      {
+        "en": "The time between classes is short.",
+        "bn": "ক্লাসের মাঝে সময় কম।"
+      },
+      {
+        "en": "He divided the money between them.",
+        "bn": "সে তাদের মাঝে টাকা ভাগ করল।"
+      },
+      { "en": "The bridge is between cities.", "bn": "সেতুটি শহরের মাঝে।" },
+      { "en": "The secret is between us.", "bn": "রহস্যটি আমাদের মাঝে।" },
+      {
+        "en": "She chose between two options.",
+        "bn": "সে দুই বিকল্পের মাঝে একটি বেছে নিল।"
+      }
+    ],
+    "synonyms": ["among", "in the middle"]
+  },
+
+  {
+    "base": "bitter",
+    "phonetic": "ˈbɪtər",
+    "meaning": "তিক্ত",
+    "examples": [
+      { "en": "The medicine tastes bitter.", "bn": "ওষুধটি তিক্ত স্বাদের।" },
+      {
+        "en": "He felt bitter after losing.",
+        "bn": "হারার পর সে তিক্ত অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The coffee is too bitter.", "bn": "কফিটি খুব তিক্ত।" },
+      { "en": "She gave a bitter smile.", "bn": "সে একটি তিক্ত হাসি দিল।" },
+      { "en": "He has bitter memories.", "bn": "তার তিক্ত স্মৃতি আছে।" },
+      { "en": "The fruit tastes bitter.", "bn": "ফলটি তিক্ত স্বাদের।" },
+      {
+        "en": "They had a bitter argument.",
+        "bn": "তাদের একটি তিক্ত তর্ক হয়েছিল।"
+      },
+      { "en": "The truth was bitter.", "bn": "সত্যটি তিক্ত ছিল।" },
+      { "en": "She felt bitter inside.", "bn": "সে ভিতরে তিক্ত অনুভব করল।" },
+      { "en": "The experience was bitter.", "bn": "অভিজ্ঞতাটি তিক্ত ছিল।" },
+      { "en": "He spoke in a bitter tone.", "bn": "সে তিক্ত সুরে কথা বলল।" },
+      {
+        "en": "The medicine is bitter but useful.",
+        "bn": "ওষুধটি তিক্ত কিন্তু উপকারী।"
+      }
+    ],
+    "synonyms": ["sour", "harsh"]
+  },
+
+  {
+    "base": "blame",
+    "phonetic": "bleɪm",
+    "meaning": "দোষ দেওয়া",
+    "examples": [
+      {
+        "en": "Don’t blame others for your mistake.",
+        "bn": "তোমার ভুলের জন্য অন্যকে দোষ দিও না।"
+      },
+      {
+        "en": "He blamed me for the accident.",
+        "bn": "সে দুর্ঘটনার জন্য আমাকে দোষ দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She blamed herself for the failure.",
+        "bn": "সে ব্যর্থতার জন্য নিজেকে দোষ দিল।"
+      },
+      { "en": "They blamed the weather.", "bn": "তারা আবহাওয়াকে দোষ দিল।" },
+      {
+        "en": "He was blamed unfairly.",
+        "bn": "তাকে অন্যায়ভাবে দোষ দেওয়া হয়েছিল।"
+      },
+      { "en": "Don’t blame the system.", "bn": "সিস্টেমকে দোষ দিও না।" },
+      {
+        "en": "She blamed him for being late.",
+        "bn": "সে দেরির জন্য তাকে দোষ দিল।"
+      },
+      {
+        "en": "The teacher blamed the students.",
+        "bn": "শিক্ষক শিক্ষার্থীদের দোষ দিলেন।"
+      },
+      { "en": "He blamed his luck.", "bn": "সে তার ভাগ্যকে দোষ দিল।" },
+      { "en": "They blamed each other.", "bn": "তারা একে অপরকে দোষ দিল।" },
+      {
+        "en": "She refused to blame anyone.",
+        "bn": "সে কাউকে দোষ দিতে অস্বীকার করল।"
+      },
+      {
+        "en": "The manager blamed the delay.",
+        "bn": "ম্যানেজার দেরির জন্য দোষ দিলেন।"
+      }
+    ],
+    "synonyms": ["accuse", "criticize"]
+  },
+
+  {
+    "base": "blood",
+    "phonetic": "blʌd",
+    "meaning": "রক্ত",
+    "examples": [
+      {
+        "en": "Blood flows through the body.",
+        "bn": "রক্ত শরীরের মধ্যে প্রবাহিত হয়।"
+      },
+      { "en": "He donated blood.", "bn": "সে রক্ত দান করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The wound started to bleed blood.",
+        "bn": "ক্ষত থেকে রক্ত বের হতে শুরু করল।"
+      },
+      {
+        "en": "Blood is essential for life.",
+        "bn": "রক্ত জীবনের জন্য অপরিহার্য।"
+      },
+      { "en": "They tested his blood.", "bn": "তারা তার রক্ত পরীক্ষা করল।" },
+      { "en": "She lost a lot of blood.", "bn": "সে অনেক রক্ত হারিয়েছে।" },
+      { "en": "Blood pressure was normal.", "bn": "রক্তচাপ স্বাভাবিক ছিল।" },
+      {
+        "en": "The doctor checked his blood.",
+        "bn": "ডাক্তার তার রক্ত পরীক্ষা করলেন।"
+      },
+      { "en": "Blood donation saves lives.", "bn": "রক্তদান জীবন বাঁচায়।" },
+      { "en": "He saw blood on the floor.", "bn": "সে মেঝেতে রক্ত দেখল।" },
+      { "en": "The injury caused blood loss.", "bn": "আঘাতে রক্তক্ষরণ হলো।" },
+      {
+        "en": "Blood circulation is important.",
+        "bn": "রক্ত সঞ্চালন গুরুত্বপূর্ণ।"
+      }
+    ],
+    "synonyms": ["life fluid", "plasma"]
   }
 ]

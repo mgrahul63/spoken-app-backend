@@ -20,5 +20,1098 @@
       { "en": "She didn't come either.", "bn": "" }
     ],
     "synonyms": ["any", "one or the other", "both", "each", "whichever"]
+  },
+
+  {
+    "base": "exist",
+    "phonetic": "ɪɡˈzɪst",
+    "meaning": "অস্তিত্ব থাকা",
+    "examples": [
+      { "en": "Do aliens exist?", "bn": "এলিয়েন কি সত্যিই আছে?" },
+      {
+        "en": "This problem exists in many countries.",
+        "bn": "এই সমস্যা অনেক দেশে আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Good ideas exist everywhere.",
+        "bn": "ভালো ধারণা সর্বত্রই আছে।"
+      },
+      {
+        "en": "Love exists in many forms.",
+        "bn": "ভালোবাসা অনেক রূপে বিদ্যমান।"
+      },
+      { "en": "Problems still exist.", "bn": "সমস্যা এখনো আছে।" },
+      { "en": "Does life exist on Mars?", "bn": "মার্সে কি জীবন আছে?" },
+      { "en": "The tradition still exists.", "bn": "ঐতিহ্যটি এখনো আছে।" },
+      { "en": "Fear exists in everyone.", "bn": "ভয় সবার মধ্যেই আছে।" }
+    ],
+    "synonyms": ["be", "live"]
+  },
+
+  {
+    "base": "empty",
+    "phonetic": "ˈempti",
+    "meaning": "খালি",
+    "examples": [
+      { "en": "The room is empty.", "bn": "ঘরটি খালি।" },
+      { "en": "He emptied the bottle.", "bn": "সে বোতলটি খালি করল।" }
+    ],
+    "moreexample": [
+      { "en": "The box is empty.", "bn": "বাক্সটি খালি।" },
+      { "en": "Her mind felt empty.", "bn": "তার মন খালি লাগছিল।" },
+      { "en": "The street was empty.", "bn": "রাস্তাটি খালি ছিল।" },
+      { "en": "He left the cup empty.", "bn": "সে কাপটি খালি রেখে দিল।" },
+      { "en": "The tank is empty.", "bn": "ট্যাঙ্কটি খালি।" },
+      { "en": "She felt empty inside.", "bn": "তার ভেতরটা খালি লাগছিল।" }
+    ],
+    "synonyms": ["vacant", "hollow"]
+  },
+
+  {
+    "base": "exact",
+    "phonetic": "ɪɡˈzækt",
+    "meaning": "নির্ভুল / সঠিক",
+    "examples": [
+      { "en": "Give me the exact time.", "bn": "ঠিক সময়টা বলো।" },
+      { "en": "This is the exact location.", "bn": "এটাই সঠিক স্থান।" }
+    ],
+    "moreexample": [
+      { "en": "He knows the exact answer.", "bn": "সে সঠিক উত্তর জানে।" },
+      { "en": "The exact date is unknown.", "bn": "ঠিক তারিখ অজানা।" },
+      { "en": "She gave exact details.", "bn": "সে নির্ভুল বিবরণ দিল।" },
+      { "en": "We need exact data.", "bn": "আমাদের সঠিক তথ্য দরকার।" },
+      { "en": "That is the exact word.", "bn": "এটাই ঠিক শব্দ।" },
+      { "en": "The result is exact.", "bn": "ফলাফল নির্ভুল।" }
+    ],
+    "synonyms": ["precise", "accurate"]
+  },
+
+  {
+    "base": "effort",
+    "phonetic": "ˈefərt",
+    "meaning": "প্রচেষ্টা",
+    "examples": [
+      { "en": "He made a great effort.", "bn": "সে অনেক চেষ্টা করল।" },
+      { "en": "Success needs effort.", "bn": "সাফল্যের জন্য প্রচেষ্টা দরকার।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She put effort into study.",
+        "bn": "সে পড়াশোনায় প্রচেষ্টা দিল।"
+      },
+      { "en": "They tried without effort.", "bn": "তারা সহজেই চেষ্টা করল।" },
+      { "en": "Hard work means effort.", "bn": "কঠোর পরিশ্রম মানে প্রচেষ্টা।" },
+      { "en": "He showed effort.", "bn": "সে প্রচেষ্টা দেখাল।" },
+      { "en": "We need more effort.", "bn": "আমাদের আরও প্রচেষ্টা দরকার।" },
+      {
+        "en": "Effort leads to success.",
+        "bn": "প্রচেষ্টা সাফল্যের দিকে নিয়ে যায়।"
+      }
+    ],
+    "synonyms": ["attempt", "work"]
+  },
+
+  {
+    "base": "enter",
+    "phonetic": "ˈentər",
+    "meaning": "প্রবেশ করা",
+    "examples": [
+      { "en": "Enter the room quietly.", "bn": "চুপচাপ ঘরে প্রবেশ করো।" },
+      {
+        "en": "She entered the competition.",
+        "bn": "সে প্রতিযোগিতায় অংশ নিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He entered the building.", "bn": "সে ভবনে প্রবেশ করল।" },
+      { "en": "They entered the market.", "bn": "তারা বাজারে প্রবেশ করল।" },
+      { "en": "Enter your password.", "bn": "তোমার পাসওয়ার্ড প্রবেশ করাও।" },
+      { "en": "She entered the stage.", "bn": "সে মঞ্চে প্রবেশ করল।" },
+      { "en": "We entered the city.", "bn": "আমরা শহরে প্রবেশ করলাম।" },
+      { "en": "He entered the system.", "bn": "সে সিস্টেমে প্রবেশ করল।" }
+    ],
+    "synonyms": ["go in", "join"]
+  },
+
+  {
+    "base": "excellent",
+    "phonetic": "ˈeksələnt",
+    "meaning": "চমৎকার",
+    "examples": [
+      {
+        "en": "She is an excellent student.",
+        "bn": "সে একজন চমৎকার শিক্ষার্থী।"
+      },
+      { "en": "The food was excellent.", "bn": "খাবারটি চমৎকার ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "He did an excellent job.", "bn": "সে চমৎকার কাজ করল।" },
+      { "en": "The movie was excellent.", "bn": "সিনেমাটি চমৎকার ছিল।" },
+      { "en": "They gave excellent service.", "bn": "তারা চমৎকার সেবা দিল।" },
+      {
+        "en": "Her performance was excellent.",
+        "bn": "তার পারফরম্যান্স চমৎকার ছিল।"
+      },
+      { "en": "This is excellent news.", "bn": "এটি চমৎকার খবর।" },
+      { "en": "He has excellent skills.", "bn": "তার চমৎকার দক্ষতা আছে।" }
+    ],
+    "synonyms": ["great", "outstanding"]
+  },
+
+  {
+    "base": "earn",
+    "phonetic": "ɜːrn",
+    "meaning": "আয় করা",
+    "examples": [
+      { "en": "He earns money online.", "bn": "সে অনলাইনে টাকা আয় করে।" },
+      { "en": "She earned respect.", "bn": "সে সম্মান অর্জন করল।" }
+    ],
+    "moreexample": [
+      { "en": "They earn a salary.", "bn": "তারা বেতন আয় করে।" },
+      { "en": "He earned a degree.", "bn": "সে একটি ডিগ্রি অর্জন করল।" },
+      { "en": "She earns daily income.", "bn": "সে দৈনিক আয় করে।" },
+      { "en": "We earn rewards.", "bn": "আমরা পুরস্কার অর্জন করি।" },
+      { "en": "He earned trust.", "bn": "সে বিশ্বাস অর্জন করল।" },
+      { "en": "They earn profits.", "bn": "তারা লাভ আয় করে।" }
+    ],
+    "synonyms": ["gain", "make"]
+  },
+
+  {
+    "base": "earthquake",
+    "phonetic": "ˈɜːrθkweɪk",
+    "meaning": "ভূমিকম্প",
+    "examples": [
+      {
+        "en": "The earthquake destroyed buildings.",
+        "bn": "ভূমিকম্প ভবন ধ্বংস করল।"
+      },
+      { "en": "We felt the earthquake.", "bn": "আমরা ভূমিকম্প অনুভব করলাম।" }
+    ],
+    "moreexample": [
+      { "en": "The earthquake was strong.", "bn": "ভূমিকম্পটি শক্তিশালী ছিল।" },
+      {
+        "en": "People ran during the earthquake.",
+        "bn": "মানুষ ভূমিকম্পের সময় দৌড়ে পালাল।"
+      },
+      {
+        "en": "The earthquake hit at night.",
+        "bn": "ভূমিকম্প রাতে আঘাত হেনেছিল।"
+      },
+      {
+        "en": "Many cities face earthquakes.",
+        "bn": "অনেক শহর ভূমিকম্পের মুখোমুখি হয়।"
+      },
+      { "en": "The earthquake caused damage.", "bn": "ভূমিকম্প ক্ষতি করেছে।" },
+      {
+        "en": "They survived the earthquake.",
+        "bn": "তারা ভূমিকম্প থেকে বেঁচে গেল।"
+      }
+    ],
+    "synonyms": ["tremor", "quake"]
+  },
+
+  {
+    "base": "effective",
+    "phonetic": "ɪˈfektɪv",
+    "meaning": "কার্যকর",
+    "examples": [
+      { "en": "This method is effective.", "bn": "এই পদ্ধতিটি কার্যকর।" },
+      { "en": "The medicine is effective.", "bn": "ওষুধটি কার্যকর।" }
+    ],
+    "moreexample": [
+      { "en": "He gave effective advice.", "bn": "সে কার্যকর পরামর্শ দিল।" },
+      { "en": "The plan is effective.", "bn": "পরিকল্পনাটি কার্যকর।" },
+      { "en": "She is very effective.", "bn": "সে খুব কার্যকর।" },
+      { "en": "The system is effective.", "bn": "সিস্টেমটি কার্যকর।" },
+      { "en": "Training was effective.", "bn": "প্রশিক্ষণ কার্যকর ছিল।" },
+      { "en": "The solution is effective.", "bn": "সমাধানটি কার্যকর।" }
+    ],
+    "synonyms": ["useful", "efficient"]
+  },
+
+  {
+    "base": "eliminate",
+    "phonetic": "ɪˈlɪmɪneɪt",
+    "meaning": "বাতিল করা / দূর করা",
+    "examples": [
+      { "en": "We must eliminate errors.", "bn": "আমাদের ভুল দূর করতে হবে।" },
+      { "en": "The team was eliminated.", "bn": "দলটি বাদ পড়ল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Eliminate unnecessary steps.",
+        "bn": "অপ্রয়োজনীয় ধাপগুলো বাদ দাও।"
+      },
+      { "en": "They eliminated the problem.", "bn": "তারা সমস্যাটি দূর করল।" },
+      {
+        "en": "He was eliminated from the race.",
+        "bn": "সে প্রতিযোগিতা থেকে বাদ পড়ল।"
+      },
+      { "en": "The virus was eliminated.", "bn": "ভাইরাসটি দূর করা হয়েছে।" },
+      { "en": "We eliminated doubts.", "bn": "আমরা সন্দেহ দূর করলাম।" },
+      {
+        "en": "Bad habits should be eliminated.",
+        "bn": "খারাপ অভ্যাস দূর করা উচিত।"
+      }
+    ],
+    "synonyms": ["remove", "delete"]
+  },
+
+  {
+    "base": "enable",
+    "phonetic": "ɪˈneɪbl",
+    "meaning": "সক্ষম করা",
+    "examples": [
+      {
+        "en": "This app enables learning.",
+        "bn": "এই অ্যাপ শেখাকে সক্ষম করে।"
+      },
+      {
+        "en": "It enables fast communication.",
+        "bn": "এটি দ্রুত যোগাযোগ সক্ষম করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Technology enables progress.",
+        "bn": "প্রযুক্তি অগ্রগতি সক্ষম করে।"
+      },
+      {
+        "en": "The tool enables automation.",
+        "bn": "টুলটি অটোমেশন সক্ষম করে।"
+      },
+      {
+        "en": "It enables students to learn.",
+        "bn": "এটি শিক্ষার্থীদের শেখা সক্ষম করে।"
+      },
+      {
+        "en": "This system enables control.",
+        "bn": "এই সিস্টেম নিয়ন্ত্রণ সক্ষম করে।"
+      },
+      { "en": "She enabled the feature.", "bn": "সে ফিচারটি সক্রিয় করল।" },
+      { "en": "It enables access.", "bn": "এটি প্রবেশাধিকার সক্ষম করে।" }
+    ],
+    "synonyms": ["allow", "empower"]
+  },
+
+  {
+    "base": "enhance",
+    "phonetic": "ɪnˈhæns",
+    "meaning": "উন্নত করা",
+    "examples": [
+      {
+        "en": "This software enhances performance.",
+        "bn": "এই সফটওয়্যার পারফরম্যান্স উন্নত করে।"
+      },
+      { "en": "She enhanced her skills.", "bn": "সে তার দক্ষতা উন্নত করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The filter enhances image quality.",
+        "bn": "ফিল্টার ছবির মান উন্নত করে।"
+      },
+      { "en": "Practice enhances ability.", "bn": "অনুশীলন দক্ষতা বাড়ায়।" },
+      { "en": "They enhanced the system.", "bn": "তারা সিস্টেম উন্নত করল।" },
+      { "en": "This feature enhances speed.", "bn": "এই ফিচার গতি বাড়ায়।" },
+      { "en": "Music enhances mood.", "bn": "সঙ্গীত মেজাজ উন্নত করে।" },
+      { "en": "We enhanced the design.", "bn": "আমরা ডিজাইন উন্নত করলাম।" }
+    ],
+    "synonyms": ["improve", "upgrade"]
+  },
+
+  {
+    "base": "estimate",
+    "phonetic": "ˈestɪmeɪt",
+    "meaning": "আনুমান করা",
+    "examples": [
+      { "en": "I estimate the cost.", "bn": "আমি খরচ অনুমান করি।" },
+      { "en": "They estimated the time.", "bn": "তারা সময় অনুমান করল।" }
+    ],
+    "moreexample": [
+      { "en": "We estimate the budget.", "bn": "আমরা বাজেট অনুমান করি।" },
+      { "en": "He estimated the distance.", "bn": "সে দূরত্ব অনুমান করল।" },
+      {
+        "en": "The project is estimated high.",
+        "bn": "প্রজেক্টটি বেশি অনুমান করা হয়েছে।"
+      },
+      { "en": "She estimated the result.", "bn": "সে ফলাফল অনুমান করল।" },
+      { "en": "They estimated losses.", "bn": "তারা ক্ষতি অনুমান করল।" },
+      { "en": "We estimated demand.", "bn": "আমরা চাহিদা অনুমান করলাম।" }
+    ],
+    "synonyms": ["guess", "predict"]
+  },
+
+  {
+    "base": "escape",
+    "phonetic": "ɪˈskeɪp",
+    "meaning": "পালানো",
+    "examples": [
+      { "en": "He escaped from danger.", "bn": "সে বিপদ থেকে পালাল।" },
+      { "en": "They escaped the fire.", "bn": "তারা আগুন থেকে পালাল।" }
+    ],
+    "moreexample": [
+      { "en": "The prisoner escaped.", "bn": "বন্দি পালিয়ে গেল।" },
+      { "en": "She escaped injury.", "bn": "সে আঘাত থেকে বেঁচে গেল।" },
+      { "en": "They escaped quickly.", "bn": "তারা দ্রুত পালাল।" },
+      { "en": "He escaped punishment.", "bn": "সে শাস্তি থেকে রেহাই পেল।" },
+      { "en": "The animal escaped.", "bn": "প্রাণীটি পালিয়ে গেল।" },
+      { "en": "We escaped the crowd.", "bn": "আমরা ভিড় থেকে পালালাম।" }
+    ],
+    "synonyms": ["flee", "run away"]
+  },
+
+  {
+    "base": "expand",
+    "phonetic": "ɪkˈspænd",
+    "meaning": "বিস্তার করা",
+    "examples": [
+      {
+        "en": "The company expanded quickly.",
+        "bn": "কোম্পানিটি দ্রুত বিস্তার করল।"
+      },
+      { "en": "Gas expands when heated.", "bn": "গ্যাস গরম হলে প্রসারিত হয়।" }
+    ],
+    "moreexample": [
+      { "en": "We expanded the business.", "bn": "আমরা ব্যবসা বিস্তার করলাম।" },
+      { "en": "The city is expanding.", "bn": "শহরটি বিস্তার করছে।" },
+      { "en": "They expanded production.", "bn": "তারা উৎপাদন বাড়াল।" },
+      { "en": "His knowledge expanded.", "bn": "তার জ্ঞান বিস্তার পেল।" },
+      { "en": "The universe expands.", "bn": "মহাবিশ্ব প্রসারিত হয়।" },
+      { "en": "She expanded her skills.", "bn": "সে তার দক্ষতা বাড়াল।" }
+    ],
+    "synonyms": ["increase", "grow"]
+  },
+
+  {
+    "base": "express",
+    "phonetic": "ɪkˈspres",
+    "meaning": "প্রকাশ করা",
+    "examples": [
+      { "en": "He expressed his opinion.", "bn": "সে তার মতামত প্রকাশ করল।" },
+      { "en": "She expressed happiness.", "bn": "সে আনন্দ প্রকাশ করল।" }
+    ],
+    "moreexample": [
+      { "en": "They expressed concern.", "bn": "তারা উদ্বেগ প্রকাশ করল।" },
+      { "en": "He expressed love.", "bn": "সে ভালোবাসা প্রকাশ করল।" },
+      { "en": "She expressed feelings.", "bn": "সে অনুভূতি প্রকাশ করল।" },
+      { "en": "We expressed ideas.", "bn": "আমরা ধারণা প্রকাশ করলাম।" },
+      {
+        "en": "The artist expresses emotion.",
+        "bn": "শিল্পী অনুভূতি প্রকাশ করে।"
+      },
+      { "en": "They expressed gratitude.", "bn": "তারা কৃতজ্ঞতা প্রকাশ করল।" }
+    ],
+    "synonyms": ["show", "state"]
+  },
+
+  {
+    "base": "enforce",
+    "phonetic": "ɪnˈfɔːrs",
+    "meaning": "প্রয়োগ করা / বাধ্য করা",
+    "examples": [
+      { "en": "The police enforce the law.", "bn": "পুলিশ আইন প্রয়োগ করে।" },
+      { "en": "Rules must be enforced.", "bn": "নিয়ম প্রয়োগ করতে হবে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They enforce strict rules.",
+        "bn": "তারা কঠোর নিয়ম প্রয়োগ করে।"
+      },
+      {
+        "en": "The teacher enforces discipline.",
+        "bn": "শিক্ষক শৃঙ্খলা প্রয়োগ করেন।"
+      },
+      {
+        "en": "Laws are enforced equally.",
+        "bn": "আইন সমানভাবে প্রয়োগ করা হয়।"
+      },
+      { "en": "He enforced the decision.", "bn": "সে সিদ্ধান্ত প্রয়োগ করল।" },
+      {
+        "en": "The system enforces security.",
+        "bn": "সিস্টেম নিরাপত্তা প্রয়োগ করে।"
+      },
+      { "en": "They enforce regulations.", "bn": "তারা নিয়মাবলী প্রয়োগ করে।" }
+    ],
+    "synonyms": ["implement", "apply"]
+  },
+
+  {
+    "base": "envision",
+    "phonetic": "ɪnˈvɪʒən",
+    "meaning": "কল্পনা করা",
+    "examples": [
+      { "en": "She envisions success.", "bn": "সে সাফল্য কল্পনা করে।" },
+      {
+        "en": "They envision a better future.",
+        "bn": "তারা একটি ভালো ভবিষ্যৎ কল্পনা করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He envisioned a new system.",
+        "bn": "সে একটি নতুন সিস্টেম কল্পনা করল।"
+      },
+      { "en": "We envision growth.", "bn": "আমরা উন্নতি কল্পনা করি।" },
+      {
+        "en": "The leader envisioned change.",
+        "bn": "নেতা পরিবর্তন কল্পনা করলেন।"
+      },
+      { "en": "She envisions peace.", "bn": "সে শান্তি কল্পনা করে।" },
+      {
+        "en": "They envisioned success together.",
+        "bn": "তারা একসাথে সাফল্য কল্পনা করল।"
+      },
+      { "en": "He envisions progress.", "bn": "সে অগ্রগতি কল্পনা করে।" }
+    ],
+    "synonyms": ["imagine", "picture"]
+  },
+
+  {
+    "base": "equip",
+    "phonetic": "ɪˈkwɪp",
+    "meaning": "সজ্জিত করা",
+    "examples": [
+      { "en": "They equipped the room.", "bn": "তারা ঘরটি সজ্জিত করল।" },
+      { "en": "She is well equipped.", "bn": "সে ভালোভাবে সজ্জিত।" }
+    ],
+    "moreexample": [
+      {
+        "en": "We equip students with skills.",
+        "bn": "আমরা শিক্ষার্থীদের দক্ষতা দিই।"
+      },
+      {
+        "en": "The team was equipped well.",
+        "bn": "দলটি ভালোভাবে সজ্জিত ছিল।"
+      },
+      { "en": "He equipped the lab.", "bn": "সে ল্যাব সজ্জিত করল।" },
+      { "en": "They equipped the car.", "bn": "তারা গাড়িটি সজ্জিত করল।" },
+      {
+        "en": "She equips herself for exams.",
+        "bn": "সে পরীক্ষার জন্য নিজেকে প্রস্তুত করে।"
+      },
+      { "en": "The army is equipped.", "bn": "সেনাবাহিনী সজ্জিত।" }
+    ],
+    "synonyms": ["prepare", "arm"]
+  },
+
+  {
+    "base": "establish",
+    "phonetic": "ɪˈstæblɪʃ",
+    "meaning": "প্রতিষ্ঠা করা",
+    "examples": [
+      {
+        "en": "They established a company.",
+        "bn": "তারা একটি কোম্পানি প্রতিষ্ঠা করল।"
+      },
+      { "en": "The rule is well established.", "bn": "নিয়মটি সুপ্রতিষ্ঠিত।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He established a school.",
+        "bn": "সে একটি স্কুল প্রতিষ্ঠা করল।"
+      },
+      { "en": "We established trust.", "bn": "আমরা বিশ্বাস প্রতিষ্ঠা করলাম।" },
+      {
+        "en": "The system was established.",
+        "bn": "সিস্টেমটি প্রতিষ্ঠিত হলো।"
+      },
+      { "en": "She established rules.", "bn": "সে নিয়ম প্রতিষ্ঠা করল।" },
+      { "en": "They established peace.", "bn": "তারা শান্তি প্রতিষ্ঠা করল।" },
+      {
+        "en": "The company was established in 2000.",
+        "bn": "কোম্পানিটি ২০০০ সালে প্রতিষ্ঠিত হয়।"
+      }
+    ],
+    "synonyms": ["found", "create"]
+  },
+
+  {
+    "base": "elaborate",
+    "phonetic": "ɪˈlæbəreɪt",
+    "meaning": "বিস্তারিত ব্যাখ্যা করা",
+    "examples": [
+      {
+        "en": "He elaborated his idea.",
+        "bn": "সে তার ধারণা বিস্তারিত ব্যাখ্যা করল।"
+      },
+      {
+        "en": "Please elaborate the plan.",
+        "bn": "দয়া করে পরিকল্পনাটি বিস্তারিত বলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She elaborated the topic.",
+        "bn": "সে বিষয়টি বিস্তারিত ব্যাখ্যা করল।"
+      },
+      {
+        "en": "They elaborated the design.",
+        "bn": "তারা ডিজাইনটি বিস্তারিত করল।"
+      },
+      { "en": "He elaborated further.", "bn": "সে আরও বিস্তারিত বলল।" },
+      {
+        "en": "We elaborated the strategy.",
+        "bn": "আমরা কৌশলটি বিস্তারিত করলাম।"
+      },
+      {
+        "en": "The teacher elaborated clearly.",
+        "bn": "শিক্ষক স্পষ্টভাবে ব্যাখ্যা করলেন।"
+      },
+      {
+        "en": "She elaborated her thoughts.",
+        "bn": "সে তার চিন্তা বিস্তারিত বলল।"
+      }
+    ],
+    "synonyms": ["explain", "expand"]
+  },
+
+  {
+    "base": "encounter",
+    "phonetic": "ɪnˈkaʊntər",
+    "meaning": "মুখোমুখি হওয়া",
+    "examples": [
+      {
+        "en": "He encountered a problem.",
+        "bn": "সে একটি সমস্যার মুখোমুখি হলো।"
+      },
+      {
+        "en": "They encountered difficulties.",
+        "bn": "তারা সমস্যার মুখোমুখি হলো।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She encountered danger.", "bn": "সে বিপদের মুখোমুখি হলো।" },
+      { "en": "We encountered obstacles.", "bn": "আমরা বাধার মুখোমুখি হলাম।" },
+      {
+        "en": "He encountered strangers.",
+        "bn": "সে অপরিচিতদের মুখোমুখি হলো।"
+      },
+      {
+        "en": "They encountered resistance.",
+        "bn": "তারা প্রতিরোধের মুখোমুখি হলো।"
+      },
+      { "en": "She encountered success.", "bn": "সে সাফল্যের মুখোমুখি হলো।" },
+      { "en": "We encountered errors.", "bn": "আমরা ত্রুটির মুখোমুখি হলাম।" }
+    ],
+    "synonyms": ["meet", "face"]
+  },
+
+  {
+    "base": "elapse",
+    "phonetic": "ɪˈlæps",
+    "meaning": "সময় অতিক্রম করা",
+    "examples": [
+      { "en": "Two hours elapsed quickly.", "bn": "দুই ঘণ্টা দ্রুত কেটে গেল।" },
+      {
+        "en": "Time elapses slowly when waiting.",
+        "bn": "অপেক্ষার সময় ধীরে কাটে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Several days elapsed.", "bn": "কয়েক দিন কেটে গেল।" },
+      { "en": "A year has elapsed.", "bn": "এক বছর অতিক্রান্ত হয়েছে।" },
+      {
+        "en": "Time elapsed during the test.",
+        "bn": "পরীক্ষার সময় কেটে গেল।"
+      },
+      {
+        "en": "Hours elapsed without result.",
+        "bn": "ঘণ্টা কেটে গেল কোনো ফল ছাড়াই।"
+      },
+      { "en": "Little time elapsed.", "bn": "অল্প সময় কেটে গেল।" },
+      { "en": "The moment elapses quickly.", "bn": "মুহূর্ত দ্রুত কেটে যায়।" }
+    ],
+    "synonyms": ["pass", "go by"]
+  },
+
+  {
+    "base": "embed",
+    "phonetic": "ɪmˈbed",
+    "meaning": "স্থাপন করা / বসানো",
+    "examples": [
+      {
+        "en": "The stone was embedded in the wall.",
+        "bn": "পাথরটি দেয়ালে বসানো ছিল।"
+      },
+      {
+        "en": "He embedded the chip in the device.",
+        "bn": "সে ডিভাইসে চিপ বসাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The memory is embedded in mind.",
+        "bn": "স্মৃতি মনে গেঁথে আছে।"
+      },
+      {
+        "en": "They embedded sensors in the machine.",
+        "bn": "তারা মেশিনে সেন্সর বসাল।"
+      },
+      {
+        "en": "The idea is deeply embedded.",
+        "bn": "ধারণাটি গভীরভাবে গেঁথে আছে।"
+      },
+      {
+        "en": "Images are embedded in the page.",
+        "bn": "ছবিগুলো পাতায় বসানো আছে।"
+      },
+      {
+        "en": "The code is embedded in software.",
+        "bn": "কোড সফটওয়্যারে বসানো আছে।"
+      },
+      {
+        "en": "Culture is embedded in society.",
+        "bn": "সংস্কৃতি সমাজে গেঁথে আছে।"
+      }
+    ],
+    "synonyms": ["insert", "fix"]
+  },
+
+  {
+    "base": "endure",
+    "phonetic": "ɪnˈdjʊr",
+    "meaning": "সহ্য করা",
+    "examples": [
+      { "en": "He endured pain.", "bn": "সে ব্যথা সহ্য করল।" },
+      { "en": "They endured hardship.", "bn": "তারা কষ্ট সহ্য করল।" }
+    ],
+    "moreexample": [
+      { "en": "She endured long waiting.", "bn": "সে দীর্ঘ অপেক্ষা সহ্য করল।" },
+      { "en": "We endured the storm.", "bn": "আমরা ঝড় সহ্য করলাম।" },
+      { "en": "He endured criticism.", "bn": "সে সমালোচনা সহ্য করল।" },
+      { "en": "They endured suffering.", "bn": "তারা কষ্ট সহ্য করল।" },
+      { "en": "The structure endured damage.", "bn": "গঠনটি ক্ষতি সহ্য করল।" },
+      { "en": "She endured pressure.", "bn": "সে চাপ সহ্য করল।" }
+    ],
+    "synonyms": ["tolerate", "bear"]
+  },
+
+  {
+    "base": "enlighten",
+    "phonetic": "ɪnˈlaɪtn",
+    "meaning": "জ্ঞান প্রদান করা",
+    "examples": [
+      {
+        "en": "The teacher enlightened students.",
+        "bn": "শিক্ষক শিক্ষার্থীদের জ্ঞান দিলেন।"
+      },
+      { "en": "This book enlightened me.", "bn": "এই বই আমাকে জ্ঞান দিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "He enlightened the audience.", "bn": "সে শ্রোতাদের জ্ঞান দিল।" },
+      { "en": "The lecture enlightened us.", "bn": "লেকচার আমাদের জ্ঞান দিল।" },
+      { "en": "She enlightened the topic.", "bn": "সে বিষয়টি পরিষ্কার করল।" },
+      { "en": "They enlightened society.", "bn": "তারা সমাজকে জ্ঞান দিল।" },
+      {
+        "en": "The article enlightened readers.",
+        "bn": "নিবন্ধটি পাঠকদের জ্ঞান দিল।"
+      },
+      { "en": "Truth enlightened him.", "bn": "সত্য তাকে জ্ঞান দিল।" }
+    ],
+    "synonyms": ["inform", "educate"]
+  },
+
+  {
+    "base": "evoke",
+    "phonetic": "ɪˈvoʊk",
+    "meaning": "উদ্রেক করা / মনে করিয়ে দেওয়া",
+    "examples": [
+      { "en": "The song evoked memories.", "bn": "গানটি স্মৃতি জাগিয়ে তুলল।" },
+      { "en": "It evokes emotion.", "bn": "এটি অনুভূতি জাগায়।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The smell evoked childhood.",
+        "bn": "গন্ধটি শৈশব মনে করিয়ে দিল।"
+      },
+      { "en": "The picture evoked sadness.", "bn": "ছবিটি দুঃখ জাগাল।" },
+      { "en": "It evoked strong feelings.", "bn": "এটি শক্ত অনুভূতি জাগাল।" },
+      { "en": "The story evoked fear.", "bn": "গল্পটি ভয় জাগাল।" },
+      { "en": "Music evoked joy.", "bn": "সঙ্গীত আনন্দ জাগায়।" },
+      { "en": "The place evoked memories.", "bn": "জায়গাটি স্মৃতি জাগাল।" }
+    ],
+    "synonyms": ["trigger", "recall"]
+  },
+
+  {
+    "base": "expose",
+    "phonetic": "ɪkˈspoʊz",
+    "meaning": "উন্মোচন করা",
+    "examples": [
+      {
+        "en": "The report exposed corruption.",
+        "bn": "রিপোর্ট দুর্নীতি প্রকাশ করল।"
+      },
+      { "en": "He was exposed to danger.", "bn": "সে বিপদের মুখে পড়ল।" }
+    ],
+    "moreexample": [
+      { "en": "The truth was exposed.", "bn": "সত্য প্রকাশিত হলো।" },
+      { "en": "She exposed the secret.", "bn": "সে গোপন বিষয় প্রকাশ করল।" },
+      { "en": "They exposed fraud.", "bn": "তারা প্রতারণা প্রকাশ করল।" },
+      {
+        "en": "He exposed himself to risk.",
+        "bn": "সে ঝুঁকির মুখে নিজেকে ফেলল।"
+      },
+      {
+        "en": "The media exposed the case.",
+        "bn": "মিডিয়া ঘটনাটি প্রকাশ করল।"
+      },
+      { "en": "Exposure to sun is harmful.", "bn": "সূর্যের সংস্পর্শ ক্ষতিকর।" }
+    ],
+    "synonyms": ["reveal", "uncover"]
+  },
+
+  {
+    "base": "eradicate",
+    "phonetic": "ɪˈrædɪkeɪt",
+    "meaning": "সম্পূর্ণভাবে নির্মূল করা",
+    "examples": [
+      {
+        "en": "We must eradicate poverty.",
+        "bn": "আমাদের দারিদ্র্য নির্মূল করতে হবে।"
+      },
+      {
+        "en": "The disease was eradicated.",
+        "bn": "রোগটি সম্পূর্ণ নির্মূল করা হয়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They eradicated corruption.",
+        "bn": "তারা দুর্নীতি নির্মূল করল।"
+      },
+      {
+        "en": "The virus was eradicated globally.",
+        "bn": "ভাইরাসটি বিশ্বব্যাপী নির্মূল হয়েছে।"
+      },
+      {
+        "en": "We aim to eradicate hunger.",
+        "bn": "আমরা ক্ষুধা নির্মূল করতে চাই।"
+      },
+      {
+        "en": "Efforts eradicated the problem.",
+        "bn": "প্রচেষ্টাগুলো সমস্যা নির্মূল করল।"
+      },
+      {
+        "en": "They try to eradicate illiteracy.",
+        "bn": "তারা নিরক্ষরতা নির্মূল করার চেষ্টা করে।"
+      },
+      {
+        "en": "The policy eradicated waste.",
+        "bn": "নীতিটি অপচয় নির্মূল করল।"
+      }
+    ],
+    "synonyms": ["eliminate", "wipe out"]
+  },
+
+  {
+    "base": "emerge",
+    "phonetic": "ɪˈmɜːrdʒ",
+    "meaning": "উদ্ভব হওয়া / বের হয়ে আসা",
+    "examples": [
+      { "en": "A new leader emerged.", "bn": "একজন নতুন নেতা উদ্ভব হলো।" },
+      { "en": "Truth emerged slowly.", "bn": "সত্য ধীরে ধীরে প্রকাশ পেল।" }
+    ],
+    "moreexample": [
+      { "en": "Problems emerged later.", "bn": "সমস্যাগুলো পরে প্রকাশ পেল।" },
+      { "en": "He emerged from the crowd.", "bn": "সে ভিড় থেকে বেরিয়ে এল।" },
+      { "en": "New ideas emerged.", "bn": "নতুন ধারণা উদ্ভব হলো।" },
+      { "en": "A solution emerged.", "bn": "একটি সমাধান বের হলো।" },
+      { "en": "She emerged victorious.", "bn": "সে বিজয়ী হয়ে উঠল।" },
+      { "en": "Hope emerged again.", "bn": "আশা আবার ফিরে এল।" }
+    ],
+    "synonyms": ["appear", "arise"]
+  },
+
+  {
+    "base": "embark",
+    "phonetic": "ɪmˈbɑːrk",
+    "meaning": "শুরু করা / যাত্রা শুরু করা",
+    "examples": [
+      {
+        "en": "They embarked on a journey.",
+        "bn": "তারা একটি যাত্রা শুরু করল।"
+      },
+      {
+        "en": "He embarked on a new project.",
+        "bn": "সে একটি নতুন প্রজেক্ট শুরু করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "We embarked on studies.", "bn": "আমরা পড়াশোনা শুরু করলাম।" },
+      {
+        "en": "She embarked on career change.",
+        "bn": "সে ক্যারিয়ার পরিবর্তন শুরু করল।"
+      },
+      {
+        "en": "They embarked on adventure.",
+        "bn": "তারা একটি অ্যাডভেঞ্চার শুরু করল।"
+      },
+      { "en": "He embarked on mission.", "bn": "সে মিশন শুরু করল।" },
+      { "en": "We embarked carefully.", "bn": "আমরা সতর্কভাবে শুরু করলাম।" },
+      { "en": "The team embarked together.", "bn": "দলটি একসাথে শুরু করল।" }
+    ],
+    "synonyms": ["begin", "start"]
+  },
+
+  {
+    "base": "endorse",
+    "phonetic": "ɪnˈdɔːrs",
+    "meaning": "সমর্থন করা",
+    "examples": [
+      { "en": "He endorsed the idea.", "bn": "সে ধারণাটি সমর্থন করল।" },
+      {
+        "en": "The actor endorsed the product.",
+        "bn": "অভিনেতা পণ্যটি সমর্থন করলেন।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She endorsed the plan.", "bn": "সে পরিকল্পনাটি সমর্থন করল।" },
+      { "en": "They endorsed the policy.", "bn": "তারা নীতিটি সমর্থন করল।" },
+      {
+        "en": "The leader endorsed change.",
+        "bn": "নেতা পরিবর্তন সমর্থন করলেন।"
+      },
+      {
+        "en": "We endorsed the decision.",
+        "bn": "আমরা সিদ্ধান্ত সমর্থন করলাম।"
+      },
+      { "en": "He endorsed the candidate.", "bn": "সে প্রার্থীকে সমর্থন করল।" },
+      {
+        "en": "The company endorsed innovation.",
+        "bn": "কোম্পানিটি উদ্ভাবন সমর্থন করল।"
+      }
+    ],
+    "synonyms": ["support", "approve"]
+  },
+
+  {
+    "base": "entail",
+    "phonetic": "ɪnˈteɪl",
+    "meaning": "জড়িত থাকা / অন্তর্ভুক্ত করা",
+    "examples": [
+      {
+        "en": "The job entails hard work.",
+        "bn": "এই কাজটি কঠোর পরিশ্রম জড়িত।"
+      },
+      {
+        "en": "It entails responsibility.",
+        "bn": "এটি দায়িত্ব অন্তর্ভুক্ত করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "This task entails risk.", "bn": "এই কাজ ঝুঁকি জড়িত।" },
+      { "en": "It entails planning.", "bn": "এটি পরিকল্পনা অন্তর্ভুক্ত করে।" },
+      { "en": "The role entails travel.", "bn": "এই কাজ ভ্রমণ জড়িত।" },
+      { "en": "Success entails effort.", "bn": "সাফল্যে প্রচেষ্টা জড়িত।" },
+      { "en": "The job entails teamwork.", "bn": "এই কাজ দলগত কাজ জড়িত।" },
+      { "en": "It entails discipline.", "bn": "এটি শৃঙ্খলা অন্তর্ভুক্ত করে।" }
+    ],
+    "synonyms": ["involve", "require"]
+  },
+
+  {
+    "base": "erupt",
+    "phonetic": "ɪˈrʌpt",
+    "meaning": "বিস্ফোরিত হওয়া / উদ্গীরণ হওয়া",
+    "examples": [
+      { "en": "The volcano erupted.", "bn": "আগ্নেয়গিরি বিস্ফোরিত হলো।" },
+      { "en": "Violence erupted suddenly.", "bn": "সহিংসতা হঠাৎ শুরু হলো।" }
+    ],
+    "moreexample": [
+      { "en": "The crowd erupted in cheers.", "bn": "ভিড় উল্লাসে ফেটে পড়ল।" },
+      { "en": "War erupted in the region.", "bn": "অঞ্চলে যুদ্ধ শুরু হলো।" },
+      {
+        "en": "Protests erupted nationwide.",
+        "bn": "দেশজুড়ে প্রতিবাদ শুরু হলো।"
+      },
+      { "en": "Laughter erupted in class.", "bn": "ক্লাসে হাসি ফেটে পড়ল।" },
+      { "en": "Conflict erupted quickly.", "bn": "সংঘাত দ্রুত শুরু হলো।" },
+      { "en": "Fire erupted suddenly.", "bn": "আগুন হঠাৎ ছড়িয়ে পড়ল।" }
+    ],
+    "synonyms": ["explode", "burst"]
+  },
+
+  {
+    "base": "exceed",
+    "phonetic": "ɪkˈsiːd",
+    "meaning": "অতিক্রম করা",
+    "examples": [
+      {
+        "en": "His performance exceeded expectations.",
+        "bn": "তার পারফরম্যান্স প্রত্যাশা অতিক্রম করল।"
+      },
+      { "en": "Do not exceed the limit.", "bn": "সীমা অতিক্রম করো না।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Sales exceeded last year.",
+        "bn": "বিক্রি গত বছরের চেয়ে বেশি হয়েছে।"
+      },
+      { "en": "She exceeded her target.", "bn": "সে তার লক্ষ্য অতিক্রম করল।" },
+      { "en": "Speed exceeded the limit.", "bn": "গতি সীমা অতিক্রম করেছিল।" },
+      {
+        "en": "Demand exceeded supply.",
+        "bn": "চাহিদা সরবরাহের চেয়ে বেশি ছিল।"
+      },
+      {
+        "en": "His results exceeded expectations.",
+        "bn": "তার ফলাফল প্রত্যাশা অতিক্রম করল।"
+      },
+      { "en": "They exceeded the budget.", "bn": "তারা বাজেট অতিক্রম করল।" }
+    ],
+    "synonyms": ["surpass", "go beyond"]
+  },
+
+  {
+    "base": "exclude",
+    "phonetic": "ɪkˈskluːd",
+    "meaning": "বহিষ্কার করা / বাদ দেওয়া",
+    "examples": [
+      { "en": "Do not exclude anyone.", "bn": "কাউকে বাদ দিও না।" },
+      {
+        "en": "He was excluded from the team.",
+        "bn": "তাকে দল থেকে বাদ দেওয়া হয়েছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They excluded unnecessary data.",
+        "bn": "তারা অপ্রয়োজনীয় তথ্য বাদ দিল।"
+      },
+      {
+        "en": "She was excluded unfairly.",
+        "bn": "তাকে অন্যায়ভাবে বাদ দেওয়া হয়েছিল।"
+      },
+      {
+        "en": "The rule excludes exceptions.",
+        "bn": "নিয়মটি ব্যতিক্রম বাদ দেয়।"
+      },
+      { "en": "We excluded errors.", "bn": "আমরা ভুলগুলো বাদ দিলাম।" },
+      { "en": "The list excludes names.", "bn": "তালিকাটি কিছু নাম বাদ দেয়।" },
+      { "en": "He felt excluded.", "bn": "সে নিজেকে বাদ পড়া অনুভব করল।" }
+    ],
+    "synonyms": ["remove", "leave out"]
+  },
+
+  {
+    "base": "exhibit",
+    "phonetic": "ɪɡˈzɪbɪt",
+    "meaning": "প্রদর্শন করা",
+    "examples": [
+      { "en": "The museum exhibits art.", "bn": "জাদুঘর শিল্প প্রদর্শন করে।" },
+      { "en": "He exhibited great skill.", "bn": "সে চমৎকার দক্ষতা দেখাল।" }
+    ],
+    "moreexample": [
+      { "en": "They exhibit paintings.", "bn": "তারা চিত্রকর্ম প্রদর্শন করে।" },
+      { "en": "She exhibited courage.", "bn": "সে সাহস দেখাল।" },
+      {
+        "en": "The store exhibits products.",
+        "bn": "দোকান পণ্য প্রদর্শন করে।"
+      },
+      { "en": "He exhibited talent.", "bn": "সে প্রতিভা দেখাল।" },
+      {
+        "en": "The gallery exhibits sculptures.",
+        "bn": "গ্যালারি ভাস্কর্য প্রদর্শন করে।"
+      },
+      {
+        "en": "They exhibited behavior changes.",
+        "bn": "তারা আচরণগত পরিবর্তন দেখাল।"
+      }
+    ],
+    "synonyms": ["show", "display"]
+  },
+
+  {
+    "base": "expandable",
+    "phonetic": "ɪkˈspændəbl",
+    "meaning": "বর্ধনযোগ্য",
+    "examples": [
+      { "en": "This table is expandable.", "bn": "এই টেবিলটি বর্ধনযোগ্য।" },
+      { "en": "The system is expandable.", "bn": "সিস্টেমটি বর্ধনযোগ্য।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Expandable memory is useful.",
+        "bn": "বর্ধনযোগ্য মেমরি উপকারী।"
+      },
+      { "en": "The design is expandable.", "bn": "ডিজাইনটি বর্ধনযোগ্য।" },
+      { "en": "This plan is expandable.", "bn": "এই পরিকল্পনা বর্ধনযোগ্য।" },
+      {
+        "en": "Expandable storage helps users.",
+        "bn": "বর্ধনযোগ্য স্টোরেজ ব্যবহারকারীদের সাহায্য করে।"
+      },
+      { "en": "The idea is expandable.", "bn": "ধারণাটি বর্ধনযোগ্য।" },
+      {
+        "en": "They created expandable software.",
+        "bn": "তারা বর্ধনযোগ্য সফটওয়্যার তৈরি করল।"
+      }
+    ],
+    "synonyms": ["extendable", "scalable"]
+  },
+
+  {
+    "base": "expire",
+    "phonetic": "ɪkˈspaɪər",
+    "meaning": "মেয়াদ শেষ হওয়া",
+    "examples": [
+      {
+        "en": "The license will expire soon.",
+        "bn": "লাইসেন্সটি শীঘ্রই শেষ হবে।"
+      },
+      { "en": "The document expired.", "bn": "নথির মেয়াদ শেষ হয়েছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "My passport expired.",
+        "bn": "আমার পাসপোর্টের মেয়াদ শেষ হয়েছে।"
+      },
+      { "en": "The offer will expire today.", "bn": "অফারটি আজ শেষ হবে।" },
+      { "en": "The contract expired.", "bn": "চুক্তির মেয়াদ শেষ হয়েছে।" },
+      {
+        "en": "Expired food is unsafe.",
+        "bn": "মেয়াদোত্তীর্ণ খাবার নিরাপদ নয়।"
+      },
+      { "en": "His visa expired.", "bn": "তার ভিসার মেয়াদ শেষ হয়েছে।" },
+      {
+        "en": "The coupon expired yesterday.",
+        "bn": "কুপনটি গতকাল শেষ হয়েছে।"
+      }
+    ],
+    "synonyms": ["end", "terminate"]
+  },
+
+  {
+    "base": "extract",
+    "phonetic": "ɪkˈstrækt",
+    "meaning": "নিষ্কাশন করা",
+    "examples": [
+      {
+        "en": "They extract juice from fruits.",
+        "bn": "তারা ফল থেকে রস বের করে।"
+      },
+      { "en": "The tooth was extracted.", "bn": "দাঁতটি তুলে ফেলা হয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "We extract information.", "bn": "আমরা তথ্য সংগ্রহ করি।" },
+      {
+        "en": "Oil is extracted from ground.",
+        "bn": "মাটি থেকে তেল নিষ্কাশন করা হয়।"
+      },
+      { "en": "He extracted data.", "bn": "সে তথ্য বের করল।" },
+      { "en": "They extract minerals.", "bn": "তারা খনিজ নিষ্কাশন করে।" },
+      {
+        "en": "Sugar is extracted from plants.",
+        "bn": "গাছ থেকে চিনি নিষ্কাশন করা হয়।"
+      },
+      {
+        "en": "She extracted meaning from text.",
+        "bn": "সে লেখা থেকে অর্থ বের করল।"
+      }
+    ],
+    "synonyms": ["remove", "pull out"]
   }
 ]

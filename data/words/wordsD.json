@@ -1,24 +1,1275 @@
 [
   {
+    "base": "dictionary",
+    "phonetic": "ˈdɪkʃəneri",
+    "meaning": "অভিধান",
+    "examples": [
+      {
+        "en": "He looked up the word in the dictionary.",
+        "bn": "সে শব্দটি অভিধানে খুঁজল।"
+      },
+      {
+        "en": "This dictionary is very useful.",
+        "bn": "এই অভিধানটি খুব উপকারী।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She bought a new dictionary.",
+        "bn": "সে একটি নতুন অভিধান কিনল।"
+      },
+      {
+        "en": "The dictionary explains meanings.",
+        "bn": "অভিধান অর্থ ব্যাখ্যা করে।"
+      },
+      {
+        "en": "He uses an online dictionary.",
+        "bn": "সে অনলাইন অভিধান ব্যবহার করে।"
+      },
+      { "en": "The dictionary is very thick.", "bn": "অভিধানটি খুব মোটা।" },
+      {
+        "en": "Students need a dictionary.",
+        "bn": "শিক্ষার্থীদের একটি অভিধান দরকার।"
+      },
+      {
+        "en": "She checked the dictionary carefully.",
+        "bn": "সে সাবধানে অভিধানটি দেখল।"
+      }
+    ],
+    "synonyms": ["lexicon", "wordbook"]
+  },
+
+  {
+    "base": "doubt",
+    "phonetic": "daʊt",
+    "meaning": "সন্দেহ",
+    "examples": [
+      {
+        "en": "I have no doubt about it.",
+        "bn": "এ নিয়ে আমার কোনো সন্দেহ নেই।"
+      },
+      { "en": "He expressed doubt.", "bn": "সে সন্দেহ প্রকাশ করল।" }
+    ],
+    "moreexample": [
+      { "en": "She doubts his story.", "bn": "সে তার গল্প নিয়ে সন্দেহ করে।" },
+      { "en": "There is doubt in my mind.", "bn": "আমার মনে সন্দেহ আছে।" },
+      { "en": "He doubted the result.", "bn": "সে ফলাফল নিয়ে সন্দেহ করল।" },
+      {
+        "en": "They had doubts about success.",
+        "bn": "তাদের সাফল্য নিয়ে সন্দেহ ছিল।"
+      },
+      { "en": "Don’t doubt yourself.", "bn": "নিজেকে সন্দেহ করো না।" },
+      { "en": "The doubt disappeared.", "bn": "সন্দেহটি দূর হয়ে গেল।" }
+    ],
+    "synonyms": ["uncertainty", "suspicion"]
+  },
+
+  {
+    "base": "destroy",
+    "phonetic": "dɪˈstrɔɪ",
+    "meaning": "ধ্বংস করা",
+    "examples": [
+      {
+        "en": "The fire destroyed the house.",
+        "bn": "আগুন বাড়িটি ধ্বংস করল।"
+      },
+      {
+        "en": "They destroyed the old building.",
+        "bn": "তারা পুরোনো ভবন ধ্বংস করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The storm destroyed everything.",
+        "bn": "ঝড় সবকিছু ধ্বংস করল।"
+      },
+      { "en": "War destroys lives.", "bn": "যুদ্ধ জীবন ধ্বংস করে।" },
+      { "en": "He destroyed the evidence.", "bn": "সে প্রমাণ ধ্বংস করল।" },
+      {
+        "en": "The virus destroyed the system.",
+        "bn": "ভাইরাস সিস্টেম ধ্বংস করল।"
+      },
+      { "en": "They destroyed the bridge.", "bn": "তারা সেতুটি ধ্বংস করল।" },
+      { "en": "Don’t destroy nature.", "bn": "প্রকৃতি ধ্বংস করো না।" }
+    ],
+    "synonyms": ["ruin", "demolish"]
+  },
+
+  {
+    "base": "deliver",
+    "phonetic": "dɪˈlɪvər",
+    "meaning": "সরবরাহ করা / পৌঁছে দেওয়া",
+    "examples": [
+      { "en": "He delivered the package.", "bn": "সে প্যাকেজটি পৌঁছে দিল।" },
+      {
+        "en": "The postman delivers letters.",
+        "bn": "পোস্টম্যান চিঠি বিতরণ করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She delivered a speech.", "bn": "সে একটি ভাষণ দিল।" },
+      {
+        "en": "They delivered food quickly.",
+        "bn": "তারা দ্রুত খাবার সরবরাহ করল।"
+      },
+      {
+        "en": "The company delivers products.",
+        "bn": "কোম্পানিটি পণ্য সরবরাহ করে।"
+      },
+      { "en": "He delivered the message.", "bn": "সে বার্তাটি পৌঁছে দিল।" },
+      {
+        "en": "The order was delivered late.",
+        "bn": "অর্ডারটি দেরিতে পৌঁছেছে।"
+      },
+      { "en": "She delivers newspapers.", "bn": "সে সংবাদপত্র বিতরণ করে।" }
+    ],
+    "synonyms": ["send", "provide"]
+  },
+
+  {
+    "base": "distance",
+    "phonetic": "ˈdɪstəns",
+    "meaning": "দূরত্ব",
+    "examples": [
+      { "en": "The distance is long.", "bn": "দূরত্বটি দীর্ঘ।" },
+      {
+        "en": "He traveled a long distance.",
+        "bn": "সে দীর্ঘ দূরত্ব ভ্রমণ করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "We measured the distance.", "bn": "আমরা দূরত্ব মাপলাম।" },
+      {
+        "en": "The distance between cities is large.",
+        "bn": "শহরগুলোর মধ্যে দূরত্ব বড়।"
+      },
+      {
+        "en": "She covered the distance quickly.",
+        "bn": "সে দ্রুত দূরত্ব অতিক্রম করল।"
+      },
+      { "en": "The distance is increasing.", "bn": "দূরত্ব বাড়ছে।" },
+      { "en": "He walked a short distance.", "bn": "সে অল্প দূরত্ব হাঁটল।" },
+      {
+        "en": "Distance matters in travel.",
+        "bn": "ভ্রমণে দূরত্ব গুরুত্বপূর্ণ।"
+      }
+    ],
+    "synonyms": ["length", "gap"]
+  },
+
+  {
+    "base": "desert",
+    "phonetic": "ˈdezərt",
+    "meaning": "মরুভূমি",
+    "examples": [
+      { "en": "The desert is very hot.", "bn": "মরুভূমি খুব গরম।" },
+      { "en": "They crossed the desert.", "bn": "তারা মরুভূমি পার হলো।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The desert has little water.",
+        "bn": "মরুভূমিতে খুব কম পানি আছে।"
+      },
+      {
+        "en": "Animals live in the desert.",
+        "bn": "প্রাণীরা মরুভূমিতে বাস করে।"
+      },
+      { "en": "He explored the desert.", "bn": "সে মরুভূমি অন্বেষণ করল।" },
+      { "en": "The desert looks empty.", "bn": "মরুভূমি ফাঁকা দেখায়।" },
+      { "en": "Sand covers the desert.", "bn": "বালি মরুভূমি ঢেকে রাখে।" },
+      {
+        "en": "They traveled across the desert.",
+        "bn": "তারা মরুভূমি জুড়ে ভ্রমণ করল।"
+      }
+    ],
+    "synonyms": ["wasteland", "dune area"]
+  },
+
+  {
+    "base": "demonstrate",
+    "phonetic": "ˈdemənstreɪt",
+    "meaning": "প্রদর্শন করা / প্রমাণ করা",
+    "examples": [
+      {
+        "en": "He demonstrated the experiment.",
+        "bn": "সে পরীক্ষাটি প্রদর্শন করল।"
+      },
+      {
+        "en": "She demonstrated her skills.",
+        "bn": "সে তার দক্ষতা প্রদর্শন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They demonstrated the product.",
+        "bn": "তারা পণ্যটি প্রদর্শন করল।"
+      },
+      {
+        "en": "He demonstrated how it works.",
+        "bn": "সে এটি কীভাবে কাজ করে দেখাল।"
+      },
+      {
+        "en": "The teacher demonstrated clearly.",
+        "bn": "শিক্ষক স্পষ্টভাবে দেখালেন।"
+      },
+      { "en": "She demonstrated courage.", "bn": "সে সাহস প্রদর্শন করল।" },
+      {
+        "en": "They demonstrated in the street.",
+        "bn": "তারা রাস্তায় প্রতিবাদ করল।"
+      },
+      { "en": "He demonstrated the technique.", "bn": "সে কৌশলটি দেখাল।" }
+    ],
+    "synonyms": ["show", "exhibit"]
+  },
+
+  {
+    "base": "difference",
+    "phonetic": "ˈdɪfrəns",
+    "meaning": "পার্থক্য",
+    "examples": [
+      { "en": "There is a big difference.", "bn": "এখানে বড় পার্থক্য আছে।" },
+      { "en": "What is the difference?", "bn": "পার্থক্য কী?" }
+    ],
+    "moreexample": [
+      {
+        "en": "They noticed a difference.",
+        "bn": "তারা একটি পার্থক্য লক্ষ্য করল।"
+      },
+      { "en": "The difference is clear.", "bn": "পার্থক্যটি স্পষ্ট।" },
+      { "en": "There is no difference.", "bn": "কোনো পার্থক্য নেই।" },
+      {
+        "en": "She explained the difference.",
+        "bn": "সে পার্থক্যটি ব্যাখ্যা করল।"
+      },
+      {
+        "en": "Culture makes a difference.",
+        "bn": "সংস্কৃতি পার্থক্য তৈরি করে।"
+      },
+      { "en": "The difference matters.", "bn": "পার্থক্যটি গুরুত্বপূর্ণ।" }
+    ],
+    "synonyms": ["variation", "contrast"]
+  },
+
+  {
+    "base": "damage",
+    "phonetic": "ˈdæmɪdʒ",
+    "meaning": "ক্ষতি",
+    "examples": [
+      { "en": "The storm caused damage.", "bn": "ঝড় ক্ষতি করেছে।" },
+      { "en": "He damaged the car.", "bn": "সে গাড়ির ক্ষতি করল।" }
+    ],
+    "moreexample": [
+      { "en": "The fire damaged the house.", "bn": "আগুন বাড়িটির ক্ষতি করল।" },
+      { "en": "The accident caused damage.", "bn": "দুর্ঘটনা ক্ষতি করেছে।" },
+      { "en": "Don’t damage the equipment.", "bn": "সরঞ্জামের ক্ষতি করো না।" },
+      { "en": "The flood damaged crops.", "bn": "বন্যা ফসলের ক্ষতি করল।" },
+      { "en": "He repaired the damage.", "bn": "সে ক্ষতি মেরামত করল।" },
+      { "en": "The damage was serious.", "bn": "ক্ষতিটি গুরুতর ছিল।" }
+    ],
+    "synonyms": ["harm", "loss"]
+  },
+
+  {
     "base": "decision",
     "phonetic": "dɪˈsɪʒn",
     "meaning": "সিদ্ধান্ত",
     "examples": [
-      { "en": "It was a hard decision.", "bn": "" },
-      { "en": "She made a good decision.", "bn": "" }
+      { "en": "He made a decision.", "bn": "সে একটি সিদ্ধান্ত নিল।" },
+      { "en": "It was a tough decision.", "bn": "এটি একটি কঠিন সিদ্ধান্ত ছিল।" }
     ],
     "moreexample": [
-      { "en": "He made the final decision.", "bn": "" },
-      { "en": "They took a bold decision.", "bn": "" },
-      { "en": "I regret my decision.", "bn": "" },
-      { "en": "She changed her decision.", "bn": "" },
-      { "en": "We made a quick decision.", "bn": "" },
-      { "en": "He stood by his decision.", "bn": "" },
-      { "en": "Their decision was correct.", "bn": "" },
-      { "en": "I made a difficult decision.", "bn": "" },
-      { "en": "She announced her decision.", "bn": "" },
-      { "en": "The decision changed everything.", "bn": "" }
+      {
+        "en": "She changed her decision.",
+        "bn": "সে তার সিদ্ধান্ত পরিবর্তন করল।"
+      },
+      {
+        "en": "They accepted the decision.",
+        "bn": "তারা সিদ্ধান্ত গ্রহণ করল।"
+      },
+      { "en": "He made a quick decision.", "bn": "সে দ্রুত সিদ্ধান্ত নিল।" },
+      { "en": "The decision was final.", "bn": "সিদ্ধান্তটি চূড়ান্ত ছিল।" },
+      {
+        "en": "We respect your decision.",
+        "bn": "আমরা তোমার সিদ্ধান্তকে সম্মান করি।"
+      },
+      { "en": "Good decisions matter.", "bn": "ভালো সিদ্ধান্ত গুরুত্বপূর্ণ।" }
     ],
-    "synonyms": ["choice", "resolution", "conclusion", "judgment", "ruling"]
+    "synonyms": ["choice", "judgment"]
+  },
+
+  {
+    "base": "description",
+    "phonetic": "dɪˈskrɪpʃn",
+    "meaning": "বর্ণনা",
+    "examples": [
+      { "en": "Give a clear description.", "bn": "একটি স্পষ্ট বর্ণনা দাও।" },
+      { "en": "The description is accurate.", "bn": "বর্ণনাটি সঠিক।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He gave a full description.",
+        "bn": "সে একটি পূর্ণ বর্ণনা দিল।"
+      },
+      {
+        "en": "The description helped us.",
+        "bn": "বর্ণনাটি আমাদের সাহায্য করল।"
+      },
+      {
+        "en": "She wrote a short description.",
+        "bn": "সে একটি ছোট বর্ণনা লিখল।"
+      },
+      { "en": "The description is clear.", "bn": "বর্ণনাটি পরিষ্কার।" },
+      { "en": "We read the description.", "bn": "আমরা বর্ণনাটি পড়লাম।" },
+      { "en": "He forgot the description.", "bn": "সে বর্ণনাটি ভুলে গেল।" }
+    ],
+    "synonyms": ["explanation", "detail"]
+  },
+
+  {
+    "base": "develop",
+    "phonetic": "dɪˈveləp",
+    "meaning": "উন্নয়ন করা / বৃদ্ধি করা",
+    "examples": [
+      {
+        "en": "She developed a new skill.",
+        "bn": "সে একটি নতুন দক্ষতা উন্নয়ন করল।"
+      },
+      {
+        "en": "The city is developing fast.",
+        "bn": "শহরটি দ্রুত উন্নয়ন করছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He developed a strong habit.",
+        "bn": "সে একটি শক্তিশালী অভ্যাস গড়ে তুলল।"
+      },
+      {
+        "en": "They developed new technology.",
+        "bn": "তারা নতুন প্রযুক্তি উন্নয়ন করল।"
+      },
+      { "en": "The child developed quickly.", "bn": "শিশুটি দ্রুত বড় হলো।" },
+      { "en": "She developed confidence.", "bn": "সে আত্মবিশ্বাস তৈরি করল।" },
+      {
+        "en": "The company developed software.",
+        "bn": "কোম্পানিটি সফটওয়্যার তৈরি করল।"
+      },
+      {
+        "en": "His idea developed over time.",
+        "bn": "তার ধারণা সময়ের সাথে বিকশিত হলো।"
+      }
+    ],
+    "synonyms": ["grow", "improve"]
+  },
+
+  {
+    "base": "define",
+    "phonetic": "dɪˈfaɪn",
+    "meaning": "সংজ্ঞা দেওয়া",
+    "examples": [
+      { "en": "Define the word clearly.", "bn": "শব্দটির স্পষ্ট সংজ্ঞা দাও।" },
+      { "en": "She defined the problem.", "bn": "সে সমস্যাটি সংজ্ঞায়িত করল।" }
+    ],
+    "moreexample": [
+      { "en": "He defined the concept.", "bn": "সে ধারণাটি ব্যাখ্যা করল।" },
+      {
+        "en": "The teacher defined it simply.",
+        "bn": "শিক্ষক এটি সহজভাবে ব্যাখ্যা করলেন।"
+      },
+      { "en": "They defined the rules.", "bn": "তারা নিয়মগুলো নির্ধারণ করল।" },
+      {
+        "en": "The dictionary defines words.",
+        "bn": "অভিধান শব্দের সংজ্ঞা দেয়।"
+      },
+      { "en": "She defined her goal.", "bn": "সে তার লক্ষ্য নির্ধারণ করল।" },
+      { "en": "We defined success.", "bn": "আমরা সাফল্যকে সংজ্ঞায়িত করলাম।" }
+    ],
+    "synonyms": ["explain", "describe"]
+  },
+
+  {
+    "base": "depend",
+    "phonetic": "dɪˈpend",
+    "meaning": "নির্ভর করা",
+    "examples": [
+      { "en": "We depend on water.", "bn": "আমরা পানির উপর নির্ভর করি।" },
+      { "en": "He depends on his job.", "bn": "সে তার চাকরির উপর নির্ভর করে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Children depend on parents.",
+        "bn": "শিশুরা বাবা-মায়ের উপর নির্ভর করে।"
+      },
+      {
+        "en": "The result depends on effort.",
+        "bn": "ফলাফল প্রচেষ্টার উপর নির্ভর করে।"
+      },
+      { "en": "She depends on him.", "bn": "সে তার উপর নির্ভর করে।" },
+      {
+        "en": "We depend on technology.",
+        "bn": "আমরা প্রযুক্তির উপর নির্ভর করি।"
+      },
+      {
+        "en": "Life depends on oxygen.",
+        "bn": "জীবন অক্সিজেনের উপর নির্ভর করে।"
+      },
+      {
+        "en": "Success depends on hard work.",
+        "bn": "সাফল্য কঠোর পরিশ্রমের উপর নির্ভর করে।"
+      }
+    ],
+    "synonyms": ["rely", "trust"]
+  },
+
+  {
+    "base": "discuss",
+    "phonetic": "dɪˈskʌs",
+    "meaning": "আলোচনা করা",
+    "examples": [
+      { "en": "They discussed the topic.", "bn": "তারা বিষয়টি আলোচনা করল।" },
+      { "en": "We will discuss tomorrow.", "bn": "আমরা আগামীকাল আলোচনা করব।" }
+    ],
+    "moreexample": [
+      { "en": "She discussed the plan.", "bn": "সে পরিকল্পনা আলোচনা করল।" },
+      { "en": "They discussed problems.", "bn": "তারা সমস্যাগুলো আলোচনা করল।" },
+      { "en": "He discussed the issue.", "bn": "সে বিষয়টি আলোচনা করল।" },
+      { "en": "We discussed everything.", "bn": "আমরা সবকিছু আলোচনা করলাম।" },
+      {
+        "en": "The teacher discussed grammar.",
+        "bn": "শিক্ষক ব্যাকরণ আলোচনা করলেন।"
+      },
+      { "en": "They discussed ideas.", "bn": "তারা ধারণা আলোচনা করল।" }
+    ],
+    "synonyms": ["talk", "debate"]
+  },
+
+  {
+    "base": "discover",
+    "phonetic": "dɪˈskʌvər",
+    "meaning": "আবিষ্কার করা",
+    "examples": [
+      {
+        "en": "He discovered a new place.",
+        "bn": "সে একটি নতুন স্থান আবিষ্কার করল।"
+      },
+      {
+        "en": "Scientists discovered a cure.",
+        "bn": "বিজ্ঞানীরা একটি চিকিৎসা আবিষ্কার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She discovered a secret.",
+        "bn": "সে একটি গোপন বিষয় আবিষ্কার করল।"
+      },
+      { "en": "They discovered gold.", "bn": "তারা সোনা আবিষ্কার করল।" },
+      { "en": "He discovered the truth.", "bn": "সে সত্যটি আবিষ্কার করল।" },
+      {
+        "en": "We discovered a solution.",
+        "bn": "আমরা একটি সমাধান আবিষ্কার করলাম।"
+      },
+      {
+        "en": "The explorer discovered land.",
+        "bn": "অন্বেষক ভূমি আবিষ্কার করল।"
+      },
+      { "en": "She discovered talent.", "bn": "সে প্রতিভা আবিষ্কার করল।" }
+    ],
+    "synonyms": ["find", "uncover"]
+  },
+
+  {
+    "base": "deliver",
+    "phonetic": "dɪˈlɪvər",
+    "meaning": "সরবরাহ করা / পৌঁছে দেওয়া",
+    "examples": [
+      { "en": "He delivered the parcel.", "bn": "সে পার্সেলটি পৌঁছে দিল।" },
+      { "en": "She delivered a speech.", "bn": "সে একটি ভাষণ দিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The company delivers goods.",
+        "bn": "কোম্পানিটি পণ্য সরবরাহ করে।"
+      },
+      { "en": "He delivered the message.", "bn": "সে বার্তাটি পৌঁছে দিল।" },
+      { "en": "They delivered food.", "bn": "তারা খাবার সরবরাহ করল।" },
+      { "en": "She delivers newspapers.", "bn": "সে সংবাদপত্র বিতরণ করে।" },
+      {
+        "en": "The courier delivered the package.",
+        "bn": "কুরিয়ার পার্সেলটি পৌঁছে দিল।"
+      },
+      { "en": "He delivered on time.", "bn": "সে সময়মতো পৌঁছে দিল।" }
+    ],
+    "synonyms": ["send", "supply"]
+  },
+
+  {
+    "base": "decrease",
+    "phonetic": "dɪˈkriːs",
+    "meaning": "হ্রাস করা",
+    "examples": [
+      { "en": "Prices decrease in winter.", "bn": "শীতে দাম কমে যায়।" },
+      { "en": "He decreased his expenses.", "bn": "সে তার খরচ কমাল।" }
+    ],
+    "moreexample": [
+      { "en": "The noise decreased suddenly.", "bn": "শব্দ হঠাৎ কমে গেল।" },
+      { "en": "They decreased production.", "bn": "তারা উৎপাদন কমাল।" },
+      { "en": "Her stress decreased.", "bn": "তার চাপ কমে গেল।" },
+      {
+        "en": "The value decreased over time.",
+        "bn": "সময়ের সাথে মান কমে গেল।"
+      },
+      { "en": "We decreased usage.", "bn": "আমরা ব্যবহার কমালাম।" },
+      { "en": "Rainfall decreased this year.", "bn": "এই বছর বৃষ্টিপাত কমেছে।" }
+    ],
+    "synonyms": ["reduce", "lower"]
+  },
+
+  {
+    "base": "delay",
+    "phonetic": "dɪˈleɪ",
+    "meaning": "দেরি করা",
+    "examples": [
+      { "en": "The train was delayed.", "bn": "ট্রেনটি দেরি করেছিল।" },
+      { "en": "Don’t delay the work.", "bn": "কাজ দেরি করো না।" }
+    ],
+    "moreexample": [
+      { "en": "The flight was delayed.", "bn": "ফ্লাইটটি দেরি হয়েছে।" },
+      { "en": "He delayed his decision.", "bn": "সে তার সিদ্ধান্ত দেরি করল।" },
+      { "en": "We delayed the meeting.", "bn": "আমরা মিটিং দেরি করলাম।" },
+      { "en": "The project was delayed.", "bn": "প্রজেক্টটি দেরি হয়েছে।" },
+      { "en": "She delayed replying.", "bn": "সে উত্তর দিতে দেরি করল।" },
+      { "en": "They delayed action.", "bn": "তারা পদক্ষেপ নিতে দেরি করল।" }
+    ],
+    "synonyms": ["postpone", "slow"]
+  },
+
+  {
+    "base": "defeat",
+    "phonetic": "dɪˈfiːt",
+    "meaning": "পরাজিত করা",
+    "examples": [
+      {
+        "en": "They defeated the opponent.",
+        "bn": "তারা প্রতিপক্ষকে পরাজিত করল।"
+      },
+      { "en": "He accepted defeat.", "bn": "সে পরাজয় মেনে নিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The team defeated rivals.",
+        "bn": "দলটি প্রতিদ্বন্দ্বীদের হারাল।"
+      },
+      { "en": "She was defeated in the match.", "bn": "সে ম্যাচে পরাজিত হলো।" },
+      { "en": "We defeated the enemy.", "bn": "আমরা শত্রুকে পরাজিত করলাম।" },
+      { "en": "He never accepts defeat.", "bn": "সে কখনো পরাজয় মানে না।" },
+      { "en": "They defeated challenges.", "bn": "তারা চ্যালেঞ্জ পরাজিত করল।" },
+      { "en": "The army defeated them.", "bn": "সেনাবাহিনী তাদের পরাজিত করল।" }
+    ],
+    "synonyms": ["beat", "overcome"]
+  },
+
+  {
+    "base": "detect",
+    "phonetic": "dɪˈtekt",
+    "meaning": "সনাক্ত করা",
+    "examples": [
+      {
+        "en": "The system detected an error.",
+        "bn": "সিস্টেমটি একটি ত্রুটি সনাক্ত করল।"
+      },
+      {
+        "en": "Doctors detected the disease early.",
+        "bn": "ডাক্তাররা রোগটি আগেই সনাক্ত করলেন।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He detected smoke.", "bn": "সে ধোঁয়া সনাক্ত করল।" },
+      { "en": "They detected movement.", "bn": "তারা নড়াচড়া সনাক্ত করল।" },
+      {
+        "en": "The machine detects signals.",
+        "bn": "মেশিনটি সংকেত সনাক্ত করে।"
+      },
+      { "en": "She detected fraud.", "bn": "সে প্রতারণা সনাক্ত করল।" },
+      { "en": "We detected danger.", "bn": "আমরা বিপদ সনাক্ত করলাম।" },
+      { "en": "The sensor detects heat.", "bn": "সেন্সর তাপ সনাক্ত করে।" }
+    ],
+    "synonyms": ["identify", "notice"]
+  },
+
+  {
+    "base": "divide",
+    "phonetic": "dɪˈvaɪd",
+    "meaning": "ভাগ করা",
+    "examples": [
+      { "en": "Divide the money equally.", "bn": "টাকা সমানভাবে ভাগ করো।" },
+      { "en": "They divided the team.", "bn": "তারা দল ভাগ করল।" }
+    ],
+    "moreexample": [
+      { "en": "She divided the class.", "bn": "সে ক্লাস ভাগ করল।" },
+      { "en": "We divided the work.", "bn": "আমরা কাজ ভাগ করলাম।" },
+      { "en": "The river divides the land.", "bn": "নদী জমি ভাগ করে।" },
+      { "en": "He divided the food.", "bn": "সে খাবার ভাগ করল।" },
+      {
+        "en": "They divided responsibilities.",
+        "bn": "তারা দায়িত্ব ভাগ করল।"
+      },
+      { "en": "The road divides the city.", "bn": "রাস্তা শহর ভাগ করে।" }
+    ],
+    "synonyms": ["split", "separate"]
+  },
+
+  {
+    "base": "drag",
+    "phonetic": "dræɡ",
+    "meaning": "টেনে নেওয়া",
+    "examples": [
+      { "en": "He dragged the box.", "bn": "সে বাক্সটি টেনে নিল।" },
+      { "en": "She dragged the chair.", "bn": "সে চেয়ারটি টেনে নিল।" }
+    ],
+    "moreexample": [
+      { "en": "They dragged the bag.", "bn": "তারা ব্যাগটি টেনে নিল।" },
+      { "en": "He dragged it slowly.", "bn": "সে ধীরে ধীরে টেনে নিল।" },
+      { "en": "She dragged herself home.", "bn": "সে কষ্ট করে বাড়ি ফিরল।" },
+      { "en": "The dog dragged the rope.", "bn": "কুকুরটি দড়ি টেনে নিল।" },
+      { "en": "We dragged the table.", "bn": "আমরা টেবিলটি টেনে নিলাম।" },
+      { "en": "He dragged the file.", "bn": "সে ফাইলটি টেনে নিল।" }
+    ],
+    "synonyms": ["pull", "haul"]
+  },
+
+  {
+    "base": "drift",
+    "phonetic": "drɪft",
+    "meaning": "ভেসে যাওয়া / ধীরে সরে যাওয়া",
+    "examples": [
+      { "en": "The boat drifted away.", "bn": "নৌকাটি ভেসে গেল।" },
+      { "en": "He drifted into sleep.", "bn": "সে ধীরে ধীরে ঘুমিয়ে পড়ল।" }
+    ],
+    "moreexample": [
+      { "en": "The clouds drifted slowly.", "bn": "মেঘগুলো ধীরে ভেসে গেল।" },
+      {
+        "en": "She drifted away from the topic.",
+        "bn": "সে বিষয় থেকে সরে গেল।"
+      },
+      { "en": "The ship drifted at sea.", "bn": "জাহাজটি সমুদ্রে ভেসে গেল।" },
+      { "en": "He drifted through life.", "bn": "সে জীবনে লক্ষ্যহীনভাবে চলল।" },
+      {
+        "en": "Leaves drifted in the wind.",
+        "bn": "পাতাগুলো বাতাসে ভেসে গেল।"
+      },
+      { "en": "They drifted apart.", "bn": "তারা ধীরে ধীরে দূরে সরে গেল।" }
+    ],
+    "synonyms": ["float", "wander"]
+  },
+
+  {
+    "base": "damageable",
+    "phonetic": "ˈdæmɪdʒəbl",
+    "meaning": "ক্ষতিগ্রস্ত হতে পারে এমন",
+    "examples": [
+      {
+        "en": "This material is damageable.",
+        "bn": "এই উপাদানটি ক্ষতিগ্রস্ত হতে পারে।"
+      },
+      {
+        "en": "The device is easily damageable.",
+        "bn": "ডিভাইসটি সহজে ক্ষতিগ্রস্ত হয়।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Glass is damageable.", "bn": "কাচ ক্ষতিগ্রস্ত হতে পারে।" },
+      {
+        "en": "The surface is damageable.",
+        "bn": "পৃষ্ঠটি ক্ষতিগ্রস্ত হতে পারে।"
+      },
+      {
+        "en": "This item is highly damageable.",
+        "bn": "এই জিনিসটি খুব সহজে ক্ষতিগ্রস্ত হয়।"
+      },
+      {
+        "en": "Electronic parts are damageable.",
+        "bn": "ইলেকট্রনিক অংশ ক্ষতিগ্রস্ত হতে পারে।"
+      },
+      {
+        "en": "The structure is damageable.",
+        "bn": "গঠনটি ক্ষতিগ্রস্ত হতে পারে।"
+      },
+      {
+        "en": "Wood is damageable by water.",
+        "bn": "কাঠ পানি দ্বারা ক্ষতিগ্রস্ত হয়।"
+      }
+    ],
+    "synonyms": ["fragile", "vulnerable"]
+  },
+
+  {
+    "base": "demand",
+    "phonetic": "dɪˈmænd",
+    "meaning": "চাহিদা / দাবি করা",
+    "examples": [
+      {
+        "en": "There is high demand for food.",
+        "bn": "খাবারের উচ্চ চাহিদা আছে।"
+      },
+      { "en": "He demanded an answer.", "bn": "সে একটি উত্তর দাবি করল।" }
+    ],
+    "moreexample": [
+      { "en": "The job demands skill.", "bn": "চাকরিটি দক্ষতা দাবি করে।" },
+      { "en": "They demanded justice.", "bn": "তারা ন্যায়বিচার দাবি করল।" },
+      { "en": "Demand is increasing.", "bn": "চাহিদা বাড়ছে।" },
+      { "en": "She demanded explanation.", "bn": "সে ব্যাখ্যা দাবি করল।" },
+      { "en": "The market demands quality.", "bn": "বাজার মান দাবি করে।" },
+      { "en": "We demand fairness.", "bn": "আমরা ন্যায়বিচার দাবি করি।" }
+    ],
+    "synonyms": ["request", "require"]
+  },
+
+  {
+    "base": "desire",
+    "phonetic": "dɪˈzaɪər",
+    "meaning": "ইচ্ছা",
+    "examples": [
+      {
+        "en": "He has a strong desire to win.",
+        "bn": "তার জয়ের প্রবল ইচ্ছা আছে।"
+      },
+      { "en": "She desired success.", "bn": "সে সফলতা চেয়েছিল।" }
+    ],
+    "moreexample": [
+      { "en": "They desire peace.", "bn": "তারা শান্তি চায়।" },
+      { "en": "He desires knowledge.", "bn": "সে জ্ঞান চায়।" },
+      { "en": "She desired change.", "bn": "সে পরিবর্তন চেয়েছিল।" },
+      { "en": "Desire drives people.", "bn": "ইচ্ছা মানুষকে চালিত করে।" },
+      { "en": "We desire improvement.", "bn": "আমরা উন্নতি চাই।" },
+      { "en": "He expressed his desire.", "bn": "সে তার ইচ্ছা প্রকাশ করল।" }
+    ],
+    "synonyms": ["wish", "want"]
+  },
+
+  {
+    "base": "depress",
+    "phonetic": "dɪˈpres",
+    "meaning": "হতাশ করা",
+    "examples": [
+      { "en": "The news depressed him.", "bn": "খবরটি তাকে হতাশ করল।" },
+      { "en": "She feels depressed.", "bn": "সে হতাশ অনুভব করছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The situation depressed everyone.",
+        "bn": "পরিস্থিতি সবাইকে হতাশ করল।"
+      },
+      { "en": "He looked depressed.", "bn": "সে হতাশ দেখাচ্ছিল।" },
+      { "en": "The failure depressed her.", "bn": "ব্যর্থতা তাকে হতাশ করল।" },
+      {
+        "en": "Don’t let it depress you.",
+        "bn": "এটি তোমাকে হতাশ করতে দিও না।"
+      },
+      { "en": "The weather depressed mood.", "bn": "আবহাওয়া মন খারাপ করল।" },
+      { "en": "She was deeply depressed.", "bn": "সে গভীরভাবে হতাশ ছিল।" }
+    ],
+    "synonyms": ["sadden", "discourage"]
+  },
+
+  {
+    "base": "differ",
+    "phonetic": "ˈdɪfər",
+    "meaning": "ভিন্ন হওয়া",
+    "examples": [
+      { "en": "Opinions differ.", "bn": "মতামত ভিন্ন হয়।" },
+      { "en": "They differ in style.", "bn": "তাদের স্টাইল ভিন্ন।" }
+    ],
+    "moreexample": [
+      { "en": "Their views differ.", "bn": "তাদের দৃষ্টিভঙ্গি ভিন্ন।" },
+      {
+        "en": "We differ on this topic.",
+        "bn": "আমরা এই বিষয়ে ভিন্ন মত পোষণ করি।"
+      },
+      { "en": "Prices differ widely.", "bn": "দাম ব্যাপকভাবে ভিন্ন।" },
+      { "en": "They differ greatly.", "bn": "তারা অনেক ভিন্ন।" },
+      { "en": "Languages differ.", "bn": "ভাষাগুলো ভিন্ন।" },
+      {
+        "en": "Ideas differ from person to person.",
+        "bn": "ধারণা ব্যক্তিভেদে ভিন্ন হয়।"
+      }
+    ],
+    "synonyms": ["vary", "contrast"]
+  },
+
+  {
+    "base": "dilute",
+    "phonetic": "daɪˈluːt",
+    "meaning": "পাতলা করা",
+    "examples": [
+      {
+        "en": "Dilute the juice with water.",
+        "bn": "রসটি পানির সাথে পাতলা করো।"
+      },
+      { "en": "The solution was diluted.", "bn": "দ্রবণটি পাতলা করা হয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "He diluted the paint.", "bn": "সে রং পাতলা করল।" },
+      { "en": "The liquid was diluted.", "bn": "তরলটি পাতলা করা হয়েছিল।" },
+      { "en": "She diluted the mixture.", "bn": "সে মিশ্রণটি পাতলা করল।" },
+      { "en": "The effect was diluted.", "bn": "প্রভাবটি কমে গেল।" },
+      {
+        "en": "We diluted the chemical.",
+        "bn": "আমরা রাসায়নিকটি পাতলা করলাম।"
+      },
+      {
+        "en": "Milk is diluted sometimes.",
+        "bn": "দুধ কখনো কখনো পাতলা করা হয়।"
+      }
+    ],
+    "synonyms": ["thin", "weaken"]
+  },
+
+  {
+    "base": "donate",
+    "phonetic": "ˈdoʊneɪt",
+    "meaning": "দান করা",
+    "examples": [
+      {
+        "en": "He donated money to charity.",
+        "bn": "সে দাতব্য প্রতিষ্ঠানে টাকা দান করল।"
+      },
+      { "en": "She donated clothes.", "bn": "সে কাপড় দান করল।" }
+    ],
+    "moreexample": [
+      { "en": "They donated blood.", "bn": "তারা রক্ত দান করল।" },
+      { "en": "He donated books.", "bn": "সে বই দান করল।" },
+      { "en": "She donated food.", "bn": "সে খাবার দান করল।" },
+      { "en": "We donated old items.", "bn": "আমরা পুরোনো জিনিস দান করলাম।" },
+      { "en": "They donated generously.", "bn": "তারা উদারভাবে দান করল।" },
+      { "en": "He donated his time.", "bn": "সে তার সময় দান করল।" }
+    ],
+    "synonyms": ["give", "contribute"]
+  },
+
+  {
+    "base": "dare",
+    "phonetic": "deər",
+    "meaning": "সাহস করা",
+    "examples": [
+      {
+        "en": "I dare you to try it.",
+        "bn": "আমি তোমাকে এটা চেষ্টা করার সাহস দিচ্ছি।"
+      },
+      { "en": "He didn’t dare to speak.", "bn": "সে কথা বলার সাহস করেনি।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She dared to ask the question.",
+        "bn": "সে প্রশ্নটি করার সাহস করল।"
+      },
+      {
+        "en": "They dare to dream big.",
+        "bn": "তারা বড় স্বপ্ন দেখার সাহস করে।"
+      },
+      {
+        "en": "He dared the challenge.",
+        "bn": "সে চ্যালেঞ্জ নেওয়ার সাহস করল।"
+      },
+      { "en": "Don’t dare to lie.", "bn": "মিথ্যা বলার সাহস করো না।" },
+      { "en": "We dare to change.", "bn": "আমরা পরিবর্তনের সাহস করি।" },
+      {
+        "en": "She dared him to jump.",
+        "bn": "সে তাকে লাফ দেওয়ার চ্যালেঞ্জ দিল।"
+      }
+    ],
+    "synonyms": ["challenge", "risk"]
+  },
+
+  {
+    "base": "delayable",
+    "phonetic": "dɪˈleɪəbl",
+    "meaning": "দেরি করা যায় এমন",
+    "examples": [
+      { "en": "The task is delayable.", "bn": "কাজটি দেরি করা যায়।" },
+      {
+        "en": "Is this decision delayable?",
+        "bn": "এই সিদ্ধান্ত কি দেরি করা যায়?"
+      }
+    ],
+    "moreexample": [
+      { "en": "The meeting is delayable.", "bn": "মিটিংটি দেরি করা যায়।" },
+      { "en": "Some actions are delayable.", "bn": "কিছু কাজ দেরি করা যায়।" },
+      {
+        "en": "The process is not delayable.",
+        "bn": "প্রক্রিয়াটি দেরি করা যায় না।"
+      },
+      { "en": "This step is delayable.", "bn": "এই ধাপটি দেরি করা যায়।" },
+      {
+        "en": "Most plans are delayable.",
+        "bn": "বেশিরভাগ পরিকল্পনা দেরি করা যায়।"
+      },
+      { "en": "The order is delayable.", "bn": "অর্ডারটি দেরি করা যায়।" }
+    ],
+    "synonyms": ["postponable", "deferrable"]
+  },
+
+  {
+    "base": "dwell",
+    "phonetic": "dwel",
+    "meaning": "বাস করা / চিন্তা করা",
+    "examples": [
+      {
+        "en": "They dwell in a small village.",
+        "bn": "তারা একটি ছোট গ্রামে বাস করে।"
+      },
+      {
+        "en": "Don’t dwell on the past.",
+        "bn": "অতীত নিয়ে বেশি চিন্তা করো না।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He dwells near the river.", "bn": "সে নদীর কাছে বাস করে।" },
+      {
+        "en": "She dwelled on the mistake.",
+        "bn": "সে ভুলটি নিয়ে চিন্তা করল।"
+      },
+      { "en": "We dwell in peace.", "bn": "আমরা শান্তিতে বাস করি।" },
+      {
+        "en": "They dwell on problems.",
+        "bn": "তারা সমস্যাগুলো নিয়ে চিন্তা করে।"
+      },
+      { "en": "He dwells in memory.", "bn": "সে স্মৃতিতে বাস করে।" },
+      {
+        "en": "Stop dwelling on failure.",
+        "bn": "ব্যর্থতা নিয়ে চিন্তা করা বন্ধ করো।"
+      }
+    ],
+    "synonyms": ["live", "reside"]
+  },
+
+  {
+    "base": "drain",
+    "phonetic": "dreɪn",
+    "meaning": "নিষ্কাশন করা / শুষে নেওয়া",
+    "examples": [
+      { "en": "The pipe drains water.", "bn": "পাইপ পানি নিষ্কাশন করে।" },
+      {
+        "en": "The work drained his energy.",
+        "bn": "কাজটি তার শক্তি শুষে নিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "They drained the tank.", "bn": "তারা ট্যাঙ্ক খালি করল।" },
+      { "en": "Stress drains energy.", "bn": "স্ট্রেস শক্তি শুষে নেয়।" },
+      {
+        "en": "The river drained into the sea.",
+        "bn": "নদী সমুদ্রে মিশে গেল।"
+      },
+      { "en": "He drained the glass.", "bn": "সে গ্লাস খালি করল।" },
+      { "en": "The system drains water.", "bn": "সিস্টেম পানি নিষ্কাশন করে।" },
+      {
+        "en": "The situation drained her.",
+        "bn": "পরিস্থিতি তাকে ক্লান্ত করে দিল।"
+      }
+    ],
+    "synonyms": ["empty", "reduce"]
+  },
+
+  {
+    "base": "draft",
+    "phonetic": "dræft",
+    "meaning": "খসড়া",
+    "examples": [
+      { "en": "He wrote a draft.", "bn": "সে একটি খসড়া লিখল।" },
+      { "en": "The draft is not final.", "bn": "খসড়াটি চূড়ান্ত নয়।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She prepared a draft report.",
+        "bn": "সে একটি খসড়া রিপোর্ট তৈরি করল।"
+      },
+      {
+        "en": "They reviewed the draft.",
+        "bn": "তারা খসড়াটি পর্যালোচনা করল।"
+      },
+      { "en": "He edited the draft.", "bn": "সে খসড়াটি সম্পাদনা করল।" },
+      { "en": "The draft was improved.", "bn": "খসড়াটি উন্নত করা হলো।" },
+      { "en": "We submitted a draft.", "bn": "আমরা একটি খসড়া জমা দিলাম।" },
+      { "en": "The draft needs changes.", "bn": "খসড়াটিতে পরিবর্তন দরকার।" }
+    ],
+    "synonyms": ["outline", "version"]
+  },
+
+  {
+    "base": "driftless",
+    "phonetic": "ˈdrɪftləs",
+    "meaning": "লক্ষ্যহীন নয় (স্থিতিশীল)",
+    "examples": [
+      {
+        "en": "He lives a driftless life.",
+        "bn": "সে একটি স্থিতিশীল জীবন যাপন করে।"
+      },
+      { "en": "The plan is driftless.", "bn": "পরিকল্পনাটি লক্ষ্যহীন নয়।" }
+    ],
+    "moreexample": [
+      { "en": "Her career is driftless.", "bn": "তার ক্যারিয়ার স্থিতিশীল।" },
+      {
+        "en": "He avoids a driftless life.",
+        "bn": "সে লক্ষ্যহীন জীবন এড়ায়।"
+      },
+      {
+        "en": "The project is driftless.",
+        "bn": "প্রজেক্টটি সুস্পষ্ট লক্ষ্যযুক্ত।"
+      },
+      {
+        "en": "She wants a driftless future.",
+        "bn": "সে একটি স্থিতিশীল ভবিষ্যৎ চায়।"
+      },
+      {
+        "en": "They planned a driftless strategy.",
+        "bn": "তারা একটি সুস্পষ্ট কৌশল পরিকল্পনা করল।"
+      },
+      { "en": "His mind is driftless.", "bn": "তার মন স্থির।" }
+    ],
+    "synonyms": ["stable", "focused"]
+  },
+
+  {
+    "base": "disrupt",
+    "phonetic": "dɪsˈrʌpt",
+    "meaning": "ব্যাহত করা / বিশৃঙ্খলা সৃষ্টি করা",
+    "examples": [
+      {
+        "en": "The storm disrupted traffic.",
+        "bn": "ঝড় যানবাহন চলাচল ব্যাহত করল।"
+      },
+      { "en": "He disrupted the meeting.", "bn": "সে মিটিং ব্যাহত করল।" }
+    ],
+    "moreexample": [
+      { "en": "Noise disrupted the class.", "bn": "শব্দ ক্লাস ব্যাহত করল।" },
+      {
+        "en": "The event was disrupted by rain.",
+        "bn": "বৃষ্টির কারণে ইভেন্ট ব্যাহত হলো।"
+      },
+      {
+        "en": "Technology disrupts industries.",
+        "bn": "প্রযুক্তি শিল্পকে ব্যাহত করে।"
+      },
+      {
+        "en": "He disrupted the system.",
+        "bn": "সে সিস্টেমে বিশৃঙ্খলা সৃষ্টি করল।"
+      },
+      {
+        "en": "Power cut disrupted work.",
+        "bn": "বিদ্যুৎ বিভ্রাট কাজ ব্যাহত করল।"
+      },
+      {
+        "en": "They disrupted communication.",
+        "bn": "তারা যোগাযোগ ব্যাহত করল।"
+      }
+    ],
+    "synonyms": ["disturb", "interrupt"]
+  },
+
+  {
+    "base": "derive",
+    "phonetic": "dɪˈraɪv",
+    "meaning": "উৎপন্ন হওয়া / পাওয়া",
+    "examples": [
+      {
+        "en": "We derive energy from food.",
+        "bn": "আমরা খাবার থেকে শক্তি পাই।"
+      },
+      {
+        "en": "The word is derived from Latin.",
+        "bn": "শব্দটি ল্যাটিন থেকে এসেছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She derived happiness from success.",
+        "bn": "সে সাফল্য থেকে সুখ পেল।"
+      },
+      {
+        "en": "They derive income from farming.",
+        "bn": "তারা কৃষি থেকে আয় করে।"
+      },
+      {
+        "en": "The theory is derived from data.",
+        "bn": "তত্ত্বটি তথ্য থেকে এসেছে।"
+      },
+      {
+        "en": "He derived strength from family.",
+        "bn": "সে পরিবার থেকে শক্তি পেল।"
+      },
+      {
+        "en": "Results are derived logically.",
+        "bn": "ফলাফল যুক্তিভিত্তিকভাবে নির্ধারিত।"
+      },
+      {
+        "en": "Knowledge is derived from study.",
+        "bn": "জ্ঞান পড়াশোনা থেকে আসে।"
+      }
+    ],
+    "synonyms": ["obtain", "gain"]
+  },
+
+  {
+    "base": "dominate",
+    "phonetic": "ˈdɒmɪneɪt",
+    "meaning": "আধিপত্য করা",
+    "examples": [
+      {
+        "en": "The team dominated the game.",
+        "bn": "দলটি খেলায় আধিপত্য করল।"
+      },
+      {
+        "en": "She dominates the conversation.",
+        "bn": "সে আলোচনায় আধিপত্য করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The company dominates the market.",
+        "bn": "কোম্পানিটি বাজারে আধিপত্য করে।"
+      },
+      { "en": "He dominated the match.", "bn": "সে ম্যাচে আধিপত্য করল।" },
+      {
+        "en": "The idea dominates thinking.",
+        "bn": "ধারণাটি চিন্তায় আধিপত্য করে।"
+      },
+      { "en": "They dominate the industry.", "bn": "তারা শিল্পে আধিপত্য করে।" },
+      { "en": "Fear dominated his mind.", "bn": "ভয় তার মনে আধিপত্য করল।" },
+      {
+        "en": "She dominates discussions.",
+        "bn": "সে আলোচনায় প্রাধান্য পায়।"
+      }
+    ],
+    "synonyms": ["control", "rule"]
+  },
+
+  {
+    "base": "differentiate",
+    "phonetic": "ˌdɪfəˈrenʃieɪt",
+    "meaning": "পার্থক্য করা",
+    "examples": [
+      {
+        "en": "It is hard to differentiate them.",
+        "bn": "তাদের পার্থক্য করা কঠিন।"
+      },
+      {
+        "en": "She differentiated the concepts.",
+        "bn": "সে ধারণাগুলো পার্থক্য করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "We must differentiate facts.",
+        "bn": "আমাদের তথ্য পার্থক্য করতে হবে।"
+      },
+      {
+        "en": "The brain differentiates signals.",
+        "bn": "মস্তিষ্ক সংকেত পার্থক্য করে।"
+      },
+      {
+        "en": "He differentiated good and bad.",
+        "bn": "সে ভালো ও খারাপ পার্থক্য করল।"
+      },
+      {
+        "en": "It helps differentiate products.",
+        "bn": "এটি পণ্য পার্থক্য করতে সাহায্য করে।"
+      },
+      {
+        "en": "She can differentiate easily.",
+        "bn": "সে সহজে পার্থক্য করতে পারে।"
+      },
+      {
+        "en": "Education differentiates people.",
+        "bn": "শিক্ষা মানুষকে আলাদা করে।"
+      }
+    ],
+    "synonyms": ["distinguish", "separate"]
+  },
+
+  {
+    "base": "document",
+    "phonetic": "ˈdɒkjʊmənt",
+    "meaning": "নথি",
+    "examples": [
+      { "en": "Submit the document.", "bn": "নথি জমা দাও।" },
+      { "en": "The document is important.", "bn": "নথিটি গুরুত্বপূর্ণ।" }
+    ],
+    "moreexample": [
+      { "en": "He signed the document.", "bn": "সে নথিতে স্বাক্ষর করল।" },
+      { "en": "She prepared documents.", "bn": "সে নথি প্রস্তুত করল।" },
+      { "en": "The document was verified.", "bn": "নথিটি যাচাই করা হয়েছে।" },
+      { "en": "They lost the document.", "bn": "তারা নথিটি হারাল।" },
+      { "en": "Digital documents are common.", "bn": "ডিজিটাল নথি সাধারণ।" },
+      { "en": "We archived the document.", "bn": "আমরা নথিটি সংরক্ষণ করলাম।" }
+    ],
+    "synonyms": ["file", "record"]
+  },
+
+  {
+    "base": "dedicate",
+    "phonetic": "ˈdedɪkeɪt",
+    "meaning": "উৎসর্গ করা",
+    "examples": [
+      {
+        "en": "He dedicated his life to study.",
+        "bn": "সে তার জীবন পড়াশোনায় উৎসর্গ করল।"
+      },
+      { "en": "She dedicated the book.", "bn": "সে বইটি উৎসর্গ করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They dedicated time to learning.",
+        "bn": "তারা শেখার জন্য সময় উৎসর্গ করল।"
+      },
+      {
+        "en": "He dedicated himself fully.",
+        "bn": "সে নিজেকে সম্পূর্ণ উৎসর্গ করল।"
+      },
+      { "en": "She dedicated effort.", "bn": "সে প্রচেষ্টা উৎসর্গ করল।" },
+      {
+        "en": "The building is dedicated to freedom.",
+        "bn": "ভবনটি স্বাধীনতার জন্য উৎসর্গিত।"
+      },
+      {
+        "en": "We dedicate this project to success.",
+        "bn": "আমরা এই প্রজেক্ট সাফল্যের জন্য উৎসর্গ করি।"
+      },
+      { "en": "He dedicated his work.", "bn": "সে তার কাজ উৎসর্গ করল।" }
+    ],
+    "synonyms": ["devote", "commit"]
+  },
+
+  {
+    "base": "deteriorate",
+    "phonetic": "dɪˈtɪəriəreɪt",
+    "meaning": "অবনতি হওয়া",
+    "examples": [
+      { "en": "His health deteriorated.", "bn": "তার স্বাস্থ্যের অবনতি হলো।" },
+      {
+        "en": "The situation is deteriorating.",
+        "bn": "পরিস্থিতি খারাপ হচ্ছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The building deteriorated over time.",
+        "bn": "ভবনটি সময়ের সাথে অবনতি হলো।"
+      },
+      {
+        "en": "Conditions deteriorated quickly.",
+        "bn": "পরিস্থিতি দ্রুত খারাপ হলো।"
+      },
+      { "en": "Her condition deteriorated.", "bn": "তার অবস্থা খারাপ হলো।" },
+      { "en": "The quality deteriorated.", "bn": "গুণমান কমে গেল।" },
+      {
+        "en": "Relations deteriorated between them.",
+        "bn": "তাদের সম্পর্ক খারাপ হলো।"
+      },
+      {
+        "en": "The road has deteriorated.",
+        "bn": "রাস্তার অবস্থা খারাপ হয়েছে।"
+      }
+    ],
+    "synonyms": ["worsen", "decline"]
   }
 ]

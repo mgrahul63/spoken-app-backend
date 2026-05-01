@@ -1,5 +1,1702 @@
 [
   {
+    "base": "academy",
+    "phonetic": "əˈkædəmi",
+    "meaning": "একাডেমি / শিক্ষা প্রতিষ্ঠান",
+    "examples": [
+      {
+        "en": "He studies at the academy.",
+        "bn": "সে একাডেমিতে পড়াশোনা করে।"
+      },
+      { "en": "The academy is well known.", "bn": "একাডেমিটি সুপরিচিত।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She joined the academy last year.",
+        "bn": "সে গত বছর একাডেমিতে যোগ দিয়েছে।"
+      },
+      {
+        "en": "The academy offers great courses.",
+        "bn": "একাডেমিটি চমৎকার কোর্স অফার করে।"
+      },
+      {
+        "en": "I want to enter the academy.",
+        "bn": "আমি একাডেমিতে প্রবেশ করতে চাই।"
+      },
+      {
+        "en": "They graduated from the academy.",
+        "bn": "তারা একাডেমি থেকে স্নাতক হয়েছে।"
+      },
+      {
+        "en": "The academy trained many soldiers.",
+        "bn": "একাডেমিটি অনেক সৈনিককে প্রশিক্ষণ দিয়েছে।"
+      },
+      { "en": "He teaches at the academy.", "bn": "সে একাডেমিতে পড়ায়।" },
+      {
+        "en": "Our academy is very strict.",
+        "bn": "আমাদের একাডেমি খুবই কঠোর।"
+      },
+      {
+        "en": "The academy won an award.",
+        "bn": "একাডেমিটি একটি পুরস্কার জিতেছে।"
+      },
+      {
+        "en": "She applied to the academy.",
+        "bn": "সে একাডেমিতে আবেদন করেছে।"
+      },
+      {
+        "en": "The film academy is famous.",
+        "bn": "চলচ্চিত্র একাডেমিটি বিখ্যাত।"
+      }
+    ],
+    "synonyms": ["school", "institution", "college", "institute"]
+  },
+
+  {
+    "base": "ancient",
+    "phonetic": "ˈeɪnʃənt",
+    "meaning": "প্রাচীন / পুরনো",
+    "examples": [
+      { "en": "This is an ancient temple.", "bn": "এটি একটি প্রাচীন মন্দির।" },
+      {
+        "en": "They studied ancient history.",
+        "bn": "তারা প্রাচীন ইতিহাস পড়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Ancient civilizations were advanced.",
+        "bn": "প্রাচীন সভ্যতাগুলো উন্নত ছিল।"
+      },
+      {
+        "en": "He loves ancient artifacts.",
+        "bn": "সে প্রাচীন নিদর্শন পছন্দ করে।"
+      },
+      {
+        "en": "The ancient city was discovered.",
+        "bn": "প্রাচীন শহরটি আবিষ্কৃত হয়েছিল।"
+      },
+      {
+        "en": "She reads about ancient cultures.",
+        "bn": "সে প্রাচীন সংস্কৃতি নিয়ে পড়ে।"
+      },
+      {
+        "en": "Ancient ruins are fascinating.",
+        "bn": "প্রাচীন ধ্বংসাবশেষ আকর্ষণীয়।"
+      },
+      {
+        "en": "They found ancient coins.",
+        "bn": "তারা প্রাচীন মুদ্রা খুঁজে পেয়েছে।"
+      },
+      {
+        "en": "Ancient Egypt was powerful.",
+        "bn": "প্রাচীন মিশর শক্তিশালী ছিল।"
+      },
+      {
+        "en": "He studies ancient languages.",
+        "bn": "সে প্রাচীন ভাষা পড়াশোনা করে।"
+      },
+      {
+        "en": "The ancient wall still stands.",
+        "bn": "প্রাচীন দেয়ালটি এখনও দাঁড়িয়ে আছে।"
+      },
+      {
+        "en": "Ancient tools were simple.",
+        "bn": "প্রাচীন সরঞ্জামগুলো সহজ ছিল।"
+      }
+    ],
+    "synonyms": ["old", "historic", "archaic", "antique", "primitive"]
+  },
+
+  {
+    "base": "appreciate",
+    "phonetic": "əˈpriːʃieɪt",
+    "meaning": "কৃতজ্ঞ হওয়া / মূল্য দেওয়া",
+    "examples": [
+      {
+        "en": "I appreciate your help.",
+        "bn": "আমি তোমার সাহায্যের মূল্য দিই।"
+      },
+      {
+        "en": "She appreciates kind words.",
+        "bn": "সে দয়ালু কথার মূল্য দেয়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He appreciates good music.",
+        "bn": "সে ভালো সংগীতের মূল্য দেয়।"
+      },
+      {
+        "en": "They appreciate our efforts.",
+        "bn": "তারা আমাদের প্রচেষ্টার মূল্য দেয়।"
+      },
+      {
+        "en": "I really appreciate this gift.",
+        "bn": "আমি সত্যিই এই উপহারটির মূল্য দিই।"
+      },
+      {
+        "en": "She appreciated his honesty.",
+        "bn": "সে তার সততার মূল্য দিয়েছে।"
+      },
+      {
+        "en": "We appreciate your patience.",
+        "bn": "আমরা তোমার ধৈর্যের মূল্য দিই।"
+      },
+      {
+        "en": "He appreciated the warm welcome.",
+        "bn": "সে উষ্ণ অভ্যর্থনার মূল্য দিয়েছে।"
+      },
+      { "en": "I appreciate your time.", "bn": "আমি তোমার সময়ের মূল্য দিই।" },
+      {
+        "en": "They appreciated the feedback.",
+        "bn": "তারা মতামতের মূল্য দিয়েছে।"
+      },
+      { "en": "She appreciates nature.", "bn": "সে প্রকৃতির মূল্য দেয়।" },
+      {
+        "en": "He does not appreciate laziness.",
+        "bn": "সে অলসতার মূল্য দেয় না।"
+      }
+    ],
+    "synonyms": ["value", "admire", "recognize", "acknowledge", "treasure"]
+  },
+  {
+    "base": "available",
+    "phonetic": "əˈveɪləbl",
+    "meaning": "পাওয়া যায় / উপলব্ধ",
+    "examples": [
+      { "en": "Is this book available?", "bn": "এই বইটি কি পাওয়া যায়?" },
+      { "en": "She is available now.", "bn": "সে এখন উপলব্ধ।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The product is available online.",
+        "bn": "পণ্যটি অনলাইনে পাওয়া যায়।"
+      },
+      { "en": "He is not available today.", "bn": "সে আজ উপলব্ধ নয়।" },
+      { "en": "Seats are still available.", "bn": "আসন এখনও পাওয়া যাচ্ছে।" },
+      { "en": "The doctor is available now.", "bn": "ডাক্তার এখন উপলব্ধ।" },
+      {
+        "en": "This item is available in red.",
+        "bn": "এই আইটেমটি লালে পাওয়া যায়।"
+      },
+      {
+        "en": "Help is available at all times.",
+        "bn": "সাহায্য সবসময় পাওয়া যায়।"
+      },
+      {
+        "en": "No rooms are available tonight.",
+        "bn": "আজ রাতে কোনো ঘর পাওয়া যাচ্ছে না।"
+      },
+      {
+        "en": "The service is available free.",
+        "bn": "সেবাটি বিনামূল্যে পাওয়া যায়।"
+      },
+      { "en": "Are you available on Monday?", "bn": "তুমি কি সোমবার উপলব্ধ?" },
+      {
+        "en": "The app is available for download.",
+        "bn": "অ্যাপটি ডাউনলোডের জন্য পাওয়া যায়।"
+      }
+    ],
+    "synonyms": ["accessible", "obtainable", "free", "ready", "on hand"]
+  },
+  {
+    "base": "argue",
+    "phonetic": "ˈɑːrɡjuː",
+    "meaning": "তর্ক করা / যুক্তি দেওয়া",
+    "examples": [
+      { "en": "They always argue.", "bn": "তারা সবসময় তর্ক করে।" },
+      {
+        "en": "He argued with his friend.",
+        "bn": "সে তার বন্ধুর সাথে তর্ক করলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She argued against the decision.",
+        "bn": "সে সিদ্ধান্তের বিরুদ্ধে তর্ক করলো।"
+      },
+      {
+        "en": "They argue about everything.",
+        "bn": "তারা সবকিছু নিয়ে তর্ক করে।"
+      },
+      { "en": "I don't like to argue.", "bn": "আমি তর্ক করতে পছন্দ করি না।" },
+      {
+        "en": "He argued his point well.",
+        "bn": "সে তার বক্তব্য ভালোভাবে উপস্থাপন করলো।"
+      },
+      { "en": "We argued for an hour.", "bn": "আমরা এক ঘণ্টা তর্ক করলাম।" },
+      { "en": "She argues very loudly.", "bn": "সে খুব জোরে তর্ক করে।" },
+      {
+        "en": "Don't argue with your parents.",
+        "bn": "তোমার বাবা-মার সাথে তর্ক করো না।"
+      },
+      { "en": "They argued in the street.", "bn": "তারা রাস্তায় তর্ক করলো।" },
+      {
+        "en": "He argued that he was right.",
+        "bn": "সে যুক্তি দিলো যে সে সঠিক।"
+      },
+      {
+        "en": "She argued with the teacher.",
+        "bn": "সে শিক্ষকের সাথে তর্ক করলো।"
+      }
+    ],
+    "synonyms": ["debate", "dispute", "quarrel", "disagree", "contend"]
+  },
+  {
+    "base": "alive",
+    "phonetic": "əˈlaɪv",
+    "meaning": "জীবিত / বেঁচে আছে",
+    "examples": [
+      { "en": "He is still alive.", "bn": "সে এখনও জীবিত।" },
+      { "en": "The fish is alive.", "bn": "মাছটি জীবিত।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She is lucky to be alive.",
+        "bn": "সে জীবিত থাকতে পেরে ভাগ্যবান।"
+      },
+      { "en": "They found him alive.", "bn": "তারা তাকে জীবিত পেয়েছে।" },
+      { "en": "Is the patient alive?", "bn": "রোগী কি জীবিত?" },
+      {
+        "en": "The fire kept them alive.",
+        "bn": "আগুন তাদের বাঁচিয়ে রেখেছিল।"
+      },
+      {
+        "en": "I feel so alive today.",
+        "bn": "আমি আজ খুব প্রাণবন্ত অনুভব করছি।"
+      },
+      { "en": "Music keeps him alive.", "bn": "সংগীত তাকে প্রাণবন্ত রাখে।" },
+      { "en": "He barely escaped alive.", "bn": "সে辛কষ্টে জীবিত পালিয়েছে।" },
+      { "en": "She was found alive.", "bn": "তাকে জীবিত পাওয়া গেছে।" },
+      {
+        "en": "They are all alive and well.",
+        "bn": "তারা সকলে জীবিত ও সুস্থ।"
+      },
+      { "en": "The tradition is still alive.", "bn": "ঐতিহ্যটি এখনও জীবন্ত।" }
+    ],
+    "synonyms": ["living", "breathing", "surviving", "existing", "active"]
+  },
+  {
+    "base": "achieve",
+    "phonetic": "əˈtʃiːv",
+    "meaning": "অর্জন করা / সাধন করা",
+    "examples": [
+      { "en": "She achieved her goal.", "bn": "সে তার লক্ষ্য অর্জন করেছে।" },
+      {
+        "en": "He wants to achieve success.",
+        "bn": "সে সাফল্য অর্জন করতে চায়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They achieved great results.",
+        "bn": "তারা দুর্দান্ত ফলাফল অর্জন করেছে।"
+      },
+      { "en": "I will achieve my dream.", "bn": "আমি আমার স্বপ্ন পূরণ করবো।" },
+      {
+        "en": "Hard work helps achieve goals.",
+        "bn": "কঠোর পরিশ্রম লক্ষ্য অর্জনে সহায়তা করে।"
+      },
+      {
+        "en": "She achieved top marks.",
+        "bn": "সে সর্বোচ্চ নম্বর অর্জন করেছে।"
+      },
+      {
+        "en": "He achieved fame early.",
+        "bn": "সে তাড়াতাড়ি খ্যাতি অর্জন করেছে।"
+      },
+      {
+        "en": "We achieved our target.",
+        "bn": "আমরা আমাদের লক্ষ্যমাত্রা অর্জন করেছি।"
+      },
+      {
+        "en": "Nothing is achieved without effort.",
+        "bn": "প্রচেষ্টা ছাড়া কিছুই অর্জন হয় না।"
+      },
+      {
+        "en": "They achieved what they wanted.",
+        "bn": "তারা যা চেয়েছিল তা অর্জন করেছে।"
+      },
+      {
+        "en": "She achieved her ambition.",
+        "bn": "সে তার উচ্চাকাঙ্ক্ষা পূরণ করেছে।"
+      },
+      { "en": "He achieved the impossible.", "bn": "সে অসম্ভবকে সম্ভব করেছে।" }
+    ],
+    "synonyms": ["accomplish", "attain", "reach", "fulfill", "complete"]
+  },
+  {
+    "base": "advise",
+    "phonetic": "ədˈvaɪz",
+    "meaning": "পরামর্শ দেওয়া",
+    "examples": [
+      {
+        "en": "I advise you to rest.",
+        "bn": "আমি তোমাকে বিশ্রাম নিতে পরামর্শ দিই।"
+      },
+      {
+        "en": "She advised him carefully.",
+        "bn": "সে তাকে সাবধানে পরামর্শ দিয়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He advised me to study.",
+        "bn": "সে আমাকে পড়াশোনা করতে পরামর্শ দিয়েছে।"
+      },
+      {
+        "en": "They advised against the trip.",
+        "bn": "তারা ভ্রমণের বিরুদ্ধে পরামর্শ দিয়েছে।"
+      },
+      {
+        "en": "I was advised to wait.",
+        "bn": "আমাকে অপেক্ষা করতে পরামর্শ দেওয়া হয়েছে।"
+      },
+      {
+        "en": "She advises students daily.",
+        "bn": "সে প্রতিদিন শিক্ষার্থীদের পরামর্শ দেয়।"
+      },
+      {
+        "en": "He advised them strongly.",
+        "bn": "সে তাদের জোরালোভাবে পরামর্শ দিয়েছে।"
+      },
+      {
+        "en": "We advise caution here.",
+        "bn": "আমরা এখানে সতর্কতার পরামর্শ দিই।"
+      },
+      {
+        "en": "The doctor advised rest.",
+        "bn": "ডাক্তার বিশ্রামের পরামর্শ দিয়েছেন।"
+      },
+      {
+        "en": "She advised him not to go.",
+        "bn": "সে তাকে না যেতে পরামর্শ দিয়েছে।"
+      },
+      {
+        "en": "They advised a new plan.",
+        "bn": "তারা একটি নতুন পরিকল্পনার পরামর্শ দিয়েছে।"
+      },
+      {
+        "en": "He advises the president.",
+        "bn": "সে রাষ্ট্রপতিকে পরামর্শ দেয়।"
+      }
+    ],
+    "synonyms": ["counsel", "guide", "recommend", "suggest", "warn"]
+  },
+  {
+    "base": "already",
+    "phonetic": "ɔːlˈredi",
+    "meaning": "ইতিমধ্যে / আগেই",
+    "examples": [
+      { "en": "I have already eaten.", "bn": "আমি ইতিমধ্যে খেয়েছি।" },
+      { "en": "She already knows.", "bn": "সে আগে থেকেই জানে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He already left the house.",
+        "bn": "সে ইতিমধ্যে বাড়ি ছেড়ে গেছে।"
+      },
+      {
+        "en": "They already finished work.",
+        "bn": "তারা ইতিমধ্যে কাজ শেষ করেছে।"
+      },
+      {
+        "en": "I already told you this.",
+        "bn": "আমি তোমাকে এটা আগেই বলেছিলাম।"
+      },
+      { "en": "She has already gone.", "bn": "সে ইতিমধ্যে চলে গেছে।" },
+      {
+        "en": "We already know the answer.",
+        "bn": "আমরা ইতিমধ্যে উত্তর জানি।"
+      },
+      {
+        "en": "He already bought the ticket.",
+        "bn": "সে ইতিমধ্যে টিকিট কিনেছে।"
+      },
+      { "en": "Is it already morning?", "bn": "ইতিমধ্যে কি সকাল হয়ে গেছে?" },
+      { "en": "They already arrived.", "bn": "তারা ইতিমধ্যে পৌঁছেছে।" },
+      {
+        "en": "I already did my homework.",
+        "bn": "আমি ইতিমধ্যে আমার হোমওয়ার্ক করেছি।"
+      },
+      {
+        "en": "She already sent the email.",
+        "bn": "সে ইতিমধ্যে ইমেইল পাঠিয়েছে।"
+      }
+    ],
+    "synonyms": ["by now", "previously", "before now", "so soon", "even now"]
+  },
+  {
+    "base": "appear",
+    "phonetic": "əˈpɪər",
+    "meaning": "দেখা দেওয়া / আবির্ভূত হওয়া",
+    "examples": [
+      { "en": "Stars appear at night.", "bn": "রাতে তারা দেখা দেয়।" },
+      { "en": "He appeared suddenly.", "bn": "সে হঠাৎ আবির্ভূত হলো।" }
+    ],
+    "moreexample": [
+      { "en": "She appeared on stage.", "bn": "সে মঞ্চে আবির্ভূত হলো।" },
+      {
+        "en": "They appeared very tired.",
+        "bn": "তারা খুব ক্লান্ত দেখাচ্ছিল।"
+      },
+      { "en": "He appears happy today.", "bn": "সে আজ খুশি দেখাচ্ছে।" },
+      {
+        "en": "A ghost appeared in the dark.",
+        "bn": "অন্ধকারে একটি ভূত দেখা দিল।"
+      },
+      { "en": "She appeared calm.", "bn": "সে শান্ত দেখাচ্ছিল।" },
+      { "en": "He appears to be honest.", "bn": "সে সৎ বলে মনে হয়।" },
+      {
+        "en": "They appeared out of nowhere.",
+        "bn": "তারা হঠাৎ কোথা থেকে আবির্ভূত হলো।"
+      },
+      { "en": "The sun appeared at dawn.", "bn": "ভোরে সূর্য দেখা দিল।" },
+      { "en": "She appears to be sleeping.", "bn": "সে ঘুমাচ্ছে বলে মনে হয়।" },
+      { "en": "He appeared in court.", "bn": "সে আদালতে হাজির হলো।" }
+    ],
+    "synonyms": ["emerge", "show up", "come into view", "surface", "arise"]
+  },
+  {
+    "base": "actual",
+    "phonetic": "ˈæktʃuəl",
+    "meaning": "প্রকৃত / আসল",
+    "examples": [
+      { "en": "What is the actual cost?", "bn": "প্রকৃত খরচ কত?" },
+      { "en": "Tell me the actual truth.", "bn": "আমাকে আসল সত্য বলো।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The actual result surprised us.",
+        "bn": "প্রকৃত ফলাফল আমাদের অবাক করেছে।"
+      },
+      { "en": "His actual age is unknown.", "bn": "তার আসল বয়স অজানা।" },
+      { "en": "The actual problem is different.", "bn": "আসল সমস্যাটি আলাদা।" },
+      {
+        "en": "She found the actual cause.",
+        "bn": "সে আসল কারণ খুঁজে পেয়েছে।"
+      },
+      { "en": "What is the actual plan?", "bn": "আসল পরিকল্পনা কি?" },
+      { "en": "His actual name is Robert.", "bn": "তার আসল নাম রবার্ট।" },
+      { "en": "The actual size is bigger.", "bn": "আসল আকার আরও বড়।" },
+      { "en": "Tell me the actual story.", "bn": "আমাকে আসল গল্পটি বলো।" },
+      {
+        "en": "The actual event was different.",
+        "bn": "প্রকৃত ঘটনাটি আলাদা ছিল।"
+      },
+      {
+        "en": "She showed the actual proof.",
+        "bn": "সে প্রকৃত প্রমাণ দেখিয়েছে।"
+      }
+    ],
+    "synonyms": ["real", "genuine", "true", "existing", "factual"]
+  },
+  {
+    "base": "amaze",
+    "phonetic": "əˈmeɪz",
+    "meaning": "অবাক করা / বিস্মিত করা",
+    "examples": [
+      { "en": "She amazed everyone.", "bn": "সে সবাইকে অবাক করে দিল।" },
+      { "en": "His skills amaze me.", "bn": "তার দক্ষতা আমাকে বিস্মিত করে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The magic trick amazed them.",
+        "bn": "যাদুর কৌশলটি তাদের বিস্মিত করলো।"
+      },
+      {
+        "en": "She is always amazing us.",
+        "bn": "সে সবসময় আমাদের অবাক করছে।"
+      },
+      { "en": "He amazed the crowd.", "bn": "সে দর্শকদের বিস্মিত করলো।" },
+      {
+        "en": "It amazes me how fast he is.",
+        "bn": "সে কত দ্রুত তা আমাকে অবাক করে।"
+      },
+      { "en": "The view amazed her.", "bn": "দৃশ্যটি তাকে অবাক করলো।" },
+      {
+        "en": "They were amazed by the news.",
+        "bn": "তারা সংবাদটি দেখে বিস্মিত হলো।"
+      },
+      {
+        "en": "His memory amazes me.",
+        "bn": "তার স্মৃতিশক্তি আমাকে বিস্মিত করে।"
+      },
+      { "en": "She amazed her teacher.", "bn": "সে তার শিক্ষককে অবাক করলো।" },
+      {
+        "en": "I am always amazed by nature.",
+        "bn": "আমি সবসময় প্রকৃতিতে বিস্মিত হই।"
+      },
+      { "en": "They amazed the audience.", "bn": "তারা দর্শকদের বিস্মিত করলো।" }
+    ],
+    "synonyms": ["astonish", "surprise", "stun", "astound", "impress"]
+  },
+  {
+    "base": "advance",
+    "phonetic": "ədˈvɑːns",
+    "meaning": "অগ্রগতি / এগিয়ে যাওয়া",
+    "examples": [
+      { "en": "Science continues to advance.", "bn": "বিজ্ঞান এগিয়ে যাচ্ছে।" },
+      { "en": "They advance slowly.", "bn": "তারা আস্তে আস্তে এগিয়ে যায়।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He advanced in his career.",
+        "bn": "সে তার ক্যারিয়ারে এগিয়ে গেছে।"
+      },
+      {
+        "en": "The army advanced forward.",
+        "bn": "সেনাবাহিনী সামনে এগিয়ে গেল।"
+      },
+      {
+        "en": "She advanced her studies.",
+        "bn": "সে তার পড়াশোনা এগিয়ে নিয়েছে।"
+      },
+      {
+        "en": "Technology advances every day.",
+        "bn": "প্রযুক্তি প্রতিদিন এগিয়ে যাচ্ছে।"
+      },
+      { "en": "He made an advance payment.", "bn": "সে অগ্রিম পেমেন্ট করলো।" },
+      {
+        "en": "They advance with confidence.",
+        "bn": "তারা আত্মবিশ্বাসের সাথে এগিয়ে যায়।"
+      },
+      {
+        "en": "She advanced to the next level.",
+        "bn": "সে পরবর্তী স্তরে এগিয়ে গেল।"
+      },
+      {
+        "en": "We advance our knowledge daily.",
+        "bn": "আমরা প্রতিদিন আমাদের জ্ঞান বাড়াই।"
+      },
+      {
+        "en": "He advanced his position.",
+        "bn": "সে তার অবস্থান এগিয়ে নিলো।"
+      },
+      {
+        "en": "The plan advanced well.",
+        "bn": "পরিকল্পনাটি ভালোভাবে এগিয়ে চললো।"
+      }
+    ],
+    "synonyms": ["progress", "move forward", "develop", "improve", "promote"]
+  },
+  {
+    "base": "associate",
+    "phonetic": "əˈsoʊsieɪt",
+    "meaning": "সংযুক্ত করা / সম্পর্কযুক্ত করা",
+    "examples": [
+      {
+        "en": "I associate him with kindness.",
+        "bn": "আমি তাকে দয়ার সাথে সংযুক্ত করি।"
+      },
+      { "en": "They are business associates.", "bn": "তারা ব্যবসায়িক সহযোগী।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She associates red with danger.",
+        "bn": "সে লালকে বিপদের সাথে যুক্ত করে।"
+      },
+      {
+        "en": "He associates with good people.",
+        "bn": "সে ভালো মানুষদের সাথে মেলামেশা করে।"
+      },
+      {
+        "en": "Don't associate with bad habits.",
+        "bn": "খারাপ অভ্যাসের সাথে যুক্ত হয়ো না।"
+      },
+      {
+        "en": "They associated the smell with food.",
+        "bn": "তারা গন্ধকে খাবারের সাথে যুক্ত করলো।"
+      },
+      {
+        "en": "She is associated with that group.",
+        "bn": "সে সেই গ্রুপের সাথে যুক্ত।"
+      },
+      {
+        "en": "I associate summer with happiness.",
+        "bn": "আমি গ্রীষ্মকে সুখের সাথে যুক্ত করি।"
+      },
+      {
+        "en": "He associates pain with effort.",
+        "bn": "সে ব্যথাকে পরিশ্রমের সাথে যুক্ত করে।"
+      },
+      {
+        "en": "They associate freely.",
+        "bn": "তারা স্বাধীনভাবে মেলামেশা করে।"
+      },
+      {
+        "en": "She associates work with success.",
+        "bn": "সে কাজকে সাফল্যের সাথে যুক্ত করে।"
+      },
+      {
+        "en": "We associate this place with fun.",
+        "bn": "আমরা এই জায়গাটিকে মজার সাথে যুক্ত করি।"
+      }
+    ],
+    "synonyms": ["connect", "link", "relate", "join", "affiliate"]
+  },
+  {
+    "base": "advice",
+    "phonetic": "ədˈvaɪs",
+    "meaning": "পরামর্শ / উপদেশ",
+    "examples": [
+      {
+        "en": "She gave me good advice.",
+        "bn": "সে আমাকে ভালো পরামর্শ দিয়েছে।"
+      },
+      {
+        "en": "Follow the doctor's advice.",
+        "bn": "ডাক্তারের পরামর্শ মেনে চলো।"
+      }
+    ],
+    "moreexample": [
+      { "en": "I need your advice.", "bn": "আমার তোমার পরামর্শ দরকার।" },
+      { "en": "His advice was helpful.", "bn": "তার পরামর্শ সহায়ক ছিল।" },
+      { "en": "She ignored his advice.", "bn": "সে তার পরামর্শ উপেক্ষা করলো।" },
+      {
+        "en": "They gave me bad advice.",
+        "bn": "তারা আমাকে খারাপ পরামর্শ দিয়েছে।"
+      },
+      { "en": "He asked for advice.", "bn": "সে পরামর্শ চাইলো।" },
+      { "en": "Take my advice please.", "bn": "দয়া করে আমার পরামর্শ নাও।" },
+      {
+        "en": "The advice was very useful.",
+        "bn": "পরামর্শটি খুবই উপকারী ছিল।"
+      },
+      {
+        "en": "She always gives good advice.",
+        "bn": "সে সবসময় ভালো পরামর্শ দেয়।"
+      },
+      {
+        "en": "We need expert advice.",
+        "bn": "আমাদের বিশেষজ্ঞ পরামর্শ দরকার।"
+      },
+      { "en": "He never takes advice.", "bn": "সে কখনো পরামর্শ নেয় না।" }
+    ],
+    "synonyms": ["guidance", "suggestion", "recommendation", "counsel", "tip"]
+  },
+  {
+    "base": "attention",
+    "phonetic": "əˈtenʃən",
+    "meaning": "মনোযোগ / দৃষ্টি",
+    "examples": [
+      { "en": "Pay attention in class.", "bn": "ক্লাসে মনোযোগ দাও।" },
+      { "en": "She needs attention.", "bn": "সে মনোযোগ চায়।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He caught everyone's attention.",
+        "bn": "সে সবার মনোযোগ আকর্ষণ করলো।"
+      },
+      {
+        "en": "Please give me your attention.",
+        "bn": "অনুগ্রহ করে আমার দিকে মনোযোগ দাও।"
+      },
+      {
+        "en": "The child needs more attention.",
+        "bn": "শিশুটির আরও মনোযোগ দরকার।"
+      },
+      {
+        "en": "She paid attention to details.",
+        "bn": "সে বিস্তারিত বিষয়ে মনোযোগ দিয়েছে।"
+      },
+      {
+        "en": "His speech got attention.",
+        "bn": "তার বক্তৃতা মনোযোগ পেয়েছে।"
+      },
+      {
+        "en": "They directed attention to the issue.",
+        "bn": "তারা বিষয়টির দিকে মনোযোগ দিলো।"
+      },
+      { "en": "Attention is needed here.", "bn": "এখানে মনোযোগ দরকার।" },
+      { "en": "She craves attention.", "bn": "সে মনোযোগ চায়।" },
+      {
+        "en": "I lost my attention quickly.",
+        "bn": "আমি দ্রুত মনোযোগ হারিয়ে ফেললাম।"
+      },
+      {
+        "en": "He thanked them for their attention.",
+        "bn": "সে তাদের মনোযোগের জন্য ধন্যবাদ জানালো।"
+      }
+    ],
+    "synonyms": ["focus", "concentration", "notice", "awareness", "heed"]
+  },
+  {
+    "base": "attract",
+    "phonetic": "əˈtrækt",
+    "meaning": "আকর্ষণ করা / টানা",
+    "examples": [
+      { "en": "Flowers attract bees.", "bn": "ফুল মৌমাছিকে আকর্ষণ করে।" },
+      {
+        "en": "She attracts attention easily.",
+        "bn": "সে সহজেই মনোযোগ আকর্ষণ করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He attracts many friends.", "bn": "সে অনেক বন্ধু আকর্ষণ করে।" },
+      {
+        "en": "The market attracts tourists.",
+        "bn": "বাজারটি পর্যটকদের আকর্ষণ করে।"
+      },
+      {
+        "en": "She attracted his attention.",
+        "bn": "সে তার মনোযোগ আকর্ষণ করলো।"
+      },
+      {
+        "en": "Bright colors attract children.",
+        "bn": "উজ্জ্বল রং শিশুদের আকর্ষণ করে।"
+      },
+      { "en": "Money attracts greed.", "bn": "অর্থ লোভকে আকর্ষণ করে।" },
+      {
+        "en": "The city attracts many people.",
+        "bn": "শহরটি অনেক মানুষকে আকর্ষণ করে।"
+      },
+      {
+        "en": "He was attracted to her smile.",
+        "bn": "সে তার হাসিতে আকৃষ্ট হয়েছিল।"
+      },
+      {
+        "en": "The sale attracted buyers.",
+        "bn": "বিক্রয়টি ক্রেতাদের আকর্ষণ করলো।"
+      },
+      {
+        "en": "She attracts good opportunities.",
+        "bn": "সে ভালো সুযোগ আকর্ষণ করে।"
+      },
+      { "en": "Music attracts a crowd.", "bn": "সংগীত একটি ভিড় আকর্ষণ করে।" }
+    ],
+    "synonyms": ["draw", "pull", "lure", "charm", "entice"]
+  },
+  {
+    "base": "actually",
+    "phonetic": "ˈæktʃuəli",
+    "meaning": "আসলে / প্রকৃতপক্ষে",
+    "examples": [
+      { "en": "I actually like this.", "bn": "আমি আসলে এটি পছন্দ করি।" },
+      { "en": "She actually told the truth.", "bn": "সে আসলে সত্য বলেছে।" }
+    ],
+    "moreexample": [
+      { "en": "He actually did it.", "bn": "সে আসলে এটি করেছে।" },
+      { "en": "I actually forgot.", "bn": "আমি আসলে ভুলে গিয়েছিলাম।" },
+      { "en": "They actually enjoyed it.", "bn": "তারা আসলে এটি উপভোগ করেছে।" },
+      { "en": "She actually knows him.", "bn": "সে আসলে তাকে চেনে।" },
+      { "en": "That actually happened.", "bn": "সেটা আসলে ঘটেছিল।" },
+      { "en": "I actually agree with you.", "bn": "আমি আসলে তোমার সাথে একমত।" },
+      { "en": "He actually won the race.", "bn": "সে আসলে দৌড়ে জিতেছে।" },
+      { "en": "We actually met before.", "bn": "আমরা আসলে আগে দেখা করেছিলাম।" },
+      { "en": "She actually loves reading.", "bn": "সে আসলে পড়তে ভালোবাসে।" },
+      { "en": "It actually works.", "bn": "এটা আসলে কাজ করে।" }
+    ],
+    "synonyms": ["in fact", "really", "truly", "indeed", "in reality"]
+  },
+  {
+    "base": "audience",
+    "phonetic": "ˈɔːdiəns",
+    "meaning": "দর্শক / শ্রোতা",
+    "examples": [
+      {
+        "en": "The audience clapped loudly.",
+        "bn": "দর্শকরা জোরে হাততালি দিল।"
+      },
+      {
+        "en": "She spoke to a large audience.",
+        "bn": "সে বড় দর্শকদের সামনে বললো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The audience enjoyed the show.",
+        "bn": "দর্শকরা অনুষ্ঠানটি উপভোগ করলো।"
+      },
+      { "en": "He addressed the audience.", "bn": "সে দর্শকদের উদ্দেশে বললো।" },
+      { "en": "The audience was silent.", "bn": "দর্শকরা নীরব ছিল।" },
+      {
+        "en": "She won the audience's heart.",
+        "bn": "সে দর্শকদের হৃদয় জয় করলো।"
+      },
+      {
+        "en": "A large audience gathered.",
+        "bn": "একটি বড় দর্শকগোষ্ঠী জড়ো হলো।"
+      },
+      {
+        "en": "The audience laughed at the joke.",
+        "bn": "কৌতুকে দর্শকরা হাসলো।"
+      },
+      {
+        "en": "They performed for the audience.",
+        "bn": "তারা দর্শকদের জন্য পরিবেশনা করলো।"
+      },
+      { "en": "The audience cheered.", "bn": "দর্শকরা উল্লাস করলো।" },
+      { "en": "He thanked the audience.", "bn": "সে দর্শকদের ধন্যবাদ জানালো।" },
+      {
+        "en": "The audience left satisfied.",
+        "bn": "দর্শকরা সন্তুষ্ট হয়ে চলে গেল।"
+      }
+    ],
+    "synonyms": ["viewers", "spectators", "crowd", "listeners", "public"]
+  },
+  {
+    "base": "above",
+    "phonetic": "əˈbʌv",
+    "meaning": "উপরে / উপরস্থ",
+    "examples": [
+      { "en": "The sky is above us.", "bn": "আকাশ আমাদের উপরে।" },
+      { "en": "The answer is above.", "bn": "উত্তরটি উপরে আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The bird flew above the tree.",
+        "bn": "পাখিটি গাছের উপর দিয়ে উড়লো।"
+      },
+      { "en": "He lives above the shop.", "bn": "সে দোকানের উপরে থাকে।" },
+      {
+        "en": "The temperature is above normal.",
+        "bn": "তাপমাত্রা স্বাভাবিকের উপরে।"
+      },
+      {
+        "en": "Please read the above text.",
+        "bn": "অনুগ্রহ করে উপরের লেখাটি পড়ুন।"
+      },
+      {
+        "en": "The plane flew above clouds.",
+        "bn": "বিমানটি মেঘের উপর দিয়ে উড়লো।"
+      },
+      {
+        "en": "She ranked above everyone.",
+        "bn": "সে সবার উপরে স্থান পেয়েছে।"
+      },
+      { "en": "Above all, stay honest.", "bn": "সবার উপরে, সৎ থাকো।" },
+      { "en": "The water rose above the bank.", "bn": "পানি তীরের উপরে উঠলো।" },
+      { "en": "He scored above average.", "bn": "সে গড়ের উপরে স্কোর করেছে।" },
+      { "en": "The sign is above the door.", "bn": "সাইনটি দরজার উপরে।" }
+    ],
+    "synonyms": ["over", "higher than", "on top of", "beyond", "exceeding"]
+  },
+  {
+    "base": "ahead",
+    "phonetic": "əˈhed",
+    "meaning": "সামনে / এগিয়ে",
+    "examples": [
+      { "en": "Walk straight ahead.", "bn": "সোজা সামনে হাঁটো।" },
+      { "en": "She is always ahead.", "bn": "সে সবসময় এগিয়ে।" }
+    ],
+    "moreexample": [
+      { "en": "He looked ahead carefully.", "bn": "সে সাবধানে সামনে তাকালো।" },
+      { "en": "They ran ahead of us.", "bn": "তারা আমাদের আগে দৌড়লো।" },
+      {
+        "en": "Plan ahead for success.",
+        "bn": "সাফল্যের জন্য আগে থেকে পরিকল্পনা করো।"
+      },
+      { "en": "The road ahead is long.", "bn": "সামনের পথ দীর্ঘ।" },
+      { "en": "She moved ahead quickly.", "bn": "সে দ্রুত এগিয়ে গেল।" },
+      { "en": "Go ahead and start.", "bn": "এগিয়ে যাও এবং শুরু করো।" },
+      {
+        "en": "He was ahead by ten points.",
+        "bn": "সে দশ পয়েন্টে এগিয়ে ছিল।"
+      },
+      {
+        "en": "They thought ahead wisely.",
+        "bn": "তারা জ্ঞানবুদ্ধির সাথে আগে ভাবলো।"
+      },
+      { "en": "The future lies ahead.", "bn": "ভবিষ্যৎ সামনে অপেক্ষা করছে।" },
+      {
+        "en": "She stepped ahead bravely.",
+        "bn": "সে সাহসের সাথে সামনে এগিয়ে গেল।"
+      }
+    ],
+    "synonyms": ["forward", "in front", "in advance", "onward", "before"]
+  },
+  {
+    "base": "amount",
+    "phonetic": "əˈmaʊnt",
+    "meaning": "পরিমাণ / সংখ্যা",
+    "examples": [
+      { "en": "The amount is too high.", "bn": "পরিমাণটি অনেক বেশি।" },
+      { "en": "A small amount of sugar.", "bn": "অল্প পরিমাণ চিনি।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He paid a large amount.",
+        "bn": "সে একটি বড় পরিমাণ পরিশোধ করলো।"
+      },
+      { "en": "The amount was not enough.", "bn": "পরিমাণটি যথেষ্ট ছিল না।" },
+      {
+        "en": "She saved a good amount.",
+        "bn": "সে একটি ভালো পরিমাণ সঞ্চয় করেছে।"
+      },
+      {
+        "en": "They spent a huge amount.",
+        "bn": "তারা একটি বিশাল পরিমাণ ব্যয় করলো।"
+      },
+      { "en": "What is the total amount?", "bn": "মোট পরিমাণ কত?" },
+      {
+        "en": "A small amount goes a long way.",
+        "bn": "অল্প পরিমাণ অনেক দূর যায়।"
+      },
+      {
+        "en": "The amount doubles every year.",
+        "bn": "পরিমাণ প্রতি বছর দ্বিগুণ হয়।"
+      },
+      { "en": "He calculated the amount.", "bn": "সে পরিমাণ হিসাব করলো।" },
+      {
+        "en": "We need a certain amount.",
+        "bn": "আমাদের একটি নির্দিষ্ট পরিমাণ দরকার।"
+      },
+      { "en": "The amount was refunded.", "bn": "পরিমাণটি ফেরত দেওয়া হলো।" }
+    ],
+    "synonyms": ["quantity", "sum", "total", "number", "volume"]
+  },
+  {
+    "base": "afraid",
+    "phonetic": "əˈfreɪd",
+    "meaning": "ভয় পাওয়া / ভীত",
+    "examples": [
+      { "en": "She is afraid of dogs.", "bn": "সে কুকুরকে ভয় পায়।" },
+      { "en": "Don't be afraid.", "bn": "ভয় পেয়ো না।" }
+    ],
+    "moreexample": [
+      { "en": "He was afraid of the dark.", "bn": "সে অন্ধকারকে ভয় পেতো।" },
+      {
+        "en": "They were afraid to speak.",
+        "bn": "তারা কথা বলতে ভয় পেয়েছিল।"
+      },
+      {
+        "en": "I am not afraid of failure.",
+        "bn": "আমি ব্যর্থতাকে ভয় পাই না।"
+      },
+      {
+        "en": "She was afraid to go alone.",
+        "bn": "সে একা যেতে ভয় পেয়েছিল।"
+      },
+      { "en": "Are you afraid of heights?", "bn": "তুমি কি উচ্চতাকে ভয় পাও?" },
+      { "en": "He is afraid of losing.", "bn": "সে হারকে ভয় পায়।" },
+      {
+        "en": "They were afraid of the storm.",
+        "bn": "তারা ঝড়কে ভয় পেয়েছিল।"
+      },
+      {
+        "en": "I was afraid to ask.",
+        "bn": "আমি জিজ্ঞেস করতে ভয় পেয়েছিলাম।"
+      },
+      { "en": "She seems afraid.", "bn": "সে ভীত মনে হচ্ছে।" },
+      { "en": "He was afraid of the teacher.", "bn": "সে শিক্ষককে ভয় পেতো।" }
+    ],
+    "synonyms": ["scared", "frightened", "fearful", "terrified", "anxious"]
+  },
+  {
+    "base": "angry",
+    "phonetic": "ˈæŋɡri",
+    "meaning": "রাগান্বিত / ক্রুদ্ধ",
+    "examples": [
+      { "en": "He is very angry.", "bn": "সে খুব রাগান্বিত।" },
+      { "en": "She got angry suddenly.", "bn": "সে হঠাৎ রাগান্বিত হলো।" }
+    ],
+    "moreexample": [
+      { "en": "Don't make him angry.", "bn": "তাকে রাগান্বিত করো না।" },
+      {
+        "en": "She was angry at the result.",
+        "bn": "সে ফলাফলে রাগান্বিত হলো।"
+      },
+      {
+        "en": "They became angry quickly.",
+        "bn": "তারা দ্রুত রাগান্বিত হয়ে গেল।"
+      },
+      {
+        "en": "He looked angry all day.",
+        "bn": "সে সারাদিন রাগান্বিত দেখাচ্ছিল।"
+      },
+      { "en": "I am angry about this.", "bn": "আমি এটি নিয়ে রাগান্বিত।" },
+      {
+        "en": "She stays angry for hours.",
+        "bn": "সে ঘণ্টার পর ঘণ্টা রাগান্বিত থাকে।"
+      },
+      { "en": "He was angry with me.", "bn": "সে আমার উপর রাগান্বিত ছিল।" },
+      { "en": "The angry crowd shouted.", "bn": "রাগান্বিত জনতা চিৎকার করলো।" },
+      {
+        "en": "She became angry and left.",
+        "bn": "সে রাগান্বিত হয়ে চলে গেল।"
+      },
+      { "en": "Try not to get angry.", "bn": "রাগান্বিত না হওয়ার চেষ্টা করো।" }
+    ],
+    "synonyms": ["furious", "mad", "irritated", "upset", "enraged"]
+  },
+  {
+    "base": "adventure",
+    "phonetic": "ədˈventʃər",
+    "meaning": "অ্যাডভেঞ্চার / রোমাঞ্চকর অভিজ্ঞতা",
+    "examples": [
+      { "en": "Life is an adventure.", "bn": "জীবন একটি অ্যাডভেঞ্চার।" },
+      {
+        "en": "They went on an adventure.",
+        "bn": "তারা একটি অ্যাডভেঞ্চারে গেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He loves outdoor adventure.",
+        "bn": "সে বাইরের অ্যাডভেঞ্চার পছন্দ করে।"
+      },
+      {
+        "en": "She had a great adventure.",
+        "bn": "সে একটি দুর্দান্ত অ্যাডভেঞ্চার পেয়েছে।"
+      },
+      {
+        "en": "Every trip is an adventure.",
+        "bn": "প্রতিটি ভ্রমণ একটি অ্যাডভেঞ্চার।"
+      },
+      {
+        "en": "The adventure was thrilling.",
+        "bn": "অ্যাডভেঞ্চারটি রোমাঞ্চকর ছিল।"
+      },
+      {
+        "en": "I want to go on an adventure.",
+        "bn": "আমি একটি অ্যাডভেঞ্চারে যেতে চাই।"
+      },
+      {
+        "en": "They read adventure stories.",
+        "bn": "তারা অ্যাডভেঞ্চারের গল্প পড়ে।"
+      },
+      {
+        "en": "She enjoys adventure sports.",
+        "bn": "সে অ্যাডভেঞ্চার স্পোর্টস উপভোগ করে।"
+      },
+      {
+        "en": "The adventure began at dawn.",
+        "bn": "অ্যাডভেঞ্চারটি ভোরে শুরু হলো।"
+      },
+      {
+        "en": "He found adventure in the jungle.",
+        "bn": "সে জঙ্গলে অ্যাডভেঞ্চার খুঁজে পেয়েছে।"
+      },
+      {
+        "en": "Adventure awaits the brave.",
+        "bn": "অ্যাডভেঞ্চার সাহসীদের জন্য অপেক্ষা করে।"
+      }
+    ],
+    "synonyms": ["excitement", "experience", "exploit", "journey", "quest"]
+  },
+  {
+    "base": "approach",
+    "phonetic": "əˈproʊtʃ",
+    "meaning": "কাছে আসা / পদ্ধতি",
+    "examples": [
+      { "en": "He approached the house.", "bn": "সে বাড়ির কাছে এলো।" },
+      { "en": "Try a different approach.", "bn": "ভিন্ন পদ্ধতি চেষ্টা করো।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She approached him carefully.",
+        "bn": "সে তার কাছে সাবধানে এলো।"
+      },
+      { "en": "The storm is approaching.", "bn": "ঝড় কাছে আসছে।" },
+      { "en": "I need a new approach.", "bn": "আমার একটি নতুন পদ্ধতি দরকার।" },
+      {
+        "en": "They approached the problem well.",
+        "bn": "তারা সমস্যাটি ভালোভাবে মোকাবেলা করলো।"
+      },
+      { "en": "He approached slowly.", "bn": "সে ধীরে ধীরে কাছে এলো।" },
+      {
+        "en": "She approaches work seriously.",
+        "bn": "সে কাজকে গুরুত্বের সাথে নেয়।"
+      },
+      { "en": "The deadline is approaching.", "bn": "সময়সীমা কাছে আসছে।" },
+      {
+        "en": "He didn't know how to approach.",
+        "bn": "সে কীভাবে যোগাযোগ করবে জানতো না।"
+      },
+      {
+        "en": "Their approach was different.",
+        "bn": "তাদের পদ্ধতি ভিন্ন ছিল।"
+      },
+      { "en": "She approached the teacher.", "bn": "সে শিক্ষকের কাছে এলো।" }
+    ],
+    "synonyms": ["method", "come near", "advance", "strategy", "tackle"]
+  },
+  {
+    "base": "alien",
+    "phonetic": "ˈeɪliən",
+    "meaning": "বিদেশি / অপরিচিত / এলিয়েন",
+    "examples": [
+      {
+        "en": "He felt like an alien.",
+        "bn": "সে একজন বিদেশির মতো অনুভব করলো।"
+      },
+      {
+        "en": "She watched an alien movie.",
+        "bn": "সে একটি এলিয়েন সিনেমা দেখলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The concept is alien to me.",
+        "bn": "ধারণাটি আমার কাছে অপরিচিত।"
+      },
+      { "en": "He is an alien in this city.", "bn": "সে এই শহরে একজন বিদেশি।" },
+      {
+        "en": "The alien idea shocked them.",
+        "bn": "অপরিচিত ধারণাটি তাদের চমকে দিলো।"
+      },
+      {
+        "en": "She felt alien in the group.",
+        "bn": "সে গ্রুপে অপরিচিত অনুভব করলো।"
+      },
+      { "en": "The language was alien.", "bn": "ভাষাটি অপরিচিত ছিল।" },
+      {
+        "en": "He studied alien cultures.",
+        "bn": "সে বিদেশি সংস্কৃতি পড়াশোনা করলো।"
+      },
+      { "en": "Alien life may exist.", "bn": "মহাজাগতিক প্রাণ থাকতে পারে।" },
+      {
+        "en": "The food was alien to her.",
+        "bn": "খাবারটি তার কাছে অপরিচিত ছিল।"
+      },
+      { "en": "They felt like aliens.", "bn": "তারা বিদেশির মতো অনুভব করলো।" },
+      {
+        "en": "This is alien to our culture.",
+        "bn": "এটি আমাদের সংস্কৃতির কাছে অপরিচিত।"
+      }
+    ],
+    "synonyms": [
+      "foreigner",
+      "outsider",
+      "stranger",
+      "extraterrestrial",
+      "unknown"
+    ]
+  },
+  {
+    "base": "among",
+    "phonetic": "əˈmʌŋ",
+    "meaning": "মধ্যে / মাঝে",
+    "examples": [
+      {
+        "en": "She sat among her friends.",
+        "bn": "সে তার বন্ধুদের মধ্যে বসলো।"
+      },
+      { "en": "He is among the best.", "bn": "সে সেরাদের মধ্যে একজন।" }
+    ],
+    "moreexample": [
+      { "en": "The thief was among them.", "bn": "চোরটি তাদের মধ্যে ছিল।" },
+      {
+        "en": "She is popular among students.",
+        "bn": "সে শিক্ষার্থীদের মধ্যে জনপ্রিয়।"
+      },
+      {
+        "en": "Among all choices, this is best.",
+        "bn": "সকল পছন্দের মধ্যে এটি সেরা।"
+      },
+      {
+        "en": "He stood among the crowd.",
+        "bn": "সে ভিড়ের মধ্যে দাঁড়িয়েছিল।"
+      },
+      {
+        "en": "Share it among yourselves.",
+        "bn": "এটি নিজেদের মধ্যে ভাগ করো।"
+      },
+      {
+        "en": "She is among the top students.",
+        "bn": "সে শীর্ষ শিক্ষার্থীদের মধ্যে।"
+      },
+      {
+        "en": "Among us, she is the youngest.",
+        "bn": "আমাদের মধ্যে সে সবচেয়ে ছোট।"
+      },
+      {
+        "en": "He found peace among trees.",
+        "bn": "সে গাছের মধ্যে শান্তি পেয়েছে।"
+      },
+      {
+        "en": "They argued among themselves.",
+        "bn": "তারা নিজেদের মধ্যে তর্ক করলো।"
+      },
+      { "en": "This is common among boys.", "bn": "এটি ছেলেদের মধ্যে সাধারণ।" }
+    ],
+    "synonyms": [
+      "between",
+      "amid",
+      "in the middle of",
+      "surrounded by",
+      "within"
+    ]
+  },
+  {
+    "base": "appropriate",
+    "phonetic": "əˈproʊpriət",
+    "meaning": "উপযুক্ত / সঠিক",
+    "examples": [
+      { "en": "This is not appropriate.", "bn": "এটি উপযুক্ত নয়।" },
+      { "en": "Wear appropriate clothes.", "bn": "উপযুক্ত পোশাক পরো।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She gave an appropriate answer.",
+        "bn": "সে একটি উপযুক্ত উত্তর দিয়েছে।"
+      },
+      {
+        "en": "He used appropriate language.",
+        "bn": "সে উপযুক্ত ভাষা ব্যবহার করলো।"
+      },
+      { "en": "The timing was appropriate.", "bn": "সময়টি উপযুক্ত ছিল।" },
+      {
+        "en": "They took appropriate action.",
+        "bn": "তারা উপযুক্ত পদক্ষেপ নিয়েছে।"
+      },
+      {
+        "en": "Is this appropriate for kids?",
+        "bn": "এটা কি শিশুদের জন্য উপযুক্ত?"
+      },
+      {
+        "en": "He chose an appropriate gift.",
+        "bn": "সে উপযুক্ত উপহার বেছে নিলো।"
+      },
+      {
+        "en": "Please behave appropriately.",
+        "bn": "অনুগ্রহ করে যথাযথভাবে আচরণ করো।"
+      },
+      { "en": "This is the appropriate time.", "bn": "এটিই উপযুক্ত সময়।" },
+      {
+        "en": "She made an appropriate comment.",
+        "bn": "সে একটি উপযুক্ত মন্তব্য করলো।"
+      },
+      {
+        "en": "An appropriate response is needed.",
+        "bn": "একটি উপযুক্ত প্রতিক্রিয়া প্রয়োজন।"
+      }
+    ],
+    "synonyms": ["suitable", "proper", "fitting", "correct", "right"]
+  },
+  {
+    "base": "aware",
+    "phonetic": "əˈwer",
+    "meaning": "সচেতন / জানা",
+    "examples": [
+      { "en": "Are you aware of this?", "bn": "তুমি কি এটি সম্পর্কে সচেতন?" },
+      { "en": "She is aware of the risk.", "bn": "সে ঝুঁকি সম্পর্কে সচেতন।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He is aware of his mistake.",
+        "bn": "সে তার ভুল সম্পর্কে সচেতন।"
+      },
+      {
+        "en": "They are aware of the plan.",
+        "bn": "তারা পরিকল্পনা সম্পর্কে সচেতন।"
+      },
+      {
+        "en": "I was not aware of this.",
+        "bn": "আমি এটি সম্পর্কে সচেতন ছিলাম না।"
+      },
+      {
+        "en": "She is aware of the problem.",
+        "bn": "সে সমস্যা সম্পর্কে সচেতন।"
+      },
+      {
+        "en": "We should be more aware.",
+        "bn": "আমাদের আরও সচেতন হওয়া উচিত।"
+      },
+      {
+        "en": "He became aware of the danger.",
+        "bn": "সে বিপদ সম্পর্কে সচেতন হলো।"
+      },
+      {
+        "en": "Are they aware of the rules?",
+        "bn": "তারা কি নিয়ম সম্পর্কে সচেতন?"
+      },
+      {
+        "en": "She grew aware of her talent.",
+        "bn": "সে তার প্রতিভা সম্পর্কে সচেতন হলো।"
+      },
+      {
+        "en": "Stay aware of your surroundings.",
+        "bn": "তোমার পরিবেশ সম্পর্কে সচেতন থাকো।"
+      },
+      { "en": "I am fully aware.", "bn": "আমি সম্পূর্ণ সচেতন।" }
+    ],
+    "synonyms": ["conscious", "informed", "knowledgeable", "mindful", "alert"]
+  },
+  {
+    "base": "advantage",
+    "phonetic": "ədˈvɑːntɪdʒ",
+    "meaning": "সুবিধা / উপকার",
+    "examples": [
+      { "en": "This is a great advantage.", "bn": "এটি একটি বড় সুবিধা।" },
+      { "en": "She took advantage of it.", "bn": "সে এর সুবিধা নিয়েছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He has an advantage over others.",
+        "bn": "সে অন্যদের তুলনায় সুবিধা রাখে।"
+      },
+      {
+        "en": "Education is a big advantage.",
+        "bn": "শিক্ষা একটি বড় সুবিধা।"
+      },
+      {
+        "en": "They used every advantage.",
+        "bn": "তারা প্রতিটি সুবিধা ব্যবহার করলো।"
+      },
+      { "en": "Being tall is an advantage.", "bn": "লম্বা হওয়া একটি সুবিধা।" },
+      {
+        "en": "I used my advantage wisely.",
+        "bn": "আমি আমার সুবিধা বুদ্ধিমত্তার সাথে ব্যবহার করলাম।"
+      },
+      { "en": "She gained an advantage.", "bn": "সে একটি সুবিধা পেয়েছে।" },
+      { "en": "Speed is his main advantage.", "bn": "গতি তার প্রধান সুবিধা।" },
+      { "en": "They have a home advantage.", "bn": "তাদের ঘরের সুবিধা আছে।" },
+      {
+        "en": "Use your advantage well.",
+        "bn": "তোমার সুবিধা ভালোভাবে কাজে লাগাও।"
+      },
+      {
+        "en": "Knowledge is a true advantage.",
+        "bn": "জ্ঞান একটি সত্যিকারের সুবিধা।"
+      }
+    ],
+    "synonyms": ["benefit", "edge", "gain", "asset", "upper hand"]
+  },
+  {
+    "base": "announce",
+    "phonetic": "əˈnaʊns",
+    "meaning": "ঘোষণা করা / জানানো",
+    "examples": [
+      { "en": "He announced the winner.", "bn": "সে বিজয়ীর নাম ঘোষণা করলো।" },
+      {
+        "en": "They announced a new policy.",
+        "bn": "তারা একটি নতুন নীতি ঘোষণা করলো।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She announced her retirement.", "bn": "সে অবসরের ঘোষণা দিলো।" },
+      {
+        "en": "The teacher announced results.",
+        "bn": "শিক্ষক ফলাফল ঘোষণা করলেন।"
+      },
+      { "en": "He announced the news.", "bn": "সে খবর ঘোষণা করলো।" },
+      {
+        "en": "They announced a new product.",
+        "bn": "তারা একটি নতুন পণ্য ঘোষণা করলো।"
+      },
+      {
+        "en": "The president announced the plan.",
+        "bn": "রাষ্ট্রপতি পরিকল্পনা ঘোষণা করলেন।"
+      },
+      {
+        "en": "She announced her engagement.",
+        "bn": "সে তার বাগদানের ঘোষণা দিলো।"
+      },
+      { "en": "He announced it loudly.", "bn": "সে জোরে ঘোষণা করলো।" },
+      { "en": "We announced the date.", "bn": "আমরা তারিখ ঘোষণা করলাম।" },
+      {
+        "en": "They announced changes in rules.",
+        "bn": "তারা নিয়মে পরিবর্তন ঘোষণা করলো।"
+      },
+      {
+        "en": "The anchor announced breaking news.",
+        "bn": "উপস্থাপক ব্রেকিং নিউজ ঘোষণা করলো।"
+      }
+    ],
+    "synonyms": ["declare", "proclaim", "reveal", "broadcast", "notify"]
+  },
+  {
+    "base": "accept",
+    "phonetic": "əkˈsept",
+    "meaning": "গ্রহণ করা / মেনে নেওয়া",
+    "examples": [
+      {
+        "en": "Please accept my apology.",
+        "bn": "অনুগ্রহ করে আমার ক্ষমা গ্রহণ করো।"
+      },
+      { "en": "She accepted the offer.", "bn": "সে প্রস্তাবটি গ্রহণ করলো।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He accepted the challenge.",
+        "bn": "সে চ্যালেঞ্জটি গ্রহণ করলো।"
+      },
+      {
+        "en": "They accepted our help.",
+        "bn": "তারা আমাদের সাহায্য গ্রহণ করলো।"
+      },
+      { "en": "I accept my mistake.", "bn": "আমি আমার ভুল স্বীকার করি।" },
+      { "en": "She accepted the gift.", "bn": "সে উপহারটি গ্রহণ করলো।" },
+      {
+        "en": "He accepted defeat gracefully.",
+        "bn": "সে পরাজয় মর্যাদার সাথে মেনে নিলো।"
+      },
+      {
+        "en": "We accept all kinds of people.",
+        "bn": "আমরা সব ধরনের মানুষকে গ্রহণ করি।"
+      },
+      { "en": "They accepted the terms.", "bn": "তারা শর্তগুলো মেনে নিলো।" },
+      {
+        "en": "She accepted him as a friend.",
+        "bn": "সে তাকে বন্ধু হিসেবে গ্রহণ করলো।"
+      },
+      { "en": "He didn't accept the answer.", "bn": "সে উত্তরটি গ্রহণ করেনি।" },
+      {
+        "en": "Accept reality and move on.",
+        "bn": "বাস্তবতা মেনে নাও এবং এগিয়ে যাও।"
+      }
+    ],
+    "synonyms": ["receive", "take", "agree to", "admit", "embrace"]
+  },
+  {
+    "base": "against",
+    "phonetic": "əˈɡenst",
+    "meaning": "বিরুদ্ধে / বিরোধী",
+    "examples": [
+      { "en": "She is against the idea.", "bn": "সে ধারণাটির বিরুদ্ধে।" },
+      {
+        "en": "He fought against injustice.",
+        "bn": "সে অবিচারের বিরুদ্ধে লড়াই করলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They voted against the bill.",
+        "bn": "তারা বিলের বিরুদ্ধে ভোট দিলো।"
+      },
+      { "en": "I am against violence.", "bn": "আমি সহিংসতার বিরুদ্ধে।" },
+      { "en": "He leaned against the wall.", "bn": "সে দেয়ালে হেলান দিলো।" },
+      {
+        "en": "She spoke against the plan.",
+        "bn": "সে পরিকল্পনার বিরুদ্ধে কথা বললো।"
+      },
+      {
+        "en": "They struggled against the wind.",
+        "bn": "তারা বাতাসের বিরুদ্ধে সংগ্রাম করলো।"
+      },
+      { "en": "He is against cheating.", "bn": "সে প্রতারণার বিরুদ্ধে।" },
+      {
+        "en": "She placed it against the door.",
+        "bn": "সে দরজার বিরুদ্ধে রাখলো।"
+      },
+      {
+        "en": "Going against the rules is wrong.",
+        "bn": "নিয়মের বিরুদ্ধে যাওয়া ভুল।"
+      },
+      {
+        "en": "He protested against the law.",
+        "bn": "সে আইনের বিরুদ্ধে প্রতিবাদ করলো।"
+      },
+      {
+        "en": "She is against wasting food.",
+        "bn": "সে খাবার নষ্ট করার বিরুদ্ধে।"
+      }
+    ],
+    "synonyms": ["opposed to", "versus", "contrary to", "in opposition", "anti"]
+  },
+  {
+    "base": "asleep",
+    "phonetic": "əˈsliːp",
+    "meaning": "ঘুমন্ত / ঘুমিয়ে",
+    "examples": [
+      { "en": "The baby is asleep.", "bn": "শিশুটি ঘুমন্ত।" },
+      { "en": "She fell asleep quickly.", "bn": "সে দ্রুত ঘুমিয়ে পড়লো।" }
+    ],
+    "moreexample": [
+      { "en": "He is fast asleep.", "bn": "সে গভীর ঘুমে।" },
+      {
+        "en": "They fell asleep early.",
+        "bn": "তারা তাড়াতাড়ি ঘুমিয়ে পড়লো।"
+      },
+      { "en": "I found him asleep.", "bn": "আমি তাকে ঘুমন্ত পেয়েছি।" },
+      {
+        "en": "She was asleep all morning.",
+        "bn": "সে সারা সকাল ঘুমিয়ে ছিল।"
+      },
+      { "en": "The child is asleep now.", "bn": "শিশুটি এখন ঘুমন্ত।" },
+      { "en": "He fell asleep on the sofa.", "bn": "সে সোফায় ঘুমিয়ে পড়লো।" },
+      {
+        "en": "I was asleep when he called.",
+        "bn": "সে ফোন করার সময় আমি ঘুমিয়ে ছিলাম।"
+      },
+      { "en": "They are still asleep.", "bn": "তারা এখনও ঘুমাচ্ছে।" },
+      {
+        "en": "She fell asleep during the movie.",
+        "bn": "সিনেমার সময় সে ঘুমিয়ে পড়লো।"
+      },
+      {
+        "en": "He was asleep by nine.",
+        "bn": "সে নয়টার মধ্যে ঘুমিয়ে পড়েছিল।"
+      }
+    ],
+    "synonyms": ["sleeping", "dozing", "slumbering", "napping", "resting"]
+  },
+  {
+    "base": "alone",
+    "phonetic": "əˈloʊn",
+    "meaning": "একা / নিঃসঙ্গ",
+    "examples": [
+      { "en": "She lives alone.", "bn": "সে একা থাকে।" },
+      { "en": "He walked alone.", "bn": "সে একা হাঁটলো।" }
+    ],
+    "moreexample": [
+      { "en": "I feel alone sometimes.", "bn": "আমি মাঝে মাঝে একা অনুভব করি।" },
+      { "en": "She sat alone in the dark.", "bn": "সে অন্ধকারে একা বসে ছিল।" },
+      { "en": "He worked alone all day.", "bn": "সে সারাদিন একা কাজ করলো।" },
+      {
+        "en": "They were left alone.",
+        "bn": "তাদের একা ছেড়ে দেওয়া হয়েছিল।"
+      },
+      { "en": "Don't leave me alone.", "bn": "আমাকে একা রেখে যেয়ো না।" },
+      { "en": "She traveled alone.", "bn": "সে একা ভ্রমণ করলো।" },
+      { "en": "He prefers to be alone.", "bn": "সে একা থাকতে পছন্দ করে।" },
+      { "en": "I am not alone in this.", "bn": "এতে আমি একা নই।" },
+      { "en": "She solved it alone.", "bn": "সে এটি একা সমাধান করলো।" },
+      {
+        "en": "We are never truly alone.",
+        "bn": "আমরা কখনো সত্যিকার অর্থে একা নই।"
+      }
+    ],
+    "synonyms": ["by oneself", "solo", "lonely", "solitary", "isolated"]
+  },
+  {
+    "base": "apartment",
+    "phonetic": "əˈpɑːrtmənt",
+    "meaning": "অ্যাপার্টমেন্ট / ফ্ল্যাট",
+    "examples": [
+      {
+        "en": "She rents an apartment.",
+        "bn": "সে একটি অ্যাপার্টমেন্ট ভাড়া নেয়।"
+      },
+      { "en": "The apartment is small.", "bn": "অ্যাপার্টমেন্টটি ছোট।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He bought a new apartment.",
+        "bn": "সে একটি নতুন অ্যাপার্টমেন্ট কিনলো।"
+      },
+      {
+        "en": "They live in an apartment.",
+        "bn": "তারা একটি অ্যাপার্টমেন্টে থাকে।"
+      },
+      {
+        "en": "The apartment has two rooms.",
+        "bn": "অ্যাপার্টমেন্টে দুটি ঘর আছে।"
+      },
+      {
+        "en": "She decorated her apartment.",
+        "bn": "সে তার অ্যাপার্টমেন্ট সাজালো।"
+      },
+      {
+        "en": "The apartment is on the fifth floor.",
+        "bn": "অ্যাপার্টমেন্টটি পঞ্চম তলায়।"
+      },
+      {
+        "en": "He moved into a new apartment.",
+        "bn": "সে নতুন অ্যাপার্টমেন্টে উঠলো।"
+      },
+      {
+        "en": "My apartment is near the school.",
+        "bn": "আমার অ্যাপার্টমেন্ট স্কুলের কাছে।"
+      },
+      {
+        "en": "She shared an apartment.",
+        "bn": "সে একটি অ্যাপার্টমেন্ট শেয়ার করলো।"
+      },
+      {
+        "en": "The apartment rent is high.",
+        "bn": "অ্যাপার্টমেন্টের ভাড়া বেশি।"
+      },
+      {
+        "en": "They found a cheap apartment.",
+        "bn": "তারা একটি সস্তা অ্যাপার্টমেন্ট খুঁজে পেয়েছে।"
+      }
+    ],
+    "synonyms": ["flat", "unit", "room", "studio", "residence"]
+  },
+  {
+    "base": "article",
+    "phonetic": "ˈɑːrtɪkl",
+    "meaning": "প্রবন্ধ / নিবন্ধ / বস্তু",
+    "examples": [
+      {
+        "en": "I read an interesting article.",
+        "bn": "আমি একটি আকর্ষণীয় প্রবন্ধ পড়লাম।"
+      },
+      { "en": "She wrote an article.", "bn": "সে একটি নিবন্ধ লিখলো।" }
+    ],
+    "moreexample": [
+      { "en": "He published an article.", "bn": "সে একটি নিবন্ধ প্রকাশ করলো।" },
+      { "en": "The article was informative.", "bn": "প্রবন্ধটি তথ্যবহুল ছিল।" },
+      {
+        "en": "She found the article useful.",
+        "bn": "সে প্রবন্ধটি উপকারী মনে করলো।"
+      },
+      {
+        "en": "They wrote articles for newspapers.",
+        "bn": "তারা সংবাদপত্রের জন্য নিবন্ধ লিখলো।"
+      },
+      {
+        "en": "The article discussed climate change.",
+        "bn": "প্রবন্ধটি জলবায়ু পরিবর্তন নিয়ে আলোচনা করলো।"
+      },
+      {
+        "en": "He shared the article online.",
+        "bn": "সে অনলাইনে নিবন্ধটি শেয়ার করলো।"
+      },
+      {
+        "en": "I need to write an article.",
+        "bn": "আমাকে একটি নিবন্ধ লিখতে হবে।"
+      },
+      {
+        "en": "The article was well written.",
+        "bn": "প্রবন্ধটি ভালোভাবে লেখা ছিল।"
+      },
+      { "en": "She cited the article.", "bn": "সে প্রবন্ধটি উদ্ধৃত করলো।" },
+      {
+        "en": "The article got many views.",
+        "bn": "প্রবন্ধটি অনেক ভিউ পেয়েছে।"
+      }
+    ],
+    "synonyms": ["piece", "essay", "report", "write-up", "item"]
+  },
+  {
+    "base": "attitude",
+    "phonetic": "ˈætɪtjuːd",
+    "meaning": "মনোভাব / দৃষ্টিভঙ্গি",
+    "examples": [
+      { "en": "Her attitude is positive.", "bn": "তার মনোভাব ইতিবাচক।" },
+      { "en": "Change your attitude.", "bn": "তোমার মনোভাব পরিবর্তন করো।" }
+    ],
+    "moreexample": [
+      { "en": "He has a bad attitude.", "bn": "তার মনোভাব খারাপ।" },
+      {
+        "en": "A good attitude helps success.",
+        "bn": "ভালো মনোভাব সাফল্যে সহায়তা করে।"
+      },
+      {
+        "en": "She kept a positive attitude.",
+        "bn": "সে ইতিবাচক মনোভাব বজায় রাখলো।"
+      },
+      {
+        "en": "They praised her attitude.",
+        "bn": "তারা তার মনোভাবের প্রশংসা করলো।"
+      },
+      {
+        "en": "His attitude needs improvement.",
+        "bn": "তার মনোভাবের উন্নতি দরকার।"
+      },
+      { "en": "Don't show a rude attitude.", "bn": "রুক্ষ মনোভাব দেখিয়ো না।" },
+      {
+        "en": "Her attitude changed over time.",
+        "bn": "তার মনোভাব সময়ের সাথে পরিবর্তিত হলো।"
+      },
+      { "en": "A calm attitude is best.", "bn": "শান্ত মনোভাবই সেরা।" },
+      {
+        "en": "He carries a friendly attitude.",
+        "bn": "সে বন্ধুত্বপূর্ণ মনোভাব বহন করে।"
+      },
+      {
+        "en": "Your attitude defines you.",
+        "bn": "তোমার মনোভাব তোমাকে সংজ্ঞায়িত করে।"
+      }
+    ],
+    "synonyms": ["mindset", "outlook", "perspective", "approach", "stance"]
+  },
+  {
     "base": "anymore",
     "phonetic": "ˌeniˈmɔːr",
     "meaning": "আর / এখন আর",
