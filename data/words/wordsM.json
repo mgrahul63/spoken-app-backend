@@ -20,5 +20,3433 @@
       { "en": "He married quietly.", "bn": "" }
     ],
     "synonyms": ["wed", "get married", "tie the knot", "espouse", "unite"]
+  },
+
+  {
+    "base": "magic",
+    "phonetic": "ˈmædʒɪk",
+    "meaning": "জাদু",
+    "examples": [
+      {
+        "en": "This place feels like magic.",
+        "bn": "এই জায়গাটা জাদুর মতো লাগে।"
+      },
+      { "en": "He believes in magic.", "bn": "সে জাদুতে বিশ্বাস করে।" }
+    ],
+    "moreexample": [
+      { "en": "The show was full of magic.", "bn": "শোটি জাদুতে ভরা ছিল।" },
+      {
+        "en": "Magic can’t solve real problems.",
+        "bn": "জাদু বাস্তব সমস্যা সমাধান করতে পারে না।"
+      },
+      { "en": "She performed magic tricks.", "bn": "সে জাদুর কৌশল দেখিয়েছে।" },
+      {
+        "en": "Children love magic stories.",
+        "bn": "শিশুরা জাদুর গল্প ভালোবাসে।"
+      },
+      { "en": "Magic amazed everyone.", "bn": "জাদু সবাইকে অবাক করেছিল।" },
+      {
+        "en": "He learned magic from a book.",
+        "bn": "সে বই থেকে জাদু শিখেছে।"
+      },
+      { "en": "Magic is entertaining.", "bn": "জাদু বিনোদনমূলক।" },
+      { "en": "They watched a magic show.", "bn": "তারা একটি জাদু শো দেখেছে।" },
+      { "en": "Magic created wonder.", "bn": "জাদু বিস্ময় সৃষ্টি করেছিল।" },
+      { "en": "I don’t believe in magic.", "bn": "আমি জাদুতে বিশ্বাস করি না।" }
+    ],
+    "synonyms": ["illusion", "sorcery", "wizardry", "enchantment"]
+  },
+  {
+    "base": "major",
+    "phonetic": "ˈmeɪdʒər",
+    "meaning": "প্রধান / গুরুত্বপূর্ণ",
+    "examples": [
+      { "en": "This is a major problem.", "bn": "এটি একটি বড় সমস্যা।" },
+      {
+        "en": "He plays a major role.",
+        "bn": "সে একটি গুরুত্বপূর্ণ ভূমিকা পালন করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Major changes are coming.", "bn": "বড় পরিবর্তন আসছে।" },
+      { "en": "It was a major success.", "bn": "এটি ছিল একটি বড় সাফল্য।" },
+      {
+        "en": "She made a major decision.",
+        "bn": "সে একটি গুরুত্বপূর্ণ সিদ্ধান্ত নিয়েছে।"
+      },
+      { "en": "This is a major issue.", "bn": "এটি একটি প্রধান সমস্যা।" },
+      {
+        "en": "He is a major player in business.",
+        "bn": "সে ব্যবসায় একটি গুরুত্বপূর্ণ ব্যক্তি।"
+      },
+      { "en": "Major roads were blocked.", "bn": "প্রধান সড়কগুলো বন্ধ ছিল।" },
+      { "en": "It had a major impact.", "bn": "এটি বড় প্রভাব ফেলেছিল।" },
+      { "en": "Major cities are crowded.", "bn": "প্রধান শহরগুলো ভিড়পূর্ণ।" },
+      { "en": "This is a major achievement.", "bn": "এটি একটি বড় অর্জন।" },
+      {
+        "en": "He faced a major challenge.",
+        "bn": "সে একটি বড় চ্যালেঞ্জের মুখোমুখি হয়েছে।"
+      }
+    ],
+    "synonyms": ["important", "chief", "primary", "significant"]
+  },
+  {
+    "base": "make",
+    "phonetic": "meɪk",
+    "meaning": "তৈরি করা",
+    "examples": [
+      { "en": "I will make tea.", "bn": "আমি চা বানাব।" },
+      { "en": "She made a cake.", "bn": "সে একটি কেক বানিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "Make a decision quickly.", "bn": "দ্রুত সিদ্ধান্ত নাও।" },
+      { "en": "He makes toys.", "bn": "সে খেলনা তৈরি করে।" },
+      { "en": "They made a plan.", "bn": "তারা একটি পরিকল্পনা করেছে।" },
+      { "en": "Make your bed.", "bn": "তোমার বিছানা গুছাও।" },
+      { "en": "She makes money online.", "bn": "সে অনলাইনে টাকা উপার্জন করে।" },
+      { "en": "We made a promise.", "bn": "আমরা একটি প্রতিশ্রুতি দিয়েছি।" },
+      { "en": "He made a mistake.", "bn": "সে একটি ভুল করেছে।" },
+      { "en": "Make time for study.", "bn": "পড়াশোনার জন্য সময় বের করো।" },
+      { "en": "They made progress.", "bn": "তারা অগ্রগতি করেছে।" },
+      { "en": "Make it simple.", "bn": "এটাকে সহজ করো।" }
+    ],
+    "synonyms": ["create", "build", "form", "produce"]
+  },
+
+  {
+    "base": "manage",
+    "phonetic": "ˈmænɪdʒ",
+    "meaning": "পরিচালনা করা",
+    "examples": [
+      {
+        "en": "She manages a company.",
+        "bn": "সে একটি কোম্পানি পরিচালনা করে।"
+      },
+      {
+        "en": "He can manage his time well.",
+        "bn": "সে তার সময় ভালোভাবে পরিচালনা করতে পারে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They manage the project carefully.",
+        "bn": "তারা প্রকল্পটি যত্নসহকারে পরিচালনা করে।"
+      },
+      {
+        "en": "I can manage this task.",
+        "bn": "আমি এই কাজটি পরিচালনা করতে পারি।"
+      },
+      { "en": "She manages a team.", "bn": "সে একটি দল পরিচালনা করে।" },
+      {
+        "en": "He cannot manage the pressure.",
+        "bn": "সে চাপ সামলাতে পারে না।"
+      },
+      {
+        "en": "They manage everything smoothly.",
+        "bn": "তারা সবকিছু মসৃণভাবে পরিচালনা করে।"
+      },
+      {
+        "en": "We manage our expenses.",
+        "bn": "আমরা আমাদের খরচ পরিচালনা করি।"
+      },
+      {
+        "en": "She manages her studies and job.",
+        "bn": "সে তার পড়াশোনা ও কাজ পরিচালনা করে।"
+      },
+      { "en": "He manages a store.", "bn": "সে একটি দোকান পরিচালনা করে।" },
+      {
+        "en": "They manage resources wisely.",
+        "bn": "তারা সম্পদ বুদ্ধিমানের সাথে পরিচালনা করে।"
+      },
+      {
+        "en": "I managed the situation well.",
+        "bn": "আমি পরিস্থিতি ভালোভাবে সামলেছি।"
+      }
+    ],
+    "synonyms": ["handle", "control", "run", "administer"]
+  },
+  {
+    "base": "market",
+    "phonetic": "ˈmɑːrkɪt",
+    "meaning": "বাজার",
+    "examples": [
+      { "en": "I went to the market.", "bn": "আমি বাজারে গিয়েছিলাম।" },
+      { "en": "The market is crowded.", "bn": "বাজারটি ভিড়পূর্ণ।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She buys vegetables from the market.",
+        "bn": "সে বাজার থেকে সবজি কেনে।"
+      },
+      { "en": "The market opens early.", "bn": "বাজার ভোরে খোলে।" },
+      { "en": "Prices in the market are high.", "bn": "বাজারে দাম বেশি।" },
+      {
+        "en": "He sells goods in the market.",
+        "bn": "সে বাজারে পণ্য বিক্রি করে।"
+      },
+      { "en": "The market is busy today.", "bn": "আজ বাজার ব্যস্ত।" },
+      {
+        "en": "They went to the fish market.",
+        "bn": "তারা মাছের বাজারে গিয়েছিল।"
+      },
+      {
+        "en": "Online market is growing.",
+        "bn": "অনলাইন বাজার বৃদ্ধি পাচ্ছে।"
+      },
+      { "en": "The market closes at night.", "bn": "বাজার রাতে বন্ধ হয়।" },
+      {
+        "en": "Farmers sell crops in the market.",
+        "bn": "কৃষকরা বাজারে ফসল বিক্রি করে।"
+      },
+      { "en": "The market was empty.", "bn": "বাজার ফাঁকা ছিল।" }
+    ],
+    "synonyms": ["bazaar", "store", "shop", "fair"]
+  },
+  {
+    "base": "marvel",
+    "phonetic": "ˈmɑːrvəl",
+    "meaning": "বিস্ময় / অবাক হওয়া",
+    "examples": [
+      { "en": "The view is a marvel.", "bn": "দৃশ্যটি একটি বিস্ময়।" },
+      { "en": "We marvel at nature.", "bn": "আমরা প্রকৃতিকে দেখে অবাক হই।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The technology is a marvel.",
+        "bn": "প্রযুক্তিটি একটি বিস্ময়।"
+      },
+      {
+        "en": "She marveled at the stars.",
+        "bn": "সে তারাগুলো দেখে অবাক হয়েছিল।"
+      },
+      {
+        "en": "It is a marvel of engineering.",
+        "bn": "এটি প্রকৌশলের একটি বিস্ময়।"
+      },
+      {
+        "en": "He marveled at the beauty.",
+        "bn": "সে সৌন্দর্য দেখে অবাক হয়েছিল।"
+      },
+      {
+        "en": "The building is a modern marvel.",
+        "bn": "ভবনটি একটি আধুনিক বিস্ময়।"
+      },
+      {
+        "en": "We marvel at human progress.",
+        "bn": "আমরা মানব অগ্রগতিতে বিস্মিত হই।"
+      },
+      { "en": "She is a marvel of talent.", "bn": "সে প্রতিভার একটি বিস্ময়।" },
+      { "en": "The machine is a marvel.", "bn": "মেশিনটি একটি বিস্ময়।" },
+      {
+        "en": "They marveled at the performance.",
+        "bn": "তারা পারফরম্যান্স দেখে অবাক হয়েছিল।"
+      },
+      { "en": "Nature is full of marvels.", "bn": "প্রকৃতি বিস্ময়ে ভরা।" }
+    ],
+    "synonyms": ["wonder", "astonishment", "awe", "miracle"]
+  },
+  {
+    "base": "master",
+    "phonetic": "ˈmæstər",
+    "meaning": "মাস্টার / দক্ষ হওয়া",
+    "examples": [
+      { "en": "He is a master of chess.", "bn": "সে দাবার একজন মাস্টার।" },
+      { "en": "She mastered English.", "bn": "সে ইংরেজিতে দক্ষ হয়েছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He mastered the skill quickly.",
+        "bn": "সে দ্রুত দক্ষতা অর্জন করেছে।"
+      },
+      { "en": "She is a master artist.", "bn": "সে একজন মাস্টার শিল্পী।" },
+      {
+        "en": "They mastered the subject.",
+        "bn": "তারা বিষয়টি আয়ত্ত করেছে।"
+      },
+      {
+        "en": "He wants to master coding.",
+        "bn": "সে কোডিংয়ে দক্ষ হতে চায়।"
+      },
+      { "en": "She mastered the piano.", "bn": "সে পিয়ানো আয়ত্ত করেছে।" },
+      { "en": "He is a master chef.", "bn": "সে একজন মাস্টার শেফ।" },
+      {
+        "en": "They mastered the technique.",
+        "bn": "তারা কৌশলটি আয়ত্ত করেছে।"
+      },
+      { "en": "She mastered driving.", "bn": "সে ড্রাইভিংয়ে দক্ষ হয়েছে।" },
+      { "en": "He is a master of debate.", "bn": "সে বিতর্কে দক্ষ।" },
+      {
+        "en": "Practice helps you master anything.",
+        "bn": "অনুশীলন যেকোনো কিছু আয়ত্ত করতে সাহায্য করে।"
+      }
+    ],
+    "synonyms": ["expert", "specialist", "pro", "authority"]
+  },
+  {
+    "base": "material",
+    "phonetic": "məˈtɪriəl",
+    "meaning": "উপাদান / জিনিসপত্র",
+    "examples": [
+      {
+        "en": "Wood is a natural material.",
+        "bn": "কাঠ একটি প্রাকৃতিক উপাদান।"
+      },
+      {
+        "en": "We need study materials.",
+        "bn": "আমাদের পড়াশোনার উপকরণ দরকার।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The dress is made of soft material.",
+        "bn": "ড্রেসটি নরম উপাদান দিয়ে তৈরি।"
+      },
+      {
+        "en": "Construction materials are expensive.",
+        "bn": "নির্মাণ উপকরণ দামি।"
+      },
+      {
+        "en": "He collected study materials.",
+        "bn": "সে পড়াশোনার উপকরণ সংগ্রহ করেছে।"
+      },
+      {
+        "en": "Plastic is a common material.",
+        "bn": "প্লাস্টিক একটি সাধারণ উপাদান।"
+      },
+      { "en": "The material is strong.", "bn": "উপাদানটি শক্ত।" },
+      {
+        "en": "She needs sewing material.",
+        "bn": "তার সেলাইয়ের উপকরণ দরকার।"
+      },
+      { "en": "Metal is a useful material.", "bn": "ধাতু একটি উপকারী উপাদান।" },
+      {
+        "en": "They use eco-friendly materials.",
+        "bn": "তারা পরিবেশবান্ধব উপকরণ ব্যবহার করে।"
+      },
+      {
+        "en": "This material is waterproof.",
+        "bn": "এই উপাদানটি পানি প্রতিরোধী।"
+      },
+      {
+        "en": "Learning material is important.",
+        "bn": "শেখার উপকরণ গুরুত্বপূর্ণ।"
+      }
+    ],
+    "synonyms": ["substance", "fabric", "matter", "stuff"]
+  },
+  {
+    "base": "matter",
+    "phonetic": "ˈmætər",
+    "meaning": "বিষয় / ব্যাপার",
+    "examples": [
+      { "en": "It doesn't matter.", "bn": "এটা গুরুত্বপূর্ণ নয়।" },
+      { "en": "What is the matter?", "bn": "সমস্যা কী?" }
+    ],
+    "moreexample": [
+      { "en": "This is a serious matter.", "bn": "এটি একটি গুরুতর বিষয়।" },
+      { "en": "It matters a lot.", "bn": "এটি অনেক গুরুত্বপূর্ণ।" },
+      {
+        "en": "Don’t worry about that matter.",
+        "bn": "ওই বিষয় নিয়ে চিন্তা করো না।"
+      },
+      { "en": "The matter is solved.", "bn": "বিষয়টি সমাধান হয়েছে।" },
+      {
+        "en": "He raised an important matter.",
+        "bn": "সে একটি গুরুত্বপূর্ণ বিষয় উত্থাপন করেছে।"
+      },
+      { "en": "It matters to me.", "bn": "এটি আমার জন্য গুরুত্বপূর্ণ।" },
+      { "en": "We discussed the matter.", "bn": "আমরা বিষয়টি আলোচনা করেছি।" },
+      {
+        "en": "This matter needs attention.",
+        "bn": "এই বিষয়টি মনোযোগ প্রয়োজন।"
+      },
+      { "en": "No matter what happens.", "bn": "যা-ই হোক না কেন।" },
+      { "en": "The matter is clear now.", "bn": "এখন বিষয়টি পরিষ্কার।" }
+    ],
+    "synonyms": ["issue", "topic", "concern", "subject"]
+  },
+  {
+    "base": "maximum",
+    "phonetic": "ˈmæksɪməm",
+    "meaning": "সর্বোচ্চ",
+    "examples": [
+      { "en": "This is the maximum limit.", "bn": "এটি সর্বোচ্চ সীমা।" },
+      {
+        "en": "He tried his maximum effort.",
+        "bn": "সে সর্বোচ্চ চেষ্টা করেছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "You can get maximum marks.",
+        "bn": "তুমি সর্বোচ্চ নম্বর পেতে পারো।"
+      },
+      { "en": "Speed is at maximum.", "bn": "গতি সর্বোচ্চে আছে।" },
+      {
+        "en": "They reached maximum capacity.",
+        "bn": "তারা সর্বোচ্চ ক্ষমতায় পৌঁছেছে।"
+      },
+      { "en": "Use maximum strength.", "bn": "সর্বোচ্চ শক্তি ব্যবহার করো।" },
+      { "en": "This is the maximum level.", "bn": "এটি সর্বোচ্চ স্তর।" },
+      { "en": "He gave maximum effort.", "bn": "সে সর্বোচ্চ চেষ্টা করেছে।" },
+      { "en": "Maximum speed is allowed.", "bn": "সর্বোচ্চ গতি অনুমোদিত।" },
+      {
+        "en": "She worked at maximum capacity.",
+        "bn": "সে সর্বোচ্চ ক্ষমতায় কাজ করেছে।"
+      },
+      { "en": "This is maximum output.", "bn": "এটি সর্বোচ্চ আউটপুট।" },
+      {
+        "en": "They reached maximum height.",
+        "bn": "তারা সর্বোচ্চ উচ্চতায় পৌঁছেছে।"
+      }
+    ],
+    "synonyms": ["highest", "top", "peak", "utmost"]
+  },
+  {
+    "base": "meaning",
+    "phonetic": "ˈmiːnɪŋ",
+    "meaning": "অর্থ",
+    "examples": [
+      { "en": "What is the meaning of this word?", "bn": "এই শব্দের অর্থ কী?" },
+      { "en": "Life has meaning.", "bn": "জীবনের অর্থ আছে।" }
+    ],
+    "moreexample": [
+      { "en": "I don’t know the meaning.", "bn": "আমি অর্থটি জানি না।" },
+      { "en": "The meaning is clear.", "bn": "অর্থটি পরিষ্কার।" },
+      {
+        "en": "Words have different meanings.",
+        "bn": "শব্দের বিভিন্ন অর্থ থাকে।"
+      },
+      { "en": "He explained the meaning.", "bn": "সে অর্থ ব্যাখ্যা করেছে।" },
+      {
+        "en": "This sentence has deep meaning.",
+        "bn": "এই বাক্যের গভীর অর্থ আছে।"
+      },
+      { "en": "She searched for meaning.", "bn": "সে অর্থ খুঁজেছে।" },
+      {
+        "en": "Meaning depends on context.",
+        "bn": "অর্থ প্রসঙ্গের উপর নির্ভর করে।"
+      },
+      { "en": "The meaning changed.", "bn": "অর্থ পরিবর্তিত হয়েছে।" },
+      { "en": "I understand the meaning now.", "bn": "আমি এখন অর্থ বুঝি।" },
+      { "en": "It has no meaning.", "bn": "এর কোনো অর্থ নেই।" }
+    ],
+    "synonyms": ["sense", "definition", "idea", "significance"]
+  },
+  {
+    "base": "measure",
+    "phonetic": "ˈmeʒər",
+    "meaning": "মাপা",
+    "examples": [
+      { "en": "Measure the length.", "bn": "দৈর্ঘ্য মাপো।" },
+      { "en": "We measure time.", "bn": "আমরা সময় মাপি।" }
+    ],
+    "moreexample": [
+      { "en": "Measure the table.", "bn": "টেবিলটি মাপো।" },
+      { "en": "He measured the room.", "bn": "সে ঘরটি মেপেছে।" },
+      { "en": "We measure temperature.", "bn": "আমরা তাপমাত্রা মাপি।" },
+      { "en": "Measure carefully.", "bn": "সাবধানে মাপো।" },
+      { "en": "They measured the land.", "bn": "তারা জমি মেপেছে।" },
+      { "en": "She measures ingredients.", "bn": "সে উপাদান মাপে।" },
+      { "en": "This tool measures weight.", "bn": "এই যন্ত্র ওজন মাপে।" },
+      {
+        "en": "We need to measure accuracy.",
+        "bn": "আমাদের সঠিকতা মাপতে হবে।"
+      },
+      { "en": "Measure twice before cutting.", "bn": "কাটার আগে দুইবার মাপো।" },
+      { "en": "They measured success.", "bn": "তারা সাফল্য মেপেছে।" }
+    ],
+    "synonyms": ["calculate", "gauge", "assess", "estimate"]
+  },
+  {
+    "base": "medical",
+    "phonetic": "ˈmedɪkəl",
+    "meaning": "চিকিৎসা সংক্রান্ত",
+    "examples": [
+      { "en": "He needs medical help.", "bn": "তার চিকিৎসা সাহায্য দরকার।" },
+      { "en": "She is a medical student.", "bn": "সে একজন মেডিকেল শিক্ষার্থী।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Medical care is important.",
+        "bn": "চিকিৎসা সেবা গুরুত্বপূর্ণ।"
+      },
+      { "en": "He has medical experience.", "bn": "তার চিকিৎসা অভিজ্ঞতা আছে।" },
+      {
+        "en": "She works in a medical hospital.",
+        "bn": "সে একটি হাসপাতাল-এ কাজ করে।"
+      },
+      {
+        "en": "Medical treatment saved him.",
+        "bn": "চিকিৎসা তাকে বাঁচিয়েছে।"
+      },
+      {
+        "en": "They provide medical support.",
+        "bn": "তারা চিকিৎসা সহায়তা দেয়।"
+      },
+      { "en": "Medical report is ready.", "bn": "চিকিৎসা রিপোর্ট প্রস্তুত।" },
+      { "en": "He studies medical science.", "bn": "সে চিকিৎসা বিজ্ঞান পড়ে।" },
+      { "en": "Medical team arrived.", "bn": "চিকিৎসা দল এসেছে।" },
+      {
+        "en": "She needs medical attention.",
+        "bn": "তার চিকিৎসা মনোযোগ দরকার।"
+      },
+      {
+        "en": "Medical system is improving.",
+        "bn": "চিকিৎসা ব্যবস্থা উন্নত হচ্ছে।"
+      }
+    ],
+    "synonyms": ["clinical", "health-related", "therapeutic", "healing"]
+  },
+
+  {
+    "base": "memory",
+    "phonetic": "ˈmeməri",
+    "meaning": "স্মৃতি",
+    "examples": [
+      { "en": "I have a good memory.", "bn": "আমার ভালো স্মৃতি আছে।" },
+      {
+        "en": "This song brings back memories.",
+        "bn": "এই গানটি পুরনো স্মৃতি ফিরিয়ে আনে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She lost her memory.", "bn": "সে তার স্মৃতি হারিয়েছে।" },
+      {
+        "en": "Memory is important for learning.",
+        "bn": "শেখার জন্য স্মৃতি গুরুত্বপূর্ণ।"
+      },
+      { "en": "He has a sharp memory.", "bn": "তার স্মৃতি তীক্ষ্ণ।" },
+      { "en": "I remember that memory.", "bn": "আমি সেই স্মৃতি মনে করি।" },
+      { "en": "Childhood memories are special.", "bn": "শৈশবের স্মৃতি বিশেষ।" },
+      { "en": "My memory is fading.", "bn": "আমার স্মৃতি দুর্বল হচ্ছে।" },
+      { "en": "We shared many memories.", "bn": "আমরা অনেক স্মৃতি ভাগ করেছি।" },
+      {
+        "en": "Memory helps us learn faster.",
+        "bn": "স্মৃতি আমাদের দ্রুত শিখতে সাহায্য করে।"
+      },
+      { "en": "He has a bad memory.", "bn": "তার স্মৃতি খারাপ।" },
+      {
+        "en": "This memory will stay forever.",
+        "bn": "এই স্মৃতি চিরকাল থাকবে।"
+      }
+    ],
+    "synonyms": ["remembrance", "recollection", "recall", "mind"]
+  },
+  {
+    "base": "mention",
+    "phonetic": "ˈmenʃn",
+    "meaning": "উল্লেখ করা",
+    "examples": [
+      { "en": "He didn't mention my name.", "bn": "সে আমার নাম উল্লেখ করেনি।" },
+      { "en": "She mentioned the problem.", "bn": "সে সমস্যাটি উল্লেখ করেছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Did he mention the meeting?",
+        "bn": "সে কি মিটিংটির কথা উল্লেখ করেছে?"
+      },
+      {
+        "en": "I forgot to mention it.",
+        "bn": "আমি এটি উল্লেখ করতে ভুলে গেছি।"
+      },
+      {
+        "en": "She mentioned your idea.",
+        "bn": "সে তোমার ধারণা উল্লেখ করেছে।"
+      },
+      {
+        "en": "He rarely mentions his past.",
+        "bn": "সে খুব কমই তার অতীতের কথা বলে।"
+      },
+      { "en": "They mentioned the issue.", "bn": "তারা বিষয়টি উল্লেখ করেছে।" },
+      {
+        "en": "I want to mention something.",
+        "bn": "আমি কিছু উল্লেখ করতে চাই।"
+      },
+      {
+        "en": "She mentioned a solution.",
+        "bn": "সে একটি সমাধান উল্লেখ করেছে।"
+      },
+      { "en": "Don’t mention it again.", "bn": "এটা আবার উল্লেখ করো না।" },
+      {
+        "en": "He mentioned the deadline.",
+        "bn": "সে ডেডলাইনের কথা উল্লেখ করেছে।"
+      },
+      {
+        "en": "We mentioned your success.",
+        "bn": "আমরা তোমার সাফল্যের কথা উল্লেখ করেছি।"
+      }
+    ],
+    "synonyms": ["refer", "state", "note", "bring up"]
+  },
+  {
+    "base": "message",
+    "phonetic": "ˈmesɪdʒ",
+    "meaning": "বার্তা",
+    "examples": [
+      { "en": "I sent a message.", "bn": "আমি একটি বার্তা পাঠিয়েছি।" },
+      { "en": "She got your message.", "bn": "সে তোমার বার্তা পেয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "He left a message.", "bn": "সে একটি বার্তা রেখে গেছে।" },
+      { "en": "I received your message.", "bn": "আমি তোমার বার্তা পেয়েছি।" },
+      { "en": "Send me a message.", "bn": "আমাকে একটি বার্তা পাঠাও।" },
+      { "en": "The message was clear.", "bn": "বার্তাটি পরিষ্কার ছিল।" },
+      { "en": "She read the message.", "bn": "সে বার্তাটি পড়েছে।" },
+      { "en": "I didn’t see the message.", "bn": "আমি বার্তাটি দেখিনি।" },
+      { "en": "The message is important.", "bn": "বার্তাটি গুরুত্বপূর্ণ।" },
+      { "en": "He deleted the message.", "bn": "সে বার্তাটি মুছে ফেলেছে।" },
+      {
+        "en": "They shared a message.",
+        "bn": "তারা একটি বার্তা শেয়ার করেছে।"
+      },
+      {
+        "en": "I got your message late.",
+        "bn": "আমি তোমার বার্তা দেরিতে পেয়েছি।"
+      }
+    ],
+    "synonyms": ["note", "text", "communication", "signal"]
+  },
+  {
+    "base": "method",
+    "phonetic": "ˈmeθəd",
+    "meaning": "পদ্ধতি",
+    "examples": [
+      { "en": "This is a good method.", "bn": "এটি একটি ভালো পদ্ধতি।" },
+      { "en": "We need a new method.", "bn": "আমাদের একটি নতুন পদ্ধতি দরকার।" }
+    ],
+    "moreexample": [
+      { "en": "He changed his method.", "bn": "সে তার পদ্ধতি পরিবর্তন করেছে।" },
+      { "en": "This method works well.", "bn": "এই পদ্ধতি ভালো কাজ করে।" },
+      {
+        "en": "We follow a simple method.",
+        "bn": "আমরা একটি সহজ পদ্ধতি অনুসরণ করি।"
+      },
+      { "en": "She improved her method.", "bn": "সে তার পদ্ধতি উন্নত করেছে।" },
+      { "en": "There are many methods.", "bn": "অনেক পদ্ধতি আছে।" },
+      { "en": "He explained the method.", "bn": "সে পদ্ধতিটি ব্যাখ্যা করেছে।" },
+      {
+        "en": "Study method is important.",
+        "bn": "পড়াশোনার পদ্ধতি গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "We used a scientific method.",
+        "bn": "আমরা একটি বৈজ্ঞানিক পদ্ধতি ব্যবহার করেছি।"
+      },
+      { "en": "This method saves time.", "bn": "এই পদ্ধতি সময় বাঁচায়।" },
+      { "en": "Try another method.", "bn": "অন্য একটি পদ্ধতি চেষ্টা করো।" }
+    ],
+    "synonyms": ["way", "approach", "technique", "process"]
+  },
+  {
+    "base": "middle",
+    "phonetic": "ˈmɪdl",
+    "meaning": "মাঝখান",
+    "examples": [
+      { "en": "He stood in the middle.", "bn": "সে মাঝখানে দাঁড়িয়েছিল।" },
+      { "en": "The middle of the road.", "bn": "রাস্তার মাঝখান।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She is in the middle of the room.",
+        "bn": "সে ঘরের মাঝখানে আছে।"
+      },
+      { "en": "We met in the middle.", "bn": "আমরা মাঝখানে দেখা করেছি।" },
+      { "en": "The middle part is broken.", "bn": "মাঝের অংশটি ভেঙে গেছে।" },
+      { "en": "He sits in the middle seat.", "bn": "সে মাঝের সিটে বসে।" },
+      { "en": "The middle is empty.", "bn": "মাঝখান ফাঁকা।" },
+      {
+        "en": "We divided it in the middle.",
+        "bn": "আমরা এটি মাঝখানে ভাগ করেছি।"
+      },
+      { "en": "She was in the middle of work.", "bn": "সে কাজের মাঝখানে ছিল।" },
+      {
+        "en": "The middle class is growing.",
+        "bn": "মধ্যবিত্ত শ্রেণি বাড়ছে।"
+      },
+      { "en": "He stopped in the middle.", "bn": "সে মাঝপথে থেমে গেছে।" },
+      { "en": "Middle is the center.", "bn": "মাঝখান হলো কেন্দ্র।" }
+    ],
+    "synonyms": ["center", "midpoint", "heart", "interior"]
+  },
+  {
+    "base": "mighty",
+    "phonetic": "ˈmaɪti",
+    "meaning": "শক্তিশালী",
+    "examples": [
+      { "en": "He is a mighty warrior.", "bn": "সে একজন শক্তিশালী যোদ্ধা।" },
+      { "en": "The mighty river flows.", "bn": "শক্তিশালী নদী প্রবাহিত হয়।" }
+    ],
+    "moreexample": [
+      { "en": "The mighty king ruled.", "bn": "শক্তিশালী রাজা শাসন করেছিল।" },
+      {
+        "en": "He showed mighty strength.",
+        "bn": "সে শক্তিশালী শক্তি দেখিয়েছে।"
+      },
+      { "en": "The mighty wind blew.", "bn": "শক্তিশালী বাতাস বয়ে গেল।" },
+      { "en": "She is a mighty leader.", "bn": "সে একজন শক্তিশালী নেতা।" },
+      {
+        "en": "Mighty forces shaped history.",
+        "bn": "শক্তিশালী শক্তি ইতিহাস গঠন করেছে।"
+      },
+      {
+        "en": "The mighty army advanced.",
+        "bn": "শক্তিশালী সেনাবাহিনী এগিয়ে গেল।"
+      },
+      { "en": "He has a mighty voice.", "bn": "তার শক্তিশালী কণ্ঠ আছে।" },
+      { "en": "The mighty storm came.", "bn": "শক্তিশালী ঝড় এসেছে।" },
+      {
+        "en": "They built a mighty empire.",
+        "bn": "তারা একটি শক্তিশালী সাম্রাজ্য গড়েছে।"
+      },
+      { "en": "Nature is mighty.", "bn": "প্রকৃতি শক্তিশালী।" }
+    ],
+    "synonyms": ["powerful", "strong", "forceful", "dominant"]
+  },
+  {
+    "base": "minute",
+    "phonetic": "ˈmɪnɪt",
+    "meaning": "মিনিট / অতি ছোট",
+    "examples": [
+      { "en": "Wait a minute.", "bn": "এক মিনিট অপেক্ষা করো।" },
+      { "en": "It is a minute detail.", "bn": "এটি একটি ক্ষুদ্র বিস্তারিত।" }
+    ],
+    "moreexample": [
+      { "en": "Just a minute please.", "bn": "দয়া করে এক মিনিট।" },
+      { "en": "He arrived in a minute.", "bn": "সে এক মিনিটে পৌঁছেছে।" },
+      { "en": "Every minute matters.", "bn": "প্রতি মিনিট গুরুত্বপূর্ণ।" },
+      { "en": "It takes 10 minutes.", "bn": "এতে ১০ মিনিট লাগে।" },
+      { "en": "She waited a minute.", "bn": "সে এক মিনিট অপেক্ষা করেছে।" },
+      {
+        "en": "Minute changes matter.",
+        "bn": "ক্ষুদ্র পরিবর্তন গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "He checked every minute detail.",
+        "bn": "সে প্রতিটি ক্ষুদ্র বিস্তারিত পরীক্ষা করেছে।"
+      },
+      {
+        "en": "Time passed minute by minute.",
+        "bn": "সময় মিনিটে মিনিটে কেটেছে।"
+      },
+      {
+        "en": "It was a minute difference.",
+        "bn": "এটি একটি ক্ষুদ্র পার্থক্য ছিল।"
+      },
+      { "en": "Wait one more minute.", "bn": "আরও এক মিনিট অপেক্ষা করো।" }
+    ],
+    "synonyms": ["moment", "second", "instant", "tiny"]
+  },
+  {
+    "base": "mirror",
+    "phonetic": "ˈmɪrər",
+    "meaning": "আয়না",
+    "examples": [
+      { "en": "She looked in the mirror.", "bn": "সে আয়নায় তাকাল।" },
+      { "en": "The mirror is broken.", "bn": "আয়নাটি ভেঙে গেছে।" }
+    ],
+    "moreexample": [
+      { "en": "He cleaned the mirror.", "bn": "সে আয়নাটি পরিষ্কার করেছে।" },
+      {
+        "en": "I saw myself in the mirror.",
+        "bn": "আমি আয়নায় নিজেকে দেখেছি।"
+      },
+      { "en": "The mirror reflects light.", "bn": "আয়না আলো প্রতিফলিত করে।" },
+      { "en": "She fixed the mirror.", "bn": "সে আয়নাটি ঠিক করেছে।" },
+      { "en": "The mirror fell down.", "bn": "আয়নাটি পড়ে গেছে।" },
+      {
+        "en": "He stood before the mirror.",
+        "bn": "সে আয়নার সামনে দাঁড়িয়েছিল।"
+      },
+      { "en": "Mirror shows reality.", "bn": "আয়না বাস্তবতা দেখায়।" },
+      { "en": "She bought a new mirror.", "bn": "সে একটি নতুন আয়না কিনেছে।" },
+      { "en": "The mirror is shiny.", "bn": "আয়নাটি চকচকে।" },
+      {
+        "en": "He broke the mirror accidentally.",
+        "bn": "সে দুর্ঘটনাবশত আয়নাটি ভেঙেছে।"
+      }
+    ],
+    "synonyms": ["reflection", "glass", "surface", "looking glass"]
+  },
+  {
+    "base": "mission",
+    "phonetic": "ˈmɪʃn",
+    "meaning": "মিশন / লক্ষ্য",
+    "examples": [
+      { "en": "This is a secret mission.", "bn": "এটি একটি গোপন মিশন।" },
+      { "en": "He completed his mission.", "bn": "সে তার মিশন সম্পন্ন করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "The mission was successful.", "bn": "মিশনটি সফল হয়েছে।" },
+      {
+        "en": "They started a new mission.",
+        "bn": "তারা একটি নতুন মিশন শুরু করেছে।"
+      },
+      { "en": "He is on a mission.", "bn": "সে একটি মিশনে আছে।" },
+      { "en": "The mission failed.", "bn": "মিশনটি ব্যর্থ হয়েছে।" },
+      { "en": "They completed the mission.", "bn": "তারা মিশন শেষ করেছে।" },
+      { "en": "Her mission is clear.", "bn": "তার লক্ষ্য পরিষ্কার।" },
+      { "en": "The mission took long.", "bn": "মিশনটি অনেক সময় নিয়েছে।" },
+      { "en": "They planned the mission.", "bn": "তারা মিশন পরিকল্পনা করেছে।" },
+      {
+        "en": "It was a dangerous mission.",
+        "bn": "এটি একটি বিপজ্জনক মিশন ছিল।"
+      },
+      { "en": "Mission accomplished.", "bn": "মিশন সম্পন্ন।" }
+    ],
+    "synonyms": ["goal", "task", "assignment", "objective"]
+  },
+  {
+    "base": "modern",
+    "phonetic": "ˈmɒdərn",
+    "meaning": "আধুনিক",
+    "examples": [
+      { "en": "This is a modern city.", "bn": "এটি একটি আধুনিক শহর।" },
+      {
+        "en": "She uses modern technology.",
+        "bn": "সে আধুনিক প্রযুক্তি ব্যবহার করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Modern life is fast.", "bn": "আধুনিক জীবন দ্রুতগতির।" },
+      {
+        "en": "He lives in a modern house.",
+        "bn": "সে একটি আধুনিক বাড়িতে থাকে।"
+      },
+      {
+        "en": "Modern education is changing.",
+        "bn": "আধুনিক শিক্ষা পরিবর্তিত হচ্ছে।"
+      },
+      {
+        "en": "They use modern tools.",
+        "bn": "তারা আধুনিক সরঞ্জাম ব্যবহার করে।"
+      },
+      { "en": "It is a modern design.", "bn": "এটি একটি আধুনিক ডিজাইন।" },
+      { "en": "Modern art is unique.", "bn": "আধুনিক শিল্প অনন্য।" },
+      {
+        "en": "She prefers modern style.",
+        "bn": "সে আধুনিক স্টাইল পছন্দ করে।"
+      },
+      {
+        "en": "Modern systems are efficient.",
+        "bn": "আধুনিক সিস্টেম কার্যকর।"
+      },
+      { "en": "He studies modern history.", "bn": "সে আধুনিক ইতিহাস পড়ে।" },
+      { "en": "Modern life is digital.", "bn": "আধুনিক জীবন ডিজিটাল।" }
+    ],
+    "synonyms": ["contemporary", "current", "latest", "up-to-date"]
+  },
+
+  {
+    "base": "motion",
+    "phonetic": "ˈmoʊʃn",
+    "meaning": "গতি / চলন",
+    "examples": [
+      { "en": "The motion of the car is smooth.", "bn": "গাড়ির গতি মসৃণ।" },
+      { "en": "He made a hand motion.", "bn": "সে হাতের ইশারা করল।" }
+    ],
+    "moreexample": [
+      { "en": "Everything is in motion.", "bn": "সবকিছু গতিশীল।" },
+      { "en": "The motion was approved.", "bn": "প্রস্তাবটি অনুমোদিত হয়েছে।" },
+      { "en": "She stopped the motion.", "bn": "সে চলাচল বন্ধ করেছে।" },
+      { "en": "The motion of water is fast.", "bn": "পানির গতি দ্রুত।" },
+      { "en": "He sensed body motion.", "bn": "সে শরীরের চলন অনুভব করেছে।" },
+      {
+        "en": "The motion camera captured it.",
+        "bn": "মোশন ক্যামেরা এটি ধারণ করেছে।"
+      },
+      { "en": "There was no motion.", "bn": "কোনো চলাচল ছিল না।" },
+      {
+        "en": "Motion is important in physics.",
+        "bn": "পদার্থবিজ্ঞানে গতি গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She studied motion carefully.",
+        "bn": "সে গতি মনোযোগ দিয়ে অধ্যয়ন করেছে।"
+      },
+      { "en": "The motion failed.", "bn": "প্রস্তাবটি ব্যর্থ হয়েছে।" }
+    ],
+    "synonyms": ["movement", "flow", "action", "activity"]
+  },
+  {
+    "base": "mountain",
+    "phonetic": "ˈmaʊntən",
+    "meaning": "পাহাড়",
+    "examples": [
+      { "en": "We climbed the mountain.", "bn": "আমরা পাহাড়ে উঠেছি।" },
+      { "en": "The mountain is very high.", "bn": "পাহাড়টি খুব উঁচু।" }
+    ],
+    "moreexample": [
+      { "en": "Snow covers the mountain.", "bn": "পাহাড়টি বরফে ঢাকা।" },
+      {
+        "en": "They saw a tall mountain.",
+        "bn": "তারা একটি উঁচু পাহাড় দেখেছে।"
+      },
+      { "en": "The mountain is beautiful.", "bn": "পাহাড়টি সুন্দর।" },
+      { "en": "He climbed the mountain alone.", "bn": "সে একা পাহাড়ে উঠেছে।" },
+      { "en": "The mountain path is difficult.", "bn": "পাহাড়ের পথ কঠিন।" },
+      {
+        "en": "We stayed near the mountain.",
+        "bn": "আমরা পাহাড়ের কাছে ছিলাম।"
+      },
+      {
+        "en": "The mountain is covered with trees.",
+        "bn": "পাহাড়টি গাছে ঢাকা।"
+      },
+      { "en": "They crossed the mountain.", "bn": "তারা পাহাড় পার হয়েছে।" },
+      { "en": "Mountain air is fresh.", "bn": "পাহাড়ের বাতাস তাজা।" },
+      { "en": "The mountain view is amazing.", "bn": "পাহাড়ের দৃশ্য অসাধারণ।" }
+    ],
+    "synonyms": ["hill", "peak", "summit", "ridge"]
+  },
+  {
+    "base": "movement",
+    "phonetic": "ˈmuːvmənt",
+    "meaning": "আন্দোলন / চলাচল",
+    "examples": [
+      {
+        "en": "Body movement is important.",
+        "bn": "শরীরের চলাচল গুরুত্বপূর্ণ।"
+      },
+      { "en": "The movement started.", "bn": "আন্দোলন শুরু হয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "There is no movement.", "bn": "কোনো চলাচল নেই।" },
+      {
+        "en": "They supported the movement.",
+        "bn": "তারা আন্দোলনকে সমর্থন করেছে।"
+      },
+      { "en": "Animal movement is fast.", "bn": "প্রাণীর চলাচল দ্রুত।" },
+      { "en": "The movement grew strong.", "bn": "আন্দোলন শক্তিশালী হয়েছে।" },
+      { "en": "He studied movement.", "bn": "সে চলাচল অধ্যয়ন করেছে।" },
+      {
+        "en": "The movement spread quickly.",
+        "bn": "আন্দোলন দ্রুত ছড়িয়েছে।"
+      },
+      { "en": "Hand movement is clear.", "bn": "হাতের চলাচল পরিষ্কার।" },
+      { "en": "The movement stopped.", "bn": "আন্দোলন বন্ধ হয়েছে।" },
+      { "en": "They joined the movement.", "bn": "তারা আন্দোলনে যোগ দিয়েছে।" },
+      { "en": "Movement of people increased.", "bn": "মানুষের চলাচল বেড়েছে।" }
+    ],
+    "synonyms": ["motion", "activity", "flow", "action"]
+  },
+  {
+    "base": "music",
+    "phonetic": "ˈmjuːzɪk",
+    "meaning": "সঙ্গীত",
+    "examples": [
+      { "en": "I love music.", "bn": "আমি সঙ্গীত ভালোবাসি।" },
+      { "en": "She plays music.", "bn": "সে সঙ্গীত বাজায়।" }
+    ],
+    "moreexample": [
+      { "en": "Music makes me happy.", "bn": "সঙ্গীত আমাকে খুশি করে।" },
+      { "en": "He listens to music daily.", "bn": "সে প্রতিদিন সঙ্গীত শোনে।" },
+      { "en": "Music is relaxing.", "bn": "সঙ্গীত আরামদায়ক।" },
+      {
+        "en": "They enjoy music together.",
+        "bn": "তারা একসাথে সঙ্গীত উপভোগ করে।"
+      },
+      { "en": "She studies music.", "bn": "সে সঙ্গীত অধ্যয়ন করে।" },
+      { "en": "Music is everywhere.", "bn": "সঙ্গীত সর্বত্র আছে।" },
+      { "en": "He composes music.", "bn": "সে সঙ্গীত রচনা করে।" },
+      { "en": "Music heals the mind.", "bn": "সঙ্গীত মনকে শান্ত করে।" },
+      { "en": "They played loud music.", "bn": "তারা জোরে সঙ্গীত বাজিয়েছে।" },
+      { "en": "Music is art.", "bn": "সঙ্গীত একটি শিল্প।" }
+    ],
+    "synonyms": ["melody", "tune", "song", "sound"]
+  },
+  {
+    "base": "muscle",
+    "phonetic": "ˈmʌsl",
+    "meaning": "পেশী",
+    "examples": [
+      { "en": "He has strong muscles.", "bn": "তার শক্তিশালী পেশী আছে।" },
+      { "en": "Exercise builds muscle.", "bn": "ব্যায়াম পেশী গঠন করে।" }
+    ],
+    "moreexample": [
+      { "en": "Muscle pain is common.", "bn": "পেশীতে ব্যথা সাধারণ।" },
+      {
+        "en": "She trained her muscles.",
+        "bn": "সে তার পেশী প্রশিক্ষণ দিয়েছে।"
+      },
+      { "en": "Muscle growth takes time.", "bn": "পেশী বৃদ্ধি সময় নেয়।" },
+      { "en": "He injured a muscle.", "bn": "সে একটি পেশীতে আঘাত পেয়েছে।" },
+      {
+        "en": "Strong muscle helps athletes.",
+        "bn": "শক্তিশালী পেশী ক্রীড়াবিদদের সাহায্য করে।"
+      },
+      {
+        "en": "Muscle control is important.",
+        "bn": "পেশী নিয়ন্ত্রণ গুরুত্বপূর্ণ।"
+      },
+      { "en": "They build muscle fast.", "bn": "তারা দ্রুত পেশী তৈরি করে।" },
+      { "en": "He relaxed his muscles.", "bn": "সে তার পেশী শিথিল করেছে।" },
+      { "en": "Muscle strength increased.", "bn": "পেশীর শক্তি বেড়েছে।" },
+      { "en": "She flexed her muscles.", "bn": "সে তার পেশী দেখিয়েছে।" }
+    ],
+    "synonyms": ["fiber", "strength", "tissue", "force"]
+  },
+  {
+    "base": "museum",
+    "phonetic": "mjuːˈziːəm",
+    "meaning": "জাদুঘর",
+    "examples": [
+      { "en": "We visited the museum.", "bn": "আমরা জাদুঘর পরিদর্শন করেছি।" },
+      { "en": "The museum is closed.", "bn": "জাদুঘর বন্ধ।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The museum has old artifacts.",
+        "bn": "জাদুঘরে পুরনো নিদর্শন আছে।"
+      },
+      { "en": "She works in a museum.", "bn": "সে জাদুঘরে কাজ করে।" },
+      { "en": "The museum is large.", "bn": "জাদুঘরটি বড়।" },
+      {
+        "en": "They went to the history museum.",
+        "bn": "তারা ইতিহাস জাদুঘরে গেছে।"
+      },
+      { "en": "The museum shows culture.", "bn": "জাদুঘর সংস্কৃতি দেখায়।" },
+      { "en": "We explored the museum.", "bn": "আমরা জাদুঘর ঘুরেছি।" },
+      { "en": "The museum is educational.", "bn": "জাদুঘর শিক্ষামূলক।" },
+      { "en": "He took photos in the museum.", "bn": "সে জাদুঘরে ছবি তুলেছে।" },
+      { "en": "The museum opened early.", "bn": "জাদুঘর সকালে খুলেছে।" },
+      { "en": "Children love the museum.", "bn": "শিশুরা জাদুঘর ভালোবাসে।" }
+    ],
+    "synonyms": ["gallery", "exhibition hall", "archive", "center"]
+  },
+  {
+    "base": "mutual",
+    "phonetic": "ˈmjuːtʃuəl",
+    "meaning": "পারস্পরিক",
+    "examples": [
+      {
+        "en": "They have mutual respect.",
+        "bn": "তাদের মধ্যে পারস্পরিক সম্মান আছে।"
+      },
+      {
+        "en": "It was a mutual decision.",
+        "bn": "এটি একটি পারস্পরিক সিদ্ধান্ত ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They agreed mutually.",
+        "bn": "তারা পারস্পরিকভাবে সম্মত হয়েছে।"
+      },
+      {
+        "en": "Mutual understanding is important.",
+        "bn": "পারস্পরিক বোঝাপড়া গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "They share mutual feelings.",
+        "bn": "তারা পারস্পরিক অনুভূতি ভাগ করে।"
+      },
+      {
+        "en": "It was a mutual agreement.",
+        "bn": "এটি একটি পারস্পরিক চুক্তি ছিল।"
+      },
+      { "en": "Mutual trust is needed.", "bn": "পারস্পরিক বিশ্বাস দরকার।" },
+      {
+        "en": "They helped each other mutually.",
+        "bn": "তারা পারস্পরিকভাবে একে অপরকে সাহায্য করেছে।"
+      },
+      {
+        "en": "Mutual benefit is important.",
+        "bn": "পারস্পরিক সুবিধা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "They reached mutual consent.",
+        "bn": "তারা পারস্পরিক সম্মতিতে পৌঁছেছে।"
+      },
+      {
+        "en": "Mutual support matters.",
+        "bn": "পারস্পরিক সমর্থন গুরুত্বপূর্ণ।"
+      },
+      { "en": "They have mutual goals.", "bn": "তাদের পারস্পরিক লক্ষ্য আছে।" }
+    ],
+    "synonyms": ["shared", "reciprocal", "common", "joint"]
+  },
+  {
+    "base": "mystery",
+    "phonetic": "ˈmɪstəri",
+    "meaning": "রহস্য",
+    "examples": [
+      { "en": "It is a mystery.", "bn": "এটি একটি রহস্য।" },
+      { "en": "The case is a mystery.", "bn": "মামলাটি একটি রহস্য।" }
+    ],
+    "moreexample": [
+      { "en": "The mystery was solved.", "bn": "রহস্যটি সমাধান হয়েছে।" },
+      { "en": "She loves mystery stories.", "bn": "সে রহস্য গল্প ভালোবাসে।" },
+      { "en": "The mystery remains.", "bn": "রহস্যটি রয়ে গেছে।" },
+      {
+        "en": "They investigated the mystery.",
+        "bn": "তারা রহস্যটি তদন্ত করেছে।"
+      },
+      { "en": "It is still a mystery.", "bn": "এটি এখনও রহস্য।" },
+      { "en": "The mystery deepened.", "bn": "রহস্য আরও গভীর হয়েছে।" },
+      {
+        "en": "He enjoys mystery novels.",
+        "bn": "সে রহস্য উপন্যাস উপভোগ করে।"
+      },
+      {
+        "en": "The mystery shocked everyone.",
+        "bn": "রহস্য সবাইকে অবাক করেছে।"
+      },
+      { "en": "They uncovered the mystery.", "bn": "তারা রহস্য উদঘাটন করেছে।" },
+      { "en": "Nature is full of mystery.", "bn": "প্রকৃতি রহস্যে ভরা।" }
+    ],
+    "synonyms": ["puzzle", "enigma", "secret", "unknown"]
+  },
+  {
+    "base": "machine",
+    "phonetic": "məˈʃiːn",
+    "meaning": "যন্ত্র",
+    "examples": [
+      { "en": "The machine is broken.", "bn": "যন্ত্রটি নষ্ট।" },
+      { "en": "He operates a machine.", "bn": "সে একটি যন্ত্র চালায়।" }
+    ],
+    "moreexample": [
+      { "en": "This machine works fast.", "bn": "এই যন্ত্র দ্রুত কাজ করে।" },
+      { "en": "She repaired the machine.", "bn": "সে যন্ত্রটি মেরামত করেছে।" },
+      {
+        "en": "The machine stopped suddenly.",
+        "bn": "যন্ত্রটি হঠাৎ বন্ধ হয়ে গেছে।"
+      },
+      {
+        "en": "They use modern machines.",
+        "bn": "তারা আধুনিক যন্ত্র ব্যবহার করে।"
+      },
+      { "en": "The machine is powerful.", "bn": "যন্ত্রটি শক্তিশালী।" },
+      { "en": "He cleaned the machine.", "bn": "সে যন্ত্রটি পরিষ্কার করেছে।" },
+      { "en": "The machine makes noise.", "bn": "যন্ত্রটি শব্দ করে।" },
+      {
+        "en": "We need a new machine.",
+        "bn": "আমাদের একটি নতুন যন্ত্র দরকার।"
+      },
+      { "en": "The machine is automatic.", "bn": "যন্ত্রটি স্বয়ংক্রিয়।" },
+      {
+        "en": "He learned to use the machine.",
+        "bn": "সে যন্ত্র ব্যবহার শিখেছে।"
+      }
+    ],
+    "synonyms": ["device", "engine", "tool", "apparatus"]
+  },
+  {
+    "base": "magnet",
+    "phonetic": "ˈmæɡnɪt",
+    "meaning": "চুম্বক",
+    "examples": [
+      { "en": "The magnet attracts iron.", "bn": "চুম্বক লোহাকে আকর্ষণ করে।" },
+      { "en": "This is a strong magnet.", "bn": "এটি একটি শক্তিশালী চুম্বক।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The magnet stuck to the metal.",
+        "bn": "চুম্বকটি ধাতুর সাথে লেগে গেছে।"
+      },
+      { "en": "She studied magnets.", "bn": "সে চুম্বক অধ্যয়ন করেছে।" },
+      { "en": "The magnet lost power.", "bn": "চুম্বকের শক্তি হারিয়ে গেছে।" },
+      { "en": "Magnets attract objects.", "bn": "চুম্বক বস্তু আকর্ষণ করে।" },
+      { "en": "He used a magnet.", "bn": "সে একটি চুম্বক ব্যবহার করেছে।" },
+      { "en": "The magnet is useful.", "bn": "চুম্বক উপকারী।" },
+      { "en": "They tested the magnet.", "bn": "তারা চুম্বক পরীক্ষা করেছে।" },
+      { "en": "The magnet is small.", "bn": "চুম্বকটি ছোট।" },
+      { "en": "He placed a magnet on it.", "bn": "সে এতে একটি চুম্বক রেখেছে।" },
+      { "en": "Magnetism is powerful.", "bn": "চৌম্বকত্ব শক্তিশালী।" }
+    ],
+    "synonyms": ["attractor", "puller", "field device"]
+  },
+
+  {
+    "base": "magnify",
+    "phonetic": "ˈmæɡnɪfaɪ",
+    "meaning": "বড় করে দেখা / বৃদ্ধি করা",
+    "examples": [
+      {
+        "en": "The lens magnifies the object.",
+        "bn": "লেন্সটি বস্তুটিকে বড় করে দেখায়।"
+      },
+      {
+        "en": "Don’t magnify the problem.",
+        "bn": "সমস্যাটিকে বড় করে দেখিও না।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The glass magnifies text.",
+        "bn": "গ্লাস লেখাকে বড় করে দেখায়।"
+      },
+      { "en": "He magnified the image.", "bn": "সে ছবিটিকে বড় করেছে।" },
+      {
+        "en": "This tool magnifies details.",
+        "bn": "এই টুল বিস্তারিত বড় করে দেখায়।"
+      },
+      { "en": "She magnified the photo.", "bn": "সে ছবিটি বড় করেছে।" },
+      {
+        "en": "Stress can magnify problems.",
+        "bn": "চাপ সমস্যাগুলোকে বাড়িয়ে দিতে পারে।"
+      },
+      { "en": "He magnified the map.", "bn": "সে মানচিত্র বড় করেছে।" },
+      {
+        "en": "The microscope magnifies cells.",
+        "bn": "মাইক্রোস্কোপ কোষকে বড় করে দেখায়।"
+      },
+      {
+        "en": "They magnified the issue.",
+        "bn": "তারা সমস্যাটি বড় করে দেখেছে।"
+      },
+      {
+        "en": "Light can magnify reflections.",
+        "bn": "আলো প্রতিফলন বড় করতে পারে।"
+      },
+      {
+        "en": "She magnified the importance.",
+        "bn": "সে গুরুত্বকে বাড়িয়ে দেখিয়েছে।"
+      }
+    ],
+    "synonyms": ["enlarge", "increase", "amplify", "expand"]
+  },
+  {
+    "base": "maintain",
+    "phonetic": "meɪnˈteɪn",
+    "meaning": "রক্ষণাবেক্ষণ করা / বজায় রাখা",
+    "examples": [
+      {
+        "en": "We must maintain discipline.",
+        "bn": "আমাদের শৃঙ্খলা বজায় রাখতে হবে।"
+      },
+      {
+        "en": "He maintains his car well.",
+        "bn": "সে তার গাড়ি ভালোভাবে রক্ষণাবেক্ষণ করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Maintain your health.", "bn": "তোমার স্বাস্থ্য বজায় রাখো।" },
+      { "en": "She maintains balance.", "bn": "সে ভারসাম্য বজায় রাখে।" },
+      {
+        "en": "They maintain the road.",
+        "bn": "তারা রাস্তার রক্ষণাবেক্ষণ করে।"
+      },
+      { "en": "He maintained silence.", "bn": "সে নীরবতা বজায় রেখেছে।" },
+      { "en": "We maintain friendship.", "bn": "আমরা বন্ধুত্ব বজায় রাখি।" },
+      { "en": "They maintain quality.", "bn": "তারা মান বজায় রাখে।" },
+      { "en": "She maintains focus.", "bn": "সে মনোযোগ বজায় রাখে।" },
+      { "en": "Maintain your routine.", "bn": "তোমার রুটিন বজায় রাখো।" },
+      { "en": "He maintained control.", "bn": "সে নিয়ন্ত্রণ বজায় রেখেছে।" },
+      { "en": "They maintain order.", "bn": "তারা শৃঙ্খলা বজায় রাখে।" }
+    ],
+    "synonyms": ["preserve", "keep", "sustain", "uphold"]
+  },
+  {
+    "base": "malfunction",
+    "phonetic": "ˌmælˈfʌŋkʃn",
+    "meaning": "ত্রুটি / ঠিকভাবে কাজ না করা",
+    "examples": [
+      { "en": "The machine malfunctioned.", "bn": "যন্ত্রটি বিকল হয়ে গেছে।" },
+      { "en": "There was a system malfunction.", "bn": "সিস্টেমে ত্রুটি ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The device malfunctioned suddenly.",
+        "bn": "ডিভাইসটি হঠাৎ বিকল হয়েছে।"
+      },
+      {
+        "en": "Engine malfunction caused delay.",
+        "bn": "ইঞ্জিনের ত্রুটির কারণে দেরি হয়েছে।"
+      },
+      {
+        "en": "The system is malfunctioning.",
+        "bn": "সিস্টেমটি ঠিকভাবে কাজ করছে না।"
+      },
+      {
+        "en": "Software malfunction is rare.",
+        "bn": "সফটওয়্যার ত্রুটি বিরল।"
+      },
+      { "en": "The robot malfunctioned.", "bn": "রোবটটি বিকল হয়েছে।" },
+      {
+        "en": "Electrical malfunction occurred.",
+        "bn": "বিদ্যুৎ ত্রুটি ঘটেছে।"
+      },
+      { "en": "The camera malfunctioned.", "bn": "ক্যামেরাটি কাজ করেনি।" },
+      {
+        "en": "Malfunction stopped the process.",
+        "bn": "ত্রুটি প্রক্রিয়া বন্ধ করেছে।"
+      },
+      { "en": "The alarm malfunctioned.", "bn": "অ্যালার্ম বিকল হয়েছে।" },
+      { "en": "They fixed the malfunction.", "bn": "তারা ত্রুটি ঠিক করেছে।" }
+    ],
+    "synonyms": ["fault", "error", "breakdown", "failure"]
+  },
+  {
+    "base": "mammal",
+    "phonetic": "ˈmæməl",
+    "meaning": "স্তন্যপায়ী প্রাণী",
+    "examples": [
+      { "en": "Humans are mammals.", "bn": "মানুষ স্তন্যপায়ী প্রাণী।" },
+      { "en": "Whales are mammals.", "bn": "তিমি স্তন্যপায়ী প্রাণী।" }
+    ],
+    "moreexample": [
+      { "en": "A cat is a mammal.", "bn": "বিড়াল একটি স্তন্যপায়ী প্রাণী।" },
+      { "en": "Dogs are mammals.", "bn": "কুকুর স্তন্যপায়ী প্রাণী।" },
+      {
+        "en": "Mammals feed their babies.",
+        "bn": "স্তন্যপায়ীরা তাদের বাচ্চাকে দুধ খাওয়ায়।"
+      },
+      {
+        "en": "Elephants are large mammals.",
+        "bn": "হাতি বড় স্তন্যপায়ী প্রাণী।"
+      },
+      {
+        "en": "Most mammals have hair.",
+        "bn": "অধিকাংশ স্তন্যপায়ীর লোম থাকে।"
+      },
+      { "en": "Bats are mammals too.", "bn": "বাদুড়ও স্তন্যপায়ী প্রাণী।" },
+      {
+        "en": "Mammals breathe air.",
+        "bn": "স্তন্যপায়ীরা বাতাসে শ্বাস নেয়।"
+      },
+      {
+        "en": "Whales are aquatic mammals.",
+        "bn": "তিমি জলজ স্তন্যপায়ী প্রাণী।"
+      },
+      { "en": "Lions are mammals.", "bn": "সিংহ স্তন্যপায়ী প্রাণী।" },
+      {
+        "en": "Mammals are warm-blooded.",
+        "bn": "স্তন্যপায়ীরা উষ্ণ রক্তের প্রাণী।"
+      }
+    ],
+    "synonyms": ["warm-blooded animal"]
+  },
+  {
+    "base": "mandate",
+    "phonetic": "ˈmæn.deɪt",
+    "meaning": "আদেশ / নির্দেশ",
+    "examples": [
+      {
+        "en": "The law mandates safety rules.",
+        "bn": "আইন নিরাপত্তা নিয়ম বাধ্যতামূলক করে।"
+      },
+      { "en": "He received a mandate.", "bn": "সে একটি নির্দেশ পেয়েছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The government issued a mandate.",
+        "bn": "সরকার একটি নির্দেশ জারি করেছে।"
+      },
+      { "en": "Masks are mandated.", "bn": "মাস্ক পরা বাধ্যতামূলক।" },
+      {
+        "en": "They followed the mandate.",
+        "bn": "তারা নির্দেশ অনুসরণ করেছে।"
+      },
+      { "en": "The mandate was clear.", "bn": "নির্দেশটি পরিষ্কার ছিল।" },
+      {
+        "en": "Schools received a mandate.",
+        "bn": "স্কুলগুলো নির্দেশ পেয়েছে।"
+      },
+      {
+        "en": "He acted under mandate.",
+        "bn": "সে নির্দেশ অনুযায়ী কাজ করেছে।"
+      },
+      {
+        "en": "The mandate changed rules.",
+        "bn": "নির্দেশ নিয়ম পরিবর্তন করেছে।"
+      },
+      {
+        "en": "They rejected the mandate.",
+        "bn": "তারা নির্দেশ প্রত্যাখ্যান করেছে।"
+      },
+      { "en": "The mandate is strict.", "bn": "নির্দেশটি কঠোর।" },
+      { "en": "He enforced the mandate.", "bn": "সে নির্দেশ কার্যকর করেছে।" }
+    ],
+    "synonyms": ["order", "command", "instruction", "directive"]
+  },
+  {
+    "base": "manifest",
+    "phonetic": "ˈmænɪfest",
+    "meaning": "প্রকাশ করা / স্পষ্ট হওয়া",
+    "examples": [
+      {
+        "en": "His anger manifested quickly.",
+        "bn": "তার রাগ দ্রুত প্রকাশ পেয়েছে।"
+      },
+      {
+        "en": "The symptoms manifest early.",
+        "bn": "লক্ষণগুলো দ্রুত প্রকাশ পায়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Her talent manifested early.",
+        "bn": "তার প্রতিভা দ্রুত প্রকাশ পেয়েছে।"
+      },
+      {
+        "en": "Fear manifested in his eyes.",
+        "bn": "তার চোখে ভয় প্রকাশ পেয়েছে।"
+      },
+      {
+        "en": "The problem manifested later.",
+        "bn": "সমস্যাটি পরে প্রকাশ পেয়েছে।"
+      },
+      { "en": "Success manifests effort.", "bn": "সাফল্য প্রচেষ্টার প্রকাশ।" },
+      {
+        "en": "He manifested confidence.",
+        "bn": "সে আত্মবিশ্বাস প্রকাশ করেছে।"
+      },
+      {
+        "en": "The disease manifests slowly.",
+        "bn": "রোগটি ধীরে প্রকাশ পায়।"
+      },
+      {
+        "en": "Her joy manifested clearly.",
+        "bn": "তার আনন্দ স্পষ্টভাবে প্রকাশ পেয়েছে।"
+      },
+      { "en": "It manifests in behavior.", "bn": "এটি আচরণে প্রকাশ পায়।" },
+      { "en": "He manifested leadership.", "bn": "সে নেতৃত্ব প্রকাশ করেছে।" },
+      {
+        "en": "Truth manifests over time.",
+        "bn": "সত্য সময়ের সাথে প্রকাশ পায়।"
+      }
+    ],
+    "synonyms": ["show", "display", "express", "reveal"]
+  },
+  {
+    "base": "manual",
+    "phonetic": "ˈmænjuəl",
+    "meaning": "নির্দেশিকা / হাতে চালানো",
+    "examples": [
+      {
+        "en": "Read the manual carefully.",
+        "bn": "নির্দেশিকা মনোযোগ দিয়ে পড়ো।"
+      },
+      {
+        "en": "This is a manual machine.",
+        "bn": "এটি একটি হাতে চালানো যন্ত্র।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The manual explains everything.",
+        "bn": "নির্দেশিকাটি সবকিছু ব্যাখ্যা করে।"
+      },
+      { "en": "He followed the manual.", "bn": "সে নির্দেশিকা অনুসরণ করেছে।" },
+      { "en": "Manual work is hard.", "bn": "হাতে কাজ করা কঠিন।" },
+      { "en": "She opened the manual.", "bn": "সে নির্দেশিকা খুলেছে।" },
+      { "en": "The manual is useful.", "bn": "নির্দেশিকাটি উপকারী।" },
+      {
+        "en": "Manual control is required.",
+        "bn": "হাতে নিয়ন্ত্রণ প্রয়োজন।"
+      },
+      {
+        "en": "He read the instruction manual.",
+        "bn": "সে নির্দেশিকা পড়েছে।"
+      },
+      { "en": "Manual effort is needed.", "bn": "হাতে প্রচেষ্টা দরকার।" },
+      { "en": "The manual is thick.", "bn": "নির্দেশিকাটি মোটা।" },
+      {
+        "en": "They printed a manual.",
+        "bn": "তারা একটি নির্দেশিকা ছাপিয়েছে।"
+      }
+    ],
+    "synonyms": ["handbook", "guide", "instruction", "booklet"]
+  },
+  {
+    "base": "manufacture",
+    "phonetic": "ˌmænjuˈfæktʃər",
+    "meaning": "উৎপাদন করা",
+    "examples": [
+      { "en": "They manufacture cars.", "bn": "তারা গাড়ি তৈরি করে।" },
+      {
+        "en": "The factory manufactures goods.",
+        "bn": "কারখানাটি পণ্য উৎপাদন করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They manufacture electronics.",
+        "bn": "তারা ইলেকট্রনিক্স তৈরি করে।"
+      },
+      {
+        "en": "The company manufactures toys.",
+        "bn": "কোম্পানিটি খেলনা তৈরি করে।"
+      },
+      { "en": "We manufacture clothes.", "bn": "আমরা কাপড় তৈরি করি।" },
+      { "en": "Machines manufacture products.", "bn": "যন্ত্র পণ্য তৈরি করে।" },
+      {
+        "en": "They manufacture locally.",
+        "bn": "তারা স্থানীয়ভাবে উৎপাদন করে।"
+      },
+      {
+        "en": "The factory manufactures daily.",
+        "bn": "কারখানাটি প্রতিদিন উৎপাদন করে।"
+      },
+      {
+        "en": "They manufacture in bulk.",
+        "bn": "তারা বড় পরিমাণে উৎপাদন করে।"
+      },
+      { "en": "She works in manufacturing.", "bn": "সে উৎপাদন খাতে কাজ করে।" },
+      { "en": "They manufacture machines.", "bn": "তারা যন্ত্র তৈরি করে।" },
+      {
+        "en": "The plant manufactures food.",
+        "bn": "কারখানাটি খাবার তৈরি করে।"
+      }
+    ],
+    "synonyms": ["produce", "build", "create", "assemble"]
+  },
+  {
+    "base": "margin",
+    "phonetic": "ˈmɑːrdʒɪn",
+    "meaning": "প্রান্ত / লাভের পার্থক্য",
+    "examples": [
+      { "en": "Write in the margin.", "bn": "প্রান্তে লেখো।" },
+      { "en": "Profit margin is high.", "bn": "লাভের হার বেশি।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He wrote notes in the margin.",
+        "bn": "সে প্রান্তে নোট লিখেছে।"
+      },
+      { "en": "There is a small margin.", "bn": "এখানে ছোট প্রান্ত আছে।" },
+      { "en": "Profit margin increased.", "bn": "লাভের হার বেড়েছে।" },
+      { "en": "Leave a margin on paper.", "bn": "কাগজে প্রান্ত রাখো।" },
+      { "en": "The margin is wide.", "bn": "প্রান্তটি চওড়া।" },
+      { "en": "They calculated margin.", "bn": "তারা লাভের হার গণনা করেছে।" },
+      {
+        "en": "Safety margin is important.",
+        "bn": "নিরাপত্তা সীমা গুরুত্বপূর্ণ।"
+      },
+      { "en": "The margin is narrow.", "bn": "প্রান্তটি সরু।" },
+      { "en": "He improved profit margin.", "bn": "সে লাভের হার বাড়িয়েছে।" },
+      {
+        "en": "Margin matters in business.",
+        "bn": "ব্যবসায় মার্জিন গুরুত্বপূর্ণ।"
+      }
+    ],
+    "synonyms": ["edge", "border", "limit", "allowance"]
+  },
+  {
+    "base": "marvelous",
+    "phonetic": "ˈmɑːrvələs",
+    "meaning": "অসাধারণ / চমৎকার",
+    "examples": [
+      { "en": "It was a marvelous day.", "bn": "এটি ছিল একটি অসাধারণ দিন।" },
+      { "en": "She did a marvelous job.", "bn": "সে অসাধারণ কাজ করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "The view is marvelous.", "bn": "দৃশ্যটি অসাধারণ।" },
+      {
+        "en": "He gave a marvelous speech.",
+        "bn": "সে অসাধারণ বক্তৃতা দিয়েছে।"
+      },
+      {
+        "en": "It was a marvelous experience.",
+        "bn": "এটি একটি চমৎকার অভিজ্ঞতা ছিল।"
+      },
+      { "en": "She has a marvelous voice.", "bn": "তার কণ্ঠ অসাধারণ।" },
+      {
+        "en": "The performance was marvelous.",
+        "bn": "পারফরম্যান্সটি অসাধারণ ছিল।"
+      },
+      {
+        "en": "They had a marvelous trip.",
+        "bn": "তাদের একটি অসাধারণ ভ্রমণ ছিল।"
+      },
+      { "en": "It’s a marvelous idea.", "bn": "এটি একটি চমৎকার ধারণা।" },
+      { "en": "The story is marvelous.", "bn": "গল্পটি অসাধারণ।" },
+      { "en": "He is a marvelous teacher.", "bn": "সে একজন অসাধারণ শিক্ষক।" },
+      { "en": "Life is marvelous sometimes.", "bn": "জীবন কখনও কখনও অসাধারণ।" }
+    ],
+    "synonyms": ["wonderful", "amazing", "fantastic", "excellent"]
+  },
+
+  {
+    "base": "materialize",
+    "phonetic": "məˈtɪəriəlaɪz",
+    "meaning": "বাস্তবায়িত হওয়া / বাস্তব রূপ নেওয়া",
+    "examples": [
+      {
+        "en": "His dream finally materialized.",
+        "bn": "তার স্বপ্ন শেষ পর্যন্ত বাস্তবে রূপ নিয়েছে।"
+      },
+      {
+        "en": "The plan did not materialize.",
+        "bn": "পরিকল্পনাটি বাস্তবায়িত হয়নি।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Ideas materialize with effort.",
+        "bn": "চেষ্টার মাধ্যমে ধারণা বাস্তবে রূপ নেয়।"
+      },
+      {
+        "en": "The project materialized quickly.",
+        "bn": "প্রকল্পটি দ্রুত বাস্তবায়িত হয়েছে।"
+      },
+      {
+        "en": "Nothing materialized from the discussion.",
+        "bn": "আলোচনা থেকে কিছুই বাস্তবায়িত হয়নি।"
+      },
+      {
+        "en": "Her goal materialized after hard work.",
+        "bn": "কঠোর পরিশ্রমের পর তার লক্ষ্য বাস্তবে রূপ নিয়েছে।"
+      },
+      {
+        "en": "Opportunities materialize suddenly.",
+        "bn": "সুযোগ হঠাৎ বাস্তব হয়।"
+      },
+      {
+        "en": "The agreement never materialized.",
+        "bn": "চুক্তিটি কখনো বাস্তবায়িত হয়নি।"
+      },
+      {
+        "en": "His idea materialized into a product.",
+        "bn": "তার ধারণা একটি পণ্যে রূপ নিয়েছে।"
+      },
+      {
+        "en": "Plans materialize with time.",
+        "bn": "পরিকল্পনা সময়ের সাথে বাস্তব হয়।"
+      },
+      {
+        "en": "The vision materialized clearly.",
+        "bn": "দৃষ্টিভঙ্গিটি স্পষ্টভাবে বাস্তব হয়েছে।"
+      },
+      {
+        "en": "The opportunity materialized unexpectedly.",
+        "bn": "সুযোগটি অপ্রত্যাশিতভাবে বাস্তব হয়েছে।"
+      }
+    ],
+    "synonyms": ["form", "appear", "become real", "develop"]
+  },
+  {
+    "base": "mature",
+    "phonetic": "məˈtʃʊr",
+    "meaning": "পরিণত / পরিপক্ক হওয়া",
+    "examples": [
+      { "en": "He is a mature person.", "bn": "সে একজন পরিণত মানুষ।" },
+      { "en": "The fruit is mature.", "bn": "ফলটি পরিপক্ক হয়েছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She is very mature for her age.",
+        "bn": "সে তার বয়সের তুলনায় অনেক পরিণত।"
+      },
+      {
+        "en": "The idea is not mature yet.",
+        "bn": "ধারণাটি এখনো পরিপক্ক নয়।"
+      },
+      {
+        "en": "He made a mature decision.",
+        "bn": "সে একটি পরিপক্ক সিদ্ধান্ত নিয়েছে।"
+      },
+      { "en": "The plant is mature.", "bn": "গাছটি পরিপক্ক।" },
+      {
+        "en": "Mature thinking is important.",
+        "bn": "পরিণত চিন্তাভাবনা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She became more mature over time.",
+        "bn": "সে সময়ের সাথে আরও পরিণত হয়েছে।"
+      },
+      { "en": "The audience was mature.", "bn": "দর্শকরা পরিণত ছিল।" },
+      { "en": "His behavior is mature.", "bn": "তার আচরণ পরিণত।" },
+      {
+        "en": "The project is still not mature.",
+        "bn": "প্রকল্পটি এখনও পরিপক্ক নয়।"
+      },
+      { "en": "Mature fruits are sweet.", "bn": "পরিপক্ক ফল মিষ্টি।" }
+    ],
+    "synonyms": ["grown", "adult", "developed", "responsible"]
+  },
+  {
+    "base": "meadow",
+    "phonetic": "ˈmedoʊ",
+    "meaning": "ঘাসভূমি / তৃণভূমি",
+    "examples": [
+      { "en": "The cows are in the meadow.", "bn": "গরুগুলো তৃণভূমিতে আছে।" },
+      {
+        "en": "We walked through the meadow.",
+        "bn": "আমরা তৃণভূমির মধ্য দিয়ে হেঁটেছি।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The meadow is green.", "bn": "তৃণভূমিটি সবুজ।" },
+      { "en": "Flowers grow in the meadow.", "bn": "তৃণভূমিতে ফুল জন্মায়।" },
+      {
+        "en": "Children played in the meadow.",
+        "bn": "শিশুরা তৃণভূমিতে খেলেছে।"
+      },
+      { "en": "The meadow was wide.", "bn": "তৃণভূমিটি বিস্তৃত ছিল।" },
+      {
+        "en": "Birds flew over the meadow.",
+        "bn": "পাখিরা তৃণভূমির উপর দিয়ে উড়েছে।"
+      },
+      {
+        "en": "We rested in the meadow.",
+        "bn": "আমরা তৃণভূমিতে বিশ্রাম নিয়েছি।"
+      },
+      {
+        "en": "The meadow looked beautiful.",
+        "bn": "তৃণভূমিটি সুন্দর দেখাচ্ছিল।"
+      },
+      { "en": "She sat in the meadow.", "bn": "সে তৃণভূমিতে বসেছিল।" },
+      {
+        "en": "The meadow was full of flowers.",
+        "bn": "তৃণভূমিটি ফুলে ভরা ছিল।"
+      },
+      { "en": "They crossed the meadow.", "bn": "তারা তৃণভূমি পার হয়েছে।" }
+    ],
+    "synonyms": ["grassland", "field", "pasture", "plain"]
+  },
+  {
+    "base": "mediate",
+    "phonetic": "ˈmiːdieɪt",
+    "meaning": "মধ্যস্থতা করা",
+    "examples": [
+      {
+        "en": "He tried to mediate the conflict.",
+        "bn": "সে সংঘর্ষের মধ্যস্থতা করার চেষ্টা করেছে।"
+      },
+      {
+        "en": "She mediated between the two groups.",
+        "bn": "সে দুই দলের মধ্যে মধ্যস্থতা করেছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The leader mediated the dispute.",
+        "bn": "নেতা বিরোধের মধ্যস্থতা করেছে।"
+      },
+      {
+        "en": "They asked him to mediate.",
+        "bn": "তারা তাকে মধ্যস্থতা করতে বলেছে।"
+      },
+      {
+        "en": "She mediated peace talks.",
+        "bn": "সে শান্তি আলোচনার মধ্যস্থতা করেছে।"
+      },
+      {
+        "en": "He successfully mediated.",
+        "bn": "সে সফলভাবে মধ্যস্থতা করেছে।"
+      },
+      {
+        "en": "The teacher mediated the argument.",
+        "bn": "শিক্ষক তর্কের মধ্যস্থতা করেছে।"
+      },
+      {
+        "en": "They mediated between countries.",
+        "bn": "তারা দেশগুলোর মধ্যে মধ্যস্থতা করেছে।"
+      },
+      {
+        "en": "He mediated the situation.",
+        "bn": "সে পরিস্থিতির মধ্যস্থতা করেছে।"
+      },
+      {
+        "en": "She is trained to mediate.",
+        "bn": "সে মধ্যস্থতা করার জন্য প্রশিক্ষিত।"
+      },
+      {
+        "en": "The court mediated the case.",
+        "bn": "আদালত মামলার মধ্যস্থতা করেছে।"
+      },
+      {
+        "en": "They failed to mediate.",
+        "bn": "তারা মধ্যস্থতা করতে ব্যর্থ হয়েছে।"
+      }
+    ],
+    "synonyms": ["intervene", "negotiate", "arbitrate", "settle"]
+  },
+  {
+    "base": "meditate",
+    "phonetic": "ˈmedɪteɪt",
+    "meaning": "ধ্যান করা",
+    "examples": [
+      {
+        "en": "He meditates every morning.",
+        "bn": "সে প্রতিদিন সকালে ধ্যান করে।"
+      },
+      { "en": "She likes to meditate.", "bn": "সে ধ্যান করতে পছন্দ করে।" }
+    ],
+    "moreexample": [
+      { "en": "Meditate for peace.", "bn": "শান্তির জন্য ধ্যান করো।" },
+      { "en": "He meditated for an hour.", "bn": "সে এক ঘণ্টা ধ্যান করেছে।" },
+      { "en": "She meditates daily.", "bn": "সে প্রতিদিন ধ্যান করে।" },
+      { "en": "Meditation reduces stress.", "bn": "ধ্যান চাপ কমায়।" },
+      { "en": "They meditate together.", "bn": "তারা একসাথে ধ্যান করে।" },
+      { "en": "He learned to meditate.", "bn": "সে ধ্যান করতে শিখেছে।" },
+      { "en": "Meditate in silence.", "bn": "নীরবে ধ্যান করো।" },
+      { "en": "She meditated deeply.", "bn": "সে গভীরভাবে ধ্যান করেছে।" },
+      { "en": "Meditation helps focus.", "bn": "ধ্যান মনোযোগ বাড়ায়।" },
+      { "en": "He meditates at night.", "bn": "সে রাতে ধ্যান করে।" }
+    ],
+    "synonyms": ["contemplate", "reflect", "think", "focus"]
+  },
+  {
+    "base": "melody",
+    "phonetic": "ˈmelədi",
+    "meaning": "সুর",
+    "examples": [
+      { "en": "The melody is beautiful.", "bn": "সুরটি সুন্দর।" },
+      { "en": "She hummed a melody.", "bn": "সে একটি সুর গুনগুন করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The melody touched my heart.",
+        "bn": "সুরটি আমার হৃদয় ছুঁয়ে গেছে।"
+      },
+      { "en": "He composed a melody.", "bn": "সে একটি সুর রচনা করেছে।" },
+      { "en": "The melody is soft.", "bn": "সুরটি কোমল।" },
+      { "en": "I love this melody.", "bn": "আমি এই সুরটি ভালোবাসি।" },
+      { "en": "She played a melody.", "bn": "সে একটি সুর বাজিয়েছে।" },
+      { "en": "The melody is catchy.", "bn": "সুরটি আকর্ষণীয়।" },
+      { "en": "Birds sang a melody.", "bn": "পাখিরা একটি সুর গেয়েছে।" },
+      { "en": "He remembered the melody.", "bn": "সে সুরটি মনে রেখেছে।" },
+      { "en": "The melody is slow.", "bn": "সুরটি ধীর।" },
+      { "en": "They created a melody.", "bn": "তারা একটি সুর তৈরি করেছে।" }
+    ],
+    "synonyms": ["tune", "song", "harmony", "music"]
+  },
+  {
+    "base": "member",
+    "phonetic": "ˈmembər",
+    "meaning": "সদস্য",
+    "examples": [
+      { "en": "He is a club member.", "bn": "সে ক্লাবের একজন সদস্য।" },
+      { "en": "She became a member.", "bn": "সে সদস্য হয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "All members agreed.", "bn": "সব সদস্য সম্মত হয়েছে।" },
+      { "en": "He joined as a member.", "bn": "সে সদস্য হিসেবে যোগ দিয়েছে।" },
+      { "en": "She is a family member.", "bn": "সে পরিবারের সদস্য।" },
+      { "en": "Members voted today.", "bn": "সদস্যরা আজ ভোট দিয়েছে।" },
+      { "en": "He is an active member.", "bn": "সে একজন সক্রিয় সদস্য।" },
+      { "en": "Club members met.", "bn": "ক্লাব সদস্যরা মিলিত হয়েছে।" },
+      { "en": "She is a team member.", "bn": "সে দলের সদস্য।" },
+      { "en": "Members are important.", "bn": "সদস্যরা গুরুত্বপূর্ণ।" },
+      { "en": "He is a new member.", "bn": "সে নতুন সদস্য।" },
+      {
+        "en": "They welcomed the member.",
+        "bn": "তারা সদস্যকে স্বাগত জানিয়েছে।"
+      }
+    ],
+    "synonyms": ["participant", "part", "associate", "affiliate"]
+  },
+  {
+    "base": "memorial",
+    "phonetic": "məˈmɔːriəl",
+    "meaning": "স্মৃতিসৌধ",
+    "examples": [
+      {
+        "en": "They built a memorial.",
+        "bn": "তারা একটি স্মৃতিসৌধ তৈরি করেছে।"
+      },
+      {
+        "en": "We visited the memorial.",
+        "bn": "আমরা স্মৃতিসৌধ পরিদর্শন করেছি।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The memorial is beautiful.", "bn": "স্মৃতিসৌধটি সুন্দর।" },
+      {
+        "en": "People gathered at the memorial.",
+        "bn": "মানুষ স্মৃতিসৌধে জড়ো হয়েছে।"
+      },
+      {
+        "en": "The memorial honors heroes.",
+        "bn": "স্মৃতিসৌধ বীরদের সম্মান করে।"
+      },
+      {
+        "en": "She visited the memorial site.",
+        "bn": "সে স্মৃতিসৌধ স্থান পরিদর্শন করেছে।"
+      },
+      { "en": "The memorial was opened.", "bn": "স্মৃতিসৌধটি উদ্বোধন হয়েছে।" },
+      {
+        "en": "They cleaned the memorial.",
+        "bn": "তারা স্মৃতিসৌধ পরিষ্কার করেছে।"
+      },
+      {
+        "en": "The memorial stands tall.",
+        "bn": "স্মৃতিসৌধটি উঁচু দাঁড়িয়ে আছে।"
+      },
+      {
+        "en": "He prayed at the memorial.",
+        "bn": "সে স্মৃতিসৌধে প্রার্থনা করেছে।"
+      },
+      {
+        "en": "The memorial was rebuilt.",
+        "bn": "স্মৃতিসৌধটি পুনর্নির্মাণ হয়েছে।"
+      },
+      {
+        "en": "Visitors respect the memorial.",
+        "bn": "পর্যটকরা স্মৃতিসৌধকে সম্মান করে।"
+      }
+    ],
+    "synonyms": ["monument", "tribute", "remembrance", "statue"]
+  },
+  {
+    "base": "mentionable",
+    "phonetic": "ˈmenʃənəbl",
+    "meaning": "উল্লেখযোগ্য",
+    "examples": [
+      {
+        "en": "It is not mentionable here.",
+        "bn": "এটি এখানে উল্লেখযোগ্য নয়।"
+      },
+      {
+        "en": "There is nothing mentionable.",
+        "bn": "এখানে উল্লেখ করার মতো কিছু নেই।"
+      }
+    ],
+    "moreexample": [
+      { "en": "His work is mentionable.", "bn": "তার কাজ উল্লেখযোগ্য।" },
+      {
+        "en": "Nothing mentionable happened.",
+        "bn": "কোনো উল্লেখযোগ্য ঘটনা ঘটেনি।"
+      },
+      { "en": "The result is mentionable.", "bn": "ফলাফল উল্লেখযোগ্য।" },
+      {
+        "en": "Her effort is mentionable.",
+        "bn": "তার প্রচেষ্টা উল্লেখযোগ্য।"
+      },
+      { "en": "It is not worth mentionable.", "bn": "এটি উল্লেখযোগ্য নয়।" },
+      {
+        "en": "There are mentionable changes.",
+        "bn": "উল্লেখযোগ্য পরিবর্তন আছে।"
+      },
+      {
+        "en": "His progress is mentionable.",
+        "bn": "তার অগ্রগতি উল্লেখযোগ্য।"
+      },
+      {
+        "en": "Nothing mentionable occurred.",
+        "bn": "কোনো উল্লেখযোগ্য ঘটনা ঘটেনি।"
+      },
+      { "en": "The improvement is mentionable.", "bn": "উন্নতি উল্লেখযোগ্য।" },
+      {
+        "en": "She achieved mentionable success.",
+        "bn": "সে উল্লেখযোগ্য সাফল্য অর্জন করেছে।"
+      }
+    ],
+    "synonyms": ["notable", "remarkable", "worthy", "significant"]
+  },
+
+  {
+    "base": "merchant",
+    "phonetic": "ˈmɜːrtʃənt",
+    "meaning": "বণিক / ব্যবসায়ী",
+    "examples": [
+      { "en": "The merchant sells goods.", "bn": "বণিক পণ্য বিক্রি করে।" },
+      { "en": "He is a rich merchant.", "bn": "সে একজন ধনী ব্যবসায়ী।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The merchant traveled abroad.",
+        "bn": "বণিক বিদেশে ভ্রমণ করেছে।"
+      },
+      { "en": "She is a cloth merchant.", "bn": "সে একজন কাপড় ব্যবসায়ী।" },
+      { "en": "The merchant made a deal.", "bn": "বণিক একটি চুক্তি করেছে।" },
+      { "en": "He is a famous merchant.", "bn": "সে একজন বিখ্যাত ব্যবসায়ী।" },
+      { "en": "The merchant imports goods.", "bn": "বণিক পণ্য আমদানি করে।" },
+      {
+        "en": "They met a merchant.",
+        "bn": "তারা একজন বণিকের সাথে দেখা করেছে।"
+      },
+      { "en": "The merchant earned profit.", "bn": "বণিক লাভ করেছে।" },
+      { "en": "She became a merchant.", "bn": "সে একজন ব্যবসায়ী হয়েছে।" },
+      { "en": "The merchant owns shops.", "bn": "বণিকের দোকান আছে।" },
+      {
+        "en": "Merchants trade worldwide.",
+        "bn": "বণিকরা বিশ্বজুড়ে ব্যবসা করে।"
+      }
+    ],
+    "synonyms": ["trader", "dealer", "seller", "businessman"]
+  },
+  {
+    "base": "merge",
+    "phonetic": "mɜːrdʒ",
+    "meaning": "একীভূত করা",
+    "examples": [
+      {
+        "en": "The two companies merged.",
+        "bn": "দুটি কোম্পানি একীভূত হয়েছে।"
+      },
+      { "en": "Merge the files.", "bn": "ফাইলগুলো একীভূত করো।" }
+    ],
+    "moreexample": [
+      { "en": "The roads merge here.", "bn": "এখানে রাস্তা একীভূত হয়।" },
+      {
+        "en": "They merged their ideas.",
+        "bn": "তারা তাদের ধারণা একীভূত করেছে।"
+      },
+      {
+        "en": "The companies merged successfully.",
+        "bn": "কোম্পানিগুলো সফলভাবে একীভূত হয়েছে।"
+      },
+      { "en": "The rivers merge together.", "bn": "নদীগুলো একসাথে মিশে যায়।" },
+      {
+        "en": "She merged the documents.",
+        "bn": "সে ডকুমেন্টগুলো একীভূত করেছে।"
+      },
+      { "en": "Teams merged into one.", "bn": "দলগুলো এক হয়ে গেছে।" },
+      {
+        "en": "They plan to merge soon.",
+        "bn": "তারা শীঘ্রই একীভূত হওয়ার পরিকল্পনা করছে।"
+      },
+      {
+        "en": "The apps merged features.",
+        "bn": "অ্যাপগুলো ফিচার একীভূত করেছে।"
+      },
+      {
+        "en": "He merged the accounts.",
+        "bn": "সে অ্যাকাউন্টগুলো একীভূত করেছে।"
+      },
+      {
+        "en": "The systems merged smoothly.",
+        "bn": "সিস্টেমগুলো মসৃণভাবে একীভূত হয়েছে।"
+      }
+    ],
+    "synonyms": ["combine", "unite", "blend", "fuse"]
+  },
+  {
+    "base": "merit",
+    "phonetic": "ˈmerɪt",
+    "meaning": "যোগ্যতা / গুণ",
+    "examples": [
+      {
+        "en": "He got a reward on merit.",
+        "bn": "সে যোগ্যতার ভিত্তিতে পুরস্কার পেয়েছে।"
+      },
+      { "en": "The idea has merit.", "bn": "ধারণাটির গুণ আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She was selected on merit.",
+        "bn": "সে যোগ্যতার ভিত্তিতে নির্বাচিত হয়েছে।"
+      },
+      { "en": "His work has merit.", "bn": "তার কাজের গুণ আছে।" },
+      {
+        "en": "They judged on merit.",
+        "bn": "তারা যোগ্যতার ভিত্তিতে বিচার করেছে।"
+      },
+      { "en": "The proposal has merit.", "bn": "প্রস্তাবটির গুণ আছে।" },
+      { "en": "He deserves merit.", "bn": "সে যোগ্য।" },
+      {
+        "en": "Merit matters in exams.",
+        "bn": "পরীক্ষায় যোগ্যতা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She earned merit points.",
+        "bn": "সে যোগ্যতার পয়েন্ট অর্জন করেছে।"
+      },
+      {
+        "en": "The system values merit.",
+        "bn": "ব্যবস্থা যোগ্যতাকে মূল্য দেয়।"
+      },
+      { "en": "His merit is clear.", "bn": "তার যোগ্যতা পরিষ্কার।" },
+      { "en": "They rewarded merit.", "bn": "তারা যোগ্যতাকে পুরস্কৃত করেছে।" }
+    ],
+    "synonyms": ["worth", "value", "excellence", "quality"]
+  },
+  {
+    "base": "messenger",
+    "phonetic": "ˈmesɪndʒər",
+    "meaning": "বার্তাবাহক",
+    "examples": [
+      { "en": "He is a messenger.", "bn": "সে একজন বার্তাবাহক।" },
+      {
+        "en": "The messenger delivered the letter.",
+        "bn": "বার্তাবাহক চিঠি পৌঁছে দিয়েছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The messenger arrived late.", "bn": "বার্তাবাহক দেরিতে এসেছে।" },
+      {
+        "en": "She worked as a messenger.",
+        "bn": "সে বার্তাবাহক হিসেবে কাজ করেছে।"
+      },
+      { "en": "The messenger sent news.", "bn": "বার্তাবাহক খবর পাঠিয়েছে।" },
+      {
+        "en": "He is a trusted messenger.",
+        "bn": "সে একজন বিশ্বস্ত বার্তাবাহক।"
+      },
+      {
+        "en": "The messenger delivered quickly.",
+        "bn": "বার্তাবাহক দ্রুত পৌঁছে দিয়েছে।"
+      },
+      {
+        "en": "They hired a messenger.",
+        "bn": "তারা একজন বার্তাবাহক নিয়োগ করেছে।"
+      },
+      {
+        "en": "The messenger carried documents.",
+        "bn": "বার্তাবাহক নথি বহন করেছে।"
+      },
+      { "en": "She became a messenger.", "bn": "সে বার্তাবাহক হয়েছে।" },
+      {
+        "en": "The messenger left early.",
+        "bn": "বার্তাবাহক তাড়াতাড়ি চলে গেছে।"
+      },
+      {
+        "en": "Messengers were important in history.",
+        "bn": "ইতিহাসে বার্তাবাহকরা গুরুত্বপূর্ণ ছিল।"
+      }
+    ],
+    "synonyms": ["carrier", "courier", "delivery person", "envoy"]
+  },
+  {
+    "base": "metal",
+    "phonetic": "ˈmetl",
+    "meaning": "ধাতু",
+    "examples": [
+      { "en": "Iron is a metal.", "bn": "লোহা একটি ধাতু।" },
+      { "en": "The door is made of metal.", "bn": "দরজাটি ধাতু দিয়ে তৈরি।" }
+    ],
+    "moreexample": [
+      { "en": "Metal is strong.", "bn": "ধাতু শক্তিশালী।" },
+      { "en": "Gold is a precious metal.", "bn": "সোনা একটি মূল্যবান ধাতু।" },
+      { "en": "They use metal tools.", "bn": "তারা ধাতব সরঞ্জাম ব্যবহার করে।" },
+      { "en": "The metal is cold.", "bn": "ধাতুটি ঠান্ডা।" },
+      { "en": "He shaped the metal.", "bn": "সে ধাতুটি আকার দিয়েছে।" },
+      { "en": "Metal objects are heavy.", "bn": "ধাতব বস্তু ভারী।" },
+      { "en": "The metal rusted.", "bn": "ধাতুটি মরিচা ধরেছে।" },
+      { "en": "She melted the metal.", "bn": "সে ধাতুটি গলিয়েছে।" },
+      { "en": "Metal is recyclable.", "bn": "ধাতু পুনর্ব্যবহারযোগ্য।" },
+      { "en": "The metal shines.", "bn": "ধাতুটি চকচকে।" }
+    ],
+    "synonyms": ["iron", "steel", "alloy", "substance"]
+  },
+  {
+    "base": "methodology",
+    "phonetic": "ˌmeθəˈdɒlədʒi",
+    "meaning": "পদ্ধতিবিজ্ঞান",
+    "examples": [
+      { "en": "The methodology is clear.", "bn": "পদ্ধতিবিজ্ঞান পরিষ্কার।" },
+      {
+        "en": "We follow a research methodology.",
+        "bn": "আমরা একটি গবেষণা পদ্ধতিবিজ্ঞান অনুসরণ করি।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He explained the methodology.",
+        "bn": "সে পদ্ধতিবিজ্ঞান ব্যাখ্যা করেছে।"
+      },
+      { "en": "The methodology is complex.", "bn": "পদ্ধতিবিজ্ঞান জটিল।" },
+      {
+        "en": "They changed the methodology.",
+        "bn": "তারা পদ্ধতিবিজ্ঞান পরিবর্তন করেছে।"
+      },
+      {
+        "en": "Good methodology is important.",
+        "bn": "ভালো পদ্ধতিবিজ্ঞান গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She studied methodology.",
+        "bn": "সে পদ্ধতিবিজ্ঞান অধ্যয়ন করেছে।"
+      },
+      {
+        "en": "The methodology improved results.",
+        "bn": "পদ্ধতিবিজ্ঞান ফলাফল উন্নত করেছে।"
+      },
+      {
+        "en": "We used a new methodology.",
+        "bn": "আমরা একটি নতুন পদ্ধতিবিজ্ঞান ব্যবহার করেছি।"
+      },
+      {
+        "en": "Methodology matters in science.",
+        "bn": "বিজ্ঞানে পদ্ধতিবিজ্ঞান গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "They developed a methodology.",
+        "bn": "তারা একটি পদ্ধতিবিজ্ঞান তৈরি করেছে।"
+      },
+      {
+        "en": "The methodology was tested.",
+        "bn": "পদ্ধতিবিজ্ঞান পরীক্ষা করা হয়েছে।"
+      }
+    ],
+    "synonyms": ["system", "approach", "framework", "procedure"]
+  },
+  {
+    "base": "metric",
+    "phonetic": "ˈmetrɪk",
+    "meaning": "পরিমাপক",
+    "examples": [
+      { "en": "We use metric units.", "bn": "আমরা মেট্রিক একক ব্যবহার করি।" },
+      {
+        "en": "This is a performance metric.",
+        "bn": "এটি একটি পারফরম্যান্স পরিমাপক।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Metric system is common.", "bn": "মেট্রিক পদ্ধতি সাধারণ।" },
+      { "en": "They measured metrics.", "bn": "তারা পরিমাপক মাপেছে।" },
+      { "en": "Metric units are simple.", "bn": "মেট্রিক একক সহজ।" },
+      {
+        "en": "He improved key metrics.",
+        "bn": "সে গুরুত্বপূর্ণ পরিমাপক উন্নত করেছে।"
+      },
+      { "en": "The metric changed.", "bn": "পরিমাপক পরিবর্তিত হয়েছে।" },
+      { "en": "We analyze metrics.", "bn": "আমরা পরিমাপক বিশ্লেষণ করি।" },
+      { "en": "Sales metrics increased.", "bn": "বিক্রির পরিমাপক বেড়েছে।" },
+      { "en": "Metric data is useful.", "bn": "পরিমাপক তথ্য উপকারী।" },
+      { "en": "They track metrics.", "bn": "তারা পরিমাপক ট্র্যাক করে।" },
+      { "en": "Metric standards are global.", "bn": "মেট্রিক মান বিশ্বব্যাপী।" }
+    ],
+    "synonyms": ["measure", "standard", "unit", "indicator"]
+  },
+  {
+    "base": "micro",
+    "phonetic": "ˈmaɪkroʊ",
+    "meaning": "অতি ক্ষুদ্র",
+    "examples": [
+      { "en": "Micro organisms are tiny.", "bn": "অণুজীব খুব ছোট।" },
+      { "en": "This is a micro device.", "bn": "এটি একটি ক্ষুদ্র যন্ত্র।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Micro level changes matter.",
+        "bn": "ক্ষুদ্র স্তরের পরিবর্তন গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "Micro cameras are used.",
+        "bn": "ক্ষুদ্র ক্যামেরা ব্যবহার করা হয়।"
+      },
+      { "en": "Micro analysis is needed.", "bn": "ক্ষুদ্র বিশ্লেষণ দরকার।" },
+      {
+        "en": "Micro systems are efficient.",
+        "bn": "ক্ষুদ্র সিস্টেম কার্যকর।"
+      },
+      {
+        "en": "He studied micro biology.",
+        "bn": "সে অণুজীববিজ্ঞান অধ্যয়ন করেছে।"
+      },
+      {
+        "en": "Micro changes affect results.",
+        "bn": "ক্ষুদ্র পরিবর্তন ফলাফলে প্রভাব ফেলে।"
+      },
+      { "en": "Micro chips are powerful.", "bn": "মাইক্রো চিপ শক্তিশালী।" },
+      {
+        "en": "They used micro tools.",
+        "bn": "তারা ক্ষুদ্র সরঞ্জাম ব্যবহার করেছে।"
+      },
+      { "en": "Micro scale is small.", "bn": "ক্ষুদ্র স্কেল ছোট।" },
+      {
+        "en": "Micro technology is advanced.",
+        "bn": "ক্ষুদ্র প্রযুক্তি উন্নত।"
+      }
+    ],
+    "synonyms": ["tiny", "small", "miniature", "minute"]
+  },
+  {
+    "base": "migration",
+    "phonetic": "maɪˈɡreɪʃn",
+    "meaning": "স্থানান্তর / অভিবাসন",
+    "examples": [
+      {
+        "en": "Bird migration happens yearly.",
+        "bn": "পাখির অভিবাসন প্রতি বছর ঘটে।"
+      },
+      { "en": "Human migration is common.", "bn": "মানব অভিবাসন সাধারণ।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Migration affects population.",
+        "bn": "অভিবাসন জনসংখ্যায় প্রভাব ফেলে।"
+      },
+      {
+        "en": "They studied migration patterns.",
+        "bn": "তারা অভিবাসনের ধরন অধ্যয়ন করেছে।"
+      },
+      {
+        "en": "Animal migration is natural.",
+        "bn": "প্রাণীর স্থানান্তর স্বাভাবিক।"
+      },
+      {
+        "en": "Migration increases diversity.",
+        "bn": "অভিবাসন বৈচিত্র্য বাড়ায়।"
+      },
+      { "en": "Birds migrate in winter.", "bn": "পাখিরা শীতে স্থানান্তর করে।" },
+      { "en": "Migration is global.", "bn": "অভিবাসন বিশ্বব্যাপী।" },
+      {
+        "en": "He studied migration trends.",
+        "bn": "সে অভিবাসনের প্রবণতা অধ্যয়ন করেছে।"
+      },
+      {
+        "en": "Migration changed cities.",
+        "bn": "অভিবাসন শহর পরিবর্তন করেছে।"
+      },
+      {
+        "en": "People migrate for jobs.",
+        "bn": "মানুষ কাজের জন্য স্থানান্তর করে।"
+      },
+      { "en": "Migration is complex.", "bn": "অভিবাসন জটিল।" }
+    ],
+    "synonyms": ["movement", "relocation", "transfer", "shift"]
+  },
+  {
+    "base": "milestone",
+    "phonetic": "ˈmaɪlstoʊn",
+    "meaning": "মাইলফলক",
+    "examples": [
+      { "en": "This is a major milestone.", "bn": "এটি একটি বড় মাইলফলক।" },
+      { "en": "He reached a milestone.", "bn": "সে একটি মাইলফলক অর্জন করেছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Graduation is a milestone.",
+        "bn": "স্নাতক হওয়া একটি মাইলফলক।"
+      },
+      {
+        "en": "The project hit a milestone.",
+        "bn": "প্রকল্পটি একটি মাইলফলক অর্জন করেছে।"
+      },
+      {
+        "en": "She achieved a milestone.",
+        "bn": "সে একটি মাইলফলক অর্জন করেছে।"
+      },
+      { "en": "Life milestones matter.", "bn": "জীবনের মাইলফলক গুরুত্বপূর্ণ।" },
+      {
+        "en": "The company reached a milestone.",
+        "bn": "কোম্পানিটি মাইলফলক অর্জন করেছে।"
+      },
+      {
+        "en": "This is a key milestone.",
+        "bn": "এটি একটি গুরুত্বপূর্ণ মাইলফলক।"
+      },
+      {
+        "en": "They celebrated the milestone.",
+        "bn": "তারা মাইলফলক উদযাপন করেছে।"
+      },
+      {
+        "en": "Milestones track progress.",
+        "bn": "মাইলফলক অগ্রগতি নির্দেশ করে।"
+      },
+      {
+        "en": "He passed a career milestone.",
+        "bn": "সে ক্যারিয়ারের মাইলফলক পার করেছে।"
+      },
+      {
+        "en": "It is a historic milestone.",
+        "bn": "এটি একটি ঐতিহাসিক মাইলফলক।"
+      }
+    ],
+    "synonyms": ["achievement", "stage", "turning point", "marker"]
+  },
+  {
+    "base": "military",
+    "phonetic": "ˈmɪləteri",
+    "meaning": "সামরিক",
+    "examples": [
+      {
+        "en": "He joined the military.",
+        "bn": "সে সামরিক বাহিনীতে যোগ দিয়েছে।"
+      },
+      { "en": "Military training is hard.", "bn": "সামরিক প্রশিক্ষণ কঠিন।" }
+    ],
+    "moreexample": [
+      { "en": "Military forces are strong.", "bn": "সামরিক বাহিনী শক্তিশালী।" },
+      { "en": "He has military experience.", "bn": "তার সামরিক অভিজ্ঞতা আছে।" },
+      { "en": "Military rules are strict.", "bn": "সামরিক নিয়ম কঠোর।" },
+      {
+        "en": "They served in the military.",
+        "bn": "তারা সামরিক বাহিনীতে কাজ করেছে।"
+      },
+      { "en": "Military operation began.", "bn": "সামরিক অভিযান শুরু হয়েছে।" },
+      {
+        "en": "He retired from military.",
+        "bn": "সে সামরিক বাহিনী থেকে অবসর নিয়েছে।"
+      },
+      { "en": "Military base is secure.", "bn": "সামরিক ঘাঁটি নিরাপদ।" },
+      {
+        "en": "Military service is honorable.",
+        "bn": "সামরিক সেবা সম্মানজনক।"
+      },
+      {
+        "en": "They studied military strategy.",
+        "bn": "তারা সামরিক কৌশল অধ্যয়ন করেছে।"
+      },
+      { "en": "Military power is strong.", "bn": "সামরিক শক্তি শক্তিশালী।" }
+    ],
+    "synonyms": ["armed forces", "army", "defense", "troops"]
+  },
+  {
+    "base": "mineral",
+    "phonetic": "ˈmɪnərəl",
+    "meaning": "খনিজ",
+    "examples": [
+      { "en": "Water contains minerals.", "bn": "পানিতে খনিজ থাকে।" },
+      { "en": "The rock has minerals.", "bn": "পাথরে খনিজ আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Minerals are important for health.",
+        "bn": "খনিজ স্বাস্থ্য জন্য গুরুত্বপূর্ণ।"
+      },
+      { "en": "The soil is rich in minerals.", "bn": "মাটি খনিজে সমৃদ্ধ।" },
+      { "en": "They mined minerals.", "bn": "তারা খনিজ উত্তোলন করেছে।" },
+      { "en": "Mineral water is healthy.", "bn": "খনিজ পানি স্বাস্থ্যকর।" },
+      { "en": "The earth contains minerals.", "bn": "পৃথিবীতে খনিজ আছে।" },
+      { "en": "She studied minerals.", "bn": "সে খনিজ অধ্যয়ন করেছে।" },
+      { "en": "Mineral resources are valuable.", "bn": "খনিজ সম্পদ মূল্যবান।" },
+      { "en": "The stone has minerals.", "bn": "পাথরে খনিজ আছে।" },
+      { "en": "They extracted minerals.", "bn": "তারা খনিজ উত্তোলন করেছে।" },
+      { "en": "Minerals support growth.", "bn": "খনিজ বৃদ্ধি সহায়তা করে।" }
+    ],
+    "synonyms": ["ore", "substance", "compound", "element"]
+  },
+
+  {
+    "base": "minister",
+    "phonetic": "ˈmɪnɪstər",
+    "meaning": "মন্ত্রী",
+    "examples": [
+      {
+        "en": "The minister gave a speech.",
+        "bn": "মন্ত্রী একটি বক্তৃতা দিয়েছেন।"
+      },
+      { "en": "He is a government minister.", "bn": "সে একজন সরকারি মন্ত্রী।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The minister visited the school.",
+        "bn": "মন্ত্রী স্কুলটি পরিদর্শন করেছেন।"
+      },
+      { "en": "She became a minister.", "bn": "সে মন্ত্রী হয়েছে।" },
+      {
+        "en": "The minister announced a plan.",
+        "bn": "মন্ত্রী একটি পরিকল্পনা ঘোষণা করেছেন।"
+      },
+      { "en": "Ministers met today.", "bn": "মন্ত্রীরা আজ বৈঠক করেছে।" },
+      { "en": "The minister resigned.", "bn": "মন্ত্রী পদত্যাগ করেছেন।" },
+      { "en": "He is the health minister.", "bn": "সে স্বাস্থ্য মন্ত্রী।" },
+      {
+        "en": "The minister approved the project.",
+        "bn": "মন্ত্রী প্রকল্প অনুমোদন করেছেন।"
+      },
+      {
+        "en": "They welcomed the minister.",
+        "bn": "তারা মন্ত্রীকে স্বাগত জানিয়েছে।"
+      },
+      {
+        "en": "The minister spoke clearly.",
+        "bn": "মন্ত্রী স্পষ্টভাবে কথা বলেছেন।"
+      },
+      {
+        "en": "A new minister was appointed.",
+        "bn": "একজন নতুন মন্ত্রী নিয়োগ দেওয়া হয়েছে।"
+      }
+    ],
+    "synonyms": ["official", "leader", "administrator", "governor"]
+  },
+  {
+    "base": "minor",
+    "phonetic": "ˈmaɪnər",
+    "meaning": "অপ্রাপ্তবয়স্ক / ছোট / গৌণ",
+    "examples": [
+      { "en": "He is a minor.", "bn": "সে অপ্রাপ্তবয়স্ক।" },
+      { "en": "It is a minor issue.", "bn": "এটি একটি ছোট সমস্যা।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She suffered minor injuries.",
+        "bn": "সে সামান্য আঘাত পেয়েছে।"
+      },
+      { "en": "This is a minor mistake.", "bn": "এটি একটি ছোট ভুল।" },
+      { "en": "He is still a minor.", "bn": "সে এখনও অপ্রাপ্তবয়স্ক।" },
+      { "en": "Minor changes were made.", "bn": "ছোট পরিবর্তন করা হয়েছে।" },
+      { "en": "It is a minor problem.", "bn": "এটি একটি ছোট সমস্যা।" },
+      { "en": "She had a minor role.", "bn": "তার একটি গৌণ ভূমিকা ছিল।" },
+      { "en": "Minor details matter.", "bn": "ছোট বিবরণ গুরুত্বপূর্ণ।" },
+      { "en": "He got minor cuts.", "bn": "সে সামান্য কাটা পেয়েছে।" },
+      { "en": "This is a minor update.", "bn": "এটি একটি ছোট আপডেট।" },
+      { "en": "The issue is minor.", "bn": "সমস্যাটি ছোট।" }
+    ],
+    "synonyms": ["small", "slight", "lesser", "subordinate"]
+  },
+  {
+    "base": "minus",
+    "phonetic": "ˈmaɪnəs",
+    "meaning": "বিয়োগ / কম",
+    "examples": [
+      { "en": "Five minus two is three.", "bn": "পাঁচ বিয়োগ দুই সমান তিন।" },
+      { "en": "The temperature is minus five.", "bn": "তাপমাত্রা মাইনাস পাঁচ।" }
+    ],
+    "moreexample": [
+      { "en": "Ten minus four is six.", "bn": "দশ বিয়োগ চার সমান ছয়।" },
+      { "en": "It is minus temperature.", "bn": "এটি মাইনাস তাপমাত্রা।" },
+      {
+        "en": "Minus signs are used in math.",
+        "bn": "গণিতে বিয়োগ চিহ্ন ব্যবহার করা হয়।"
+      },
+      { "en": "The balance is minus ten.", "bn": "ব্যালেন্স মাইনাস দশ।" },
+      { "en": "He scored minus points.", "bn": "সে মাইনাস পয়েন্ট পেয়েছে।" },
+      { "en": "Minus five degrees.", "bn": "মাইনাস পাঁচ ডিগ্রি।" },
+      { "en": "Two minus one is one.", "bn": "দুই বিয়োগ এক সমান এক।" },
+      { "en": "The result is minus.", "bn": "ফলাফল মাইনাস।" },
+      { "en": "Minus values are rare.", "bn": "মাইনাস মান বিরল।" },
+      { "en": "The number went minus.", "bn": "সংখ্যাটি মাইনাস হয়েছে।" }
+    ],
+    "synonyms": ["subtract", "less", "negative", "decrease"]
+  },
+  {
+    "base": "minute",
+    "phonetic": "ˈmɪnɪt",
+    "meaning": "ক্ষুদ্র / মিনিট",
+    "examples": [
+      { "en": "Wait a minute.", "bn": "এক মিনিট অপেক্ষা করো।" },
+      { "en": "It is a minute detail.", "bn": "এটি একটি ক্ষুদ্র বিবরণ।" }
+    ],
+    "moreexample": [
+      { "en": "She arrived in a minute.", "bn": "সে এক মিনিটে এসেছে।" },
+      { "en": "Minute details matter.", "bn": "ক্ষুদ্র বিবরণ গুরুত্বপূর্ণ।" },
+      { "en": "He waited ten minutes.", "bn": "সে দশ মিনিট অপেক্ষা করেছে।" },
+      { "en": "The issue is minute.", "bn": "সমস্যাটি ক্ষুদ্র।" },
+      { "en": "Give me a minute.", "bn": "আমাকে এক মিনিট দাও।" },
+      {
+        "en": "Minute changes affect results.",
+        "bn": "ক্ষুদ্র পরিবর্তন ফলাফলে প্রভাব ফেলে।"
+      },
+      { "en": "It took a minute.", "bn": "এটি এক মিনিট সময় নিয়েছে।" },
+      { "en": "The difference is minute.", "bn": "পার্থক্যটি ক্ষুদ্র।" },
+      {
+        "en": "He noted every minute detail.",
+        "bn": "সে প্রতিটি ক্ষুদ্র বিবরণ নোট করেছে।"
+      },
+      { "en": "We have a few minutes.", "bn": "আমাদের কয়েক মিনিট আছে।" }
+    ],
+    "synonyms": ["small", "tiny", "brief", "instant"]
+  },
+  {
+    "base": "miracle",
+    "phonetic": "ˈmɪrəkəl",
+    "meaning": "অলৌকিক ঘটনা",
+    "examples": [
+      { "en": "It was a miracle.", "bn": "এটি একটি অলৌকিক ঘটনা ছিল।" },
+      { "en": "He survived by a miracle.", "bn": "সে অলৌকিকভাবে বেঁচে গেছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The rescue was a miracle.",
+        "bn": "উদ্ধারটি একটি অলৌকিক ঘটনা ছিল।"
+      },
+      {
+        "en": "It felt like a miracle.",
+        "bn": "এটি একটি অলৌকিক ঘটনা মনে হয়েছে।"
+      },
+      {
+        "en": "Her recovery was a miracle.",
+        "bn": "তার সুস্থ হওয়া একটি অলৌকিক ঘটনা।"
+      },
+      {
+        "en": "Miracles happen sometimes.",
+        "bn": "অলৌকিক ঘটনা কখনও কখনও ঘটে।"
+      },
+      {
+        "en": "It is a medical miracle.",
+        "bn": "এটি একটি চিকিৎসা অলৌকিক ঘটনা।"
+      },
+      {
+        "en": "They called it a miracle.",
+        "bn": "তারা এটিকে অলৌকিক ঘটনা বলেছে।"
+      },
+      {
+        "en": "The child was a miracle.",
+        "bn": "শিশুটি একটি অলৌকিক ঘটনা ছিল।"
+      },
+      {
+        "en": "It was nothing short of a miracle.",
+        "bn": "এটি সত্যিই একটি অলৌকিক ঘটনা ছিল।"
+      },
+      {
+        "en": "We witnessed a miracle.",
+        "bn": "আমরা একটি অলৌকিক ঘটনা দেখেছি।"
+      },
+      {
+        "en": "The survival was a miracle.",
+        "bn": "বেঁচে থাকা একটি অলৌকিক ঘটনা ছিল।"
+      }
+    ],
+    "synonyms": ["wonder", "marvel", "phenomenon", "marvelous event"]
+  },
+  {
+    "base": "mirror",
+    "phonetic": "ˈmɪrər",
+    "meaning": "আয়না",
+    "examples": [
+      { "en": "She looked in the mirror.", "bn": "সে আয়নায় দেখেছে।" },
+      { "en": "The mirror is broken.", "bn": "আয়নাটি ভেঙে গেছে।" }
+    ],
+    "moreexample": [
+      { "en": "He cleaned the mirror.", "bn": "সে আয়নাটি পরিষ্কার করেছে।" },
+      { "en": "The mirror reflects light.", "bn": "আয়না আলো প্রতিফলিত করে।" },
+      {
+        "en": "She saw herself in the mirror.",
+        "bn": "সে নিজেকে আয়নায় দেখেছে।"
+      },
+      { "en": "The mirror is large.", "bn": "আয়নাটি বড়।" },
+      { "en": "He fixed the mirror.", "bn": "সে আয়নাটি ঠিক করেছে।" },
+      { "en": "The mirror cracked.", "bn": "আয়নাটি ফেটে গেছে।" },
+      { "en": "She bought a mirror.", "bn": "সে একটি আয়না কিনেছে।" },
+      { "en": "The mirror shines.", "bn": "আয়নাটি চকচকে।" },
+      { "en": "He looked into the mirror.", "bn": "সে আয়নার দিকে তাকিয়েছে।" },
+      { "en": "Mirrors are useful.", "bn": "আয়না উপকারী।" }
+    ],
+    "synonyms": ["reflector", "glass", "looking glass"]
+  },
+  {
+    "base": "mislead",
+    "phonetic": "ˌmɪsˈliːd",
+    "meaning": "ভুল পথে পরিচালিত করা",
+    "examples": [
+      {
+        "en": "Don’t mislead people.",
+        "bn": "মানুষকে ভুল পথে পরিচালিত কোরো না।"
+      },
+      { "en": "He misled the team.", "bn": "সে দলকে ভুল পথে নিয়েছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The ad misled customers.",
+        "bn": "বিজ্ঞাপনটি গ্রাহকদের ভুল পথে নিয়েছে।"
+      },
+      {
+        "en": "She was misled by him.",
+        "bn": "সে তার দ্বারা ভুল পথে পরিচালিত হয়েছে।"
+      },
+      {
+        "en": "False info can mislead.",
+        "bn": "ভুল তথ্য মানুষকে বিভ্রান্ত করতে পারে।"
+      },
+      { "en": "They misled the public.", "bn": "তারা জনগণকে ভুল পথে নিয়েছে।" },
+      {
+        "en": "He misled his friends.",
+        "bn": "সে তার বন্ধুদের ভুল পথে নিয়েছে।"
+      },
+      { "en": "Don’t mislead anyone.", "bn": "কাউকে ভুল পথে নিও না।" },
+      {
+        "en": "The report misled readers.",
+        "bn": "রিপোর্টটি পাঠকদের বিভ্রান্ত করেছে।"
+      },
+      { "en": "She felt misled.", "bn": "সে বিভ্রান্ত বোধ করেছে।" },
+      {
+        "en": "He tried to mislead us.",
+        "bn": "সে আমাদের ভুল পথে নেওয়ার চেষ্টা করেছে।"
+      },
+      {
+        "en": "The data misled scientists.",
+        "bn": "তথ্য বিজ্ঞানীদের বিভ্রান্ত করেছে।"
+      }
+    ],
+    "synonyms": ["deceive", "confuse", "misguide", "trick"]
+  },
+  {
+    "base": "mistake",
+    "phonetic": "mɪˈsteɪk",
+    "meaning": "ভুল",
+    "examples": [
+      { "en": "It was a mistake.", "bn": "এটি একটি ভুল ছিল।" },
+      { "en": "I made a mistake.", "bn": "আমি একটি ভুল করেছি।" }
+    ],
+    "moreexample": [
+      { "en": "Everyone makes mistakes.", "bn": "সবাই ভুল করে।" },
+      { "en": "He corrected his mistake.", "bn": "সে তার ভুল ঠিক করেছে।" },
+      { "en": "It was a big mistake.", "bn": "এটি একটি বড় ভুল ছিল।" },
+      { "en": "She learned from mistakes.", "bn": "সে ভুল থেকে শিখেছে।" },
+      { "en": "Don’t repeat the mistake.", "bn": "ভুলটি পুনরাবৃত্তি কোরো না।" },
+      { "en": "The mistake was minor.", "bn": "ভুলটি ছোট ছিল।" },
+      { "en": "He admitted his mistake.", "bn": "সে তার ভুল স্বীকার করেছে।" },
+      { "en": "Mistakes help learning.", "bn": "ভুল শেখায় সাহায্য করে।" },
+      { "en": "I noticed the mistake.", "bn": "আমি ভুলটি লক্ষ্য করেছি।" },
+      { "en": "It was a careless mistake.", "bn": "এটি একটি অসতর্ক ভুল ছিল।" }
+    ],
+    "synonyms": ["error", "fault", "blunder", "slip"]
+  },
+  {
+    "base": "mixture",
+    "phonetic": "ˈmɪkstʃər",
+    "meaning": "মিশ্রণ",
+    "examples": [
+      { "en": "This is a mixture of spices.", "bn": "এটি মসলার একটি মিশ্রণ।" },
+      { "en": "The drink is a mixture.", "bn": "পানীয়টি একটি মিশ্রণ।" }
+    ],
+    "moreexample": [
+      { "en": "The mixture is ready.", "bn": "মিশ্রণ প্রস্তুত।" },
+      { "en": "He created a mixture.", "bn": "সে একটি মিশ্রণ তৈরি করেছে।" },
+      {
+        "en": "The mixture smells good.",
+        "bn": "মিশ্রণটি সুন্দর গন্ধ পাচ্ছে।"
+      },
+      { "en": "Add water to the mixture.", "bn": "মিশ্রণে পানি যোগ করো।" },
+      { "en": "The mixture changed color.", "bn": "মিশ্রণ রঙ পরিবর্তন করেছে।" },
+      { "en": "It is a chemical mixture.", "bn": "এটি একটি রাসায়নিক মিশ্রণ।" },
+      { "en": "She stirred the mixture.", "bn": "সে মিশ্রণ নাড়িয়েছে।" },
+      { "en": "The mixture is thick.", "bn": "মিশ্রণটি ঘন।" },
+      { "en": "They tested the mixture.", "bn": "তারা মিশ্রণ পরীক্ষা করেছে।" },
+      { "en": "The mixture is smooth.", "bn": "মিশ্রণটি মসৃণ।" }
+    ],
+    "synonyms": ["blend", "combination", "mix", "fusion"]
+  },
+  {
+    "base": "motion",
+    "phonetic": "ˈmoʊʃn",
+    "meaning": "গতি / আন্দোলন",
+    "examples": [
+      { "en": "The motion of the car is fast.", "bn": "গাড়ির গতি দ্রুত।" },
+      { "en": "He made a motion to stop.", "bn": "সে থামার জন্য ইঙ্গিত করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "The motion was smooth.", "bn": "গতি মসৃণ ছিল।" },
+      { "en": "She noticed the motion.", "bn": "সে গতিবিধি লক্ষ্য করেছে।" },
+      { "en": "Motion causes energy.", "bn": "গতি শক্তি তৈরি করে।" },
+      { "en": "He studied motion.", "bn": "সে গতি অধ্যয়ন করেছে।" },
+      { "en": "The motion stopped suddenly.", "bn": "গতি হঠাৎ থেমে গেছে।" },
+      { "en": "They observed motion.", "bn": "তারা গতি পর্যবেক্ষণ করেছে।" },
+      { "en": "Motion is continuous.", "bn": "গতি অবিচ্ছিন্ন।" },
+      { "en": "She made a hand motion.", "bn": "সে হাতের ইঙ্গিত করেছে।" },
+      { "en": "The motion increased.", "bn": "গতি বেড়েছে।" },
+      { "en": "Everything is in motion.", "bn": "সবকিছু গতিশীল।" }
+    ],
+    "synonyms": ["movement", "movement", "action", "flow"]
+  },
+
+  {
+    "base": "mold",
+    "phonetic": "moʊld",
+    "meaning": "ছাঁচ / গঠন করা",
+    "examples": [
+      { "en": "The bread has mold.", "bn": "রুটিতে ছাঁচ পড়েছে।" },
+      {
+        "en": "Parents mold children's behavior.",
+        "bn": "অভিভাবকরা শিশুদের আচরণ গঠন করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The cheese developed mold.", "bn": "চিজে ছাঁচ পড়েছে।" },
+      {
+        "en": "They mold clay into shape.",
+        "bn": "তারা মাটি দিয়ে আকার তৈরি করে।"
+      },
+      {
+        "en": "Bad habits can mold character.",
+        "bn": "খারাপ অভ্যাস চরিত্র গঠন করতে পারে।"
+      },
+      {
+        "en": "The statue was molded carefully.",
+        "bn": "মূর্তিটি যত্নসহকারে তৈরি করা হয়েছে।"
+      },
+      {
+        "en": "Mold grows in damp places.",
+        "bn": "আর্দ্র জায়গায় ছাঁচ জন্মায়।"
+      },
+      { "en": "He molded the design.", "bn": "সে নকশাটি তৈরি করেছে।" },
+      { "en": "The mold spread quickly.", "bn": "ছাঁচ দ্রুত ছড়িয়ে পড়েছে।" },
+      { "en": "She molded the clay pot.", "bn": "সে মাটির পাত্র তৈরি করেছে।" },
+      { "en": "Education molds the mind.", "bn": "শিক্ষা মন গঠন করে।" },
+      { "en": "The mold ruined the food.", "bn": "ছাঁচ খাবার নষ্ট করেছে।" }
+    ],
+    "synonyms": ["shape", "form", "influence", "cast"]
+  },
+  {
+    "base": "moment",
+    "phonetic": "ˈmoʊmənt",
+    "meaning": "মুহূর্ত",
+    "examples": [
+      { "en": "Wait a moment.", "bn": "এক মুহূর্ত অপেক্ষা করো।" },
+      { "en": "It was a special moment.", "bn": "এটি একটি বিশেষ মুহূর্ত ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "This is the perfect moment.", "bn": "এটি সঠিক মুহূর্ত।" },
+      { "en": "He paused for a moment.", "bn": "সে এক মুহূর্ত থেমেছে।" },
+      { "en": "Every moment matters.", "bn": "প্রতিটি মুহূর্ত গুরুত্বপূর্ণ।" },
+      { "en": "She enjoyed the moment.", "bn": "সে মুহূর্তটি উপভোগ করেছে।" },
+      { "en": "The moment passed quickly.", "bn": "মুহূর্তটি দ্রুত চলে গেছে।" },
+      { "en": "I will come in a moment.", "bn": "আমি এক মুহূর্তে আসব।" },
+      {
+        "en": "That was a proud moment.",
+        "bn": "এটি একটি গর্বের মুহূর্ত ছিল।"
+      },
+      { "en": "He captured the moment.", "bn": "সে মুহূর্তটি ধরে রেখেছে।" },
+      { "en": "Live in the moment.", "bn": "মুহূর্তে বাঁচো।" },
+      {
+        "en": "The moment changed everything.",
+        "bn": "মুহূর্তটি সবকিছু বদলে দিয়েছে।"
+      }
+    ],
+    "synonyms": ["instant", "second", "time", "flash"]
+  },
+  {
+    "base": "monarch",
+    "phonetic": "ˈmɒnərk",
+    "meaning": "রাজা / সম্রাট",
+    "examples": [
+      { "en": "The monarch ruled the country.", "bn": "রাজা দেশ শাসন করেছেন।" },
+      { "en": "He is a powerful monarch.", "bn": "সে একজন শক্তিশালী সম্রাট।" }
+    ],
+    "moreexample": [
+      { "en": "The monarch gave orders.", "bn": "সম্রাট আদেশ দিয়েছেন।" },
+      { "en": "She is a kind monarch.", "bn": "সে একজন দয়ালু সম্রাট।" },
+      {
+        "en": "The monarch lived in a palace.",
+        "bn": "সম্রাট প্রাসাদে বাস করতেন।"
+      },
+      { "en": "The monarch died young.", "bn": "সম্রাট অল্প বয়সে মারা যান।" },
+      {
+        "en": "People respected the monarch.",
+        "bn": "মানুষ সম্রাটকে সম্মান করত।"
+      },
+      {
+        "en": "The monarch visited towns.",
+        "bn": "সম্রাট শহরগুলো পরিদর্শন করেছেন।"
+      },
+      { "en": "He became a monarch.", "bn": "সে সম্রাট হয়েছে।" },
+      { "en": "The monarch was wise.", "bn": "সম্রাট জ্ঞানী ছিলেন।" },
+      {
+        "en": "The monarch ruled wisely.",
+        "bn": "সম্রাট বুদ্ধিমত্তার সাথে শাসন করেছেন।"
+      },
+      {
+        "en": "The monarch had great power.",
+        "bn": "সম্রাটের অনেক ক্ষমতা ছিল।"
+      }
+    ],
+    "synonyms": ["king", "queen", "ruler", "sovereign"]
+  },
+  {
+    "base": "monument",
+    "phonetic": "ˈmɒnjumənt",
+    "meaning": "স্মৃতিস্তম্ভ",
+    "examples": [
+      {
+        "en": "We visited the monument.",
+        "bn": "আমরা স্মৃতিস্তম্ভ পরিদর্শন করেছি।"
+      },
+      { "en": "The monument is tall.", "bn": "স্মৃতিস্তম্ভটি উঁচু।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The monument honors heroes.",
+        "bn": "স্মৃতিস্তম্ভ বীরদের সম্মান করে।"
+      },
+      {
+        "en": "They built a monument.",
+        "bn": "তারা একটি স্মৃতিস্তম্ভ তৈরি করেছে।"
+      },
+      { "en": "The monument is old.", "bn": "স্মৃতিস্তম্ভটি পুরনো।" },
+      {
+        "en": "Visitors admire the monument.",
+        "bn": "পর্যটকরা স্মৃতিস্তম্ভটি প্রশংসা করে।"
+      },
+      {
+        "en": "The monument stands in the city.",
+        "bn": "স্মৃতিস্তম্ভটি শহরে দাঁড়িয়ে আছে।"
+      },
+      {
+        "en": "She took photos of the monument.",
+        "bn": "সে স্মৃতিস্তম্ভের ছবি তুলেছে।"
+      },
+      {
+        "en": "The monument was restored.",
+        "bn": "স্মৃতিস্তম্ভটি পুনরুদ্ধার করা হয়েছে।"
+      },
+      {
+        "en": "It is a historic monument.",
+        "bn": "এটি একটি ঐতিহাসিক স্মৃতিস্তম্ভ।"
+      },
+      {
+        "en": "The monument attracts tourists.",
+        "bn": "স্মৃতিস্তম্ভ পর্যটকদের আকর্ষণ করে।"
+      },
+      {
+        "en": "They cleaned the monument.",
+        "bn": "তারা স্মৃতিস্তম্ভ পরিষ্কার করেছে।"
+      }
+    ],
+    "synonyms": ["memorial", "statue", "landmark", "structure"]
+  },
+  {
+    "base": "moral",
+    "phonetic": "ˈmɒrəl",
+    "meaning": "নৈতিক / নীতি",
+    "examples": [
+      {
+        "en": "He has strong moral values.",
+        "bn": "তার শক্তিশালী নৈতিক মূল্যবোধ আছে।"
+      },
+      { "en": "It is a moral issue.", "bn": "এটি একটি নৈতিক বিষয়।" }
+    ],
+    "moreexample": [
+      { "en": "She is a moral person.", "bn": "সে একজন নৈতিক মানুষ।" },
+      {
+        "en": "Moral values are important.",
+        "bn": "নৈতিক মূল্যবোধ গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "The story has a moral lesson.",
+        "bn": "গল্পটির একটি নৈতিক শিক্ষা আছে।"
+      },
+      {
+        "en": "He made a moral decision.",
+        "bn": "সে একটি নৈতিক সিদ্ধান্ত নিয়েছে।"
+      },
+      { "en": "Moral behavior is expected.", "bn": "নৈতিক আচরণ প্রত্যাশিত।" },
+      {
+        "en": "They discussed moral issues.",
+        "bn": "তারা নৈতিক বিষয় আলোচনা করেছে।"
+      },
+      { "en": "It is morally wrong.", "bn": "এটি নৈতিকভাবে ভুল।" },
+      {
+        "en": "She followed moral rules.",
+        "bn": "সে নৈতিক নিয়ম অনুসরণ করেছে।"
+      },
+      { "en": "Moral courage is needed.", "bn": "নৈতিক সাহস দরকার।" },
+      {
+        "en": "The moral of the story is clear.",
+        "bn": "গল্পের নৈতিক শিক্ষা পরিষ্কার।"
+      }
+    ],
+    "synonyms": ["ethical", "principled", "right", "virtuous"]
+  },
+  {
+    "base": "mortgage",
+    "phonetic": "ˈmɔːrɡɪdʒ",
+    "meaning": "বন্ধক ঋণ",
+    "examples": [
+      { "en": "He paid the mortgage.", "bn": "সে বন্ধক ঋণ পরিশোধ করেছে।" },
+      { "en": "They took a mortgage.", "bn": "তারা বন্ধক ঋণ নিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "The mortgage is high.", "bn": "বন্ধক ঋণ বেশি।" },
+      {
+        "en": "She applied for a mortgage.",
+        "bn": "সে বন্ধক ঋণের জন্য আবেদন করেছে।"
+      },
+      {
+        "en": "They bought a house with a mortgage.",
+        "bn": "তারা বন্ধক ঋণে বাড়ি কিনেছে।"
+      },
+      { "en": "Mortgage rates increased.", "bn": "বন্ধক ঋণের হার বেড়েছে।" },
+      { "en": "He cleared the mortgage.", "bn": "সে বন্ধক ঋণ শোধ করেছে।" },
+      {
+        "en": "The bank offers mortgage loans.",
+        "bn": "ব্যাংক বন্ধক ঋণ দেয়।"
+      },
+      {
+        "en": "She struggles with mortgage payments.",
+        "bn": "সে বন্ধক ঋণ পরিশোধে কষ্ট পাচ্ছে।"
+      },
+      { "en": "The mortgage is long-term.", "bn": "বন্ধক ঋণ দীর্ঘমেয়াদি।" },
+      {
+        "en": "They refinanced the mortgage.",
+        "bn": "তারা বন্ধক ঋণ পুনঃঅর্থায়ন করেছে।"
+      },
+      { "en": "Mortgage approval is needed.", "bn": "বন্ধক ঋণ অনুমোদন দরকার।" }
+    ],
+    "synonyms": ["loan", "debt", "borrowing", "credit"]
+  },
+  {
+    "base": "motionless",
+    "phonetic": "ˈmoʊʃnləs",
+    "meaning": "নিশ্চল / স্থির",
+    "examples": [
+      { "en": "He stood motionless.", "bn": "সে নিশ্চল দাঁড়িয়ে ছিল।" },
+      { "en": "The water was motionless.", "bn": "পানি স্থির ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "She remained motionless.", "bn": "সে নিশ্চল ছিল।" },
+      { "en": "The statue is motionless.", "bn": "মূর্তিটি নিশ্চল।" },
+      {
+        "en": "He lay motionless on the ground.",
+        "bn": "সে মাটিতে নিশ্চল শুয়ে ছিল।"
+      },
+      { "en": "The air was motionless.", "bn": "বাতাস স্থির ছিল।" },
+      { "en": "They stayed motionless.", "bn": "তারা নিশ্চল ছিল।" },
+      { "en": "The body was motionless.", "bn": "দেহটি নিশ্চল ছিল।" },
+      { "en": "She sat motionless.", "bn": "সে নিশ্চল বসে ছিল।" },
+      { "en": "The night was motionless.", "bn": "রাতটি স্থির ছিল।" },
+      { "en": "He became motionless.", "bn": "সে নিশ্চল হয়ে গেছে।" },
+      {
+        "en": "Everything looked motionless.",
+        "bn": "সবকিছু নিশ্চল দেখাচ্ছিল।"
+      }
+    ],
+    "synonyms": ["still", "inactive", "static", "fixed"]
+  },
+  {
+    "base": "motivate",
+    "phonetic": "ˈmoʊtɪveɪt",
+    "meaning": "প্রেরণা দেওয়া",
+    "examples": [
+      {
+        "en": "Teachers motivate students.",
+        "bn": "শিক্ষকরা শিক্ষার্থীদের অনুপ্রাণিত করে।"
+      },
+      { "en": "He is highly motivated.", "bn": "সে খুব অনুপ্রাণিত।" }
+    ],
+    "moreexample": [
+      { "en": "She motivates her team.", "bn": "সে তার দলকে অনুপ্রাণিত করে।" },
+      { "en": "Success motivates him.", "bn": "সাফল্য তাকে অনুপ্রাণিত করে।" },
+      {
+        "en": "They motivate each other.",
+        "bn": "তারা একে অপরকে অনুপ্রাণিত করে।"
+      },
+      {
+        "en": "Good results motivate effort.",
+        "bn": "ভালো ফলাফল প্রচেষ্টা বাড়ায়।"
+      },
+      {
+        "en": "He motivated the workers.",
+        "bn": "সে শ্রমিকদের অনুপ্রাণিত করেছে।"
+      },
+      {
+        "en": "Failure motivated him.",
+        "bn": "ব্যর্থতা তাকে অনুপ্রাণিত করেছে।"
+      },
+      { "en": "She feels motivated.", "bn": "সে অনুপ্রাণিত বোধ করে।" },
+      {
+        "en": "Motivate yourself daily.",
+        "bn": "প্রতিদিন নিজেকে অনুপ্রাণিত করো।"
+      },
+      {
+        "en": "The speech motivated people.",
+        "bn": "বক্তৃতা মানুষকে অনুপ্রাণিত করেছে।"
+      },
+      { "en": "He stays motivated.", "bn": "সে অনুপ্রাণিত থাকে।" }
+    ],
+    "synonyms": ["inspire", "encourage", "stimulate", "drive"]
+  },
+  {
+    "base": "movement",
+    "phonetic": "ˈmuːvmənt",
+    "meaning": "আন্দোলন / গতি",
+    "examples": [
+      { "en": "The movement is fast.", "bn": "আন্দোলনটি দ্রুত।" },
+      {
+        "en": "They started a movement.",
+        "bn": "তারা একটি আন্দোলন শুরু করেছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The movement of people is large.",
+        "bn": "মানুষের আন্দোলন বড়।"
+      },
+      { "en": "She joined the movement.", "bn": "সে আন্দোলনে যোগ দিয়েছে।" },
+      { "en": "Body movement is important.", "bn": "শরীরের গতি গুরুত্বপূর্ণ।" },
+      { "en": "The movement grew fast.", "bn": "আন্দোলন দ্রুত বেড়েছে।" },
+      {
+        "en": "They supported the movement.",
+        "bn": "তারা আন্দোলন সমর্থন করেছে।"
+      },
+      { "en": "Movement stopped suddenly.", "bn": "আন্দোলন হঠাৎ থেমে গেছে।" },
+      { "en": "He studied movement.", "bn": "সে গতি অধ্যয়ন করেছে।" },
+      {
+        "en": "Social movement is powerful.",
+        "bn": "সামাজিক আন্দোলন শক্তিশালী।"
+      },
+      {
+        "en": "The movement changed society.",
+        "bn": "আন্দোলন সমাজ পরিবর্তন করেছে।"
+      },
+      { "en": "Continuous movement is needed.", "bn": "অবিচ্ছিন্ন গতি দরকার।" }
+    ],
+    "synonyms": ["motion", "activity", "shift", "action"]
+  },
+  {
+    "base": "mute",
+    "phonetic": "mjuːt",
+    "meaning": "নিঃশব্দ / কথা বলতে অক্ষম",
+    "examples": [
+      { "en": "He remained mute.", "bn": "সে নীরব ছিল।" },
+      { "en": "The TV is on mute.", "bn": "টিভি নিঃশব্দ করা আছে।" }
+    ],
+    "moreexample": [
+      { "en": "She became mute with fear.", "bn": "ভয়ে সে নীরব হয়ে গেছে।" },
+      { "en": "The microphone is muted.", "bn": "মাইক্রোফোন নিঃশব্দ করা আছে।" },
+      {
+        "en": "He stayed mute during discussion.",
+        "bn": "সে আলোচনায় নীরব ছিল।"
+      },
+      { "en": "The room was mute.", "bn": "ঘরটি নিঃশব্দ ছিল।" },
+      { "en": "She was born mute.", "bn": "সে জন্মগতভাবে কথা বলতে অক্ষম।" },
+      { "en": "They went mute.", "bn": "তারা নীরব হয়ে গেছে।" },
+      { "en": "The device is mute.", "bn": "ডিভাইসটি নিঃশব্দ।" },
+      { "en": "He looked mute.", "bn": "সে নীরব দেখাচ্ছিল।" },
+      { "en": "Everything became mute.", "bn": "সবকিছু নীরব হয়ে গেছে।" },
+      { "en": "The crowd went mute.", "bn": "ভিড় নীরব হয়ে গেছে।" }
+    ],
+    "synonyms": ["silent", "quiet", "speechless", "voiceless"]
+  },
+
+  {
+    "base": "myth",
+    "phonetic": "mɪθ",
+    "meaning": "পৌরাণিক কাহিনি",
+    "examples": [
+      { "en": "It is just a myth.", "bn": "এটি শুধু একটি পৌরাণিক কাহিনি।" },
+      { "en": "The myth is famous.", "bn": "পৌরাণিক কাহিনিটি বিখ্যাত।" }
+    ],
+    "moreexample": [
+      {
+        "en": "That story is a myth.",
+        "bn": "সেই গল্পটি একটি পৌরাণিক কাহিনি।"
+      },
+      {
+        "en": "Myths explain nature.",
+        "bn": "পৌরাণিক কাহিনি প্রকৃতি ব্যাখ্যা করে।"
+      },
+      {
+        "en": "He believed the myth.",
+        "bn": "সে পৌরাণিক কাহিনিটি বিশ্বাস করেছে।"
+      },
+      { "en": "Many myths exist.", "bn": "অনেক পৌরাণিক কাহিনি আছে।" },
+      {
+        "en": "The myth spread widely.",
+        "bn": "পৌরাণিক কাহিনিটি ব্যাপকভাবে ছড়িয়েছে।"
+      },
+      {
+        "en": "Ancient myths are interesting.",
+        "bn": "প্রাচীন পৌরাণিক কাহিনি আকর্ষণীয়।"
+      },
+      { "en": "The myth is not true.", "bn": "পৌরাণিক কাহিনিটি সত্য নয়।" },
+      {
+        "en": "They studied the myth.",
+        "bn": "তারা পৌরাণিক কাহিনি অধ্যয়ন করেছে।"
+      },
+      {
+        "en": "The myth influenced culture.",
+        "bn": "পৌরাণিক কাহিনি সংস্কৃতিকে প্রভাবিত করেছে।"
+      },
+      { "en": "It is a common myth.", "bn": "এটি একটি সাধারণ পৌরাণিক কাহিনি।" }
+    ],
+    "synonyms": ["legend", "folklore", "story", "tale"]
+  },
+  {
+    "base": "mythical",
+    "phonetic": "ˈmɪθɪkl",
+    "meaning": "পৌরাণিক / কাল্পনিক",
+    "examples": [
+      {
+        "en": "Dragons are mythical creatures.",
+        "bn": "ড্রাগন পৌরাণিক প্রাণী।"
+      },
+      { "en": "It is a mythical story.", "bn": "এটি একটি পৌরাণিক গল্প।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The mythical beast was strong.",
+        "bn": "পৌরাণিক প্রাণীটি শক্তিশালী ছিল।"
+      },
+      { "en": "Mythical stories are old.", "bn": "পৌরাণিক গল্পগুলো পুরনো।" },
+      {
+        "en": "She wrote about mythical lands.",
+        "bn": "সে পৌরাণিক ভূমি নিয়ে লিখেছে।"
+      },
+      { "en": "The mythical hero was brave.", "bn": "পৌরাণিক বীর সাহসী ছিল।" },
+      {
+        "en": "Mythical creatures do not exist.",
+        "bn": "পৌরাণিক প্রাণীর বাস্তব অস্তিত্ব নেই।"
+      },
+      {
+        "en": "He studies mythical history.",
+        "bn": "সে পৌরাণিক ইতিহাস অধ্যয়ন করে।"
+      },
+      {
+        "en": "The mythical world is fascinating.",
+        "bn": "পৌরাণিক বিশ্ব আকর্ষণীয়।"
+      },
+      {
+        "en": "They believed in mythical beings.",
+        "bn": "তারা পৌরাণিক সত্তায় বিশ্বাস করত।"
+      },
+      {
+        "en": "Mythical tales inspire art.",
+        "bn": "পৌরাণিক কাহিনি শিল্পকে অনুপ্রাণিত করে।"
+      },
+      { "en": "It is a mythical idea.", "bn": "এটি একটি পৌরাণিক ধারণা।" }
+    ],
+    "synonyms": ["legendary", "imaginary", "fantasy", "fabled"]
+  },
+  {
+    "base": "mythology",
+    "phonetic": "mɪˈθɒlədʒi",
+    "meaning": "পৌরাণিক বিদ্যা",
+    "examples": [
+      {
+        "en": "Greek mythology is famous.",
+        "bn": "গ্রিক পৌরাণিক বিদ্যা বিখ্যাত।"
+      },
+      { "en": "He studies mythology.", "bn": "সে পৌরাণিক বিদ্যা অধ্যয়ন করে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Mythology explains gods.",
+        "bn": "পৌরাণিক বিদ্যা দেবতাদের ব্যাখ্যা করে।"
+      },
+      { "en": "She loves mythology.", "bn": "সে পৌরাণিক বিদ্যা পছন্দ করে।" },
+      {
+        "en": "Ancient mythology is rich.",
+        "bn": "প্রাচীন পৌরাণিক বিদ্যা সমৃদ্ধ।"
+      },
+      {
+        "en": "He read mythology books.",
+        "bn": "সে পৌরাণিক বিদ্যার বই পড়েছে।"
+      },
+      {
+        "en": "Mythology influences culture.",
+        "bn": "পৌরাণিক বিদ্যা সংস্কৃতিকে প্রভাবিত করে।"
+      },
+      {
+        "en": "Norse mythology is popular.",
+        "bn": "নর্স পৌরাণিক বিদ্যা জনপ্রিয়।"
+      },
+      {
+        "en": "They studied world mythology.",
+        "bn": "তারা বিশ্ব পৌরাণিক বিদ্যা অধ্যয়ন করেছে।"
+      },
+      {
+        "en": "Mythology has many stories.",
+        "bn": "পৌরাণিক বিদ্যায় অনেক গল্প আছে।"
+      },
+      {
+        "en": "The course covers mythology.",
+        "bn": "কোর্সটি পৌরাণিক বিদ্যা কভার করে।"
+      },
+      { "en": "Mythology is fascinating.", "bn": "পৌরাণিক বিদ্যা আকর্ষণীয়।" }
+    ],
+    "synonyms": ["folklore", "legend study", "myths", "lore"]
+  },
+  {
+    "base": "mystery",
+    "phonetic": "ˈmɪstəri",
+    "meaning": "রহস্য",
+    "examples": [
+      { "en": "It is a mystery.", "bn": "এটি একটি রহস্য।" },
+      { "en": "The case remains a mystery.", "bn": "মামলাটি এখনও রহস্য।" }
+    ],
+    "moreexample": [
+      { "en": "The mystery was solved.", "bn": "রহস্যটি সমাধান হয়েছে।" },
+      { "en": "She loves mystery books.", "bn": "সে রহস্যের বই পছন্দ করে।" },
+      { "en": "It is a deep mystery.", "bn": "এটি একটি গভীর রহস্য।" },
+      {
+        "en": "The mystery remains unsolved.",
+        "bn": "রহস্যটি অমীমাংসিত রয়ে গেছে।"
+      },
+      { "en": "He enjoys mystery films.", "bn": "সে রহস্য সিনেমা উপভোগ করে।" },
+      {
+        "en": "The mystery shocked everyone.",
+        "bn": "রহস্যটি সবাইকে অবাক করেছে।"
+      },
+      {
+        "en": "They explored the mystery.",
+        "bn": "তারা রহস্য অনুসন্ধান করেছে।"
+      },
+      { "en": "Life is full of mystery.", "bn": "জীবন রহস্যে পূর্ণ।" },
+      { "en": "The mystery deepened.", "bn": "রহস্য আরও গভীর হয়েছে।" },
+      { "en": "It remains a mystery to me.", "bn": "এটি আমার কাছে রহস্য।" }
+    ],
+    "synonyms": ["enigma", "puzzle", "secret", "unknown"]
+  },
+  {
+    "base": "mysterious",
+    "phonetic": "mɪˈstɪəriəs",
+    "meaning": "রহস্যময়",
+    "examples": [
+      { "en": "He is a mysterious man.", "bn": "সে একজন রহস্যময় মানুষ।" },
+      { "en": "The place is mysterious.", "bn": "জায়গাটি রহস্যময়।" }
+    ],
+    "moreexample": [
+      { "en": "She has a mysterious smile.", "bn": "তার রহস্যময় হাসি আছে।" },
+      { "en": "The sound was mysterious.", "bn": "শব্দটি রহস্যময় ছিল।" },
+      { "en": "It is a mysterious event.", "bn": "এটি একটি রহস্যময় ঘটনা।" },
+      { "en": "He behaves mysteriously.", "bn": "সে রহস্যময়ভাবে আচরণ করে।" },
+      { "en": "The forest is mysterious.", "bn": "বনটি রহস্যময়।" },
+      {
+        "en": "They found mysterious clues.",
+        "bn": "তারা রহস্যময় সূত্র পেয়েছে।"
+      },
+      { "en": "Her past is mysterious.", "bn": "তার অতীত রহস্যময়।" },
+      {
+        "en": "The light looked mysterious.",
+        "bn": "আলোটি রহস্যময় দেখাচ্ছিল।"
+      },
+      {
+        "en": "It was a mysterious case.",
+        "bn": "এটি একটি রহস্যময় মামলা ছিল।"
+      },
+      { "en": "He is mysterious to everyone.", "bn": "সে সবার কাছে রহস্যময়।" }
+    ],
+    "synonyms": ["enigmatic", "unknown", "secretive", "strange"]
+  },
+  {
+    "base": "music",
+    "phonetic": "ˈmjuːzɪk",
+    "meaning": "সঙ্গীত",
+    "examples": [
+      { "en": "I love music.", "bn": "আমি সঙ্গীত ভালোবাসি।" },
+      { "en": "She listens to music.", "bn": "সে সঙ্গীত শোনে।" }
+    ],
+    "moreexample": [
+      { "en": "Music is relaxing.", "bn": "সঙ্গীত আরামদায়ক।" },
+      { "en": "He plays music.", "bn": "সে সঙ্গীত বাজায়।" },
+      { "en": "They enjoy music.", "bn": "তারা সঙ্গীত উপভোগ করে।" },
+      { "en": "Music heals the mind.", "bn": "সঙ্গীত মনকে শান্ত করে।" },
+      { "en": "She studies music.", "bn": "সে সঙ্গীত অধ্যয়ন করে।" },
+      { "en": "Music is everywhere.", "bn": "সঙ্গীত সর্বত্র।" },
+      { "en": "He created music.", "bn": "সে সঙ্গীত তৈরি করেছে।" },
+      { "en": "Music brings joy.", "bn": "সঙ্গীত আনন্দ আনে।" },
+      { "en": "They performed music.", "bn": "তারা সঙ্গীত পরিবেশন করেছে।" },
+      { "en": "Classical music is calm.", "bn": "ধ্রুপদী সঙ্গীত শান্ত।" }
+    ],
+    "synonyms": ["song", "melody", "tune", "harmony"]
+  },
+  {
+    "base": "musician",
+    "phonetic": "mjuːˈzɪʃn",
+    "meaning": "সঙ্গীতশিল্পী",
+    "examples": [
+      { "en": "He is a musician.", "bn": "সে একজন সঙ্গীতশিল্পী।" },
+      { "en": "She became a musician.", "bn": "সে সঙ্গীতশিল্পী হয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "The musician is talented.", "bn": "সঙ্গীতশিল্পী প্রতিভাবান।" },
+      {
+        "en": "He is a famous musician.",
+        "bn": "সে একজন বিখ্যাত সঙ্গীতশিল্পী।"
+      },
+      {
+        "en": "Musicians perform on stage.",
+        "bn": "সঙ্গীতশিল্পীরা মঞ্চে পরিবেশন করে।"
+      },
+      {
+        "en": "She met a musician.",
+        "bn": "সে একজন সঙ্গীতশিল্পীর সাথে দেখা করেছে।"
+      },
+      {
+        "en": "The musician played well.",
+        "bn": "সঙ্গীতশিল্পী ভালো বাজিয়েছে।"
+      },
+      { "en": "He is a young musician.", "bn": "সে একজন তরুণ সঙ্গীতশিল্পী।" },
+      {
+        "en": "Musicians practice daily.",
+        "bn": "সঙ্গীতশিল্পীরা প্রতিদিন অনুশীলন করে।"
+      },
+      {
+        "en": "The musician sang beautifully.",
+        "bn": "সঙ্গীতশিল্পী সুন্দরভাবে গান গেয়েছে।"
+      },
+      {
+        "en": "She supports musicians.",
+        "bn": "সে সঙ্গীতশিল্পীদের সমর্থন করে।"
+      },
+      {
+        "en": "Musicians inspire people.",
+        "bn": "সঙ্গীতশিল্পীরা মানুষকে অনুপ্রাণিত করে।"
+      }
+    ],
+    "synonyms": ["artist", "singer", "composer", "performer"]
+  },
+  {
+    "base": "museum",
+    "phonetic": "mjuːˈziːəm",
+    "meaning": "জাদুঘর",
+    "examples": [
+      { "en": "We visited the museum.", "bn": "আমরা জাদুঘর পরিদর্শন করেছি।" },
+      { "en": "The museum is big.", "bn": "জাদুঘরটি বড়।" }
+    ],
+    "moreexample": [
+      { "en": "The museum has artifacts.", "bn": "জাদুঘরে পুরাকীর্তি আছে।" },
+      { "en": "She went to the museum.", "bn": "সে জাদুঘরে গেছে।" },
+      { "en": "The museum is old.", "bn": "জাদুঘরটি পুরনো।" },
+      {
+        "en": "Tourists visit the museum.",
+        "bn": "পর্যটকরা জাদুঘর পরিদর্শন করে।"
+      },
+      { "en": "The museum displays art.", "bn": "জাদুঘর শিল্প প্রদর্শন করে।" },
+      { "en": "He works in a museum.", "bn": "সে জাদুঘরে কাজ করে।" },
+      { "en": "The museum opened today.", "bn": "জাদুঘর আজ খুলেছে।" },
+      { "en": "They built a museum.", "bn": "তারা একটি জাদুঘর তৈরি করেছে।" },
+      { "en": "The museum is famous.", "bn": "জাদুঘরটি বিখ্যাত।" },
+      { "en": "Children enjoy the museum.", "bn": "শিশুরা জাদুঘর উপভোগ করে।" }
+    ],
+    "synonyms": ["gallery", "exhibition hall", "archive", "center"]
+  },
+  {
+    "base": "mutual",
+    "phonetic": "ˈmjuːtʃuəl",
+    "meaning": "পারস্পরিক",
+    "examples": [
+      {
+        "en": "They have mutual respect.",
+        "bn": "তাদের পারস্পরিক সম্মান আছে।"
+      },
+      {
+        "en": "It is a mutual decision.",
+        "bn": "এটি একটি পারস্পরিক সিদ্ধান্ত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They agreed mutually.",
+        "bn": "তারা পারস্পরিকভাবে সম্মত হয়েছে।"
+      },
+      {
+        "en": "Mutual understanding is important.",
+        "bn": "পারস্পরিক বোঝাপড়া গুরুত্বপূর্ণ।"
+      },
+      { "en": "They have mutual friends.", "bn": "তাদের পারস্পরিক বন্ধু আছে।" },
+      {
+        "en": "It was a mutual agreement.",
+        "bn": "এটি একটি পারস্পরিক চুক্তি ছিল।"
+      },
+      {
+        "en": "Mutual support matters.",
+        "bn": "পারস্পরিক সমর্থন গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "They showed mutual trust.",
+        "bn": "তারা পারস্পরিক বিশ্বাস দেখিয়েছে।"
+      },
+      { "en": "It is mutual love.", "bn": "এটি পারস্পরিক ভালোবাসা।" },
+      {
+        "en": "They reached mutual terms.",
+        "bn": "তারা পারস্পরিক শর্তে পৌঁছেছে।"
+      },
+      { "en": "Mutual benefit is clear.", "bn": "পারস্পরিক লাভ পরিষ্কার।" },
+      {
+        "en": "They shared mutual goals.",
+        "bn": "তারা পারস্পরিক লক্ষ্য ভাগ করেছে।"
+      }
+    ],
+    "synonyms": ["shared", "reciprocal", "common", "joint"]
+  },
+  {
+    "base": "motive",
+    "phonetic": "ˈmoʊtɪv",
+    "meaning": "উদ্দেশ্য",
+    "examples": [
+      { "en": "What is your motive?", "bn": "তোমার উদ্দেশ্য কী?" },
+      {
+        "en": "He had a strong motive.",
+        "bn": "তার একটি শক্তিশালী উদ্দেশ্য ছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The motive is unclear.", "bn": "উদ্দেশ্য পরিষ্কার নয়।" },
+      {
+        "en": "She questioned his motive.",
+        "bn": "সে তার উদ্দেশ্য নিয়ে প্রশ্ন করেছে।"
+      },
+      { "en": "He acted with motive.", "bn": "সে উদ্দেশ্য নিয়ে কাজ করেছে।" },
+      { "en": "The crime had a motive.", "bn": "অপরাধের একটি উদ্দেশ্য ছিল।" },
+      { "en": "They searched for motive.", "bn": "তারা উদ্দেশ্য খুঁজেছে।" },
+      { "en": "His motive was money.", "bn": "তার উদ্দেশ্য ছিল টাকা।" },
+      { "en": "She understood the motive.", "bn": "সে উদ্দেশ্য বুঝেছে।" },
+      {
+        "en": "No clear motive found.",
+        "bn": "কোনো পরিষ্কার উদ্দেশ্য পাওয়া যায়নি।"
+      },
+      { "en": "The motive changed.", "bn": "উদ্দেশ্য পরিবর্তিত হয়েছে।" },
+      { "en": "He revealed his motive.", "bn": "সে তার উদ্দেশ্য প্রকাশ করেছে।" }
+    ],
+    "synonyms": ["reason", "purpose", "intention", "goal"]
   }
 ]

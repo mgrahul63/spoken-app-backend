@@ -32,7 +32,7 @@
     ],
     "synonyms": ["reply", "answer", "reaction"]
   },
-  
+
   {
     "base": "regard",
     "phonetic": "rɪˈɡɑːd",
@@ -305,5 +305,603 @@
       { "en": "He received respect.", "bn": "সে সম্মান পেয়েছে।" }
     ],
     "synonyms": ["get", "accept", "obtain"]
+  },
+
+  {
+    "base": "reach",
+    "phonetic": "riːtʃ",
+    "meaning": "পৌঁছানো / পৌঁছাতে পারা",
+    "examples": [
+      { "en": "I reached home late.", "bn": "আমি দেরিতে বাড়ি পৌঁছেছি।" },
+      { "en": "He reached the top.", "bn": "সে শীর্ষে পৌঁছেছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She reached school early.",
+        "bn": "সে স্কুলে তাড়াতাড়ি পৌঁছেছে।"
+      },
+      {
+        "en": "They reached a decision.",
+        "bn": "তারা একটি সিদ্ধান্তে পৌঁছেছে।"
+      },
+      { "en": "We reached the city.", "bn": "আমরা শহরে পৌঁছেছি।" },
+      { "en": "He reached his goal.", "bn": "সে তার লক্ষ্য অর্জন করেছে।" },
+      { "en": "The message reached me.", "bn": "বার্তাটি আমার কাছে পৌঁছেছে।" },
+      {
+        "en": "She reached out for help.",
+        "bn": "সে সাহায্যের জন্য হাত বাড়িয়েছে।"
+      },
+      { "en": "They reached agreement.", "bn": "তারা চুক্তিতে পৌঁছেছে।" },
+      { "en": "We reached the station.", "bn": "আমরা স্টেশনে পৌঁছেছি।" },
+      { "en": "He reached success.", "bn": "সে সাফল্যে পৌঁছেছে।" },
+      { "en": "The news reached everyone.", "bn": "খবরটি সবার কাছে পৌঁছেছে।" }
+    ],
+    "synonyms": ["arrive", "attain", "achieve", "get to"]
+  },
+  {
+    "base": "react",
+    "phonetic": "riˈækt",
+    "meaning": "প্রতিক্রিয়া করা",
+    "examples": [
+      { "en": "He reacted quickly.", "bn": "সে দ্রুত প্রতিক্রিয়া করেছে।" },
+      { "en": "She did not react.", "bn": "সে কোনো প্রতিক্রিয়া দেখায়নি।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They reacted angrily.",
+        "bn": "তারা রাগের সাথে প্রতিক্রিয়া করেছে।"
+      },
+      {
+        "en": "He reacted to news.",
+        "bn": "সে খবরের প্রতি প্রতিক্রিয়া দেখিয়েছে।"
+      },
+      { "en": "She reacted calmly.", "bn": "সে শান্তভাবে প্রতিক্রিয়া করেছে।" },
+      { "en": "We reacted fast.", "bn": "আমরা দ্রুত প্রতিক্রিয়া করেছি।" },
+      {
+        "en": "He reacted emotionally.",
+        "bn": "সে আবেগপ্রবণভাবে প্রতিক্রিয়া করেছে।"
+      },
+      {
+        "en": "They reacted differently.",
+        "bn": "তারা ভিন্নভাবে প্রতিক্রিয়া করেছে।"
+      },
+      {
+        "en": "She reacted to pressure.",
+        "bn": "সে চাপের প্রতি প্রতিক্রিয়া করেছে।"
+      },
+      { "en": "He overreacted.", "bn": "সে অতিরিক্ত প্রতিক্রিয়া করেছে।" },
+      {
+        "en": "We reacted positively.",
+        "bn": "আমরা ইতিবাচক প্রতিক্রিয়া করেছি।"
+      },
+      {
+        "en": "The body reacts to change.",
+        "bn": "শরীর পরিবর্তনে প্রতিক্রিয়া করে।"
+      }
+    ],
+    "synonyms": ["respond", "reply", "act", "behave"]
+  },
+  {
+    "base": "reason",
+    "phonetic": "ˈriːzən",
+    "meaning": "কারণ / যুক্তি",
+    "examples": [
+      { "en": "Give me a reason.", "bn": "আমাকে একটি কারণ দাও।" },
+      { "en": "There is no reason.", "bn": "কোনো কারণ নেই।" }
+    ],
+    "moreexample": [
+      { "en": "He explained the reason.", "bn": "সে কারণ ব্যাখ্যা করেছে।" },
+      { "en": "She had a good reason.", "bn": "তার একটি ভালো কারণ ছিল।" },
+      { "en": "There is a reason behind it.", "bn": "এর পেছনে একটি কারণ আছে।" },
+      { "en": "We found the reason.", "bn": "আমরা কারণ খুঁজে পেয়েছি।" },
+      {
+        "en": "He refused for a reason.",
+        "bn": "সে একটি কারণে অস্বীকার করেছে।"
+      },
+      { "en": "The reason is clear.", "bn": "কারণটি পরিষ্কার।" },
+      { "en": "They asked for reason.", "bn": "তারা কারণ জানতে চেয়েছে।" },
+      { "en": "No reason to worry.", "bn": "চিন্তার কোনো কারণ নেই।" },
+      {
+        "en": "Logic is based on reason.",
+        "bn": "যুক্তি কারণের উপর ভিত্তি করে।"
+      },
+      { "en": "He gave no reason.", "bn": "সে কোনো কারণ দেয়নি।" }
+    ],
+    "synonyms": ["cause", "motive", "logic", "basis"]
+  },
+  {
+    "base": "remember",
+    "phonetic": "rɪˈmembə",
+    "meaning": "মনে রাখা",
+    "examples": [
+      { "en": "Remember my name.", "bn": "আমার নাম মনে রেখো।" },
+      { "en": "I remember you.", "bn": "আমি তোমাকে মনে রাখি।" }
+    ],
+    "moreexample": [
+      { "en": "She remembered everything.", "bn": "সে সবকিছু মনে রেখেছে।" },
+      { "en": "I can't remember it.", "bn": "আমি এটি মনে করতে পারছি না।" },
+      { "en": "He remembered the date.", "bn": "সে তারিখ মনে রেখেছে।" },
+      { "en": "Do you remember me?", "bn": "তুমি কি আমাকে মনে রেখেছ?" },
+      {
+        "en": "They remembered the promise.",
+        "bn": "তারা প্রতিশ্রুতি মনে রেখেছে।"
+      },
+      { "en": "She remembered his words.", "bn": "সে তার কথা মনে রেখেছে।" },
+      { "en": "I remember that day.", "bn": "আমি সেই দিনটি মনে করি।" },
+      { "en": "We remembered the lesson.", "bn": "আমরা পাঠটি মনে রেখেছি।" },
+      {
+        "en": "He forgot but later remembered.",
+        "bn": "সে ভুলে গিয়েছিল কিন্তু পরে মনে পড়েছে।"
+      },
+      { "en": "Always remember this rule.", "bn": "সবসময় এই নিয়ম মনে রেখো।" }
+    ],
+    "synonyms": ["recall", "recollect", "memorize", "retain"]
+  },
+  {
+    "base": "repair",
+    "phonetic": "rɪˈpeə",
+    "meaning": "মেরামত করা",
+    "examples": [
+      { "en": "He repaired the phone.", "bn": "সে ফোনটি মেরামত করেছে।" },
+      { "en": "The car needs repair.", "bn": "গাড়িটি মেরামত দরকার।" }
+    ],
+    "moreexample": [
+      { "en": "They repaired the road.", "bn": "তারা রাস্তা মেরামত করেছে।" },
+      { "en": "She repaired the machine.", "bn": "সে মেশিনটি মেরামত করেছে।" },
+      { "en": "We repair computers.", "bn": "আমরা কম্পিউটার মেরামত করি।" },
+      { "en": "He repaired his bike.", "bn": "সে তার বাইক মেরামত করেছে।" },
+      { "en": "The damage was repaired.", "bn": "ক্ষতি মেরামত করা হয়েছে।" },
+      {
+        "en": "They are repairing the bridge.",
+        "bn": "তারা সেতু মেরামত করছে।"
+      },
+      { "en": "She repaired the door.", "bn": "সে দরজাটি মেরামত করেছে।" },
+      { "en": "Repair work is ongoing.", "bn": "মেরামত কাজ চলছে।" },
+      {
+        "en": "He learned to repair engines.",
+        "bn": "সে ইঞ্জিন মেরামত শিখেছে।"
+      },
+      { "en": "We need urgent repair.", "bn": "আমাদের জরুরি মেরামত দরকার।" }
+    ],
+    "synonyms": ["fix", "restore", "mend", "correct"]
+  },
+  {
+    "base": "require",
+    "phonetic": "rɪˈkwaɪə",
+    "meaning": "প্রয়োজন হওয়া",
+    "examples": [
+      { "en": "This job requires skill.", "bn": "এই কাজের দক্ষতা প্রয়োজন।" },
+      { "en": "We require help.", "bn": "আমাদের সাহায্য দরকার।" }
+    ],
+    "moreexample": [
+      { "en": "It requires attention.", "bn": "এটি মনোযোগ প্রয়োজন।" },
+      { "en": "They require money.", "bn": "তাদের টাকা দরকার।" },
+      { "en": "The task requires effort.", "bn": "কাজটি পরিশ্রম প্রয়োজন।" },
+      { "en": "We require more time.", "bn": "আমাদের আরও সময় দরকার।" },
+      { "en": "She required assistance.", "bn": "সে সাহায্য চেয়েছিল।" },
+      { "en": "It requires practice.", "bn": "এটি অনুশীলন প্রয়োজন।" },
+      { "en": "They required permission.", "bn": "তারা অনুমতি প্রয়োজন ছিল।" },
+      { "en": "This system requires update.", "bn": "এই সিস্টেম আপডেট দরকার।" },
+      { "en": "He required support.", "bn": "সে সমর্থন চেয়েছে।" },
+      { "en": "Rules require discipline.", "bn": "নিয়ম শৃঙ্খলা প্রয়োজন।" }
+    ],
+    "synonyms": ["need", "demand", "ask for", "necessitate"]
+  },
+  {
+    "base": "respect",
+    "phonetic": "rɪˈspekt",
+    "meaning": "সম্মান করা / সম্মান",
+    "examples": [
+      { "en": "Respect your parents.", "bn": "তোমার বাবা-মাকে সম্মান করো।" },
+      { "en": "He earned respect.", "bn": "সে সম্মান অর্জন করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "She respects elders.", "bn": "সে বড়দের সম্মান করে।" },
+      { "en": "We respect rules.", "bn": "আমরা নিয়মকে সম্মান করি।" },
+      { "en": "He lost respect.", "bn": "সে সম্মান হারিয়েছে।" },
+      {
+        "en": "Mutual respect is important.",
+        "bn": "পারস্পরিক সম্মান গুরুত্বপূর্ণ।"
+      },
+      { "en": "They respect each other.", "bn": "তারা একে অপরকে সম্মান করে।" },
+      { "en": "Respect is earned.", "bn": "সম্মান অর্জন করতে হয়।" },
+      { "en": "She deserves respect.", "bn": "সে সম্মানের যোগ্য।" },
+      { "en": "He shows respect.", "bn": "সে সম্মান দেখায়।" },
+      { "en": "Respect differences.", "bn": "পার্থক্যকে সম্মান করো।" },
+      { "en": "They demand respect.", "bn": "তারা সম্মান দাবি করে।" }
+    ],
+    "synonyms": ["honor", "esteem", "regard", "admiration"]
+  },
+  {
+    "base": "result",
+    "phonetic": "rɪˈzʌlt",
+    "meaning": "ফলাফল",
+    "examples": [
+      { "en": "The result is good.", "bn": "ফলাফল ভালো।" },
+      {
+        "en": "We waited for result.",
+        "bn": "আমরা ফলাফলের জন্য অপেক্ষা করেছি।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Hard work gives result.", "bn": "কঠোর পরিশ্রম ফল দেয়।" },
+      { "en": "The result surprised us.", "bn": "ফলাফল আমাদের অবাক করেছে।" },
+      { "en": "He got positive result.", "bn": "সে ইতিবাচক ফলাফল পেয়েছে।" },
+      { "en": "Final result is out.", "bn": "চূড়ান্ত ফলাফল বের হয়েছে।" },
+      { "en": "Effort brings result.", "bn": "চেষ্টা ফল আনে।" },
+      { "en": "They announced result.", "bn": "তারা ফলাফল ঘোষণা করেছে।" },
+      {
+        "en": "Bad result disappointed him.",
+        "bn": "খারাপ ফলাফল তাকে হতাশ করেছে।"
+      },
+      {
+        "en": "Result depends on effort.",
+        "bn": "ফলাফল প্রচেষ্টার উপর নির্ভর করে।"
+      },
+      { "en": "We achieved result.", "bn": "আমরা ফলাফল অর্জন করেছি।" },
+      { "en": "Unexpected result came.", "bn": "অপ্রত্যাশিত ফলাফল এসেছে।" }
+    ],
+    "synonyms": ["outcome", "effect", "consequence", "output"]
+  },
+  {
+    "base": "risk",
+    "phonetic": "rɪsk",
+    "meaning": "ঝুঁকি",
+    "examples": [
+      { "en": "It is a risk.", "bn": "এটি একটি ঝুঁকি।" },
+      { "en": "He took a risk.", "bn": "সে ঝুঁকি নিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "High risk involved.", "bn": "উচ্চ ঝুঁকি রয়েছে।" },
+      { "en": "They avoid risk.", "bn": "তারা ঝুঁকি এড়ায়।" },
+      { "en": "He risks his life.", "bn": "সে তার জীবন ঝুঁকিতে ফেলে।" },
+      { "en": "Risk increases with speed.", "bn": "গতির সাথে ঝুঁকি বাড়ে।" },
+      { "en": "We calculated risk.", "bn": "আমরা ঝুঁকি হিসাব করেছি।" },
+      { "en": "She reduced risk.", "bn": "সে ঝুঁকি কমিয়েছে।" },
+      { "en": "Every job has risk.", "bn": "প্রতিটি কাজের ঝুঁকি আছে।" },
+      {
+        "en": "Risk management is important.",
+        "bn": "ঝুঁকি ব্যবস্থাপনা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "He faced risk bravely.",
+        "bn": "সে সাহসিকতার সাথে ঝুঁকি মোকাবিলা করেছে।"
+      },
+      { "en": "No risk, no gain.", "bn": "ঝুঁকি ছাড়া লাভ নেই।" }
+    ],
+    "synonyms": ["danger", "hazard", "threat", "chance"]
+  },
+  {
+    "base": "review",
+    "phonetic": "rɪˈvjuː",
+    "meaning": "পুনরায় দেখা / পর্যালোচনা",
+    "examples": [
+      { "en": "He reviewed the lesson.", "bn": "সে পাঠটি পর্যালোচনা করেছে।" },
+      { "en": "This is a book review.", "bn": "এটি একটি বই পর্যালোচনা।" }
+    ],
+    "moreexample": [
+      { "en": "We review our work.", "bn": "আমরা আমাদের কাজ পর্যালোচনা করি।" },
+      {
+        "en": "She reviewed the report.",
+        "bn": "সে রিপোর্টটি পর্যালোচনা করেছে।"
+      },
+      {
+        "en": "The teacher reviewed answers.",
+        "bn": "শিক্ষক উত্তরগুলো পর্যালোচনা করেছেন।"
+      },
+      { "en": "He gave a review.", "bn": "সে একটি পর্যালোচনা দিয়েছে।" },
+      { "en": "We need review.", "bn": "আমাদের পর্যালোচনা দরকার।" },
+      {
+        "en": "They reviewed the case.",
+        "bn": "তারা মামলাটি পর্যালোচনা করেছে।"
+      },
+      {
+        "en": "Final review is important.",
+        "bn": "চূড়ান্ত পর্যালোচনা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She reviewed her notes.",
+        "bn": "সে তার নোটগুলো পর্যালোচনা করেছে।"
+      },
+      {
+        "en": "The movie got good review.",
+        "bn": "সিনেমাটি ভালো পর্যালোচনা পেয়েছে।"
+      },
+      { "en": "We reviewed everything.", "bn": "আমরা সবকিছু পর্যালোচনা করেছি।" }
+    ],
+    "synonyms": ["examine", "analyze", "check", "inspect"]
+  },
+
+  {
+    "base": "reduce",
+    "phonetic": "rɪˈdjuːs",
+    "meaning": "কমানো",
+    "examples": [
+      { "en": "We need to reduce costs.", "bn": "আমাদের খরচ কমাতে হবে।" },
+      { "en": "He reduced his weight.", "bn": "সে তার ওজন কমিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "They reduced noise.", "bn": "তারা শব্দ কমিয়েছে।" },
+      { "en": "Reduce sugar intake.", "bn": "চিনি খাওয়া কমাও।" },
+      { "en": "She reduced stress.", "bn": "সে চাপ কমিয়েছে।" },
+      { "en": "We reduced waste.", "bn": "আমরা বর্জ্য কমিয়েছি।" },
+      { "en": "Prices were reduced.", "bn": "দাম কমানো হয়েছে।" },
+      { "en": "He reduced speed.", "bn": "সে গতি কমিয়েছে।" },
+      { "en": "Reduce errors.", "bn": "ভুল কমাও।" },
+      { "en": "They reduced pollution.", "bn": "তারা দূষণ কমিয়েছে।" },
+      { "en": "She reduced workload.", "bn": "সে কাজের চাপ কমিয়েছে।" },
+      { "en": "We must reduce risk.", "bn": "আমাদের ঝুঁকি কমাতে হবে।" }
+    ],
+    "synonyms": ["decrease", "lower", "lessen", "cut"]
+  },
+  {
+    "base": "remain",
+    "phonetic": "rɪˈmeɪn",
+    "meaning": "অবশিষ্ট থাকা / থাকা",
+    "examples": [
+      {
+        "en": "Only five students remain.",
+        "bn": "শুধু পাঁচজন শিক্ষার্থী বাকি আছে।"
+      },
+      { "en": "He remained silent.", "bn": "সে নীরব ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "She remains calm.", "bn": "সে শান্ত থাকে।" },
+      { "en": "Few problems remain.", "bn": "কয়েকটি সমস্যা বাকি আছে।" },
+      { "en": "They remained friends.", "bn": "তারা বন্ধু ছিল।" },
+      { "en": "He remained at home.", "bn": "সে বাড়িতে ছিল।" },
+      {
+        "en": "Questions remain unanswered.",
+        "bn": "প্রশ্নগুলো উত্তরহীন রয়ে গেছে।"
+      },
+      { "en": "We remain hopeful.", "bn": "আমরা আশাবাদী থাকি।" },
+      { "en": "Nothing remains.", "bn": "কিছুই বাকি নেই।" },
+      { "en": "She remained strong.", "bn": "সে শক্তিশালী ছিল।" },
+      { "en": "The truth remains hidden.", "bn": "সত্য লুকানো রয়ে গেছে।" },
+      { "en": "He remained focused.", "bn": "সে মনোযোগী ছিল।" }
+    ],
+    "synonyms": ["stay", "continue", "persist", "last"]
+  },
+  {
+    "base": "replace",
+    "phonetic": "rɪˈpleɪs",
+    "meaning": "প্রতিস্থাপন করা",
+    "examples": [
+      {
+        "en": "Replace the old battery.",
+        "bn": "পুরোনো ব্যাটারি পরিবর্তন করো।"
+      },
+      {
+        "en": "He replaced the broken part.",
+        "bn": "সে ভাঙা অংশ প্রতিস্থাপন করেছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "We replaced the teacher.", "bn": "আমরা শিক্ষক পরিবর্তন করেছি।" },
+      { "en": "Replace damaged items.", "bn": "ক্ষতিগ্রস্ত জিনিস বদলাও।" },
+      { "en": "She replaced her phone.", "bn": "সে তার ফোন বদলেছে।" },
+      {
+        "en": "Old system was replaced.",
+        "bn": "পুরোনো সিস্টেম পরিবর্তন করা হয়েছে।"
+      },
+      {
+        "en": "They replaced the engine.",
+        "bn": "তারা ইঞ্জিন প্রতিস্থাপন করেছে।"
+      },
+      { "en": "He replaced the glass.", "bn": "সে কাচ বদলেছে।" },
+      { "en": "Replace broken tools.", "bn": "ভাঙা সরঞ্জাম বদলাও।" },
+      { "en": "She replaced her shoes.", "bn": "সে তার জুতা বদলেছে।" },
+      {
+        "en": "The manager was replaced.",
+        "bn": "ম্যানেজার পরিবর্তন করা হয়েছে।"
+      },
+      { "en": "We replaced old furniture.", "bn": "আমরা পুরোনো আসবাব বদলেছি।" }
+    ],
+    "synonyms": ["substitute", "swap", "exchange", "switch"]
+  },
+  {
+    "base": "request",
+    "phonetic": "rɪˈkwest",
+    "meaning": "অনুরোধ",
+    "examples": [
+      { "en": "He made a request.", "bn": "সে একটি অনুরোধ করেছে।" },
+      { "en": "Please request help.", "bn": "দয়া করে সাহায্য অনুরোধ করো।" }
+    ],
+    "moreexample": [
+      { "en": "She requested permission.", "bn": "সে অনুমতি চেয়েছে।" },
+      { "en": "We request information.", "bn": "আমরা তথ্য অনুরোধ করি।" },
+      { "en": "He requested time.", "bn": "সে সময় চেয়েছে।" },
+      { "en": "They made a request.", "bn": "তারা একটি অনুরোধ করেছে।" },
+      { "en": "Request was accepted.", "bn": "অনুরোধ গ্রহণ করা হয়েছে।" },
+      { "en": "I request your help.", "bn": "আমি তোমার সাহায্য চাই।" },
+      {
+        "en": "She politely requested.",
+        "bn": "সে বিনয়ের সাথে অনুরোধ করেছে।"
+      },
+      { "en": "We received a request.", "bn": "আমরা একটি অনুরোধ পেয়েছি।" },
+      { "en": "Request denied.", "bn": "অনুরোধ প্রত্যাখ্যান করা হয়েছে।" },
+      { "en": "He requested support.", "bn": "সে সহায়তা চেয়েছে।" }
+    ],
+    "synonyms": ["ask", "demand", "appeal", "petition"]
+  },
+  {
+    "base": "respond",
+    "phonetic": "rɪˈspɒnd",
+    "meaning": "প্রতিক্রিয়া করা / উত্তর দেওয়া",
+    "examples": [
+      { "en": "He responded quickly.", "bn": "সে দ্রুত প্রতিক্রিয়া দিয়েছে।" },
+      { "en": "She did not respond.", "bn": "সে কোনো উত্তর দেয়নি।" }
+    ],
+    "moreexample": [
+      { "en": "They responded to email.", "bn": "তারা ইমেইলের উত্তর দিয়েছে।" },
+      {
+        "en": "He responded calmly.",
+        "bn": "সে শান্তভাবে প্রতিক্রিয়া করেছে।"
+      },
+      {
+        "en": "She responded angrily.",
+        "bn": "সে রাগের সাথে প্রতিক্রিয়া করেছে।"
+      },
+      { "en": "We responded fast.", "bn": "আমরা দ্রুত উত্তর দিয়েছি।" },
+      { "en": "No one responded.", "bn": "কেউ উত্তর দেয়নি।" },
+      {
+        "en": "They responded positively.",
+        "bn": "তারা ইতিবাচকভাবে প্রতিক্রিয়া করেছে।"
+      },
+      { "en": "He responded to question.", "bn": "সে প্রশ্নের উত্তর দিয়েছে।" },
+      {
+        "en": "She responded emotionally.",
+        "bn": "সে আবেগপ্রবণভাবে প্রতিক্রিয়া করেছে।"
+      },
+      { "en": "We must respond.", "bn": "আমাদের প্রতিক্রিয়া দিতে হবে।" },
+      {
+        "en": "System responded slowly.",
+        "bn": "সিস্টেম ধীরে প্রতিক্রিয়া দিয়েছে।"
+      }
+    ],
+    "synonyms": ["reply", "react", "answer", "reply to"]
+  },
+  {
+    "base": "respectable",
+    "phonetic": "rɪˈspektəbl",
+    "meaning": "সম্মানজনক",
+    "examples": [
+      { "en": "He is a respectable man.", "bn": "সে একজন সম্মানজনক মানুষ।" },
+      {
+        "en": "They live a respectable life.",
+        "bn": "তারা একটি সম্মানজনক জীবন যাপন করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "A respectable job.", "bn": "একটি সম্মানজনক কাজ।" },
+      { "en": "She has respectable behavior.", "bn": "তার আচরণ সম্মানজনক।" },
+      { "en": "He is respectable in society.", "bn": "সে সমাজে সম্মানিত।" },
+      {
+        "en": "They earned a respectable position.",
+        "bn": "তারা সম্মানজনক অবস্থান অর্জন করেছে।"
+      },
+      { "en": "A respectable family.", "bn": "একটি সম্মানজনক পরিবার।" },
+      { "en": "She looks respectable.", "bn": "সে সম্মানজনক দেখায়।" },
+      { "en": "Respectable income.", "bn": "সম্মানজনক আয়।" },
+      {
+        "en": "He made a respectable career.",
+        "bn": "সে একটি সম্মানজনক ক্যারিয়ার তৈরি করেছে।"
+      },
+      { "en": "They are respectable citizens.", "bn": "তারা সম্মানিত নাগরিক।" },
+      { "en": "A respectable decision.", "bn": "একটি সম্মানজনক সিদ্ধান্ত।" }
+    ],
+    "synonyms": ["honorable", "decent", "worthy", "dignified"]
+  },
+  {
+    "base": "restore",
+    "phonetic": "rɪˈstɔː",
+    "meaning": "পুনরুদ্ধার করা",
+    "examples": [
+      {
+        "en": "They restored the building.",
+        "bn": "তারা ভবনটি পুনরুদ্ধার করেছে।"
+      },
+      { "en": "Health is restored.", "bn": "স্বাস্থ্য পুনরুদ্ধার হয়েছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He restored the old photo.",
+        "bn": "সে পুরোনো ছবি পুনরুদ্ধার করেছে।"
+      },
+      { "en": "We restored peace.", "bn": "আমরা শান্তি পুনরুদ্ধার করেছি।" },
+      { "en": "System was restored.", "bn": "সিস্টেম পুনরুদ্ধার করা হয়েছে।" },
+      { "en": "She restored order.", "bn": "সে শৃঙ্খলা পুনরুদ্ধার করেছে।" },
+      { "en": "They restored trust.", "bn": "তারা বিশ্বাস পুনরুদ্ধার করেছে।" },
+      {
+        "en": "The painting was restored.",
+        "bn": "চিত্রটি পুনরুদ্ধার করা হয়েছে।"
+      },
+      { "en": "We restored the data.", "bn": "আমরা তথ্য পুনরুদ্ধার করেছি।" },
+      { "en": "He restored balance.", "bn": "সে ভারসাম্য পুনরুদ্ধার করেছে।" },
+      {
+        "en": "They restored the temple.",
+        "bn": "তারা মন্দির পুনরুদ্ধার করেছে।"
+      },
+      { "en": "Energy was restored.", "bn": "শক্তি পুনরুদ্ধার হয়েছে।" }
+    ],
+    "synonyms": ["repair", "rebuild", "recover", "renew"]
+  },
+  {
+    "base": "retire",
+    "phonetic": "rɪˈtaɪə",
+    "meaning": "অবসর নেওয়া",
+    "examples": [
+      { "en": "He retired at 60.", "bn": "সে ৬০ বছরে অবসর নিয়েছে।" },
+      { "en": "She will retire soon.", "bn": "সে শীঘ্রই অবসর নেবে।" }
+    ],
+    "moreexample": [
+      { "en": "They retired early.", "bn": "তারা আগেই অবসর নিয়েছে।" },
+      { "en": "He retired from job.", "bn": "সে চাকরি থেকে অবসর নিয়েছে।" },
+      { "en": "She retired peacefully.", "bn": "সে শান্তভাবে অবসর নিয়েছে।" },
+      { "en": "Retired life is calm.", "bn": "অবসর জীবন শান্ত।" },
+      { "en": "He plans to retire.", "bn": "সে অবসর নেওয়ার পরিকল্পনা করছে।" },
+      { "en": "They retired last year.", "bn": "তারা গত বছর অবসর নিয়েছে।" },
+      { "en": "Retirement age is fixed.", "bn": "অবসর বয়স নির্ধারিত।" },
+      {
+        "en": "She retired from teaching.",
+        "bn": "সে শিক্ষকতা থেকে অবসর নিয়েছে।"
+      },
+      { "en": "He enjoys retired life.", "bn": "সে অবসর জীবন উপভোগ করে।" },
+      { "en": "Many retire early.", "bn": "অনেকে আগেই অবসর নেয়।" }
+    ],
+    "synonyms": ["stop working", "withdraw", "leave job", "resign"]
+  },
+  {
+    "base": "rise",
+    "phonetic": "raɪz",
+    "meaning": "উঠা / বৃদ্ধি পাওয়া",
+    "examples": [
+      { "en": "The sun rises.", "bn": "সূর্য ওঠে।" },
+      { "en": "Prices rise daily.", "bn": "দাম প্রতিদিন বাড়ে।" }
+    ],
+    "moreexample": [
+      { "en": "He rose early.", "bn": "সে তাড়াতাড়ি উঠেছে।" },
+      { "en": "Water level rises.", "bn": "জলস্তর বাড়ে।" },
+      { "en": "She rose to success.", "bn": "সে সাফল্যে পৌঁছেছে।" },
+      { "en": "Temperatures rise.", "bn": "তাপমাত্রা বাড়ে।" },
+      {
+        "en": "They rose against injustice.",
+        "bn": "তারা অন্যায়ের বিরুদ্ধে উঠেছে।"
+      },
+      { "en": "Demand rises.", "bn": "চাহিদা বাড়ে।" },
+      { "en": "Smoke rises up.", "bn": "ধোঁয়া উপরে ওঠে।" },
+      { "en": "He rose from chair.", "bn": "সে চেয়ার থেকে উঠেছে।" },
+      { "en": "Problems rise quickly.", "bn": "সমস্যা দ্রুত বাড়ে।" },
+      { "en": "She rose in life.", "bn": "সে জীবনে উন্নতি করেছে।" }
+    ],
+    "synonyms": ["increase", "grow", "climb", "ascend"]
+  },
+  {
+    "base": "route",
+    "phonetic": "ruːt",
+    "meaning": "পথ / রুট",
+    "examples": [
+      { "en": "This is the fastest route.", "bn": "এটি সবচেয়ে দ্রুত পথ।" },
+      { "en": "We changed the route.", "bn": "আমরা রুট পরিবর্তন করেছি।" }
+    ],
+    "moreexample": [
+      { "en": "He knows the route.", "bn": "সে পথ জানে।" },
+      { "en": "Bus route is long.", "bn": "বাসের রুট দীর্ঘ।" },
+      {
+        "en": "They planned a new route.",
+        "bn": "তারা নতুন রুট পরিকল্পনা করেছে।"
+      },
+      { "en": "Route is blocked.", "bn": "রাস্তাটি বন্ধ।" },
+      { "en": "We followed the route.", "bn": "আমরা পথ অনুসরণ করেছি।" },
+      {
+        "en": "Shortest route is chosen.",
+        "bn": "সবচেয়ে ছোট পথ বেছে নেওয়া হয়েছে।"
+      },
+      { "en": "He mapped the route.", "bn": "সে রুট ম্যাপ করেছে।" },
+      { "en": "Alternate route available.", "bn": "বিকল্প পথ আছে।" },
+      { "en": "Route changed suddenly.", "bn": "রুট হঠাৎ পরিবর্তন হয়েছে।" },
+      { "en": "We lost the route.", "bn": "আমরা পথ হারিয়েছি।" }
+    ],
+    "synonyms": ["path", "way", "road", "course"]
   }
 ]

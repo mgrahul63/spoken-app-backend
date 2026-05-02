@@ -20,5 +20,6242 @@
       { "en": "He introduced his colleague.", "bn": "" }
     ],
     "synonyms": ["present", "acquaint", "launch", "initiate", "bring in"]
+  },
+
+  {
+    "base": "item",
+    "phonetic": "ˈaɪtəm",
+    "meaning": "জিনিস / বিষয়",
+    "examples": [
+      {
+        "en": "Please check each item on the list.",
+        "bn": "দয়া করে তালিকার প্রতিটি আইটেম পরীক্ষা করুন।"
+      },
+      { "en": "This item is on sale.", "bn": "এই জিনিসটি বিক্রয়মূল্যে আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He bought every item in the store.",
+        "bn": "সে দোকানের প্রতিটি জিনিস কিনেছে।"
+      },
+      {
+        "en": "There is only one item left.",
+        "bn": "মাত্র একটি জিনিস বাকি আছে।"
+      },
+      {
+        "en": "She crossed off each item on the list.",
+        "bn": "সে তালিকার প্রতিটি আইটেম কেটে দিল।"
+      },
+      {
+        "en": "The next item is very important.",
+        "bn": "পরবর্তী বিষয়টি খুবই গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "He returned the item to the shop.",
+        "bn": "সে জিনিসটি দোকানে ফিরিয়ে দিল।"
+      },
+      { "en": "This is a luxury item.", "bn": "এটি একটি বিলাসবহুল জিনিস।" },
+      {
+        "en": "Every item was carefully packed.",
+        "bn": "প্রতিটি জিনিস সাবধানে প্যাক করা হয়েছিল।"
+      },
+      {
+        "en": "The news item was very interesting.",
+        "bn": "সংবাদ বিষয়টি খুবই আকর্ষণীয় ছিল।"
+      },
+      { "en": "She picked the wrong item.", "bn": "সে ভুল জিনিস বেছে নিল।" },
+      {
+        "en": "The last item on the menu was delicious.",
+        "bn": "মেনুর শেষ আইটেমটি সুস্বাদু ছিল।"
+      }
+    ],
+    "synonyms": ["object", "article", "thing", "unit", "entry"]
+  },
+
+  {
+    "base": "injustice",
+    "phonetic": "ɪnˈdʒʌstɪs",
+    "meaning": "অন্যায় / অবিচার",
+    "examples": [
+      {
+        "en": "He spoke out against injustice.",
+        "bn": "সে অবিচারের বিরুদ্ধে কথা বলল।"
+      },
+      {
+        "en": "Injustice must be challenged.",
+        "bn": "অন্যায়কে চ্যালেঞ্জ করতে হবে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She could not tolerate injustice.",
+        "bn": "সে অন্যায় সহ্য করতে পারত না।"
+      },
+      {
+        "en": "The injustice made him very angry.",
+        "bn": "অবিচারটি তাকে খুব রাগান্বিত করেছিল।"
+      },
+      {
+        "en": "They fought for justice against injustice.",
+        "bn": "তারা অবিচারের বিরুদ্ধে ন্যায়ের জন্য লড়াই করেছিল।"
+      },
+      {
+        "en": "Injustice affects the poor the most.",
+        "bn": "অবিচার সবচেয়ে বেশি গরিবদের প্রভাবিত করে।"
+      },
+      {
+        "en": "He wrote a book about injustice.",
+        "bn": "সে অবিচার সম্পর্কে একটি বই লিখেছে।"
+      },
+      {
+        "en": "Social injustice is a big problem.",
+        "bn": "সামাজিক অবিচার একটি বড় সমস্যা।"
+      },
+      {
+        "en": "The judge corrected the injustice.",
+        "bn": "বিচারক অবিচারটি সংশোধন করলেন।"
+      },
+      {
+        "en": "We should not ignore injustice.",
+        "bn": "আমাদের অন্যায়কে উপেক্ষা করা উচিত নয়।"
+      },
+      {
+        "en": "The victim suffered a great injustice.",
+        "bn": "ভুক্তভোগী বড় ধরনের অবিচারের শিকার হয়েছিল।"
+      },
+      {
+        "en": "She raised her voice against injustice.",
+        "bn": "সে অবিচারের বিরুদ্ধে কণ্ঠ তুলেছিল।"
+      }
+    ],
+    "synonyms": ["unfairness", "wrongdoing", "bias", "oppression", "inequality"]
+  },
+
+  {
+    "base": "international",
+    "phonetic": "ˌɪntəˈnæʃənl",
+    "meaning": "আন্তর্জাতিক",
+    "examples": [
+      {
+        "en": "She works for an international company.",
+        "bn": "সে একটি আন্তর্জাতিক কোম্পানিতে কাজ করে।"
+      },
+      {
+        "en": "International trade is growing fast.",
+        "bn": "আন্তর্জাতিক বাণিজ্য দ্রুত বাড়ছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He attended an international conference.",
+        "bn": "সে একটি আন্তর্জাতিক সম্মেলনে যোগ দিয়েছিল।"
+      },
+      {
+        "en": "International relations are very complex.",
+        "bn": "আন্তর্জাতিক সম্পর্ক অত্যন্ত জটিল।"
+      },
+      {
+        "en": "She won an international award.",
+        "bn": "সে একটি আন্তর্জাতিক পুরস্কার জিতেছে।"
+      },
+      {
+        "en": "The international community responded quickly.",
+        "bn": "আন্তর্জাতিক সম্প্রদায় দ্রুত সাড়া দিল।"
+      },
+      {
+        "en": "He is an international student.",
+        "bn": "সে একজন আন্তর্জাতিক শিক্ষার্থী।"
+      },
+      {
+        "en": "International law protects human rights.",
+        "bn": "আন্তর্জাতিক আইন মানবাধিকার রক্ষা করে।"
+      },
+      {
+        "en": "They signed an international agreement.",
+        "bn": "তারা একটি আন্তর্জাতিক চুক্তি স্বাক্ষর করেছে।"
+      },
+      {
+        "en": "The airport handles international flights.",
+        "bn": "বিমানবন্দরটি আন্তর্জাতিক ফ্লাইট পরিচালনা করে।"
+      },
+      {
+        "en": "International support was very helpful.",
+        "bn": "আন্তর্জাতিক সহযোগিতা খুব সহায়ক ছিল।"
+      },
+      {
+        "en": "She studied international politics.",
+        "bn": "সে আন্তর্জাতিক রাজনীতি অধ্যয়ন করেছে।"
+      }
+    ],
+    "synonyms": [
+      "global",
+      "worldwide",
+      "multinational",
+      "cross-border",
+      "universal"
+    ]
+  },
+
+  {
+    "base": "importance",
+    "phonetic": "ɪmˈpɔːtns",
+    "meaning": "গুরুত্ব",
+    "examples": [
+      {
+        "en": "Education has great importance.",
+        "bn": "শিক্ষার অত্যন্ত গুরুত্ব রয়েছে।"
+      },
+      {
+        "en": "He stressed the importance of honesty.",
+        "bn": "সে সততার গুরুত্বের উপর জোর দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She understood the importance of time.",
+        "bn": "সে সময়ের গুরুত্ব বুঝতে পেরেছিল।"
+      },
+      {
+        "en": "The importance of health cannot be ignored.",
+        "bn": "স্বাস্থ্যের গুরুত্ব উপেক্ষা করা যায় না।"
+      },
+      {
+        "en": "He explained the importance of the rule.",
+        "bn": "সে নিয়মটির গুরুত্ব ব্যাখ্যা করল।"
+      },
+      {
+        "en": "The teacher spoke about the importance of reading.",
+        "bn": "শিক্ষক পড়ার গুরুত্ব সম্পর্কে বললেন।"
+      },
+      {
+        "en": "They realized the importance of teamwork.",
+        "bn": "তারা দলগত কাজের গুরুত্ব উপলব্ধি করল।"
+      },
+      {
+        "en": "The matter is of great importance.",
+        "bn": "বিষয়টি অত্যন্ত গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She gave importance to her studies.",
+        "bn": "সে তার পড়াশোনাকে গুরুত্ব দিল।"
+      },
+      {
+        "en": "The importance of water is well known.",
+        "bn": "পানির গুরুত্ব সুপরিচিত।"
+      },
+      {
+        "en": "He attached great importance to discipline.",
+        "bn": "সে শৃঙ্খলাকে অত্যন্ত গুরুত্ব দিল।"
+      },
+      {
+        "en": "The report highlighted the importance of safety.",
+        "bn": "প্রতিবেদনটি নিরাপত্তার গুরুত্ব তুলে ধরেছে।"
+      }
+    ],
+    "synonyms": ["significance", "value", "weight", "relevance", "priority"]
+  },
+
+  {
+    "base": "independent",
+    "phonetic": "ˌɪndɪˈpendənt",
+    "meaning": "স্বাধীন / স্বনির্ভর",
+    "examples": [
+      { "en": "She is an independent woman.", "bn": "সে একজন স্বনির্ভর নারী।" },
+      {
+        "en": "Bangladesh is an independent country.",
+        "bn": "বাংলাদেশ একটি স্বাধীন দেশ।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He wants to be financially independent.",
+        "bn": "সে আর্থিকভাবে স্বনির্ভর হতে চায়।"
+      },
+      {
+        "en": "She made an independent decision.",
+        "bn": "সে একটি স্বাধীন সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "The child is becoming more independent.",
+        "bn": "শিশুটি ক্রমশ আরও স্বনির্ভর হয়ে উঠছে।"
+      },
+      {
+        "en": "He runs an independent business.",
+        "bn": "সে একটি স্বতন্ত্র ব্যবসা পরিচালনা করে।"
+      },
+      {
+        "en": "The investigation was fully independent.",
+        "bn": "তদন্তটি সম্পূর্ণ স্বাধীন ছিল।"
+      },
+      {
+        "en": "She has an independent mind.",
+        "bn": "তার একটি স্বাধীন মন রয়েছে।"
+      },
+      {
+        "en": "He lived an independent life.",
+        "bn": "সে স্বাধীনভাবে জীবন যাপন করেছে।"
+      },
+      {
+        "en": "They formed an independent group.",
+        "bn": "তারা একটি স্বতন্ত্র দল গঠন করেছে।"
+      },
+      {
+        "en": "The newspaper is politically independent.",
+        "bn": "সংবাদপত্রটি রাজনৈতিকভাবে স্বাধীন।"
+      },
+      {
+        "en": "She became independent after college.",
+        "bn": "কলেজের পরে সে স্বনির্ভর হয়ে উঠল।"
+      }
+    ],
+    "synonyms": [
+      "self-reliant",
+      "autonomous",
+      "free",
+      "self-sufficient",
+      "sovereign"
+    ]
+  },
+
+  {
+    "base": "inside",
+    "phonetic": "ˌɪnˈsaɪd",
+    "meaning": "ভেতরে / অভ্যন্তরে",
+    "examples": [
+      {
+        "en": "The cat is inside the house.",
+        "bn": "বিড়ালটি ঘরের ভেতরে আছে।"
+      },
+      { "en": "Please come inside.", "bn": "দয়া করে ভেতরে আসুন।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He hid inside the cupboard.",
+        "bn": "সে আলমারির ভেতরে লুকিয়ে পড়ল।"
+      },
+      { "en": "She felt happy inside.", "bn": "সে মনের ভেতরে সুখ অনুভব করল।" },
+      {
+        "en": "The keys are inside the bag.",
+        "bn": "চাবিগুলো ব্যাগের ভেতরে আছে।"
+      },
+      {
+        "en": "It is cold outside but warm inside.",
+        "bn": "বাইরে ঠান্ডা কিন্তু ভেতরে উষ্ণ।"
+      },
+      {
+        "en": "The information is kept inside the file.",
+        "bn": "তথ্যটি ফাইলের ভেতরে রাখা আছে।"
+      },
+      {
+        "en": "He stayed inside during the rain.",
+        "bn": "বৃষ্টির সময় সে ভেতরে থাকল।"
+      },
+      { "en": "She looked inside the box.", "bn": "সে বাক্সের ভেতরে তাকাল।" },
+      {
+        "en": "The inside of the car was clean.",
+        "bn": "গাড়ির ভেতরটা পরিষ্কার ছিল।"
+      },
+      {
+        "en": "They painted the inside walls white.",
+        "bn": "তারা ভেতরের দেয়ালগুলো সাদা রং করেছিল।"
+      },
+      {
+        "en": "He had a feeling deep inside.",
+        "bn": "তার মনের গভীরে একটি অনুভূতি ছিল।"
+      }
+    ],
+    "synonyms": ["within", "interior", "inner", "indoors", "inward"]
+  },
+
+  {
+    "base": "idiom",
+    "phonetic": "ˈɪdiəm",
+    "meaning": "বাগধারা / প্রবাদবাক্য",
+    "examples": [
+      {
+        "en": "Break a leg is a common idiom.",
+        "bn": "'Break a leg' একটি সাধারণ বাগধারা।"
+      },
+      {
+        "en": "She used an idiom in her speech.",
+        "bn": "সে তার বক্তৃতায় একটি বাগধারা ব্যবহার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He learned a new idiom today.",
+        "bn": "সে আজ একটি নতুন বাগধারা শিখেছে।"
+      },
+      {
+        "en": "Idioms are hard to translate.",
+        "bn": "বাগধারা অনুবাদ করা কঠিন।"
+      },
+      {
+        "en": "Every language has its own idioms.",
+        "bn": "প্রতিটি ভাষার নিজস্ব বাগধারা আছে।"
+      },
+      {
+        "en": "The teacher explained the idiom clearly.",
+        "bn": "শিক্ষক বাগধারাটি স্পষ্টভাবে ব্যাখ্যা করলেন।"
+      },
+      {
+        "en": "She used the idiom correctly.",
+        "bn": "সে বাগধারাটি সঠিকভাবে ব্যবহার করল।"
+      },
+      {
+        "en": "He collected idioms from different languages.",
+        "bn": "সে বিভিন্ন ভাষা থেকে বাগধারা সংগ্রহ করেছে।"
+      },
+      {
+        "en": "Understanding idioms improves fluency.",
+        "bn": "বাগধারা বোঝা দক্ষতা বাড়ায়।"
+      },
+      { "en": "The book is full of idioms.", "bn": "বইটি বাগধারায় পূর্ণ।" },
+      {
+        "en": "She wrote a list of common idioms.",
+        "bn": "সে সাধারণ বাগধারার একটি তালিকা লিখল।"
+      },
+      {
+        "en": "That idiom means something different.",
+        "bn": "সেই বাগধারাটির অর্থ আলাদা।"
+      }
+    ],
+    "synonyms": [
+      "expression",
+      "phrase",
+      "saying",
+      "proverb",
+      "figure of speech"
+    ]
+  },
+
+  {
+    "base": "instead",
+    "phonetic": "ɪnˈsted",
+    "meaning": "পরিবর্তে / বদলে",
+    "examples": [
+      {
+        "en": "Use water instead of juice.",
+        "bn": "জুসের পরিবর্তে পানি ব্যবহার করুন।"
+      },
+      { "en": "She smiled instead of crying.", "bn": "কাঁদার বদলে সে হাসল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He walked instead of taking a bus.",
+        "bn": "বাস নেওয়ার পরিবর্তে সে হেঁটে গেল।"
+      },
+      {
+        "en": "She called instead of texting.",
+        "bn": "টেক্সট করার বদলে সে ফোন করল।"
+      },
+      { "en": "I will go instead of him.", "bn": "আমি তার পরিবর্তে যাব।" },
+      {
+        "en": "They used a pen instead of a pencil.",
+        "bn": "তারা পেন্সিলের বদলে কলম ব্যবহার করল।"
+      },
+      {
+        "en": "He rested instead of working.",
+        "bn": "কাজ করার পরিবর্তে সে বিশ্রাম নিল।"
+      },
+      {
+        "en": "She chose tea instead of coffee.",
+        "bn": "কফির বদলে সে চা বেছে নিল।"
+      },
+      {
+        "en": "Use this word instead of that one.",
+        "bn": "সেই শব্দটির পরিবর্তে এই শব্দটি ব্যবহার করুন।"
+      },
+      {
+        "en": "He laughed instead of answering.",
+        "bn": "উত্তর দেওয়ার বদলে সে হাসল।"
+      },
+      {
+        "en": "She stayed home instead of going out.",
+        "bn": "বাইরে যাওয়ার পরিবর্তে সে বাড়িতে থাকল।"
+      },
+      {
+        "en": "They watched TV instead of studying.",
+        "bn": "পড়াশোনার বদলে তারা টিভি দেখল।"
+      }
+    ],
+    "synonyms": [
+      "rather",
+      "alternatively",
+      "in place of",
+      "as a substitute",
+      "in lieu of"
+    ]
+  },
+
+  {
+    "base": "issue",
+    "phonetic": "ˈɪʃuː",
+    "meaning": "সমস্যা / বিষয় / প্রকাশ করা",
+    "examples": [
+      { "en": "This is a serious issue.", "bn": "এটি একটি গুরুতর সমস্যা।" },
+      {
+        "en": "The government issued a new law.",
+        "bn": "সরকার একটি নতুন আইন জারি করেছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "We need to address this issue.",
+        "bn": "আমাদের এই সমস্যাটি সমাধান করতে হবে।"
+      },
+      {
+        "en": "She raised an important issue.",
+        "bn": "সে একটি গুরুত্বপূর্ণ বিষয় উত্থাপন করল।"
+      },
+      {
+        "en": "The issue was resolved quickly.",
+        "bn": "সমস্যাটি দ্রুত সমাধান হয়ে গেল।"
+      },
+      {
+        "en": "He discussed the issue with his boss.",
+        "bn": "সে তার বসের সাথে বিষয়টি নিয়ে আলোচনা করল।"
+      },
+      {
+        "en": "The magazine published a new issue.",
+        "bn": "ম্যাগাজিনটি একটি নতুন সংখ্যা প্রকাশ করেছে।"
+      },
+      {
+        "en": "Health issues are increasing.",
+        "bn": "স্বাস্থ্য সমস্যা বাড়ছে।"
+      },
+      {
+        "en": "They issued a warning to the public.",
+        "bn": "তারা জনগণকে একটি সতর্কবার্তা জারি করেছে।"
+      },
+      { "en": "The core issue was money.", "bn": "মূল সমস্যাটি ছিল অর্থ।" },
+      {
+        "en": "She had no issue with the plan.",
+        "bn": "পরিকল্পনার সাথে তার কোনো সমস্যা ছিল না।"
+      },
+      {
+        "en": "The issue was discussed in the meeting.",
+        "bn": "বিষয়টি সভায় আলোচনা করা হয়েছিল।"
+      }
+    ],
+    "synonyms": ["problem", "matter", "topic", "concern", "subject"]
+  },
+
+  {
+    "base": "individual",
+    "phonetic": "ˌɪndɪˈvɪdʒuəl",
+    "meaning": "ব্যক্তি / পৃথক / একক",
+    "examples": [
+      {
+        "en": "Every individual has rights.",
+        "bn": "প্রতিটি ব্যক্তির অধিকার রয়েছে।"
+      },
+      {
+        "en": "She gave individual attention to each student.",
+        "bn": "সে প্রতিটি শিক্ষার্থীকে পৃথক মনোযোগ দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He is a very creative individual.",
+        "bn": "সে একজন অত্যন্ত সৃজনশীল ব্যক্তি।"
+      },
+      { "en": "Each individual is unique.", "bn": "প্রতিটি মানুষ অনন্য।" },
+      {
+        "en": "They respect individual differences.",
+        "bn": "তারা ব্যক্তিগত পার্থক্যকে সম্মান করে।"
+      },
+      {
+        "en": "Individual effort leads to success.",
+        "bn": "ব্যক্তিগত প্রচেষ্টা সাফল্যের দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "She made an individual choice.",
+        "bn": "সে একটি ব্যক্তিগত পছন্দ করল।"
+      },
+      {
+        "en": "The law applies to every individual.",
+        "bn": "আইনটি প্রতিটি ব্যক্তির ক্ষেত্রে প্রযোজ্য।"
+      },
+      {
+        "en": "He has individual goals in life.",
+        "bn": "জীবনে তার নিজস্ব লক্ষ্য আছে।"
+      },
+      {
+        "en": "The program supports individual learning.",
+        "bn": "প্রোগ্রামটি ব্যক্তিগত শিক্ষাকে সমর্থন করে।"
+      },
+      {
+        "en": "Each individual has a different story.",
+        "bn": "প্রতিটি মানুষের আলাদা গল্প আছে।"
+      },
+      {
+        "en": "She believed in individual freedom.",
+        "bn": "সে ব্যক্তিস্বাধীনতায় বিশ্বাস করত।"
+      }
+    ],
+    "synonyms": ["person", "human", "single", "separate", "distinct"]
+  },
+
+  {
+    "base": "image",
+    "phonetic": "ˈɪmɪdʒ",
+    "meaning": "ছবি / প্রতিচ্ছবি / ভাবমূর্তি",
+    "examples": [
+      {
+        "en": "She took a beautiful image.",
+        "bn": "সে একটি সুন্দর ছবি তুলেছে।"
+      },
+      { "en": "The image was very clear.", "bn": "ছবিটি খুব স্পষ্ট ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He saw his image in the mirror.",
+        "bn": "সে আয়নায় তার প্রতিচ্ছবি দেখল।"
+      },
+      {
+        "en": "The company improved its public image.",
+        "bn": "কোম্পানিটি তার সার্বজনীন ভাবমূর্তি উন্নত করেছে।"
+      },
+      {
+        "en": "She painted an image of the village.",
+        "bn": "সে গ্রামের একটি ছবি আঁকল।"
+      },
+      {
+        "en": "The image on the screen was blurry.",
+        "bn": "স্ক্রিনের ছবিটি ঝাপসা ছিল।"
+      },
+      {
+        "en": "He created a mental image of the place.",
+        "bn": "সে জায়গাটির একটি মানসিক ছবি তৈরি করল।"
+      },
+      { "en": "The image file is too large.", "bn": "ছবির ফাইলটি অনেক বড়।" },
+      {
+        "en": "She has a positive image in society.",
+        "bn": "সমাজে তার একটি ইতিবাচক ভাবমূর্তি রয়েছে।"
+      },
+      {
+        "en": "The image captured a rare moment.",
+        "bn": "ছবিটি একটি বিরল মুহূর্ত ধারণ করেছে।"
+      },
+      {
+        "en": "He used images to explain his point.",
+        "bn": "সে তার বক্তব্য ব্যাখ্যা করতে ছবি ব্যবহার করল।"
+      },
+      {
+        "en": "The brand image was damaged.",
+        "bn": "ব্র্যান্ডের ভাবমূর্তি ক্ষতিগ্রস্ত হয়েছিল।"
+      }
+    ],
+    "synonyms": [
+      "picture",
+      "photo",
+      "illustration",
+      "representation",
+      "portrait"
+    ]
+  },
+
+  {
+    "base": "idea",
+    "phonetic": "aɪˈdɪə",
+    "meaning": "ধারণা / চিন্তা / উপলব্ধি",
+    "examples": [
+      { "en": "She had a great idea.", "bn": "তার একটি দারুণ ধারণা ছিল।" },
+      { "en": "What a brilliant idea!", "bn": "কী অসাধারণ ধারণা!" }
+    ],
+    "moreexample": [
+      {
+        "en": "He shared his idea with the team.",
+        "bn": "সে দলের সাথে তার ধারণা শেয়ার করল।"
+      },
+      {
+        "en": "The idea came to her suddenly.",
+        "bn": "ধারণাটি হঠাৎ তার মাথায় এল।"
+      },
+      {
+        "en": "She rejected the idea immediately.",
+        "bn": "সে সাথে সাথে ধারণাটি প্রত্যাখ্যান করল।"
+      },
+      { "en": "That was not a good idea.", "bn": "সেটা ভালো ধারণা ছিল না।" },
+      {
+        "en": "He developed the idea further.",
+        "bn": "সে ধারণাটি আরও বিকশিত করল।"
+      },
+      {
+        "en": "The idea was very creative.",
+        "bn": "ধারণাটি অত্যন্ত সৃজনশীল ছিল।"
+      },
+      {
+        "en": "She had no idea about the problem.",
+        "bn": "সমস্যা সম্পর্কে তার কোনো ধারণা ছিল না।"
+      },
+      {
+        "en": "The idea changed everything.",
+        "bn": "ধারণাটি সব কিছু বদলে দিল।"
+      },
+      {
+        "en": "He presented his idea to the class.",
+        "bn": "সে ক্লাসে তার ধারণা উপস্থাপন করল।"
+      },
+      {
+        "en": "They liked the idea from the start.",
+        "bn": "তারা শুরু থেকেই ধারণাটি পছন্দ করেছিল।"
+      }
+    ],
+    "synonyms": ["thought", "concept", "notion", "plan", "suggestion"]
+  },
+
+  {
+    "base": "imagine",
+    "phonetic": "ɪˈmædʒɪn",
+    "meaning": "কল্পনা করা",
+    "examples": [
+      {
+        "en": "Imagine a better world.",
+        "bn": "একটি সুন্দর পৃথিবী কল্পনা করো।"
+      },
+      {
+        "en": "She could imagine the scene.",
+        "bn": "সে দৃশ্যটি কল্পনা করতে পারত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "I can imagine how you feel.",
+        "bn": "আমি কল্পনা করতে পারি তুমি কেমন অনুভব করছ।"
+      },
+      {
+        "en": "Imagine living without fear.",
+        "bn": "ভয় ছাড়া জীবনযাপন কল্পনা করো।"
+      },
+      {
+        "en": "He imagined a bright future.",
+        "bn": "সে একটি উজ্জ্বল ভবিষ্যৎ কল্পনা করল।"
+      },
+      {
+        "en": "Can you imagine the noise?",
+        "bn": "তুমি কি শব্দটি কল্পনা করতে পারো?"
+      },
+      {
+        "en": "She imagined herself on stage.",
+        "bn": "সে নিজেকে মঞ্চে কল্পনা করল।"
+      },
+      { "en": "Imagine the possibilities.", "bn": "সম্ভাবনাগুলো কল্পনা করো।" },
+      {
+        "en": "They imagined a peaceful life.",
+        "bn": "তারা একটি শান্তিপূর্ণ জীবন কল্পনা করল।"
+      },
+      { "en": "It is hard to imagine.", "bn": "এটি কল্পনা করা কঠিন।" },
+      { "en": "Imagine you are the leader.", "bn": "কল্পনা করো তুমি নেতা।" },
+      {
+        "en": "He could not imagine the pain.",
+        "bn": "সে ব্যথাটি কল্পনা করতে পারছিল না।"
+      }
+    ],
+    "synonyms": ["visualize", "picture", "envision"]
+  },
+  {
+    "base": "improve",
+    "phonetic": "ɪmˈpruːv",
+    "meaning": "উন্নত করা",
+    "examples": [
+      {
+        "en": "We must improve our skills.",
+        "bn": "আমাদের দক্ষতা উন্নত করতে হবে।"
+      },
+      {
+        "en": "He worked hard to improve.",
+        "bn": "সে উন্নতির জন্য কঠোর পরিশ্রম করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She improved her English.", "bn": "সে তার ইংরেজি উন্নত করল।" },
+      {
+        "en": "Things will improve with time.",
+        "bn": "সময়ের সাথে জিনিসগুলো উন্নত হবে।"
+      },
+      { "en": "He improved his health.", "bn": "সে তার স্বাস্থ্য উন্নত করল।" },
+      {
+        "en": "We need to improve teamwork.",
+        "bn": "আমাদের দলগত কাজ উন্নত করতে হবে।"
+      },
+      {
+        "en": "The situation improved quickly.",
+        "bn": "পরিস্থিতি দ্রুত উন্নত হলো।"
+      },
+      {
+        "en": "Improve your habits daily.",
+        "bn": "প্রতিদিন তোমার অভ্যাস উন্নত করো।"
+      },
+      { "en": "She improved her grades.", "bn": "সে তার ফলাফল উন্নত করল।" },
+      { "en": "They improved the road.", "bn": "তারা রাস্তাটি উন্নত করল।" },
+      {
+        "en": "He tries to improve every day.",
+        "bn": "সে প্রতিদিন উন্নতির চেষ্টা করে।"
+      },
+      {
+        "en": "Improve your writing style.",
+        "bn": "তোমার লেখার ধরন উন্নত করো।"
+      }
+    ],
+    "synonyms": ["enhance", "develop", "upgrade"]
+  },
+  {
+    "base": "include",
+    "phonetic": "ɪnˈkluːd",
+    "meaning": "অন্তর্ভুক্ত করা",
+    "examples": [
+      {
+        "en": "Please include me in the list.",
+        "bn": "অনুগ্রহ করে আমাকে তালিকায় অন্তর্ভুক্ত করো।"
+      },
+      {
+        "en": "The price includes taxes.",
+        "bn": "মূল্যের মধ্যে কর অন্তর্ভুক্ত আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Include your name on the form.",
+        "bn": "ফর্মে তোমার নাম অন্তর্ভুক্ত করো।"
+      },
+      {
+        "en": "The menu includes desserts.",
+        "bn": "মেনুতে মিষ্টান্ন অন্তর্ভুক্ত আছে।"
+      },
+      {
+        "en": "He included everyone in the plan.",
+        "bn": "সে পরিকল্পনায় সবাইকে অন্তর্ভুক্ত করল।"
+      },
+      {
+        "en": "The report includes charts.",
+        "bn": "প্রতিবেদনে চার্ট অন্তর্ভুক্ত আছে।"
+      },
+      {
+        "en": "She was included in the team.",
+        "bn": "সে দলে অন্তর্ভুক্ত হলো।"
+      },
+      {
+        "en": "Include all necessary details.",
+        "bn": "সব প্রয়োজনীয় তথ্য অন্তর্ভুক্ত করো।"
+      },
+      {
+        "en": "The package includes a gift.",
+        "bn": "প্যাকেজে একটি উপহার অন্তর্ভুক্ত আছে।"
+      },
+      {
+        "en": "They included new members.",
+        "bn": "তারা নতুন সদস্যদের অন্তর্ভুক্ত করল।"
+      },
+      {
+        "en": "Include your contact details.",
+        "bn": "তোমার যোগাযোগের তথ্য অন্তর্ভুক্ত করো।"
+      },
+      {
+        "en": "The syllabus includes grammar.",
+        "bn": "পাঠ্যক্রমে ব্যাকরণ অন্তর্ভুক্ত আছে।"
+      }
+    ],
+    "synonyms": ["incorporate", "contain", "cover"]
+  },
+  {
+    "base": "increase",
+    "phonetic": "ɪnˈkriːs",
+    "meaning": "বৃদ্ধি করা / বাড়ানো",
+    "examples": [
+      { "en": "Prices continue to increase.", "bn": "দাম বাড়তেই থাকে।" },
+      {
+        "en": "We need to increase our speed.",
+        "bn": "আমাদের গতি বাড়াতে হবে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The population is increasing.", "bn": "জনসংখ্যা বাড়ছে।" },
+      { "en": "He increased his savings.", "bn": "সে তার সঞ্চয় বাড়াল।" },
+      {
+        "en": "Increase your water intake.",
+        "bn": "তোমার পানি পানের পরিমাণ বাড়াও।"
+      },
+      { "en": "Sales increased this month.", "bn": "এই মাসে বিক্রি বেড়েছে।" },
+      { "en": "She increased her efforts.", "bn": "সে তার প্রচেষ্টা বাড়াল।" },
+      { "en": "The noise increased at night.", "bn": "রাতে শব্দ বাড়ল।" },
+      { "en": "They increased the budget.", "bn": "তারা বাজেট বাড়াল।" },
+      { "en": "Increase your reading speed.", "bn": "তোমার পড়ার গতি বাড়াও।" },
+      { "en": "His confidence increased.", "bn": "তার আত্মবিশ্বাস বাড়ল।" },
+      { "en": "The demand has increased.", "bn": "চাহিদা বেড়েছে।" }
+    ],
+    "synonyms": ["grow", "raise", "expand"]
+  },
+  {
+    "base": "indicate",
+    "phonetic": "ˈɪndɪkeɪt",
+    "meaning": "ইঙ্গিত করা / নির্দেশ করা",
+    "examples": [
+      {
+        "en": "The signs indicate danger.",
+        "bn": "চিহ্নগুলো বিপদের ইঙ্গিত দেয়।"
+      },
+      {
+        "en": "Please indicate your choice.",
+        "bn": "অনুগ্রহ করে তোমার পছন্দ নির্দেশ করো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The data indicates a problem.",
+        "bn": "তথ্যটি একটি সমস্যার ইঙ্গিত দেয়।"
+      },
+      { "en": "He indicated the right path.", "bn": "সে সঠিক পথ নির্দেশ করল।" },
+      {
+        "en": "The map indicates the location.",
+        "bn": "মানচিত্রটি অবস্থান নির্দেশ করে।"
+      },
+      {
+        "en": "Her smile indicated happiness.",
+        "bn": "তার হাসি সুখের ইঙ্গিত দিল।"
+      },
+      {
+        "en": "Indicate where it hurts.",
+        "bn": "কোথায় ব্যথা সেটি নির্দেশ করো।"
+      },
+      {
+        "en": "The results indicate success.",
+        "bn": "ফলাফল সাফল্যের ইঙ্গিত দেয়।"
+      },
+      {
+        "en": "He indicated his agreement.",
+        "bn": "সে তার সম্মতির ইঙ্গিত দিল।"
+      },
+      {
+        "en": "The light indicates danger.",
+        "bn": "আলোটি বিপদের ইঙ্গিত দেয়।"
+      },
+      {
+        "en": "She indicated a change.",
+        "bn": "সে একটি পরিবর্তনের ইঙ্গিত দিল।"
+      },
+      {
+        "en": "The arrow indicates the exit.",
+        "bn": "তীরটি বাহির পথ নির্দেশ করে।"
+      }
+    ],
+    "synonyms": ["show", "suggest", "point"]
+  },
+  {
+    "base": "influence",
+    "phonetic": "ˈɪnfluəns",
+    "meaning": "প্রভাবিত করা / প্রভাব",
+    "examples": [
+      {
+        "en": "Music can influence your mood.",
+        "bn": "সঙ্গীত তোমার মেজাজকে প্রভাবিত করতে পারে।"
+      },
+      { "en": "He has great influence.", "bn": "তার বড় প্রভাব আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Parents influence their children.",
+        "bn": "বাবা-মা তাদের সন্তানদের প্রভাবিত করেন।"
+      },
+      { "en": "Her words influenced me.", "bn": "তার কথা আমাকে প্রভাবিত করল।" },
+      {
+        "en": "He influences those around him.",
+        "bn": "সে তার আশেপাশের মানুষদের প্রভাবিত করে।"
+      },
+      {
+        "en": "Social media influences youth.",
+        "bn": "সামাজিক মিডিয়া তরুণদের প্রভাবিত করে।"
+      },
+      {
+        "en": "The teacher influenced his life.",
+        "bn": "শিক্ষক তার জীবনকে প্রভাবিত করলেন।"
+      },
+      {
+        "en": "She has a positive influence.",
+        "bn": "তার একটি ইতিবাচক প্রভাব আছে।"
+      },
+      {
+        "en": "Bad friends influence badly.",
+        "bn": "খারাপ বন্ধুরা খারাপভাবে প্রভাবিত করে।"
+      },
+      {
+        "en": "He tried to influence the vote.",
+        "bn": "সে ভোটকে প্রভাবিত করার চেষ্টা করল।"
+      },
+      {
+        "en": "Nature influences our health.",
+        "bn": "প্রকৃতি আমাদের স্বাস্থ্যকে প্রভাবিত করে।"
+      },
+      {
+        "en": "Books influence our thinking.",
+        "bn": "বইগুলো আমাদের চিন্তাকে প্রভাবিত করে।"
+      }
+    ],
+    "synonyms": ["affect", "impact", "inspire"]
+  },
+  {
+    "base": "inform",
+    "phonetic": "ɪnˈfɔːrm",
+    "meaning": "জানানো / অবহিত করা",
+    "examples": [
+      {
+        "en": "Please inform me of the result.",
+        "bn": "অনুগ্রহ করে আমাকে ফলাফল জানাও।"
+      },
+      { "en": "He informed the police.", "bn": "সে পুলিশকে জানাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Inform your parents first.",
+        "bn": "প্রথমে তোমার বাবা-মাকে জানাও।"
+      },
+      {
+        "en": "She informed us of the change.",
+        "bn": "সে আমাদের পরিবর্তনটি জানাল।"
+      },
+      { "en": "They informed the manager.", "bn": "তারা ম্যানেজারকে জানাল।" },
+      { "en": "Inform me when you arrive.", "bn": "তুমি পৌঁছালে আমাকে জানাও।" },
+      { "en": "He informed the class.", "bn": "সে ক্লাসকে জানাল।" },
+      {
+        "en": "She was informed of the risk.",
+        "bn": "তাকে ঝুঁকির কথা জানানো হলো।"
+      },
+      { "en": "Please inform us in advance.", "bn": "আগে থেকে আমাদের জানাও।" },
+      { "en": "We informed the guests.", "bn": "আমরা অতিথিদের জানালাম।" },
+      { "en": "He informed the doctor.", "bn": "সে ডাক্তারকে জানাল।" },
+      {
+        "en": "Inform the team about updates.",
+        "bn": "আপডেট সম্পর্কে দলকে জানাও।"
+      }
+    ],
+    "synonyms": ["notify", "tell", "advise"]
+  },
+  {
+    "base": "inspire",
+    "phonetic": "ɪnˈspaɪər",
+    "meaning": "অনুপ্রাণিত করা",
+    "examples": [
+      {
+        "en": "Her story inspired many.",
+        "bn": "তার গল্প অনেককে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "He inspired the whole team.",
+        "bn": "সে পুরো দলকে অনুপ্রাণিত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Music inspires creativity.",
+        "bn": "সঙ্গীত সৃজনশীলতাকে অনুপ্রাণিত করে।"
+      },
+      {
+        "en": "She inspired her students.",
+        "bn": "সে তার শিক্ষার্থীদের অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "His words inspired hope.",
+        "bn": "তার কথা আশাকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "Nature inspires artists.",
+        "bn": "প্রকৃতি শিল্পীদের অনুপ্রাণিত করে।"
+      },
+      {
+        "en": "He was inspired by his father.",
+        "bn": "সে তার বাবার দ্বারা অনুপ্রাণিত হয়েছিল।"
+      },
+      {
+        "en": "Books inspire new ideas.",
+        "bn": "বইগুলো নতুন ধারণা অনুপ্রাণিত করে।"
+      },
+      {
+        "en": "She inspired confidence in others.",
+        "bn": "সে অন্যদের মধ্যে আত্মবিশ্বাস অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "The leader inspired loyalty.",
+        "bn": "নেতা আনুগত্য অনুপ্রাণিত করলেন।"
+      },
+      {
+        "en": "He inspired many young people.",
+        "bn": "সে অনেক তরুণকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "Her kindness inspired others.",
+        "bn": "তার দয়া অন্যদের অনুপ্রাণিত করল।"
+      }
+    ],
+    "synonyms": ["motivate", "encourage", "stimulate"]
+  },
+  {
+    "base": "introduce",
+    "phonetic": "ˌɪntrəˈdjuːs",
+    "meaning": "পরিচয় করিয়ে দেওয়া",
+    "examples": [
+      {
+        "en": "Let me introduce my friend.",
+        "bn": "আমাকে আমার বন্ধুর সাথে পরিচয় করিয়ে দিতে দাও।"
+      },
+      {
+        "en": "She introduced a new rule.",
+        "bn": "সে একটি নতুন নিয়ম চালু করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He introduced himself to the class.",
+        "bn": "সে ক্লাসে নিজেকে পরিচয় করিয়ে দিল।"
+      },
+      {
+        "en": "They introduced a new product.",
+        "bn": "তারা একটি নতুন পণ্য চালু করল।"
+      },
+      {
+        "en": "She introduced her parents.",
+        "bn": "সে তার বাবা-মাকে পরিচয় করিয়ে দিল।"
+      },
+      {
+        "en": "Introduce yourself clearly.",
+        "bn": "স্পষ্টভাবে নিজেকে পরিচয় করিয়ে দাও।"
+      },
+      {
+        "en": "He introduced a new topic.",
+        "bn": "সে একটি নতুন বিষয় উপস্থাপন করল।"
+      },
+      {
+        "en": "They introduced new changes.",
+        "bn": "তারা নতুন পরিবর্তন চালু করল।"
+      },
+      {
+        "en": "She was introduced to the team.",
+        "bn": "তাকে দলে পরিচয় করিয়ে দেওয়া হলো।"
+      },
+      {
+        "en": "He introduced the guest speaker.",
+        "bn": "সে অতিথি বক্তাকে পরিচয় করিয়ে দিল।"
+      },
+      {
+        "en": "Introduce the topic briefly.",
+        "bn": "সংক্ষেপে বিষয়টি পরিচয় করিয়ে দাও।"
+      },
+      {
+        "en": "She introduced a new method.",
+        "bn": "সে একটি নতুন পদ্ধতি চালু করল।"
+      }
+    ],
+    "synonyms": ["present", "launch", "initiate"]
+  },
+  {
+    "base": "involve",
+    "phonetic": "ɪnˈvɒlv",
+    "meaning": "জড়িত করা / অন্তর্ভুক্ত করা",
+    "examples": [
+      { "en": "Do not involve me in this.", "bn": "আমাকে এতে জড়িও না।" },
+      { "en": "The job involves travel.", "bn": "কাজটিতে ভ্রমণ জড়িত।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He was involved in the project.",
+        "bn": "সে প্রকল্পে জড়িত ছিল।"
+      },
+      {
+        "en": "Involve everyone in the plan.",
+        "bn": "পরিকল্পনায় সবাইকে জড়িত করো।"
+      },
+      { "en": "She involved her friends.", "bn": "সে তার বন্ধুদের জড়িত করল।" },
+      {
+        "en": "The plan involves hard work.",
+        "bn": "পরিকল্পনায় কঠোর পরিশ্রম জড়িত।"
+      },
+      {
+        "en": "They were involved in sports.",
+        "bn": "তারা খেলাধুলায় জড়িত ছিল।"
+      },
+      {
+        "en": "Involve students in activities.",
+        "bn": "কার্যক্রমে শিক্ষার্থীদের জড়িত করো।"
+      },
+      {
+        "en": "He got involved in a problem.",
+        "bn": "সে একটি সমস্যায় জড়িয়ে পড়ল।"
+      },
+      {
+        "en": "She involved herself in work.",
+        "bn": "সে নিজেকে কাজে জড়িত করল।"
+      },
+      { "en": "The task involves patience.", "bn": "কাজটিতে ধৈর্য জড়িত।" },
+      { "en": "We are all involved.", "bn": "আমরা সবাই জড়িত।" }
+    ],
+    "synonyms": ["include", "engage", "participate"]
+  },
+
+  {
+    "base": "identify",
+    "phonetic": "aɪˈdentɪfaɪ",
+    "meaning": "শনাক্ত করা / চিহ্নিত করা",
+    "examples": [
+      {
+        "en": "Can you identify this bird?",
+        "bn": "তুমি কি এই পাখিটি শনাক্ত করতে পারো?"
+      },
+      { "en": "She identified the problem.", "bn": "সে সমস্যাটি চিহ্নিত করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He identified the suspect.",
+        "bn": "সে সন্দেহভাজনকে শনাক্ত করল।"
+      },
+      {
+        "en": "Identify your strengths first.",
+        "bn": "প্রথমে তোমার শক্তি চিহ্নিত করো।"
+      },
+      { "en": "They identified the cause.", "bn": "তারা কারণটি চিহ্নিত করল।" },
+      {
+        "en": "She could not identify him.",
+        "bn": "সে তাকে শনাক্ত করতে পারল না।"
+      },
+      { "en": "Identify the key issues.", "bn": "মূল সমস্যাগুলো চিহ্নিত করো।" },
+      { "en": "He identified the plant.", "bn": "সে গাছটি শনাক্ত করল।" },
+      {
+        "en": "The doctor identified the disease.",
+        "bn": "ডাক্তার রোগটি শনাক্ত করলেন।"
+      },
+      { "en": "She identified herself.", "bn": "সে নিজেকে পরিচয় দিল।" },
+      {
+        "en": "Identify the errors in the text.",
+        "bn": "লেখায় ভুলগুলো চিহ্নিত করো।"
+      },
+      {
+        "en": "They identified the missing child.",
+        "bn": "তারা নিখোঁজ শিশুটিকে শনাক্ত করল।"
+      }
+    ],
+    "synonyms": ["recognize", "detect", "distinguish"]
+  },
+  {
+    "base": "ignore",
+    "phonetic": "ɪɡˈnɔːr",
+    "meaning": "উপেক্ষা করা / এড়িয়ে যাওয়া",
+    "examples": [
+      {
+        "en": "Do not ignore your health.",
+        "bn": "তোমার স্বাস্থ্য উপেক্ষা করো না।"
+      },
+      { "en": "She ignored his advice.", "bn": "সে তার পরামর্শ উপেক্ষা করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He ignored the warning signs.",
+        "bn": "সে সতর্কতার চিহ্নগুলো উপেক্ষা করল।"
+      },
+      { "en": "They ignored the rules.", "bn": "তারা নিয়মগুলো উপেক্ষা করল।" },
+      { "en": "She ignored the noise.", "bn": "সে শব্দটি উপেক্ষা করল।" },
+      {
+        "en": "Ignore negative comments.",
+        "bn": "নেতিবাচক মন্তব্য উপেক্ষা করো।"
+      },
+      {
+        "en": "He ignored her completely.",
+        "bn": "সে তাকে সম্পূর্ণভাবে উপেক্ষা করল।"
+      },
+      { "en": "She ignored the problem.", "bn": "সে সমস্যাটি এড়িয়ে গেল।" },
+      {
+        "en": "Do not ignore your studies.",
+        "bn": "তোমার পড়াশোনা উপেক্ষা করো না।"
+      },
+      { "en": "He ignored the phone call.", "bn": "সে ফোন কলটি উপেক্ষা করল।" },
+      { "en": "They ignored the danger.", "bn": "তারা বিপদটি উপেক্ষা করল।" },
+      { "en": "She ignored his feelings.", "bn": "সে তার অনুভূতি উপেক্ষা করল।" }
+    ],
+    "synonyms": ["neglect", "overlook", "disregard"]
+  },
+  {
+    "base": "illustrate",
+    "phonetic": "ɪˈlʌstreɪt",
+    "meaning": "চিত্রিত করা / উদাহরণ দেওয়া",
+    "examples": [
+      { "en": "He illustrated the book.", "bn": "সে বইটি চিত্রিত করল।" },
+      {
+        "en": "She illustrated her point.",
+        "bn": "সে তার বক্তব্য উদাহরণ দিয়ে বোঝাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Illustrate your ideas clearly.",
+        "bn": "তোমার ধারণাগুলো স্পষ্টভাবে চিত্রিত করো।"
+      },
+      {
+        "en": "The chart illustrates the data.",
+        "bn": "চার্টটি তথ্য চিত্রিত করে।"
+      },
+      { "en": "He illustrated the concept.", "bn": "সে ধারণাটি চিত্রিত করল।" },
+      {
+        "en": "She illustrated with examples.",
+        "bn": "সে উদাহরণ দিয়ে বোঝাল।"
+      },
+      {
+        "en": "The diagram illustrates the process.",
+        "bn": "চিত্রটি প্রক্রিয়াটি চিত্রিত করে।"
+      },
+      { "en": "He illustrated the story.", "bn": "সে গল্পটি চিত্রিত করল।" },
+      {
+        "en": "Illustrate the differences.",
+        "bn": "পার্থক্যগুলো চিত্রিত করো।"
+      },
+      {
+        "en": "She illustrated the lesson.",
+        "bn": "সে পাঠটি উদাহরণ দিয়ে বোঝাল।"
+      },
+      {
+        "en": "The picture illustrates peace.",
+        "bn": "ছবিটি শান্তি চিত্রিত করে।"
+      },
+      {
+        "en": "He illustrated his argument.",
+        "bn": "সে তার যুক্তি চিত্রিত করল।"
+      }
+    ],
+    "synonyms": ["demonstrate", "depict", "show"]
+  },
+  {
+    "base": "implement",
+    "phonetic": "ˈɪmplɪment",
+    "meaning": "বাস্তবায়ন করা / কার্যকর করা",
+    "examples": [
+      {
+        "en": "We must implement the plan.",
+        "bn": "আমাদের পরিকল্পনাটি বাস্তবায়ন করতে হবে।"
+      },
+      {
+        "en": "They implemented new rules.",
+        "bn": "তারা নতুন নিয়ম কার্যকর করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Implement the strategy now.",
+        "bn": "এখনই কৌশলটি বাস্তবায়ন করো।"
+      },
+      {
+        "en": "She implemented the changes.",
+        "bn": "সে পরিবর্তনগুলো বাস্তবায়ন করল।"
+      },
+      {
+        "en": "He implemented the decision.",
+        "bn": "সে সিদ্ধান্তটি কার্যকর করল।"
+      },
+      {
+        "en": "The school implemented new rules.",
+        "bn": "বিদ্যালয় নতুন নিয়ম কার্যকর করল।"
+      },
+      {
+        "en": "They implemented the project.",
+        "bn": "তারা প্রকল্পটি বাস্তবায়ন করল।"
+      },
+      {
+        "en": "Implement your ideas wisely.",
+        "bn": "বুদ্ধিমানের সাথে তোমার ধারণাগুলো বাস্তবায়ন করো।"
+      },
+      { "en": "The policy was implemented.", "bn": "নীতিটি কার্যকর করা হলো।" },
+      {
+        "en": "She implemented a new system.",
+        "bn": "সে একটি নতুন ব্যবস্থা বাস্তবায়ন করল।"
+      },
+      { "en": "Implement the feedback.", "bn": "মতামতটি বাস্তবায়ন করো।" },
+      {
+        "en": "They implemented safety measures.",
+        "bn": "তারা নিরাপত্তা ব্যবস্থা কার্যকর করল।"
+      }
+    ],
+    "synonyms": ["execute", "apply", "enforce"]
+  },
+  {
+    "base": "impress",
+    "phonetic": "ɪmˈpres",
+    "meaning": "মুগ্ধ করা / প্রভাবিত করা",
+    "examples": [
+      { "en": "She impressed everyone.", "bn": "সে সবাইকে মুগ্ধ করল।" },
+      {
+        "en": "He tried to impress her.",
+        "bn": "সে তাকে মুগ্ধ করার চেষ্টা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The performance impressed us.",
+        "bn": "পারফরম্যান্সটি আমাদের মুগ্ধ করল।"
+      },
+      {
+        "en": "Impress your boss with your work.",
+        "bn": "তোমার কাজ দিয়ে বসকে মুগ্ধ করো।"
+      },
+      {
+        "en": "She was impressed by his speech.",
+        "bn": "সে তার বক্তৃতায় মুগ্ধ হলো।"
+      },
+      { "en": "He impressed the judges.", "bn": "সে বিচারকদের মুগ্ধ করল।" },
+      {
+        "en": "The results impressed everyone.",
+        "bn": "ফলাফল সবাইকে মুগ্ধ করল।"
+      },
+      {
+        "en": "She impressed with her talent.",
+        "bn": "সে তার প্রতিভা দিয়ে মুগ্ধ করল।"
+      },
+      { "en": "He was deeply impressed.", "bn": "সে গভীরভাবে মুগ্ধ হলো।" },
+      {
+        "en": "Impress others by being kind.",
+        "bn": "দয়ালু হয়ে অন্যদের মুগ্ধ করো।"
+      },
+      {
+        "en": "The building impressed visitors.",
+        "bn": "ভবনটি দর্শনার্থীদের মুগ্ধ করল।"
+      },
+      { "en": "She impressed the audience.", "bn": "সে দর্শকদের মুগ্ধ করল।" }
+    ],
+    "synonyms": ["amaze", "astonish", "influence"]
+  },
+  {
+    "base": "invest",
+    "phonetic": "ɪnˈvest",
+    "meaning": "বিনিয়োগ করা",
+    "examples": [
+      {
+        "en": "He decided to invest money.",
+        "bn": "সে অর্থ বিনিয়োগ করার সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "Invest in your education.",
+        "bn": "তোমার শিক্ষায় বিনিয়োগ করো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She invested in a new business.",
+        "bn": "সে একটি নতুন ব্যবসায় বিনিয়োগ করল।"
+      },
+      {
+        "en": "Invest your time wisely.",
+        "bn": "তোমার সময় বুদ্ধিমানের সাথে বিনিয়োগ করো।"
+      },
+      {
+        "en": "He invested in the stock market.",
+        "bn": "সে শেয়ার বাজারে বিনিয়োগ করল।"
+      },
+      {
+        "en": "They invested in real estate.",
+        "bn": "তারা রিয়েল এস্টেটে বিনিয়োগ করল।"
+      },
+      {
+        "en": "Invest in your health.",
+        "bn": "তোমার স্বাস্থ্যে বিনিয়োগ করো।"
+      },
+      {
+        "en": "She invested her savings.",
+        "bn": "সে তার সঞ্চয় বিনিয়োগ করল।"
+      },
+      {
+        "en": "He invested in his future.",
+        "bn": "সে তার ভবিষ্যতে বিনিয়োগ করল।"
+      },
+      {
+        "en": "Invest in good relationships.",
+        "bn": "ভালো সম্পর্কে বিনিয়োগ করো।"
+      },
+      {
+        "en": "They invested in technology.",
+        "bn": "তারা প্রযুক্তিতে বিনিয়োগ করল।"
+      },
+      {
+        "en": "Invest early for better returns.",
+        "bn": "ভালো ফলাফলের জন্য তাড়াতাড়ি বিনিয়োগ করো।"
+      }
+    ],
+    "synonyms": ["fund", "finance", "spend"]
+  },
+  {
+    "base": "invite",
+    "phonetic": "ɪnˈvaɪt",
+    "meaning": "আমন্ত্রণ জানানো",
+    "examples": [
+      {
+        "en": "She invited me to her party.",
+        "bn": "সে আমাকে তার পার্টিতে আমন্ত্রণ জানাল।"
+      },
+      {
+        "en": "He invited all his friends.",
+        "bn": "সে তার সব বন্ধুদের আমন্ত্রণ জানাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Invite your neighbors too.",
+        "bn": "তোমার প্রতিবেশীদেরও আমন্ত্রণ জানাও।"
+      },
+      {
+        "en": "She was invited to speak.",
+        "bn": "তাকে বক্তৃতা দিতে আমন্ত্রণ জানানো হলো।"
+      },
+      {
+        "en": "They invited us for dinner.",
+        "bn": "তারা আমাদের রাতের খাবারের জন্য আমন্ত্রণ জানাল।"
+      },
+      {
+        "en": "He invited her to dance.",
+        "bn": "সে তাকে নাচের জন্য আমন্ত্রণ জানাল।"
+      },
+      {
+        "en": "Invite everyone to the event.",
+        "bn": "অনুষ্ঠানে সবাইকে আমন্ত্রণ জানাও।"
+      },
+      { "en": "She invited trouble.", "bn": "সে সমস্যাকে আমন্ত্রণ জানাল।" },
+      {
+        "en": "He was invited to the wedding.",
+        "bn": "তাকে বিয়েতে আমন্ত্রণ জানানো হলো।"
+      },
+      {
+        "en": "Invite feedback from students.",
+        "bn": "শিক্ষার্থীদের মতামতের জন্য আমন্ত্রণ জানাও।"
+      },
+      {
+        "en": "She invited her family.",
+        "bn": "সে তার পরিবারকে আমন্ত্রণ জানাল।"
+      },
+      {
+        "en": "They invited the guest speaker.",
+        "bn": "তারা অতিথি বক্তাকে আমন্ত্রণ জানাল।"
+      }
+    ],
+    "synonyms": ["call", "welcome", "summon"]
+  },
+  {
+    "base": "isolate",
+    "phonetic": "ˈaɪsəleɪt",
+    "meaning": "বিচ্ছিন্ন করা / আলাদা করা",
+    "examples": [
+      {
+        "en": "They isolated the patient.",
+        "bn": "তারা রোগীকে বিচ্ছিন্ন করল।"
+      },
+      { "en": "Do not isolate yourself.", "bn": "নিজেকে আলাদা করো না।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He felt isolated from others.",
+        "bn": "সে অন্যদের থেকে বিচ্ছিন্ন অনুভব করল।"
+      },
+      {
+        "en": "Isolate the problem first.",
+        "bn": "প্রথমে সমস্যাটি আলাদা করো।"
+      },
+      {
+        "en": "She isolated herself at home.",
+        "bn": "সে ঘরে নিজেকে আলাদা করল।"
+      },
+      { "en": "The village was isolated.", "bn": "গ্রামটি বিচ্ছিন্ন ছিল।" },
+      { "en": "Isolate the infected area.", "bn": "সংক্রমিত এলাকা আলাদা করো।" },
+      { "en": "He isolated the cause.", "bn": "সে কারণটি আলাদা করল।" },
+      {
+        "en": "The storm isolated the town.",
+        "bn": "ঝড় শহরটিকে বিচ্ছিন্ন করল।"
+      },
+      {
+        "en": "She felt isolated and lonely.",
+        "bn": "সে বিচ্ছিন্ন ও একাকী অনুভব করল।"
+      },
+      { "en": "Isolate the variables.", "bn": "চলকগুলো আলাদা করো।" },
+      {
+        "en": "They isolated the chemical.",
+        "bn": "তারা রাসায়নিকটি আলাদা করল।"
+      }
+    ],
+    "synonyms": ["separate", "detach", "seclude"]
+  },
+  {
+    "base": "interpret",
+    "phonetic": "ɪnˈtɜːrprɪt",
+    "meaning": "ব্যাখ্যা করা / অনুবাদ করা",
+    "examples": [
+      {
+        "en": "Can you interpret this poem?",
+        "bn": "তুমি কি এই কবিতাটি ব্যাখ্যা করতে পারো?"
+      },
+      { "en": "She interpreted his words.", "bn": "সে তার কথার ব্যাখ্যা করল।" }
+    ],
+    "moreexample": [
+      { "en": "He interpreted the law.", "bn": "সে আইনটি ব্যাখ্যা করল।" },
+      {
+        "en": "Interpret the data carefully.",
+        "bn": "তথ্যটি সাবধানে ব্যাখ্যা করো।"
+      },
+      { "en": "She interpreted the dream.", "bn": "সে স্বপ্নটি ব্যাখ্যা করল।" },
+      {
+        "en": "He interpreted the results.",
+        "bn": "সে ফলাফলগুলো ব্যাখ্যা করল।"
+      },
+      {
+        "en": "Interpret the signs correctly.",
+        "bn": "চিহ্নগুলো সঠিকভাবে ব্যাখ্যা করো।"
+      },
+      { "en": "She interpreted the speech.", "bn": "সে বক্তৃতাটি অনুবাদ করল।" },
+      {
+        "en": "They interpreted the findings.",
+        "bn": "তারা ফলাফলগুলো ব্যাখ্যা করল।"
+      },
+      {
+        "en": "He interpreted her silence.",
+        "bn": "সে তার নীরবতার ব্যাখ্যা করল।"
+      },
+      {
+        "en": "Interpret the chart accurately.",
+        "bn": "চার্টটি সঠিকভাবে ব্যাখ্যা করো।"
+      },
+      {
+        "en": "She interpreted his emotions.",
+        "bn": "সে তার আবেগ ব্যাখ্যা করল।"
+      }
+    ],
+    "synonyms": ["explain", "translate", "analyze"]
+  },
+  {
+    "base": "interrupt",
+    "phonetic": "ˌɪntəˈrʌpt",
+    "meaning": "বাধা দেওয়া / থামিয়ে দেওয়া",
+    "examples": [
+      { "en": "Do not interrupt me.", "bn": "আমাকে বাধা দিও না।" },
+      { "en": "He interrupted the meeting.", "bn": "সে মিটিংয়ে বাধা দিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She interrupted his speech.",
+        "bn": "সে তার বক্তৃতায় বাধা দিল।"
+      },
+      { "en": "The noise interrupted us.", "bn": "শব্দটি আমাদের বাধা দিল।" },
+      { "en": "Do not interrupt others.", "bn": "অন্যদের বাধা দিও না।" },
+      { "en": "He interrupted the class.", "bn": "সে ক্লাসে বাধা দিল।" },
+      {
+        "en": "The call interrupted her work.",
+        "bn": "কলটি তার কাজে বাধা দিল।"
+      },
+      { "en": "She interrupted rudely.", "bn": "সে অভদ্রভাবে বাধা দিল।" },
+      {
+        "en": "The power cut interrupted us.",
+        "bn": "বিদ্যুৎ বিভ্রাট আমাদের বাধা দিল।"
+      },
+      { "en": "He interrupted her sentence.", "bn": "সে তার বাক্যে বাধা দিল।" },
+      {
+        "en": "Interrupt only when necessary.",
+        "bn": "শুধুমাত্র প্রয়োজনে বাধা দাও।"
+      },
+      {
+        "en": "They interrupted the program.",
+        "bn": "তারা অনুষ্ঠানে বাধা দিল।"
+      }
+    ],
+    "synonyms": ["disturb", "break", "interfere"]
+  },
+
+  {
+    "base": "ignore",
+    "phonetic": "ɪɡˈnɔːr",
+    "meaning": "উপেক্ষা করা / এড়িয়ে যাওয়া",
+    "examples": [
+      { "en": "She ignored his advice.", "bn": "সে তার পরামর্শ উপেক্ষা করল।" },
+      {
+        "en": "He ignored the warning signs.",
+        "bn": "সে সতর্কতার চিহ্নগুলো এড়িয়ে গেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Don't ignore your health.",
+        "bn": "তোমার স্বাস্থ্য উপেক্ষা করো না।"
+      },
+      {
+        "en": "She ignored the noise outside.",
+        "bn": "সে বাইরের শোরগোল উপেক্ষা করল।"
+      },
+      { "en": "He ignored her calls.", "bn": "সে তার ফোন কলগুলো এড়িয়ে গেল।" },
+      { "en": "They ignored the rules.", "bn": "তারা নিয়মগুলো উপেক্ষা করল।" },
+      {
+        "en": "I ignored the rude comment.",
+        "bn": "আমি অভদ্র মন্তব্যটি উপেক্ষা করলাম।"
+      },
+      {
+        "en": "She ignored the problem for too long.",
+        "bn": "সে অনেকদিন ধরে সমস্যাটি এড়িয়ে গেছে।"
+      },
+      {
+        "en": "He felt ignored by his friends.",
+        "bn": "সে তার বন্ধুদের দ্বারা উপেক্ষিত অনুভব করল।"
+      },
+      {
+        "en": "They ignored the teacher's instructions.",
+        "bn": "তারা শিক্ষকের নির্দেশনা উপেক্ষা করল।"
+      },
+      {
+        "en": "She tried to ignore her fear.",
+        "bn": "সে তার ভয় উপেক্ষা করার চেষ্টা করল।"
+      },
+      {
+        "en": "Ignoring the issue will not solve it.",
+        "bn": "সমস্যাটি উপেক্ষা করলে তা সমাধান হবে না।"
+      }
+    ],
+    "synonyms": ["disregard", "overlook", "neglect", "dismiss", "bypass"]
+  },
+  {
+    "base": "illustrate",
+    "phonetic": "ˈɪləstreɪt",
+    "meaning": "চিত্রিত করা / উদাহরণ দেওয়া",
+    "examples": [
+      {
+        "en": "She illustrated the story with pictures.",
+        "bn": "সে গল্পটি ছবি দিয়ে চিত্রিত করল।"
+      },
+      {
+        "en": "He used a chart to illustrate his point.",
+        "bn": "সে তার বক্তব্য বোঝাতে একটি চার্ট ব্যবহার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The teacher illustrated the concept clearly.",
+        "bn": "শিক্ষক ধারণাটি স্পষ্টভাবে চিত্রিত করলেন।"
+      },
+      {
+        "en": "He illustrated the book himself.",
+        "bn": "সে নিজেই বইটি চিত্রিত করল।"
+      },
+      {
+        "en": "She used examples to illustrate her argument.",
+        "bn": "সে তার যুক্তি বোঝাতে উদাহরণ ব্যবহার করল।"
+      },
+      {
+        "en": "The diagram illustrates the process.",
+        "bn": "ডায়াগ্রামটি প্রক্রিয়াটি চিত্রিত করে।"
+      },
+      {
+        "en": "He illustrated his speech with data.",
+        "bn": "সে তার বক্তৃতাকে তথ্য দিয়ে তুলে ধরল।"
+      },
+      {
+        "en": "The map illustrates the route.",
+        "bn": "মানচিত্রটি পথটি দেখায়।"
+      },
+      {
+        "en": "She illustrated the children's book.",
+        "bn": "সে শিশুদের বইটি চিত্রিত করল।"
+      },
+      {
+        "en": "This example illustrates the rule well.",
+        "bn": "এই উদাহরণটি নিয়মটি ভালোভাবে ব্যাখ্যা করে।"
+      },
+      {
+        "en": "He illustrated his idea on a whiteboard.",
+        "bn": "সে হোয়াইটবোর্ডে তার ধারণা এঁকে দেখাল।"
+      },
+      {
+        "en": "The photos illustrate the damage.",
+        "bn": "ছবিগুলো ক্ষয়ক্ষতি দেখায়।"
+      }
+    ],
+    "synonyms": ["depict", "demonstrate", "show", "explain", "portray"]
+  },
+  {
+    "base": "imagination",
+    "phonetic": "ɪˌmædʒɪˈneɪʃn",
+    "meaning": "কল্পনাশক্তি",
+    "examples": [
+      {
+        "en": "Children have a wild imagination.",
+        "bn": "শিশুদের উদ্দাম কল্পনাশক্তি থাকে।"
+      },
+      {
+        "en": "She used her imagination to write the story.",
+        "bn": "সে গল্পটি লিখতে তার কল্পনাশক্তি ব্যবহার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Use your imagination freely.",
+        "bn": "তোমার কল্পনাশক্তি স্বাধীনভাবে ব্যবহার করো।"
+      },
+      {
+        "en": "His imagination knew no limits.",
+        "bn": "তার কল্পনাশক্তির কোনো সীমা ছিল না।"
+      },
+      {
+        "en": "Imagination leads to great inventions.",
+        "bn": "কল্পনাশক্তি মহান আবিষ্কারের দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "She had a vivid imagination.",
+        "bn": "তার একটি প্রাণবন্ত কল্পনাশক্তি ছিল।"
+      },
+      {
+        "en": "It was just a product of his imagination.",
+        "bn": "এটি শুধু তার কল্পনার ফল ছিল।"
+      },
+      {
+        "en": "Reading develops the imagination.",
+        "bn": "পড়া কল্পনাশক্তি বিকাশ করে।"
+      },
+      { "en": "His imagination ran wild.", "bn": "তার কল্পনা অবাধে ছুটে চলল।" },
+      {
+        "en": "She captured the imagination of the audience.",
+        "bn": "সে দর্শকদের কল্পনাকে মুগ্ধ করল।"
+      },
+      {
+        "en": "Imagination is key to creativity.",
+        "bn": "কল্পনাশক্তি সৃজনশীলতার চাবিকাঠি।"
+      },
+      {
+        "en": "The story sparked his imagination.",
+        "bn": "গল্পটি তার কল্পনাকে জাগিয়ে তুলল।"
+      }
+    ],
+    "synonyms": [
+      "creativity",
+      "fantasy",
+      "vision",
+      "inventiveness",
+      "originality"
+    ]
+  },
+  {
+    "base": "imitate",
+    "phonetic": "ˈɪmɪteɪt",
+    "meaning": "অনুকরণ করা / নকল করা",
+    "examples": [
+      {
+        "en": "Children often imitate their parents.",
+        "bn": "শিশুরা প্রায়ই তাদের বাবা-মাকে অনুকরণ করে।"
+      },
+      {
+        "en": "He imitated the teacher's voice.",
+        "bn": "সে শিক্ষকের কণ্ঠস্বর নকল করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She imitated the bird's song.", "bn": "সে পাখির গান নকল করল।" },
+      {
+        "en": "Don't just imitate, be original.",
+        "bn": "শুধু অনুকরণ করো না, মৌলিক হও।"
+      },
+      {
+        "en": "He can imitate any accent.",
+        "bn": "সে যেকোনো উচ্চারণ নকল করতে পারে।"
+      },
+      {
+        "en": "She imitated the comedian perfectly.",
+        "bn": "সে কমেডিয়ানকে নিখুঁতভাবে অনুকরণ করল।"
+      },
+      {
+        "en": "The student imitated the writing style.",
+        "bn": "ছাত্রটি লেখার ধরন অনুকরণ করল।"
+      },
+      {
+        "en": "Animals imitate sounds to survive.",
+        "bn": "প্রাণীরা বেঁচে থাকার জন্য শব্দ নকল করে।"
+      },
+      {
+        "en": "He imitated the dance moves.",
+        "bn": "সে নাচের ভঙ্গিগুলো অনুকরণ করল।"
+      },
+      {
+        "en": "She imitated his handwriting.",
+        "bn": "সে তার হাতের লেখা নকল করল।"
+      },
+      {
+        "en": "The parrot imitated her words.",
+        "bn": "টিয়াপাখিটি তার কথা নকল করল।"
+      },
+      {
+        "en": "He tried to imitate a professional singer.",
+        "bn": "সে একজন পেশাদার গায়ককে অনুকরণ করার চেষ্টা করল।"
+      }
+    ],
+    "synonyms": ["copy", "mimic", "replicate", "impersonate", "simulate"]
+  },
+  {
+    "base": "immediate",
+    "phonetic": "ɪˈmiːdiət",
+    "meaning": "তাৎক্ষণিক / অবিলম্বে",
+    "examples": [
+      {
+        "en": "We need immediate help.",
+        "bn": "আমাদের তাৎক্ষণিক সাহায্য দরকার।"
+      },
+      {
+        "en": "She gave an immediate response.",
+        "bn": "সে তাৎক্ষণিক সাড়া দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The doctor required immediate attention.",
+        "bn": "ডাক্তারের তাৎক্ষণিক মনোযোগ প্রয়োজন ছিল।"
+      },
+      { "en": "He took immediate action.", "bn": "সে তাৎক্ষণিক পদক্ষেপ নিল।" },
+      { "en": "The effect was immediate.", "bn": "প্রভাবটি তাৎক্ষণিক ছিল।" },
+      {
+        "en": "She called for immediate support.",
+        "bn": "সে তাৎক্ষণিক সহায়তার জন্য ডাক দিল।"
+      },
+      { "en": "There was an immediate danger.", "bn": "তাৎক্ষণিক বিপদ ছিল।" },
+      {
+        "en": "He needed immediate rest.",
+        "bn": "তার তাৎক্ষণিক বিশ্রামের প্রয়োজন ছিল।"
+      },
+      {
+        "en": "The fire required immediate response.",
+        "bn": "আগুনের জন্য তাৎক্ষণিক সাড়া প্রয়োজন ছিল।"
+      },
+      {
+        "en": "She made an immediate decision.",
+        "bn": "সে তাৎক্ষণিক সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "The news had an immediate impact.",
+        "bn": "সংবাদটির তাৎক্ষণিক প্রভাব ছিল।"
+      },
+      {
+        "en": "He asked for an immediate answer.",
+        "bn": "সে তাৎক্ষণিক উত্তর চাইল।"
+      }
+    ],
+    "synonyms": ["instant", "prompt", "urgent", "direct", "swift"]
+  },
+  {
+    "base": "impact",
+    "phonetic": "ˈɪmpækt",
+    "meaning": "প্রভাব / আঘাত",
+    "examples": [
+      {
+        "en": "The news had a big impact on her.",
+        "bn": "সংবাদটি তার উপর বড় প্রভাব ফেলল।"
+      },
+      {
+        "en": "Technology has a huge impact on society.",
+        "bn": "প্রযুক্তি সমাজে ব্যাপক প্রভাব ফেলে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The earthquake had a devastating impact.",
+        "bn": "ভূমিকম্পটির ভয়াবহ প্রভাব পড়েছিল।"
+      },
+      {
+        "en": "She made a positive impact on others.",
+        "bn": "সে অন্যদের উপর ইতিবাচক প্রভাব ফেলেছে।"
+      },
+      {
+        "en": "The decision impacted everyone.",
+        "bn": "সিদ্ধান্তটি সবাইকে প্রভাবিত করেছিল।"
+      },
+      {
+        "en": "He felt the impact of the loss.",
+        "bn": "সে ক্ষতির প্রভাব অনুভব করল।"
+      },
+      {
+        "en": "The campaign had a lasting impact.",
+        "bn": "প্রচারণাটির দীর্ঘস্থায়ী প্রভাব ছিল।"
+      },
+      {
+        "en": "Climate change has a global impact.",
+        "bn": "জলবায়ু পরিবর্তনের বৈশ্বিক প্রভাব রয়েছে।"
+      },
+      {
+        "en": "The book had a strong impact on readers.",
+        "bn": "বইটি পাঠকদের উপর শক্তিশালী প্রভাব ফেলেছিল।"
+      },
+      {
+        "en": "She analyzed the impact of the policy.",
+        "bn": "সে নীতিমালার প্রভাব বিশ্লেষণ করল।"
+      },
+      {
+        "en": "The impact of the crash was severe.",
+        "bn": "সংঘর্ষের আঘাত ছিল মারাত্মক।"
+      },
+      {
+        "en": "His words had a deep impact on me.",
+        "bn": "তার কথাগুলো আমার উপর গভীর প্রভাব ফেলেছিল।"
+      }
+    ],
+    "synonyms": ["effect", "influence", "consequence", "impression", "force"]
+  },
+  {
+    "base": "improve",
+    "phonetic": "ɪmˈpruːv",
+    "meaning": "উন্নত করা / উন্নতি করা",
+    "examples": [
+      {
+        "en": "She worked hard to improve her English.",
+        "bn": "সে তার ইংরেজি উন্নত করতে কঠোর পরিশ্রম করল।"
+      },
+      {
+        "en": "He improved his skills over time.",
+        "bn": "সে সময়ের সাথে সাথে তার দক্ষতা উন্নত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They improved the road conditions.",
+        "bn": "তারা রাস্তার অবস্থার উন্নতি করেছে।"
+      },
+      { "en": "She improved her diet.", "bn": "সে তার খাদ্যাভ্যাস উন্নত করল।" },
+      {
+        "en": "He improved the design of the product.",
+        "bn": "সে পণ্যের নকশা উন্নত করল।"
+      },
+      {
+        "en": "The student improved his grades.",
+        "bn": "ছাত্রটি তার নম্বর উন্নত করল।"
+      },
+      {
+        "en": "Exercise improves your health.",
+        "bn": "ব্যায়াম তোমার স্বাস্থ্য উন্নত করে।"
+      },
+      {
+        "en": "She improved her cooking skills.",
+        "bn": "সে তার রান্নার দক্ষতা উন্নত করল।"
+      },
+      {
+        "en": "The company improved its services.",
+        "bn": "কোম্পানি তার সেবা উন্নত করেছে।"
+      },
+      {
+        "en": "His writing improved greatly.",
+        "bn": "তার লেখার উল্লেখযোগ্য উন্নতি হয়েছে।"
+      },
+      {
+        "en": "They improved the system step by step.",
+        "bn": "তারা ধাপে ধাপে সিস্টেমের উন্নতি করেছে।"
+      },
+      {
+        "en": "Reading improves vocabulary.",
+        "bn": "পড়া শব্দভান্ডার উন্নত করে।"
+      }
+    ],
+    "synonyms": ["enhance", "develop", "upgrade", "advance", "better"]
+  },
+  {
+    "base": "include",
+    "phonetic": "ɪnˈkluːd",
+    "meaning": "অন্তর্ভুক্ত করা / যোগ করা",
+    "examples": [
+      {
+        "en": "Please include your name in the form.",
+        "bn": "ফর্মে আপনার নাম অন্তর্ভুক্ত করুন।"
+      },
+      { "en": "The price includes tax.", "bn": "মূল্যের মধ্যে কর অন্তর্ভুক্ত।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She included everyone in the plan.",
+        "bn": "সে পরিকল্পনায় সবাইকে অন্তর্ভুক্ত করল।"
+      },
+      {
+        "en": "He included a chart in his report.",
+        "bn": "সে তার প্রতিবেদনে একটি চার্ট যোগ করল।"
+      },
+      {
+        "en": "The list includes 20 items.",
+        "bn": "তালিকায় ২০টি আইটেম অন্তর্ভুক্ত আছে।"
+      },
+      {
+        "en": "She was included in the team.",
+        "bn": "সে দলে অন্তর্ভুক্ত হয়েছিল।"
+      },
+      {
+        "en": "The package includes free delivery.",
+        "bn": "প্যাকেজে বিনামূল্যে ডেলিভারি অন্তর্ভুক্ত।"
+      },
+      {
+        "en": "He included a photo with his letter.",
+        "bn": "সে চিঠির সাথে একটি ছবি যুক্ত করল।"
+      },
+      {
+        "en": "The meal includes dessert.",
+        "bn": "খাবারে ডেজার্ট অন্তর্ভুক্ত।"
+      },
+      {
+        "en": "They included new rules in the guide.",
+        "bn": "তারা গাইডে নতুন নিয়ম অন্তর্ভুক্ত করেছে।"
+      },
+      {
+        "en": "She included her contact details.",
+        "bn": "সে তার যোগাযোগের তথ্য অন্তর্ভুক্ত করল।"
+      },
+      {
+        "en": "The fee includes all materials.",
+        "bn": "ফিতে সমস্ত উপকরণ অন্তর্ভুক্ত।"
+      }
+    ],
+    "synonyms": ["incorporate", "add", "involve", "contain", "encompass"]
+  },
+  {
+    "base": "income",
+    "phonetic": "ˈɪnkʌm",
+    "meaning": "আয় / উপার্জন",
+    "examples": [
+      {
+        "en": "His income increased this year.",
+        "bn": "এ বছর তার আয় বেড়েছে।"
+      },
+      {
+        "en": "She saves part of her income every month.",
+        "bn": "সে প্রতি মাসে তার আয়ের একটি অংশ সঞ্চয় করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He has a low income.", "bn": "তার আয় কম।" },
+      { "en": "She needs a steady income.", "bn": "তার একটি স্থির আয় দরকার।" },
+      {
+        "en": "Their income comes from farming.",
+        "bn": "তাদের আয় কৃষিকাজ থেকে আসে।"
+      },
+      {
+        "en": "He reported his income to the tax office.",
+        "bn": "সে কর অফিসে তার আয় জানাল।"
+      },
+      {
+        "en": "Her income doubled after the promotion.",
+        "bn": "পদোন্নতির পরে তার আয় দ্বিগুণ হয়েছে।"
+      },
+      {
+        "en": "They live on a fixed income.",
+        "bn": "তারা নির্দিষ্ট আয়ে জীবনযাপন করে।"
+      },
+      {
+        "en": "Income tax must be paid every year.",
+        "bn": "প্রতি বছর আয়কর দিতে হয়।"
+      },
+      {
+        "en": "He has multiple sources of income.",
+        "bn": "তার আয়ের একাধিক উৎস আছে।"
+      },
+      {
+        "en": "She manages her income wisely.",
+        "bn": "সে তার আয় বুদ্ধিমত্তার সাথে পরিচালনা করে।"
+      },
+      {
+        "en": "The family's income was not enough.",
+        "bn": "পরিবারের আয় পর্যাপ্ত ছিল না।"
+      }
+    ],
+    "synonyms": ["earnings", "salary", "wages", "revenue", "pay"]
+  },
+  {
+    "base": "increase",
+    "phonetic": "ɪnˈkriːs",
+    "meaning": "বৃদ্ধি পাওয়া / বাড়ানো",
+    "examples": [
+      {
+        "en": "Prices are increasing every day.",
+        "bn": "দাম প্রতিদিন বাড়ছে।"
+      },
+      { "en": "She increased her speed.", "bn": "সে তার গতি বাড়াল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He increased his study hours.",
+        "bn": "সে তার পড়ার সময় বাড়াল।"
+      },
+      {
+        "en": "The population is increasing rapidly.",
+        "bn": "জনসংখ্যা দ্রুত বাড়ছে।"
+      },
+      { "en": "She increased her savings.", "bn": "সে তার সঞ্চয় বাড়াল।" },
+      {
+        "en": "The temperature increased sharply.",
+        "bn": "তাপমাত্রা হঠাৎ বেড়ে গেল।"
+      },
+      {
+        "en": "He increased the volume of the music.",
+        "bn": "সে সঙ্গীতের ভলিউম বাড়াল।"
+      },
+      {
+        "en": "The company increased its profit.",
+        "bn": "কোম্পানি তার মুনাফা বাড়িয়েছে।"
+      },
+      {
+        "en": "Demand increased after the advertisement.",
+        "bn": "বিজ্ঞাপনের পরে চাহিদা বেড়েছে।"
+      },
+      {
+        "en": "They increased the budget for education.",
+        "bn": "তারা শিক্ষার বাজেট বাড়িয়েছে।"
+      },
+      {
+        "en": "The number of students increased.",
+        "bn": "শিক্ষার্থীর সংখ্যা বেড়েছে।"
+      },
+      {
+        "en": "She increased her effort to succeed.",
+        "bn": "সফল হতে সে তার প্রচেষ্টা বাড়াল।"
+      }
+    ],
+    "synonyms": ["grow", "rise", "expand", "boost", "escalate"]
+  },
+  {
+    "base": "influence",
+    "phonetic": "ˈɪnfluəns",
+    "meaning": "প্রভাব / প্রভাবিত করা",
+    "examples": [
+      {
+        "en": "Parents influence their children greatly.",
+        "bn": "বাবা-মা তাদের সন্তানদের উপর অনেক প্রভাব ফেলেন।"
+      },
+      {
+        "en": "She had a strong influence on his life.",
+        "bn": "তার জীবনে সে একটি শক্তিশালী প্রভাব ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Books can influence the way we think.",
+        "bn": "বই আমাদের চিন্তার ধরন প্রভাবিত করতে পারে।"
+      },
+      {
+        "en": "He was influenced by his mentor.",
+        "bn": "সে তার গুরু দ্বারা প্রভাবিত হয়েছিল।"
+      },
+      {
+        "en": "Media has great influence on society.",
+        "bn": "মিডিয়ার সমাজে ব্যাপক প্রভাব রয়েছে।"
+      },
+      {
+        "en": "She used her influence to help others.",
+        "bn": "সে অন্যদের সাহায্য করতে তার প্রভাব ব্যবহার করল।"
+      },
+      {
+        "en": "His music influenced a whole generation.",
+        "bn": "তার সঙ্গীত একটি পুরো প্রজন্মকে প্রভাবিত করেছিল।"
+      },
+      {
+        "en": "The weather influenced their decision.",
+        "bn": "আবহাওয়া তাদের সিদ্ধান্তকে প্রভাবিত করল।"
+      },
+      {
+        "en": "She is a person of great influence.",
+        "bn": "সে বড় প্রভাবশালী একজন মানুষ।"
+      },
+      {
+        "en": "Peer pressure influences teenagers.",
+        "bn": "সহকর্মীর চাপ কিশোরদের প্রভাবিত করে।"
+      },
+      {
+        "en": "He has a positive influence on the team.",
+        "bn": "দলের উপর তার ইতিবাচক প্রভাব আছে।"
+      },
+      {
+        "en": "Culture influences our habits.",
+        "bn": "সংস্কৃতি আমাদের অভ্যাসকে প্রভাবিত করে।"
+      }
+    ],
+    "synonyms": ["impact", "effect", "authority", "power", "sway"]
+  },
+  {
+    "base": "inform",
+    "phonetic": "ɪnˈfɔːm",
+    "meaning": "অবহিত করা / জানানো",
+    "examples": [
+      {
+        "en": "Please inform me of any changes.",
+        "bn": "যেকোনো পরিবর্তন সম্পর্কে আমাকে অবহিত করুন।"
+      },
+      { "en": "He informed the police.", "bn": "সে পুলিশকে জানাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She informed her parents about the trip.",
+        "bn": "সে ভ্রমণ সম্পর্কে তার বাবা-মাকে জানাল।"
+      },
+      {
+        "en": "They informed the students of the schedule.",
+        "bn": "তারা শিক্ষার্থীদের সময়সূচি জানাল।"
+      },
+      {
+        "en": "He informed his boss about the problem.",
+        "bn": "সে তার বসকে সমস্যার কথা জানাল।"
+      },
+      {
+        "en": "The doctor informed her of the results.",
+        "bn": "ডাক্তার তাকে ফলাফল জানালেন।"
+      },
+      {
+        "en": "She was informed about the meeting.",
+        "bn": "তাকে সভার কথা জানানো হয়েছিল।"
+      },
+      {
+        "en": "They informed the public about the risks.",
+        "bn": "তারা জনসাধারণকে ঝুঁকি সম্পর্কে জানাল।"
+      },
+      { "en": "Please inform us in advance.", "bn": "আগে থেকে আমাদের জানান।" },
+      {
+        "en": "He informed her of the cancellation.",
+        "bn": "সে তাকে বাতিলের কথা জানাল।"
+      },
+      {
+        "en": "She informed the team about the delay.",
+        "bn": "সে দলকে বিলম্বের কথা জানাল।"
+      },
+      {
+        "en": "The sign informs drivers of the speed limit.",
+        "bn": "সাইনটি চালকদের গতিসীমা জানায়।"
+      }
+    ],
+    "synonyms": ["notify", "tell", "advise", "alert", "update"]
+  },
+  {
+    "base": "innocent",
+    "phonetic": "ˈɪnəsnt",
+    "meaning": "নির্দোষ / সরল",
+    "examples": [
+      { "en": "He was proved innocent.", "bn": "সে নির্দোষ প্রমাণিত হল।" },
+      { "en": "She has an innocent smile.", "bn": "তার একটি সরল হাসি আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The child looked innocent.",
+        "bn": "শিশুটিকে নির্দোষ দেখাচ্ছিল।"
+      },
+      {
+        "en": "He was innocent of the crime.",
+        "bn": "সে অপরাধের ক্ষেত্রে নির্দোষ ছিল।"
+      },
+      {
+        "en": "She believed he was innocent.",
+        "bn": "সে বিশ্বাস করত সে নির্দোষ।"
+      },
+      {
+        "en": "The innocent man was released.",
+        "bn": "নির্দোষ মানুষটিকে মুক্তি দেওয়া হল।"
+      },
+      {
+        "en": "He had an innocent expression.",
+        "bn": "তার একটি নির্দোষ ভাব ছিল।"
+      },
+      {
+        "en": "The judge declared her innocent.",
+        "bn": "বিচারক তাকে নির্দোষ ঘোষণা করলেন।"
+      },
+      {
+        "en": "She was innocent of any wrongdoing.",
+        "bn": "সে কোনো অন্যায়ের ক্ষেত্রে নির্দোষ ছিল।"
+      },
+      {
+        "en": "Children are innocent by nature.",
+        "bn": "শিশুরা স্বভাবতই সরল।"
+      },
+      { "en": "He gave an innocent answer.", "bn": "সে একটি সরল উত্তর দিল।" },
+      {
+        "en": "The innocent were protected by the law.",
+        "bn": "নির্দোষদের আইন দ্বারা সুরক্ষিত করা হয়েছিল।"
+      }
+    ],
+    "synonyms": ["pure", "blameless", "guiltless", "naive", "faultless"]
+  },
+  {
+    "base": "inspire",
+    "phonetic": "ɪnˈspaɪər",
+    "meaning": "অনুপ্রাণিত করা",
+    "examples": [
+      {
+        "en": "Her story inspired many people.",
+        "bn": "তার গল্প অনেককে অনুপ্রাণিত করেছে।"
+      },
+      {
+        "en": "He was inspired by his teacher.",
+        "bn": "সে তার শিক্ষকের দ্বারা অনুপ্রাণিত হয়েছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The speech inspired the crowd.",
+        "bn": "বক্তৃতাটি জনতাকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "She inspired others to work harder.",
+        "bn": "সে অন্যদের আরও কঠোর পরিশ্রম করতে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "Nature inspires artists.",
+        "bn": "প্রকৃতি শিল্পীদের অনুপ্রাণিত করে।"
+      },
+      {
+        "en": "His courage inspired the team.",
+        "bn": "তার সাহস দলকে অনুপ্রাণিত করেছিল।"
+      },
+      {
+        "en": "Books inspire new ideas.",
+        "bn": "বই নতুন ধারণা অনুপ্রাণিত করে।"
+      },
+      {
+        "en": "She was inspired to become a doctor.",
+        "bn": "সে ডাক্তার হতে অনুপ্রাণিত হয়েছিল।"
+      },
+      {
+        "en": "The film inspired a generation.",
+        "bn": "চলচ্চিত্রটি একটি প্রজন্মকে অনুপ্রাণিত করেছিল।"
+      },
+      {
+        "en": "He inspired confidence in others.",
+        "bn": "সে অন্যদের মধ্যে আস্থা জাগিয়ে তুলেছিল।"
+      },
+      {
+        "en": "Music inspires creativity.",
+        "bn": "সঙ্গীত সৃজনশীলতাকে অনুপ্রাণিত করে।"
+      },
+      {
+        "en": "She hoped to inspire young students.",
+        "bn": "সে তরুণ শিক্ষার্থীদের অনুপ্রাণিত করতে চেয়েছিল।"
+      }
+    ],
+    "synonyms": ["motivate", "encourage", "stimulate", "uplift", "influence"]
+  },
+  {
+    "base": "interest",
+    "phonetic": "ˈɪntrəst",
+    "meaning": "আগ্রহ / সুদ / আকর্ষণ",
+    "examples": [
+      {
+        "en": "She has a strong interest in music.",
+        "bn": "সঙ্গীতে তার গভীর আগ্রহ আছে।"
+      },
+      {
+        "en": "He showed interest in the subject.",
+        "bn": "সে বিষয়টিতে আগ্রহ দেখাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The book sparked my interest.",
+        "bn": "বইটি আমার আগ্রহ জাগিয়ে তুলল।"
+      },
+      {
+        "en": "She lost interest in the game.",
+        "bn": "সে খেলায় আগ্রহ হারিয়ে ফেলল।"
+      },
+      {
+        "en": "He has varied interests.",
+        "bn": "তার বিভিন্ন ধরনের আগ্রহ রয়েছে।"
+      },
+      {
+        "en": "The bank charges interest on loans.",
+        "bn": "ব্যাংক ঋণের উপর সুদ নেয়।"
+      },
+      {
+        "en": "She had a conflict of interest.",
+        "bn": "তার স্বার্থের দ্বন্দ্ব ছিল।"
+      },
+      {
+        "en": "They showed great interest in the project.",
+        "bn": "তারা প্রকল্পে ব্যাপক আগ্রহ দেখাল।"
+      },
+      {
+        "en": "His interest in history is deep.",
+        "bn": "ইতিহাসে তার আগ্রহ গভীর।"
+      },
+      {
+        "en": "The subject interests me a lot.",
+        "bn": "বিষয়টি আমাকে অনেক আকর্ষণ করে।"
+      },
+      {
+        "en": "She invested money at a high interest rate.",
+        "bn": "সে উচ্চ সুদের হারে অর্থ বিনিয়োগ করল।"
+      },
+      { "en": "Their interests are similar.", "bn": "তাদের আগ্রহ একই রকম।" }
+    ],
+    "synonyms": ["curiosity", "concern", "hobby", "enthusiasm", "attention"]
+  },
+  {
+    "base": "interrupt",
+    "phonetic": "ˌɪntəˈrʌpt",
+    "meaning": "বাধা দেওয়া / থামিয়ে দেওয়া",
+    "examples": [
+      {
+        "en": "Don't interrupt when someone is speaking.",
+        "bn": "কেউ কথা বলার সময় বাধা দিও না।"
+      },
+      {
+        "en": "She interrupted the conversation.",
+        "bn": "সে কথোপকথনে বাধা দিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He interrupted the meeting.", "bn": "সে সভায় বাধা দিল।" },
+      {
+        "en": "The noise interrupted her sleep.",
+        "bn": "শোরগোল তার ঘুমে বিঘ্ন ঘটাল।"
+      },
+      {
+        "en": "She was interrupted by a phone call.",
+        "bn": "একটি ফোন কলে তাকে থামিয়ে দেওয়া হল।"
+      },
+      {
+        "en": "He kept interrupting the teacher.",
+        "bn": "সে বারবার শিক্ষককে থামিয়ে দিচ্ছিল।"
+      },
+      {
+        "en": "The power cut interrupted their work.",
+        "bn": "বিদ্যুৎ বিচ্ছেদ তাদের কাজে বাধা দিল।"
+      },
+      {
+        "en": "She apologized for interrupting.",
+        "bn": "বাধা দেওয়ার জন্য সে ক্ষমা চাইল।"
+      },
+      {
+        "en": "They interrupted the broadcast.",
+        "bn": "তারা সম্প্রচারে বাধা দিল।"
+      },
+      { "en": "He interrupted her reading.", "bn": "সে তার পড়ায় বাধা দিল।" },
+      { "en": "Please don't interrupt me.", "bn": "আমাকে বাধা দেবেন না।" },
+      {
+        "en": "The rain interrupted the game.",
+        "bn": "বৃষ্টি খেলায় বাধা দিল।"
+      }
+    ],
+    "synonyms": ["disturb", "disrupt", "intrude", "interfere", "break in"]
+  },
+  {
+    "base": "investigate",
+    "phonetic": "ɪnˈvestɪɡeɪt",
+    "meaning": "তদন্ত করা / অনুসন্ধান করা",
+    "examples": [
+      {
+        "en": "Police investigated the crime scene.",
+        "bn": "পুলিশ অপরাধের স্থান তদন্ত করল।"
+      },
+      {
+        "en": "She investigated the cause of the accident.",
+        "bn": "সে দুর্ঘটনার কারণ তদন্ত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He investigated the complaint.",
+        "bn": "সে অভিযোগটি তদন্ত করল।"
+      },
+      {
+        "en": "They are investigating the fraud.",
+        "bn": "তারা জালিয়াতিটি তদন্ত করছে।"
+      },
+      {
+        "en": "She investigated the missing case.",
+        "bn": "সে নিখোঁজের মামলা তদন্ত করল।"
+      },
+      {
+        "en": "The journalist investigated the scandal.",
+        "bn": "সাংবাদিক কেলেঙ্কারিটি তদন্ত করলেন।"
+      },
+      {
+        "en": "He was sent to investigate the matter.",
+        "bn": "বিষয়টি তদন্ত করতে তাকে পাঠানো হয়েছিল।"
+      },
+      {
+        "en": "She investigated the company's records.",
+        "bn": "সে কোম্পানির রেকর্ড তদন্ত করল।"
+      },
+      {
+        "en": "They investigated the source of pollution.",
+        "bn": "তারা দূষণের উৎস তদন্ত করল।"
+      },
+      {
+        "en": "The authority investigated the case thoroughly.",
+        "bn": "কর্তৃপক্ষ মামলাটি পুঙ্খানুপুঙ্খভাবে তদন্ত করল।"
+      },
+      {
+        "en": "He investigated every detail.",
+        "bn": "সে প্রতিটি বিবরণ তদন্ত করল।"
+      },
+      {
+        "en": "She investigated the hidden facts.",
+        "bn": "সে লুকানো তথ্য অনুসন্ধান করল।"
+      }
+    ],
+    "synonyms": ["examine", "probe", "explore", "research", "inquire"]
+  },
+  {
+    "base": "invite",
+    "phonetic": "ɪnˈvaɪt",
+    "meaning": "আমন্ত্রণ জানানো",
+    "examples": [
+      {
+        "en": "She invited him to the party.",
+        "bn": "সে তাকে পার্টিতে আমন্ত্রণ জানাল।"
+      },
+      {
+        "en": "He invited his friends for dinner.",
+        "bn": "সে তার বন্ধুদের রাতের খাবারের জন্য আমন্ত্রণ জানাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They invited the whole class.",
+        "bn": "তারা পুরো ক্লাসকে আমন্ত্রণ জানাল।"
+      },
+      {
+        "en": "She was invited to speak at the event.",
+        "bn": "তাকে অনুষ্ঠানে বক্তৃতা দিতে আমন্ত্রণ জানানো হয়েছিল।"
+      },
+      {
+        "en": "He invited her for a walk.",
+        "bn": "সে তাকে হাঁটতে আমন্ত্রণ জানাল।"
+      },
+      {
+        "en": "They invited experts to the workshop.",
+        "bn": "তারা কর্মশালায় বিশেষজ্ঞদের আমন্ত্রণ জানাল।"
+      },
+      {
+        "en": "She invited trouble with her actions.",
+        "bn": "তার কাজ দিয়ে সে সমস্যা ডেকে আনল।"
+      },
+      {
+        "en": "He felt honored to be invited.",
+        "bn": "আমন্ত্রিত হয়ে সে সম্মানিত অনুভব করল।"
+      },
+      {
+        "en": "The host invited all the guests.",
+        "bn": "আয়োজক সব অতিথিদের আমন্ত্রণ জানালেন।"
+      },
+      {
+        "en": "She sent an invite via email.",
+        "bn": "সে ইমেইলে আমন্ত্রণ পাঠাল।"
+      },
+      {
+        "en": "He invited her to join the club.",
+        "bn": "সে তাকে ক্লাবে যোগ দিতে আমন্ত্রণ জানাল।"
+      },
+      {
+        "en": "They invited feedback from students.",
+        "bn": "তারা শিক্ষার্থীদের কাছ থেকে মতামত আমন্ত্রণ জানাল।"
+      }
+    ],
+    "synonyms": ["call", "summon", "request", "welcome", "ask"]
+  },
+  {
+    "base": "involve",
+    "phonetic": "ɪnˈvɒlv",
+    "meaning": "জড়িত করা / অন্তর্ভুক্ত করা",
+    "examples": [
+      {
+        "en": "The project involves a lot of research.",
+        "bn": "প্রকল্পটিতে অনেক গবেষণা জড়িত।"
+      },
+      {
+        "en": "She was involved in the accident.",
+        "bn": "সে দুর্ঘটনায় জড়িত ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He involved his team in the decision.",
+        "bn": "সে সিদ্ধান্তে তার দলকে জড়িত করল।"
+      },
+      {
+        "en": "The plan involves many steps.",
+        "bn": "পরিকল্পনায় অনেক ধাপ জড়িত।"
+      },
+      {
+        "en": "She got involved in community work.",
+        "bn": "সে সামাজিক কাজে জড়িয়ে পড়ল।"
+      },
+      {
+        "en": "He does not want to be involved.",
+        "bn": "সে জড়িত হতে চায় না।"
+      },
+      { "en": "The job involves travelling.", "bn": "কাজটিতে ভ্রমণ জড়িত।" },
+      {
+        "en": "She was deeply involved in the project.",
+        "bn": "সে প্রকল্পে গভীরভাবে জড়িত ছিল।"
+      },
+      {
+        "en": "They involved the community in the plan.",
+        "bn": "তারা পরিকল্পনায় সম্প্রদায়কে জড়িত করল।"
+      },
+      {
+        "en": "He got involved in politics.",
+        "bn": "সে রাজনীতিতে জড়িয়ে পড়ল।"
+      },
+      {
+        "en": "The task involves careful planning.",
+        "bn": "কাজটিতে সতর্ক পরিকল্পনা জড়িত।"
+      },
+      {
+        "en": "She involved herself in every matter.",
+        "bn": "সে প্রতিটি বিষয়ে নিজেকে জড়িত করল।"
+      }
+    ],
+    "synonyms": ["include", "engage", "participate", "concern", "implicate"]
+  },
+  {
+    "base": "iron",
+    "phonetic": "ˈaɪən",
+    "meaning": "লোহা / ইস্ত্রি করা",
+    "examples": [
+      {
+        "en": "He ironed his shirt before the meeting.",
+        "bn": "সভার আগে সে তার শার্ট ইস্ত্রি করল।"
+      },
+      { "en": "The fence is made of iron.", "bn": "বেড়াটি লোহার তৈরি।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She ironed all the clothes.",
+        "bn": "সে সমস্ত কাপড় ইস্ত্রি করল।"
+      },
+      { "en": "Iron is a strong metal.", "bn": "লোহা একটি শক্তিশালী ধাতু।" },
+      {
+        "en": "He needs to iron out the problems.",
+        "bn": "তাকে সমস্যাগুলো সমাধান করতে হবে।"
+      },
+      { "en": "The iron is too hot.", "bn": "ইস্ত্রিটি অনেক গরম।" },
+      {
+        "en": "She bought a new steam iron.",
+        "bn": "সে একটি নতুন স্টিম আয়রন কিনল।"
+      },
+      {
+        "en": "The bridge is built with iron.",
+        "bn": "সেতুটি লোহা দিয়ে তৈরি।"
+      },
+      {
+        "en": "He ironed the creases out.",
+        "bn": "সে ভাঁজগুলো ইস্ত্রি করে মসৃণ করল।"
+      },
+      {
+        "en": "Iron is used in construction.",
+        "bn": "নির্মাণে লোহা ব্যবহার করা হয়।"
+      },
+      {
+        "en": "She left the iron on by mistake.",
+        "bn": "সে ভুলে আয়রনটি চালু রেখে গেল।"
+      },
+      { "en": "His body needs more iron.", "bn": "তার শরীরে আরও আয়রন দরকার।" }
+    ],
+    "synonyms": ["metal", "press", "steel", "smooth", "flatten"]
+  },
+  {
+    "base": "island",
+    "phonetic": "ˈaɪlənd",
+    "meaning": "দ্বীপ",
+    "examples": [
+      {
+        "en": "They visited a beautiful island.",
+        "bn": "তারা একটি সুন্দর দ্বীপ পরিদর্শন করল।"
+      },
+      {
+        "en": "The island is surrounded by water.",
+        "bn": "দ্বীপটি পানি দ্বারা বেষ্টিত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She dreams of living on an island.",
+        "bn": "সে একটি দ্বীপে বসবাসের স্বপ্ন দেখে।"
+      },
+      {
+        "en": "The island has a tropical climate.",
+        "bn": "দ্বীপটিতে ক্রান্তীয় জলবায়ু রয়েছে।"
+      },
+      {
+        "en": "He got stranded on a deserted island.",
+        "bn": "সে একটি নির্জন দ্বীপে আটকে গেল।"
+      },
+      {
+        "en": "The island is known for its beaches.",
+        "bn": "দ্বীপটি তার সমুদ্র সৈকতের জন্য পরিচিত।"
+      },
+      {
+        "en": "They built a bridge to the island.",
+        "bn": "তারা দ্বীপে একটি সেতু নির্মাণ করল।"
+      },
+      {
+        "en": "The island has a small population.",
+        "bn": "দ্বীপটিতে ছোট একটি জনগোষ্ঠী আছে।"
+      },
+      {
+        "en": "She painted a picture of the island.",
+        "bn": "সে দ্বীপের একটি ছবি আঁকল।"
+      },
+      {
+        "en": "The island is rich in natural resources.",
+        "bn": "দ্বীপটি প্রাকৃতিক সম্পদে সমৃদ্ধ।"
+      },
+      {
+        "en": "He swam to the nearby island.",
+        "bn": "সে কাছের দ্বীপে সাঁতরে গেল।"
+      },
+      {
+        "en": "The island is very peaceful.",
+        "bn": "দ্বীপটি অত্যন্ত শান্তিপূর্ণ।"
+      }
+    ],
+    "synonyms": ["isle", "atoll", "cay", "land mass", "peninsula"]
+  },
+  {
+    "base": "identify",
+    "phonetic": "aɪˈdentɪfaɪ",
+    "meaning": "চিহ্নিত করা / শনাক্ত করা",
+    "examples": [
+      {
+        "en": "Can you identify this plant?",
+        "bn": "আপনি কি এই গাছটি শনাক্ত করতে পারবেন?"
+      },
+      { "en": "She identified the thief.", "bn": "সে চোরকে শনাক্ত করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He identified the problem quickly.",
+        "bn": "সে দ্রুত সমস্যাটি চিহ্নিত করল।"
+      },
+      {
+        "en": "They identified the source of the noise.",
+        "bn": "তারা শব্দের উৎস শনাক্ত করল।"
+      },
+      {
+        "en": "She identified herself to the security guard.",
+        "bn": "সে নিরাপত্তারক্ষীর কাছে নিজেকে পরিচয় করিয়ে দিল।"
+      },
+      {
+        "en": "He identified key areas for improvement.",
+        "bn": "সে উন্নতির জন্য মূল ক্ষেত্রগুলো চিহ্নিত করল।"
+      },
+      {
+        "en": "DNA was used to identify the person.",
+        "bn": "ব্যক্তিটিকে শনাক্ত করতে ডিএনএ ব্যবহার করা হয়েছিল।"
+      },
+      {
+        "en": "She could not identify the smell.",
+        "bn": "সে গন্ধটি শনাক্ত করতে পারল না।"
+      },
+      {
+        "en": "They identified the missing child.",
+        "bn": "তারা নিখোঁজ শিশুটিকে শনাক্ত করল।"
+      },
+      {
+        "en": "He identified himself as a doctor.",
+        "bn": "সে নিজেকে ডাক্তার হিসেবে পরিচয় দিল।"
+      },
+      {
+        "en": "She identified the cause of the error.",
+        "bn": "সে ত্রুটির কারণ শনাক্ত করল।"
+      },
+      {
+        "en": "He was identified by his fingerprints.",
+        "bn": "তাকে তার আঙুলের ছাপ দিয়ে শনাক্ত করা হয়েছিল।"
+      }
+    ],
+    "synonyms": ["recognize", "detect", "spot", "pinpoint", "distinguish"]
+  },
+  {
+    "base": "idle",
+    "phonetic": "ˈaɪdl",
+    "meaning": "অলস / নিষ্ক্রিয়",
+    "examples": [
+      { "en": "He sat idle all day.", "bn": "সে সারাদিন অলস বসে থাকল।" },
+      {
+        "en": "An idle mind is a devil's workshop.",
+        "bn": "অলস মস্তিষ্ক শয়তানের কারখানা।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The machine was left idle.",
+        "bn": "যন্ত্রটি নিষ্ক্রিয় রেখে দেওয়া হয়েছিল।"
+      },
+      { "en": "She never stays idle.", "bn": "সে কখনো অলস থাকে না।" },
+      {
+        "en": "He wasted the day in idle talk.",
+        "bn": "সে অর্থহীন কথাবার্তায় দিনটি নষ্ট করল।"
+      },
+      {
+        "en": "Idle workers were dismissed.",
+        "bn": "অলস কর্মীদের বরখাস্ত করা হয়েছিল।"
+      },
+      { "en": "The car engine was idling.", "bn": "গাড়ির ইঞ্জিন অলস চলছিল।" },
+      { "en": "She hates being idle.", "bn": "সে অলস থাকতে ঘৃণা করে।" },
+      {
+        "en": "He spent the holidays idle.",
+        "bn": "সে ছুটির দিনগুলো অলসভাবে কাটাল।"
+      },
+      {
+        "en": "Don't sit idle when there is work to do.",
+        "bn": "কাজ থাকলে অলস বসে থেকো না।"
+      },
+      {
+        "en": "The workers were idle due to the strike.",
+        "bn": "ধর্মঘটের কারণে শ্রমিকরা নিষ্ক্রিয় ছিল।"
+      },
+      { "en": "She refused to be idle.", "bn": "সে অলস থাকতে অস্বীকার করল।" }
+    ],
+    "synonyms": ["lazy", "inactive", "unoccupied", "dormant", "sluggish"]
+  },
+  {
+    "base": "illness",
+    "phonetic": "ˈɪlnəs",
+    "meaning": "অসুস্থতা / রোগ",
+    "examples": [
+      {
+        "en": "She suffered from a serious illness.",
+        "bn": "সে একটি গুরুতর অসুস্থতায় ভুগছিল।"
+      },
+      {
+        "en": "His illness kept him at home.",
+        "bn": "তার অসুস্থতা তাকে বাড়িতে আটকে রেখেছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She recovered from her illness.",
+        "bn": "সে তার অসুস্থতা থেকে সুস্থ হয়ে উঠল।"
+      },
+      {
+        "en": "Mental illness is often misunderstood.",
+        "bn": "মানসিক অসুস্থতা প্রায়ই ভুল বোঝা হয়।"
+      },
+      {
+        "en": "He missed school due to illness.",
+        "bn": "অসুস্থতার কারণে সে স্কুল মিস করল।"
+      },
+      {
+        "en": "The illness spread quickly.",
+        "bn": "অসুস্থতাটি দ্রুত ছড়িয়ে পড়ল।"
+      },
+      {
+        "en": "She took medicine for her illness.",
+        "bn": "সে তার অসুস্থতার জন্য ওষুধ নিল।"
+      },
+      {
+        "en": "His illness was diagnosed late.",
+        "bn": "তার রোগ দেরিতে শনাক্ত হয়েছিল।"
+      },
+      {
+        "en": "The illness lasted for three weeks.",
+        "bn": "অসুস্থতাটি তিন সপ্তাহ স্থায়ী হয়েছিল।"
+      },
+      {
+        "en": "Stress can lead to illness.",
+        "bn": "মানসিক চাপ অসুস্থতার কারণ হতে পারে।"
+      },
+      {
+        "en": "She was on leave due to illness.",
+        "bn": "অসুস্থতার কারণে সে ছুটিতে ছিল।"
+      },
+      {
+        "en": "The illness affected his work.",
+        "bn": "অসুস্থতা তার কাজকে প্রভাবিত করেছিল।"
+      }
+    ],
+    "synonyms": ["sickness", "disease", "ailment", "disorder", "condition"]
+  },
+  {
+    "base": "illegal",
+    "phonetic": "ɪˈliːɡl",
+    "meaning": "অবৈধ / আইনবিরোধী",
+    "examples": [
+      {
+        "en": "It is illegal to drive without a license.",
+        "bn": "লাইসেন্স ছাড়া গাড়ি চালানো অবৈধ।"
+      },
+      {
+        "en": "He was arrested for illegal activities.",
+        "bn": "তাকে অবৈধ কার্যকলাপের জন্য গ্রেফতার করা হয়েছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Selling drugs is illegal.", "bn": "মাদক বিক্রি করা অবৈধ।" },
+      { "en": "She made an illegal turn.", "bn": "সে একটি অবৈধ মোড় নিল।" },
+      {
+        "en": "Illegal logging destroys forests.",
+        "bn": "অবৈধ গাছ কাটা বন ধ্বংস করে।"
+      },
+      {
+        "en": "He was fined for illegal parking.",
+        "bn": "অবৈধ পার্কিংয়ের জন্য তাকে জরিমানা করা হয়েছিল।"
+      },
+      {
+        "en": "They caught him doing something illegal.",
+        "bn": "তারা তাকে অবৈধ কিছু করতে ধরল।"
+      },
+      {
+        "en": "Illegal fishing is a major problem.",
+        "bn": "অবৈধ মাছ ধরা একটি বড় সমস্যা।"
+      },
+      {
+        "en": "She warned him about the illegal deal.",
+        "bn": "সে তাকে অবৈধ চুক্তি সম্পর্কে সতর্ক করল।"
+      },
+      {
+        "en": "Illegal weapons were seized.",
+        "bn": "অবৈধ অস্ত্র জব্দ করা হয়েছিল।"
+      },
+      {
+        "en": "It is illegal to bribe an official.",
+        "bn": "কোনো কর্মকর্তাকে ঘুষ দেওয়া অবৈধ।"
+      },
+      {
+        "en": "He was deported for illegal entry.",
+        "bn": "অবৈধ প্রবেশের কারণে তাকে বহিষ্কার করা হয়েছিল।"
+      }
+    ],
+    "synonyms": ["unlawful", "criminal", "forbidden", "prohibited", "banned"]
+  },
+  {
+    "base": "imagine",
+    "phonetic": "ɪˈmædʒɪn",
+    "meaning": "কল্পনা করা / ভাবা",
+    "examples": [
+      {
+        "en": "Imagine living in the future.",
+        "bn": "ভবিষ্যতে বসবাসের কল্পনা করো।"
+      },
+      {
+        "en": "She imagined a better world.",
+        "bn": "সে একটি সুন্দর পৃথিবীর কল্পনা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He imagined success before it happened.",
+        "bn": "সে ঘটনার আগেই সাফল্যের কল্পনা করেছিল।"
+      },
+      {
+        "en": "She imagined how the house would look.",
+        "bn": "সে কল্পনা করল বাড়িটি কেমন দেখাবে।"
+      },
+      {
+        "en": "He could not imagine life without music.",
+        "bn": "সে সঙ্গীত ছাড়া জীবন কল্পনা করতে পারত না।"
+      },
+      {
+        "en": "Imagine all the possibilities.",
+        "bn": "সমস্ত সম্ভাবনার কল্পনা করো।"
+      },
+      {
+        "en": "She imagined the worst outcome.",
+        "bn": "সে সবচেয়ে খারাপ পরিণতির কল্পনা করল।"
+      },
+      {
+        "en": "He imagined himself on stage.",
+        "bn": "সে নিজেকে মঞ্চে কল্পনা করল।"
+      },
+      {
+        "en": "Try to imagine being in their shoes.",
+        "bn": "তাদের অবস্থানে থাকার কল্পনা করার চেষ্টা করো।"
+      },
+      {
+        "en": "She imagined a peaceful life.",
+        "bn": "সে একটি শান্তিপূর্ণ জীবনের কল্পনা করল।"
+      },
+      {
+        "en": "He imagined the problem was solved.",
+        "bn": "সে কল্পনা করল সমস্যাটি সমাধান হয়েছে।"
+      },
+      {
+        "en": "They imagined a brighter future.",
+        "bn": "তারা একটি উজ্জ্বল ভবিষ্যতের কল্পনা করল।"
+      }
+    ],
+    "synonyms": ["picture", "envision", "dream", "fantasize", "conceive"]
+  },
+  {
+    "base": "impact",
+    "phonetic": "ˈɪmpækt",
+    "meaning": "প্রভাব / আঘাত",
+    "examples": [
+      {
+        "en": "The news had a big impact on her.",
+        "bn": "সংবাদটি তার উপর বড় প্রভাব ফেলল।"
+      },
+      {
+        "en": "Technology has a huge impact on society.",
+        "bn": "প্রযুক্তি সমাজে ব্যাপক প্রভাব ফেলে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The earthquake had a devastating impact.",
+        "bn": "ভূমিকম্পটির ভয়াবহ প্রভাব পড়েছিল।"
+      },
+      {
+        "en": "She made a positive impact on others.",
+        "bn": "সে অন্যদের উপর ইতিবাচক প্রভাব ফেলেছে।"
+      },
+      {
+        "en": "The decision impacted everyone.",
+        "bn": "সিদ্ধান্তটি সবাইকে প্রভাবিত করেছিল।"
+      },
+      {
+        "en": "He felt the impact of the loss.",
+        "bn": "সে ক্ষতির প্রভাব অনুভব করল।"
+      },
+      {
+        "en": "The campaign had a lasting impact.",
+        "bn": "প্রচারণাটির দীর্ঘস্থায়ী প্রভাব ছিল।"
+      },
+      {
+        "en": "Climate change has a global impact.",
+        "bn": "জলবায়ু পরিবর্তনের বৈশ্বিক প্রভাব রয়েছে।"
+      },
+      {
+        "en": "The book had a strong impact on readers.",
+        "bn": "বইটি পাঠকদের উপর শক্তিশালী প্রভাব ফেলেছিল।"
+      },
+      {
+        "en": "She analyzed the impact of the policy.",
+        "bn": "সে নীতিমালার প্রভাব বিশ্লেষণ করল।"
+      },
+      {
+        "en": "The impact of the crash was severe.",
+        "bn": "সংঘর্ষের আঘাত ছিল মারাত্মক।"
+      },
+      {
+        "en": "His words had a deep impact on me.",
+        "bn": "তার কথাগুলো আমার উপর গভীর প্রভাব ফেলেছিল।"
+      }
+    ],
+    "synonyms": ["effect", "influence", "consequence", "impression", "force"]
+  },
+  {
+    "base": "intend",
+    "phonetic": "ɪnˈtend",
+    "meaning": "ইচ্ছা করা / উদ্দেশ্য রাখা",
+    "examples": [
+      {
+        "en": "I intend to finish the work today.",
+        "bn": "আমি আজ কাজটি শেষ করার ইচ্ছা রাখি।"
+      },
+      {
+        "en": "She intended to apologize.",
+        "bn": "সে ক্ষমা চাওয়ার ইচ্ছা করেছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He intended to leave early.",
+        "bn": "সে আগে চলে যাওয়ার ইচ্ছা করেছিল।"
+      },
+      {
+        "en": "What did you intend to say?",
+        "bn": "তুমি কী বলতে ইচ্ছা করেছিলে?"
+      },
+      {
+        "en": "She did not intend to hurt him.",
+        "bn": "সে তাকে কষ্ট দেওয়ার ইচ্ছা করেনি।"
+      },
+      {
+        "en": "They intended to start a business.",
+        "bn": "তারা একটি ব্যবসা শুরু করার ইচ্ছা করেছিল।"
+      },
+      {
+        "en": "He intends to study abroad.",
+        "bn": "সে বিদেশে পড়াশোনার ইচ্ছা করে।"
+      },
+      {
+        "en": "She intended to call but forgot.",
+        "bn": "সে ফোন করার ইচ্ছা করেছিল কিন্তু ভুলে গেল।"
+      },
+      {
+        "en": "I intend to keep my promise.",
+        "bn": "আমি আমার প্রতিশ্রুতি রাখার ইচ্ছা করি।"
+      },
+      { "en": "He intended no harm.", "bn": "সে কোনো ক্ষতি করার ইচ্ছা করেনি।" },
+      {
+        "en": "She intends to travel next year.",
+        "bn": "সে আগামী বছর ভ্রমণ করার ইচ্ছা করে।"
+      },
+      {
+        "en": "They intended to fix the problem.",
+        "bn": "তারা সমস্যা সমাধানের ইচ্ছা করেছিল।"
+      }
+    ],
+    "synonyms": ["plan", "mean", "aim", "purpose", "propose"]
+  },
+  {
+    "base": "interact",
+    "phonetic": "ˌɪntərˈækt",
+    "meaning": "মিথস্ক্রিয়া করা / যোগাযোগ রাখা",
+    "examples": [
+      {
+        "en": "Students interact with each other in class.",
+        "bn": "ক্লাসে শিক্ষার্থীরা একে অপরের সাথে যোগাযোগ করে।"
+      },
+      {
+        "en": "She interacted well with the team.",
+        "bn": "সে দলের সাথে ভালোভাবে মিথস্ক্রিয়া করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He loves to interact with people.",
+        "bn": "সে মানুষের সাথে যোগাযোগ করতে ভালোবাসে।"
+      },
+      {
+        "en": "Children interact through play.",
+        "bn": "শিশুরা খেলার মাধ্যমে মিথস্ক্রিয়া করে।"
+      },
+      {
+        "en": "The website lets users interact easily.",
+        "bn": "ওয়েবসাইটটি ব্যবহারকারীদের সহজে যোগাযোগ করতে দেয়।"
+      },
+      {
+        "en": "She interacts confidently with strangers.",
+        "bn": "সে অপরিচিতদের সাথে আত্মবিশ্বাসের সাথে যোগাযোগ করে।"
+      },
+      {
+        "en": "Chemicals interact to create reactions.",
+        "bn": "রাসায়নিক পদার্থ বিক্রিয়া তৈরি করতে মিথস্ক্রিয়া করে।"
+      },
+      {
+        "en": "He interacted with the audience.",
+        "bn": "সে দর্শকদের সাথে মিথস্ক্রিয়া করল।"
+      },
+      {
+        "en": "The children interacted with the animals.",
+        "bn": "শিশুরা প্রাণীদের সাথে মিথস্ক্রিয়া করল।"
+      },
+      {
+        "en": "She interacted with her classmates online.",
+        "bn": "সে অনলাইনে তার সহপাঠীদের সাথে যোগাযোগ করল।"
+      },
+      {
+        "en": "He learned to interact respectfully.",
+        "bn": "সে শ্রদ্ধার সাথে যোগাযোগ করতে শিখল।"
+      },
+      {
+        "en": "The two systems interact smoothly.",
+        "bn": "দুটি সিস্টেম মসৃণভাবে মিথস্ক্রিয়া করে।"
+      }
+    ],
+    "synonyms": ["communicate", "engage", "connect", "relate", "collaborate"]
+  },
+  {
+    "base": "interpret",
+    "phonetic": "ɪnˈtɜːprɪt",
+    "meaning": "ব্যাখ্যা করা / অনুবাদ করা",
+    "examples": [
+      {
+        "en": "She interpreted the poem for the class.",
+        "bn": "সে ক্লাসের জন্য কবিতাটি ব্যাখ্যা করল।"
+      },
+      {
+        "en": "He interpreted the data carefully.",
+        "bn": "সে তথ্যগুলো সাবধানে ব্যাখ্যা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The lawyer interpreted the contract.",
+        "bn": "আইনজীবী চুক্তিটি ব্যাখ্যা করলেন।"
+      },
+      {
+        "en": "She interpreted his silence as agreement.",
+        "bn": "সে তার নীরবতাকে সম্মতি হিসেবে ব্যাখ্যা করল।"
+      },
+      {
+        "en": "He interpreted the results differently.",
+        "bn": "সে ফলাফলগুলো ভিন্নভাবে ব্যাখ্যা করল।"
+      },
+      {
+        "en": "She was hired to interpret at the meeting.",
+        "bn": "সভায় অনুবাদ করতে তাকে নিয়োগ দেওয়া হয়েছিল।"
+      },
+      {
+        "en": "He interpreted the law to his benefit.",
+        "bn": "সে আইনটি তার সুবিধামতো ব্যাখ্যা করল।"
+      },
+      {
+        "en": "Different people interpret things differently.",
+        "bn": "বিভিন্ন মানুষ বিষয়গুলো ভিন্নভাবে ব্যাখ্যা করে।"
+      },
+      {
+        "en": "She interpreted the foreign speech.",
+        "bn": "সে বিদেশী বক্তৃতাটি অনুবাদ করল।"
+      },
+      {
+        "en": "The judge interpreted the evidence.",
+        "bn": "বিচারক প্রমাণগুলো ব্যাখ্যা করলেন।"
+      },
+      {
+        "en": "He interpreted her body language.",
+        "bn": "সে তার শরীরের ভাষা ব্যাখ্যা করল।"
+      },
+      {
+        "en": "She interpreted the dream for him.",
+        "bn": "সে তার জন্য স্বপ্নটি ব্যাখ্যা করল।"
+      }
+    ],
+    "synonyms": ["explain", "translate", "decode", "clarify", "analyze"]
+  },
+  {
+    "base": "invest",
+    "phonetic": "ɪnˈvest",
+    "meaning": "বিনিয়োগ করা",
+    "examples": [
+      {
+        "en": "He decided to invest in real estate.",
+        "bn": "সে রিয়েল এস্টেটে বিনিয়োগ করার সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "She invested her savings wisely.",
+        "bn": "সে তার সঞ্চয় বুদ্ধিমত্তার সাথে বিনিয়োগ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They invested in education.",
+        "bn": "তারা শিক্ষায় বিনিয়োগ করেছে।"
+      },
+      {
+        "en": "He invested his time in learning.",
+        "bn": "সে শেখার পেছনে সময় বিনিয়োগ করল।"
+      },
+      {
+        "en": "The company invested in new technology.",
+        "bn": "কোম্পানি নতুন প্রযুক্তিতে বিনিয়োগ করেছে।"
+      },
+      {
+        "en": "She invested money in the stock market.",
+        "bn": "সে শেয়ার বাজারে অর্থ বিনিয়োগ করল।"
+      },
+      {
+        "en": "He invested his energy in the project.",
+        "bn": "সে প্রকল্পে তার শক্তি বিনিয়োগ করল।"
+      },
+      {
+        "en": "It is wise to invest early.",
+        "bn": "আগে থেকে বিনিয়োগ করা বুদ্ধিমানের কাজ।"
+      },
+      {
+        "en": "They invested in renewable energy.",
+        "bn": "তারা নবায়নযোগ্য শক্তিতে বিনিয়োগ করেছে।"
+      },
+      {
+        "en": "She invested in her own business.",
+        "bn": "সে তার নিজের ব্যবসায় বিনিয়োগ করল।"
+      },
+      {
+        "en": "He invested both time and money.",
+        "bn": "সে সময় এবং অর্থ উভয়ই বিনিয়োগ করল।"
+      },
+      {
+        "en": "They invested in the future of the country.",
+        "bn": "তারা দেশের ভবিষ্যতে বিনিয়োগ করেছে।"
+      }
+    ],
+    "synonyms": ["fund", "finance", "put in", "spend", "commit"]
+  },
+  {
+    "base": "invisible",
+    "phonetic": "ɪnˈvɪzəbl",
+    "meaning": "অদৃশ্য",
+    "examples": [
+      {
+        "en": "Air is invisible but essential.",
+        "bn": "বায়ু অদৃশ্য কিন্তু অপরিহার্য।"
+      },
+      {
+        "en": "She felt invisible in the crowd.",
+        "bn": "ভিড়ের মধ্যে সে নিজেকে অদৃশ্য মনে করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The thread was almost invisible.",
+        "bn": "সুতাটি প্রায় অদৃশ্য ছিল।"
+      },
+      {
+        "en": "He wished he could become invisible.",
+        "bn": "সে চাইছিল অদৃশ্য হয়ে যেতে।"
+      },
+      {
+        "en": "Germs are invisible to the naked eye.",
+        "bn": "জীবাণু খালি চোখে অদৃশ্য।"
+      },
+      {
+        "en": "The mark was invisible under normal light.",
+        "bn": "স্বাভাবিক আলোয় চিহ্নটি অদৃশ্য ছিল।"
+      },
+      { "en": "She wore invisible braces.", "bn": "সে অদৃশ্য ব্রেস পরেছিল।" },
+      {
+        "en": "The invisible force moved the object.",
+        "bn": "অদৃশ্য শক্তি বস্তুটি সরিয়ে দিল।"
+      },
+      {
+        "en": "His pain was invisible to others.",
+        "bn": "তার ব্যথা অন্যদের কাছে অদৃশ্য ছিল।"
+      },
+      {
+        "en": "The ink becomes invisible when dry.",
+        "bn": "কালি শুকালে অদৃশ্য হয়ে যায়।"
+      },
+      {
+        "en": "He felt his contribution was invisible.",
+        "bn": "সে মনে করল তার অবদান অদৃশ্য।"
+      },
+      {
+        "en": "She drew an invisible boundary.",
+        "bn": "সে একটি অদৃশ্য সীমানা আঁকল।"
+      }
+    ],
+    "synonyms": [
+      "unseen",
+      "hidden",
+      "undetectable",
+      "imperceptible",
+      "concealed"
+    ]
+  },
+  {
+    "base": "insult",
+    "phonetic": "ɪnˈsʌlt",
+    "meaning": "অপমান করা / অপমান",
+    "examples": [
+      {
+        "en": "He insulted her in public.",
+        "bn": "সে তাকে প্রকাশ্যে অপমান করল।"
+      },
+      {
+        "en": "She felt deeply insulted.",
+        "bn": "সে গভীরভাবে অপমানিত বোধ করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Don't insult others.", "bn": "অন্যদের অপমান করো না।" },
+      {
+        "en": "His words were a direct insult.",
+        "bn": "তার কথাগুলো সরাসরি অপমান ছিল।"
+      },
+      { "en": "She ignored the insult.", "bn": "সে অপমানটি উপেক্ষা করল।" },
+      {
+        "en": "He insulted the team with his behavior.",
+        "bn": "তার আচরণে সে দলকে অপমান করল।"
+      },
+      {
+        "en": "She responded calmly to the insult.",
+        "bn": "সে শান্তভাবে অপমানের জবাব দিল।"
+      },
+      {
+        "en": "He felt the insult deeply.",
+        "bn": "সে অপমানটি গভীরভাবে অনুভব করল।"
+      },
+      {
+        "en": "The insult hurt her feelings.",
+        "bn": "অপমানটি তার অনুভূতিকে আঘাত করল।"
+      },
+      {
+        "en": "He apologized for the insult.",
+        "bn": "অপমানের জন্য সে ক্ষমা চাইল।"
+      },
+      {
+        "en": "She never insulted anyone.",
+        "bn": "সে কখনো কাউকে অপমান করেনি।"
+      },
+      {
+        "en": "The insult was unforgivable.",
+        "bn": "অপমানটি ক্ষমার অযোগ্য ছিল।"
+      }
+    ],
+    "synonyms": ["offend", "humiliate", "disrespect", "abuse", "demean"]
+  },
+  {
+    "base": "instruct",
+    "phonetic": "ɪnˈstrʌkt",
+    "meaning": "নির্দেশ দেওয়া / শেখানো",
+    "examples": [
+      {
+        "en": "The teacher instructed the students.",
+        "bn": "শিক্ষক ছাত্রছাত্রীদের নির্দেশ দিলেন।"
+      },
+      {
+        "en": "She instructed him to sit down.",
+        "bn": "সে তাকে বসতে নির্দেশ দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was instructed to follow the rules.",
+        "bn": "তাকে নিয়মগুলো মেনে চলতে নির্দেশ দেওয়া হয়েছিল।"
+      },
+      {
+        "en": "She instructed the team carefully.",
+        "bn": "সে দলকে সাবধানে নির্দেশ দিল।"
+      },
+      {
+        "en": "The manual instructs users step by step.",
+        "bn": "ম্যানুয়ালটি ব্যবহারকারীদের ধাপে ধাপে নির্দেশ দেয়।"
+      },
+      {
+        "en": "He instructed the workers on safety.",
+        "bn": "সে শ্রমিকদের নিরাপত্তা বিষয়ে নির্দেশ দিল।"
+      },
+      {
+        "en": "She instructed the new employee.",
+        "bn": "সে নতুন কর্মচারীকে নির্দেশনা দিল।"
+      },
+      {
+        "en": "They were instructed to wait outside.",
+        "bn": "তাদের বাইরে অপেক্ষা করতে নির্দেশ দেওয়া হয়েছিল।"
+      },
+      {
+        "en": "The coach instructed the players.",
+        "bn": "কোচ খেলোয়াড়দের নির্দেশ দিলেন।"
+      },
+      {
+        "en": "He instructed her to take notes.",
+        "bn": "সে তাকে নোট নিতে নির্দেশ দিল।"
+      },
+      {
+        "en": "She instructed him clearly.",
+        "bn": "সে তাকে স্পষ্টভাবে নির্দেশ দিল।"
+      },
+      {
+        "en": "He was instructed not to talk.",
+        "bn": "তাকে কথা না বলতে নির্দেশ দেওয়া হয়েছিল।"
+      }
+    ],
+    "synonyms": ["direct", "teach", "guide", "train", "order"]
+  },
+  {
+    "base": "intelligent",
+    "phonetic": "ɪnˈtelɪdʒənt",
+    "meaning": "বুদ্ধিমান / মেধাবী",
+    "examples": [
+      {
+        "en": "She is an intelligent student.",
+        "bn": "সে একজন মেধাবী ছাত্রী।"
+      },
+      {
+        "en": "He gave an intelligent answer.",
+        "bn": "সে একটি বুদ্ধিমান উত্তর দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Dogs are very intelligent animals.",
+        "bn": "কুকুর খুব বুদ্ধিমান প্রাণী।"
+      },
+      {
+        "en": "She made an intelligent decision.",
+        "bn": "সে একটি বুদ্ধিমান সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "He is intelligent and hardworking.",
+        "bn": "সে বুদ্ধিমান এবং পরিশ্রমী।"
+      },
+      {
+        "en": "The intelligent boy solved the puzzle.",
+        "bn": "বুদ্ধিমান ছেলেটি ধাঁধাটি সমাধান করল।"
+      },
+      {
+        "en": "She spoke in an intelligent way.",
+        "bn": "সে বুদ্ধিমত্তার সাথে কথা বলল।"
+      },
+      {
+        "en": "Intelligent people ask questions.",
+        "bn": "বুদ্ধিমান মানুষ প্রশ্ন করে।"
+      },
+      {
+        "en": "He designed an intelligent system.",
+        "bn": "সে একটি বুদ্ধিমান সিস্টেম ডিজাইন করল।"
+      },
+      {
+        "en": "She is the most intelligent in the class.",
+        "bn": "সে ক্লাসের সবচেয়ে মেধাবী।"
+      },
+      {
+        "en": "An intelligent approach saves time.",
+        "bn": "একটি বুদ্ধিমান পদ্ধতি সময় বাঁচায়।"
+      },
+      {
+        "en": "He was praised for his intelligent work.",
+        "bn": "তার বুদ্ধিমান কাজের জন্য তাকে প্রশংসা করা হয়েছিল।"
+      }
+    ],
+    "synonyms": ["smart", "clever", "bright", "sharp", "gifted"]
+  },
+  {
+    "base": "intolerance",
+    "phonetic": "ɪnˈtɒlərəns",
+    "meaning": "অসহিষ্ণুতা",
+    "examples": [
+      {
+        "en": "Religious intolerance leads to conflict.",
+        "bn": "ধর্মীয় অসহিষ্ণুতা সংঘাতের দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "He showed intolerance towards others.",
+        "bn": "সে অন্যদের প্রতি অসহিষ্ণুতা দেখাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Intolerance is harmful to society.",
+        "bn": "অসহিষ্ণুতা সমাজের জন্য ক্ষতিকর।"
+      },
+      {
+        "en": "She spoke against intolerance.",
+        "bn": "সে অসহিষ্ণুতার বিরুদ্ধে কথা বলল।"
+      },
+      {
+        "en": "Intolerance breeds hatred.",
+        "bn": "অসহিষ্ণুতা ঘৃণার জন্ম দেয়।"
+      },
+      {
+        "en": "He had no intolerance for laziness.",
+        "bn": "অলসতার প্রতি তার কোনো সহনশীলতা ছিল না।"
+      },
+      {
+        "en": "The community fought against intolerance.",
+        "bn": "সম্প্রদায়টি অসহিষ্ণুতার বিরুদ্ধে লড়াই করল।"
+      },
+      {
+        "en": "She has lactose intolerance.",
+        "bn": "তার ল্যাকটোজ অসহিষ্ণুতা আছে।"
+      },
+      {
+        "en": "Intolerance prevents progress.",
+        "bn": "অসহিষ্ণুতা অগ্রগতি রোধ করে।"
+      },
+      {
+        "en": "He criticized racial intolerance.",
+        "bn": "সে জাতিগত অসহিষ্ণুতার সমালোচনা করল।"
+      },
+      {
+        "en": "Intolerance must be overcome.",
+        "bn": "অসহিষ্ণুতা অবশ্যই দূর করতে হবে।"
+      },
+      {
+        "en": "She showed zero intolerance for injustice.",
+        "bn": "অন্যায়ের প্রতি সে শূন্য সহনশীলতা দেখাল।"
+      }
+    ],
+    "synonyms": [
+      "bigotry",
+      "prejudice",
+      "narrow-mindedness",
+      "bias",
+      "fanaticism"
+    ]
+  },
+  {
+    "base": "invent",
+    "phonetic": "ɪnˈvent",
+    "meaning": "আবিষ্কার করা",
+    "examples": [
+      {
+        "en": "Alexander Graham Bell invented the telephone.",
+        "bn": "আলেকজান্ডার গ্রাহাম বেল টেলিফোন আবিষ্কার করেছিলেন।"
+      },
+      {
+        "en": "She invented a new cooking method.",
+        "bn": "সে একটি নতুন রান্নার পদ্ধতি আবিষ্কার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He invented a machine to save time.",
+        "bn": "সে সময় বাঁচাতে একটি যন্ত্র আবিষ্কার করল।"
+      },
+      {
+        "en": "She invented an excuse for being late.",
+        "bn": "দেরি হওয়ার জন্য সে একটি অজুহাত তৈরি করল।"
+      },
+      {
+        "en": "They invented a new drug.",
+        "bn": "তারা একটি নতুন ওষুধ আবিষ্কার করেছে।"
+      },
+      {
+        "en": "He invented a clever solution.",
+        "bn": "সে একটি চমৎকার সমাধান আবিষ্কার করল।"
+      },
+      {
+        "en": "She invented the recipe herself.",
+        "bn": "সে নিজেই রেসিপিটি উদ্ভাবন করল।"
+      },
+      {
+        "en": "They invented new ways to communicate.",
+        "bn": "তারা যোগাযোগের নতুন পদ্ধতি আবিষ্কার করেছে।"
+      },
+      {
+        "en": "He invented a game for children.",
+        "bn": "সে শিশুদের জন্য একটি খেলা উদ্ভাবন করল।"
+      },
+      {
+        "en": "She invented an amazing device.",
+        "bn": "সে একটি আশ্চর্যজনক যন্ত্র আবিষ্কার করল।"
+      },
+      {
+        "en": "Who invented the light bulb?",
+        "bn": "বাল্ব কে আবিষ্কার করেছিলেন?"
+      },
+      {
+        "en": "He invented a new form of art.",
+        "bn": "সে শিল্পের একটি নতুন রূপ আবিষ্কার করল।"
+      }
+    ],
+    "synonyms": ["create", "design", "discover", "devise", "originate"]
+  },
+  {
+    "base": "involve",
+    "phonetic": "ɪnˈvɒlv",
+    "meaning": "জড়িত থাকা",
+    "examples": [
+      {
+        "en": "She was involved in the project.",
+        "bn": "সে প্রকল্পে জড়িত ছিল।"
+      },
+      { "en": "The task involves teamwork.", "bn": "কাজটিতে দলগত কাজ জড়িত।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He was not involved in the crime.",
+        "bn": "সে অপরাধে জড়িত ছিল না।"
+      },
+      {
+        "en": "She involved her children in cooking.",
+        "bn": "সে তার সন্তানদের রান্নায় জড়িত করল।"
+      },
+      {
+        "en": "The situation involved many people.",
+        "bn": "পরিস্থিতিতে অনেক মানুষ জড়িত ছিল।"
+      },
+      {
+        "en": "He became involved in charity work.",
+        "bn": "সে দাতব্য কাজে জড়িয়ে পড়ল।"
+      },
+      {
+        "en": "The plan involves careful budgeting.",
+        "bn": "পরিকল্পনায় সতর্ক বাজেট করা জড়িত।"
+      },
+      {
+        "en": "She got involved in the community.",
+        "bn": "সে সম্প্রদায়ে জড়িয়ে পড়ল।"
+      },
+      {
+        "en": "He was deeply involved in music.",
+        "bn": "সে সঙ্গীতে গভীরভাবে জড়িত ছিল।"
+      },
+      {
+        "en": "The job involves night shifts.",
+        "bn": "কাজটিতে রাতের শিফট জড়িত।"
+      },
+      {
+        "en": "She involves herself in every task.",
+        "bn": "সে প্রতিটি কাজে নিজেকে জড়িত করে।"
+      },
+      {
+        "en": "They were all involved in the decision.",
+        "bn": "তারা সবাই সিদ্ধান্তে জড়িত ছিল।"
+      }
+    ],
+    "synonyms": ["include", "engage", "concern", "connect", "entangle"]
+  },
+  {
+    "base": "isolate",
+    "phonetic": "ˈaɪsəleɪt",
+    "meaning": "বিচ্ছিন্ন করা / আলাদা করা",
+    "examples": [
+      {
+        "en": "The patient was isolated from others.",
+        "bn": "রোগীকে অন্যদের থেকে আলাদা করা হয়েছিল।"
+      },
+      {
+        "en": "He felt isolated from the group.",
+        "bn": "সে দল থেকে বিচ্ছিন্ন বোধ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The virus was isolated in the lab.",
+        "bn": "ভাইরাসটি ল্যাবে আলাদা করা হয়েছিল।"
+      },
+      {
+        "en": "She isolated herself from social life.",
+        "bn": "সে সামাজিক জীবন থেকে নিজেকে বিচ্ছিন্ন করল।"
+      },
+      {
+        "en": "The town was isolated by floods.",
+        "bn": "বন্যায় শহরটি বিচ্ছিন্ন হয়ে পড়েছিল।"
+      },
+      {
+        "en": "He isolated the faulty wire.",
+        "bn": "সে ত্রুটিযুক্ত তারটি আলাদা করল।"
+      },
+      {
+        "en": "She was isolated in a remote area.",
+        "bn": "সে একটি দূরবর্তী এলাকায় বিচ্ছিন্ন ছিল।"
+      },
+      {
+        "en": "They isolated the problem quickly.",
+        "bn": "তারা দ্রুত সমস্যাটি আলাদা করল।"
+      },
+      {
+        "en": "Isolation can affect mental health.",
+        "bn": "বিচ্ছিন্নতা মানসিক স্বাস্থ্যকে প্রভাবিত করতে পারে।"
+      },
+      {
+        "en": "He was isolated during quarantine.",
+        "bn": "সঙ্গনিরোধের সময় তাকে আলাদা করা হয়েছিল।"
+      },
+      {
+        "en": "She isolated the chemical compound.",
+        "bn": "সে রাসায়নিক যৌগটি আলাদা করল।"
+      },
+      {
+        "en": "The community was isolated after the storm.",
+        "bn": "ঝড়ের পরে সম্প্রদায়টি বিচ্ছিন্ন হয়ে পড়েছিল।"
+      }
+    ],
+    "synonyms": ["separate", "detach", "segregate", "quarantine", "cut off"]
+  },
+  {
+    "base": "itch",
+    "phonetic": "ɪtʃ",
+    "meaning": "চুলকানো / চুলকানি",
+    "examples": [
+      { "en": "My arm itches badly.", "bn": "আমার হাত খুব চুলকাচ্ছে।" },
+      { "en": "She had an itch on her back.", "bn": "তার পিঠে চুলকানি ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The mosquito bite made him itch.",
+        "bn": "মশার কামড়ে তার চুলকানি হল।"
+      },
+      {
+        "en": "She could not stop itching.",
+        "bn": "সে চুলকানো থেকে বিরত থাকতে পারছিল না।"
+      },
+      { "en": "He had an itchy rash.", "bn": "তার চুলকানি ফুসকুড়ি ছিল।" },
+      {
+        "en": "The wool sweater makes my skin itch.",
+        "bn": "পশমের সোয়েটার আমার ত্বক চুলকায়।"
+      },
+      {
+        "en": "She applied cream to stop the itch.",
+        "bn": "চুলকানো থামাতে সে ক্রিম লাগাল।"
+      },
+      {
+        "en": "He had an itch to travel.",
+        "bn": "তার ভ্রমণের তীব্র ইচ্ছা ছিল।"
+      },
+      {
+        "en": "The itch spread to her neck.",
+        "bn": "চুলকানি তার ঘাড়ে ছড়িয়ে পড়ল।"
+      },
+      {
+        "en": "Dry skin can cause itching.",
+        "bn": "শুষ্ক ত্বক চুলকানির কারণ হতে পারে।"
+      },
+      {
+        "en": "He scratched the itch vigorously.",
+        "bn": "সে চুলকানিতে জোরে আঁচড় দিল।"
+      },
+      {
+        "en": "The itch was caused by an allergy.",
+        "bn": "চুলকানিটি এলার্জির কারণে হয়েছিল।"
+      }
+    ],
+    "synonyms": ["irritation", "tingle", "prickle", "scratch", "tickle"]
+  },
+  {
+    "base": "intense",
+    "phonetic": "ɪnˈtens",
+    "meaning": "তীব্র / প্রচণ্ড",
+    "examples": [
+      { "en": "She felt intense pain.", "bn": "সে তীব্র ব্যথা অনুভব করল।" },
+      { "en": "The heat was intense.", "bn": "গরম ছিল প্রচণ্ড।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He had an intense look in his eyes.",
+        "bn": "তার চোখে একটি তীব্র দৃষ্টি ছিল।"
+      },
+      {
+        "en": "The competition was intense.",
+        "bn": "প্রতিযোগিতাটি তীব্র ছিল।"
+      },
+      {
+        "en": "She felt an intense desire to succeed.",
+        "bn": "সে সফল হওয়ার তীব্র আকাঙ্ক্ষা অনুভব করল।"
+      },
+      {
+        "en": "The training was intense and exhausting.",
+        "bn": "প্রশিক্ষণটি তীব্র এবং ক্লান্তিকর ছিল।"
+      },
+      {
+        "en": "He studied with intense focus.",
+        "bn": "সে তীব্র মনোযোগ দিয়ে পড়াশোনা করল।"
+      },
+      {
+        "en": "The storm was intense and sudden.",
+        "bn": "ঝড়টি ছিল তীব্র এবং আকস্মিক।"
+      },
+      {
+        "en": "She has an intense personality.",
+        "bn": "তার একটি তীব্র ব্যক্তিত্ব আছে।"
+      },
+      {
+        "en": "The debate became very intense.",
+        "bn": "বিতর্কটি অত্যন্ত তীব্র হয়ে উঠল।"
+      },
+      { "en": "He showed intense dedication.", "bn": "সে তীব্র নিষ্ঠা দেখাল।" },
+      {
+        "en": "The intense light hurt her eyes.",
+        "bn": "তীব্র আলো তার চোখে লাগল।"
+      }
+    ],
+    "synonyms": ["extreme", "strong", "fierce", "powerful", "severe"]
+  },
+  {
+    "base": "injure",
+    "phonetic": "ˈɪndʒər",
+    "meaning": "আহত করা / ক্ষতি করা",
+    "examples": [
+      {
+        "en": "He was injured in the accident.",
+        "bn": "সে দুর্ঘটনায় আহত হয়েছিল।"
+      },
+      {
+        "en": "She injured her knee while running.",
+        "bn": "দৌড়ানোর সময় সে হাঁটু আহত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He injured his hand at work.",
+        "bn": "কাজের সময় সে হাত আহত করল।"
+      },
+      {
+        "en": "The fall injured her badly.",
+        "bn": "পড়ে যাওয়ায় সে মারাত্মকভাবে আহত হল।"
+      },
+      {
+        "en": "She was injured during the game.",
+        "bn": "খেলার সময় সে আহত হয়েছিল।"
+      },
+      {
+        "en": "The soldier was injured in battle.",
+        "bn": "যুদ্ধে সৈনিকটি আহত হয়েছিল।"
+      },
+      { "en": "He injured his pride.", "bn": "সে তার অহংকারে আঘাত পেল।" },
+      {
+        "en": "She recovered from the injury quickly.",
+        "bn": "সে দ্রুত আঘাত থেকে সুস্থ হয়ে উঠল।"
+      },
+      { "en": "He was slightly injured.", "bn": "সে সামান্য আহত হয়েছিল।" },
+      {
+        "en": "The injury kept him from playing.",
+        "bn": "আঘাতের কারণে সে খেলতে পারেনি।"
+      },
+      {
+        "en": "She was injured by the broken glass.",
+        "bn": "ভাঙা কাচে সে আহত হল।"
+      },
+      {
+        "en": "He did not want to injure anyone.",
+        "bn": "সে কাউকে আহত করতে চাইনি।"
+      }
+    ],
+    "synonyms": ["hurt", "wound", "harm", "damage", "impair"]
+  },
+  {
+    "base": "institute",
+    "phonetic": "ˈɪnstɪtjuːt",
+    "meaning": "প্রতিষ্ঠান / প্রতিষ্ঠা করা",
+    "examples": [
+      {
+        "en": "He enrolled in a research institute.",
+        "bn": "সে একটি গবেষণা প্রতিষ্ঠানে ভর্তি হল।"
+      },
+      {
+        "en": "They instituted a new policy.",
+        "bn": "তারা একটি নতুন নীতি প্রতিষ্ঠা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The institute is famous for science.",
+        "bn": "প্রতিষ্ঠানটি বিজ্ঞানের জন্য বিখ্যাত।"
+      },
+      {
+        "en": "She founded a new institute.",
+        "bn": "সে একটি নতুন প্রতিষ্ঠান স্থাপন করল।"
+      },
+      {
+        "en": "He studies at a reputed institute.",
+        "bn": "সে একটি সুনামধন্য প্রতিষ্ঠানে পড়াশোনা করে।"
+      },
+      {
+        "en": "The institute offers many courses.",
+        "bn": "প্রতিষ্ঠানটি অনেক কোর্স অফার করে।"
+      },
+      {
+        "en": "They instituted reforms in education.",
+        "bn": "তারা শিক্ষায় সংস্কার প্রতিষ্ঠা করল।"
+      },
+      {
+        "en": "She works at a health institute.",
+        "bn": "সে একটি স্বাস্থ্য প্রতিষ্ঠানে কাজ করে।"
+      },
+      {
+        "en": "The government instituted new laws.",
+        "bn": "সরকার নতুন আইন প্রতিষ্ঠা করল।"
+      },
+      {
+        "en": "He runs the language institute.",
+        "bn": "সে ভাষা প্রতিষ্ঠানটি পরিচালনা করে।"
+      },
+      {
+        "en": "The institute trained many engineers.",
+        "bn": "প্রতিষ্ঠানটি অনেক প্রকৌশলী প্রশিক্ষণ দিয়েছে।"
+      },
+      {
+        "en": "She graduated from the film institute.",
+        "bn": "সে চলচ্চিত্র প্রতিষ্ঠান থেকে স্নাতক হয়েছে।"
+      }
+    ],
+    "synonyms": [
+      "organization",
+      "establishment",
+      "foundation",
+      "academy",
+      "center"
+    ]
+  },
+  {
+    "base": "instruction",
+    "phonetic": "ɪnˈstrʌkʃn",
+    "meaning": "নির্দেশনা / শিক্ষা",
+    "examples": [
+      {
+        "en": "Follow the instructions carefully.",
+        "bn": "নির্দেশনাগুলো সাবধানে অনুসরণ করুন।"
+      },
+      { "en": "She gave clear instructions.", "bn": "সে স্পষ্ট নির্দেশনা দিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He read the instructions before starting.",
+        "bn": "শুরু করার আগে সে নির্দেশনা পড়ল।"
+      },
+      {
+        "en": "The instructions were easy to understand.",
+        "bn": "নির্দেশনাগুলো বুঝতে সহজ ছিল।"
+      },
+      {
+        "en": "She wrote detailed instructions.",
+        "bn": "সে বিস্তারিত নির্দেশনা লিখল।"
+      },
+      {
+        "en": "He ignored the instructions.",
+        "bn": "সে নির্দেশনাগুলো উপেক্ষা করল।"
+      },
+      {
+        "en": "The instructor gave step-by-step instruction.",
+        "bn": "প্রশিক্ষক ধাপে ধাপে নির্দেশনা দিলেন।"
+      },
+      {
+        "en": "She followed the instructions correctly.",
+        "bn": "সে নির্দেশনাগুলো সঠিকভাবে অনুসরণ করল।"
+      },
+      {
+        "en": "The instructions came with the product.",
+        "bn": "পণ্যের সাথে নির্দেশনা আসল।"
+      },
+      {
+        "en": "He gave confusing instructions.",
+        "bn": "সে বিভ্রান্তিকর নির্দেশনা দিল।"
+      },
+      {
+        "en": "They received instructions via email.",
+        "bn": "তারা ইমেইলে নির্দেশনা পেয়েছে।"
+      },
+      {
+        "en": "She thanked the teacher for the instruction.",
+        "bn": "নির্দেশনার জন্য সে শিক্ষককে ধন্যবাদ দিল।"
+      }
+    ],
+    "synonyms": ["direction", "guidance", "order", "teaching", "command"]
+  },
+  {
+    "base": "involve",
+    "phonetic": "ɪnˈvɒlv",
+    "meaning": "জড়িত করা / অন্তর্ভুক্ত হওয়া",
+    "examples": [
+      {
+        "en": "She involved her students in the discussion.",
+        "bn": "সে তার শিক্ষার্থীদের আলোচনায় জড়িত করল।"
+      },
+      {
+        "en": "The recipe involves many ingredients.",
+        "bn": "রেসিপিটিতে অনেক উপকরণ জড়িত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The project involved months of work.",
+        "bn": "প্রকল্পটিতে মাসের পর মাস কাজ জড়িত ছিল।"
+      },
+      { "en": "He did not want to be involved.", "bn": "সে জড়িত হতে চাননি।" },
+      {
+        "en": "She became involved in the campaign.",
+        "bn": "সে প্রচারণায় জড়িয়ে পড়ল।"
+      },
+      {
+        "en": "The task involves a lot of patience.",
+        "bn": "কাজটিতে অনেক ধৈর্য জড়িত।"
+      },
+      {
+        "en": "He was involved in a serious issue.",
+        "bn": "সে একটি গুরুতর বিষয়ে জড়িত ছিল।"
+      },
+      {
+        "en": "She involved herself in community service.",
+        "bn": "সে সামাজিক সেবায় নিজেকে জড়িত করল।"
+      },
+      {
+        "en": "Being involved helps you grow.",
+        "bn": "জড়িত থাকা আপনাকে বড় হতে সাহায্য করে।"
+      },
+      {
+        "en": "He was deeply involved in the case.",
+        "bn": "সে মামলায় গভীরভাবে জড়িত ছিল।"
+      },
+      {
+        "en": "They involved the principal in the matter.",
+        "bn": "তারা বিষয়টিতে প্রধান শিক্ষককে জড়িত করল।"
+      },
+      {
+        "en": "The plan involves several departments.",
+        "bn": "পরিকল্পনায় কয়েকটি বিভাগ জড়িত।"
+      }
+    ],
+    "synonyms": ["engage", "include", "entail", "concern", "imply"]
+  },
+  {
+    "base": "investigate",
+    "phonetic": "ɪnˈvestɪɡeɪt",
+    "meaning": "তদন্ত করা",
+    "examples": [
+      {
+        "en": "They investigated the fire.",
+        "bn": "তারা আগুনের ঘটনা তদন্ত করল।"
+      },
+      {
+        "en": "She investigated the new case.",
+        "bn": "সে নতুন মামলাটি তদন্ত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The team investigated the issue thoroughly.",
+        "bn": "দলটি বিষয়টি পুঙ্খানুপুঙ্খভাবে তদন্ত করল।"
+      },
+      { "en": "He investigated the claims.", "bn": "সে দাবিগুলো তদন্ত করল।" },
+      {
+        "en": "She investigated the water quality.",
+        "bn": "সে পানির গুণগত মান তদন্ত করল।"
+      },
+      {
+        "en": "They investigated the suspect.",
+        "bn": "তারা সন্দেহভাজন ব্যক্তিকে তদন্ত করল।"
+      },
+      {
+        "en": "The report was investigated by officials.",
+        "bn": "প্রতিবেদনটি কর্মকর্তারা তদন্ত করল।"
+      },
+      {
+        "en": "He investigated the company's background.",
+        "bn": "সে কোম্পানির পটভূমি তদন্ত করল।"
+      },
+      {
+        "en": "She was asked to investigate.",
+        "bn": "তদন্ত করতে তাকে বলা হয়েছিল।"
+      },
+      { "en": "They are still investigating.", "bn": "তারা এখনও তদন্ত করছে।" },
+      {
+        "en": "He investigated the leaked data.",
+        "bn": "সে ফাঁস হওয়া তথ্য তদন্ত করল।"
+      },
+      {
+        "en": "The scientist investigated the new virus.",
+        "bn": "বিজ্ঞানী নতুন ভাইরাসটি তদন্ত করলেন।"
+      }
+    ],
+    "synonyms": ["examine", "probe", "study", "inspect", "analyze"]
+  },
+  {
+    "base": "insist",
+    "phonetic": "ɪnˈsɪst",
+    "meaning": "জোর দেওয়া / অনুরোধ করা",
+    "examples": [
+      {
+        "en": "She insisted on paying the bill.",
+        "bn": "সে বিল দেওয়ার জন্য জোর দিল।"
+      },
+      { "en": "He insisted that he was right.", "bn": "সে জোর দিল যে সে সঠিক।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She insists on being on time.",
+        "bn": "সে সময়মতো থাকার জন্য জোর দেয়।"
+      },
+      {
+        "en": "He insisted on speaking first.",
+        "bn": "সে প্রথমে কথা বলার জন্য জোর দিল।"
+      },
+      {
+        "en": "They insisted on following the rules.",
+        "bn": "তারা নিয়ম মানার জন্য জোর দিল।"
+      },
+      {
+        "en": "She insisted on a refund.",
+        "bn": "সে ফেরত দেওয়ার জন্য জোর দিল।"
+      },
+      {
+        "en": "He insisted on her safety.",
+        "bn": "সে তার নিরাপত্তার বিষয়ে জোর দিল।"
+      },
+      {
+        "en": "She kept insisting it was not her fault.",
+        "bn": "সে বারবার জোর দিল যে এটা তার দোষ নয়।"
+      },
+      {
+        "en": "He insisted on a fair deal.",
+        "bn": "সে ন্যায্য চুক্তির জন্য জোর দিল।"
+      },
+      {
+        "en": "She insisted on sitting together.",
+        "bn": "সে একসাথে বসার জন্য জোর দিল।"
+      },
+      {
+        "en": "They insisted on knowing the truth.",
+        "bn": "তারা সত্য জানার জন্য জোর দিল।"
+      },
+      {
+        "en": "He insisted the matter was serious.",
+        "bn": "সে জোর দিল যে বিষয়টি গুরুতর।"
+      }
+    ],
+    "synonyms": ["demand", "persist", "urge", "press", "maintain"]
+  },
+  {
+    "base": "impress",
+    "phonetic": "ɪmˈpres",
+    "meaning": "মুগ্ধ করা / প্রভাবিত করা",
+    "examples": [
+      {
+        "en": "She impressed everyone with her talent.",
+        "bn": "সে তার প্রতিভা দিয়ে সবাইকে মুগ্ধ করল।"
+      },
+      {
+        "en": "He wanted to impress his boss.",
+        "bn": "সে তার বসকে মুগ্ধ করতে চেয়েছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The speech impressed the crowd.",
+        "bn": "বক্তৃতাটি ভিড়কে মুগ্ধ করল।"
+      },
+      {
+        "en": "She impressed the judge with her performance.",
+        "bn": "সে তার পারফরম্যান্স দিয়ে বিচারককে মুগ্ধ করল।"
+      },
+      {
+        "en": "He was impressed by her kindness.",
+        "bn": "সে তার দয়ালুতায় মুগ্ধ হয়েছিল।"
+      },
+      {
+        "en": "She tried to impress her friends.",
+        "bn": "সে তার বন্ধুদের মুগ্ধ করার চেষ্টা করল।"
+      },
+      {
+        "en": "The building impressed all the visitors.",
+        "bn": "ভবনটি সব দর্শনার্থীদের মুগ্ধ করল।"
+      },
+      {
+        "en": "He was impressed by the results.",
+        "bn": "সে ফলাফলে মুগ্ধ হয়েছিল।"
+      },
+      {
+        "en": "She impressed him with her confidence.",
+        "bn": "সে তার আত্মবিশ্বাস দিয়ে তাকে মুগ্ধ করল।"
+      },
+      {
+        "en": "The food impressed all the guests.",
+        "bn": "খাবার সব অতিথিদের মুগ্ধ করল।"
+      },
+      { "en": "He was deeply impressed.", "bn": "সে গভীরভাবে মুগ্ধ হয়েছিল।" },
+      { "en": "She impressed the committee.", "bn": "সে কমিটিকে মুগ্ধ করল।" }
+    ],
+    "synonyms": ["amaze", "awe", "wow", "affect", "move"]
+  },
+  {
+    "base": "impose",
+    "phonetic": "ɪmˈpəʊz",
+    "meaning": "চাপিয়ে দেওয়া / আরোপ করা",
+    "examples": [
+      {
+        "en": "The government imposed a new tax.",
+        "bn": "সরকার একটি নতুন কর আরোপ করল।"
+      },
+      {
+        "en": "She imposed her opinions on others.",
+        "bn": "সে অন্যদের উপর তার মতামত চাপিয়ে দিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He imposed strict rules.", "bn": "সে কঠোর নিয়ম আরোপ করল।" },
+      {
+        "en": "They imposed a curfew on the city.",
+        "bn": "তারা শহরে কারফিউ আরোপ করল।"
+      },
+      {
+        "en": "She imposed limits on spending.",
+        "bn": "সে ব্যয়ের উপর সীমা আরোপ করল।"
+      },
+      {
+        "en": "He imposed his will on the group.",
+        "bn": "সে দলের উপর তার ইচ্ছা চাপিয়ে দিল।"
+      },
+      {
+        "en": "They imposed penalties for late payment.",
+        "bn": "তারা দেরিতে পরিশোধের জন্য জরিমানা আরোপ করল।"
+      },
+      {
+        "en": "She did not want to impose on him.",
+        "bn": "সে তার উপর বোঝা চাপাতে চাইনি।"
+      },
+      {
+        "en": "The teacher imposed discipline.",
+        "bn": "শিক্ষক শৃঙ্খলা আরোপ করলেন।"
+      },
+      {
+        "en": "He imposed unrealistic deadlines.",
+        "bn": "সে অবাস্তব সময়সীমা আরোপ করল।"
+      },
+      {
+        "en": "The law imposes duties on citizens.",
+        "bn": "আইন নাগরিকদের উপর দায়িত্ব আরোপ করে।"
+      },
+      {
+        "en": "She felt the rules were imposed unfairly.",
+        "bn": "সে মনে করল নিয়মগুলো অন্যায়ভাবে আরোপিত হয়েছে।"
+      }
+    ],
+    "synonyms": ["enforce", "inflict", "place", "levy", "force"]
+  },
+  {
+    "base": "include",
+    "phonetic": "ɪnˈkluːd",
+    "meaning": "অন্তর্ভুক্ত করা",
+    "examples": [
+      {
+        "en": "She included her email in the form.",
+        "bn": "সে ফর্মে তার ইমেইল অন্তর্ভুক্ত করল।"
+      },
+      {
+        "en": "He included everyone in the group.",
+        "bn": "সে গ্রুপে সবাইকে অন্তর্ভুক্ত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The menu includes vegetarian options.",
+        "bn": "মেনুতে নিরামিষ বিকল্প অন্তর্ভুক্ত আছে।"
+      },
+      {
+        "en": "She included a note in the gift.",
+        "bn": "সে উপহারের সাথে একটি নোট যুক্ত করল।"
+      },
+      {
+        "en": "He included relevant data in his report.",
+        "bn": "সে তার প্রতিবেদনে প্রাসঙ্গিক তথ্য অন্তর্ভুক্ত করল।"
+      },
+      {
+        "en": "The schedule includes a lunch break.",
+        "bn": "সময়সূচিতে দুপুরের বিরতি অন্তর্ভুক্ত আছে।"
+      },
+      {
+        "en": "She was included in the final list.",
+        "bn": "চূড়ান্ত তালিকায় তাকে অন্তর্ভুক্ত করা হয়েছিল।"
+      },
+      {
+        "en": "The deal includes insurance.",
+        "bn": "চুক্তিতে বীমা অন্তর্ভুক্ত আছে।"
+      },
+      {
+        "en": "He included all possible options.",
+        "bn": "সে সব সম্ভাব্য বিকল্প অন্তর্ভুক্ত করল।"
+      },
+      {
+        "en": "She included diagrams in her presentation.",
+        "bn": "সে তার উপস্থাপনায় ডায়াগ্রাম অন্তর্ভুক্ত করল।"
+      },
+      {
+        "en": "The tour includes hotel accommodation.",
+        "bn": "ভ্রমণে হোটেল বাসস্থান অন্তর্ভুক্ত।"
+      },
+      {
+        "en": "He was not included in the plan.",
+        "bn": "তাকে পরিকল্পনায় অন্তর্ভুক্ত করা হয়নি।"
+      }
+    ],
+    "synonyms": ["incorporate", "encompass", "cover", "count", "admit"]
+  },
+  {
+    "base": "intention",
+    "phonetic": "ɪnˈtenʃn",
+    "meaning": "উদ্দেশ্য / অভিপ্রায়",
+    "examples": [
+      {
+        "en": "His intention was to help.",
+        "bn": "তার উদ্দেশ্য ছিল সাহায্য করা।"
+      },
+      { "en": "She had good intentions.", "bn": "তার ভালো উদ্দেশ্য ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He acted with honest intentions.",
+        "bn": "সে সৎ উদ্দেশ্য নিয়ে কাজ করেছিল।"
+      },
+      {
+        "en": "She declared her intention to leave.",
+        "bn": "সে চলে যাওয়ার উদ্দেশ্য ঘোষণা করল।"
+      },
+      {
+        "en": "His intention was misunderstood.",
+        "bn": "তার উদ্দেশ্য ভুল বোঝা হয়েছিল।"
+      },
+      { "en": "What is your intention?", "bn": "তোমার উদ্দেশ্য কী?" },
+      {
+        "en": "She had no intention of lying.",
+        "bn": "তার মিথ্যা বলার কোনো উদ্দেশ্য ছিল না।"
+      },
+      {
+        "en": "His intention was to improve things.",
+        "bn": "তার উদ্দেশ্য ছিল জিনিসগুলো উন্নত করা।"
+      },
+      {
+        "en": "They questioned his true intentions.",
+        "bn": "তারা তার প্রকৃত উদ্দেশ্য নিয়ে প্রশ্ন তুলল।"
+      },
+      {
+        "en": "She stated her intentions clearly.",
+        "bn": "সে স্পষ্টভাবে তার উদ্দেশ্য জানাল।"
+      },
+      {
+        "en": "Good intentions are not always enough.",
+        "bn": "ভালো উদ্দেশ্য সবসময় যথেষ্ট নয়।"
+      },
+      {
+        "en": "He had no intention of giving up.",
+        "bn": "তার ছেড়ে দেওয়ার কোনো উদ্দেশ্য ছিল না।"
+      }
+    ],
+    "synonyms": ["purpose", "aim", "goal", "plan", "motive"]
+  },
+  {
+    "base": "interior",
+    "phonetic": "ɪnˈtɪəriər",
+    "meaning": "অভ্যন্তরীণ / ভেতরের অংশ",
+    "examples": [
+      {
+        "en": "The interior of the house was beautiful.",
+        "bn": "বাড়ির ভেতরের অংশ সুন্দর ছিল।"
+      },
+      {
+        "en": "She studied interior design.",
+        "bn": "সে ইন্টেরিয়র ডিজাইন অধ্যয়ন করেছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The car interior was spacious.",
+        "bn": "গাড়ির ভেতরটা প্রশস্ত ছিল।"
+      },
+      {
+        "en": "He painted the interior walls blue.",
+        "bn": "সে ভেতরের দেয়ালগুলো নীল রং করল।"
+      },
+      {
+        "en": "The hotel interior was luxurious.",
+        "bn": "হোটেলের ভেতরটা বিলাসবহুল ছিল।"
+      },
+      {
+        "en": "She decorated the interior beautifully.",
+        "bn": "সে ভেতরের অংশ সুন্দরভাবে সাজাল।"
+      },
+      {
+        "en": "The interior ministry handles security.",
+        "bn": "স্বরাষ্ট্র মন্ত্রণালয় নিরাপত্তা সামলায়।"
+      },
+      {
+        "en": "He explored the interior of the cave.",
+        "bn": "সে গুহার ভেতরের অংশ অন্বেষণ করল।"
+      },
+      {
+        "en": "The interior of the building was dark.",
+        "bn": "ভবনটির ভেতরটা অন্ধকার ছিল।"
+      },
+      {
+        "en": "She redesigned the restaurant's interior.",
+        "bn": "সে রেস্তোরাঁর ভেতরের অংশ পুনরায় ডিজাইন করল।"
+      },
+      {
+        "en": "The interior walls needed repair.",
+        "bn": "ভেতরের দেয়ালগুলো মেরামতের প্রয়োজন ছিল।"
+      },
+      {
+        "en": "He admired the modern interior.",
+        "bn": "সে আধুনিক ভেতরের অংশের প্রশংসা করল।"
+      }
+    ],
+    "synonyms": ["inner", "inside", "internal", "indoor", "within"]
+  },
+  {
+    "base": "irritate",
+    "phonetic": "ˈɪrɪteɪt",
+    "meaning": "বিরক্ত করা / জ্বালাতন করা",
+    "examples": [
+      { "en": "The noise irritated him.", "bn": "শোরগোল তাকে বিরক্ত করল।" },
+      { "en": "She was irritated by the delay.", "bn": "বিলম্বে সে বিরক্ত হল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "His behavior irritated everyone.",
+        "bn": "তার আচরণ সবাইকে বিরক্ত করল।"
+      },
+      {
+        "en": "She irritated her skin with the soap.",
+        "bn": "সাবানে তার ত্বক জ্বালাতন করল।"
+      },
+      { "en": "He was easily irritated.", "bn": "সে সহজেই বিরক্ত হয়ে যেত।" },
+      {
+        "en": "The constant questions irritated her.",
+        "bn": "ক্রমাগত প্রশ্ন তাকে বিরক্ত করল।"
+      },
+      {
+        "en": "Bright light can irritate the eyes.",
+        "bn": "তীব্র আলো চোখে জ্বালাতন করতে পারে।"
+      },
+      {
+        "en": "He was irritated by the wait.",
+        "bn": "অপেক্ষায় সে বিরক্ত হয়ে গেল।"
+      },
+      {
+        "en": "She tried not to irritate him.",
+        "bn": "সে তাকে বিরক্ত না করার চেষ্টা করল।"
+      },
+      {
+        "en": "Dust irritates his allergies.",
+        "bn": "ধুলো তার এলার্জি জ্বালাতন করে।"
+      },
+      {
+        "en": "He irritated the wound by scratching.",
+        "bn": "আঁচড়ে ক্ষতটি জ্বালাতন হল।"
+      },
+      {
+        "en": "Her loud voice irritated the neighbours.",
+        "bn": "তার উচ্চস্বর প্রতিবেশীদের বিরক্ত করল।"
+      }
+    ],
+    "synonyms": ["annoy", "bother", "provoke", "aggravate", "vex"]
+  },
+  {
+    "base": "impact",
+    "phonetic": "ˈɪmpækt",
+    "meaning": "প্রভাব / আঘাত",
+    "examples": [
+      {
+        "en": "The news had a big impact on her.",
+        "bn": "সংবাদটি তার উপর বড় প্রভাব ফেলল।"
+      },
+      {
+        "en": "Technology has a huge impact on society.",
+        "bn": "প্রযুক্তি সমাজে ব্যাপক প্রভাব ফেলে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The earthquake had a devastating impact.",
+        "bn": "ভূমিকম্পটির ভয়াবহ প্রভাব পড়েছিল।"
+      },
+      {
+        "en": "She made a positive impact on others.",
+        "bn": "সে অন্যদের উপর ইতিবাচক প্রভাব ফেলেছে।"
+      },
+      {
+        "en": "The decision impacted everyone.",
+        "bn": "সিদ্ধান্তটি সবাইকে প্রভাবিত করেছিল।"
+      },
+      {
+        "en": "He felt the impact of the loss.",
+        "bn": "সে ক্ষতির প্রভাব অনুভব করল।"
+      },
+      {
+        "en": "The campaign had a lasting impact.",
+        "bn": "প্রচারণাটির দীর্ঘস্থায়ী প্রভাব ছিল।"
+      },
+      {
+        "en": "Climate change has a global impact.",
+        "bn": "জলবায়ু পরিবর্তনের বৈশ্বিক প্রভাব রয়েছে।"
+      },
+      {
+        "en": "The book had a strong impact on readers.",
+        "bn": "বইটি পাঠকদের উপর শক্তিশালী প্রভাব ফেলেছিল।"
+      },
+      {
+        "en": "She analyzed the impact of the policy.",
+        "bn": "সে নীতিমালার প্রভাব বিশ্লেষণ করল।"
+      },
+      {
+        "en": "The impact of the crash was severe.",
+        "bn": "সংঘর্ষের আঘাত ছিল মারাত্মক।"
+      },
+      {
+        "en": "His words had a deep impact on me.",
+        "bn": "তার কথাগুলো আমার উপর গভীর প্রভাব ফেলেছিল।"
+      }
+    ],
+    "synonyms": ["effect", "influence", "consequence", "impression", "force"]
+  },
+  {
+    "base": "indicate",
+    "phonetic": "ˈɪndɪkeɪt",
+    "meaning": "নির্দেশ করা / ইঙ্গিত দেওয়া",
+    "examples": [
+      {
+        "en": "The sign indicates the direction.",
+        "bn": "চিহ্নটি দিক নির্দেশ করে।"
+      },
+      {
+        "en": "She indicated her preference.",
+        "bn": "সে তার পছন্দ ইঙ্গিত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He indicated the problem area.",
+        "bn": "সে সমস্যার জায়গাটি নির্দেশ করল।"
+      },
+      {
+        "en": "The data indicates a rise in temperature.",
+        "bn": "তথ্য তাপমাত্রা বৃদ্ধির ইঙ্গিত দেয়।"
+      },
+      {
+        "en": "She indicated she was not happy.",
+        "bn": "সে ইঙ্গিত দিল যে সে খুশি নয়।"
+      },
+      {
+        "en": "He indicated his agreement by nodding.",
+        "bn": "মাথা নেড়ে সে তার সম্মতি ইঙ্গিত করল।"
+      },
+      {
+        "en": "The results indicate success.",
+        "bn": "ফলাফল সাফল্যের ইঙ্গিত দেয়।"
+      },
+      {
+        "en": "She indicated the correct answer.",
+        "bn": "সে সঠিক উত্তর নির্দেশ করল।"
+      },
+      {
+        "en": "The map indicates the route.",
+        "bn": "মানচিত্র পথ নির্দেশ করে।"
+      },
+      {
+        "en": "He indicated the problem on the chart.",
+        "bn": "সে চার্টে সমস্যাটি নির্দেশ করল।"
+      },
+      {
+        "en": "The symptoms indicate a cold.",
+        "bn": "লক্ষণগুলো সর্দির ইঙ্গিত দেয়।"
+      },
+      {
+        "en": "She indicated her arrival time.",
+        "bn": "সে তার আগমনের সময় ইঙ্গিত দিল।"
+      }
+    ],
+    "synonyms": ["show", "point", "signal", "suggest", "mark"]
+  },
+  {
+    "base": "indulge",
+    "phonetic": "ɪnˈdʌldʒ",
+    "meaning": "প্রশ্রয় দেওয়া / আনন্দ উপভোগ করা",
+    "examples": [
+      {
+        "en": "She indulged in chocolate after dinner.",
+        "bn": "রাতের খাবারের পরে সে চকলেট উপভোগ করল।"
+      },
+      {
+        "en": "He indulged his child too much.",
+        "bn": "সে তার সন্তানকে অনেক বেশি প্রশ্রয় দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She indulged in reading for hours.",
+        "bn": "সে ঘণ্টার পর ঘণ্টা পড়ার আনন্দ উপভোগ করল।"
+      },
+      {
+        "en": "He indulged his love of music.",
+        "bn": "সে সঙ্গীতের প্রতি তার ভালোবাসা উপভোগ করল।"
+      },
+      {
+        "en": "She indulged herself with a long vacation.",
+        "bn": "সে দীর্ঘ ছুটি নিয়ে নিজেকে আনন্দ দিল।"
+      },
+      {
+        "en": "Don't indulge in bad habits.",
+        "bn": "খারাপ অভ্যাসে প্রশ্রয় দিও না।"
+      },
+      {
+        "en": "He indulged in lazy behavior.",
+        "bn": "সে আলস্যে প্রশ্রয় দিল।"
+      },
+      {
+        "en": "She indulged the guest's every wish.",
+        "bn": "সে অতিথির প্রতিটি ইচ্ছা পূরণ করল।"
+      },
+      {
+        "en": "They indulged in a shopping spree.",
+        "bn": "তারা কেনাকাটার উৎসবে মেতে উঠল।"
+      },
+      {
+        "en": "He rarely indulges in sweets.",
+        "bn": "সে খুব কমই মিষ্টি উপভোগ করে।"
+      },
+      {
+        "en": "She indulged her creative side.",
+        "bn": "সে তার সৃজনশীল দিকটি উপভোগ করল।"
+      },
+      {
+        "en": "He indulged in long afternoon naps.",
+        "bn": "সে দীর্ঘ বিকেলের ঘুম উপভোগ করত।"
+      }
+    ],
+    "synonyms": ["pamper", "gratify", "satisfy", "spoil", "treat"]
+  },
+  {
+    "base": "initial",
+    "phonetic": "ɪˈnɪʃl",
+    "meaning": "প্রাথমিক / শুরুর",
+    "examples": [
+      {
+        "en": "His initial reaction was surprise.",
+        "bn": "তার প্রাথমিক প্রতিক্রিয়া ছিল অবাক হওয়া।"
+      },
+      {
+        "en": "She wrote her initials on the document.",
+        "bn": "সে নথিতে তার আদ্যাক্ষর লিখল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The initial plan was simple.",
+        "bn": "প্রাথমিক পরিকল্পনা সহজ ছিল।"
+      },
+      {
+        "en": "He made an initial investment.",
+        "bn": "সে প্রাথমিক বিনিয়োগ করল।"
+      },
+      {
+        "en": "The initial results were positive.",
+        "bn": "প্রাথমিক ফলাফল ইতিবাচক ছিল।"
+      },
+      {
+        "en": "She showed initial resistance.",
+        "bn": "সে প্রাথমিক প্রতিরোধ দেখাল।"
+      },
+      {
+        "en": "His initial impression was wrong.",
+        "bn": "তার প্রাথমিক ধারণা ভুল ছিল।"
+      },
+      {
+        "en": "The initial stage was the hardest.",
+        "bn": "প্রাথমিক পর্যায়টি ছিল সবচেয়ে কঠিন।"
+      },
+      {
+        "en": "She passed the initial interview.",
+        "bn": "সে প্রাথমিক সাক্ষাৎকার পাস করল।"
+      },
+      { "en": "He signed his initials.", "bn": "সে তার আদ্যাক্ষর সই করল।" },
+      {
+        "en": "Initial training takes two weeks.",
+        "bn": "প্রাথমিক প্রশিক্ষণ দুই সপ্তাহ লাগে।"
+      },
+      {
+        "en": "She had an initial fear of the exam.",
+        "bn": "পরীক্ষার প্রাথমিক ভয় তার ছিল।"
+      }
+    ],
+    "synonyms": ["first", "early", "beginning", "opening", "primary"]
+  },
+  {
+    "base": "input",
+    "phonetic": "ˈɪnpʊt",
+    "meaning": "তথ্য প্রদান / মতামত / ইনপুট",
+    "examples": [
+      {
+        "en": "She gave valuable input to the project.",
+        "bn": "সে প্রকল্পে মূল্যবান মতামত দিল।"
+      },
+      {
+        "en": "Please input your password.",
+        "bn": "আপনার পাসওয়ার্ড ইনপুট করুন।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He inputted the data into the system.",
+        "bn": "সে সিস্টেমে তথ্য ইনপুট করল।"
+      },
+      {
+        "en": "She appreciated everyone's input.",
+        "bn": "সে সবার মতামতের প্রশংসা করল।"
+      },
+      {
+        "en": "Input from users helped improve the app.",
+        "bn": "ব্যবহারকারীদের ইনপুট অ্যাপটি উন্নত করতে সাহায্য করেছে।"
+      },
+      {
+        "en": "He asked for input before deciding.",
+        "bn": "সিদ্ধান্ত নেওয়ার আগে সে মতামত চাইল।"
+      },
+      {
+        "en": "The machine processes the input.",
+        "bn": "যন্ত্রটি ইনপুট প্রক্রিয়া করে।"
+      },
+      {
+        "en": "She entered her input on the keyboard.",
+        "bn": "সে কীবোর্ডে তার ইনপুট দিল।"
+      },
+      {
+        "en": "He welcomed input from the team.",
+        "bn": "সে দলের মতামতকে স্বাগত জানাল।"
+      },
+      {
+        "en": "The input was carefully reviewed.",
+        "bn": "ইনপুটটি সাবধানে পর্যালোচনা করা হয়েছিল।"
+      },
+      {
+        "en": "She had no input in the decision.",
+        "bn": "সিদ্ধান্তে তার কোনো মতামত ছিল না।"
+      },
+      {
+        "en": "Input errors can cause problems.",
+        "bn": "ইনপুট ত্রুটি সমস্যার কারণ হতে পারে।"
+      }
+    ],
+    "synonyms": ["contribution", "data", "feedback", "entry", "information"]
+  },
+  {
+    "base": "inquire",
+    "phonetic": "ɪnˈkwaɪər",
+    "meaning": "জিজ্ঞাসা করা / অনুসন্ধান করা",
+    "examples": [
+      {
+        "en": "She inquired about the job.",
+        "bn": "সে চাকরির বিষয়ে জিজ্ঞাসা করল।"
+      },
+      {
+        "en": "He inquired at the front desk.",
+        "bn": "সে সামনের ডেস্কে জিজ্ঞাসা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They inquired about the price.",
+        "bn": "তারা দাম সম্পর্কে জিজ্ঞাসা করল।"
+      },
+      {
+        "en": "She inquired about the schedule.",
+        "bn": "সে সময়সূচি সম্পর্কে জিজ্ঞাসা করল।"
+      },
+      { "en": "He inquired politely.", "bn": "সে ভদ্রভাবে জিজ্ঞাসা করল।" },
+      {
+        "en": "They inquired into the matter.",
+        "bn": "তারা বিষয়টি সম্পর্কে অনুসন্ধান করল।"
+      },
+      {
+        "en": "She inquired about the application process.",
+        "bn": "সে আবেদন প্রক্রিয়া সম্পর্কে জিজ্ঞাসা করল।"
+      },
+      {
+        "en": "He inquired if she was okay.",
+        "bn": "সে জিজ্ঞাসা করল সে ভালো কিনা।"
+      },
+      {
+        "en": "She inquired about the nearest hospital.",
+        "bn": "সে কাছের হাসপাতালের বিষয়ে জিজ্ঞাসা করল।"
+      },
+      {
+        "en": "He inquired about the results.",
+        "bn": "সে ফলাফল সম্পর্কে জিজ্ঞাসা করল।"
+      },
+      {
+        "en": "They inquired about accommodation.",
+        "bn": "তারা থাকার জায়গা সম্পর্কে জিজ্ঞাসা করল।"
+      },
+      {
+        "en": "She inquired into the background of the person.",
+        "bn": "সে ব্যক্তির পটভূমি সম্পর্কে অনুসন্ধান করল।"
+      }
+    ],
+    "synonyms": ["ask", "question", "probe", "query", "investigate"]
+  },
+  {
+    "base": "insight",
+    "phonetic": "ˈɪnsaɪt",
+    "meaning": "অন্তর্দৃষ্টি / বিশেষ জ্ঞান",
+    "examples": [
+      {
+        "en": "She offered valuable insights.",
+        "bn": "সে মূল্যবান অন্তর্দৃষ্টি প্রদান করল।"
+      },
+      {
+        "en": "He had deep insight into the problem.",
+        "bn": "সমস্যাটি সম্পর্কে তার গভীর অন্তর্দৃষ্টি ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The book gave great insights into history.",
+        "bn": "বইটি ইতিহাস সম্পর্কে দারুণ অন্তর্দৃষ্টি দিল।"
+      },
+      {
+        "en": "She has insight into human nature.",
+        "bn": "মানব স্বভাব সম্পর্কে তার অন্তর্দৃষ্টি আছে।"
+      },
+      {
+        "en": "His insight surprised everyone.",
+        "bn": "তার অন্তর্দৃষ্টি সবাইকে অবাক করল।"
+      },
+      {
+        "en": "The data provided useful insights.",
+        "bn": "তথ্যটি দরকারী অন্তর্দৃষ্টি প্রদান করল।"
+      },
+      {
+        "en": "She gained new insights from the seminar.",
+        "bn": "সে সেমিনার থেকে নতুন অন্তর্দৃষ্টি পেয়েছে।"
+      },
+      {
+        "en": "His insights helped solve the issue.",
+        "bn": "তার অন্তর্দৃষ্টি সমস্যা সমাধানে সাহায্য করেছিল।"
+      },
+      {
+        "en": "Good leaders have strong insight.",
+        "bn": "ভালো নেতাদের শক্তিশালী অন্তর্দৃষ্টি থাকে।"
+      },
+      {
+        "en": "She shared her insight with the group.",
+        "bn": "সে গ্রুপের সাথে তার অন্তর্দৃষ্টি শেয়ার করল।"
+      },
+      {
+        "en": "The report lacked insight.",
+        "bn": "প্রতিবেদনে অন্তর্দৃষ্টির অভাব ছিল।"
+      },
+      {
+        "en": "He gained insight through experience.",
+        "bn": "অভিজ্ঞতার মাধ্যমে সে অন্তর্দৃষ্টি অর্জন করল।"
+      }
+    ],
+    "synonyms": [
+      "understanding",
+      "perception",
+      "wisdom",
+      "awareness",
+      "intuition"
+    ]
+  },
+  {
+    "base": "inspire",
+    "phonetic": "ɪnˈspaɪər",
+    "meaning": "অনুপ্রাণিত করা",
+    "examples": [
+      {
+        "en": "The leader inspired the nation.",
+        "bn": "নেতা জাতিকে অনুপ্রাণিত করেছিলেন।"
+      },
+      {
+        "en": "She was inspired by great artists.",
+        "bn": "সে মহান শিল্পীদের দ্বারা অনুপ্রাণিত হয়েছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He inspires everyone around him.",
+        "bn": "সে তার আশেপাশের সবাইকে অনুপ্রাণিত করে।"
+      },
+      {
+        "en": "She was inspired to paint after the trip.",
+        "bn": "ভ্রমণের পরে সে চিত্রকলায় অনুপ্রাণিত হল।"
+      },
+      {
+        "en": "The teacher inspired love of learning.",
+        "bn": "শিক্ষক শেখার প্রতি ভালোবাসা অনুপ্রাণিত করলেন।"
+      },
+      { "en": "The story inspired hope.", "bn": "গল্পটি আশার অনুপ্রেরণা দিল।" },
+      {
+        "en": "He inspires through his actions.",
+        "bn": "সে তার কাজের মাধ্যমে অনুপ্রাণিত করে।"
+      },
+      {
+        "en": "She was inspired by the natural beauty.",
+        "bn": "সে প্রাকৃতিক সৌন্দর্যে অনুপ্রাণিত হয়েছিল।"
+      },
+      {
+        "en": "The poem inspired many readers.",
+        "bn": "কবিতাটি অনেক পাঠককে অনুপ্রাণিত করেছে।"
+      },
+      {
+        "en": "He inspired her to never give up.",
+        "bn": "সে তাকে কখনো না হার মানার অনুপ্রেরণা দিল।"
+      },
+      {
+        "en": "She inspired confidence in her team.",
+        "bn": "সে তার দলে আত্মবিশ্বাস জাগিয়ে তুলেছিল।"
+      },
+      {
+        "en": "The sunset inspired him to write a poem.",
+        "bn": "সূর্যাস্ত তাকে একটি কবিতা লিখতে অনুপ্রাণিত করল।"
+      }
+    ],
+    "synonyms": ["motivate", "encourage", "stimulate", "spark", "move"]
+  },
+  {
+    "base": "instrument",
+    "phonetic": "ˈɪnstrəmənt",
+    "meaning": "যন্ত্র / সরঞ্জাম / বাদ্যযন্ত্র",
+    "examples": [
+      {
+        "en": "She plays a musical instrument.",
+        "bn": "সে একটি বাদ্যযন্ত্র বাজায়।"
+      },
+      {
+        "en": "He used surgical instruments.",
+        "bn": "সে শল্যচিকিৎসা সরঞ্জাম ব্যবহার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The guitar is a popular instrument.",
+        "bn": "গিটার একটি জনপ্রিয় বাদ্যযন্ত্র।"
+      },
+      {
+        "en": "She mastered several instruments.",
+        "bn": "সে বেশ কয়েকটি বাদ্যযন্ত্রে দক্ষতা অর্জন করেছে।"
+      },
+      {
+        "en": "He used a measuring instrument.",
+        "bn": "সে একটি পরিমাপ যন্ত্র ব্যবহার করল।"
+      },
+      {
+        "en": "The instrument was finely tuned.",
+        "bn": "যন্ত্রটি সূক্ষ্মভাবে সুর করা হয়েছিল।"
+      },
+      {
+        "en": "She bought a new instrument.",
+        "bn": "সে একটি নতুন বাদ্যযন্ত্র কিনল।"
+      },
+      {
+        "en": "The scientific instrument was precise.",
+        "bn": "বৈজ্ঞানিক যন্ত্রটি নির্ভুল ছিল।"
+      },
+      {
+        "en": "He played the instrument beautifully.",
+        "bn": "সে সুন্দরভাবে যন্ত্রটি বাজাল।"
+      },
+      {
+        "en": "The instrument panel was confusing.",
+        "bn": "যন্ত্রের প্যানেলটি বিভ্রান্তিকর ছিল।"
+      },
+      {
+        "en": "She used the law as an instrument of justice.",
+        "bn": "সে আইনকে ন্যায়বিচারের হাতিয়ার হিসেবে ব্যবহার করল।"
+      },
+      {
+        "en": "He repaired the broken instrument.",
+        "bn": "সে ভাঙা যন্ত্রটি মেরামত করল।"
+      }
+    ],
+    "synonyms": ["tool", "device", "apparatus", "gadget", "implement"]
+  },
+  {
+    "base": "integrate",
+    "phonetic": "ˈɪntɪɡreɪt",
+    "meaning": "একত্রিত করা / সমন্বয় করা",
+    "examples": [
+      {
+        "en": "She integrated new ideas into her work.",
+        "bn": "সে তার কাজে নতুন ধারণা একত্রিত করল।"
+      },
+      {
+        "en": "The school integrated students from different backgrounds.",
+        "bn": "স্কুলটি বিভিন্ন পটভূমির শিক্ষার্থীদের একত্রিত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He integrated the two systems.",
+        "bn": "সে দুটি সিস্টেম একত্রিত করল।"
+      },
+      {
+        "en": "She integrated technology into teaching.",
+        "bn": "সে শিক্ষায় প্রযুক্তি সমন্বয় করল।"
+      },
+      {
+        "en": "They worked to integrate immigrants.",
+        "bn": "তারা অভিবাসীদের একত্রিত করতে কাজ করল।"
+      },
+      {
+        "en": "He integrated data from multiple sources.",
+        "bn": "সে একাধিক উৎস থেকে তথ্য একত্রিত করল।"
+      },
+      {
+        "en": "The app integrates with email.",
+        "bn": "অ্যাপটি ইমেইলের সাথে সমন্বয় করে।"
+      },
+      {
+        "en": "She integrated all the feedback.",
+        "bn": "সে সমস্ত মতামত একত্রিত করল।"
+      },
+      {
+        "en": "He successfully integrated into the team.",
+        "bn": "সে সফলভাবে দলে একত্রিত হল।"
+      },
+      {
+        "en": "The program integrates math and science.",
+        "bn": "প্রোগ্রামটি গণিত ও বিজ্ঞান একত্রিত করে।"
+      },
+      {
+        "en": "She integrated design with function.",
+        "bn": "সে নকশা ও কার্যকারিতা একত্রিত করল।"
+      },
+      {
+        "en": "They integrated their plans smoothly.",
+        "bn": "তারা তাদের পরিকল্পনা মসৃণভাবে সমন্বয় করল।"
+      }
+    ],
+    "synonyms": ["combine", "merge", "unify", "blend", "incorporate"]
+  },
+  {
+    "base": "interfere",
+    "phonetic": "ˌɪntəˈfɪər",
+    "meaning": "হস্তক্ষেপ করা / বাধা দেওয়া",
+    "examples": [
+      {
+        "en": "Don't interfere in their argument.",
+        "bn": "তাদের তর্কে হস্তক্ষেপ করো না।"
+      },
+      { "en": "He interfered with the plan.", "bn": "সে পরিকল্পনায় বাধা দিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She interfered in her children's decisions.",
+        "bn": "সে তার সন্তানদের সিদ্ধান্তে হস্তক্ষেপ করল।"
+      },
+      {
+        "en": "The noise interfered with her study.",
+        "bn": "শোরগোল তার পড়াশোনায় বাধা দিল।"
+      },
+      {
+        "en": "He interfered unnecessarily.",
+        "bn": "সে অপ্রয়োজনীয়ভাবে হস্তক্ষেপ করল।"
+      },
+      {
+        "en": "The signal interfered with the broadcast.",
+        "bn": "সংকেতটি সম্প্রচারে বাধা দিল।"
+      },
+      {
+        "en": "She asked him not to interfere.",
+        "bn": "সে তাকে হস্তক্ষেপ না করতে বলল।"
+      },
+      {
+        "en": "Emotions can interfere with judgment.",
+        "bn": "আবেগ বিচার-বুদ্ধিতে বাধা দিতে পারে।"
+      },
+      {
+        "en": "He interfered in the process.",
+        "bn": "সে প্রক্রিয়ায় হস্তক্ষেপ করল।"
+      },
+      {
+        "en": "She did not want anyone to interfere.",
+        "bn": "সে চাইনি কেউ হস্তক্ষেপ করুক।"
+      },
+      {
+        "en": "The virus interfered with the software.",
+        "bn": "ভাইরাসটি সফ্টওয়্যারে বাধা দিল।"
+      },
+      {
+        "en": "He was told not to interfere.",
+        "bn": "তাকে হস্তক্ষেপ না করতে বলা হয়েছিল।"
+      }
+    ],
+    "synonyms": ["meddle", "intervene", "intrude", "disrupt", "obstruct"]
+  },
+  {
+    "base": "interview",
+    "phonetic": "ˈɪntəvjuː",
+    "meaning": "সাক্ষাৎকার / ইন্টারভিউ",
+    "examples": [
+      {
+        "en": "She got a job interview.",
+        "bn": "তার একটি চাকরির সাক্ষাৎকার হল।"
+      },
+      {
+        "en": "He interviewed the candidate.",
+        "bn": "সে প্রার্থীর সাক্ষাৎকার নিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The journalist interviewed the president.",
+        "bn": "সাংবাদিক রাষ্ট্রপতির সাক্ষাৎকার নিলেন।"
+      },
+      {
+        "en": "She was nervous before the interview.",
+        "bn": "সাক্ষাৎকারের আগে সে নার্ভাস ছিল।"
+      },
+      {
+        "en": "He passed the interview easily.",
+        "bn": "সে সহজেই সাক্ষাৎকার পাস করল।"
+      },
+      {
+        "en": "The interview lasted one hour.",
+        "bn": "সাক্ষাৎকারটি এক ঘণ্টা স্থায়ী হল।"
+      },
+      {
+        "en": "She prepared well for the interview.",
+        "bn": "সে সাক্ষাৎকারের জন্য ভালোভাবে প্রস্তুতি নিল।"
+      },
+      {
+        "en": "He was selected after the final interview.",
+        "bn": "চূড়ান্ত সাক্ষাৎকারের পরে তাকে নির্বাচন করা হল।"
+      },
+      {
+        "en": "The interview went very well.",
+        "bn": "সাক্ষাৎকারটি খুব ভালো হল।"
+      },
+      {
+        "en": "She gave a brilliant interview.",
+        "bn": "সে একটি চমৎকার সাক্ষাৎকার দিল।"
+      },
+      {
+        "en": "He asked tough interview questions.",
+        "bn": "সে কঠিন সাক্ষাৎকারের প্রশ্ন করল।"
+      },
+      {
+        "en": "She had three interviews in one week.",
+        "bn": "এক সপ্তাহে তার তিনটি সাক্ষাৎকার ছিল।"
+      }
+    ],
+    "synonyms": [
+      "meeting",
+      "discussion",
+      "questioning",
+      "evaluation",
+      "assessment"
+    ]
+  },
+  {
+    "base": "institute",
+    "phonetic": "ˈɪnstɪtjuːt",
+    "meaning": "প্রতিষ্ঠান / চালু করা",
+    "examples": [
+      {
+        "en": "He joined a top research institute.",
+        "bn": "সে একটি শীর্ষ গবেষণা প্রতিষ্ঠানে যোগ দিল।"
+      },
+      {
+        "en": "The government instituted new reforms.",
+        "bn": "সরকার নতুন সংস্কার চালু করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She founded a language institute.",
+        "bn": "সে একটি ভাষা প্রতিষ্ঠান স্থাপন করল।"
+      },
+      {
+        "en": "He studied at the film institute.",
+        "bn": "সে চলচ্চিত্র প্রতিষ্ঠানে পড়াশোনা করল।"
+      },
+      {
+        "en": "They instituted new guidelines.",
+        "bn": "তারা নতুন নির্দেশিকা চালু করল।"
+      },
+      {
+        "en": "The institute provides scholarships.",
+        "bn": "প্রতিষ্ঠানটি বৃত্তি প্রদান করে।"
+      },
+      {
+        "en": "She worked at a health institute.",
+        "bn": "সে একটি স্বাস্থ্য প্রতিষ্ঠানে কাজ করল।"
+      },
+      { "en": "He instituted a dress code.", "bn": "সে পোশাক বিধি চালু করল।" },
+      {
+        "en": "The training institute is reputable.",
+        "bn": "প্রশিক্ষণ প্রতিষ্ঠানটি সুনামধন্য।"
+      },
+      {
+        "en": "She graduated from the art institute.",
+        "bn": "সে শিল্প প্রতিষ্ঠান থেকে স্নাতক হয়েছে।"
+      },
+      {
+        "en": "He instituted a new award.",
+        "bn": "সে একটি নতুন পুরস্কার চালু করল।"
+      },
+      {
+        "en": "The institute offers evening classes.",
+        "bn": "প্রতিষ্ঠানটি সন্ধ্যাকালীন ক্লাস অফার করে।"
+      }
+    ],
+    "synonyms": [
+      "organization",
+      "center",
+      "foundation",
+      "establish",
+      "introduce"
+    ]
+  },
+  {
+    "base": "inhabit",
+    "phonetic": "ɪnˈhæbɪt",
+    "meaning": "বসবাস করা / বাস করা",
+    "examples": [
+      {
+        "en": "Many animals inhabit the forest.",
+        "bn": "অনেক প্রাণী বনে বাস করে।"
+      },
+      {
+        "en": "She inhabits a small apartment.",
+        "bn": "সে একটি ছোট অ্যাপার্টমেন্টে বাস করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He inhabits the same house for years.",
+        "bn": "সে বছরের পর বছর ধরে একই বাড়িতে বাস করে।"
+      },
+      {
+        "en": "People have inhabited this land for centuries.",
+        "bn": "মানুষ শতাব্দী ধরে এই ভূমিতে বাস করছে।"
+      },
+      {
+        "en": "Strange creatures inhabit the deep sea.",
+        "bn": "গভীর সমুদ্রে অদ্ভুত প্রাণীরা বাস করে।"
+      },
+      {
+        "en": "She inhabits a world of books and art.",
+        "bn": "সে বইয়ের ও শিল্পের জগতে বাস করে।"
+      },
+      {
+        "en": "He inhabits a lonely island.",
+        "bn": "সে একটি নির্জন দ্বীপে বাস করে।"
+      },
+      {
+        "en": "They inhabit the mountainous region.",
+        "bn": "তারা পার্বত্য অঞ্চলে বাস করে।"
+      },
+      {
+        "en": "Wild birds inhabit the wetlands.",
+        "bn": "বন্যপাখিরা জলাভূমিতে বাস করে।"
+      },
+      {
+        "en": "She inhabits a small village.",
+        "bn": "সে একটি ছোট গ্রামে বাস করে।"
+      },
+      {
+        "en": "He inhabits his own imaginary world.",
+        "bn": "সে তার নিজস্ব কল্পনার জগতে বাস করে।"
+      },
+      {
+        "en": "The island is inhabited by native people.",
+        "bn": "দ্বীপটিতে আদিবাসী মানুষেরা বাস করে।"
+      }
+    ],
+    "synonyms": ["live in", "occupy", "reside", "dwell", "settle"]
+  },
+  {
+    "base": "inherit",
+    "phonetic": "ɪnˈherɪt",
+    "meaning": "উত্তরাধিকার পাওয়া / পাওয়া",
+    "examples": [
+      {
+        "en": "She inherited her mother's ring.",
+        "bn": "সে তার মায়ের আংটি উত্তরাধিকারে পেল।"
+      },
+      {
+        "en": "He inherited the family business.",
+        "bn": "সে পারিবারিক ব্যবসা উত্তরাধিকারে পেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She inherited her father's intelligence.",
+        "bn": "সে তার বাবার বুদ্ধিমত্তা উত্তরাধিকারে পেয়েছে।"
+      },
+      {
+        "en": "He inherited a large estate.",
+        "bn": "সে একটি বড় সম্পত্তি উত্তরাধিকারে পেল।"
+      },
+      {
+        "en": "They inherited the old house.",
+        "bn": "তারা পুরনো বাড়িটি উত্তরাধিকারে পেয়েছে।"
+      },
+      {
+        "en": "She inherited a love of music from her parents.",
+        "bn": "সে বাবা-মায়ের কাছ থেকে সঙ্গীতের প্রতি ভালোবাসা উত্তরাধিকারে পেয়েছে।"
+      },
+      {
+        "en": "He inherited the property after his father passed.",
+        "bn": "বাবার মৃত্যুর পরে সে সম্পত্তি উত্তরাধিকারে পেল।"
+      },
+      {
+        "en": "She inherited her grandmother's recipe.",
+        "bn": "সে দাদির রেসিপি উত্তরাধিকারে পেয়েছে।"
+      },
+      {
+        "en": "He inherited good genes.",
+        "bn": "সে ভালো জিন উত্তরাধিকারে পেয়েছে।"
+      },
+      {
+        "en": "They inherited a beautiful garden.",
+        "bn": "তারা একটি সুন্দর বাগান উত্তরাধিকারে পেয়েছে।"
+      },
+      {
+        "en": "She inherited her talent from her father.",
+        "bn": "সে তার বাবার কাছ থেকে প্রতিভা উত্তরাধিকারে পেয়েছে।"
+      },
+      {
+        "en": "He inherited a debt instead of savings.",
+        "bn": "সে সঞ্চয়ের বদলে ঋণ উত্তরাধিকারে পেল।"
+      }
+    ],
+    "synonyms": ["receive", "acquire", "succeed to", "obtain", "come into"]
+  },
+  {
+    "base": "initiative",
+    "phonetic": "ɪˈnɪʃətɪv",
+    "meaning": "উদ্যোগ / সূচনা",
+    "examples": [
+      {
+        "en": "She took the initiative to help.",
+        "bn": "সে সাহায্য করার উদ্যোগ নিল।"
+      },
+      {
+        "en": "He showed great initiative at work.",
+        "bn": "কাজে সে দুর্দান্ত উদ্যোগ দেখাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The initiative was a great success.",
+        "bn": "উদ্যোগটি দুর্দান্ত সাফল্য পেয়েছে।"
+      },
+      {
+        "en": "She launched a new initiative.",
+        "bn": "সে একটি নতুন উদ্যোগ চালু করল।"
+      },
+      {
+        "en": "He always takes the initiative.",
+        "bn": "সে সবসময় উদ্যোগ নেয়।"
+      },
+      {
+        "en": "The community supported the initiative.",
+        "bn": "সম্প্রদায় উদ্যোগটিকে সমর্থন করল।"
+      },
+      {
+        "en": "She praised his initiative.",
+        "bn": "সে তার উদ্যোগের প্রশংসা করল।"
+      },
+      {
+        "en": "The peace initiative was welcomed.",
+        "bn": "শান্তির উদ্যোগকে স্বাগত জানানো হল।"
+      },
+      {
+        "en": "He lacks initiative at times.",
+        "bn": "কখনো কখনো তার মধ্যে উদ্যোগের অভাব আছে।"
+      },
+      {
+        "en": "She took the initiative to organize the event.",
+        "bn": "সে অনুষ্ঠান সংগঠিত করার উদ্যোগ নিল।"
+      },
+      {
+        "en": "The government's initiative helped many families.",
+        "bn": "সরকারের উদ্যোগ অনেক পরিবারকে সাহায্য করেছে।"
+      },
+      {
+        "en": "He showed initiative by volunteering.",
+        "bn": "স্বেচ্ছাসেবকতার মাধ্যমে সে উদ্যোগ দেখাল।"
+      }
+    ],
+    "synonyms": ["action", "drive", "enterprise", "effort", "ambition"]
+  },
+  {
+    "base": "insecure",
+    "phonetic": "ˌɪnsɪˈkjʊər",
+    "meaning": "অনিরাপদ / দ্বিধাগ্রস্ত",
+    "examples": [
+      {
+        "en": "She feels insecure about her appearance.",
+        "bn": "সে তার চেহারা নিয়ে অনিরাপদ বোধ করে।"
+      },
+      {
+        "en": "He was insecure about his future.",
+        "bn": "সে তার ভবিষ্যৎ নিয়ে দ্বিধাগ্রস্ত ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The insecure building was evacuated.",
+        "bn": "অনিরাপদ ভবনটি খালি করা হল।"
+      },
+      {
+        "en": "She felt insecure in the new environment.",
+        "bn": "নতুন পরিবেশে সে অনিরাপদ বোধ করল।"
+      },
+      {
+        "en": "He was insecure about his skills.",
+        "bn": "তার দক্ষতা নিয়ে সে অনিরাপদ ছিল।"
+      },
+      { "en": "The connection is insecure.", "bn": "সংযোগটি অনিরাপদ।" },
+      {
+        "en": "Feeling insecure is normal sometimes.",
+        "bn": "কখনো কখনো অনিরাপদ বোধ করা স্বাভাবিক।"
+      },
+      {
+        "en": "She tried to overcome her insecure feelings.",
+        "bn": "সে তার অনিরাপদ অনুভূতি কাটিয়ে উঠতে চেষ্টা করল।"
+      },
+      {
+        "en": "He grew up in an insecure environment.",
+        "bn": "সে একটি অনিরাপদ পরিবেশে বড় হয়েছে।"
+      },
+      {
+        "en": "An insecure password can be hacked.",
+        "bn": "একটি অনিরাপদ পাসওয়ার্ড হ্যাক হতে পারে।"
+      },
+      {
+        "en": "She was insecure about speaking in public.",
+        "bn": "সে প্রকাশ্যে কথা বলা নিয়ে দ্বিধাগ্রস্ত ছিল।"
+      },
+      {
+        "en": "The insecure bridge was closed.",
+        "bn": "অনিরাপদ সেতুটি বন্ধ করা হল।"
+      }
+    ],
+    "synonyms": ["uncertain", "vulnerable", "unstable", "anxious", "doubtful"]
+  },
+  {
+    "base": "inspect",
+    "phonetic": "ɪnˈspekt",
+    "meaning": "পরিদর্শন করা / পরীক্ষা করা",
+    "examples": [
+      {
+        "en": "The officer inspected the car.",
+        "bn": "কর্মকর্তা গাড়িটি পরিদর্শন করলেন।"
+      },
+      {
+        "en": "She inspected the building for damage.",
+        "bn": "সে ক্ষয়ক্ষতির জন্য ভবনটি পরিদর্শন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He inspected every corner of the room.",
+        "bn": "সে ঘরের প্রতিটি কোণ পরিদর্শন করল।"
+      },
+      {
+        "en": "She inspected the food before eating.",
+        "bn": "খাওয়ার আগে সে খাবার পরীক্ষা করল।"
+      },
+      {
+        "en": "They inspected the factory.",
+        "bn": "তারা কারখানাটি পরিদর্শন করল।"
+      },
+      {
+        "en": "He carefully inspected the contract.",
+        "bn": "সে সাবধানে চুক্তিটি পরীক্ষা করল।"
+      },
+      {
+        "en": "The health inspector inspected the restaurant.",
+        "bn": "স্বাস্থ্য পরিদর্শক রেস্তোরাঁটি পরিদর্শন করলেন।"
+      },
+      {
+        "en": "She inspected the equipment before use.",
+        "bn": "ব্যবহারের আগে সে সরঞ্জামটি পরীক্ষা করল।"
+      },
+      {
+        "en": "The principal inspected the classrooms.",
+        "bn": "প্রধান শিক্ষক শ্রেণিকক্ষগুলো পরিদর্শন করলেন।"
+      },
+      {
+        "en": "He was hired to inspect safety standards.",
+        "bn": "নিরাপত্তা মান পরিদর্শনের জন্য তাকে নিয়োগ করা হয়েছিল।"
+      },
+      {
+        "en": "She inspected the product carefully.",
+        "bn": "সে পণ্যটি সাবধানে পরীক্ষা করল।"
+      },
+      {
+        "en": "They inspected the construction site.",
+        "bn": "তারা নির্মাণস্থল পরিদর্শন করল।"
+      }
+    ],
+    "synonyms": ["examine", "check", "scrutinize", "survey", "review"]
+  },
+  {
+    "base": "intellect",
+    "phonetic": "ˈɪntəlekt",
+    "meaning": "বুদ্ধি / মেধা",
+    "examples": [
+      { "en": "She has a sharp intellect.", "bn": "তার তীক্ষ্ণ বুদ্ধি আছে।" },
+      {
+        "en": "His intellect impressed everyone.",
+        "bn": "তার মেধা সবাইকে মুগ্ধ করেছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Education develops the intellect.",
+        "bn": "শিক্ষা বুদ্ধির বিকাশ ঘটায়।"
+      },
+      {
+        "en": "She used her intellect to solve the problem.",
+        "bn": "সে সমস্যা সমাধানে তার বুদ্ধি ব্যবহার করল।"
+      },
+      {
+        "en": "He respected people of great intellect.",
+        "bn": "সে মহান মেধাবী মানুষদের সম্মান করত।"
+      },
+      {
+        "en": "She has both beauty and intellect.",
+        "bn": "তার সৌন্দর্য ও বুদ্ধি উভয়ই আছে।"
+      },
+      {
+        "en": "His intellect set him apart.",
+        "bn": "তার বুদ্ধি তাকে আলাদা করে রেখেছিল।"
+      },
+      {
+        "en": "Intellect alone does not guarantee success.",
+        "bn": "শুধু বুদ্ধি সাফল্যের নিশ্চয়তা দেয় না।"
+      },
+      {
+        "en": "She challenged his intellect.",
+        "bn": "সে তার বুদ্ধিকে চ্যালেঞ্জ করল।"
+      },
+      {
+        "en": "He possesses a brilliant intellect.",
+        "bn": "তার একটি উজ্জ্বল মেধা আছে।"
+      },
+      {
+        "en": "The game tests your intellect.",
+        "bn": "খেলাটি তোমার বুদ্ধি পরীক্ষা করে।"
+      },
+      {
+        "en": "She admired his strong intellect.",
+        "bn": "সে তার শক্তিশালী মেধার প্রশংসা করল।"
+      }
+    ],
+    "synonyms": ["intelligence", "mind", "reason", "wisdom", "genius"]
+  },
+  {
+    "base": "interact",
+    "phonetic": "ˌɪntərˈækt",
+    "meaning": "পারস্পরিক সম্পর্ক রাখা",
+    "examples": [
+      {
+        "en": "She interacts well with customers.",
+        "bn": "সে গ্রাহকদের সাথে ভালোভাবে মিথস্ক্রিয়া করে।"
+      },
+      {
+        "en": "They interact daily through chat.",
+        "bn": "তারা প্রতিদিন চ্যাটের মাধ্যমে যোগাযোগ করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He interacted with the local community.",
+        "bn": "সে স্থানীয় সম্প্রদায়ের সাথে যোগাযোগ করল।"
+      },
+      {
+        "en": "She interacted confidently at the event.",
+        "bn": "সে অনুষ্ঠানে আত্মবিশ্বাসের সাথে যোগাযোগ করল।"
+      },
+      {
+        "en": "The two chemicals interact strongly.",
+        "bn": "দুটি রাসায়নিক পদার্থ শক্তভাবে মিথস্ক্রিয়া করে।"
+      },
+      {
+        "en": "He interacted well under pressure.",
+        "bn": "চাপের মধ্যে সে ভালোভাবে যোগাযোগ করল।"
+      },
+      {
+        "en": "She loves to interact with new people.",
+        "bn": "সে নতুন মানুষদের সাথে যোগাযোগ করতে ভালোবাসে।"
+      },
+      {
+        "en": "They interact in a friendly way.",
+        "bn": "তারা বন্ধুত্বপূর্ণভাবে যোগাযোগ করে।"
+      },
+      {
+        "en": "He struggles to interact socially.",
+        "bn": "সামাজিকভাবে যোগাযোগ করতে সে কষ্ট পায়।"
+      },
+      {
+        "en": "The app allows users to interact.",
+        "bn": "অ্যাপটি ব্যবহারকারীদের মিথস্ক্রিয়া করতে দেয়।"
+      },
+      {
+        "en": "She interacted kindly with the child.",
+        "bn": "সে শিশুটির সাথে সদয়ভাবে যোগাযোগ করল।"
+      },
+      {
+        "en": "He interacted with the audience smoothly.",
+        "bn": "সে দর্শকদের সাথে মসৃণভাবে যোগাযোগ করল।"
+      }
+    ],
+    "synonyms": ["communicate", "engage", "relate", "connect", "cooperate"]
+  },
+  {
+    "base": "intriguing",
+    "phonetic": "ɪnˈtriːɡɪŋ",
+    "meaning": "কৌতূহলোদ্দীপক / রহস্যজনক",
+    "examples": [
+      {
+        "en": "The story is very intriguing.",
+        "bn": "গল্পটি খুব কৌতূহলোদ্দীপক।"
+      },
+      {
+        "en": "She found the idea intriguing.",
+        "bn": "সে ধারণাটি কৌতূহলোদ্দীপক মনে করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He asked an intriguing question.",
+        "bn": "সে একটি কৌতূহলোদ্দীপক প্রশ্ন করল।"
+      },
+      {
+        "en": "The mystery was truly intriguing.",
+        "bn": "রহস্যটি সত্যিই কৌতূহলোদ্দীপক ছিল।"
+      },
+      {
+        "en": "She had an intriguing personality.",
+        "bn": "তার একটি রহস্যজনক ব্যক্তিত্ব ছিল।"
+      },
+      {
+        "en": "The film had an intriguing plot.",
+        "bn": "চলচ্চিত্রটির একটি রহস্যজনক কাহিনী ছিল।"
+      },
+      {
+        "en": "He found the subject intriguing.",
+        "bn": "সে বিষয়টি কৌতূহলোদ্দীপক মনে করল।"
+      },
+      {
+        "en": "The proposal was quite intriguing.",
+        "bn": "প্রস্তাবটি বেশ কৌতূহলোদ্দীপক ছিল।"
+      },
+      {
+        "en": "She looked at him in an intriguing way.",
+        "bn": "সে তার দিকে রহস্যজনকভাবে তাকাল।"
+      },
+      {
+        "en": "The experiment had intriguing results.",
+        "bn": "পরীক্ষার কৌতূহলোদ্দীপক ফলাফল ছিল।"
+      },
+      { "en": "He found her intriguing.", "bn": "সে তাকে রহস্যজনক মনে করল।" },
+      {
+        "en": "The ancient ruins were intriguing.",
+        "bn": "প্রাচীন ধ্বংসাবশেষগুলো কৌতূহলোদ্দীপক ছিল।"
+      }
+    ],
+    "synonyms": [
+      "fascinating",
+      "captivating",
+      "mysterious",
+      "interesting",
+      "curious"
+    ]
+  },
+  {
+    "base": "irresponsible",
+    "phonetic": "ˌɪrɪˈspɒnsɪbl",
+    "meaning": "দায়িত্বহীন",
+    "examples": [
+      {
+        "en": "It was irresponsible to drive so fast.",
+        "bn": "এত দ্রুত গাড়ি চালানো ছিল দায়িত্বহীন।"
+      },
+      {
+        "en": "She criticized his irresponsible behavior.",
+        "bn": "সে তার দায়িত্বহীন আচরণের সমালোচনা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was irresponsible with money.",
+        "bn": "সে অর্থের ক্ষেত্রে দায়িত্বহীন ছিল।"
+      },
+      {
+        "en": "Her irresponsible actions caused problems.",
+        "bn": "তার দায়িত্বহীন কাজ সমস্যার সৃষ্টি করেছিল।"
+      },
+      {
+        "en": "Being irresponsible affects others.",
+        "bn": "দায়িত্বহীন হওয়া অন্যদের প্রভাবিত করে।"
+      },
+      {
+        "en": "He made an irresponsible decision.",
+        "bn": "সে একটি দায়িত্বহীন সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "She was irresponsible as a teenager.",
+        "bn": "কিশোর বয়সে সে দায়িত্বহীন ছিল।"
+      },
+      {
+        "en": "His irresponsible attitude hurt the team.",
+        "bn": "তার দায়িত্বহীন মনোভাব দলের ক্ষতি করেছে।"
+      },
+      {
+        "en": "Don't be irresponsible with your health.",
+        "bn": "তোমার স্বাস্থ্যের ক্ষেত্রে দায়িত্বহীন হয়ো না।"
+      },
+      {
+        "en": "She found him irresponsible.",
+        "bn": "সে তাকে দায়িত্বহীন মনে করল।"
+      },
+      {
+        "en": "Irresponsible driving causes accidents.",
+        "bn": "দায়িত্বহীন গাড়ি চালানো দুর্ঘটনার কারণ হয়।"
+      },
+      {
+        "en": "He regretted his irresponsible past.",
+        "bn": "সে তার দায়িত্বহীন অতীতের জন্য অনুতাপ করল।"
+      }
+    ],
+    "synonyms": ["careless", "reckless", "negligent", "immature", "unreliable"]
+  },
+  {
+    "base": "infer",
+    "phonetic": "ɪnˈfɜː",
+    "meaning": "অনুমান করা / অর্থ বোঝা",
+    "examples": [
+      {
+        "en": "She inferred from his tone that he was upset.",
+        "bn": "তার কণ্ঠস্বর থেকে সে অনুমান করল যে সে বিরক্ত।"
+      },
+      {
+        "en": "He inferred the meaning of the word.",
+        "bn": "সে শব্দটির অর্থ অনুমান করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "We can infer from the data.",
+        "bn": "আমরা তথ্য থেকে অনুমান করতে পারি।"
+      },
+      {
+        "en": "She inferred that he was lying.",
+        "bn": "সে অনুমান করল যে সে মিথ্যা বলছে।"
+      },
+      {
+        "en": "He inferred the conclusion from the facts.",
+        "bn": "সে তথ্য থেকে উপসংহার অনুমান করল।"
+      },
+      {
+        "en": "The scientist inferred a new theory.",
+        "bn": "বিজ্ঞানী একটি নতুন তত্ত্ব অনুমান করলেন।"
+      },
+      {
+        "en": "She inferred the answer from context.",
+        "bn": "সে প্রসঙ্গ থেকে উত্তর অনুমান করল।"
+      },
+      {
+        "en": "He inferred danger from the signs.",
+        "bn": "চিহ্নগুলো থেকে সে বিপদ অনুমান করল।"
+      },
+      {
+        "en": "What can we infer from this story?",
+        "bn": "এই গল্প থেকে আমরা কী অনুমান করতে পারি?"
+      },
+      { "en": "She inferred he was unhappy.", "bn": "সে অনুমান করল সে অখুশি।" },
+      {
+        "en": "He correctly inferred the situation.",
+        "bn": "সে সঠিকভাবে পরিস্থিতি অনুমান করল।"
+      },
+      {
+        "en": "They inferred his motive from his actions.",
+        "bn": "তার কাজ থেকে তারা তার উদ্দেশ্য অনুমান করল।"
+      }
+    ],
+    "synonyms": ["deduce", "conclude", "gather", "reason", "surmise"]
+  },
+  {
+    "base": "informal",
+    "phonetic": "ɪnˈfɔːml",
+    "meaning": "অনানুষ্ঠানিক / অনৌপচারিক",
+    "examples": [
+      {
+        "en": "It was an informal meeting.",
+        "bn": "এটি একটি অনানুষ্ঠানিক সভা ছিল।"
+      },
+      {
+        "en": "She spoke in informal language.",
+        "bn": "সে অনানুষ্ঠানিক ভাষায় কথা বলল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The dinner was casual and informal.",
+        "bn": "রাতের খাবারটি ছিল নৈমিত্তিক এবং অনানুষ্ঠানিক।"
+      },
+      {
+        "en": "He prefers an informal work environment.",
+        "bn": "সে অনানুষ্ঠানিক কাজের পরিবেশ পছন্দ করে।"
+      },
+      {
+        "en": "She wore informal clothes.",
+        "bn": "সে অনানুষ্ঠানিক পোশাক পরল।"
+      },
+      {
+        "en": "The informal chat was very helpful.",
+        "bn": "অনানুষ্ঠানিক আলোচনাটি খুব সহায়ক ছিল।"
+      },
+      {
+        "en": "He used informal words in his writing.",
+        "bn": "সে তার লেখায় অনানুষ্ঠানিক শব্দ ব্যবহার করল।"
+      },
+      {
+        "en": "The party was informal and fun.",
+        "bn": "পার্টিটি ছিল অনানুষ্ঠানিক এবং মজাদার।"
+      },
+      {
+        "en": "She gave an informal presentation.",
+        "bn": "সে একটি অনানুষ্ঠানিক উপস্থাপনা দিল।"
+      },
+      {
+        "en": "He spoke informally to the students.",
+        "bn": "সে শিক্ষার্থীদের সাথে অনানুষ্ঠানিকভাবে কথা বলল।"
+      },
+      {
+        "en": "Their relationship was warm and informal.",
+        "bn": "তাদের সম্পর্ক ছিল উষ্ণ ও অনানুষ্ঠানিক।"
+      },
+      {
+        "en": "The shop has an informal atmosphere.",
+        "bn": "দোকানটিতে একটি অনানুষ্ঠানিক পরিবেশ আছে।"
+      }
+    ],
+    "synonyms": ["casual", "relaxed", "unofficial", "everyday", "plain"]
+  },
+  {
+    "base": "install",
+    "phonetic": "ɪnˈstɔːl",
+    "meaning": "স্থাপন করা / ইনস্টল করা",
+    "examples": [
+      {
+        "en": "He installed the software on his laptop.",
+        "bn": "সে তার ল্যাপটপে সফ্টওয়্যার ইনস্টল করল।"
+      },
+      {
+        "en": "She installed a new lock on the door.",
+        "bn": "সে দরজায় একটি নতুন তালা স্থাপন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They installed solar panels.",
+        "bn": "তারা সোলার প্যানেল স্থাপন করল।"
+      },
+      {
+        "en": "He installed the application quickly.",
+        "bn": "সে দ্রুত অ্যাপ্লিকেশনটি ইনস্টল করল।"
+      },
+      {
+        "en": "She installed curtains in every room.",
+        "bn": "সে প্রতিটি ঘরে পর্দা লাগাল।"
+      },
+      {
+        "en": "They installed a new kitchen.",
+        "bn": "তারা একটি নতুন রান্নাঘর স্থাপন করল।"
+      },
+      {
+        "en": "He installed the new teacher in her role.",
+        "bn": "সে নতুন শিক্ষককে তার ভূমিকায় স্থাপন করল।"
+      },
+      {
+        "en": "She installed the air conditioner.",
+        "bn": "সে এয়ার কন্ডিশনার স্থাপন করল।"
+      },
+      {
+        "en": "The plumber installed new pipes.",
+        "bn": "প্লাম্বার নতুন পাইপ স্থাপন করল।"
+      },
+      {
+        "en": "He installed a security camera.",
+        "bn": "সে একটি নিরাপত্তা ক্যামেরা স্থাপন করল।"
+      },
+      {
+        "en": "She installed the app in minutes.",
+        "bn": "সে মিনিটের মধ্যে অ্যাপটি ইনস্টল করল।"
+      },
+      {
+        "en": "They installed the new system successfully.",
+        "bn": "তারা সফলভাবে নতুন সিস্টেম স্থাপন করল।"
+      }
+    ],
+    "synonyms": ["set up", "fit", "place", "establish", "mount"]
+  },
+  {
+    "base": "instinct",
+    "phonetic": "ˈɪnstɪŋkt",
+    "meaning": "সহজাত প্রবৃত্তি / স্বাভাবিক অনুভূতি",
+    "examples": [
+      {
+        "en": "She followed her instinct.",
+        "bn": "সে তার সহজাত প্রবৃত্তি অনুসরণ করল।"
+      },
+      {
+        "en": "Animals rely on instinct to survive.",
+        "bn": "প্রাণীরা বাঁচার জন্য সহজাত প্রবৃত্তির উপর নির্ভর করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "His instinct told him something was wrong.",
+        "bn": "তার সহজাত প্রবৃত্তি তাকে বলল কিছু একটা ভুল।"
+      },
+      {
+        "en": "She has a natural instinct for music.",
+        "bn": "তার সঙ্গীতের জন্য স্বাভাবিক প্রবৃত্তি আছে।"
+      },
+      {
+        "en": "He trusted his instinct.",
+        "bn": "সে তার প্রবৃত্তিকে বিশ্বাস করল।"
+      },
+      {
+        "en": "Instinct is sometimes stronger than logic.",
+        "bn": "প্রবৃত্তি কখনো কখনো যুক্তির চেয়ে শক্তিশালী।"
+      },
+      {
+        "en": "Her instinct saved her from danger.",
+        "bn": "তার প্রবৃত্তি তাকে বিপদ থেকে রক্ষা করেছিল।"
+      },
+      {
+        "en": "He made an instinctive decision.",
+        "bn": "সে একটি সহজাত সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "She has a teaching instinct.",
+        "bn": "তার মধ্যে শেখানোর প্রবৃত্তি আছে।"
+      },
+      {
+        "en": "Survival instinct is very powerful.",
+        "bn": "বেঁচে থাকার প্রবৃত্তি খুব শক্তিশালী।"
+      },
+      {
+        "en": "He acted on instinct.",
+        "bn": "সে প্রবৃত্তির উপর ভিত্তি করে কাজ করল।"
+      },
+      { "en": "Trust your instincts.", "bn": "তোমার প্রবৃত্তিকে বিশ্বাস করো।" }
+    ],
+    "synonyms": ["intuition", "impulse", "reflex", "urge", "gut feeling"]
+  },
+  {
+    "base": "interact",
+    "phonetic": "ˌɪntərˈækt",
+    "meaning": "পারস্পরিক কাজ করা",
+    "examples": [
+      {
+        "en": "The children interact happily.",
+        "bn": "শিশুরা আনন্দের সাথে মিথস্ক্রিয়া করে।"
+      },
+      {
+        "en": "She interacts well online.",
+        "bn": "সে অনলাইনে ভালোভাবে যোগাযোগ করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He interacts positively with colleagues.",
+        "bn": "সে সহকর্মীদের সাথে ইতিবাচকভাবে যোগাযোগ করে।"
+      },
+      {
+        "en": "She learned to interact in a new language.",
+        "bn": "সে নতুন ভাষায় যোগাযোগ করতে শিখল।"
+      },
+      {
+        "en": "The teacher encouraged students to interact.",
+        "bn": "শিক্ষক শিক্ষার্থীদের মিথস্ক্রিয়া করতে উৎসাহিত করলেন।"
+      },
+      {
+        "en": "He interacted with his fans on social media.",
+        "bn": "সে সোশ্যাল মিডিয়ায় তার অনুসারীদের সাথে যোগাযোগ করল।"
+      },
+      {
+        "en": "They interact through letters.",
+        "bn": "তারা চিঠির মাধ্যমে যোগাযোগ করে।"
+      },
+      {
+        "en": "She interacts joyfully at parties.",
+        "bn": "সে পার্টিতে আনন্দের সাথে মিথস্ক্রিয়া করে।"
+      },
+      {
+        "en": "The systems interact automatically.",
+        "bn": "সিস্টেমগুলো স্বয়ংক্রিয়ভাবে মিথস্ক্রিয়া করে।"
+      },
+      {
+        "en": "He found it hard to interact with strangers.",
+        "bn": "অপরিচিতদের সাথে যোগাযোগ করা তার পক্ষে কঠিন মনে হল।"
+      },
+      {
+        "en": "She interacts in a professional manner.",
+        "bn": "সে পেশাদারভাবে যোগাযোগ করে।"
+      },
+      {
+        "en": "They learned how to interact effectively.",
+        "bn": "তারা কার্যকরভাবে যোগাযোগ করতে শিখল।"
+      }
+    ],
+    "synonyms": [
+      "engage",
+      "work together",
+      "communicate",
+      "connect",
+      "collaborate"
+    ]
+  },
+  {
+    "base": "incompetent",
+    "phonetic": "ɪnˈkɒmpɪtənt",
+    "meaning": "অদক্ষ / অযোগ্য",
+    "examples": [
+      {
+        "en": "He was fired for being incompetent.",
+        "bn": "অদক্ষতার কারণে তাকে বরখাস্ত করা হয়েছিল।"
+      },
+      {
+        "en": "She felt incompetent at first.",
+        "bn": "শুরুতে সে নিজেকে অযোগ্য মনে করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Incompetent workers slow down progress.",
+        "bn": "অদক্ষ কর্মীরা অগ্রগতিকে ধীর করে দেয়।"
+      },
+      {
+        "en": "He criticized the incompetent management.",
+        "bn": "সে অদক্ষ ব্যবস্থাপনার সমালোচনা করল।"
+      },
+      {
+        "en": "She felt incompetent in math.",
+        "bn": "সে গণিতে নিজেকে অযোগ্য মনে করল।"
+      },
+      {
+        "en": "The incompetent driver caused an accident.",
+        "bn": "অদক্ষ চালক একটি দুর্ঘটনা ঘটাল।"
+      },
+      {
+        "en": "He was declared incompetent.",
+        "bn": "তাকে অযোগ্য ঘোষণা করা হল।"
+      },
+      {
+        "en": "She overcame her incompetent feeling.",
+        "bn": "সে তার অযোগ্যতার অনুভূতি কাটিয়ে উঠল।"
+      },
+      {
+        "en": "Incompetent leaders cause confusion.",
+        "bn": "অদক্ষ নেতারা বিভ্রান্তি সৃষ্টি করে।"
+      },
+      {
+        "en": "He hired an incompetent assistant.",
+        "bn": "সে একজন অদক্ষ সহকারী নিয়োগ দিল।"
+      },
+      {
+        "en": "She did not want to appear incompetent.",
+        "bn": "সে অযোগ্য দেখাতে চাইনি।"
+      },
+      {
+        "en": "The incompetent system failed everyone.",
+        "bn": "অদক্ষ ব্যবস্থাটি সবার জন্য ব্যর্থ হয়েছিল।"
+      }
+    ],
+    "synonyms": [
+      "unskilled",
+      "incapable",
+      "unqualified",
+      "inadequate",
+      "inefficient"
+    ]
+  },
+  {
+    "base": "index",
+    "phonetic": "ˈɪndeks",
+    "meaning": "সূচিপত্র / তালিকা",
+    "examples": [
+      {
+        "en": "She checked the index of the book.",
+        "bn": "সে বইয়ের সূচিপত্র দেখল।"
+      },
+      {
+        "en": "He indexed all the files.",
+        "bn": "সে সমস্ত ফাইল তালিকাভুক্ত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The index helps find topics quickly.",
+        "bn": "সূচিপত্র দ্রুত বিষয় খুঁজে পেতে সাহায্য করে।"
+      },
+      {
+        "en": "She added a new entry to the index.",
+        "bn": "সে সূচিপত্রে একটি নতুন এন্ট্রি যুক্ত করল।"
+      },
+      {
+        "en": "The stock market index rose.",
+        "bn": "শেয়ার বাজারের সূচক বাড়ল।"
+      },
+      {
+        "en": "He found the topic in the index.",
+        "bn": "সে সূচিপত্রে বিষয়টি খুঁজে পেল।"
+      },
+      {
+        "en": "She created an index for her thesis.",
+        "bn": "সে তার থিসিসের জন্য একটি সূচিপত্র তৈরি করল।"
+      },
+      {
+        "en": "The cost-of-living index increased.",
+        "bn": "জীবনযাত্রার ব্যয় সূচক বেড়েছে।"
+      },
+      {
+        "en": "He indexed the pages numerically.",
+        "bn": "সে পৃষ্ঠাগুলো সংখ্যানুযায়ী তালিকাভুক্ত করল।"
+      },
+      {
+        "en": "The library index was outdated.",
+        "bn": "লাইব্রেরির সূচি পুরনো ছিল।"
+      },
+      {
+        "en": "She updated the index regularly.",
+        "bn": "সে নিয়মিত সূচিপত্র আপডেট করত।"
+      },
+      {
+        "en": "He used his index finger to point.",
+        "bn": "সে তর্জনী দিয়ে ইশারা করল।"
+      }
+    ],
+    "synonyms": ["list", "catalogue", "register", "contents", "directory"]
   }
 ]

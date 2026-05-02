@@ -253,5 +253,3438 @@
       }
     ],
     "synonyms": ["intentionally", "deliberately", "consciously"]
+  },
+
+  {
+    "base": "keep",
+    "phonetic": "kiːp",
+    "meaning": "রাখা / ধরে রাখা",
+    "examples": [
+      { "en": "Please keep this secret.", "bn": "এই রহস্যটি গোপন রাখুন।" },
+      { "en": "She keeps her room clean.", "bn": "সে তার ঘর পরিষ্কার রাখে।" }
+    ],
+    "moreexample": [
+      { "en": "He keeps his promises.", "bn": "সে তার প্রতিশ্রুতি রাখে।" },
+      { "en": "Keep the change.", "bn": "ভাংতি রেখে দিন।" },
+      { "en": "She kept the letter safely.", "bn": "সে চিঠিটি নিরাপদে রাখল।" },
+      { "en": "Keep going, don't stop.", "bn": "এগিয়ে যাও, থেমো না।" },
+      { "en": "He kept the door open.", "bn": "সে দরজা খোলা রাখল।" },
+      {
+        "en": "She keeps a diary every day.",
+        "bn": "সে প্রতিদিন ডায়েরি লেখে।"
+      },
+      { "en": "Keep quiet in the library.", "bn": "লাইব্রেরিতে চুপ থাকো।" },
+      {
+        "en": "He kept the food in the fridge.",
+        "bn": "সে ফ্রিজে খাবার রাখল।"
+      },
+      {
+        "en": "She kept calm during the crisis.",
+        "bn": "সংকটের সময় সে শান্ত থাকল।"
+      },
+      { "en": "Keep your bag with you.", "bn": "তোমার ব্যাগ সাথে রাখো।" }
+    ],
+    "synonyms": ["retain", "hold", "maintain", "preserve", "store"]
+  },
+  {
+    "base": "key",
+    "phonetic": "kiː",
+    "meaning": "চাবি / মূল / গুরুত্বপূর্ণ",
+    "examples": [
+      {
+        "en": "She lost her house key.",
+        "bn": "সে তার বাড়ির চাবি হারিয়ে ফেলল।"
+      },
+      {
+        "en": "Practice is the key to success.",
+        "bn": "অনুশীলন হলো সাফল্যের চাবিকাঠি।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He found the key under the mat.",
+        "bn": "সে মাদুরের নিচে চাবি পেল।"
+      },
+      { "en": "She pressed the wrong key.", "bn": "সে ভুল কী চাপল।" },
+      {
+        "en": "Trust is a key factor in relationships.",
+        "bn": "সম্পর্কে বিশ্বাস একটি মূল উপাদান।"
+      },
+      {
+        "en": "He gave her the spare key.",
+        "bn": "সে তাকে অতিরিক্ত চাবি দিল।"
+      },
+      {
+        "en": "The key witness testified in court.",
+        "bn": "মূল সাক্ষী আদালতে সাক্ষ্য দিল।"
+      },
+      {
+        "en": "She turned the key in the lock.",
+        "bn": "সে তালায় চাবি ঘোরাল।"
+      },
+      {
+        "en": "He identified the key issue.",
+        "bn": "সে মূল সমস্যা চিহ্নিত করল।"
+      },
+      {
+        "en": "The key is to stay focused.",
+        "bn": "মূল বিষয় হলো মনোযোগী থাকা।"
+      },
+      {
+        "en": "She played the piano key gently.",
+        "bn": "সে পিয়ানোর কী আলতোভাবে বাজাল।"
+      },
+      { "en": "The keyboard has many keys.", "bn": "কীবোর্ডে অনেক কী আছে।" }
+    ],
+    "synonyms": ["solution", "answer", "clue", "fundamental", "essential"]
+  },
+  {
+    "base": "kind",
+    "phonetic": "kaɪnd",
+    "meaning": "দয়ালু / প্রকার",
+    "examples": [
+      {
+        "en": "She is a very kind person.",
+        "bn": "সে একজন অত্যন্ত দয়ালু মানুষ।"
+      },
+      {
+        "en": "What kind of food do you like?",
+        "bn": "আপনি কোন ধরনের খাবার পছন্দ করেন?"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He showed kindness to strangers.",
+        "bn": "সে অপরিচিতদের প্রতি দয়া দেখাল।"
+      },
+      {
+        "en": "She is kind to everyone she meets.",
+        "bn": "সে যাদের সাথে দেখা হয় সবার প্রতি দয়ালু।"
+      },
+      {
+        "en": "It was kind of you to help.",
+        "bn": "সাহায্য করাটা তোমার পক্ষ থেকে দয়ালুতা ছিল।"
+      },
+      { "en": "He has a kind heart.", "bn": "তার একটি দয়ালু হৃদয় আছে।" },
+      { "en": "What kind of book is this?", "bn": "এটি কোন ধরনের বই?" },
+      { "en": "She spoke in a kind tone.", "bn": "সে সদয় সুরে কথা বলল।" },
+      { "en": "Be kind to animals.", "bn": "প্রাণীদের প্রতি দয়ালু হও।" },
+      {
+        "en": "He did a kind act for his neighbor.",
+        "bn": "সে তার প্রতিবেশীর জন্য একটি দয়ালু কাজ করল।"
+      },
+      {
+        "en": "She has a kind and gentle nature.",
+        "bn": "তার একটি দয়ালু ও মৃদু স্বভাব আছে।"
+      },
+      { "en": "Kindness costs nothing.", "bn": "দয়ালুতার কোনো মূল্য লাগে না।" }
+    ],
+    "synonyms": ["gentle", "caring", "type", "sort", "compassionate"]
+  },
+  {
+    "base": "know",
+    "phonetic": "nəʊ",
+    "meaning": "জানা / চেনা",
+    "examples": [
+      { "en": "I know the answer.", "bn": "আমি উত্তর জানি।" },
+      { "en": "She knows how to cook well.", "bn": "সে ভালো রান্না করতে জানে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He knows the way to the station.",
+        "bn": "সে স্টেশনের পথ জানে।"
+      },
+      { "en": "Do you know her name?", "bn": "তুমি কি তার নাম জানো?" },
+      {
+        "en": "She knew the truth all along.",
+        "bn": "সে শুরু থেকেই সত্যটা জানত।"
+      },
+      { "en": "I don't know what happened.", "bn": "কী হয়েছে আমি জানি না।" },
+      { "en": "He knows many languages.", "bn": "সে অনেক ভাষা জানে।" },
+      {
+        "en": "She knows him personally.",
+        "bn": "সে তাকে ব্যক্তিগতভাবে চেনে।"
+      },
+      { "en": "You know better than that.", "bn": "তুমি এর চেয়ে ভালো জানো।" },
+      {
+        "en": "He knows the rules by heart.",
+        "bn": "সে নিয়মগুলো মুখস্থ জানে।"
+      },
+      {
+        "en": "She doesn't know the answer yet.",
+        "bn": "সে এখনো উত্তর জানে না।"
+      },
+      {
+        "en": "Let me know when you arrive.",
+        "bn": "পৌঁছানোর পর আমাকে জানিয়ো।"
+      }
+    ],
+    "synonyms": ["understand", "recognize", "comprehend", "be aware", "realize"]
+  },
+  {
+    "base": "knock",
+    "phonetic": "nɒk",
+    "meaning": "টোকা দেওয়া / ঠকঠক করা",
+    "examples": [
+      {
+        "en": "Please knock before entering.",
+        "bn": "ঢোকার আগে দয়া করে দরজায় টোকা দিন।"
+      },
+      { "en": "Someone knocked on the door.", "bn": "কেউ দরজায় ঠকঠক করল।" }
+    ],
+    "moreexample": [
+      { "en": "He knocked loudly.", "bn": "সে জোরে টোকা দিল।" },
+      { "en": "She knocked over the glass.", "bn": "সে গ্লাসটি ফেলে দিল।" },
+      {
+        "en": "They knocked on every door.",
+        "bn": "তারা প্রতিটি দরজায় টোকা দিল।"
+      },
+      { "en": "He was knocked down by the wind.", "bn": "বাতাসে সে পড়ে গেল।" },
+      {
+        "en": "She knocked the ball out of bounds.",
+        "bn": "সে বলটি সীমানার বাইরে মারল।"
+      },
+      {
+        "en": "He knocked twice before entering.",
+        "bn": "ঢোকার আগে সে দুবার টোকা দিল।"
+      },
+      {
+        "en": "The child knocked on the window.",
+        "bn": "শিশুটি জানালায় টোকা দিল।"
+      },
+      { "en": "She knocked him off balance.", "bn": "সে তাকে টাল খাইয়ে দিল।" },
+      {
+        "en": "He knocked the nail with a hammer.",
+        "bn": "সে হাতুড়ি দিয়ে পেরেকে আঘাত করল।"
+      },
+      {
+        "en": "They knocked down the old wall.",
+        "bn": "তারা পুরনো দেয়ালটি ভেঙে ফেলল।"
+      }
+    ],
+    "synonyms": ["tap", "hit", "bang", "rap", "strike"]
+  },
+  {
+    "base": "knowledge",
+    "phonetic": "ˈnɒlɪdʒ",
+    "meaning": "জ্ঞান",
+    "examples": [
+      { "en": "Knowledge is power.", "bn": "জ্ঞানই শক্তি।" },
+      {
+        "en": "She has a wide knowledge of science.",
+        "bn": "বিজ্ঞানে তার ব্যাপক জ্ঞান আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He gained knowledge through reading.",
+        "bn": "সে পড়াশোনার মাধ্যমে জ্ঞান অর্জন করেছে।"
+      },
+      {
+        "en": "Knowledge helps us make better decisions.",
+        "bn": "জ্ঞান আমাদের ভালো সিদ্ধান্ত নিতে সাহায্য করে।"
+      },
+      {
+        "en": "She shared her knowledge freely.",
+        "bn": "সে তার জ্ঞান স্বাধীনভাবে ভাগ করে নিল।"
+      },
+      {
+        "en": "Technical knowledge is essential.",
+        "bn": "প্রযুক্তিগত জ্ঞান অপরিহার্য।"
+      },
+      {
+        "en": "He tested her knowledge of history.",
+        "bn": "সে তার ইতিহাসের জ্ঞান পরীক্ষা করল।"
+      },
+      {
+        "en": "Self-knowledge is very important.",
+        "bn": "আত্মজ্ঞান অত্যন্ত গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She lacked the knowledge to fix it.",
+        "bn": "এটি ঠিক করার জ্ঞান তার ছিল না।"
+      },
+      {
+        "en": "He has deep knowledge of the subject.",
+        "bn": "বিষয়টিতে তার গভীর জ্ঞান আছে।"
+      },
+      { "en": "Knowledge grows when shared.", "bn": "ভাগ করলে জ্ঞান বাড়ে।" },
+      {
+        "en": "She acquired new knowledge from the seminar.",
+        "bn": "সে সেমিনার থেকে নতুন জ্ঞান অর্জন করেছে।"
+      }
+    ],
+    "synonyms": [
+      "understanding",
+      "learning",
+      "wisdom",
+      "expertise",
+      "awareness"
+    ]
+  },
+  {
+    "base": "keen",
+    "phonetic": "kiːn",
+    "meaning": "আগ্রহী / তীক্ষ্ণ",
+    "examples": [
+      { "en": "She is keen to learn.", "bn": "সে শিখতে আগ্রহী।" },
+      {
+        "en": "He has a keen eye for detail.",
+        "bn": "বিস্তারিত বিষয়ে তার তীক্ষ্ণ দৃষ্টি আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The dog has a keen sense of smell.",
+        "bn": "কুকুরের ঘ্রাণশক্তি তীক্ষ্ণ।"
+      },
+      { "en": "She is keen on photography.", "bn": "সে ফটোগ্রাফিতে আগ্রহী।" },
+      { "en": "He is a keen reader.", "bn": "সে একজন আগ্রহী পাঠক।" },
+      {
+        "en": "The student showed keen interest.",
+        "bn": "শিক্ষার্থী তীব্র আগ্রহ দেখাল।"
+      },
+      {
+        "en": "She is keen to start the project.",
+        "bn": "সে প্রকল্পটি শুরু করতে আগ্রহী।"
+      },
+      {
+        "en": "He had a keen mind for business.",
+        "bn": "ব্যবসার প্রতি তার তীক্ষ্ণ বুদ্ধি ছিল।"
+      },
+      { "en": "The knife has a keen edge.", "bn": "ছুরিটির ধার তীক্ষ্ণ।" },
+      {
+        "en": "She is keen to improve her skills.",
+        "bn": "সে তার দক্ষতা উন্নত করতে আগ্রহী।"
+      },
+      { "en": "He has a keen sense of humor.", "bn": "তার তীক্ষ্ণ রসবোধ আছে।" },
+      {
+        "en": "The keen wind cut through the air.",
+        "bn": "তীব্র বাতাস বাতাসকে কেটে গেল।"
+      }
+    ],
+    "synonyms": ["eager", "enthusiastic", "sharp", "intense", "avid"]
+  },
+  {
+    "base": "kick",
+    "phonetic": "kɪk",
+    "meaning": "লাথি মারা / আঘাত করা",
+    "examples": [
+      { "en": "He kicked the ball hard.", "bn": "সে বলে জোরে লাথি মারল।" },
+      { "en": "She kicked the door open.", "bn": "সে লাথি মেরে দরজা খুলল।" }
+    ],
+    "moreexample": [
+      { "en": "The player kicked a goal.", "bn": "খেলোয়াড়টি গোল করল।" },
+      {
+        "en": "She kicked the pebble off the path.",
+        "bn": "সে পথ থেকে পাথরটি লাথি মেরে সরাল।"
+      },
+      {
+        "en": "He tried to kick the habit.",
+        "bn": "সে অভ্যাসটি ছাড়ানোর চেষ্টা করল।"
+      },
+      {
+        "en": "The baby kicked inside the womb.",
+        "bn": "শিশুটি গর্ভের ভেতরে লাথি দিল।"
+      },
+      {
+        "en": "She kicked back and relaxed.",
+        "bn": "সে পা ছড়িয়ে বিশ্রাম নিল।"
+      },
+      {
+        "en": "He was kicked out of the game.",
+        "bn": "তাকে খেলা থেকে বের করে দেওয়া হল।"
+      },
+      {
+        "en": "She kicked the leaves on the ground.",
+        "bn": "সে মাটিতে পড়া পাতায় লাথি মারল।"
+      },
+      {
+        "en": "He delivered a powerful kick.",
+        "bn": "সে একটি শক্তিশালী লাথি দিল।"
+      },
+      {
+        "en": "The horse kicked the fence.",
+        "bn": "ঘোড়াটি বেড়ায় লাথি মারল।"
+      },
+      { "en": "She kicked off her shoes.", "bn": "সে তার জুতো লাথি মেরে খুলল।" }
+    ],
+    "synonyms": ["boot", "strike", "hit", "punt", "propel"]
+  },
+  {
+    "base": "kindle",
+    "phonetic": "ˈkɪndl",
+    "meaning": "জ্বালানো / আগ্রহ জাগানো",
+    "examples": [
+      { "en": "He kindled the fire quickly.", "bn": "সে দ্রুত আগুন জ্বালাল।" },
+      {
+        "en": "The book kindled her love of reading.",
+        "bn": "বইটি তার পড়ার প্রতি ভালোবাসা জাগিয়ে তুলল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She kindled a flame in the fireplace.",
+        "bn": "সে আগুনকুণ্ডে একটি শিখা জ্বালাল।"
+      },
+      {
+        "en": "His speech kindled excitement in the crowd.",
+        "bn": "তার বক্তৃতা ভিড়ে উত্তেজনা জাগিয়ে তুলল।"
+      },
+      { "en": "They kindled a campfire.", "bn": "তারা ক্যাম্পফায়ার জ্বালাল।" },
+      {
+        "en": "She kindled hope in his heart.",
+        "bn": "সে তার হৃদয়ে আশা জাগিয়ে তুলল।"
+      },
+      {
+        "en": "The story kindled curiosity.",
+        "bn": "গল্পটি কৌতূহল জাগিয়ে তুলল।"
+      },
+      {
+        "en": "He kindled their enthusiasm.",
+        "bn": "সে তাদের উৎসাহ জাগিয়ে তুলল।"
+      },
+      {
+        "en": "She kindled a new passion.",
+        "bn": "সে একটি নতুন আবেগ জাগিয়ে তুলল।"
+      },
+      {
+        "en": "The teacher kindled a love for science.",
+        "bn": "শিক্ষক বিজ্ঞানের প্রতি ভালোবাসা জাগিয়ে তুললেন।"
+      },
+      {
+        "en": "He kindled the wood with a match.",
+        "bn": "সে দিয়াশলাই দিয়ে কাঠ জ্বালাল।"
+      },
+      {
+        "en": "Music kindled emotions in her.",
+        "bn": "সঙ্গীত তার মধ্যে আবেগ জাগিয়ে তুলল।"
+      }
+    ],
+    "synonyms": ["ignite", "spark", "arouse", "awaken", "inspire"]
+  },
+  {
+    "base": "kneel",
+    "phonetic": "niːl",
+    "meaning": "হাঁটু গাড়া",
+    "examples": [
+      { "en": "She kneeled to pray.", "bn": "সে প্রার্থনা করতে হাঁটু গাড়ল।" },
+      {
+        "en": "He kneeled beside the injured man.",
+        "bn": "সে আহত মানুষটির পাশে হাঁটু গাড়ল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "They kneeled in respect.", "bn": "তারা সম্মানে হাঁটু গাড়ল।" },
+      {
+        "en": "She kneeled to pick up the coin.",
+        "bn": "কয়েন তুলতে সে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "He kneeled before the king.",
+        "bn": "সে রাজার সামনে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "The knight kneeled on one knee.",
+        "bn": "নাইটটি এক হাঁটুতে ভর দিয়ে বসল।"
+      },
+      {
+        "en": "She kneeled to help the child.",
+        "bn": "শিশুটিকে সাহায্য করতে সে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "He kneeled in the garden to plant seeds.",
+        "bn": "বীজ বোনার জন্য সে বাগানে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "The players kneeled during the anthem.",
+        "bn": "জাতীয় সংগীতের সময় খেলোয়াড়রা হাঁটু গাড়ল।"
+      },
+      { "en": "She kneeled at the altar.", "bn": "সে বেদির কাছে হাঁটু গাড়ল।" },
+      {
+        "en": "He kneeled to tie his shoelace.",
+        "bn": "জুতার ফিতা বাঁধতে সে হাঁটু গাড়ল।"
+      },
+      { "en": "They kneeled in silence.", "bn": "তারা নীরবে হাঁটু গাড়ল।" }
+    ],
+    "synonyms": ["genuflect", "bow", "crouch", "stoop", "bend"]
+  },
+  {
+    "base": "knit",
+    "phonetic": "nɪt",
+    "meaning": "বোনা / একত্রিত করা",
+    "examples": [
+      {
+        "en": "She knits sweaters for her family.",
+        "bn": "সে পরিবারের জন্য সোয়েটার বোনে।"
+      },
+      {
+        "en": "The community is tightly knit.",
+        "bn": "সম্প্রদায়টি শক্তভাবে একত্রিত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She knit a scarf for winter.",
+        "bn": "সে শীতের জন্য একটি স্কার্ফ বুনল।"
+      },
+      {
+        "en": "He knit his brows in confusion.",
+        "bn": "বিভ্রান্তিতে সে ভ্রু কুঁচকাল।"
+      },
+      {
+        "en": "She loves to knit in the evenings.",
+        "bn": "সে সন্ধ্যায় বোনা পছন্দ করে।"
+      },
+      {
+        "en": "His broken bones began to knit.",
+        "bn": "তার ভাঙা হাড় জোড়া লাগতে শুরু করল।"
+      },
+      {
+        "en": "She taught her daughter to knit.",
+        "bn": "সে মেয়েকে বোনা শেখাল।"
+      },
+      {
+        "en": "They are a close-knit family.",
+        "bn": "তারা একটি ঘনিষ্ঠ পরিবার।"
+      },
+      {
+        "en": "She knit a blanket from wool.",
+        "bn": "সে পশম দিয়ে একটি কম্বল বুনল।"
+      },
+      {
+        "en": "He watched her knit by the fire.",
+        "bn": "সে আগুনের পাশে তাকে বোনা দেখল।"
+      },
+      {
+        "en": "The injured skin began to knit back.",
+        "bn": "আহত ত্বক জোড়া লাগতে শুরু করল।"
+      },
+      {
+        "en": "She knit a cap for the baby.",
+        "bn": "সে শিশুর জন্য একটি টুপি বুনল।"
+      }
+    ],
+    "synonyms": ["weave", "stitch", "join", "connect", "unite"]
+  },
+  {
+    "base": "knight",
+    "phonetic": "naɪt",
+    "meaning": "নাইট / যোদ্ধা",
+    "examples": [
+      {
+        "en": "The knight fought bravely.",
+        "bn": "নাইটটি সাহসিকতার সাথে যুদ্ধ করল।"
+      },
+      {
+        "en": "He was knighted by the queen.",
+        "bn": "তাকে রানী নাইট উপাধি দিলেন।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The knight wore shining armor.",
+        "bn": "নাইটটি চকচকে বর্ম পরেছিল।"
+      },
+      {
+        "en": "She read stories about knights.",
+        "bn": "সে নাইটদের সম্পর্কে গল্প পড়ল।"
+      },
+      {
+        "en": "The knight rode a white horse.",
+        "bn": "নাইটটি একটি সাদা ঘোড়ায় চড়েছিল।"
+      },
+      {
+        "en": "He acted like a knight in shining armor.",
+        "bn": "সে চকচকে বর্মের নাইটের মতো আচরণ করল।"
+      },
+      {
+        "en": "The king honored the knight.",
+        "bn": "রাজা নাইটকে সম্মানিত করলেন।"
+      },
+      {
+        "en": "Knights followed a strict code of honor.",
+        "bn": "নাইটরা সম্মানের কঠোর বিধি মেনে চলত।"
+      },
+      {
+        "en": "She admired the brave knight.",
+        "bn": "সে সাহসী নাইটকে প্রশংসা করল।"
+      },
+      {
+        "en": "The knight protected the kingdom.",
+        "bn": "নাইটটি রাজ্য রক্ষা করল।"
+      },
+      {
+        "en": "He was a loyal knight to the king.",
+        "bn": "সে রাজার প্রতি বিশ্বস্ত নাইট ছিল।"
+      },
+      {
+        "en": "The chess knight can jump over pieces.",
+        "bn": "দাবার ঘোড়া অন্য ঘুঁটির উপর দিয়ে লাফ দিতে পারে।"
+      }
+    ],
+    "synonyms": ["warrior", "soldier", "champion", "hero", "cavalier"]
+  },
+  {
+    "base": "knack",
+    "phonetic": "næk",
+    "meaning": "দক্ষতা / কৌশল",
+    "examples": [
+      {
+        "en": "She has a knack for drawing.",
+        "bn": "তার আঁকার বিশেষ দক্ষতা আছে।"
+      },
+      {
+        "en": "He has a knack for solving puzzles.",
+        "bn": "ধাঁধা সমাধানে তার বিশেষ কৌশল আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She has a natural knack for cooking.",
+        "bn": "রান্নায় তার স্বাভাবিক দক্ষতা আছে।"
+      },
+      {
+        "en": "He has a knack for making people laugh.",
+        "bn": "মানুষকে হাসানোর তার বিশেষ কৌশল আছে।"
+      },
+      {
+        "en": "She developed a knack for languages.",
+        "bn": "ভাষায় সে বিশেষ দক্ষতা গড়ে তুলল।"
+      },
+      {
+        "en": "He has a knack for finding bargains.",
+        "bn": "সস্তায় জিনিস খুঁজে পাওয়ার তার বিশেষ কৌশল আছে।"
+      },
+      {
+        "en": "She has a knack for teaching.",
+        "bn": "শেখানোর তার বিশেষ দক্ষতা আছে।"
+      },
+      {
+        "en": "He has a knack for fixing things.",
+        "bn": "জিনিস ঠিক করার তার বিশেষ কৌশল আছে।"
+      },
+      {
+        "en": "She quickly got the knack of it.",
+        "bn": "সে দ্রুত এর কৌশল আয়ত্ত করল।"
+      },
+      {
+        "en": "He has a knack for storytelling.",
+        "bn": "গল্প বলার তার বিশেষ দক্ষতা আছে।"
+      },
+      {
+        "en": "She has a knack for remembering names.",
+        "bn": "নাম মনে রাখার তার বিশেষ কৌশল আছে।"
+      },
+      {
+        "en": "He has a knack for business.",
+        "bn": "ব্যবসায় তার বিশেষ দক্ষতা আছে।"
+      }
+    ],
+    "synonyms": ["skill", "talent", "ability", "flair", "gift"]
+  },
+  {
+    "base": "kidnap",
+    "phonetic": "ˈkɪdnæp",
+    "meaning": "অপহরণ করা",
+    "examples": [
+      { "en": "The child was kidnapped.", "bn": "শিশুটিকে অপহরণ করা হয়েছিল।" },
+      {
+        "en": "Police rescued the kidnapped girl.",
+        "bn": "পুলিশ অপহৃত মেয়েটিকে উদ্ধার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was arrested for kidnapping.",
+        "bn": "অপহরণের জন্য তাকে গ্রেফতার করা হল।"
+      },
+      {
+        "en": "The kidnapper demanded a ransom.",
+        "bn": "অপহরণকারী মুক্তিপণ দাবি করল।"
+      },
+      {
+        "en": "She was kidnapped on her way home.",
+        "bn": "বাড়ি ফেরার পথে তাকে অপহরণ করা হল।"
+      },
+      {
+        "en": "Kidnapping is a serious crime.",
+        "bn": "অপহরণ একটি গুরুতর অপরাধ।"
+      },
+      {
+        "en": "The businessman was kidnapped.",
+        "bn": "ব্যবসায়ীকে অপহরণ করা হয়েছিল।"
+      },
+      {
+        "en": "He planned the kidnapping carefully.",
+        "bn": "সে সাবধানে অপহরণ পরিকল্পনা করল।"
+      },
+      {
+        "en": "The kidnapping shocked the country.",
+        "bn": "অপহরণটি দেশকে হতবাক করল।"
+      },
+      {
+        "en": "She was freed after the kidnapping.",
+        "bn": "অপহরণের পরে তাকে মুক্তি দেওয়া হল।"
+      },
+      {
+        "en": "The police investigated the kidnapping.",
+        "bn": "পুলিশ অপহরণটি তদন্ত করল।"
+      },
+      {
+        "en": "Kidnap attempts have increased in the city.",
+        "bn": "শহরে অপহরণের চেষ্টা বেড়েছে।"
+      }
+    ],
+    "synonyms": ["abduct", "capture", "seize", "snatch", "take hostage"]
+  },
+  {
+    "base": "knowledgeable",
+    "phonetic": "ˈnɒlɪdʒəbl",
+    "meaning": "জ্ঞানী / অভিজ্ঞ",
+    "examples": [
+      {
+        "en": "She is very knowledgeable about history.",
+        "bn": "সে ইতিহাস সম্পর্কে অত্যন্ত জ্ঞানী।"
+      },
+      { "en": "He is a knowledgeable doctor.", "bn": "সে একজন অভিজ্ঞ ডাক্তার।" }
+    ],
+    "moreexample": [
+      { "en": "She is knowledgeable in science.", "bn": "সে বিজ্ঞানে জ্ঞানী।" },
+      {
+        "en": "He gave knowledgeable advice.",
+        "bn": "সে জ্ঞানসম্পন্ন পরামর্শ দিল।"
+      },
+      {
+        "en": "The knowledgeable teacher inspired students.",
+        "bn": "জ্ঞানী শিক্ষক শিক্ষার্থীদের অনুপ্রাণিত করলেন।"
+      },
+      {
+        "en": "She is knowledgeable about local laws.",
+        "bn": "সে স্থানীয় আইন সম্পর্কে জ্ঞানী।"
+      },
+      {
+        "en": "He is knowledgeable about technology.",
+        "bn": "সে প্রযুক্তি সম্পর্কে অভিজ্ঞ।"
+      },
+      {
+        "en": "She became more knowledgeable over time.",
+        "bn": "সময়ের সাথে সাথে সে আরও জ্ঞানী হল।"
+      },
+      {
+        "en": "Consult someone more knowledgeable.",
+        "bn": "আরও জ্ঞানী কাউকে পরামর্শ করুন।"
+      },
+      {
+        "en": "He is the most knowledgeable person I know.",
+        "bn": "সে আমার পরিচিত সবচেয়ে জ্ঞানী মানুষ।"
+      },
+      {
+        "en": "A knowledgeable guide is invaluable.",
+        "bn": "একজন জ্ঞানী গাইড অমূল্য।"
+      },
+      {
+        "en": "She is knowledgeable about nutrition.",
+        "bn": "সে পুষ্টি সম্পর্কে জ্ঞানী।"
+      }
+    ],
+    "synonyms": ["informed", "educated", "learned", "well-read", "expert"]
+  },
+  {
+    "base": "kingdom",
+    "phonetic": "ˈkɪŋdəm",
+    "meaning": "রাজ্য / রাজত্ব",
+    "examples": [
+      {
+        "en": "The king ruled his kingdom wisely.",
+        "bn": "রাজা তার রাজ্য বুদ্ধিমত্তার সাথে শাসন করলেন।"
+      },
+      {
+        "en": "The animal kingdom is diverse.",
+        "bn": "প্রাণীজগৎ বৈচিত্র্যময়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He traveled across the kingdom.",
+        "bn": "সে পুরো রাজ্য জুড়ে ভ্রমণ করল।"
+      },
+      {
+        "en": "She dreamed of ruling a kingdom.",
+        "bn": "সে একটি রাজ্য শাসনের স্বপ্ন দেখত।"
+      },
+      { "en": "The kingdom was at peace.", "bn": "রাজ্যটি শান্তিতে ছিল।" },
+      {
+        "en": "He built a powerful kingdom.",
+        "bn": "সে একটি শক্তিশালী রাজ্য গড়ে তুলল।"
+      },
+      {
+        "en": "The plant kingdom includes all plants.",
+        "bn": "উদ্ভিদজগতে সমস্ত উদ্ভিদ অন্তর্ভুক্ত।"
+      },
+      {
+        "en": "She was banished from the kingdom.",
+        "bn": "তাকে রাজ্য থেকে বিতাড়িত করা হয়েছিল।"
+      },
+      {
+        "en": "The kingdom had many resources.",
+        "bn": "রাজ্যটিতে অনেক সম্পদ ছিল।"
+      },
+      {
+        "en": "He protected the kingdom from enemies.",
+        "bn": "সে শত্রুদের থেকে রাজ্য রক্ষা করল।"
+      },
+      {
+        "en": "The United Kingdom includes several nations.",
+        "bn": "যুক্তরাজ্য কয়েকটি দেশ নিয়ে গঠিত।"
+      },
+      {
+        "en": "She inherited the kingdom.",
+        "bn": "সে রাজ্যটি উত্তরাধিকারে পেল।"
+      }
+    ],
+    "synonyms": ["realm", "empire", "domain", "territory", "land"]
+  },
+  {
+    "base": "knob",
+    "phonetic": "nɒb",
+    "meaning": "গোলাকার হাতল / বোতাম",
+    "examples": [
+      { "en": "She turned the door knob.", "bn": "সে দরজার হাতল ঘোরাল।" },
+      { "en": "The radio knob was broken.", "bn": "রেডিওর নব ভাঙা ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He replaced the cabinet knob.",
+        "bn": "সে ক্যাবিনেটের হাতল বদলাল।"
+      },
+      {
+        "en": "She twisted the knob to open the door.",
+        "bn": "দরজা খুলতে সে নব ঘোরাল।"
+      },
+      {
+        "en": "The volume knob was too stiff.",
+        "bn": "ভলিউম নবটি অনেক শক্ত ছিল।"
+      },
+      {
+        "en": "He decorated the drawer with a brass knob.",
+        "bn": "সে পিতলের হাতল দিয়ে ড্রয়ার সাজাল।"
+      },
+      {
+        "en": "She polished the door knobs.",
+        "bn": "সে দরজার হাতলগুলো পালিশ করল।"
+      },
+      {
+        "en": "The knob on the stove was missing.",
+        "bn": "চুলার নবটি ছিল না।"
+      },
+      { "en": "He gripped the knob tightly.", "bn": "সে হাতলটি শক্তভাবে ধরল।" },
+      {
+        "en": "She noticed a small knob on the wall.",
+        "bn": "সে দেয়ালে একটি ছোট নব লক্ষ্য করল।"
+      },
+      {
+        "en": "The knob of butter melted quickly.",
+        "bn": "মাখনের গোলাটি দ্রুত গলে গেল।"
+      },
+      {
+        "en": "He installed new knobs on the cupboard.",
+        "bn": "সে আলমারিতে নতুন হাতল লাগাল।"
+      }
+    ],
+    "synonyms": ["handle", "dial", "button", "grip", "lump"]
+  },
+  {
+    "base": "kinship",
+    "phonetic": "ˈkɪnʃɪp",
+    "meaning": "আত্মীয়তা / সম্পর্ক",
+    "examples": [
+      {
+        "en": "She felt a sense of kinship with them.",
+        "bn": "তাদের সাথে সে আত্মীয়তার অনুভূতি পেল।"
+      },
+      {
+        "en": "Kinship bonds are very strong.",
+        "bn": "আত্মীয়তার বন্ধন অত্যন্ত শক্তিশালী।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He discovered their kinship.",
+        "bn": "সে তাদের আত্মীয়তা আবিষ্কার করল।"
+      },
+      {
+        "en": "They shared a sense of kinship.",
+        "bn": "তারা আত্মীয়তার একটি অনুভূতি ভাগ করে নিল।"
+      },
+      {
+        "en": "Kinship is important in their culture.",
+        "bn": "তাদের সংস্কৃতিতে আত্মীয়তা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She felt kinship with the author.",
+        "bn": "সে লেখকের সাথে আত্মীয়তা অনুভব করল।"
+      },
+      {
+        "en": "He valued kinship above wealth.",
+        "bn": "সে সম্পদের চেয়ে আত্মীয়তাকে বেশি মূল্য দিল।"
+      },
+      {
+        "en": "Their kinship was undeniable.",
+        "bn": "তাদের আত্মীয়তা অস্বীকার করা যাচ্ছিল না।"
+      },
+      {
+        "en": "She felt kinship with fellow artists.",
+        "bn": "সে সহ শিল্পীদের সাথে আত্মীয়তা অনুভব করল।"
+      },
+      {
+        "en": "Kinship helps build communities.",
+        "bn": "আত্মীয়তা সম্প্রদায় গড়তে সাহায্য করে।"
+      },
+      {
+        "en": "He spoke of his kinship with the land.",
+        "bn": "সে ভূমির সাথে তার সম্পর্কের কথা বলল।"
+      },
+      {
+        "en": "Their kinship grew stronger over time.",
+        "bn": "সময়ের সাথে সাথে তাদের আত্মীয়তা আরও শক্তিশালী হল।"
+      }
+    ],
+    "synonyms": ["relationship", "bond", "connection", "affinity", "family tie"]
+  },
+  {
+    "base": "knowledgeable",
+    "phonetic": "ˈnɒlɪdʒəbl",
+    "meaning": "বিজ্ঞ / অবহিত",
+    "examples": [
+      {
+        "en": "She is knowledgeable about art.",
+        "bn": "শিল্প সম্পর্কে সে বিজ্ঞ।"
+      },
+      {
+        "en": "He gave knowledgeable guidance.",
+        "bn": "সে বিজ্ঞ নির্দেশনা দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A knowledgeable mentor is invaluable.",
+        "bn": "একজন বিজ্ঞ পরামর্শদাতা অমূল্য।"
+      },
+      {
+        "en": "She is knowledgeable about global affairs.",
+        "bn": "সে বৈশ্বিক বিষয়ে অবহিত।"
+      },
+      {
+        "en": "He is highly knowledgeable in his field.",
+        "bn": "তার ক্ষেত্রে সে অত্যন্ত বিজ্ঞ।"
+      },
+      {
+        "en": "She became knowledgeable through travel.",
+        "bn": "ভ্রমণের মাধ্যমে সে বিজ্ঞ হয়ে উঠল।"
+      },
+      {
+        "en": "The knowledgeable staff answered all questions.",
+        "bn": "বিজ্ঞ কর্মীরা সমস্ত প্রশ্নের উত্তর দিল।"
+      },
+      {
+        "en": "He is knowledgeable about cultural traditions.",
+        "bn": "সে সাংস্কৃতিক ঐতিহ্য সম্পর্কে বিজ্ঞ।"
+      },
+      {
+        "en": "She was knowledgeable in several fields.",
+        "bn": "সে কয়েকটি ক্ষেত্রে বিজ্ঞ ছিল।"
+      },
+      {
+        "en": "Being knowledgeable boosts confidence.",
+        "bn": "বিজ্ঞ হওয়া আত্মবিশ্বাস বাড়ায়।"
+      },
+      {
+        "en": "He was knowledgeable about the market.",
+        "bn": "বাজার সম্পর্কে সে অবহিত ছিল।"
+      },
+      {
+        "en": "She gave a knowledgeable opinion.",
+        "bn": "সে একটি বিজ্ঞ মতামত দিল।"
+      }
+    ],
+    "synonyms": ["informed", "well-versed", "erudite", "aware", "expert"]
+  },
+  {
+    "base": "key",
+    "phonetic": "kiː",
+    "meaning": "মূল বিষয় / সমাধান",
+    "examples": [
+      {
+        "en": "Hard work is the key to success.",
+        "bn": "পরিশ্রম সাফল্যের চাবিকাঠি।"
+      },
+      {
+        "en": "She holds the key to the problem.",
+        "bn": "সমস্যার সমাধান তার হাতে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Communication is key in any relationship.",
+        "bn": "যেকোনো সম্পর্কে যোগাযোগ মূল বিষয়।"
+      },
+      {
+        "en": "He identified the key factors.",
+        "bn": "সে মূল কারণগুলো চিহ্নিত করল।"
+      },
+      {
+        "en": "She played a key role in the project.",
+        "bn": "প্রকল্পে সে মূল ভূমিকা পালন করল।"
+      },
+      {
+        "en": "The key to good health is exercise.",
+        "bn": "সুস্বাস্থ্যের চাবিকাঠি হলো ব্যায়াম।"
+      },
+      {
+        "en": "He made several key decisions.",
+        "bn": "সে কয়েকটি গুরুত্বপূর্ণ সিদ্ধান্ত নিল।"
+      },
+      { "en": "Focus is the key ingredient.", "bn": "মনোযোগ হলো মূল উপাদান।" },
+      {
+        "en": "She answered the key questions.",
+        "bn": "সে মূল প্রশ্নগুলোর উত্তর দিল।"
+      },
+      {
+        "en": "He highlighted the key points.",
+        "bn": "সে মূল বিষয়গুলো তুলে ধরল।"
+      },
+      {
+        "en": "The key to happiness is gratitude.",
+        "bn": "সুখের চাবিকাঠি হলো কৃতজ্ঞতা।"
+      },
+      {
+        "en": "She provided the key evidence.",
+        "bn": "সে মূল প্রমাণ সরবরাহ করল।"
+      }
+    ],
+    "synonyms": ["core", "main", "essential", "crucial", "pivotal"]
+  },
+  {
+    "base": "kindness",
+    "phonetic": "ˈkaɪndnəs",
+    "meaning": "দয়া / সদয়তা",
+    "examples": [
+      {
+        "en": "She showed great kindness to the stranger.",
+        "bn": "সে অপরিচিত ব্যক্তির প্রতি অনেক দয়া দেখাল।"
+      },
+      {
+        "en": "Kindness is a wonderful virtue.",
+        "bn": "দয়া একটি অসাধারণ গুণ।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "His kindness touched everyone.",
+        "bn": "তার দয়া সবাইকে স্পর্শ করল।"
+      },
+      {
+        "en": "Small acts of kindness matter.",
+        "bn": "ছোট দয়ার কাজগুলো গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She received kindness from her neighbors.",
+        "bn": "সে প্রতিবেশীদের কাছ থেকে সদয়তা পেল।"
+      },
+      {
+        "en": "He showed kindness to animals.",
+        "bn": "সে প্রাণীদের প্রতি দয়া দেখাল।"
+      },
+      {
+        "en": "Her kindness made a big difference.",
+        "bn": "তার দয়া বড় পার্থক্য এনেছে।"
+      },
+      {
+        "en": "Kindness can change someone's day.",
+        "bn": "দয়া কারো দিন পরিবর্তন করতে পারে।"
+      },
+      {
+        "en": "She will never forget his kindness.",
+        "bn": "সে কখনো তার দয়া ভুলবে না।"
+      },
+      {
+        "en": "He spread kindness wherever he went.",
+        "bn": "সে যেখানে গেছে সেখানেই দয়া ছড়িয়েছে।"
+      },
+      {
+        "en": "Kindness is free but priceless.",
+        "bn": "দয়া বিনামূল্যের কিন্তু অমূল্য।"
+      },
+      {
+        "en": "She appreciated his acts of kindness.",
+        "bn": "সে তার দয়ার কাজগুলোর প্রশংসা করল।"
+      }
+    ],
+    "synonyms": [
+      "generosity",
+      "compassion",
+      "warmth",
+      "gentleness",
+      "benevolence"
+    ]
+  },
+  {
+    "base": "knowledgeable",
+    "phonetic": "ˈnɒlɪdʒəbl",
+    "meaning": "সুশিক্ষিত",
+    "examples": [
+      {
+        "en": "She is knowledgeable about medicine.",
+        "bn": "সে চিকিৎসা সম্পর্কে সুশিক্ষিত।"
+      },
+      {
+        "en": "He gave knowledgeable advice on finance.",
+        "bn": "সে অর্থনীতি বিষয়ে সুশিক্ষিত পরামর্শ দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A knowledgeable employee is an asset.",
+        "bn": "একজন সুশিক্ষিত কর্মচারী একটি সম্পদ।"
+      },
+      {
+        "en": "She is knowledgeable about the environment.",
+        "bn": "সে পরিবেশ সম্পর্কে সুশিক্ষিত।"
+      },
+      {
+        "en": "He is knowledgeable in many subjects.",
+        "bn": "সে অনেক বিষয়ে সুশিক্ষিত।"
+      },
+      {
+        "en": "The knowledgeable professor answered clearly.",
+        "bn": "সুশিক্ষিত অধ্যাপক স্পষ্টভাবে উত্তর দিলেন।"
+      },
+      {
+        "en": "She is knowledgeable about local plants.",
+        "bn": "সে স্থানীয় গাছপালা সম্পর্কে সুশিক্ষিত।"
+      },
+      {
+        "en": "He became more knowledgeable with experience.",
+        "bn": "অভিজ্ঞতার সাথে সে আরও সুশিক্ষিত হল।"
+      },
+      {
+        "en": "A knowledgeable leader inspires trust.",
+        "bn": "একজন সুশিক্ষিত নেতা আস্থা অনুপ্রাণিত করেন।"
+      },
+      {
+        "en": "She is knowledgeable about social issues.",
+        "bn": "সে সামাজিক বিষয় সম্পর্কে সুশিক্ষিত।"
+      },
+      {
+        "en": "He is knowledgeable in digital marketing.",
+        "bn": "সে ডিজিটাল মার্কেটিংয়ে সুশিক্ষিত।"
+      },
+      {
+        "en": "Being knowledgeable opens many doors.",
+        "bn": "সুশিক্ষিত হওয়া অনেক দরজা খুলে দেয়।"
+      }
+    ],
+    "synonyms": ["well-informed", "educated", "skilled", "savvy", "learned"]
+  },
+  {
+    "base": "kidnapper",
+    "phonetic": "ˈkɪdnæpər",
+    "meaning": "অপহরণকারী",
+    "examples": [
+      {
+        "en": "The kidnapper was arrested.",
+        "bn": "অপহরণকারীকে গ্রেফতার করা হল।"
+      },
+      {
+        "en": "Police tracked down the kidnapper.",
+        "bn": "পুলিশ অপহরণকারীকে খুঁজে বের করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The kidnapper sent a ransom note.",
+        "bn": "অপহরণকারী মুক্তিপণের চিঠি পাঠাল।"
+      },
+      {
+        "en": "The victim escaped from the kidnapper.",
+        "bn": "ভুক্তভোগী অপহরণকারীর কাছ থেকে পালাল।"
+      },
+      {
+        "en": "She identified the kidnapper.",
+        "bn": "সে অপহরণকারীকে শনাক্ত করল।"
+      },
+      {
+        "en": "The kidnapper was sentenced to life in prison.",
+        "bn": "অপহরণকারীকে যাবজ্জীবন কারাদণ্ড দেওয়া হল।"
+      },
+      {
+        "en": "He disguised himself as the kidnapper.",
+        "bn": "সে অপহরণকারী হিসেবে ছদ্মবেশ ধারণ করল।"
+      },
+      {
+        "en": "The kidnapper left no clues.",
+        "bn": "অপহরণকারী কোনো সূত্র রেখে যায়নি।"
+      },
+      {
+        "en": "She bravely confronted the kidnapper.",
+        "bn": "সে সাহসের সাথে অপহরণকারীর মুখোমুখি হল।"
+      },
+      {
+        "en": "The kidnapper was finally caught.",
+        "bn": "অপহরণকারীকে অবশেষে ধরা হল।"
+      },
+      {
+        "en": "He reported the kidnapper to the police.",
+        "bn": "সে অপহরণকারীকে পুলিশকে জানাল।"
+      },
+      { "en": "The kidnapper acted alone.", "bn": "অপহরণকারী একা কাজ করেছিল।" }
+    ],
+    "synonyms": ["abductor", "captor", "criminal", "felon", "hostage-taker"]
+  },
+  {
+    "base": "kit",
+    "phonetic": "kɪt",
+    "meaning": "সরঞ্জামের সেট / কিট",
+    "examples": [
+      {
+        "en": "She packed a first aid kit.",
+        "bn": "সে একটি প্রাথমিক চিকিৎসা কিট প্যাক করল।"
+      },
+      { "en": "He bought a tool kit.", "bn": "সে একটি সরঞ্জামের সেট কিনল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The sewing kit was very useful.",
+        "bn": "সেলাইয়ের কিটটি খুবই উপকারী ছিল।"
+      },
+      {
+        "en": "She received a makeup kit as a gift.",
+        "bn": "সে উপহার হিসেবে একটি মেকআপ কিট পেল।"
+      },
+      {
+        "en": "He carried a survival kit.",
+        "bn": "সে একটি বেঁচে থাকার কিট বহন করল।"
+      },
+      {
+        "en": "The model kit took hours to build.",
+        "bn": "মডেল কিটটি তৈরি করতে ঘণ্টার পর ঘণ্টা লাগল।"
+      },
+      { "en": "She forgot her gym kit.", "bn": "সে তার জিমের কিট ভুলে গেল।" },
+      {
+        "en": "He used a repair kit for the bike.",
+        "bn": "সে সাইকেলের জন্য মেরামতের কিট ব্যবহার করল।"
+      },
+      {
+        "en": "The kit came with full instructions.",
+        "bn": "কিটটি সম্পূর্ণ নির্দেশনাসহ এসেছিল।"
+      },
+      {
+        "en": "She organized her art kit neatly.",
+        "bn": "সে তার শিল্পের কিট গুছিয়ে রাখল।"
+      },
+      {
+        "en": "The emergency kit was fully stocked.",
+        "bn": "জরুরি কিটটি সম্পূর্ণ মজুদ ছিল।"
+      },
+      {
+        "en": "He assembled the furniture from a kit.",
+        "bn": "সে কিট থেকে আসবাবপত্র তৈরি করল।"
+      }
+    ],
+    "synonyms": ["set", "pack", "equipment", "supplies", "gear"]
+  },
+  {
+    "base": "kitchen",
+    "phonetic": "ˈkɪtʃɪn",
+    "meaning": "রান্নাঘর",
+    "examples": [
+      { "en": "She cooked in the kitchen.", "bn": "সে রান্নাঘরে রান্না করল।" },
+      {
+        "en": "The kitchen was clean and tidy.",
+        "bn": "রান্নাঘরটি পরিষ্কার ও ঝকঝকে ছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He remodeled the kitchen.", "bn": "সে রান্নাঘরটি সংস্কার করল।" },
+      {
+        "en": "The smell from the kitchen was wonderful.",
+        "bn": "রান্নাঘর থেকে দারুণ সুগন্ধ আসছিল।"
+      },
+      {
+        "en": "She organized the kitchen cabinets.",
+        "bn": "সে রান্নাঘরের ক্যাবিনেটগুলো গুছিয়ে রাখল।"
+      },
+      {
+        "en": "The kitchen has modern appliances.",
+        "bn": "রান্নাঘরে আধুনিক যন্ত্রপাতি আছে।"
+      },
+      {
+        "en": "He spent all morning in the kitchen.",
+        "bn": "সে সারা সকাল রান্নাঘরে কাটাল।"
+      },
+      {
+        "en": "She set up a kitchen garden.",
+        "bn": "সে একটি রান্নাঘরের বাগান তৈরি করল।"
+      },
+      {
+        "en": "The professional kitchen was huge.",
+        "bn": "পেশাদার রান্নাঘরটি বিশাল ছিল।"
+      },
+      {
+        "en": "He cleaned the kitchen after dinner.",
+        "bn": "রাতের খাবারের পরে সে রান্নাঘর পরিষ্কার করল।"
+      },
+      {
+        "en": "She installed new lights in the kitchen.",
+        "bn": "সে রান্নাঘরে নতুন আলো লাগাল।"
+      },
+      {
+        "en": "The kitchen is the heart of the home.",
+        "bn": "রান্নাঘর হলো বাড়ির হৃদয়।"
+      }
+    ],
+    "synonyms": ["cookhouse", "galley", "scullery", "cooking area", "pantry"]
+  },
+  {
+    "base": "kite",
+    "phonetic": "kaɪt",
+    "meaning": "ঘুড়ি",
+    "examples": [
+      { "en": "He flew a kite in the park.", "bn": "সে পার্কে ঘুড়ি উড়াল।" },
+      { "en": "She made a colorful kite.", "bn": "সে একটি রঙিন ঘুড়ি বানাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The kite soared high in the sky.",
+        "bn": "ঘুড়িটি আকাশে উঁচুতে উড়ল।"
+      },
+      {
+        "en": "Children love flying kites.",
+        "bn": "শিশুরা ঘুড়ি ওড়াতে ভালোবাসে।"
+      },
+      { "en": "The kite string broke.", "bn": "ঘুড়ির সুতা ছিঁড়ে গেল।" },
+      {
+        "en": "She painted a dragon on her kite.",
+        "bn": "সে তার ঘুড়িতে ড্রাগন আঁকল।"
+      },
+      {
+        "en": "He got tangled in the kite string.",
+        "bn": "সে ঘুড়ির সুতায় জড়িয়ে পড়ল।"
+      },
+      {
+        "en": "The kite festival was exciting.",
+        "bn": "ঘুড়ি উৎসব উত্তেজনাপূর্ণ ছিল।"
+      },
+      {
+        "en": "She won the kite competition.",
+        "bn": "সে ঘুড়ি প্রতিযোগিতায় জিতল।"
+      },
+      {
+        "en": "He taught his son to fly a kite.",
+        "bn": "সে ছেলেকে ঘুড়ি ওড়ানো শেখাল।"
+      },
+      {
+        "en": "The kite danced in the wind.",
+        "bn": "ঘুড়িটি বাতাসে নেচে উঠল।"
+      },
+      {
+        "en": "She chased after the fallen kite.",
+        "bn": "সে পড়ে যাওয়া ঘুড়ির পিছনে দৌড়াল।"
+      }
+    ],
+    "synonyms": ["glider", "flyer", "soarer", "diamond", "paper plane"]
+  },
+  {
+    "base": "knowledgeable",
+    "phonetic": "ˈnɒlɪdʒəbl",
+    "meaning": "বিশেষজ্ঞ",
+    "examples": [
+      {
+        "en": "She is knowledgeable about engineering.",
+        "bn": "সে প্রকৌশলে বিশেষজ্ঞ।"
+      },
+      {
+        "en": "He is knowledgeable about cooking techniques.",
+        "bn": "সে রান্নার কৌশলে বিশেষজ্ঞ।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A knowledgeable advisor saves time.",
+        "bn": "একজন বিশেষজ্ঞ পরামর্শদাতা সময় বাঁচায়।"
+      },
+      {
+        "en": "She is knowledgeable about foreign policy.",
+        "bn": "সে বিদেশনীতি সম্পর্কে বিশেষজ্ঞ।"
+      },
+      {
+        "en": "The knowledgeable author wrote a detailed book.",
+        "bn": "বিশেষজ্ঞ লেখক একটি বিস্তারিত বই লিখলেন।"
+      },
+      {
+        "en": "He is knowledgeable in software development.",
+        "bn": "সে সফটওয়্যার ডেভেলপমেন্টে বিশেষজ্ঞ।"
+      },
+      {
+        "en": "She became knowledgeable by studying hard.",
+        "bn": "কঠোর অধ্যয়নের মাধ্যমে সে বিশেষজ্ঞ হল।"
+      },
+      {
+        "en": "The knowledgeable nurse treated the patient well.",
+        "bn": "বিশেষজ্ঞ নার্স রোগীকে ভালোভাবে চিকিৎসা করলেন।"
+      },
+      {
+        "en": "He is knowledgeable about religious texts.",
+        "bn": "সে ধর্মগ্রন্থ সম্পর্কে বিশেষজ্ঞ।"
+      },
+      {
+        "en": "She is increasingly knowledgeable.",
+        "bn": "সে ক্রমশ আরও বিশেষজ্ঞ হচ্ছে।"
+      },
+      {
+        "en": "The knowledgeable panel discussed the topic.",
+        "bn": "বিশেষজ্ঞ প্যানেল বিষয়টি নিয়ে আলোচনা করল।"
+      },
+      {
+        "en": "He is knowledgeable about wildlife.",
+        "bn": "সে বন্যপ্রাণী সম্পর্কে বিশেষজ্ঞ।"
+      }
+    ],
+    "synonyms": ["expert", "specialist", "authority", "proficient", "competent"]
+  },
+  {
+    "base": "kernel",
+    "phonetic": "ˈkɜːnl",
+    "meaning": "মূল অংশ / বীজ",
+    "examples": [
+      {
+        "en": "The kernel of the idea is simple.",
+        "bn": "ধারণার মূল অংশ সহজ।"
+      },
+      {
+        "en": "He cracked the nut to find the kernel.",
+        "bn": "সে বাদামের শাঁস বের করতে খুলল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The corn kernel was sweet.",
+        "bn": "ভুট্টার দানাটি মিষ্টি ছিল।"
+      },
+      {
+        "en": "She extracted the kernel of the truth.",
+        "bn": "সে সত্যের মূল অংশ বের করল।"
+      },
+      {
+        "en": "The kernel of the problem is trust.",
+        "bn": "সমস্যার মূল কারণ হলো বিশ্বাস।"
+      },
+      { "en": "He found a kernel of hope.", "bn": "সে সামান্য একটু আশা পেল।" },
+      {
+        "en": "The wheat kernel contains nutrients.",
+        "bn": "গমের বীজে পুষ্টিগুণ থাকে।"
+      },
+      {
+        "en": "She understood the kernel of his argument.",
+        "bn": "সে তার যুক্তির মূল বিষয় বুঝল।"
+      },
+      {
+        "en": "He identified the kernel of the conflict.",
+        "bn": "সে দ্বন্দ্বের মূল বিষয় চিহ্নিত করল।"
+      },
+      {
+        "en": "The popcorn kernels popped loudly.",
+        "bn": "পপকর্নের দানাগুলো জোরে ফুটল।"
+      },
+      {
+        "en": "There was a kernel of truth in her words.",
+        "bn": "তার কথায় সামান্য সত্য ছিল।"
+      },
+      {
+        "en": "The software kernel manages resources.",
+        "bn": "সফটওয়্যারের কার্নেল রিসোর্স পরিচালনা করে।"
+      }
+    ],
+    "synonyms": ["core", "seed", "grain", "essence", "nucleus"]
+  },
+  {
+    "base": "kidnap",
+    "phonetic": "ˈkɪdnæp",
+    "meaning": "অপহরণ",
+    "examples": [
+      {
+        "en": "The kidnap was carefully planned.",
+        "bn": "অপহরণটি সাবধানে পরিকল্পিত ছিল।"
+      },
+      {
+        "en": "The kidnap victim was found safe.",
+        "bn": "অপহৃত ব্যক্তি নিরাপদে পাওয়া গেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The kidnap happened in broad daylight.",
+        "bn": "অপহরণটি দিনের আলোয় ঘটেছিল।"
+      },
+      {
+        "en": "She escaped from the kidnap attempt.",
+        "bn": "অপহরণের চেষ্টা থেকে সে পালাল।"
+      },
+      {
+        "en": "He reported the kidnap to the police.",
+        "bn": "সে পুলিশকে অপহরণের কথা জানাল।"
+      },
+      {
+        "en": "The kidnap case was solved quickly.",
+        "bn": "অপহরণ মামলাটি দ্রুত সমাধান হল।"
+      },
+      { "en": "She witnessed the kidnap.", "bn": "সে অপহরণটি প্রত্যক্ষ করল।" },
+      {
+        "en": "The kidnap shocked the community.",
+        "bn": "অপহরণটি সমাজকে হতবাক করল।"
+      },
+      {
+        "en": "The child survived the kidnap ordeal.",
+        "bn": "শিশুটি অপহরণের যন্ত্রণা থেকে বেঁচে উঠল।"
+      },
+      {
+        "en": "He was involved in the kidnap plot.",
+        "bn": "সে অপহরণ পরিকল্পনায় জড়িত ছিল।"
+      },
+      {
+        "en": "The kidnap was foiled by police.",
+        "bn": "পুলিশ অপহরণটি ব্যর্থ করে দিল।"
+      },
+      {
+        "en": "She filed a complaint about the kidnap.",
+        "bn": "সে অপহরণের বিষয়ে অভিযোগ দায়ের করল।"
+      }
+    ],
+    "synonyms": [
+      "abduction",
+      "capture",
+      "seizure",
+      "snatching",
+      "hostage-taking"
+    ]
+  },
+  {
+    "base": "kneel",
+    "phonetic": "niːl",
+    "meaning": "নত হওয়া / হাঁটু মোড়া",
+    "examples": [
+      { "en": "He kneeled to propose.", "bn": "সে প্রস্তাব দিতে হাঁটু গাড়ল।" },
+      { "en": "She kneeled in worship.", "bn": "সে উপাসনায় হাঁটু গাড়ল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He kneeled and begged for forgiveness.",
+        "bn": "সে হাঁটু গেড়ে ক্ষমা ভিক্ষা করল।"
+      },
+      {
+        "en": "The soldier kneeled at the memorial.",
+        "bn": "সৈনিকটি স্মৃতিস্তম্ভের সামনে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "She kneeled to examine the flower.",
+        "bn": "ফুলটি পরীক্ষা করতে সে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "He kneeled down in front of her.",
+        "bn": "সে তার সামনে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "The children kneeled in the sand.",
+        "bn": "শিশুরা বালিতে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "She kneeled by the sick man's bed.",
+        "bn": "সে অসুস্থ মানুষটির বিছানার পাশে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "He kneeled at the finish line.",
+        "bn": "সে সীমারেখায় হাঁটু গাড়ল।"
+      },
+      {
+        "en": "They kneeled in prayer together.",
+        "bn": "তারা একসাথে প্রার্থনায় হাঁটু গাড়ল।"
+      },
+      {
+        "en": "She kneeled to look into the child's eyes.",
+        "bn": "শিশুর চোখে তাকাতে সে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "He kneeled before the shrine.",
+        "bn": "সে মন্দিরের সামনে হাঁটু গাড়ল।"
+      }
+    ],
+    "synonyms": ["genuflect", "bow down", "get on knees", "crouch", "stoop"]
+  },
+  {
+    "base": "keynote",
+    "phonetic": "ˈkiːnəʊt",
+    "meaning": "মূল বক্তব্য / মূল সুর",
+    "examples": [
+      {
+        "en": "She delivered the keynote speech.",
+        "bn": "সে মূল বক্তৃতা প্রদান করল।"
+      },
+      {
+        "en": "The keynote speaker was inspiring.",
+        "bn": "মূল বক্তা অনুপ্রেরণাদায়ী ছিলেন।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He gave the keynote address at the conference.",
+        "bn": "সে সম্মেলনে মূল ভাষণ দিলেন।"
+      },
+      {
+        "en": "The keynote was about innovation.",
+        "bn": "মূল বক্তব্যটি ছিল উদ্ভাবন সম্পর্কে।"
+      },
+      {
+        "en": "She was invited as the keynote speaker.",
+        "bn": "তাকে মূল বক্তা হিসেবে আমন্ত্রণ জানানো হয়েছিল।"
+      },
+      {
+        "en": "The president's keynote set the tone.",
+        "bn": "রাষ্ট্রপতির মূল বক্তব্য পরিবেশ তৈরি করল।"
+      },
+      {
+        "en": "He prepared his keynote carefully.",
+        "bn": "সে সাবধানে তার মূল বক্তব্য প্রস্তুত করল।"
+      },
+      {
+        "en": "The keynote emphasized teamwork.",
+        "bn": "মূল বক্তব্যে দলগত কাজের উপর জোর দেওয়া হল।"
+      },
+      {
+        "en": "She practiced her keynote for weeks.",
+        "bn": "সে সপ্তাহ ধরে তার মূল বক্তৃতা অনুশীলন করল।"
+      },
+      {
+        "en": "The keynote received a standing ovation.",
+        "bn": "মূল বক্তৃতা দাঁড়িয়ে হাততালি পেল।"
+      },
+      {
+        "en": "His keynote was broadcast live.",
+        "bn": "তার মূল বক্তৃতা সরাসরি সম্প্রচার হল।"
+      },
+      {
+        "en": "She quoted from the keynote in her report.",
+        "bn": "সে তার প্রতিবেদনে মূল বক্তৃতা থেকে উদ্ধৃতি দিল।"
+      }
+    ],
+    "synonyms": [
+      "main address",
+      "core message",
+      "highlight",
+      "theme",
+      "opening speech"
+    ]
+  },
+  {
+    "base": "kidnap",
+    "phonetic": "ˈkɪdnæp",
+    "meaning": "ধরে নিয়ে যাওয়া",
+    "examples": [
+      {
+        "en": "They tried to kidnap the ambassador.",
+        "bn": "তারা রাষ্ট্রদূতকে ধরে নিয়ে যাওয়ার চেষ্টা করল।"
+      },
+      {
+        "en": "She was kidnapped and held for ransom.",
+        "bn": "তাকে ধরে নিয়ে মুক্তিপণ দাবি করা হয়েছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was kidnapped near his home.",
+        "bn": "তাকে তার বাড়ির কাছে ধরে নিয়ে যাওয়া হয়েছিল।"
+      },
+      {
+        "en": "The terrorist group kidnapped the journalist.",
+        "bn": "সন্ত্রাসী গোষ্ঠী সাংবাদিককে ধরে নিয়ে গেল।"
+      },
+      {
+        "en": "She was kidnapped while jogging.",
+        "bn": "সে জগিং করার সময় অপহৃত হয়েছিল।"
+      },
+      {
+        "en": "The police prevented the kidnapping.",
+        "bn": "পুলিশ অপহরণ প্রতিরোধ করল।"
+      },
+      {
+        "en": "He was kidnapped and later released.",
+        "bn": "তাকে অপহরণ করা হয়েছিল এবং পরে মুক্তি দেওয়া হয়েছিল।"
+      },
+      {
+        "en": "She survived after being kidnapped.",
+        "bn": "অপহৃত হওয়ার পরে সে বেঁচে গেল।"
+      },
+      {
+        "en": "The kidnapped child was found unharmed.",
+        "bn": "অপহৃত শিশুকে অক্ষত অবস্থায় পাওয়া গেল।"
+      },
+      {
+        "en": "He was kidnapped for political reasons.",
+        "bn": "রাজনৈতিক কারণে তাকে অপহরণ করা হয়েছিল।"
+      },
+      {
+        "en": "The rescue operation saved the kidnapped hostages.",
+        "bn": "উদ্ধার অভিযান অপহৃত জিম্মিদের বাঁচাল।"
+      },
+      {
+        "en": "She was kidnapped by a gang.",
+        "bn": "একটি দল তাকে অপহরণ করেছিল।"
+      }
+    ],
+    "synonyms": ["abduct", "snatch", "seize", "capture", "take"]
+  },
+  {
+    "base": "know-how",
+    "phonetic": "ˈnəʊhaʊ",
+    "meaning": "কৌশল জ্ঞান / ব্যাবহারিক জ্ঞান",
+    "examples": [
+      {
+        "en": "He has the know-how to fix cars.",
+        "bn": "গাড়ি ঠিক করার কৌশল জ্ঞান তার আছে।"
+      },
+      {
+        "en": "She gained know-how from her experience.",
+        "bn": "সে অভিজ্ঞতা থেকে ব্যাবহারিক জ্ঞান অর্জন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Technical know-how is very valuable.",
+        "bn": "প্রযুক্তিগত কৌশল জ্ঞান অত্যন্ত মূল্যবান।"
+      },
+      {
+        "en": "She shared her know-how with the team.",
+        "bn": "সে দলের সাথে তার ব্যাবহারিক জ্ঞান ভাগ করে নিল।"
+      },
+      {
+        "en": "He developed know-how through practice.",
+        "bn": "অনুশীলনের মাধ্যমে সে কৌশল জ্ঞান গড়ে তুলল।"
+      },
+      {
+        "en": "She has the know-how to run a business.",
+        "bn": "ব্যবসা পরিচালনার ব্যাবহারিক জ্ঞান তার আছে।"
+      },
+      {
+        "en": "His know-how made the project a success.",
+        "bn": "তার কৌশল জ্ঞান প্রকল্পটিকে সফল করল।"
+      },
+      {
+        "en": "She gained farming know-how from her father.",
+        "bn": "সে বাবার কাছ থেকে চাষের ব্যাবহারিক জ্ঞান পেয়েছে।"
+      },
+      {
+        "en": "He has the know-how to lead a team.",
+        "bn": "দল পরিচালনার কৌশল জ্ঞান তার আছে।"
+      },
+      {
+        "en": "The company needs people with know-how.",
+        "bn": "কোম্পানির কৌশল জ্ঞানসম্পন্ন লোক দরকার।"
+      },
+      {
+        "en": "She has the know-how to handle crises.",
+        "bn": "সংকট সামলানোর ব্যাবহারিক জ্ঞান তার আছে।"
+      },
+      {
+        "en": "His know-how impressed the investors.",
+        "bn": "তার কৌশল জ্ঞান বিনিয়োগকারীদের মুগ্ধ করল।"
+      }
+    ],
+    "synonyms": ["expertise", "skill", "ability", "technique", "proficiency"]
+  },
+  {
+    "base": "kowtow",
+    "phonetic": "ˌkaʊˈtaʊ",
+    "meaning": "মাথা নত করা / তোষামোদ করা",
+    "examples": [
+      {
+        "en": "He refused to kowtow to pressure.",
+        "bn": "সে চাপের কাছে মাথা নত করতে অস্বীকার করল।"
+      },
+      {
+        "en": "She kowtowed before the emperor.",
+        "bn": "সে সম্রাটের সামনে মাথা নত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He doesn't kowtow to anyone.",
+        "bn": "সে কারো কাছে মাথা নত করে না।"
+      },
+      {
+        "en": "She kowtowed to gain favor.",
+        "bn": "সুবিধা পেতে সে তোষামোদ করল।"
+      },
+      {
+        "en": "Don't kowtow to bullies.",
+        "bn": "মাতব্বরদের কাছে মাথা নত করো না।"
+      },
+      {
+        "en": "He kowtowed before the powerful man.",
+        "bn": "সে ক্ষমতাবান লোকটির সামনে মাথা নত করল।"
+      },
+      {
+        "en": "She refused to kowtow to her critics.",
+        "bn": "সে সমালোচকদের কাছে মাথা নত করতে অস্বীকার করল।"
+      },
+      {
+        "en": "The servant kowtowed respectfully.",
+        "bn": "ভৃত্যটি শ্রদ্ধার সাথে মাথা নত করল।"
+      },
+      {
+        "en": "He kowtowed to keep his job.",
+        "bn": "চাকরি বাঁচাতে সে তোষামোদ করল।"
+      },
+      {
+        "en": "She hated having to kowtow.",
+        "bn": "মাথা নত করতে হচ্ছে বলে সে ঘৃণা করত।"
+      },
+      {
+        "en": "He learned not to kowtow unnecessarily.",
+        "bn": "সে অপ্রয়োজনে মাথা না নত করতে শিখল।"
+      },
+      {
+        "en": "They expected her to kowtow.",
+        "bn": "তারা আশা করছিল সে মাথা নত করবে।"
+      }
+    ],
+    "synonyms": ["bow", "grovel", "submit", "yield", "flatter"]
+  },
+  {
+    "base": "kudos",
+    "phonetic": "ˈkjuːdɒs",
+    "meaning": "প্রশংসা / সম্মান",
+    "examples": [
+      {
+        "en": "She received kudos for her work.",
+        "bn": "তার কাজের জন্য সে প্রশংসা পেল।"
+      },
+      {
+        "en": "Kudos to you for finishing on time!",
+        "bn": "সময়মতো শেষ করার জন্য তোমার প্রশংসা!"
+      }
+    ],
+    "moreexample": [
+      { "en": "He deserves all the kudos.", "bn": "সে সমস্ত প্রশংসার যোগ্য।" },
+      {
+        "en": "She earned kudos from her teacher.",
+        "bn": "সে শিক্ষকের কাছ থেকে প্রশংসা অর্জন করল।"
+      },
+      {
+        "en": "Give kudos where it's due.",
+        "bn": "যেখানে প্রাপ্য সেখানে প্রশংসা দাও।"
+      },
+      {
+        "en": "The team received kudos from management.",
+        "bn": "দলটি ব্যবস্থাপনার কাছ থেকে প্রশংসা পেল।"
+      },
+      {
+        "en": "He shared the kudos with everyone.",
+        "bn": "সে সবার সাথে প্রশংসা ভাগ করে নিল।"
+      },
+      {
+        "en": "Kudos for your great performance!",
+        "bn": "তোমার দুর্দান্ত পারফরম্যান্সের জন্য প্রশংসা!"
+      },
+      { "en": "She received kudos online.", "bn": "সে অনলাইনে প্রশংসা পেল।" },
+      {
+        "en": "He gave kudos to his partner.",
+        "bn": "সে তার অংশীদারকে প্রশংসা দিল।"
+      },
+      {
+        "en": "Much kudos for solving the problem.",
+        "bn": "সমস্যা সমাধানের জন্য অনেক প্রশংসা।"
+      },
+      {
+        "en": "She enjoyed receiving kudos.",
+        "bn": "প্রশংসা পেয়ে সে আনন্দিত হল।"
+      }
+    ],
+    "synonyms": ["praise", "acclaim", "credit", "honor", "recognition"]
+  },
+  {
+    "base": "keen",
+    "phonetic": "kiːn",
+    "meaning": "তীব্র / তীক্ষ্ণবুদ্ধির",
+    "examples": [
+      { "en": "She has a keen mind.", "bn": "তার তীক্ষ্ণবুদ্ধি আছে।" },
+      {
+        "en": "He felt keen disappointment.",
+        "bn": "সে তীব্র হতাশা অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A keen observer notices everything.",
+        "bn": "একজন তীক্ষ্ণ পর্যবেক্ষক সবকিছু লক্ষ্য করেন।"
+      },
+      {
+        "en": "She has a keen sense of justice.",
+        "bn": "তার ন্যায়বোধ তীক্ষ্ণ।"
+      },
+      { "en": "He felt keen regret.", "bn": "সে তীব্র অনুতাপ অনুভব করল।" },
+      {
+        "en": "A keen reader absorbs information fast.",
+        "bn": "একজন তীব্র পাঠক দ্রুত তথ্য গ্রহণ করেন।"
+      },
+      { "en": "She showed keen awareness.", "bn": "সে তীব্র সচেতনতা দেখাল।" },
+      {
+        "en": "He has a keen eye for talent.",
+        "bn": "প্রতিভা চেনার তার তীক্ষ্ণ দৃষ্টি আছে।"
+      },
+      {
+        "en": "The keen student always asks questions.",
+        "bn": "তীক্ষ্ণবুদ্ধির শিক্ষার্থী সবসময় প্রশ্ন করে।"
+      },
+      {
+        "en": "She has a keen interest in art.",
+        "bn": "শিল্পে তার তীব্র আগ্রহ আছে।"
+      },
+      {
+        "en": "He is keen to learn new skills.",
+        "bn": "নতুন দক্ষতা শিখতে সে তীব্র আগ্রহী।"
+      },
+      {
+        "en": "The keen wind made her shiver.",
+        "bn": "তীক্ষ্ণ বাতাসে তার কাঁপুনি হল।"
+      }
+    ],
+    "synonyms": ["sharp", "acute", "intense", "perceptive", "eager"]
+  },
+  {
+    "base": "karma",
+    "phonetic": "ˈkɑːmə",
+    "meaning": "কর্ম / ভাগ্য",
+    "examples": [
+      { "en": "She believes in karma.", "bn": "সে কর্মে বিশ্বাস করে।" },
+      {
+        "en": "Good karma comes from good deeds.",
+        "bn": "ভালো কাজ থেকে ভালো কর্ম আসে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He received his bad karma.",
+        "bn": "সে তার খারাপ কর্মের ফল পেল।"
+      },
+      { "en": "Karma always finds a way.", "bn": "কর্ম সবসময় পথ খুঁজে নেয়।" },
+      {
+        "en": "She does good deeds to build good karma.",
+        "bn": "সে ভালো কর্ম তৈরি করতে ভালো কাজ করে।"
+      },
+      {
+        "en": "He suffered because of his bad karma.",
+        "bn": "খারাপ কর্মের কারণে সে কষ্ট পেল।"
+      },
+      {
+        "en": "Karma is the law of cause and effect.",
+        "bn": "কর্ম হলো কারণ ও ফলের বিধান।"
+      },
+      {
+        "en": "She trusted that karma would take care of it.",
+        "bn": "সে বিশ্বাস করল কর্ম এটি সামলে নেবে।"
+      },
+      {
+        "en": "His good karma brought good luck.",
+        "bn": "তার ভালো কর্ম সৌভাগ্য এনেছিল।"
+      },
+      {
+        "en": "What goes around comes around – that's karma.",
+        "bn": "যা যায় তা ফিরে আসে – এটাই কর্ম।"
+      },
+      {
+        "en": "She felt karma was at work.",
+        "bn": "সে অনুভব করল কর্ম সক্রিয় আছে।"
+      },
+      {
+        "en": "He lived by the principle of karma.",
+        "bn": "সে কর্মের নীতি মেনে জীবন যাপন করল।"
+      }
+    ],
+    "synonyms": ["fate", "destiny", "fortune", "consequence", "retribution"]
+  },
+  {
+    "base": "keel",
+    "phonetic": "kiːl",
+    "meaning": "ভারসাম্য রাখা / জাহাজের মূল কাঠ",
+    "examples": [
+      {
+        "en": "The boat's keel kept it stable.",
+        "bn": "নৌকার মূল কাঠ এটিকে স্থিতিশীল রাখল।"
+      },
+      {
+        "en": "She tried to keep things on an even keel.",
+        "bn": "সে জিনিসগুলো ভারসাম্যে রাখার চেষ্টা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He fixed the keel of the ship.",
+        "bn": "সে জাহাজের মূল কাঠ ঠিক করল।"
+      },
+      {
+        "en": "She keeled over from exhaustion.",
+        "bn": "ক্লান্তিতে সে হুমড়ি খেয়ে পড়ল।"
+      },
+      {
+        "en": "The ship's keel was damaged.",
+        "bn": "জাহাজের মূল কাঠ ক্ষতিগ্রস্ত হয়েছিল।"
+      },
+      {
+        "en": "He kept on an even keel during the crisis.",
+        "bn": "সংকটের সময় সে ভারসাম্য বজায় রাখল।"
+      },
+      {
+        "en": "The keel helps guide the vessel.",
+        "bn": "মূল কাঠ জলযানকে পথ দেখায়।"
+      },
+      { "en": "She keeled to the right.", "bn": "সে ডানদিকে হেলে গেল।" },
+      {
+        "en": "The heavy keel lowered the center of gravity.",
+        "bn": "ভারী মূল কাঠ মাধ্যাকর্ষণ কেন্দ্র নামিয়ে আনল।"
+      },
+      {
+        "en": "He maintained an even keel in business.",
+        "bn": "ব্যবসায় সে স্থিতিশীলতা বজায় রাখল।"
+      },
+      {
+        "en": "The storm threatened to keel the boat.",
+        "bn": "ঝড় নৌকাটিকে উল্টে দেওয়ার হুমকি দিল।"
+      },
+      {
+        "en": "She kept her emotions on an even keel.",
+        "bn": "সে আবেগগুলো সমানভাবে নিয়ন্ত্রণে রাখল।"
+      }
+    ],
+    "synonyms": ["balance", "stabilize", "rudder", "base", "equilibrium"]
+  },
+  {
+    "base": "knack",
+    "phonetic": "næk",
+    "meaning": "বিশেষ ক্ষমতা",
+    "examples": [
+      {
+        "en": "She has the knack to calm people.",
+        "bn": "মানুষকে শান্ত করার বিশেষ ক্ষমতা তার আছে।"
+      },
+      {
+        "en": "He has a knack for finding solutions.",
+        "bn": "সমাধান খুঁজে বের করার বিশেষ ক্ষমতা তার আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She has the knack for writing.",
+        "bn": "লেখার বিশেষ ক্ষমতা তার আছে।"
+      },
+      {
+        "en": "He has a knack for networking.",
+        "bn": "সম্পর্ক তৈরির বিশেষ ক্ষমতা তার আছে।"
+      },
+      {
+        "en": "She quickly picked up the knack.",
+        "bn": "সে দ্রুত বিশেষ কৌশল রপ্ত করল।"
+      },
+      {
+        "en": "He has a natural knack for sport.",
+        "bn": "খেলাধুলায় তার স্বাভাবিক বিশেষ ক্ষমতা আছে।"
+      },
+      {
+        "en": "The knack is to stay patient.",
+        "bn": "কৌশল হলো ধৈর্যশীল থাকা।"
+      },
+      {
+        "en": "She had the knack to make friends easily.",
+        "bn": "সহজে বন্ধু তৈরির বিশেষ ক্ষমতা তার ছিল।"
+      },
+      {
+        "en": "He has a knack for fixing machines.",
+        "bn": "যন্ত্রপাতি ঠিক করার বিশেষ ক্ষমতা তার আছে।"
+      },
+      {
+        "en": "She developed the knack over years.",
+        "bn": "বছরের পর বছর ধরে সে বিশেষ কৌশল গড়ে তুলল।"
+      },
+      {
+        "en": "He has a knack for managing difficult people.",
+        "bn": "কঠিন মানুষ সামলানোর বিশেষ ক্ষমতা তার আছে।"
+      },
+      {
+        "en": "She has a knack for interior decoration.",
+        "bn": "ইন্টেরিয়র ডেকোরেশনে তার বিশেষ ক্ষমতা আছে।"
+      }
+    ],
+    "synonyms": ["talent", "skill", "aptitude", "flair", "capability"]
+  },
+  {
+    "base": "keystone",
+    "phonetic": "ˈkiːstəʊn",
+    "meaning": "মূল ভিত্তি / কেন্দ্রীয় বিষয়",
+    "examples": [
+      {
+        "en": "Trust is the keystone of friendship.",
+        "bn": "বিশ্বাস হলো বন্ধুত্বের মূল ভিত্তি।"
+      },
+      {
+        "en": "The keystone holds the arch together.",
+        "bn": "কেন্দ্রপ্রস্তর খিলান একসাথে ধরে রাখে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She identified the keystone of the problem.",
+        "bn": "সে সমস্যার মূল ভিত্তি চিহ্নিত করল।"
+      },
+      {
+        "en": "He placed the keystone carefully.",
+        "bn": "সে সাবধানে কেন্দ্রপ্রস্তর স্থাপন করল।"
+      },
+      {
+        "en": "Respect is the keystone of any relationship.",
+        "bn": "সম্মান যেকোনো সম্পর্কের মূল ভিত্তি।"
+      },
+      {
+        "en": "Education is the keystone of progress.",
+        "bn": "শিক্ষা অগ্রগতির মূল ভিত্তি।"
+      },
+      {
+        "en": "The keystone policy was approved.",
+        "bn": "মূল নীতিটি অনুমোদিত হয়েছিল।"
+      },
+      {
+        "en": "She explained the keystone concept.",
+        "bn": "সে মূল ধারণাটি ব্যাখ্যা করল।"
+      },
+      {
+        "en": "Communication is the keystone of teamwork.",
+        "bn": "যোগাযোগ দলগত কাজের মূল ভিত্তি।"
+      },
+      {
+        "en": "The keystone of the arch was carved beautifully.",
+        "bn": "খিলানের কেন্দ্রপ্রস্তর সুন্দরভাবে খোদাই করা ছিল।"
+      },
+      {
+        "en": "He recognized the keystone issue.",
+        "bn": "সে মূল বিষয়টি চিহ্নিত করল।"
+      },
+      {
+        "en": "The keystone species protects the ecosystem.",
+        "bn": "মূল প্রজাতি বাস্তুতন্ত্র রক্ষা করে।"
+      }
+    ],
+    "synonyms": ["foundation", "cornerstone", "basis", "core", "pillar"]
+  },
+  {
+    "base": "knowledgeable",
+    "phonetic": "ˈnɒlɪdʒəbl",
+    "meaning": "পণ্ডিত",
+    "examples": [
+      {
+        "en": "The knowledgeable scholar gave a lecture.",
+        "bn": "পণ্ডিত গবেষক একটি বক্তৃতা দিলেন।"
+      },
+      {
+        "en": "She is very knowledgeable in literature.",
+        "bn": "সে সাহিত্যে অত্যন্ত পণ্ডিত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He is knowledgeable about ancient history.",
+        "bn": "সে প্রাচীন ইতিহাস সম্পর্কে পণ্ডিত।"
+      },
+      {
+        "en": "A knowledgeable guide enriches the tour.",
+        "bn": "একজন পণ্ডিত গাইড ট্যুরকে সমৃদ্ধ করেন।"
+      },
+      {
+        "en": "She became knowledgeable through years of study.",
+        "bn": "বছরের পর বছর অধ্যয়নের মাধ্যমে সে পণ্ডিত হল।"
+      },
+      { "en": "He is knowledgeable in philosophy.", "bn": "সে দর্শনে পণ্ডিত।" },
+      {
+        "en": "The knowledgeable expert testified in court.",
+        "bn": "পণ্ডিত বিশেষজ্ঞ আদালতে সাক্ষ্য দিলেন।"
+      },
+      {
+        "en": "She is knowledgeable about classical music.",
+        "bn": "সে ধ্রুপদী সঙ্গীত সম্পর্কে পণ্ডিত।"
+      },
+      {
+        "en": "Being knowledgeable takes dedication.",
+        "bn": "পণ্ডিত হতে নিষ্ঠা লাগে।"
+      },
+      {
+        "en": "He is knowledgeable about astronomy.",
+        "bn": "সে জ্যোতির্বিদ্যা সম্পর্কে পণ্ডিত।"
+      },
+      {
+        "en": "The knowledgeable teacher shaped many minds.",
+        "bn": "পণ্ডিত শিক্ষক অনেক মন গড়ে দিয়েছেন।"
+      },
+      {
+        "en": "She is knowledgeable about economics.",
+        "bn": "সে অর্থনীতি সম্পর্কে পণ্ডিত।"
+      }
+    ],
+    "synonyms": ["scholarly", "erudite", "learned", "intellectual", "academic"]
+  },
+  {
+    "base": "keepsake",
+    "phonetic": "ˈkiːpseɪk",
+    "meaning": "স্মৃতিচিহ্ন",
+    "examples": [
+      {
+        "en": "She kept the ring as a keepsake.",
+        "bn": "সে আংটিটি স্মৃতিচিহ্ন হিসেবে রেখে দিল।"
+      },
+      {
+        "en": "He gave her a keepsake to remember him.",
+        "bn": "তাকে মনে রাখার জন্য সে একটি স্মৃতিচিহ্ন দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She treasured the keepsake from her mother.",
+        "bn": "সে মায়ের কাছ থেকে পাওয়া স্মৃতিচিহ্নটি সংরক্ষণ করল।"
+      },
+      {
+        "en": "He kept the photo as a keepsake.",
+        "bn": "সে ছবিটি স্মৃতিচিহ্ন হিসেবে রাখল।"
+      },
+      {
+        "en": "The keepsake reminded her of happy times.",
+        "bn": "স্মৃতিচিহ্নটি তাকে সুখের সময়ের কথা মনে করিয়ে দিল।"
+      },
+      {
+        "en": "She bought a keepsake from the trip.",
+        "bn": "সে ভ্রমণ থেকে একটি স্মৃতিচিহ্ন কিনল।"
+      },
+      {
+        "en": "He gave each friend a keepsake.",
+        "bn": "সে প্রতিটি বন্ধুকে একটি স্মৃতিচিহ্ন দিল।"
+      },
+      {
+        "en": "The old letter was a precious keepsake.",
+        "bn": "পুরনো চিঠিটি একটি মূল্যবান স্মৃতিচিহ্ন ছিল।"
+      },
+      {
+        "en": "She wore the bracelet as a keepsake.",
+        "bn": "সে স্মৃতিচিহ্ন হিসেবে ব্রেসলেটটি পরল।"
+      },
+      {
+        "en": "He collected keepsakes from every country.",
+        "bn": "সে প্রতিটি দেশ থেকে স্মৃতিচিহ্ন সংগ্রহ করল।"
+      },
+      {
+        "en": "The handmade gift was a special keepsake.",
+        "bn": "হাতে তৈরি উপহারটি একটি বিশেষ স্মৃতিচিহ্ন ছিল।"
+      },
+      {
+        "en": "She placed the keepsake on her shelf.",
+        "bn": "সে তাকের উপর স্মৃতিচিহ্নটি রাখল।"
+      }
+    ],
+    "synonyms": ["memento", "souvenir", "reminder", "token", "remembrance"]
+  },
+  {
+    "base": "knowledgeable",
+    "phonetic": "ˈnɒlɪdʒəbl",
+    "meaning": "দক্ষ",
+    "examples": [
+      {
+        "en": "She is knowledgeable in customer service.",
+        "bn": "সে গ্রাহক সেবায় দক্ষ।"
+      },
+      {
+        "en": "He is knowledgeable in project management.",
+        "bn": "সে প্রকল্প ব্যবস্থাপনায় দক্ষ।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A knowledgeable team gets better results.",
+        "bn": "দক্ষ দল ভালো ফলাফল পায়।"
+      },
+      {
+        "en": "She is knowledgeable about children's health.",
+        "bn": "সে শিশুস্বাস্থ্য সম্পর্কে দক্ষ।"
+      },
+      {
+        "en": "He is knowledgeable about construction.",
+        "bn": "সে নির্মাণে দক্ষ।"
+      },
+      {
+        "en": "Knowledgeable staff make a business stronger.",
+        "bn": "দক্ষ কর্মীরা ব্যবসাকে শক্তিশালী করে।"
+      },
+      {
+        "en": "She is knowledgeable about data analysis.",
+        "bn": "সে তথ্য বিশ্লেষণে দক্ষ।"
+      },
+      {
+        "en": "He is knowledgeable about sustainable farming.",
+        "bn": "সে টেকসই চাষে দক্ষ।"
+      },
+      {
+        "en": "A knowledgeable plumber is hard to find.",
+        "bn": "দক্ষ প্লাম্বার খুঁজে পাওয়া কঠিন।"
+      },
+      {
+        "en": "She is knowledgeable about product design.",
+        "bn": "সে পণ্য ডিজাইনে দক্ষ।"
+      },
+      {
+        "en": "He is knowledgeable in mechanical engineering.",
+        "bn": "সে যান্ত্রিক প্রকৌশলে দক্ষ।"
+      },
+      {
+        "en": "The knowledgeable staff helped all customers.",
+        "bn": "দক্ষ কর্মীরা সব গ্রাহককে সাহায্য করল।"
+      }
+    ],
+    "synonyms": ["proficient", "capable", "skilled", "competent", "adept"]
+  },
+  {
+    "base": "knave",
+    "phonetic": "neɪv",
+    "meaning": "প্রতারক / বেইমান",
+    "examples": [
+      {
+        "en": "He was known as a knave.",
+        "bn": "সে প্রতারক হিসেবে পরিচিত ছিল।"
+      },
+      { "en": "The knave deceived everyone.", "bn": "প্রতারকটি সবাইকে ঠকাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She saw through the knave's tricks.",
+        "bn": "সে প্রতারকের কৌশল ধরে ফেলল।"
+      },
+      { "en": "He was a lying knave.", "bn": "সে একটি মিথ্যুক প্রতারক ছিল।" },
+      {
+        "en": "The knave stole from the poor.",
+        "bn": "প্রতারকটি গরিবদের কাছ থেকে চুরি করল।"
+      },
+      {
+        "en": "She warned him about the knave.",
+        "bn": "সে তাকে প্রতারক সম্পর্কে সতর্ক করল।"
+      },
+      {
+        "en": "The king punished the knave.",
+        "bn": "রাজা প্রতারককে শাস্তি দিলেন।"
+      },
+      {
+        "en": "He played the role of a knave.",
+        "bn": "সে প্রতারকের ভূমিকায় অভিনয় করল।"
+      },
+      {
+        "en": "The knave fled when caught.",
+        "bn": "ধরা পড়লে প্রতারক পালিয়ে গেল।"
+      },
+      {
+        "en": "She never trusted a knave.",
+        "bn": "সে কখনো প্রতারককে বিশ্বাস করেনি।"
+      },
+      {
+        "en": "The knave pretended to be innocent.",
+        "bn": "প্রতারকটি নির্দোষ ভান করল।"
+      },
+      {
+        "en": "He exposed the knave's plan.",
+        "bn": "সে প্রতারকের পরিকল্পনা ফাঁস করে দিল।"
+      }
+    ],
+    "synonyms": ["scoundrel", "villain", "rogue", "cheat", "trickster"]
+  },
+  {
+    "base": "knapsack",
+    "phonetic": "ˈnæpsæk",
+    "meaning": "পিঠে বহনের থলে / ব্যাকপ্যাক",
+    "examples": [
+      {
+        "en": "She packed her knapsack for the hike.",
+        "bn": "সে ট্রেকিংয়ের জন্য ব্যাকপ্যাক গুছাল।"
+      },
+      {
+        "en": "He carried a heavy knapsack.",
+        "bn": "সে একটি ভারী ব্যাকপ্যাক বহন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The soldier carried a large knapsack.",
+        "bn": "সৈনিকটি একটি বড় ব্যাকপ্যাক বহন করল।"
+      },
+      {
+        "en": "She found her lost wallet in her knapsack.",
+        "bn": "সে তার ব্যাকপ্যাকে হারানো মানিব্যাগ পেল।"
+      },
+      {
+        "en": "He filled his knapsack with food and water.",
+        "bn": "সে ব্যাকপ্যাকে খাবার ও পানি ভরল।"
+      },
+      {
+        "en": "The knapsack was torn after the journey.",
+        "bn": "যাত্রার পরে ব্যাকপ্যাকটি ছিঁড়ে গেল।"
+      },
+      {
+        "en": "She bought a new knapsack for school.",
+        "bn": "সে স্কুলের জন্য নতুন ব্যাকপ্যাক কিনল।"
+      },
+      {
+        "en": "He slung the knapsack over one shoulder.",
+        "bn": "সে ব্যাকপ্যাকটি এক কাঁধে ঝুলিয়ে নিল।"
+      },
+      {
+        "en": "The knapsack had many compartments.",
+        "bn": "ব্যাকপ্যাকে অনেক কুঠুরি ছিল।"
+      },
+      {
+        "en": "She kept her books in her knapsack.",
+        "bn": "সে ব্যাকপ্যাকে তার বইগুলো রাখল।"
+      },
+      {
+        "en": "He donated his old knapsack.",
+        "bn": "সে তার পুরনো ব্যাকপ্যাক দান করল।"
+      },
+      { "en": "The knapsack was waterproof.", "bn": "ব্যাকপ্যাকটি জলরোধী ছিল।" }
+    ],
+    "synonyms": ["backpack", "rucksack", "pack", "haversack", "bag"]
+  },
+  {
+    "base": "kneel",
+    "phonetic": "niːl",
+    "meaning": "মাটিতে বসা",
+    "examples": [
+      {
+        "en": "She kneeled on the soft grass.",
+        "bn": "সে নরম ঘাসে হাঁটু গাড়ল।"
+      },
+      { "en": "He kneeled on one leg.", "bn": "সে এক পায়ে হাঁটু গাড়ল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She kneeled beside her friend.",
+        "bn": "সে বন্ধুর পাশে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "He kneeled to look under the table.",
+        "bn": "টেবিলের নিচে দেখতে সে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "She kneeled to reach the bottom shelf.",
+        "bn": "নিচের তাকে পৌঁছাতে সে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "They kneeled to plant flowers.",
+        "bn": "ফুল লাগাতে তারা হাঁটু গাড়ল।"
+      },
+      {
+        "en": "He kneeled at the graveside.",
+        "bn": "সে কবরের পাশে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "She kneeled to pick up her pencil.",
+        "bn": "পেন্সিল তুলতে সে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "He kneeled during the ceremony.",
+        "bn": "অনুষ্ঠানের সময় সে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "She kneeled to comfort the crying child.",
+        "bn": "কাঁদতে থাকা শিশুকে সান্ত্বনা দিতে সে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "He kneeled respectfully.",
+        "bn": "সে শ্রদ্ধার সাথে হাঁটু গাড়ল।"
+      },
+      {
+        "en": "They kneeled together at the altar.",
+        "bn": "তারা একসাথে বেদিতে হাঁটু গাড়ল।"
+      }
+    ],
+    "synonyms": ["crouch", "bow", "stoop", "prostrate", "get down"]
+  },
+  {
+    "base": "knowledge-base",
+    "phonetic": "ˈnɒlɪdʒ beɪs",
+    "meaning": "জ্ঞানভান্ডার",
+    "examples": [
+      {
+        "en": "She built a strong knowledge-base.",
+        "bn": "সে একটি শক্তিশালী জ্ঞানভান্ডার গড়ে তুলল।"
+      },
+      {
+        "en": "He accessed the knowledge-base for answers.",
+        "bn": "উত্তরের জন্য সে জ্ঞানভান্ডারে প্রবেশ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The company maintains a large knowledge-base.",
+        "bn": "কোম্পানিটি একটি বড় জ্ঞানভান্ডার বজায় রাখে।"
+      },
+      {
+        "en": "She updated the knowledge-base regularly.",
+        "bn": "সে নিয়মিত জ্ঞানভান্ডার আপডেট করত।"
+      },
+      {
+        "en": "He contributed to the knowledge-base.",
+        "bn": "সে জ্ঞানভান্ডারে অবদান রাখল।"
+      },
+      {
+        "en": "A good knowledge-base improves efficiency.",
+        "bn": "ভালো জ্ঞানভান্ডার দক্ষতা উন্নত করে।"
+      },
+      {
+        "en": "She searched the knowledge-base for solutions.",
+        "bn": "সমাধানের জন্য সে জ্ঞানভান্ডার খুঁজল।"
+      },
+      {
+        "en": "He organized the knowledge-base by topic.",
+        "bn": "সে বিষয়ভিত্তিক জ্ঞানভান্ডার সংগঠিত করল।"
+      },
+      {
+        "en": "The knowledge-base helped the support team.",
+        "bn": "জ্ঞানভান্ডার সহায়তা দলকে সাহায্য করল।"
+      },
+      {
+        "en": "She expanded her personal knowledge-base.",
+        "bn": "সে তার ব্যক্তিগত জ্ঞানভান্ডার বিস্তৃত করল।"
+      },
+      {
+        "en": "He created a knowledge-base for new employees.",
+        "bn": "সে নতুন কর্মচারীদের জন্য জ্ঞানভান্ডার তৈরি করল।"
+      },
+      {
+        "en": "The knowledge-base was easy to navigate.",
+        "bn": "জ্ঞানভান্ডারটি সহজে নেভিগেট করা যাচ্ছিল।"
+      }
+    ],
+    "synonyms": [
+      "database",
+      "repository",
+      "archive",
+      "information bank",
+      "resource center"
+    ]
+  },
+  {
+    "base": "knit",
+    "phonetic": "nɪt",
+    "meaning": "জোড়া লাগানো",
+    "examples": [
+      {
+        "en": "Time helped knit the family back together.",
+        "bn": "সময় পরিবারটিকে আবার একত্রিত করতে সাহায্য করল।"
+      },
+      {
+        "en": "The broken bone began to knit.",
+        "bn": "ভাঙা হাড় জোড়া লাগতে শুরু করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "His brows knit in confusion.",
+        "bn": "বিভ্রান্তিতে তার ভ্রু কুঁচকাল।"
+      },
+      {
+        "en": "The two teams knit together well.",
+        "bn": "দুটি দল ভালোভাবে একত্রিত হল।"
+      },
+      {
+        "en": "She used common interests to knit friendships.",
+        "bn": "সে বন্ধুত্ব জোড়া দিতে সাধারণ আগ্রহ ব্যবহার করল।"
+      },
+      {
+        "en": "The community was knit by shared values.",
+        "bn": "সমাজটি সাধারণ মূল্যবোধ দ্বারা একত্রিত ছিল।"
+      },
+      {
+        "en": "He tried to knit the team together.",
+        "bn": "সে দলকে একত্রিত করার চেষ্টা করল।"
+      },
+      {
+        "en": "She knit her fingers together nervously.",
+        "bn": "নার্ভাসভাবে সে আঙুলগুলো একত্রিত করল।"
+      },
+      {
+        "en": "The wound slowly knit closed.",
+        "bn": "ক্ষতটি ধীরে ধীরে জোড়া লেগে বন্ধ হল।"
+      },
+      {
+        "en": "He helped knit a strong bond.",
+        "bn": "সে একটি শক্তিশালী বন্ধন তৈরি করতে সাহায্য করল।"
+      },
+      {
+        "en": "The class knit together over time.",
+        "bn": "সময়ের সাথে সাথে ক্লাসটি একত্রিত হল।"
+      },
+      {
+        "en": "She managed to knit two groups together.",
+        "bn": "সে দুটি দলকে একত্রিত করতে সক্ষম হল।"
+      }
+    ],
+    "synonyms": ["bond", "unite", "join", "fuse", "bind"]
+  },
+  {
+    "base": "kidnapper",
+    "phonetic": "ˈkɪdnæpər",
+    "meaning": "অপহরণকারী / হরণকারী",
+    "examples": [
+      {
+        "en": "The kidnapper hid in the forest.",
+        "bn": "অপহরণকারী জঙ্গলে লুকিয়ে থাকল।"
+      },
+      {
+        "en": "She escaped from the kidnapper.",
+        "bn": "সে অপহরণকারীর হাত থেকে পালাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The kidnapper's identity was revealed.",
+        "bn": "অপহরণকারীর পরিচয় প্রকাশ পেল।"
+      },
+      { "en": "He was the main kidnapper.", "bn": "সে প্রধান অপহরণকারী ছিল।" },
+      {
+        "en": "She confronted the kidnapper bravely.",
+        "bn": "সে সাহসের সাথে অপহরণকারীর মুখোমুখি হল।"
+      },
+      {
+        "en": "The kidnapper was caught at the border.",
+        "bn": "সীমান্তে অপহরণকারীকে ধরা হল।"
+      },
+      {
+        "en": "He identified the kidnapper in court.",
+        "bn": "সে আদালতে অপহরণকারীকে শনাক্ত করল।"
+      },
+      {
+        "en": "The kidnapper was armed and dangerous.",
+        "bn": "অপহরণকারী সশস্ত্র এবং বিপজ্জনক ছিল।"
+      },
+      {
+        "en": "She described the kidnapper to police.",
+        "bn": "সে পুলিশকে অপহরণকারীর বর্ণনা দিল।"
+      },
+      {
+        "en": "The kidnapper demanded money.",
+        "bn": "অপহরণকারী টাকা দাবি করল।"
+      },
+      {
+        "en": "He tracked the kidnapper for days.",
+        "bn": "সে দিনের পর দিন অপহরণকারীকে অনুসরণ করল।"
+      },
+      {
+        "en": "The kidnapper was finally sentenced.",
+        "bn": "অপহরণকারীকে অবশেষে দণ্ডিত করা হল।"
+      }
+    ],
+    "synonyms": ["abductor", "captor", "snatcher", "felon", "criminal"]
+  },
+  {
+    "base": "knowledgeable",
+    "phonetic": "ˈnɒlɪdʒəbl",
+    "meaning": "অভিজ্ঞ",
+    "examples": [
+      {
+        "en": "She is very knowledgeable in her field.",
+        "bn": "তার ক্ষেত্রে সে অত্যন্ত অভিজ্ঞ।"
+      },
+      {
+        "en": "He is knowledgeable in handling crises.",
+        "bn": "সংকট সামলাতে সে অভিজ্ঞ।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The knowledgeable consultant helped the firm.",
+        "bn": "অভিজ্ঞ পরামর্শদাতা কোম্পানিকে সাহায্য করলেন।"
+      },
+      {
+        "en": "She is knowledgeable about organizational change.",
+        "bn": "সে সাংগঠনিক পরিবর্তন সম্পর্কে অভিজ্ঞ।"
+      },
+      {
+        "en": "He is knowledgeable about policy making.",
+        "bn": "সে নীতিনির্ধারণে অভিজ্ঞ।"
+      },
+      {
+        "en": "A knowledgeable manager leads effectively.",
+        "bn": "একজন অভিজ্ঞ ম্যানেজার কার্যকরভাবে নেতৃত্ব দেন।"
+      },
+      {
+        "en": "She is knowledgeable about human resources.",
+        "bn": "সে মানবসম্পদে অভিজ্ঞ।"
+      },
+      {
+        "en": "He became more knowledgeable after training.",
+        "bn": "প্রশিক্ষণের পরে সে আরও অভিজ্ঞ হল।"
+      },
+      {
+        "en": "She is knowledgeable in financial planning.",
+        "bn": "সে আর্থিক পরিকল্পনায় অভিজ্ঞ।"
+      },
+      {
+        "en": "The knowledgeable volunteer supported the cause.",
+        "bn": "অভিজ্ঞ স্বেচ্ছাসেবক কারণটি সমর্থন করলেন।"
+      },
+      {
+        "en": "He is knowledgeable about safety regulations.",
+        "bn": "সে নিরাপত্তা বিধিমালায় অভিজ্ঞ।"
+      },
+      {
+        "en": "She is knowledgeable about the local dialect.",
+        "bn": "সে স্থানীয় উপভাষা সম্পর্কে অভিজ্ঞ।"
+      }
+    ],
+    "synonyms": ["experienced", "seasoned", "practiced", "veteran", "qualified"]
+  },
+  {
+    "base": "knell",
+    "phonetic": "nel",
+    "meaning": "ঘণ্টার আওয়াজ / শোকসংকেত",
+    "examples": [
+      {
+        "en": "The knell of the bell was heard.",
+        "bn": "ঘণ্টার আওয়াজ শোনা গেল।"
+      },
+      {
+        "en": "It sounded the death knell of the plan.",
+        "bn": "এটি পরিকল্পনার মৃত্যু ঘণ্টা বাজাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The church bell tolled a sad knell.",
+        "bn": "গির্জার ঘণ্টা দুঃখের আওয়াজ তুলল।"
+      },
+      {
+        "en": "She heard the knell from afar.",
+        "bn": "সে দূর থেকে ঘণ্টার আওয়াজ শুনল।"
+      },
+      {
+        "en": "The failure sounded the knell of the company.",
+        "bn": "ব্যর্থতা কোম্পানির মৃত্যু ঘণ্টা বাজাল।"
+      },
+      {
+        "en": "He rang the knell at the funeral.",
+        "bn": "অন্ত্যেষ্টিক্রিয়ায় সে শোকের ঘণ্টা বাজাল।"
+      },
+      {
+        "en": "The knell echoed through the valley.",
+        "bn": "ঘণ্টার আওয়াজ উপত্যকায় প্রতিধ্বনিত হল।"
+      },
+      {
+        "en": "She wrote about the knell in her poem.",
+        "bn": "সে কবিতায় শোকের ঘণ্টার কথা লিখল।"
+      },
+      {
+        "en": "The knell marked the end of an era.",
+        "bn": "ঘণ্টার আওয়াজ একটি যুগের সমাপ্তি চিহ্নিত করল।"
+      },
+      {
+        "en": "He described the knell as haunting.",
+        "bn": "সে ঘণ্টার আওয়াজকে ভূতুড়ে হিসেবে বর্ণনা করল।"
+      },
+      {
+        "en": "The knell broke the silence.",
+        "bn": "ঘণ্টার আওয়াজ নীরবতা ভাঙল।"
+      },
+      {
+        "en": "She felt the knell of her career.",
+        "bn": "সে তার ক্যারিয়ারের শেষের ইঙ্গিত পেল।"
+      }
+    ],
+    "synonyms": ["toll", "ring", "death bell", "signal", "peal"]
+  },
+  {
+    "base": "knockout",
+    "phonetic": "ˈnɒkaʊt",
+    "meaning": "কাউকে অচেতন করা / অসাধারণ",
+    "examples": [
+      { "en": "He won by knockout.", "bn": "সে নকআউটে জিতল।" },
+      {
+        "en": "The dress was an absolute knockout.",
+        "bn": "পোশাকটি সত্যিই অসাধারণ ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The boxer delivered a knockout punch.",
+        "bn": "বক্সার একটি নকআউট ঘুষি মারল।"
+      },
+      { "en": "She looked like a knockout.", "bn": "তাকে অসাধারণ দেখাচ্ছিল।" },
+      {
+        "en": "The knockout blow ended the match.",
+        "bn": "নকআউট আঘাত ম্যাচ শেষ করল।"
+      },
+      {
+        "en": "He achieved a knockout victory.",
+        "bn": "সে নকআউট বিজয় অর্জন করল।"
+      },
+      {
+        "en": "It was a real knockout performance.",
+        "bn": "এটি ছিল সত্যিকারের অসাধারণ পারফরম্যান্স।"
+      },
+      {
+        "en": "The knockout round eliminated many teams.",
+        "bn": "নকআউট রাউন্ড অনেক দলকে বাদ দিল।"
+      },
+      {
+        "en": "She scored a technical knockout.",
+        "bn": "সে কারিগরি নকআউট করল।"
+      },
+      {
+        "en": "He was knocked out in the second round.",
+        "bn": "দ্বিতীয় রাউন্ডে সে নকআউট হল।"
+      },
+      {
+        "en": "The knockout competition was thrilling.",
+        "bn": "নকআউট প্রতিযোগিতা রোমাঞ্চকর ছিল।"
+      },
+      {
+        "en": "She delivered a knockout speech.",
+        "bn": "সে একটি অসাধারণ বক্তৃতা দিল।"
+      }
+    ],
+    "synonyms": ["stunning", "incredible", "amazing", "KO", "decisive blow"]
+  },
+  {
+    "base": "knoll",
+    "phonetic": "nəʊl",
+    "meaning": "ছোট পাহাড় / টিলা",
+    "examples": [
+      {
+        "en": "They sat on the knoll to watch the sunset.",
+        "bn": "সূর্যাস্ত দেখতে তারা টিলায় বসল।"
+      },
+      {
+        "en": "The house was built on a small knoll.",
+        "bn": "ছোট টিলার উপর বাড়িটি তৈরি হয়েছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She ran up the grassy knoll.",
+        "bn": "সে ঘাসভরা টিলায় দৌড়ে উঠল।"
+      },
+      { "en": "He sat alone on the knoll.", "bn": "সে একা টিলায় বসল।" },
+      {
+        "en": "The knoll offered a beautiful view.",
+        "bn": "টিলাটি থেকে সুন্দর দৃশ্য দেখা যাচ্ছিল।"
+      },
+      {
+        "en": "Children played on the small knoll.",
+        "bn": "শিশুরা ছোট টিলায় খেলল।"
+      },
+      {
+        "en": "She could see the village from the knoll.",
+        "bn": "টিলা থেকে সে গ্রাম দেখতে পেল।"
+      },
+      {
+        "en": "He buried the treasure near the knoll.",
+        "bn": "সে টিলার কাছে গুপ্তধন কবর দিল।"
+      },
+      {
+        "en": "The knoll was covered in wildflowers.",
+        "bn": "টিলাটি বন্য ফুলে ঢাকা ছিল।"
+      },
+      {
+        "en": "She rested on the knoll after her walk.",
+        "bn": "হাঁটার পরে সে টিলায় বিশ্রাম নিল।"
+      },
+      {
+        "en": "He climbed to the top of the knoll.",
+        "bn": "সে টিলার চূড়ায় উঠল।"
+      },
+      {
+        "en": "The knoll was a popular picnic spot.",
+        "bn": "টিলাটি পিকনিকের জন্য জনপ্রিয় জায়গা ছিল।"
+      }
+    ],
+    "synonyms": ["hill", "mound", "hillock", "rise", "elevation"]
+  },
+  {
+    "base": "kin",
+    "phonetic": "kɪn",
+    "meaning": "আত্মীয় / স্বজন",
+    "examples": [
+      {
+        "en": "She called her next of kin.",
+        "bn": "সে তার নিকটতম আত্মীয়কে ডাকল।"
+      },
+      {
+        "en": "All her kin attended the wedding.",
+        "bn": "তার সমস্ত স্বজন বিয়েতে উপস্থিত ছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He has no kin nearby.", "bn": "তার কাছাকাছি কোনো আত্মীয় নেই।" },
+      {
+        "en": "She stayed with her kin during the holiday.",
+        "bn": "ছুটির সময় সে স্বজনদের সাথে থাকল।"
+      },
+      {
+        "en": "Kin support is important in hard times.",
+        "bn": "কঠিন সময়ে আত্মীয়দের সহায়তা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "He treated his neighbors like kin.",
+        "bn": "সে প্রতিবেশীদের আত্মীয়ের মতো ব্যবহার করল।"
+      },
+      {
+        "en": "She searched for her lost kin.",
+        "bn": "সে তার হারানো আত্মীয়দের খুঁজল।"
+      },
+      {
+        "en": "Blood is thicker than water among kin.",
+        "bn": "আত্মীয়দের মধ্যে রক্তের বন্ধন মজবুত।"
+      },
+      {
+        "en": "He was reunited with his kin.",
+        "bn": "সে তার স্বজনদের সাথে পুনর্মিলিত হল।"
+      },
+      {
+        "en": "Her kin came from far away.",
+        "bn": "তার আত্মীয়রা দূর থেকে এসেছিল।"
+      },
+      {
+        "en": "He listed his kin in the form.",
+        "bn": "সে ফর্মে তার আত্মীয়দের তালিকা করল।"
+      },
+      {
+        "en": "She cared deeply for her kin.",
+        "bn": "সে তার আত্মীয়দের জন্য গভীরভাবে যত্ন নিল।"
+      }
+    ],
+    "synonyms": ["relatives", "family", "relations", "kinsfolk", "clan"]
+  },
+  {
+    "base": "knave",
+    "phonetic": "neɪv",
+    "meaning": "দুষ্ট / ধূর্ত",
+    "examples": [
+      {
+        "en": "He was called a knave for his tricks.",
+        "bn": "তার চালাকির জন্য তাকে ধূর্ত বলা হল।"
+      },
+      { "en": "The knave tricked the merchant.", "bn": "ধূর্তটি বণিককে ঠকাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She recognized the knave's tactics.",
+        "bn": "সে ধূর্তের কৌশল চিনতে পারল।"
+      },
+      {
+        "en": "He acted like a clever knave.",
+        "bn": "সে একজন চালাক ধূর্তের মতো কাজ করল।"
+      },
+      {
+        "en": "The knave escaped punishment.",
+        "bn": "ধূর্তটি শাস্তি থেকে বেঁচে গেল।"
+      },
+      { "en": "She outsmarted the knave.", "bn": "সে ধূর্তকে বুদ্ধিতে হারাল।" },
+      { "en": "The knave spread lies.", "bn": "ধূর্তটি মিথ্যা ছড়াল।" },
+      {
+        "en": "He was a charming knave.",
+        "bn": "সে একজন আকর্ষণীয় ধূর্ত ছিল।"
+      },
+      {
+        "en": "The knave fooled many people.",
+        "bn": "ধূর্তটি অনেক মানুষকে বোকা বানাল।"
+      },
+      {
+        "en": "She saw through the knave.",
+        "bn": "সে ধূর্তের মুখোশ উন্মোচন করল।"
+      },
+      {
+        "en": "He played the knave in the story.",
+        "bn": "গল্পে সে ধূর্তের ভূমিকায় অভিনয় করল।"
+      },
+      {
+        "en": "The knave tried to deceive the king.",
+        "bn": "ধূর্তটি রাজাকে প্রতারণার চেষ্টা করল।"
+      }
+    ],
+    "synonyms": ["rogue", "trickster", "deceiver", "fraud", "cunning person"]
+  },
+  {
+    "base": "keychain",
+    "phonetic": "ˈkiːtʃeɪn",
+    "meaning": "চাবির রিং",
+    "examples": [
+      {
+        "en": "She has a colorful keychain.",
+        "bn": "তার একটি রঙিন চাবির রিং আছে।"
+      },
+      { "en": "He lost his keychain.", "bn": "সে তার চাবির রিং হারিয়ে ফেলল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She bought a souvenir keychain.",
+        "bn": "সে একটি স্মৃতিস্বরূপ চাবির রিং কিনল।"
+      },
+      {
+        "en": "He attached the key to a keychain.",
+        "bn": "সে চাবিটি চাবির রিংয়ে লাগাল।"
+      },
+      {
+        "en": "The keychain had her initials on it.",
+        "bn": "চাবির রিংয়ে তার আদ্যাক্ষর ছিল।"
+      },
+      {
+        "en": "She clipped the keychain to her bag.",
+        "bn": "সে চাবির রিংটি ব্যাগে আটকাল।"
+      },
+      {
+        "en": "He gave her a keychain as a gift.",
+        "bn": "সে তাকে উপহার হিসেবে একটি চাবির রিং দিল।"
+      },
+      {
+        "en": "The keychain made a jingling sound.",
+        "bn": "চাবির রিংটি ঝুনঝুনি আওয়াজ করল।"
+      },
+      {
+        "en": "She organized all her keys on a keychain.",
+        "bn": "সে সমস্ত চাবি চাবির রিংয়ে সংগঠিত করল।"
+      },
+      { "en": "He decorated his keychain.", "bn": "সে তার চাবির রিং সাজাল।" },
+      {
+        "en": "She found the lost keychain.",
+        "bn": "সে হারানো চাবির রিং খুঁজে পেল।"
+      },
+      {
+        "en": "The keychain was shaped like a heart.",
+        "bn": "চাবির রিংটি হৃদয়ের মতো আকৃতির ছিল।"
+      }
+    ],
+    "synonyms": ["key ring", "fob", "key holder", "clasp", "ring"]
+  },
+  {
+    "base": "keen",
+    "phonetic": "kiːn",
+    "meaning": "সচেতন / সজাগ",
+    "examples": [
+      {
+        "en": "She is keen about environmental issues.",
+        "bn": "পরিবেশগত বিষয়ে সে সচেতন।"
+      },
+      {
+        "en": "He keeps a keen watch on events.",
+        "bn": "সে ঘটনাগুলোর উপর সজাগ দৃষ্টি রাখে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She stays keen about current affairs.",
+        "bn": "সে সমসাময়িক বিষয়ে সচেতন থাকে।"
+      },
+      {
+        "en": "He is keenly aware of the risks.",
+        "bn": "সে ঝুঁকি সম্পর্কে সজাগভাবে সচেতন।"
+      },
+      {
+        "en": "She is keen to understand the situation.",
+        "bn": "সে পরিস্থিতি বোঝার ব্যাপারে সচেতন।"
+      },
+      {
+        "en": "He is keen on watching the details.",
+        "bn": "সে বিস্তারিত বিষয় দেখার ব্যাপারে সজাগ।"
+      },
+      {
+        "en": "Being keen helps avoid mistakes.",
+        "bn": "সজাগ থাকা ভুল এড়াতে সাহায্য করে।"
+      },
+      {
+        "en": "She has a keen awareness of social change.",
+        "bn": "তার সামাজিক পরিবর্তন সম্পর্কে তীক্ষ্ণ সচেতনতা আছে।"
+      },
+      {
+        "en": "He stays keen on economic news.",
+        "bn": "সে অর্থনৈতিক সংবাদে সজাগ থাকে।"
+      },
+      {
+        "en": "She is keen to notice small changes.",
+        "bn": "সে ছোট পরিবর্তন লক্ষ্য করার ব্যাপারে সচেতন।"
+      },
+      {
+        "en": "His keen observation helped the team.",
+        "bn": "তার সজাগ পর্যবেক্ষণ দলকে সাহায্য করল।"
+      },
+      {
+        "en": "She is keenly attentive in meetings.",
+        "bn": "সভায় সে সজাগভাবে মনোযোগী।"
+      }
+    ],
+    "synonyms": ["alert", "attentive", "watchful", "mindful", "observant"]
+  },
+  {
+    "base": "kettle",
+    "phonetic": "ˈketl",
+    "meaning": "কেটলি / চায়ের পাতিল",
+    "examples": [
+      {
+        "en": "She boiled water in the kettle.",
+        "bn": "সে কেটলিতে পানি গরম করল।"
+      },
+      { "en": "The kettle whistled loudly.", "bn": "কেটলিটি জোরে বাঁশি দিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He filled the kettle with water.",
+        "bn": "সে কেটলি পানিতে ভরল।"
+      },
+      {
+        "en": "She put the kettle on for tea.",
+        "bn": "চায়ের জন্য সে কেটলি চালাল।"
+      },
+      {
+        "en": "The electric kettle is very convenient.",
+        "bn": "বৈদ্যুতিক কেটলি অনেক সুবিধাজনক।"
+      },
+      {
+        "en": "He cleaned the kettle regularly.",
+        "bn": "সে নিয়মিত কেটলি পরিষ্কার করত।"
+      },
+      {
+        "en": "She heard the kettle boiling.",
+        "bn": "সে কেটলি ফোটার শব্দ শুনল।"
+      },
+      {
+        "en": "He bought a stainless steel kettle.",
+        "bn": "সে একটি স্টেইনলেস স্টিলের কেটলি কিনল।"
+      },
+      {
+        "en": "The kettle takes three minutes to boil.",
+        "bn": "কেটলি ফুটতে তিন মিনিট লাগে।"
+      },
+      {
+        "en": "She placed the kettle on the stove.",
+        "bn": "সে চুলায় কেটলি রাখল।"
+      },
+      {
+        "en": "The kettle is a fine kettle of fish.",
+        "bn": "এটি একটি জটিল পরিস্থিতি।"
+      },
+      { "en": "He switched on the kettle.", "bn": "সে কেটলি চালু করল।" }
+    ],
+    "synonyms": ["pot", "boiler", "teakettle", "urn", "vessel"]
+  },
+  {
+    "base": "knack",
+    "phonetic": "næk",
+    "meaning": "সহজাত প্রতিভা",
+    "examples": [
+      {
+        "en": "She has a natural knack for dancing.",
+        "bn": "নাচে তার সহজাত প্রতিভা আছে।"
+      },
+      {
+        "en": "He has the knack for public speaking.",
+        "bn": "জনসম্মুখে বলার সহজাত প্রতিভা তার আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She was born with a knack for art.",
+        "bn": "শিল্পে সহজাত প্রতিভা নিয়ে সে জন্মেছিল।"
+      },
+      {
+        "en": "He has a knack for sports.",
+        "bn": "খেলাধুলায় তার সহজাত প্রতিভা আছে।"
+      },
+      {
+        "en": "The knack for leadership came naturally to her.",
+        "bn": "নেতৃত্বের সহজাত প্রতিভা তার কাছে স্বাভাবিকভাবে আসল।"
+      },
+      {
+        "en": "He showed a knack for mathematics early.",
+        "bn": "সে গণিতে সহজাত প্রতিভা তাড়াতাড়িই দেখাল।"
+      },
+      {
+        "en": "She has a knack for memorizing.",
+        "bn": "মুখস্থ করার সহজাত প্রতিভা তার আছে।"
+      },
+      {
+        "en": "His knack for design impressed everyone.",
+        "bn": "ডিজাইনের সহজাত প্রতিভা সবাইকে মুগ্ধ করল।"
+      },
+      {
+        "en": "She has a knack for making things fun.",
+        "bn": "জিনিস মজাদার করার সহজাত প্রতিভা তার আছে।"
+      },
+      {
+        "en": "He has a knack for understanding people.",
+        "bn": "মানুষ বোঝার সহজাত প্রতিভা তার আছে।"
+      },
+      {
+        "en": "She has a knack for music composition.",
+        "bn": "সঙ্গীত সুরের সহজাত প্রতিভা তার আছে।"
+      },
+      {
+        "en": "He has a knack for turning ideas into plans.",
+        "bn": "ধারণাকে পরিকল্পনায় রূপ দেওয়ার সহজাত প্রতিভা তার আছে।"
+      }
+    ],
+    "synonyms": ["natural talent", "gift", "aptitude", "flair", "genius"]
+  },
+  {
+    "base": "kind-hearted",
+    "phonetic": "ˌkaɪndˈhɑːtɪd",
+    "meaning": "সদয় হৃদয়ের / মানবিক",
+    "examples": [
+      {
+        "en": "She is a kind-hearted woman.",
+        "bn": "সে একজন সদয় হৃদয়ের নারী।"
+      },
+      {
+        "en": "He is kind-hearted towards the poor.",
+        "bn": "গরিবদের প্রতি সে সদয় হৃদয়ের।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A kind-hearted person always helps others.",
+        "bn": "সদয় হৃদয়ের মানুষ সবসময় অন্যদের সাহায্য করে।"
+      },
+      {
+        "en": "She raised a kind-hearted child.",
+        "bn": "সে একটি সদয় হৃদয়ের শিশু মানুষ করল।"
+      },
+      {
+        "en": "His kind-hearted gesture moved everyone.",
+        "bn": "তার সদয় ভঙ্গি সবাইকে আবেগাপ্লুত করল।"
+      },
+      {
+        "en": "She is known for her kind-hearted nature.",
+        "bn": "তার সদয় হৃদয়ের স্বভাবের জন্য সে পরিচিত।"
+      },
+      {
+        "en": "He is too kind-hearted to say no.",
+        "bn": "না বলার জন্য সে অনেক বেশি সদয়।"
+      },
+      {
+        "en": "The kind-hearted nurse cared for all.",
+        "bn": "সদয় হৃদয়ের নার্স সবার যত্ন নিলেন।"
+      },
+      {
+        "en": "She appreciated his kind-hearted effort.",
+        "bn": "তার সদয় হৃদয়ের প্রচেষ্টার সে প্রশংসা করল।"
+      },
+      {
+        "en": "The world needs more kind-hearted people.",
+        "bn": "পৃথিবীতে আরও বেশি সদয় হৃদয়ের মানুষ দরকার।"
+      },
+      {
+        "en": "He was genuinely kind-hearted.",
+        "bn": "সে সত্যিই সদয় হৃদয়ের ছিল।"
+      },
+      {
+        "en": "She admired his kind-hearted personality.",
+        "bn": "তার সদয় হৃদয়ের ব্যক্তিত্বের প্রশংসা করল সে।"
+      }
+    ],
+    "synonyms": [
+      "compassionate",
+      "caring",
+      "warm-hearted",
+      "benevolent",
+      "generous"
+    ]
+  },
+  {
+    "base": "knowledgeable",
+    "phonetic": "ˈnɒlɪdʒəbl",
+    "meaning": "তথ্যবহুল",
+    "examples": [
+      {
+        "en": "She gave a knowledgeable presentation.",
+        "bn": "সে একটি তথ্যবহুল উপস্থাপনা দিল।"
+      },
+      {
+        "en": "He wrote a knowledgeable article.",
+        "bn": "সে একটি তথ্যবহুল নিবন্ধ লিখল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The knowledgeable documentary was very useful.",
+        "bn": "তথ্যবহুল তথ্যচিত্রটি অনেক উপকারী ছিল।"
+      },
+      {
+        "en": "She shared a knowledgeable report.",
+        "bn": "সে একটি তথ্যবহুল প্রতিবেদন শেয়ার করল।"
+      },
+      {
+        "en": "He gave a knowledgeable overview.",
+        "bn": "সে একটি তথ্যবহুল ওভারভিউ দিল।"
+      },
+      {
+        "en": "The knowledgeable guide explained everything.",
+        "bn": "তথ্যবহুল গাইড সবকিছু ব্যাখ্যা করলেন।"
+      },
+      {
+        "en": "She produced a knowledgeable research paper.",
+        "bn": "সে একটি তথ্যবহুল গবেষণাপত্র তৈরি করল।"
+      },
+      {
+        "en": "He gave a knowledgeable summary.",
+        "bn": "সে একটি তথ্যবহুল সারসংক্ষেপ দিল।"
+      },
+      {
+        "en": "The knowledgeable speaker informed all.",
+        "bn": "তথ্যবহুল বক্তা সকলকে অবহিত করলেন।"
+      },
+      {
+        "en": "She published a knowledgeable essay.",
+        "bn": "সে একটি তথ্যবহুল প্রবন্ধ প্রকাশ করল।"
+      },
+      {
+        "en": "He made a knowledgeable observation.",
+        "bn": "সে একটি তথ্যবহুল পর্যবেক্ষণ করল।"
+      },
+      {
+        "en": "The knowledgeable book changed her life.",
+        "bn": "তথ্যবহুল বইটি তার জীবন বদলে দিল।"
+      }
+    ],
+    "synonyms": [
+      "informative",
+      "educational",
+      "enlightening",
+      "insightful",
+      "instructive"
+    ]
+  },
+  {
+    "base": "kingpin",
+    "phonetic": "ˈkɪŋpɪn",
+    "meaning": "মূল ব্যক্তি / প্রধান চাবিকাঠি",
+    "examples": [
+      {
+        "en": "He is the kingpin of the operation.",
+        "bn": "সে অপারেশনের মূল ব্যক্তি।"
+      },
+      {
+        "en": "The police arrested the drug kingpin.",
+        "bn": "পুলিশ মাদক পাচারকারীর প্রধানকে গ্রেফতার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She is the kingpin of the fashion world.",
+        "bn": "সে ফ্যাশন দুনিয়ার মূল ব্যক্তি।"
+      },
+      {
+        "en": "He was the kingpin behind the scheme.",
+        "bn": "পরিকল্পনার পেছনে সে ছিল মূল ব্যক্তি।"
+      },
+      {
+        "en": "The kingpin controlled the entire network.",
+        "bn": "মূল ব্যক্তি পুরো নেটওয়ার্ক নিয়ন্ত্রণ করত।"
+      },
+      {
+        "en": "She became the kingpin of the company.",
+        "bn": "সে কোম্পানির মূল ব্যক্তি হয়ে উঠল।"
+      },
+      {
+        "en": "He removed the kingpin bolt carefully.",
+        "bn": "সে সাবধানে কিংপিন বোল্টটি সরাল।"
+      },
+      {
+        "en": "The kingpin of the gang was caught.",
+        "bn": "গ্যাংয়ের মূল নেতাকে ধরা হল।"
+      },
+      {
+        "en": "She is the kingpin of the project.",
+        "bn": "সে প্রকল্পের মূল ব্যক্তি।"
+      },
+      {
+        "en": "He was the undisputed kingpin.",
+        "bn": "সে ছিল নিষ্কলুষ মূল ব্যক্তি।"
+      },
+      { "en": "The kingpin gave the orders.", "bn": "মূল ব্যক্তি আদেশ দিল।" },
+      {
+        "en": "She became the kingpin of negotiations.",
+        "bn": "সে আলোচনার মূল ব্যক্তি হয়ে উঠল।"
+      }
+    ],
+    "synonyms": ["leader", "chief", "boss", "linchpin", "head"]
+  },
+  {
+    "base": "knottiness",
+    "phonetic": "ˈnɒtɪnəs",
+    "meaning": "জটিলতা / কঠিনত্ব",
+    "examples": [
+      {
+        "en": "The knottiness of the problem confused him.",
+        "bn": "সমস্যার জটিলতা তাকে বিভ্রান্ত করল।"
+      },
+      {
+        "en": "She handled the knottiness calmly.",
+        "bn": "সে শান্তভাবে জটিলতা সামলাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He solved the knottiness step by step.",
+        "bn": "সে ধাপে ধাপে জটিলতা সমাধান করল।"
+      },
+      {
+        "en": "The knottiness of the situation grew.",
+        "bn": "পরিস্থিতির জটিলতা বাড়ল।"
+      },
+      {
+        "en": "She described the knottiness of the issue.",
+        "bn": "সে সমস্যার জটিলতা বর্ণনা করল।"
+      },
+      {
+        "en": "The knottiness of the contract confused the parties.",
+        "bn": "চুক্তির জটিলতা পক্ষগুলোকে বিভ্রান্ত করল।"
+      },
+      {
+        "en": "He acknowledged the knottiness of the matter.",
+        "bn": "সে বিষয়ের জটিলতা স্বীকার করল।"
+      },
+      {
+        "en": "The knottiness of the law was frustrating.",
+        "bn": "আইনের জটিলতা হতাশাজনক ছিল।"
+      },
+      {
+        "en": "She worked through the knottiness patiently.",
+        "bn": "সে ধৈর্য সহকারে জটিলতা কাটিয়ে উঠল।"
+      },
+      {
+        "en": "He explained the knottiness to the team.",
+        "bn": "সে দলকে জটিলতা বুঝিয়ে দিল।"
+      },
+      {
+        "en": "The knottiness of the discussion slowed progress.",
+        "bn": "আলোচনার জটিলতা অগ্রগতি ধীর করল।"
+      },
+      {
+        "en": "She untangled the knottiness of the situation.",
+        "bn": "সে পরিস্থিতির জটিলতা সমাধান করল।"
+      }
+    ],
+    "synonyms": [
+      "complexity",
+      "intricacy",
+      "difficulty",
+      "complication",
+      "convolution"
+    ]
   }
 ]

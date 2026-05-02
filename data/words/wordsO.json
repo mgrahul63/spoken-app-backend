@@ -520,5 +520,2159 @@
       }
     ],
     "synonyms": ["excellent", "remarkable", "exceptional"]
+  },
+
+  {
+    "base": "oasis",
+    "phonetic": "oʊˈeɪsɪs",
+    "meaning": "মরুদ্যান",
+    "examples": [
+      {
+        "en": "They found an oasis in the desert.",
+        "bn": "তারা মরুভূমিতে একটি মরুদ্যান খুঁজে পেয়েছে।"
+      },
+      {
+        "en": "The oasis had water and trees.",
+        "bn": "মরুদ্যানে পানি ও গাছ ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The oasis saved travelers.",
+        "bn": "মরুদ্যান ভ্রমণকারীদের বাঁচিয়েছে।"
+      },
+      {
+        "en": "Animals gather at the oasis.",
+        "bn": "প্রাণীরা মরুদ্যানে জড়ো হয়।"
+      },
+      {
+        "en": "It felt like an oasis of peace.",
+        "bn": "এটি শান্তির মরুদ্যানের মতো ছিল।"
+      },
+      {
+        "en": "They rested at the oasis.",
+        "bn": "তারা মরুদ্যানে বিশ্রাম নিয়েছে।"
+      },
+      {
+        "en": "The oasis was small but fresh.",
+        "bn": "মরুদ্যানটি ছোট কিন্তু সতেজ ছিল।"
+      },
+      {
+        "en": "Water flows in the oasis.",
+        "bn": "মরুদ্যানে পানি প্রবাহিত হয়।"
+      },
+      {
+        "en": "The desert hides many oases.",
+        "bn": "মরুভূমিতে অনেক মরুদ্যান লুকানো থাকে।"
+      },
+      {
+        "en": "She felt calm in the oasis.",
+        "bn": "সে মরুদ্যানে শান্ত অনুভব করেছে।"
+      },
+      { "en": "The oasis is rare.", "bn": "মরুদ্যান বিরল।" },
+      {
+        "en": "They camped near the oasis.",
+        "bn": "তারা মরুদ্যানের পাশে ক্যাম্প করেছে।"
+      }
+    ],
+    "synonyms": ["haven", "refuge", "retreat", "sanctuary"]
+  },
+  {
+    "base": "obey",
+    "phonetic": "oʊˈbeɪ",
+    "meaning": "মান্য করা / আনুগত্য করা",
+    "examples": [
+      {
+        "en": "Children obey their parents.",
+        "bn": "শিশুরা তাদের অভিভাবকদের মান্য করে।"
+      },
+      { "en": "He obeys the rules.", "bn": "সে নিয়ম মান্য করে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She obeys instructions carefully.",
+        "bn": "সে নির্দেশনা সতর্কভাবে মান্য করে।"
+      },
+      { "en": "They must obey the law.", "bn": "তাদের আইন মান্য করতে হবে।" },
+      {
+        "en": "Dogs obey their owners.",
+        "bn": "কুকুররা তাদের মালিকের কথা শোনে।"
+      },
+      { "en": "He refused to obey.", "bn": "সে মান্য করতে অস্বীকার করেছে।" },
+      { "en": "Obey the signal.", "bn": "সিগনাল মান্য করো।" },
+      { "en": "She obeyed orders.", "bn": "সে আদেশ মান্য করেছে।" },
+      {
+        "en": "Students obey teachers.",
+        "bn": "শিক্ষার্থীরা শিক্ষকদের মান্য করে।"
+      },
+      {
+        "en": "They obey safety rules.",
+        "bn": "তারা নিরাপত্তা নিয়ম মান্য করে।"
+      },
+      { "en": "He always obeys commands.", "bn": "সে সবসময় আদেশ মান্য করে।" },
+      {
+        "en": "We must obey regulations.",
+        "bn": "আমাদের নিয়ম মান্য করতে হবে।"
+      }
+    ],
+    "synonyms": ["follow", "comply", "submit", "heed"]
+  },
+  {
+    "base": "object",
+    "phonetic": "ˈɒbdʒɪkt",
+    "meaning": "বস্তু / আপত্তি করা",
+    "examples": [
+      { "en": "This object is heavy.", "bn": "এই বস্তুটি ভারী।" },
+      {
+        "en": "I object to this decision.",
+        "bn": "আমি এই সিদ্ধান্তে আপত্তি করি।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The object fell down.", "bn": "বস্তুটি নিচে পড়ে গেছে।" },
+      { "en": "She objected strongly.", "bn": "সে জোরালোভাবে আপত্তি করেছে।" },
+      { "en": "The object is useful.", "bn": "বস্তুটি উপকারী।" },
+      { "en": "He picked up the object.", "bn": "সে বস্তুটি তুলে নিয়েছে।" },
+      {
+        "en": "Do not object unnecessarily.",
+        "bn": "অপ্রয়োজনীয়ভাবে আপত্তি করো না।"
+      },
+      { "en": "The object moved fast.", "bn": "বস্তুটি দ্রুত চলেছে।" },
+      { "en": "She objects to noise.", "bn": "সে শব্দে আপত্তি করে।" },
+      { "en": "The object broke.", "bn": "বস্তুটি ভেঙে গেছে।" },
+      { "en": "He described the object.", "bn": "সে বস্তুটি বর্ণনা করেছে।" },
+      {
+        "en": "They objected to the plan.",
+        "bn": "তারা পরিকল্পনায় আপত্তি করেছে।"
+      }
+    ],
+    "synonyms": ["thing", "item", "protest", "oppose"]
+  },
+  {
+    "base": "obvious",
+    "phonetic": "ˈɒbviəs",
+    "meaning": "স্পষ্ট / পরিষ্কার",
+    "examples": [
+      { "en": "It is obvious.", "bn": "এটি স্পষ্ট।" },
+      { "en": "The answer is obvious.", "bn": "উত্তরটি স্পষ্ট।" }
+    ],
+    "moreexample": [
+      { "en": "The mistake is obvious.", "bn": "ভুলটি স্পষ্ট।" },
+      {
+        "en": "It was obvious to everyone.",
+        "bn": "এটি সবার কাছে স্পষ্ট ছিল।"
+      },
+      { "en": "Her happiness was obvious.", "bn": "তার আনন্দ স্পষ্ট ছিল।" },
+      { "en": "The solution is obvious.", "bn": "সমাধানটি স্পষ্ট।" },
+      {
+        "en": "He made an obvious choice.",
+        "bn": "সে একটি স্পষ্ট সিদ্ধান্ত নিয়েছে।"
+      },
+      { "en": "The danger is obvious.", "bn": "বিপদটি স্পষ্ট।" },
+      { "en": "It became obvious later.", "bn": "এটি পরে স্পষ্ট হয়েছে।" },
+      { "en": "The truth is obvious.", "bn": "সত্যটি স্পষ্ট।" },
+      { "en": "Her intention was obvious.", "bn": "তার উদ্দেশ্য স্পষ্ট ছিল।" },
+      { "en": "The result is obvious.", "bn": "ফলাফলটি স্পষ্ট।" }
+    ],
+    "synonyms": ["clear", "evident", "apparent", "plain"]
+  },
+  {
+    "base": "occasion",
+    "phonetic": "əˈkeɪʒn",
+    "meaning": "উপলক্ষ / ঘটনা",
+    "examples": [
+      { "en": "It is a special occasion.", "bn": "এটি একটি বিশেষ উপলক্ষ।" },
+      { "en": "He missed the occasion.", "bn": "সে অনুষ্ঠানটি মিস করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "The occasion was joyful.", "bn": "উপলক্ষটি আনন্দময় ছিল।" },
+      {
+        "en": "She dressed for the occasion.",
+        "bn": "সে উপলক্ষের জন্য পোশাক পরেছে।"
+      },
+      { "en": "It is a rare occasion.", "bn": "এটি একটি বিরল উপলক্ষ।" },
+      {
+        "en": "They celebrated the occasion.",
+        "bn": "তারা উপলক্ষ উদযাপন করেছে।"
+      },
+      {
+        "en": "The occasion was important.",
+        "bn": "উপলক্ষটি গুরুত্বপূর্ণ ছিল।"
+      },
+      { "en": "He remembered the occasion.", "bn": "সে উপলক্ষটি মনে রেখেছে।" },
+      { "en": "It was a happy occasion.", "bn": "এটি একটি সুখের উপলক্ষ ছিল।" },
+      {
+        "en": "She planned the occasion.",
+        "bn": "সে উপলক্ষটি পরিকল্পনা করেছে।"
+      },
+      { "en": "The occasion brought joy.", "bn": "উপলক্ষটি আনন্দ এনেছে।" },
+      { "en": "They attended the occasion.", "bn": "তারা উপলক্ষে উপস্থিত ছিল।" }
+    ],
+    "synonyms": ["event", "moment", "ceremony", "function"]
+  },
+  {
+    "base": "occur",
+    "phonetic": "əˈkɜːr",
+    "meaning": "ঘটা / সংঘটিত হওয়া",
+    "examples": [
+      { "en": "An accident occurred.", "bn": "একটি দুর্ঘটনা ঘটেছে।" },
+      { "en": "It occurs often.", "bn": "এটি প্রায়ই ঘটে।" }
+    ],
+    "moreexample": [
+      { "en": "The event occurred yesterday.", "bn": "ঘটনাটি গতকাল ঘটেছে।" },
+      { "en": "Mistakes occur sometimes.", "bn": "ভুল মাঝে মাঝে ঘটে।" },
+      { "en": "The idea occurred to him.", "bn": "তার মাথায় আইডিয়া এসেছে।" },
+      { "en": "Problems occur frequently.", "bn": "সমস্যা প্রায়ই ঘটে।" },
+      { "en": "The incident occurred suddenly.", "bn": "ঘটনাটি হঠাৎ ঘটেছে।" },
+      { "en": "It occurs naturally.", "bn": "এটি স্বাভাবিকভাবে ঘটে।" },
+      { "en": "An error occurred.", "bn": "একটি ত্রুটি ঘটেছে।" },
+      { "en": "Changes occur over time.", "bn": "সময়ের সাথে পরিবর্তন ঘটে।" },
+      { "en": "The thought occurred again.", "bn": "চিন্তাটি আবার এসেছে।" },
+      { "en": "Accidents occur daily.", "bn": "দুর্ঘটনা প্রতিদিন ঘটে।" }
+    ],
+    "synonyms": ["happen", "take place", "arise", "come about"]
+  },
+  {
+    "base": "occupation",
+    "phonetic": "ˌɒkjuˈpeɪʃn",
+    "meaning": "পেশা / দখল",
+    "examples": [
+      { "en": "What is your occupation?", "bn": "আপনার পেশা কী?" },
+      { "en": "Teaching is my occupation.", "bn": "শিক্ষকতা আমার পেশা।" }
+    ],
+    "moreexample": [
+      { "en": "His occupation is doctor.", "bn": "তার পেশা ডাক্তার।" },
+      {
+        "en": "They asked about occupation.",
+        "bn": "তারা পেশা সম্পর্কে জিজ্ঞেস করেছে।"
+      },
+      {
+        "en": "She chose a new occupation.",
+        "bn": "সে একটি নতুন পেশা বেছে নিয়েছে।"
+      },
+      { "en": "Occupation affects life.", "bn": "পেশা জীবনে প্রভাব ফেলে।" },
+      { "en": "His occupation is stable.", "bn": "তার পেশা স্থিতিশীল।" },
+      {
+        "en": "He changed his occupation.",
+        "bn": "সে তার পেশা পরিবর্তন করেছে।"
+      },
+      { "en": "Different occupations exist.", "bn": "বিভিন্ন পেশা আছে।" },
+      {
+        "en": "Occupation defines identity.",
+        "bn": "পেশা পরিচয় নির্ধারণ করে।"
+      },
+      { "en": "She loves her occupation.", "bn": "সে তার পেশা ভালোবাসে।" },
+      { "en": "Occupation field is wide.", "bn": "পেশার ক্ষেত্র বিস্তৃত।" }
+    ],
+    "synonyms": ["job", "profession", "work", "career"]
+  },
+  {
+    "base": "occupy",
+    "phonetic": "ˈɒkjupaɪ",
+    "meaning": "দখল করা / ব্যস্ত রাখা",
+    "examples": [
+      { "en": "They occupy the building.", "bn": "তারা ভবনটি দখল করেছে।" },
+      { "en": "Work occupies him.", "bn": "কাজ তাকে ব্যস্ত রাখে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He occupies a small room.",
+        "bn": "সে একটি ছোট ঘর দখল করে আছে।"
+      },
+      {
+        "en": "The army occupied the area.",
+        "bn": "সেনাবাহিনী এলাকাটি দখল করেছে।"
+      },
+      {
+        "en": "Reading occupies her time.",
+        "bn": "পড়া তার সময় ব্যস্ত রাখে।"
+      },
+      { "en": "They occupy the land.", "bn": "তারা জমি দখল করেছে।" },
+      { "en": "She is fully occupied.", "bn": "সে পুরোপুরি ব্যস্ত।" },
+      { "en": "The task occupies me.", "bn": "কাজটি আমাকে ব্যস্ত রাখে।" },
+      { "en": "He occupies the office.", "bn": "সে অফিসটি দখল করে আছে।" },
+      { "en": "Games occupy children.", "bn": "গেম শিশুদের ব্যস্ত রাখে।" },
+      { "en": "They occupied the city.", "bn": "তারা শহরটি দখল করেছে।" },
+      {
+        "en": "Study occupies students.",
+        "bn": "পড়াশোনা শিক্ষার্থীদের ব্যস্ত রাখে।"
+      }
+    ],
+    "synonyms": ["take", "fill", "engage", "hold"]
+  },
+  {
+    "base": "offend",
+    "phonetic": "əˈfend",
+    "meaning": "অপমান করা / কষ্ট দেওয়া",
+    "examples": [
+      {
+        "en": "I didn’t mean to offend you.",
+        "bn": "আমি তোমাকে অপমান করতে চাইনি।"
+      },
+      { "en": "His words offended her.", "bn": "তার কথা তাকে কষ্ট দিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "Don’t offend anyone.", "bn": "কাউকে অপমান করো না।" },
+      { "en": "She felt offended.", "bn": "সে অপমানিত অনুভব করেছে।" },
+      { "en": "He offended his friend.", "bn": "সে তার বন্ধুকে অপমান করেছে।" },
+      { "en": "The joke offended them.", "bn": "রসিকতা তাদের কষ্ট দিয়েছে।" },
+      { "en": "Try not to offend.", "bn": "অপমান না করার চেষ্টা করো।" },
+      { "en": "She was easily offended.", "bn": "সে সহজেই অপমানিত হয়।" },
+      { "en": "He offended the teacher.", "bn": "সে শিক্ষককে অপমান করেছে।" },
+      { "en": "Words can offend.", "bn": "শব্দ কষ্ট দিতে পারে।" },
+      { "en": "They didn’t want to offend.", "bn": "তারা অপমান করতে চায়নি।" },
+      { "en": "He got offended quickly.", "bn": "সে দ্রুত অপমানিত হয়েছে।" }
+    ],
+    "synonyms": ["hurt", "insult", "irritate", "upset"]
+  },
+  {
+    "base": "offer",
+    "phonetic": "ˈɒfər",
+    "meaning": "প্রস্তাব করা / অফার করা",
+    "examples": [
+      { "en": "They offer help.", "bn": "তারা সাহায্য প্রস্তাব করে।" },
+      { "en": "He got a job offer.", "bn": "সে একটি চাকরির অফার পেয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "She offered tea.", "bn": "সে চা প্রস্তাব করেছে।" },
+      { "en": "They offered support.", "bn": "তারা সমর্থন প্রস্তাব করেছে।" },
+      { "en": "He offers advice.", "bn": "সে পরামর্শ দেয়।" },
+      { "en": "The shop offers discounts.", "bn": "দোকানটি ছাড় দেয়।" },
+      { "en": "I offer my help.", "bn": "আমি আমার সাহায্য প্রস্তাব করি।" },
+      {
+        "en": "She offered a solution.",
+        "bn": "সে একটি সমাধান প্রস্তাব করেছে।"
+      },
+      { "en": "They offer free service.", "bn": "তারা ফ্রি সেবা দেয়।" },
+      { "en": "He offered his seat.", "bn": "সে তার আসন প্রস্তাব করেছে।" },
+      { "en": "The company offers jobs.", "bn": "কোম্পানি চাকরি দেয়।" },
+      { "en": "She offers guidance.", "bn": "সে নির্দেশনা দেয়।" }
+    ],
+    "synonyms": ["propose", "give", "present", "suggest"]
+  },
+
+  {
+    "base": "olive",
+    "phonetic": "ˈɒlɪv",
+    "meaning": "জলপাই / জলপাই গাছের ফল",
+    "examples": [
+      { "en": "He ate an olive.", "bn": "সে একটি জলপাই খেয়েছে।" },
+      { "en": "Olive oil is healthy.", "bn": "জলপাই তেল স্বাস্থ্যকর।" }
+    ],
+    "moreexample": [
+      { "en": "The olive tree is old.", "bn": "জলপাই গাছটি পুরনো।" },
+      { "en": "She likes olives.", "bn": "সে জলপাই পছন্দ করে।" },
+      {
+        "en": "Olive oil is used in cooking.",
+        "bn": "রান্নায় জলপাই তেল ব্যবহার হয়।"
+      },
+      { "en": "The salad has olives.", "bn": "সালাদে জলপাই আছে।" },
+      { "en": "Olives are salty.", "bn": "জলপাই লবণাক্ত।" },
+      { "en": "He picked an olive.", "bn": "সে একটি জলপাই তুলেছে।" },
+      { "en": "Olive trees grow slowly.", "bn": "জলপাই গাছ ধীরে বাড়ে।" },
+      { "en": "They harvest olives.", "bn": "তারা জলপাই সংগ্রহ করে।" },
+      { "en": "Olive color is greenish.", "bn": "অলিভ রং সবুজাভ।" },
+      { "en": "She bought olive oil.", "bn": "সে জলপাই তেল কিনেছে।" }
+    ],
+    "synonyms": ["fruit", "oil source"]
+  },
+  {
+    "base": "omit",
+    "phonetic": "oʊˈmɪt",
+    "meaning": "বাদ দেওয়া",
+    "examples": [
+      {
+        "en": "Don’t omit important details.",
+        "bn": "গুরুত্বপূর্ণ তথ্য বাদ দিও না।"
+      },
+      { "en": "He omitted the name.", "bn": "সে নামটি বাদ দিয়েছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She omitted a paragraph.",
+        "bn": "সে একটি প্যারাগ্রাফ বাদ দিয়েছে।"
+      },
+      { "en": "He omitted the truth.", "bn": "সে সত্যটি বাদ দিয়েছে।" },
+      { "en": "Do not omit steps.", "bn": "ধাপগুলো বাদ দিও না।" },
+      { "en": "They omitted his role.", "bn": "তারা তার ভূমিকা বাদ দিয়েছে।" },
+      {
+        "en": "The report omitted facts.",
+        "bn": "রিপোর্টে তথ্য বাদ দেওয়া হয়েছে।"
+      },
+      { "en": "She omitted a line.", "bn": "সে একটি লাইন বাদ দিয়েছে।" },
+      { "en": "He omitted the answer.", "bn": "সে উত্তরটি বাদ দিয়েছে।" },
+      { "en": "Omit unnecessary parts.", "bn": "অপ্রয়োজনীয় অংশ বাদ দাও।" },
+      { "en": "They omitted details.", "bn": "তারা বিস্তারিত বাদ দিয়েছে।" },
+      { "en": "The book omitted history.", "bn": "বইটি ইতিহাস বাদ দিয়েছে।" }
+    ],
+    "synonyms": ["exclude", "leave out", "skip", "remove"]
+  },
+  {
+    "base": "opinion",
+    "phonetic": "əˈpɪnjən",
+    "meaning": "মতামত",
+    "examples": [
+      { "en": "What is your opinion?", "bn": "তোমার মতামত কী?" },
+      { "en": "He gave his opinion.", "bn": "সে তার মতামত দিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "Everyone has an opinion.", "bn": "প্রত্যেকের একটি মতামত আছে।" },
+      { "en": "She shared her opinion.", "bn": "সে তার মতামত শেয়ার করেছে।" },
+      { "en": "His opinion matters.", "bn": "তার মতামত গুরুত্বপূর্ণ।" },
+      {
+        "en": "I respect your opinion.",
+        "bn": "আমি তোমার মতামতকে সম্মান করি।"
+      },
+      {
+        "en": "They changed their opinion.",
+        "bn": "তারা তাদের মতামত পরিবর্তন করেছে।"
+      },
+      { "en": "Opinion differs widely.", "bn": "মতামত ব্যাপকভাবে ভিন্ন।" },
+      { "en": "She asked for opinion.", "bn": "সে মতামত চেয়েছে।" },
+      { "en": "Public opinion matters.", "bn": "জনমত গুরুত্বপূর্ণ।" },
+      { "en": "He ignored my opinion.", "bn": "সে আমার মতামত উপেক্ষা করেছে।" },
+      { "en": "Opinion was divided.", "bn": "মতামত বিভক্ত ছিল।" }
+    ],
+    "synonyms": ["view", "belief", "thought", "judgment"]
+  },
+  {
+    "base": "oppose",
+    "phonetic": "əˈpoʊz",
+    "meaning": "বিরোধিতা করা",
+    "examples": [
+      {
+        "en": "They oppose the decision.",
+        "bn": "তারা সিদ্ধান্তের বিরোধিতা করে।"
+      },
+      { "en": "I oppose violence.", "bn": "আমি সহিংসতার বিরোধিতা করি।" }
+    ],
+    "moreexample": [
+      { "en": "She opposed the plan.", "bn": "সে পরিকল্পনার বিরোধিতা করেছে।" },
+      { "en": "He opposed the rule.", "bn": "সে নিয়মের বিরোধিতা করেছে।" },
+      { "en": "They oppose injustice.", "bn": "তারা অন্যায়ের বিরোধিতা করে।" },
+      { "en": "We oppose this law.", "bn": "আমরা এই আইনের বিরোধিতা করি।" },
+      {
+        "en": "She strongly opposed it.",
+        "bn": "সে জোরালোভাবে বিরোধিতা করেছে।"
+      },
+      { "en": "He opposes the idea.", "bn": "সে ধারণার বিরোধিতা করে।" },
+      {
+        "en": "They opposed the proposal.",
+        "bn": "তারা প্রস্তাবের বিরোধিতা করেছে।"
+      },
+      { "en": "I oppose cheating.", "bn": "আমি প্রতারণার বিরোধিতা করি।" },
+      { "en": "She opposes change.", "bn": "সে পরিবর্তনের বিরোধিতা করে।" },
+      { "en": "They openly oppose it.", "bn": "তারা প্রকাশ্যে বিরোধিতা করে।" }
+    ],
+    "synonyms": ["resist", "disagree", "fight", "object"]
+  },
+  {
+    "base": "option",
+    "phonetic": "ˈɒpʃn",
+    "meaning": "বিকল্প",
+    "examples": [
+      { "en": "You have two options.", "bn": "তোমার দুটি বিকল্প আছে।" },
+      { "en": "This is a good option.", "bn": "এটি একটি ভালো বিকল্প।" }
+    ],
+    "moreexample": [
+      { "en": "Choose the best option.", "bn": "সেরা বিকল্পটি বেছে নাও।" },
+      { "en": "There are many options.", "bn": "অনেক বিকল্প আছে।" },
+      {
+        "en": "She selected an option.",
+        "bn": "সে একটি বিকল্প নির্বাচন করেছে।"
+      },
+      { "en": "No other option exists.", "bn": "অন্য কোনো বিকল্প নেই।" },
+      { "en": "He explored options.", "bn": "সে বিকল্পগুলো খুঁজে দেখেছে।" },
+      { "en": "Option A is better.", "bn": "বিকল্প A ভালো।" },
+      {
+        "en": "They discussed options.",
+        "bn": "তারা বিকল্পগুলো আলোচনা করেছে।"
+      },
+      { "en": "I have no option.", "bn": "আমার কোনো বিকল্প নেই।" },
+      {
+        "en": "She rejected the option.",
+        "bn": "সে বিকল্পটি প্রত্যাখ্যান করেছে।"
+      },
+      { "en": "Options are limited.", "bn": "বিকল্প সীমিত।" }
+    ],
+    "synonyms": ["choice", "alternative", "possibility", "selection"]
+  },
+  {
+    "base": "orbit",
+    "phonetic": "ˈɔːrbɪt",
+    "meaning": "কক্ষপথ",
+    "examples": [
+      { "en": "Earth orbits the sun.", "bn": "পৃথিবী সূর্যের চারপাশে ঘোরে।" },
+      { "en": "The satellite is in orbit.", "bn": "স্যাটেলাইটটি কক্ষপথে আছে।" }
+    ],
+    "moreexample": [
+      { "en": "The moon orbits Earth.", "bn": "চাঁদ পৃথিবীর চারপাশে ঘোরে।" },
+      { "en": "The planet is in orbit.", "bn": "গ্রহটি কক্ষপথে আছে।" },
+      {
+        "en": "The spacecraft entered orbit.",
+        "bn": "মহাকাশযান কক্ষপথে প্রবেশ করেছে।"
+      },
+      { "en": "It left orbit.", "bn": "এটি কক্ষপথ ছেড়েছে।" },
+      { "en": "Satellites stay in orbit.", "bn": "স্যাটেলাইট কক্ষপথে থাকে।" },
+      { "en": "The orbit is stable.", "bn": "কক্ষপথ স্থিতিশীল।" },
+      {
+        "en": "Scientists study orbit.",
+        "bn": "বিজ্ঞানীরা কক্ষপথ অধ্যয়ন করে।"
+      },
+      { "en": "It moves in orbit.", "bn": "এটি কক্ষপথে ঘোরে।" },
+      {
+        "en": "The orbit changed slightly.",
+        "bn": "কক্ষপথ সামান্য পরিবর্তিত হয়েছে।"
+      },
+      {
+        "en": "Planets follow orbit paths.",
+        "bn": "গ্রহগুলো কক্ষপথ অনুসরণ করে।"
+      }
+    ],
+    "synonyms": ["path", "trajectory", "revolution path"]
+  },
+
+  {
+    "base": "orchard",
+    "phonetic": "ˈɔːrtʃərd",
+    "meaning": "ফলবাগান",
+    "examples": [
+      {
+        "en": "They own an apple orchard.",
+        "bn": "তাদের একটি আপেল ফলবাগান আছে।"
+      },
+      {
+        "en": "We walked through the orchard.",
+        "bn": "আমরা ফলবাগানের মধ্যে হাঁটলাম।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The orchard is full of fruits.", "bn": "ফলবাগান ফল দিয়ে ভরা।" },
+      { "en": "He works in an orchard.", "bn": "সে একটি ফলবাগানে কাজ করে।" },
+      {
+        "en": "The orchard looks beautiful.",
+        "bn": "ফলবাগানটি সুন্দর দেখাচ্ছে।"
+      },
+      {
+        "en": "They planted a new orchard.",
+        "bn": "তারা নতুন ফলবাগান লাগিয়েছে।"
+      },
+      { "en": "Birds live in the orchard.", "bn": "পাখিরা ফলবাগানে বাস করে।" },
+      { "en": "She visited the orchard.", "bn": "সে ফলবাগানটি দেখতে গেছে।" },
+      {
+        "en": "The orchard produces apples.",
+        "bn": "ফলবাগান আপেল উৎপাদন করে।"
+      },
+      {
+        "en": "Workers harvest the orchard.",
+        "bn": "শ্রমিকরা ফলবাগানের ফল সংগ্রহ করে।"
+      },
+      { "en": "The orchard is large.", "bn": "ফলবাগানটি বড়।" },
+      {
+        "en": "Rain helps the orchard grow.",
+        "bn": "বৃষ্টি ফলবাগান বাড়তে সাহায্য করে।"
+      }
+    ],
+    "synonyms": ["grove", "plantation", "farm garden"]
+  },
+  {
+    "base": "organize",
+    "phonetic": "ˈɔːrɡənaɪz",
+    "meaning": "সংগঠিত করা",
+    "examples": [
+      { "en": "She organizes events.", "bn": "সে অনুষ্ঠান সংগঠিত করে।" },
+      { "en": "They organized a meeting.", "bn": "তারা একটি সভা সংগঠিত করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "He organized the files.", "bn": "সে ফাইলগুলো সংগঠিত করেছে।" },
+      { "en": "We organized a trip.", "bn": "আমরা একটি ভ্রমণ সংগঠিত করেছি।" },
+      { "en": "She organized her room.", "bn": "সে তার ঘর গুছিয়েছে।" },
+      { "en": "They organize campaigns.", "bn": "তারা প্রচারণা সংগঠিত করে।" },
+      { "en": "He organized the data.", "bn": "সে ডেটা সংগঠিত করেছে।" },
+      {
+        "en": "Students organized a program.",
+        "bn": "শিক্ষার্থীরা একটি প্রোগ্রাম সংগঠিত করেছে।"
+      },
+      {
+        "en": "She organizes everything well.",
+        "bn": "সে সবকিছু ভালোভাবে সংগঠিত করে।"
+      },
+      {
+        "en": "They organized a protest.",
+        "bn": "তারা একটি প্রতিবাদ সংগঠিত করেছে।"
+      },
+      { "en": "He organized the team.", "bn": "সে দলটি সংগঠিত করেছে।" },
+      {
+        "en": "We must organize properly.",
+        "bn": "আমাদের সঠিকভাবে সংগঠিত হতে হবে।"
+      }
+    ],
+    "synonyms": ["arrange", "structure", "systematize", "coordinate"]
+  },
+  {
+    "base": "origin",
+    "phonetic": "ˈɒrɪdʒɪn",
+    "meaning": "উৎপত্তি",
+    "examples": [
+      {
+        "en": "We studied the origin of life.",
+        "bn": "আমরা জীবনের উৎপত্তি অধ্যয়ন করেছি।"
+      },
+      { "en": "The origin is unknown.", "bn": "উৎপত্তি অজানা।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The origin of the word is Latin.",
+        "bn": "শব্দটির উৎপত্তি ল্যাটিন।"
+      },
+      {
+        "en": "They traced its origin.",
+        "bn": "তারা এর উৎপত্তি অনুসন্ধান করেছে।"
+      },
+      { "en": "Human origin is debated.", "bn": "মানব উৎপত্তি বিতর্কিত।" },
+      { "en": "The origin story is old.", "bn": "উৎপত্তির গল্পটি পুরনো।" },
+      { "en": "We found the origin.", "bn": "আমরা উৎপত্তি খুঁজে পেয়েছি।" },
+      { "en": "Its origin is clear.", "bn": "এর উৎপত্তি স্পষ্ট।" },
+      {
+        "en": "The origin of disease matters.",
+        "bn": "রোগের উৎপত্তি গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She studied cultural origin.",
+        "bn": "সে সাংস্কৃতিক উৎপত্তি অধ্যয়ন করেছে।"
+      },
+      {
+        "en": "Origin determines meaning.",
+        "bn": "উৎপত্তি অর্থ নির্ধারণ করে।"
+      },
+      { "en": "The origin is ancient.", "bn": "উৎপত্তি প্রাচীন।" }
+    ],
+    "synonyms": ["source", "beginning", "root", "birth"]
+  },
+  {
+    "base": "ornament",
+    "phonetic": "ˈɔːrnəmənt",
+    "meaning": "সাজসজ্জা / অলংকার",
+    "examples": [
+      { "en": "The tree has ornaments.", "bn": "গাছে সাজসজ্জা আছে।" },
+      { "en": "She wore an ornament.", "bn": "সে একটি অলংকার পরেছিল।" }
+    ],
+    "moreexample": [
+      { "en": "The room has ornaments.", "bn": "ঘরটিতে অলংকার আছে।" },
+      {
+        "en": "He bought a gold ornament.",
+        "bn": "সে একটি সোনার অলংকার কিনেছে।"
+      },
+      {
+        "en": "Christmas ornaments are colorful.",
+        "bn": "ক্রিসমাস অলংকার রঙিন।"
+      },
+      {
+        "en": "She decorated with ornaments.",
+        "bn": "সে অলংকার দিয়ে সাজিয়েছে।"
+      },
+      { "en": "The ornament is beautiful.", "bn": "অলংকারটি সুন্দর।" },
+      { "en": "They sell ornaments.", "bn": "তারা অলংকার বিক্রি করে।" },
+      { "en": "He crafted an ornament.", "bn": "সে একটি অলংকার তৈরি করেছে।" },
+      {
+        "en": "Wall ornaments look nice.",
+        "bn": "দেয়ালের অলংকার সুন্দর দেখায়।"
+      },
+      { "en": "The ornament shines.", "bn": "অলংকারটি ঝলমল করে।" },
+      { "en": "She collected ornaments.", "bn": "সে অলংকার সংগ্রহ করেছে।" }
+    ],
+    "synonyms": ["decoration", "jewelry", "adornment", "embellishment"]
+  },
+  {
+    "base": "overcome",
+    "phonetic": "ˌoʊvərˈkʌm",
+    "meaning": "জয় করা / অতিক্রম করা",
+    "examples": [
+      { "en": "He overcame fear.", "bn": "সে ভয় জয় করেছে।" },
+      {
+        "en": "They overcame difficulties.",
+        "bn": "তারা কঠিন পরিস্থিতি অতিক্রম করেছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She overcame pain.", "bn": "সে ব্যথা জয় করেছে।" },
+      { "en": "He overcame challenges.", "bn": "সে চ্যালেঞ্জ অতিক্রম করেছে।" },
+      { "en": "They overcame the problem.", "bn": "তারা সমস্যাটি জয় করেছে।" },
+      {
+        "en": "We can overcome obstacles.",
+        "bn": "আমরা বাধা অতিক্রম করতে পারি।"
+      },
+      { "en": "She overcame sadness.", "bn": "সে দুঃখ জয় করেছে।" },
+      { "en": "He overcame his weakness.", "bn": "সে তার দুর্বলতা জয় করেছে।" },
+      { "en": "They overcame failure.", "bn": "তারা ব্যর্থতা অতিক্রম করেছে।" },
+      { "en": "She overcame doubt.", "bn": "সে সন্দেহ জয় করেছে।" },
+      { "en": "We overcame the storm.", "bn": "আমরা ঝড় অতিক্রম করেছি।" },
+      { "en": "He overcame illness.", "bn": "সে অসুস্থতা জয় করেছে।" }
+    ],
+    "synonyms": ["defeat", "conquer", "surmount", "beat"]
+  },
+  {
+    "base": "overlook",
+    "phonetic": "ˌoʊvərˈlʊk",
+    "meaning": "উপেক্ষা করা / উপর থেকে দেখা",
+    "examples": [
+      { "en": "Don’t overlook mistakes.", "bn": "ভুল উপেক্ষা করো না।" },
+      {
+        "en": "The room overlooks the sea.",
+        "bn": "ঘরটি সমুদ্রের দিকে মুখ করে আছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He overlooked the error.", "bn": "সে ভুলটি উপেক্ষা করেছে।" },
+      {
+        "en": "The hotel overlooks mountains.",
+        "bn": "হোটেলটি পাহাড়ের দিকে মুখ করে আছে।"
+      },
+      {
+        "en": "She overlooked the detail.",
+        "bn": "সে বিস্তারিত উপেক্ষা করেছে।"
+      },
+      {
+        "en": "We cannot overlook this.",
+        "bn": "আমরা এটি উপেক্ষা করতে পারি না।"
+      },
+      {
+        "en": "The house overlooks a river.",
+        "bn": "বাড়িটি নদীর দিকে মুখ করে আছে।"
+      },
+      { "en": "He overlooked her mistake.", "bn": "সে তার ভুল উপেক্ষা করেছে।" },
+      {
+        "en": "They overlooked the issue.",
+        "bn": "তারা সমস্যাটি উপেক্ষা করেছে।"
+      },
+      {
+        "en": "The balcony overlooks the city.",
+        "bn": "বারান্দাটি শহরের দিকে মুখ করে আছে।"
+      },
+      {
+        "en": "She overlooked the warning.",
+        "bn": "সে সতর্কতা উপেক্ষা করেছে।"
+      },
+      {
+        "en": "Don’t overlook important facts.",
+        "bn": "গুরুত্বপূর্ণ তথ্য উপেক্ষা করো না।"
+      }
+    ],
+    "synonyms": ["ignore", "miss", "view", "neglect"]
+  },
+  {
+    "base": "overwhelm",
+    "phonetic": "ˌoʊvərˈwelm",
+    "meaning": "অভিভূত করা",
+    "examples": [
+      { "en": "She was overwhelmed with joy.", "bn": "সে আনন্দে অভিভূত ছিল।" },
+      { "en": "The news overwhelmed him.", "bn": "সংবাদ তাকে অভিভূত করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "He felt overwhelmed.", "bn": "সে অভিভূত অনুভব করেছে।" },
+      { "en": "The task overwhelmed her.", "bn": "কাজটি তাকে অভিভূত করেছে।" },
+      {
+        "en": "They were overwhelmed by support.",
+        "bn": "তারা সমর্থনে অভিভূত হয়েছে।"
+      },
+      {
+        "en": "She was overwhelmed emotionally.",
+        "bn": "সে আবেগে অভিভূত ছিল।"
+      },
+      { "en": "The crowd overwhelmed him.", "bn": "ভিড় তাকে অভিভূত করেছে।" },
+      {
+        "en": "He felt overwhelmed with work.",
+        "bn": "সে কাজের চাপে অভিভূত ছিল।"
+      },
+      {
+        "en": "They were overwhelmed by success.",
+        "bn": "তারা সাফল্যে অভিভূত হয়েছে।"
+      },
+      { "en": "She overwhelmed everyone.", "bn": "সে সবাইকে অভিভূত করেছে।" },
+      {
+        "en": "The situation overwhelmed them.",
+        "bn": "পরিস্থিতি তাদের অভিভূত করেছে।"
+      },
+      {
+        "en": "He felt completely overwhelmed.",
+        "bn": "সে পুরোপুরি অভিভূত অনুভব করেছে।"
+      }
+    ],
+    "synonyms": ["flood", "overpower", "astonish", "bury"]
+  },
+  {
+    "base": "oxygen",
+    "phonetic": "ˈɒksɪdʒən",
+    "meaning": "অক্সিজেন",
+    "examples": [
+      {
+        "en": "We need oxygen to live.",
+        "bn": "বাঁচতে আমাদের অক্সিজেন দরকার।"
+      },
+      { "en": "Oxygen is in the air.", "bn": "বাতাসে অক্সিজেন আছে।" }
+    ],
+    "moreexample": [
+      { "en": "Oxygen is essential.", "bn": "অক্সিজেন অত্যাবশ্যক।" },
+      { "en": "Plants produce oxygen.", "bn": "গাছ অক্সিজেন তৈরি করে।" },
+      { "en": "He needs oxygen support.", "bn": "তার অক্সিজেন সহায়তা দরকার।" },
+      { "en": "Oxygen levels dropped.", "bn": "অক্সিজেনের মাত্রা কমেছে।" },
+      { "en": "Fish need oxygen.", "bn": "মাছের অক্সিজেন দরকার।" },
+      { "en": "Oxygen flows in blood.", "bn": "অক্সিজেন রক্তে প্রবাহিত হয়।" },
+      { "en": "They measured oxygen.", "bn": "তারা অক্সিজেন মেপেছে।" },
+      { "en": "Oxygen tank is ready.", "bn": "অক্সিজেন ট্যাঙ্ক প্রস্তুত।" },
+      { "en": "Humans breathe oxygen.", "bn": "মানুষ অক্সিজেন শ্বাস নেয়।" },
+      { "en": "Oxygen is life.", "bn": "অক্সিজেনই জীবন।" }
+    ],
+    "synonyms": ["air element", "life gas"]
+  },
+  {
+    "base": "overtake",
+    "phonetic": "ˌoʊvərˈteɪk",
+    "meaning": "অতিক্রম করে সামনে চলে যাওয়া",
+    "examples": [
+      { "en": "The car overtook us.", "bn": "গাড়িটি আমাদের অতিক্রম করেছে।" },
+      { "en": "He overtook the leader.", "bn": "সে নেতাকে অতিক্রম করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "She overtook the runner.", "bn": "সে দৌড়বিদকে অতিক্রম করেছে।" },
+      { "en": "The bike overtook the bus.", "bn": "বাইক বাসকে অতিক্রম করেছে।" },
+      {
+        "en": "He overtook his rival.",
+        "bn": "সে তার প্রতিদ্বন্দ্বীকে অতিক্রম করেছে।"
+      },
+      {
+        "en": "They overtook in traffic.",
+        "bn": "তারা ট্রাফিকে অতিক্রম করেছে।"
+      },
+      {
+        "en": "The car overtook quickly.",
+        "bn": "গাড়িটি দ্রুত অতিক্রম করেছে।"
+      },
+      { "en": "She overtook everyone.", "bn": "সে সবাইকে অতিক্রম করেছে।" },
+      {
+        "en": "He overtook on the highway.",
+        "bn": "সে হাইওয়েতে অতিক্রম করেছে।"
+      },
+      {
+        "en": "The cyclist overtook cars.",
+        "bn": "সাইকেলচালক গাড়িকে অতিক্রম করেছে।"
+      },
+      { "en": "They were overtaken.", "bn": "তারা অতিক্রম হয়েছে।" },
+      {
+        "en": "He overtook the speed limit.",
+        "bn": "সে গতি সীমা অতিক্রম করেছে।"
+      }
+    ],
+    "synonyms": ["pass", "surpass", "go past", "outstrip"]
+  },
+
+  {
+    "base": "ostrich",
+    "phonetic": "ˈɒstrɪtʃ",
+    "meaning": "উটপাখি",
+    "examples": [
+      {
+        "en": "The ostrich is the largest bird.",
+        "bn": "উটপাখি সবচেয়ে বড় পাখি।"
+      },
+      { "en": "An ostrich runs very fast.", "bn": "উটপাখি খুব দ্রুত দৌড়ায়।" }
+    ],
+    "moreexample": [
+      { "en": "The ostrich cannot fly.", "bn": "উটপাখি উড়তে পারে না।" },
+      { "en": "Ostriches live in Africa.", "bn": "উটপাখি আফ্রিকায় বাস করে।" },
+      { "en": "The ostrich hides its head.", "bn": "উটপাখি মাথা লুকায়।" },
+      { "en": "Farmers raise ostriches.", "bn": "কৃষকরা উটপাখি পালন করে।" },
+      { "en": "The ostrich has long legs.", "bn": "উটপাখির লম্বা পা আছে।" },
+      { "en": "An ostrich egg is large.", "bn": "উটপাখির ডিম বড় হয়।" },
+      {
+        "en": "The ostrich runs in deserts.",
+        "bn": "উটপাখি মরুভূমিতে দৌড়ায়।"
+      },
+      { "en": "They studied the ostrich.", "bn": "তারা উটপাখি অধ্যয়ন করেছে।" },
+      { "en": "The ostrich is strong.", "bn": "উটপাখি শক্তিশালী।" },
+      {
+        "en": "Ostriches cannot fly high.",
+        "bn": "উটপাখি উঁচুতে উড়তে পারে না।"
+      }
+    ],
+    "synonyms": ["large bird", "flightless bird"]
+  },
+  {
+    "base": "ostracize",
+    "phonetic": "ˈɒstrəsaɪz",
+    "meaning": "বর্জন করা / সমাজচ্যুত করা",
+    "examples": [
+      {
+        "en": "He was ostracized by society.",
+        "bn": "সে সমাজ থেকে বর্জিত হয়েছে।"
+      },
+      { "en": "They ostracized him.", "bn": "তারা তাকে বর্জন করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "She felt ostracized.", "bn": "সে সমাজচ্যুত অনুভব করেছে।" },
+      {
+        "en": "They ostracized the member.",
+        "bn": "তারা সদস্যকে বর্জন করেছে।"
+      },
+      {
+        "en": "He was unfairly ostracized.",
+        "bn": "তাকে অন্যায়ভাবে বর্জন করা হয়েছে।"
+      },
+      { "en": "The group ostracized her.", "bn": "দলটি তাকে বর্জন করেছে।" },
+      {
+        "en": "He feared being ostracized.",
+        "bn": "সে বর্জিত হওয়ার ভয় পেয়েছিল।"
+      },
+      {
+        "en": "They ostracized the player.",
+        "bn": "তারা খেলোয়াড়কে বর্জন করেছে।"
+      },
+      {
+        "en": "She was socially ostracized.",
+        "bn": "সে সামাজিকভাবে বর্জিত হয়েছে।"
+      },
+      {
+        "en": "The community ostracized him.",
+        "bn": "সম্প্রদায় তাকে বর্জন করেছে।"
+      },
+      { "en": "He got ostracized quickly.", "bn": "সে দ্রুত বর্জিত হয়েছে।" },
+      { "en": "Ostracizing someone is wrong.", "bn": "কাউকে বর্জন করা ভুল।" }
+    ],
+    "synonyms": ["exclude", "shun", "reject", "isolate"]
+  },
+  {
+    "base": "outcome",
+    "phonetic": "ˈaʊtkʌm",
+    "meaning": "ফলাফল",
+    "examples": [
+      { "en": "The outcome was positive.", "bn": "ফলাফল ইতিবাচক ছিল।" },
+      { "en": "We awaited the outcome.", "bn": "আমরা ফলাফলের অপেক্ষা করেছি।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The outcome surprised everyone.",
+        "bn": "ফলাফল সবাইকে অবাক করেছে।"
+      },
+      { "en": "It was a good outcome.", "bn": "এটি একটি ভালো ফলাফল ছিল।" },
+      {
+        "en": "The outcome depends on effort.",
+        "bn": "ফলাফল প্রচেষ্টার উপর নির্ভর করে।"
+      },
+      { "en": "She accepted the outcome.", "bn": "সে ফলাফল মেনে নিয়েছে।" },
+      { "en": "The outcome is uncertain.", "bn": "ফলাফল অনিশ্চিত।" },
+      { "en": "They predicted the outcome.", "bn": "তারা ফলাফল অনুমান করেছে।" },
+      {
+        "en": "Outcome of the game changed.",
+        "bn": "খেলার ফলাফল পরিবর্তিত হয়েছে।"
+      },
+      {
+        "en": "He influenced the outcome.",
+        "bn": "সে ফলাফলকে প্রভাবিত করেছে।"
+      },
+      { "en": "The outcome was unfair.", "bn": "ফলাফল অন্যায্য ছিল।" },
+      { "en": "We discussed the outcome.", "bn": "আমরা ফলাফল আলোচনা করেছি।" }
+    ],
+    "synonyms": ["result", "consequence", "effect", "end"]
+  },
+  {
+    "base": "outbreak",
+    "phonetic": "ˈaʊtbreɪk",
+    "meaning": "প্রাদুর্ভাব",
+    "examples": [
+      {
+        "en": "There was an outbreak of disease.",
+        "bn": "রোগের প্রাদুর্ভাব ঘটেছে।"
+      },
+      {
+        "en": "The outbreak spread quickly.",
+        "bn": "প্রাদুর্ভাব দ্রুত ছড়িয়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The outbreak started suddenly.",
+        "bn": "প্রাদুর্ভাব হঠাৎ শুরু হয়েছে।"
+      },
+      {
+        "en": "They controlled the outbreak.",
+        "bn": "তারা প্রাদুর্ভাব নিয়ন্ত্রণ করেছে।"
+      },
+      {
+        "en": "Virus outbreak is dangerous.",
+        "bn": "ভাইরাস প্রাদুর্ভাব বিপজ্জনক।"
+      },
+      {
+        "en": "The outbreak affected many.",
+        "bn": "প্রাদুর্ভাব অনেককে প্রভাবিত করেছে।"
+      },
+      {
+        "en": "Officials reported the outbreak.",
+        "bn": "কর্তৃপক্ষ প্রাদুর্ভাব রিপোর্ট করেছে।"
+      },
+      { "en": "The outbreak was severe.", "bn": "প্রাদুর্ভাব তীব্র ছিল।" },
+      {
+        "en": "They studied the outbreak.",
+        "bn": "তারা প্রাদুর্ভাব অধ্যয়ন করেছে।"
+      },
+      {
+        "en": "The outbreak ended later.",
+        "bn": "প্রাদুর্ভাব পরে শেষ হয়েছে।"
+      },
+      {
+        "en": "Fear grew during outbreak.",
+        "bn": "প্রাদুর্ভাবের সময় ভয় বেড়েছে।"
+      },
+      {
+        "en": "The outbreak spread globally.",
+        "bn": "প্রাদুর্ভাব বিশ্বব্যাপী ছড়িয়েছে।"
+      }
+    ],
+    "synonyms": ["epidemic", "eruption", "spread", "flare-up"]
+  },
+  {
+    "base": "outcast",
+    "phonetic": "ˈaʊtkæst",
+    "meaning": "বহিষ্কৃত ব্যক্তি",
+    "examples": [
+      { "en": "He lived as an outcast.", "bn": "সে বহিষ্কৃত হিসেবে বাস করত।" },
+      { "en": "She felt like an outcast.", "bn": "সে নিজেকে বহিষ্কৃত মনে করত।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The outcast had no friends.",
+        "bn": "বহিষ্কৃত ব্যক্তির কোনো বন্ধু ছিল না।"
+      },
+      { "en": "He became an outcast.", "bn": "সে বহিষ্কৃত হয়ে গেছে।" },
+      {
+        "en": "She was treated as an outcast.",
+        "bn": "তাকে বহিষ্কৃত হিসেবে আচরণ করা হয়েছে।"
+      },
+      {
+        "en": "The outcast left the group.",
+        "bn": "বহিষ্কৃত ব্যক্তি দল ছেড়েছে।"
+      },
+      { "en": "He felt like an outcast.", "bn": "সে বহিষ্কৃত অনুভব করেছে।" },
+      {
+        "en": "Society made him an outcast.",
+        "bn": "সমাজ তাকে বহিষ্কৃত করেছে।"
+      },
+      {
+        "en": "The outcast survived alone.",
+        "bn": "বহিষ্কৃত ব্যক্তি একা বেঁচে ছিল।"
+      },
+      {
+        "en": "She helped the outcast.",
+        "bn": "সে বহিষ্কৃত ব্যক্তিকে সাহায্য করেছে।"
+      },
+      {
+        "en": "He was seen as an outcast.",
+        "bn": "তাকে বহিষ্কৃত হিসেবে দেখা হয়েছে।"
+      },
+      {
+        "en": "The outcast wandered alone.",
+        "bn": "বহিষ্কৃত ব্যক্তি একা ঘুরে বেড়িয়েছে।"
+      }
+    ],
+    "synonyms": ["rejected person", "pariah", "exile", "misfit"]
+  },
+  {
+    "base": "outline",
+    "phonetic": "ˈaʊtlaɪn",
+    "meaning": "রূপরেখা / সংক্ষিপ্ত বিবরণ",
+    "examples": [
+      { "en": "He drew an outline.", "bn": "সে একটি রূপরেখা এঁকেছে।" },
+      { "en": "She outlined the plan.", "bn": "সে পরিকল্পনার রূপরেখা দিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "The outline is clear.", "bn": "রূপরেখাটি স্পষ্ট।" },
+      { "en": "He outlined the story.", "bn": "সে গল্পের রূপরেখা দিয়েছে।" },
+      { "en": "We followed the outline.", "bn": "আমরা রূপরেখা অনুসরণ করেছি।" },
+      { "en": "The outline is simple.", "bn": "রূপরেখাটি সহজ।" },
+      {
+        "en": "She prepared an outline.",
+        "bn": "সে একটি রূপরেখা প্রস্তুত করেছে।"
+      },
+      {
+        "en": "Outline helps understanding.",
+        "bn": "রূপরেখা বোঝাতে সাহায্য করে।"
+      },
+      { "en": "He explained the outline.", "bn": "সে রূপরেখা ব্যাখ্যা করেছে।" },
+      {
+        "en": "The outline changed later.",
+        "bn": "রূপরেখা পরে পরিবর্তিত হয়েছে।"
+      },
+      {
+        "en": "They approved the outline.",
+        "bn": "তারা রূপরেখা অনুমোদন করেছে।"
+      },
+      {
+        "en": "She wrote the outline first.",
+        "bn": "সে প্রথমে রূপরেখা লিখেছে।"
+      }
+    ],
+    "synonyms": ["plan", "summary", "framework", "sketch"]
+  },
+  {
+    "base": "output",
+    "phonetic": "ˈaʊtpʊt",
+    "meaning": "উৎপাদন / ফলাফল",
+    "examples": [
+      { "en": "The output is high.", "bn": "উৎপাদন বেশি।" },
+      { "en": "Factory output increased.", "bn": "কারখানার উৎপাদন বেড়েছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Output depends on input.",
+        "bn": "উৎপাদন ইনপুটের উপর নির্ভর করে।"
+      },
+      { "en": "The output was low.", "bn": "উৎপাদন কম ছিল।" },
+      { "en": "We measured output.", "bn": "আমরা উৎপাদন মেপেছি।" },
+      { "en": "Output improved today.", "bn": "আজ উৎপাদন উন্নত হয়েছে।" },
+      { "en": "They increased output.", "bn": "তারা উৎপাদন বাড়িয়েছে।" },
+      { "en": "System output is stable.", "bn": "সিস্টেমের আউটপুট স্থিতিশীল।" },
+      { "en": "Output is important.", "bn": "উৎপাদন গুরুত্বপূর্ণ।" },
+      {
+        "en": "The machine output failed.",
+        "bn": "মেশিনের আউটপুট ব্যর্থ হয়েছে।"
+      },
+      { "en": "Output quality matters.", "bn": "উৎপাদনের মান গুরুত্বপূর্ণ।" },
+      { "en": "They analyzed output.", "bn": "তারা উৎপাদন বিশ্লেষণ করেছে।" }
+    ],
+    "synonyms": ["production", "result", "yield", "performance"]
+  },
+  {
+    "base": "outstanding",
+    "phonetic": "ˌaʊtˈstændɪŋ",
+    "meaning": "অসাধারণ / বকেয়া",
+    "examples": [
+      { "en": "He is an outstanding student.", "bn": "সে একজন অসাধারণ ছাত্র।" },
+      { "en": "There is an outstanding bill.", "bn": "একটি বকেয়া বিল আছে।" }
+    ],
+    "moreexample": [
+      { "en": "She did an outstanding job.", "bn": "সে অসাধারণ কাজ করেছে।" },
+      {
+        "en": "His performance is outstanding.",
+        "bn": "তার পারফরম্যান্স অসাধারণ।"
+      },
+      {
+        "en": "Outstanding results were achieved.",
+        "bn": "অসাধারণ ফলাফল অর্জিত হয়েছে।"
+      },
+      { "en": "He has outstanding skills.", "bn": "তার অসাধারণ দক্ষতা আছে।" },
+      {
+        "en": "The issue is still outstanding.",
+        "bn": "সমস্যাটি এখনও বকেয়া।"
+      },
+      { "en": "She is outstanding in class.", "bn": "সে ক্লাসে অসাধারণ।" },
+      {
+        "en": "Outstanding payment remains.",
+        "bn": "বকেয়া পেমেন্ট রয়ে গেছে।"
+      },
+      {
+        "en": "They are outstanding athletes.",
+        "bn": "তারা অসাধারণ অ্যাথলেট।"
+      },
+      { "en": "The work is outstanding.", "bn": "কাজটি অসাধারণ।" },
+      {
+        "en": "Outstanding issues were solved.",
+        "bn": "বকেয়া সমস্যা সমাধান হয়েছে।"
+      }
+    ],
+    "synonyms": ["excellent", "remarkable", "superb", "unpaid"]
+  },
+  {
+    "base": "outlook",
+    "phonetic": "ˈaʊtlʊk",
+    "meaning": "দৃষ্টিভঙ্গি / ভবিষ্যৎ সম্ভাবনা",
+    "examples": [
+      {
+        "en": "She has a positive outlook.",
+        "bn": "তার ইতিবাচক দৃষ্টিভঙ্গি আছে।"
+      },
+      { "en": "The economic outlook is good.", "bn": "অর্থনৈতিক ভবিষ্যৎ ভালো।" }
+    ],
+    "moreexample": [
+      { "en": "His outlook is optimistic.", "bn": "তার দৃষ্টিভঙ্গি আশাবাদী।" },
+      { "en": "The outlook changed.", "bn": "দৃষ্টিভঙ্গি পরিবর্তিত হয়েছে।" },
+      {
+        "en": "She improved her outlook.",
+        "bn": "সে তার দৃষ্টিভঙ্গি উন্নত করেছে।"
+      },
+      { "en": "Weather outlook is bad.", "bn": "আবহাওয়ার পূর্বাভাস খারাপ।" },
+      {
+        "en": "Outlook depends on situation.",
+        "bn": "দৃষ্টিভঙ্গি পরিস্থিতির উপর নির্ভর করে।"
+      },
+      {
+        "en": "He has a negative outlook.",
+        "bn": "তার নেতিবাচক দৃষ্টিভঙ্গি আছে।"
+      },
+      { "en": "The outlook looks bright.", "bn": "ভবিষ্যৎ উজ্জ্বল দেখাচ্ছে।" },
+      {
+        "en": "They share the same outlook.",
+        "bn": "তাদের একই দৃষ্টিভঙ্গি আছে।"
+      },
+      {
+        "en": "Her outlook inspires others.",
+        "bn": "তার দৃষ্টিভঙ্গি অন্যদের অনুপ্রাণিত করে।"
+      },
+      {
+        "en": "Market outlook is uncertain.",
+        "bn": "বাজারের ভবিষ্যৎ অনিশ্চিত।"
+      }
+    ],
+    "synonyms": ["perspective", "view", "attitude", "forecast"]
+  },
+
+  {
+    "base": "oasis",
+    "phonetic": "oʊˈeɪsɪs",
+    "meaning": "মরুদ্যান",
+    "examples": [
+      {
+        "en": "They found an oasis in the desert.",
+        "bn": "তারা মরুভূমিতে একটি মরুদ্যান খুঁজে পেয়েছে।"
+      },
+      {
+        "en": "The oasis provided water and shade.",
+        "bn": "মরুদ্যান পানি ও ছায়া দিয়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Travelers rested at the oasis.",
+        "bn": "ভ্রমণকারীরা মরুদ্যানে বিশ্রাম নিয়েছে।"
+      },
+      {
+        "en": "The oasis looked peaceful.",
+        "bn": "মরুদ্যানটি শান্তিপূর্ণ দেখাচ্ছিল।"
+      },
+      {
+        "en": "Animals gathered around the oasis.",
+        "bn": "প্রাণীরা মরুদ্যানে জড়ো হয়েছে।"
+      },
+      {
+        "en": "The oasis is rare in deserts.",
+        "bn": "মরুভূমিতে মরুদ্যান বিরল।"
+      },
+      {
+        "en": "They camped near the oasis.",
+        "bn": "তারা মরুদ্যানের পাশে ক্যাম্প করেছে।"
+      },
+      {
+        "en": "Fresh water flows in the oasis.",
+        "bn": "মরুদ্যানে বিশুদ্ধ পানি প্রবাহিত হয়।"
+      },
+      {
+        "en": "The oasis saved their lives.",
+        "bn": "মরুদ্যান তাদের জীবন বাঁচিয়েছে।"
+      },
+      {
+        "en": "She enjoyed the oasis view.",
+        "bn": "সে মরুদ্যানের দৃশ্য উপভোগ করেছে।"
+      },
+      {
+        "en": "The oasis was surrounded by sand.",
+        "bn": "মরুদ্যানটি বালু দ্বারা ঘেরা ছিল।"
+      },
+      {
+        "en": "Oases are important for survival.",
+        "bn": "মরুদ্যান বেঁচে থাকার জন্য গুরুত্বপূর্ণ।"
+      }
+    ],
+    "synonyms": ["refuge", "haven", "retreat", "sanctuary"]
+  },
+  {
+    "base": "oath",
+    "phonetic": "oʊθ",
+    "meaning": "শপথ",
+    "examples": [
+      { "en": "He took an oath.", "bn": "সে শপথ নিয়েছে।" },
+      { "en": "She broke her oath.", "bn": "সে তার শপথ ভঙ্গ করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "The judge gave an oath.", "bn": "বিচারক শপথ করিয়েছেন।" },
+      {
+        "en": "They swore an oath of loyalty.",
+        "bn": "তারা আনুগত্যের শপথ নিয়েছে।"
+      },
+      { "en": "He kept his oath.", "bn": "সে তার শপথ রেখেছে।" },
+      { "en": "The oath was serious.", "bn": "শপথটি গুরুতর ছিল।" },
+      { "en": "She took a medical oath.", "bn": "সে চিকিৎসা শপথ নিয়েছে।" },
+      { "en": "Breaking an oath is wrong.", "bn": "শপথ ভঙ্গ করা ভুল।" },
+      { "en": "He made an oath to serve.", "bn": "সে সেবা করার শপথ নিয়েছে।" },
+      { "en": "The oath was public.", "bn": "শপথটি প্রকাশ্যে নেওয়া হয়েছে।" },
+      { "en": "They repeated the oath.", "bn": "তারা শপথ পুনরাবৃত্তি করেছে।" },
+      {
+        "en": "An oath binds responsibility.",
+        "bn": "শপথ দায়িত্ব বেঁধে দেয়।"
+      }
+    ],
+    "synonyms": ["promise", "pledge", "vow", "swear"]
+  },
+  {
+    "base": "ocean",
+    "phonetic": "ˈoʊʃn",
+    "meaning": "মহাসাগর",
+    "examples": [
+      { "en": "The ocean is deep.", "bn": "মহাসাগর গভীর।" },
+      { "en": "We swam in the ocean.", "bn": "আমরা মহাসাগরে সাঁতার কাটলাম।" }
+    ],
+    "moreexample": [
+      { "en": "The ocean is vast.", "bn": "মহাসাগর বিশাল।" },
+      { "en": "Waves move in the ocean.", "bn": "মহাসাগরে ঢেউ চলে।" },
+      { "en": "Fish live in the ocean.", "bn": "মাছ মহাসাগরে বাস করে।" },
+      { "en": "The ocean is salty.", "bn": "মহাসাগর লবণাক্ত।" },
+      { "en": "They sailed the ocean.", "bn": "তারা মহাসাগর পাড়ি দিয়েছে।" },
+      { "en": "The ocean covers Earth.", "bn": "মহাসাগর পৃথিবী ঢেকে রেখেছে।" },
+      { "en": "Storms form in the ocean.", "bn": "ঝড় মহাসাগরে তৈরি হয়।" },
+      { "en": "The ocean is beautiful.", "bn": "মহাসাগর সুন্দর।" },
+      { "en": "Pollution harms the ocean.", "bn": "দূষণ মহাসাগরের ক্ষতি করে।" },
+      { "en": "They studied the ocean.", "bn": "তারা মহাসাগর অধ্যয়ন করেছে।" }
+    ],
+    "synonyms": ["sea", "water body", "deep sea"]
+  },
+  {
+    "base": "obtain",
+    "phonetic": "əbˈteɪn",
+    "meaning": "অর্জন করা / পাওয়া",
+    "examples": [
+      { "en": "He obtained a degree.", "bn": "সে একটি ডিগ্রি অর্জন করেছে।" },
+      { "en": "We obtained permission.", "bn": "আমরা অনুমতি পেয়েছি।" }
+    ],
+    "moreexample": [
+      { "en": "She obtained the result.", "bn": "সে ফলাফল পেয়েছে।" },
+      { "en": "They obtained documents.", "bn": "তারা নথি সংগ্রহ করেছে।" },
+      { "en": "He obtained success.", "bn": "সে সাফল্য অর্জন করেছে।" },
+      { "en": "We obtained information.", "bn": "আমরা তথ্য পেয়েছি।" },
+      { "en": "She obtained a job.", "bn": "সে একটি চাকরি পেয়েছে।" },
+      { "en": "They obtained approval.", "bn": "তারা অনুমোদন পেয়েছে।" },
+      { "en": "He obtained knowledge.", "bn": "সে জ্ঞান অর্জন করেছে।" },
+      { "en": "You can obtain help.", "bn": "তুমি সাহায্য পেতে পারো।" },
+      { "en": "They obtained resources.", "bn": "তারা সম্পদ পেয়েছে।" },
+      { "en": "She obtained data.", "bn": "সে ডেটা সংগ্রহ করেছে।" }
+    ],
+    "synonyms": ["get", "acquire", "gain", "secure"]
+  },
+  {
+    "base": "obscure",
+    "phonetic": "əbˈskjʊr",
+    "meaning": "অস্পষ্ট / অজানা",
+    "examples": [
+      { "en": "The meaning is obscure.", "bn": "অর্থটি অস্পষ্ট।" },
+      { "en": "He is an obscure writer.", "bn": "সে একজন অজানা লেখক।" }
+    ],
+    "moreexample": [
+      { "en": "The text is obscure.", "bn": "লেখাটি অস্পষ্ট।" },
+      { "en": "His identity is obscure.", "bn": "তার পরিচয় অস্পষ্ট।" },
+      { "en": "The reason is obscure.", "bn": "কারণটি অস্পষ্ট।" },
+      { "en": "She wrote obscure poetry.", "bn": "সে অস্পষ্ট কবিতা লিখেছে।" },
+      { "en": "The idea is obscure.", "bn": "ধারণাটি অস্পষ্ট।" },
+      { "en": "He remained obscure.", "bn": "সে অজানা রয়ে গেছে।" },
+      { "en": "The path is obscure.", "bn": "পথটি অস্পষ্ট।" },
+      { "en": "The rule is obscure.", "bn": "নিয়মটি অস্পষ্ট।" },
+      {
+        "en": "They studied obscure topics.",
+        "bn": "তারা অজানা বিষয় অধ্যয়ন করেছে।"
+      },
+      { "en": "The truth remains obscure.", "bn": "সত্যটি অস্পষ্ট রয়ে গেছে।" }
+    ],
+    "synonyms": ["unclear", "hidden", "vague", "unknown"]
+  },
+  {
+    "base": "observe",
+    "phonetic": "əbˈzɜːrv",
+    "meaning": "পর্যবেক্ষণ করা",
+    "examples": [
+      { "en": "We observe nature.", "bn": "আমরা প্রকৃতি পর্যবেক্ষণ করি।" },
+      { "en": "He observed the behavior.", "bn": "সে আচরণ পর্যবেক্ষণ করেছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Scientists observe stars.",
+        "bn": "বিজ্ঞানীরা তারা পর্যবেক্ষণ করে।"
+      },
+      {
+        "en": "She observed carefully.",
+        "bn": "সে সতর্কভাবে পর্যবেক্ষণ করেছে।"
+      },
+      { "en": "We observe rules.", "bn": "আমরা নিয়ম পালন করি।" },
+      { "en": "He observed changes.", "bn": "সে পরিবর্তন পর্যবেক্ষণ করেছে।" },
+      { "en": "They observed the event.", "bn": "তারা ঘটনা পর্যবেক্ষণ করেছে।" },
+      { "en": "I observed silence.", "bn": "আমি নীরবতা পালন করেছি।" },
+      { "en": "She observed details.", "bn": "সে বিস্তারিত পর্যবেক্ষণ করেছে।" },
+      { "en": "They observed animals.", "bn": "তারা প্রাণী পর্যবেক্ষণ করেছে।" },
+      { "en": "He observed everything.", "bn": "সে সবকিছু পর্যবেক্ষণ করেছে।" },
+      {
+        "en": "We observed the situation.",
+        "bn": "আমরা পরিস্থিতি পর্যবেক্ষণ করেছি।"
+      }
+    ],
+    "synonyms": ["watch", "notice", "examine", "monitor"]
+  },
+  {
+    "base": "obstacle",
+    "phonetic": "ˈɒbstəkl",
+    "meaning": "বাধা",
+    "examples": [
+      { "en": "Fear is an obstacle.", "bn": "ভয় একটি বাধা।" },
+      { "en": "He overcame obstacles.", "bn": "সে বাধা অতিক্রম করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "The road has obstacles.", "bn": "রাস্তায় বাধা আছে।" },
+      { "en": "She removed obstacles.", "bn": "সে বাধা দূর করেছে।" },
+      { "en": "Obstacles slow progress.", "bn": "বাধা অগ্রগতি ধীর করে।" },
+      { "en": "He faced obstacles.", "bn": "সে বাধার মুখোমুখি হয়েছে।" },
+      { "en": "They cleared obstacles.", "bn": "তারা বাধা সরিয়ে দিয়েছে।" },
+      { "en": "Obstacle made it hard.", "bn": "বাধা এটিকে কঠিন করেছে।" },
+      { "en": "We avoid obstacles.", "bn": "আমরা বাধা এড়াই।" },
+      { "en": "Obstacles are common.", "bn": "বাধা সাধারণ।" },
+      { "en": "She jumped obstacles.", "bn": "সে বাধা অতিক্রম করেছে।" },
+      { "en": "Nothing stopped obstacles.", "bn": "কিছুই বাধা থামাতে পারেনি।" }
+    ],
+    "synonyms": ["barrier", "hindrance", "block", "difficulty"]
+  },
+  {
+    "base": "overflow",
+    "phonetic": "ˌoʊvərˈfloʊ",
+    "meaning": "উপচে পড়া",
+    "examples": [
+      { "en": "The river overflowed.", "bn": "নদী উপচে পড়েছে।" },
+      {
+        "en": "The cup overflowed with water.",
+        "bn": "কাপটি পানি দিয়ে উপচে পড়েছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The tank overflowed.", "bn": "ট্যাঙ্ক উপচে পড়েছে।" },
+      { "en": "Emotion overflowed.", "bn": "আবেগ উপচে পড়েছে।" },
+      {
+        "en": "The room overflowed with people.",
+        "bn": "ঘরটি মানুষে উপচে পড়েছে।"
+      },
+      { "en": "Water overflowed the bucket.", "bn": "পানি বালতি উপচে পড়েছে।" },
+      {
+        "en": "Her heart overflowed with joy.",
+        "bn": "তার হৃদয় আনন্দে উপচে পড়েছে।"
+      },
+      { "en": "The drain overflowed.", "bn": "নর্দমা উপচে পড়েছে।" },
+      { "en": "Crowd overflowed the hall.", "bn": "ভিড় হল উপচে পড়েছে।" },
+      { "en": "The river overflowed banks.", "bn": "নদী তীর উপচে পড়েছে।" },
+      { "en": "Feelings overflowed.", "bn": "অনুভূতি উপচে পড়েছে।" },
+      { "en": "The container overflowed.", "bn": "পাত্রটি উপচে পড়েছে।" }
+    ],
+    "synonyms": ["spill", "flood", "overrun", "spill over"]
+  },
+  {
+    "base": "overlap",
+    "phonetic": "ˌoʊvərˈlæp",
+    "meaning": "ওভারল্যাপ করা / আংশিক মিল",
+    "examples": [
+      { "en": "Their schedules overlap.", "bn": "তাদের সময়সূচি মিলে গেছে।" },
+      { "en": "The images overlap.", "bn": "ছবিগুলো ওভারল্যাপ করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "The circles overlap.", "bn": "বৃত্তগুলো ওভারল্যাপ করেছে।" },
+      { "en": "Their duties overlap.", "bn": "তাদের দায়িত্ব মিলে গেছে।" },
+      { "en": "The topics overlap.", "bn": "বিষয়গুলো ওভারল্যাপ করে।" },
+      {
+        "en": "Layers overlap each other.",
+        "bn": "স্তরগুলো একে অপরকে ওভারল্যাপ করে।"
+      },
+      { "en": "The work overlaps.", "bn": "কাজগুলো মিলে গেছে।" },
+      { "en": "Their opinions overlap.", "bn": "তাদের মতামত মিলে গেছে।" },
+      {
+        "en": "Maps overlap slightly.",
+        "bn": "মানচিত্রগুলো সামান্য ওভারল্যাপ করে।"
+      },
+      {
+        "en": "The schedules overlap badly.",
+        "bn": "সময়সূচি খারাপভাবে মিলে গেছে।"
+      },
+      { "en": "Tasks overlap often.", "bn": "কাজগুলো প্রায়ই মিলে যায়।" },
+      {
+        "en": "Ideas overlap in discussion.",
+        "bn": "আলোচনায় ধারণা মিলে যায়।"
+      }
+    ],
+    "synonyms": ["intersect", "coincide", "cover", "merge"]
+  },
+  {
+    "base": "oversee",
+    "phonetic": "ˌoʊvərˈsiː",
+    "meaning": "তত্ত্বাবধান করা",
+    "examples": [
+      {
+        "en": "She oversees the project.",
+        "bn": "সে প্রকল্প তত্ত্বাবধান করে।"
+      },
+      { "en": "He oversees operations.", "bn": "সে কার্যক্রম তত্ত্বাবধান করে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Manager oversees workers.",
+        "bn": "ম্যানেজার কর্মীদের তত্ত্বাবধান করে।"
+      },
+      {
+        "en": "They oversee construction.",
+        "bn": "তারা নির্মাণ কাজ তত্ত্বাবধান করে।"
+      },
+      { "en": "She oversees staff.", "bn": "সে কর্মীদের তত্ত্বাবধান করে।" },
+      { "en": "He oversees the system.", "bn": "সে সিস্টেম তত্ত্বাবধান করে।" },
+      { "en": "We oversee production.", "bn": "আমরা উৎপাদন তত্ত্বাবধান করি।" },
+      { "en": "They oversee education.", "bn": "তারা শিক্ষা তত্ত্বাবধান করে।" },
+      { "en": "She oversees quality.", "bn": "সে গুণমান তত্ত্বাবধান করে।" },
+      {
+        "en": "He oversees daily work.",
+        "bn": "সে দৈনন্দিন কাজ তত্ত্বাবধান করে।"
+      },
+      {
+        "en": "Experts oversee progress.",
+        "bn": "বিশেষজ্ঞরা অগ্রগতি তত্ত্বাবধান করে।"
+      },
+      {
+        "en": "They oversee safety rules.",
+        "bn": "তারা নিরাপত্তা নিয়ম তত্ত্বাবধান করে।"
+      }
+    ],
+    "synonyms": ["supervise", "manage", "monitor", "control"]
+  },
+
+  {
+    "base": "overtake",
+    "phonetic": "ˌoʊvərˈteɪk",
+    "meaning": "অতিক্রম করে সামনে চলে যাওয়া",
+    "examples": [
+      {
+        "en": "The car overtook the bus.",
+        "bn": "গাড়িটি বাসকে অতিক্রম করেছে।"
+      },
+      {
+        "en": "She overtook her competitor.",
+        "bn": "সে তার প্রতিযোগীকে অতিক্রম করেছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He overtook the runner.", "bn": "সে দৌড়বিদকে অতিক্রম করেছে।" },
+      {
+        "en": "The bike overtook traffic.",
+        "bn": "বাইকটি ট্রাফিককে অতিক্রম করেছে।"
+      },
+      { "en": "They overtook in the race.", "bn": "তারা দৌড়ে অতিক্রম করেছে।" },
+      {
+        "en": "She quickly overtook him.",
+        "bn": "সে দ্রুত তাকে অতিক্রম করেছে।"
+      },
+      {
+        "en": "The car overtook safely.",
+        "bn": "গাড়িটি নিরাপদে অতিক্রম করেছে।"
+      },
+      {
+        "en": "He overtook many players.",
+        "bn": "সে অনেক খেলোয়াড়কে অতিক্রম করেছে।"
+      },
+      {
+        "en": "The cyclist overtook vehicles.",
+        "bn": "সাইকেলচালক যানবাহন অতিক্রম করেছে।"
+      },
+      { "en": "She overtook the leader.", "bn": "সে নেতাকে অতিক্রম করেছে।" },
+      {
+        "en": "They overtook at high speed.",
+        "bn": "তারা উচ্চ গতিতে অতিক্রম করেছে।"
+      },
+      {
+        "en": "He overtook on the highway.",
+        "bn": "সে হাইওয়েতে অতিক্রম করেছে।"
+      }
+    ],
+    "synonyms": ["pass", "surpass", "go beyond", "outpace"]
+  },
+  {
+    "base": "overturn",
+    "phonetic": "ˌoʊvərˈtɜːrn",
+    "meaning": "উল্টে দেওয়া / বাতিল করা",
+    "examples": [
+      {
+        "en": "The decision was overturned.",
+        "bn": "সিদ্ধান্তটি বাতিল করা হয়েছে।"
+      },
+      { "en": "The boat overturned.", "bn": "নৌকাটি উল্টে গেছে।" }
+    ],
+    "moreexample": [
+      { "en": "They overturned the law.", "bn": "তারা আইনটি বাতিল করেছে।" },
+      { "en": "The table overturned.", "bn": "টেবিলটি উল্টে গেছে।" },
+      {
+        "en": "The court overturned the verdict.",
+        "bn": "আদালত রায় বাতিল করেছে।"
+      },
+      {
+        "en": "The truck overturned on road.",
+        "bn": "ট্রাকটি রাস্তায় উল্টে গেছে।"
+      },
+      { "en": "He overturned the plan.", "bn": "সে পরিকল্পনা বাতিল করেছে।" },
+      { "en": "The policy was overturned.", "bn": "নীতিটি বাতিল করা হয়েছে।" },
+      { "en": "Wind overturned trees.", "bn": "বাতাস গাছ উল্টে দিয়েছে।" },
+      {
+        "en": "The decision got overturned.",
+        "bn": "সিদ্ধান্তটি বাতিল হয়েছে।"
+      },
+      {
+        "en": "She overturned the argument.",
+        "bn": "সে যুক্তিটি বাতিল করেছে।"
+      },
+      { "en": "The car overturned suddenly.", "bn": "গাড়িটি হঠাৎ উল্টে গেছে।" }
+    ],
+    "synonyms": ["reverse", "cancel", "flip", "annul"]
+  },
+  {
+    "base": "overwhelm",
+    "phonetic": "ˌoʊvərˈwelm",
+    "meaning": "অভিভূত করা",
+    "examples": [
+      { "en": "The news overwhelmed her.", "bn": "সংবাদ তাকে অভিভূত করেছে।" },
+      { "en": "He felt overwhelmed.", "bn": "সে অভিভূত অনুভব করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "She was overwhelmed with joy.", "bn": "সে আনন্দে অভিভূত ছিল।" },
+      { "en": "The crowd overwhelmed him.", "bn": "ভিড় তাকে অভিভূত করেছে।" },
+      { "en": "Work overwhelmed her.", "bn": "কাজ তাকে অভিভূত করেছে।" },
+      { "en": "They felt overwhelmed.", "bn": "তারা অভিভূত অনুভব করেছে।" },
+      { "en": "Emotion overwhelmed him.", "bn": "আবেগ তাকে অভিভূত করেছে।" },
+      {
+        "en": "The situation overwhelmed them.",
+        "bn": "পরিস্থিতি তাদের অভিভূত করেছে।"
+      },
+      { "en": "She got overwhelmed easily.", "bn": "সে সহজেই অভিভূত হয়।" },
+      {
+        "en": "He was overwhelmed by success.",
+        "bn": "সে সাফল্যে অভিভূত হয়েছে।"
+      },
+      {
+        "en": "Noise overwhelmed the room.",
+        "bn": "শব্দ ঘরটিকে অভিভূত করেছে।"
+      },
+      {
+        "en": "Life sometimes overwhelms us.",
+        "bn": "জীবন কখনো কখনো আমাদের অভিভূত করে।"
+      }
+    ],
+    "synonyms": ["flood", "overpower", "dominate", "bury"]
+  },
+  {
+    "base": "oversee",
+    "phonetic": "ˌoʊvərˈsiː",
+    "meaning": "তত্ত্বাবধান করা",
+    "examples": [
+      {
+        "en": "She oversees operations.",
+        "bn": "সে কার্যক্রম তত্ত্বাবধান করে।"
+      },
+      { "en": "He oversees the project.", "bn": "সে প্রকল্প তত্ত্বাবধান করে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Managers oversee staff.",
+        "bn": "ম্যানেজাররা কর্মীদের তত্ত্বাবধান করে।"
+      },
+      {
+        "en": "They oversee production.",
+        "bn": "তারা উৎপাদন তত্ত্বাবধান করে।"
+      },
+      { "en": "She oversees quality.", "bn": "সে গুণমান তত্ত্বাবধান করে।" },
+      { "en": "He oversees work.", "bn": "সে কাজ তত্ত্বাবধান করে।" },
+      {
+        "en": "Experts oversee progress.",
+        "bn": "বিশেষজ্ঞরা অগ্রগতি তত্ত্বাবধান করে।"
+      },
+      { "en": "They oversee safety.", "bn": "তারা নিরাপত্তা তত্ত্বাবধান করে।" },
+      { "en": "She oversees design.", "bn": "সে ডিজাইন তত্ত্বাবধান করে।" },
+      { "en": "He oversees finance.", "bn": "সে অর্থ তত্ত্বাবধান করে।" },
+      {
+        "en": "We oversee daily tasks.",
+        "bn": "আমরা দৈনন্দিন কাজ তত্ত্বাবধান করি।"
+      },
+      {
+        "en": "They oversee development.",
+        "bn": "তারা উন্নয়ন তত্ত্বাবধান করে।"
+      }
+    ],
+    "synonyms": ["supervise", "manage", "monitor", "control"]
+  },
+  {
+    "base": "overvalue",
+    "phonetic": "ˌoʊvərˈvæljuː",
+    "meaning": "অতিরিক্ত মূল্য দেওয়া",
+    "examples": [
+      { "en": "Don’t overvalue money.", "bn": "টাকার অতিরিক্ত মূল্য দিও না।" },
+      {
+        "en": "He overvalues success.",
+        "bn": "সে সাফল্যকে অতিরিক্ত মূল্য দেয়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "People overvalue fame.",
+        "bn": "মানুষ খ্যাতিকে অতিরিক্ত মূল্য দেয়।"
+      },
+      {
+        "en": "She overvalued the product.",
+        "bn": "সে পণ্যকে অতিরিক্ত মূল্য দিয়েছে।"
+      },
+      {
+        "en": "Don’t overvalue opinions.",
+        "bn": "মতামতকে অতিরিক্ত মূল্য দিও না।"
+      },
+      {
+        "en": "He overvalues himself.",
+        "bn": "সে নিজেকে অতিরিক্ত মূল্য দেয়।"
+      },
+      {
+        "en": "They overvalued assets.",
+        "bn": "তারা সম্পদ অতিরিক্ত মূল্য দিয়েছে।"
+      },
+      {
+        "en": "She overvalues praise.",
+        "bn": "সে প্রশংসাকে অতিরিক্ত মূল্য দেয়।"
+      },
+      {
+        "en": "We often overvalue things.",
+        "bn": "আমরা প্রায়ই জিনিসকে অতিরিক্ত মূল্য দিই।"
+      },
+      {
+        "en": "He overvalued the deal.",
+        "bn": "সে চুক্তিকে অতিরিক্ত মূল্য দিয়েছে।"
+      },
+      {
+        "en": "Don’t overvalue material things.",
+        "bn": "ভৌত জিনিসকে অতিরিক্ত মূল্য দিও না।"
+      },
+      {
+        "en": "They overvalue popularity.",
+        "bn": "তারা জনপ্রিয়তাকে অতিরিক্ত মূল্য দেয়।"
+      }
+    ],
+    "synonyms": ["exaggerate value", "overestimate", "inflate", "magnify"]
+  },
+  {
+    "base": "overweight",
+    "phonetic": "ˌoʊvərˈweɪt",
+    "meaning": "অতিরিক্ত ওজন",
+    "examples": [
+      { "en": "He is overweight.", "bn": "সে অতিরিক্ত ওজনের।" },
+      {
+        "en": "Overweight causes health issues.",
+        "bn": "অতিরিক্ত ওজন স্বাস্থ্য সমস্যা সৃষ্টি করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She is slightly overweight.",
+        "bn": "সে সামান্য অতিরিক্ত ওজনের।"
+      },
+      {
+        "en": "Overweight affects health.",
+        "bn": "অতিরিক্ত ওজন স্বাস্থ্যে প্রভাব ফেলে।"
+      },
+      { "en": "He became overweight.", "bn": "সে অতিরিক্ত ওজনের হয়ে গেছে।" },
+      {
+        "en": "Doctors warned about overweight.",
+        "bn": "ডাক্তাররা অতিরিক্ত ওজন সম্পর্কে সতর্ক করেছে।"
+      },
+      { "en": "She lost overweight.", "bn": "সে অতিরিক্ত ওজন কমিয়েছে।" },
+      { "en": "Overweight is common.", "bn": "অতিরিক্ত ওজন সাধারণ।" },
+      {
+        "en": "They checked overweight issues.",
+        "bn": "তারা অতিরিক্ত ওজন সমস্যা পরীক্ষা করেছে।"
+      },
+      {
+        "en": "Overweight leads to disease.",
+        "bn": "অতিরিক্ত ওজন রোগের কারণ হয়।"
+      },
+      { "en": "He reduced overweight.", "bn": "সে অতিরিক্ত ওজন কমিয়েছে।" },
+      { "en": "She avoids overweight.", "bn": "সে অতিরিক্ত ওজন এড়ায়।" }
+    ],
+    "synonyms": ["fat", "heavy", "obese", "plump"]
+  },
+  {
+    "base": "oyster",
+    "phonetic": "ˈɔɪstər",
+    "meaning": "ঝিনুক",
+    "examples": [
+      { "en": "He ate an oyster.", "bn": "সে একটি ঝিনুক খেয়েছে।" },
+      { "en": "Oysters are seafood.", "bn": "ঝিনুক সামুদ্রিক খাবার।" }
+    ],
+    "moreexample": [
+      { "en": "Oysters live in sea.", "bn": "ঝিনুক সমুদ্রে বাস করে।" },
+      { "en": "She opened an oyster.", "bn": "সে একটি ঝিনুক খুলেছে।" },
+      { "en": "Oysters are delicious.", "bn": "ঝিনুক সুস্বাদু।" },
+      { "en": "He collected oysters.", "bn": "সে ঝিনুক সংগ্রহ করেছে।" },
+      { "en": "Oysters are expensive.", "bn": "ঝিনুক দামি।" },
+      { "en": "They farm oysters.", "bn": "তারা ঝিনুক চাষ করে।" },
+      { "en": "The oyster contains pearl.", "bn": "ঝিনুকে মুক্তা থাকতে পারে।" },
+      { "en": "She cooked oysters.", "bn": "সে ঝিনুক রান্না করেছে।" },
+      { "en": "Oysters grow in water.", "bn": "ঝিনুক পানিতে জন্মায়।" },
+      { "en": "He bought oysters.", "bn": "সে ঝিনুক কিনেছে।" }
+    ],
+    "synonyms": ["shellfish", "sea food mollusk"]
+  },
+
+  {
+    "base": "oxygen",
+    "phonetic": "ˈɒksɪdʒən",
+    "meaning": "অক্সিজেন",
+    "examples": [
+      {
+        "en": "We need oxygen to survive.",
+        "bn": "বেঁচে থাকার জন্য আমাদের অক্সিজেন দরকার।"
+      },
+      { "en": "Oxygen is in the air.", "bn": "বাতাসে অক্সিজেন আছে।" }
+    ],
+    "moreexample": [
+      { "en": "Plants produce oxygen.", "bn": "গাছ অক্সিজেন উৎপন্ন করে।" },
+      {
+        "en": "Fish need oxygen in water.",
+        "bn": "মাছের পানিতে অক্সিজেন দরকার।"
+      },
+      { "en": "Oxygen supports life.", "bn": "অক্সিজেন জীবনকে সমর্থন করে।" },
+      { "en": "He needs oxygen support.", "bn": "তার অক্সিজেন সহায়তা দরকার।" },
+      { "en": "Oxygen levels dropped.", "bn": "অক্সিজেনের মাত্রা কমে গেছে।" },
+      { "en": "Humans breathe oxygen.", "bn": "মানুষ অক্সিজেন শ্বাস নেয়।" },
+      { "en": "Oxygen is essential.", "bn": "অক্সিজেন অত্যাবশ্যক।" },
+      { "en": "The tank contains oxygen.", "bn": "ট্যাঙ্কে অক্সিজেন আছে।" },
+      { "en": "Oxygen flows in blood.", "bn": "অক্সিজেন রক্তে প্রবাহিত হয়।" },
+      {
+        "en": "Without oxygen, life stops.",
+        "bn": "অক্সিজেন ছাড়া জীবন থেমে যায়।"
+      }
+    ],
+    "synonyms": ["life gas", "air element"]
+  },
+  {
+    "base": "oyster",
+    "phonetic": "ˈɔɪstər",
+    "meaning": "ঝিনুক",
+    "examples": [
+      { "en": "He ate an oyster.", "bn": "সে একটি ঝিনুক খেয়েছে।" },
+      { "en": "Oysters are seafood.", "bn": "ঝিনুক সামুদ্রিক খাবার।" }
+    ],
+    "moreexample": [
+      { "en": "Oysters live in the sea.", "bn": "ঝিনুক সমুদ্রে বাস করে।" },
+      { "en": "She opened an oyster.", "bn": "সে একটি ঝিনুক খুলেছে।" },
+      {
+        "en": "Oysters can contain pearls.",
+        "bn": "ঝিনুকে মুক্তা থাকতে পারে।"
+      },
+      { "en": "They farm oysters.", "bn": "তারা ঝিনুক চাষ করে।" },
+      { "en": "Oysters are expensive food.", "bn": "ঝিনুক দামি খাবার।" },
+      { "en": "He collected oysters.", "bn": "সে ঝিনুক সংগ্রহ করেছে।" },
+      { "en": "Oysters grow in saltwater.", "bn": "ঝিনুক লবণ পানিতে জন্মায়।" },
+      { "en": "She cooked oysters.", "bn": "সে ঝিনুক রান্না করেছে।" },
+      { "en": "Oysters are nutritious.", "bn": "ঝিনুক পুষ্টিকর।" },
+      { "en": "He bought fresh oysters.", "bn": "সে তাজা ঝিনুক কিনেছে।" }
+    ],
+    "synonyms": ["shellfish", "sea mollusk"]
+  },
+  {
+    "base": "obtainable",
+    "phonetic": "əbˈteɪnəbl",
+    "meaning": "প্রাপ্তিযোগ্য",
+    "examples": [
+      { "en": "The data is obtainable.", "bn": "ডেটা প্রাপ্তিযোগ্য।" },
+      {
+        "en": "Information is easily obtainable.",
+        "bn": "তথ্য সহজে পাওয়া যায়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The book is obtainable online.",
+        "bn": "বইটি অনলাইনে পাওয়া যায়।"
+      },
+      { "en": "Resources are obtainable.", "bn": "সম্পদ পাওয়া যায়।" },
+      { "en": "The result is obtainable.", "bn": "ফলাফল পাওয়া যায়।" },
+      { "en": "Help is obtainable here.", "bn": "এখানে সাহায্য পাওয়া যায়।" },
+      { "en": "Documents are obtainable.", "bn": "নথি পাওয়া যায়।" },
+      {
+        "en": "It is not easily obtainable.",
+        "bn": "এটি সহজে পাওয়া যায় না।"
+      },
+      { "en": "Materials are obtainable.", "bn": "উপকরণ পাওয়া যায়।" },
+      { "en": "The item is obtainable.", "bn": "আইটেমটি পাওয়া যায়।" },
+      { "en": "Knowledge is obtainable.", "bn": "জ্ঞান অর্জনযোগ্য।" },
+      { "en": "Data is freely obtainable.", "bn": "ডেটা সহজে পাওয়া যায়।" }
+    ],
+    "synonyms": ["accessible", "available", "reachable"]
+  },
+  {
+    "base": "obligation",
+    "phonetic": "ˌɒblɪˈɡeɪʃn",
+    "meaning": "দায়িত্ব / বাধ্যবাধকতা",
+    "examples": [
+      { "en": "You have an obligation.", "bn": "তোমার একটি দায়িত্ব আছে।" },
+      {
+        "en": "He fulfilled his obligation.",
+        "bn": "সে তার দায়িত্ব পূরণ করেছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Legal obligation is important.",
+        "bn": "আইনি দায়িত্ব গুরুত্বপূর্ণ।"
+      },
+      { "en": "She has no obligation.", "bn": "তার কোনো দায়িত্ব নেই।" },
+      {
+        "en": "They met their obligations.",
+        "bn": "তারা তাদের দায়িত্ব পালন করেছে।"
+      },
+      { "en": "Financial obligation exists.", "bn": "আর্থিক দায়িত্ব আছে।" },
+      { "en": "He avoided obligation.", "bn": "সে দায়িত্ব এড়িয়েছে।" },
+      {
+        "en": "Moral obligation matters.",
+        "bn": "নৈতিক দায়িত্ব গুরুত্বপূর্ণ।"
+      },
+      { "en": "We respect obligation.", "bn": "আমরা দায়িত্বকে সম্মান করি।" },
+      { "en": "She accepted obligation.", "bn": "সে দায়িত্ব গ্রহণ করেছে।" },
+      { "en": "Obligation must be clear.", "bn": "দায়িত্ব স্পষ্ট হতে হবে।" },
+      { "en": "They ignored obligation.", "bn": "তারা দায়িত্ব উপেক্ষা করেছে।" }
+    ],
+    "synonyms": ["duty", "responsibility", "commitment", "burden"]
+  },
+  {
+    "base": "obscenity",
+    "phonetic": "əbˈsenəti",
+    "meaning": "অশ্লীলতা",
+    "examples": [
+      { "en": "The film contains obscenity.", "bn": "ছবিটিতে অশ্লীলতা আছে।" },
+      { "en": "He avoided obscenity.", "bn": "সে অশ্লীলতা এড়িয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "Obscenity is not allowed.", "bn": "অশ্লীলতা অনুমোদিত নয়।" },
+      { "en": "The book has obscenity.", "bn": "বইটিতে অশ্লীলতা আছে।" },
+      { "en": "They removed obscenity.", "bn": "তারা অশ্লীলতা সরিয়েছে।" },
+      {
+        "en": "He complained about obscenity.",
+        "bn": "সে অশ্লীলতা নিয়ে অভিযোগ করেছে।"
+      },
+      { "en": "Obscenity laws exist.", "bn": "অশ্লীলতার আইন আছে।" },
+      {
+        "en": "The content includes obscenity.",
+        "bn": "কনটেন্টে অশ্লীলতা আছে।"
+      },
+      {
+        "en": "She rejected obscenity.",
+        "bn": "সে অশ্লীলতা প্রত্যাখ্যান করেছে।"
+      },
+      { "en": "Obscenity is offensive.", "bn": "অশ্লীলতা আপত্তিকর।" },
+      { "en": "They banned obscenity.", "bn": "তারা অশ্লীলতা নিষিদ্ধ করেছে।" },
+      { "en": "Avoid obscenity in speech.", "bn": "কথায় অশ্লীলতা এড়াও।" }
+    ],
+    "synonyms": ["indecency", "vulgarity", "filth", "offensiveness"]
+  },
+  {
+    "base": "obsession",
+    "phonetic": "əbˈseʃn",
+    "meaning": "আসক্তি",
+    "examples": [
+      {
+        "en": "He has an obsession with games.",
+        "bn": "তার গেমের প্রতি আসক্তি আছে।"
+      },
+      { "en": "Her obsession grew.", "bn": "তার আসক্তি বেড়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "Obsession can be harmful.", "bn": "আসক্তি ক্ষতিকর হতে পারে।" },
+      { "en": "He developed an obsession.", "bn": "সে আসক্তি তৈরি করেছে।" },
+      {
+        "en": "She has obsession with fashion.",
+        "bn": "তার ফ্যাশনের প্রতি আসক্তি আছে।"
+      },
+      {
+        "en": "They noticed his obsession.",
+        "bn": "তারা তার আসক্তি লক্ষ্য করেছে।"
+      },
+      {
+        "en": "Obsession controls behavior.",
+        "bn": "আসক্তি আচরণ নিয়ন্ত্রণ করে।"
+      },
+      {
+        "en": "He fights his obsession.",
+        "bn": "সে তার আসক্তির বিরুদ্ধে লড়ে।"
+      },
+      { "en": "Her obsession is music.", "bn": "তার আসক্তি সংগীত।" },
+      {
+        "en": "Obsession can grow strong.",
+        "bn": "আসক্তি শক্তিশালী হতে পারে।"
+      },
+      { "en": "He overcame obsession.", "bn": "সে আসক্তি জয় করেছে।" },
+      { "en": "Obsession affects life.", "bn": "আসক্তি জীবনে প্রভাব ফেলে।" }
+    ],
+    "synonyms": ["fixation", "addiction", "preoccupation", "mania"]
+  },
+  {
+    "base": "obsolete",
+    "phonetic": "ˈɒbsəliːt",
+    "meaning": "অপ্রচলিত",
+    "examples": [
+      { "en": "The technology is obsolete.", "bn": "প্রযুক্তিটি অপ্রচলিত।" },
+      { "en": "Old phones are obsolete.", "bn": "পুরনো ফোন অপ্রচলিত।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The system became obsolete.",
+        "bn": "সিস্টেমটি অপ্রচলিত হয়ে গেছে।"
+      },
+      {
+        "en": "Obsolete methods were removed.",
+        "bn": "অপ্রচলিত পদ্ধতি সরানো হয়েছে।"
+      },
+      { "en": "Old machines are obsolete.", "bn": "পুরনো মেশিন অপ্রচলিত।" },
+      { "en": "This idea is obsolete.", "bn": "এই ধারণা অপ্রচলিত।" },
+      {
+        "en": "Obsolete tools are replaced.",
+        "bn": "অপ্রচলিত টুল বদলানো হয়।"
+      },
+      { "en": "The device is obsolete now.", "bn": "ডিভাইসটি এখন অপ্রচলিত।" },
+      {
+        "en": "Obsolete software is risky.",
+        "bn": "অপ্রচলিত সফটওয়্যার ঝুঁকিপূর্ণ।"
+      },
+      {
+        "en": "They upgraded obsolete systems.",
+        "bn": "তারা অপ্রচলিত সিস্টেম আপগ্রেড করেছে।"
+      },
+      { "en": "The rule is obsolete.", "bn": "নিয়মটি অপ্রচলিত।" },
+      {
+        "en": "Obsolete items were removed.",
+        "bn": "অপ্রচলিত জিনিস সরানো হয়েছে।"
+      }
+    ],
+    "synonyms": ["outdated", "old-fashioned", "archaic", "outmoded"]
+  },
+  {
+    "base": "obstinate",
+    "phonetic": "ˈɒbstɪnət",
+    "meaning": "একগুঁয়ে",
+    "examples": [
+      { "en": "He is obstinate.", "bn": "সে একগুঁয়ে।" },
+      {
+        "en": "Her obstinate behavior annoyed him.",
+        "bn": "তার একগুঁয়ে আচরণ তাকে বিরক্ত করেছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The child is obstinate.", "bn": "শিশুটি একগুঁয়ে।" },
+      { "en": "He remained obstinate.", "bn": "সে একগুঁয়ে ছিল।" },
+      {
+        "en": "She is obstinate in decision.",
+        "bn": "সে সিদ্ধান্তে একগুঁয়ে।"
+      },
+      {
+        "en": "Obstinate people are hard to change.",
+        "bn": "একগুঁয়ে মানুষ বদলানো কঠিন।"
+      },
+      {
+        "en": "He refused in an obstinate way.",
+        "bn": "সে একগুঁয়েভাবে অস্বীকার করেছে।"
+      },
+      {
+        "en": "Her obstinate nature caused problems.",
+        "bn": "তার একগুঁয়ে স্বভাব সমস্যা তৈরি করেছে।"
+      },
+      { "en": "They became obstinate.", "bn": "তারা একগুঁয়ে হয়ে গেছে।" },
+      {
+        "en": "Obstinate refusal continued.",
+        "bn": "একগুঁয়ে অস্বীকৃতি চলতে থাকে।"
+      },
+      { "en": "He is stubborn and obstinate.", "bn": "সে জেদী ও একগুঁয়ে।" },
+      {
+        "en": "Obstinate attitude is harmful.",
+        "bn": "একগুঁয়ে মনোভাব ক্ষতিকর।"
+      }
+    ],
+    "synonyms": ["stubborn", "unyielding", "headstrong", "rigid"]
+  },
+  {
+    "base": "obstruct",
+    "phonetic": "əbˈstrʌkt",
+    "meaning": "বাধা দেওয়া",
+    "examples": [
+      { "en": "Don’t obstruct the road.", "bn": "রাস্তায় বাধা দিও না।" },
+      { "en": "He obstructed progress.", "bn": "সে অগ্রগতিতে বাধা দিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "The wall obstructs view.", "bn": "দেয়াল দৃশ্য বাধা দেয়।" },
+      { "en": "They obstruct the path.", "bn": "তারা পথ বাধা দেয়।" },
+      { "en": "He obstructed justice.", "bn": "সে বিচার বাধা দিয়েছে।" },
+      { "en": "Traffic was obstructed.", "bn": "ট্রাফিক বাধাগ্রস্ত হয়েছে।" },
+      { "en": "She obstructed movement.", "bn": "সে চলাচলে বাধা দিয়েছে।" },
+      {
+        "en": "The tree obstructs sunlight.",
+        "bn": "গাছ সূর্যালোক বাধা দেয়।"
+      },
+      { "en": "They obstruct communication.", "bn": "তারা যোগাযোগ বাধা দেয়।" },
+      {
+        "en": "He tried to obstruct them.",
+        "bn": "সে তাদের বাধা দেওয়ার চেষ্টা করেছে।"
+      },
+      { "en": "Obstruction caused delay.", "bn": "বাধা বিলম্ব সৃষ্টি করেছে।" },
+      { "en": "Don’t obstruct others.", "bn": "অন্যদের বাধা দিও না।" }
+    ],
+    "synonyms": ["block", "hinder", "impede", "interfere"]
+  },
+  {
+    "base": "occupancy",
+    "phonetic": "ˈɒkjʊpənsi",
+    "meaning": "অধিকৃত অবস্থা / দখল",
+    "examples": [
+      { "en": "Room occupancy is high.", "bn": "ঘরের দখল বেশি।" },
+      { "en": "Occupancy rate increased.", "bn": "অধিকৃত হার বেড়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "Occupancy is full.", "bn": "দখল পূর্ণ।" },
+      { "en": "They checked occupancy.", "bn": "তারা দখল পরীক্ষা করেছে।" },
+      { "en": "Hotel occupancy is low.", "bn": "হোটেলের দখল কম।" },
+      { "en": "Occupancy changes daily.", "bn": "দখল প্রতিদিন পরিবর্তিত হয়।" },
+      { "en": "Room occupancy matters.", "bn": "ঘরের দখল গুরুত্বপূর্ণ।" },
+      { "en": "They measured occupancy.", "bn": "তারা দখল মেপেছে।" },
+      { "en": "Occupancy reached 90%.", "bn": "দখল ৯০% এ পৌঁছেছে।" },
+      { "en": "Building occupancy is legal.", "bn": "ভবনের দখল বৈধ।" },
+      { "en": "Occupancy was reported.", "bn": "দখল রিপোর্ট করা হয়েছে।" },
+      { "en": "They reduced occupancy.", "bn": "তারা দখল কমিয়েছে।" }
+    ],
+    "synonyms": ["usage", "tenancy", "possession", "occupation"]
+  },
+  {
+    "base": "ownership",
+    "phonetic": "ˈoʊnərʃɪp",
+    "meaning": "মালিকানা",
+    "examples": [
+      { "en": "He has ownership of the land.", "bn": "তার জমির মালিকানা আছে।" },
+      {
+        "en": "Ownership was transferred.",
+        "bn": "মালিকানা হস্তান্তর করা হয়েছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Ownership belongs to him.", "bn": "মালিকানা তার।" },
+      { "en": "They claimed ownership.", "bn": "তারা মালিকানা দাবি করেছে।" },
+      { "en": "Ownership rights are legal.", "bn": "মালিকানা অধিকার আইনি।" },
+      { "en": "She lost ownership.", "bn": "সে মালিকানা হারিয়েছে।" },
+      { "en": "Ownership is important.", "bn": "মালিকানা গুরুত্বপূর্ণ।" },
+      {
+        "en": "He transferred ownership.",
+        "bn": "সে মালিকানা হস্তান্তর করেছে।"
+      },
+      {
+        "en": "Company ownership changed.",
+        "bn": "কোম্পানির মালিকানা বদলেছে।"
+      },
+      { "en": "They share ownership.", "bn": "তারা মালিকানা ভাগ করে।" },
+      {
+        "en": "Ownership was confirmed.",
+        "bn": "মালিকানা নিশ্চিত করা হয়েছে।"
+      },
+      { "en": "Land ownership is clear.", "bn": "জমির মালিকানা স্পষ্ট।" }
+    ],
+    "synonyms": ["possession", "control", "title", "property right"]
   }
 ]

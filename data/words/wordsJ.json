@@ -1,33 +1,5 @@
 [
   {
-    "base": "journey",
-    "phonetic": "ˈdʒɜːrni",
-    "meaning": "যাত্রা",
-    "examples": [
-      { "en": "The journey was long.", "bn": "যাত্রাটি দীর্ঘ ছিল।" },
-      {
-        "en": "He started his journey early.",
-        "bn": "সে তার যাত্রা সকালে শুরু করল।"
-      }
-    ],
-    "moreexample": [
-      { "en": "Life is a journey.", "bn": "জীবন একটি যাত্রা।" },
-      { "en": "They enjoyed the journey.", "bn": "তারা যাত্রাটি উপভোগ করল।" },
-      { "en": "The journey changed him.", "bn": "যাত্রাটি তাকে বদলে দিল।" },
-      {
-        "en": "We are on a journey together.",
-        "bn": "আমরা একসাথে যাত্রায় আছি।"
-      },
-      {
-        "en": "The journey took many hours.",
-        "bn": "যাত্রাটি অনেক ঘন্টা নিয়েছিল।"
-      },
-      { "en": "She remembers her journey.", "bn": "সে তার যাত্রা মনে রাখে।" }
-    ],
-    "synonyms": ["trip", "voyage", "travel"]
-  },
-
-  {
     "base": "judgment",
     "phonetic": "ˈdʒʌdʒmənt",
     "meaning": "রায় / বিচার / মতামত",
@@ -59,5 +31,4543 @@
       }
     ],
     "synonyms": ["decision", "opinion", "verdict"]
+  },
+
+  {
+    "base": "join",
+    "phonetic": "dʒɔɪn",
+    "meaning": "যোগ দেওয়া / একত্রিত করা",
+    "examples": [
+      {
+        "en": "Please join our team.",
+        "bn": "অনুগ্রহ করে আমাদের দলে যোগ দাও।"
+      },
+      { "en": "She joined the club.", "bn": "সে ক্লাবে যোগ দিল।" }
+    ],
+    "moreexample": [
+      { "en": "He joined the army.", "bn": "সে সেনাবাহিনীতে যোগ দিল।" },
+      {
+        "en": "Join us for dinner.",
+        "bn": "রাতের খাবারের জন্য আমাদের সাথে যোগ দাও।"
+      },
+      { "en": "They joined hands together.", "bn": "তারা একসাথে হাত মেলাল।" },
+      { "en": "She joined the protest.", "bn": "সে প্রতিবাদে যোগ দিল।" },
+      {
+        "en": "He joined the meeting late.",
+        "bn": "সে দেরিতে মিটিংয়ে যোগ দিল।"
+      },
+      { "en": "Join the line please.", "bn": "অনুগ্রহ করে লাইনে যোগ দাও।" },
+      { "en": "They joined the celebration.", "bn": "তারা উদযাপনে যোগ দিল।" },
+      { "en": "She joined the dance class.", "bn": "সে নৃত্য ক্লাসে যোগ দিল।" },
+      {
+        "en": "He joined a new company.",
+        "bn": "সে একটি নতুন কোম্পানিতে যোগ দিল।"
+      },
+      { "en": "Join the group online.", "bn": "অনলাইনে গ্রুপে যোগ দাও।" }
+    ],
+    "synonyms": ["connect", "unite", "link"]
+  },
+  {
+    "base": "judge",
+    "phonetic": "dʒʌdʒ",
+    "meaning": "বিচার করা / মূল্যায়ন করা",
+    "examples": [
+      { "en": "Do not judge others.", "bn": "অন্যদের বিচার করো না।" },
+      {
+        "en": "She judged the competition.",
+        "bn": "সে প্রতিযোগিতার বিচার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He judged the situation well.",
+        "bn": "সে পরিস্থিতি ভালোভাবে মূল্যায়ন করল।"
+      },
+      {
+        "en": "Judge fairly and wisely.",
+        "bn": "ন্যায়সঙ্গতভাবে ও বুদ্ধিমানের সাথে বিচার করো।"
+      },
+      { "en": "They judged the artwork.", "bn": "তারা শিল্পকর্মটি বিচার করল।" },
+      {
+        "en": "She was judged unfairly.",
+        "bn": "তাকে অন্যায়ভাবে বিচার করা হলো।"
+      },
+      {
+        "en": "He judged the book by its cover.",
+        "bn": "সে বইটির প্রচ্ছদ দেখে বিচার করল।"
+      },
+      {
+        "en": "Judge by actions not words.",
+        "bn": "কথা নয়, কাজ দিয়ে বিচার করো।"
+      },
+      {
+        "en": "They judged the performance.",
+        "bn": "তারা পারফরম্যান্সটি বিচার করল।"
+      },
+      {
+        "en": "She judged the dance show.",
+        "bn": "সে নৃত্য অনুষ্ঠানের বিচার করল।"
+      },
+      { "en": "He judged the case.", "bn": "সে মামলাটির বিচার করল।" },
+      {
+        "en": "Do not judge too quickly.",
+        "bn": "খুব তাড়াতাড়ি বিচার করো না।"
+      }
+    ],
+    "synonyms": ["evaluate", "assess", "decide"]
+  },
+  {
+    "base": "justify",
+    "phonetic": "ˈdʒʌstɪfaɪ",
+    "meaning": "ন্যায়সঙ্গত করা / যুক্তি দেওয়া",
+    "examples": [
+      {
+        "en": "He tried to justify his actions.",
+        "bn": "সে তার কাজের যুক্তি দেওয়ার চেষ্টা করল।"
+      },
+      {
+        "en": "She justified her decision.",
+        "bn": "সে তার সিদ্ধান্তের যুক্তি দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Justify your answer clearly.",
+        "bn": "তোমার উত্তর স্পষ্টভাবে যুক্তিসহ দাও।"
+      },
+      {
+        "en": "He could not justify his behavior.",
+        "bn": "সে তার আচরণের যুক্তি দিতে পারল না।"
+      },
+      {
+        "en": "She justified her absence.",
+        "bn": "সে তার অনুপস্থিতির কারণ ব্যাখ্যা করল।"
+      },
+      {
+        "en": "Justify the cost of the project.",
+        "bn": "প্রকল্পের খরচ ন্যায়সঙ্গত করো।"
+      },
+      {
+        "en": "They justified their choices.",
+        "bn": "তারা তাদের পছন্দের যুক্তি দিল।"
+      },
+      {
+        "en": "He justified his late arrival.",
+        "bn": "সে তার দেরিতে আসার কারণ ব্যাখ্যা করল।"
+      },
+      { "en": "She justified the expense.", "bn": "সে ব্যয়ের যুক্তি দিল।" },
+      {
+        "en": "Justify your opinion with facts.",
+        "bn": "তথ্য দিয়ে তোমার মতামত ন্যায়সঙ্গত করো।"
+      },
+      {
+        "en": "He justified the rule change.",
+        "bn": "সে নিয়ম পরিবর্তনের যুক্তি দিল।"
+      },
+      {
+        "en": "She justified her hard work.",
+        "bn": "সে তার কঠোর পরিশ্রমের যুক্তি দিল।"
+      }
+    ],
+    "synonyms": ["defend", "explain", "validate"]
+  },
+  {
+    "base": "journey",
+    "phonetic": "ˈdʒɜːrni",
+    "meaning": "যাত্রা",
+    "examples": [
+      { "en": "The journey was long.", "bn": "যাত্রাটি দীর্ঘ ছিল।" },
+      {
+        "en": "He started his journey early.",
+        "bn": "সে তার যাত্রা সকালে শুরু করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Life is a journey.", "bn": "জীবন একটি যাত্রা।" },
+      { "en": "They enjoyed the journey.", "bn": "তারা যাত্রাটি উপভোগ করল।" },
+      { "en": "The journey changed him.", "bn": "যাত্রাটি তাকে বদলে দিল।" },
+      {
+        "en": "We are on a journey together.",
+        "bn": "আমরা একসাথে যাত্রায় আছি।"
+      },
+      {
+        "en": "The journey took many hours.",
+        "bn": "যাত্রাটি অনেক ঘন্টা নিয়েছিল।"
+      },
+      { "en": "She remembers her journey.", "bn": "সে তার যাত্রা মনে রাখে।" },
+      {
+        "en": "The journey was adventurous.",
+        "bn": "যাত্রাটি অ্যাডভেঞ্চারপূর্ণ ছিল।"
+      },
+      {
+        "en": "He planned his journey well.",
+        "bn": "সে তার যাত্রা ভালোভাবে পরিকল্পনা করল।"
+      },
+      {
+        "en": "The journey inspired her.",
+        "bn": "যাত্রাটি তাকে অনুপ্রাণিত করল।"
+      },
+      { "en": "Begin your journey today.", "bn": "আজই তোমার যাত্রা শুরু করো।" }
+    ],
+    "synonyms": ["trip", "voyage", "travel"]
+  },
+  {
+    "base": "jump",
+    "phonetic": "dʒʌmp",
+    "meaning": "লাফ দেওয়া / ঝাঁপ দেওয়া",
+    "examples": [
+      { "en": "He jumped over the fence.", "bn": "সে বেড়া পেরিয়ে লাফ দিল।" },
+      { "en": "She jumped with joy.", "bn": "সে আনন্দে লাফ দিল।" }
+    ],
+    "moreexample": [
+      { "en": "Jump as high as you can.", "bn": "যতটা পারো উঁচুতে লাফ দাও।" },
+      { "en": "He jumped into the pool.", "bn": "সে পুলে ঝাঁপ দিল।" },
+      { "en": "She jumped at the opportunity.", "bn": "সে সুযোগটি লুফে নিল।" },
+      {
+        "en": "They jumped over the puddle.",
+        "bn": "তারা গর্তটি পেরিয়ে লাফ দিল।"
+      },
+      { "en": "Jump rope is good exercise.", "bn": "দড়ি লাফ ভালো ব্যায়াম।" },
+      { "en": "He jumped off the stage.", "bn": "সে মঞ্চ থেকে ঝাঁপ দিল।" },
+      { "en": "She jumped in surprise.", "bn": "সে অবাক হয়ে লাফ দিল।" },
+      {
+        "en": "The cat jumped on the table.",
+        "bn": "বিড়ালটি টেবিলে লাফ দিল।"
+      },
+      {
+        "en": "He jumped to conclusions.",
+        "bn": "সে তাড়াহুড়ো করে সিদ্ধান্তে পৌঁছাল।"
+      },
+      { "en": "Jump over the hurdles.", "bn": "বাধাগুলো পেরিয়ে লাফ দাও।" }
+    ],
+    "synonyms": ["leap", "spring", "bounce"]
+  },
+  {
+    "base": "jealous",
+    "phonetic": "ˈdʒeləs",
+    "meaning": "ঈর্ষান্বিত / হিংসুক",
+    "examples": [
+      {
+        "en": "She felt jealous of her friend.",
+        "bn": "সে তার বন্ধুর প্রতি ঈর্ষান্বিত হলো।"
+      },
+      {
+        "en": "He was jealous of her success.",
+        "bn": "সে তার সাফল্যে ঈর্ষান্বিত ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Do not be jealous of others.",
+        "bn": "অন্যদের প্রতি ঈর্ষান্বিত হয়ো না।"
+      },
+      {
+        "en": "He grew jealous over time.",
+        "bn": "সে ধীরে ধীরে ঈর্ষান্বিত হয়ে উঠল।"
+      },
+      {
+        "en": "She was jealous of his talent.",
+        "bn": "সে তার প্রতিভায় ঈর্ষান্বিত ছিল।"
+      },
+      {
+        "en": "Jealous people harm themselves.",
+        "bn": "ঈর্ষান্বিত মানুষ নিজেদের ক্ষতি করে।"
+      },
+      {
+        "en": "He felt jealous without reason.",
+        "bn": "সে কারণ ছাড়াই ঈর্ষান্বিত হলো।"
+      },
+      {
+        "en": "She was jealous of her sister.",
+        "bn": "সে তার বোনের প্রতি ঈর্ষান্বিত ছিল।"
+      },
+      {
+        "en": "Being jealous wastes energy.",
+        "bn": "ঈর্ষান্বিত হওয়া শক্তি নষ্ট করে।"
+      },
+      {
+        "en": "He was jealous of his friend.",
+        "bn": "সে তার বন্ধুর প্রতি ঈর্ষান্বিত ছিল।"
+      },
+      {
+        "en": "Jealous thoughts are harmful.",
+        "bn": "ঈর্ষান্বিত চিন্তা ক্ষতিকর।"
+      },
+      {
+        "en": "She stopped being jealous.",
+        "bn": "সে ঈর্ষান্বিত হওয়া বন্ধ করল।"
+      }
+    ],
+    "synonyms": ["envious", "resentful", "covetous"]
+  },
+  {
+    "base": "jobless",
+    "phonetic": "ˈdʒɒbləs",
+    "meaning": "বেকার / কর্মহীন",
+    "examples": [
+      {
+        "en": "He became jobless last year.",
+        "bn": "সে গত বছর বেকার হয়ে গেল।"
+      },
+      { "en": "Many people are jobless today.", "bn": "আজ অনেক মানুষ বেকার।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She felt hopeless being jobless.",
+        "bn": "বেকার থেকে সে হতাশ অনুভব করল।"
+      },
+      {
+        "en": "Jobless people need support.",
+        "bn": "বেকার মানুষদের সহায়তা দরকার।"
+      },
+      { "en": "He was jobless for months.", "bn": "সে কয়েক মাস বেকার ছিল।" },
+      {
+        "en": "She became jobless after downsizing.",
+        "bn": "ছাঁটাইয়ের পর সে বেকার হয়ে গেল।"
+      },
+      { "en": "Being jobless is stressful.", "bn": "বেকার থাকা মানসিক চাপের।" },
+      {
+        "en": "He searched hard while jobless.",
+        "bn": "বেকার থাকার সময় সে কঠোরভাবে খুঁজল।"
+      },
+      {
+        "en": "Jobless youth need training.",
+        "bn": "বেকার যুবকদের প্রশিক্ষণ দরকার।"
+      },
+      {
+        "en": "She remained jobless for a year.",
+        "bn": "সে এক বছর বেকার ছিল।"
+      },
+      {
+        "en": "Jobless people lose confidence.",
+        "bn": "বেকার মানুষ আত্মবিশ্বাস হারায়।"
+      },
+      { "en": "He finally got a job.", "bn": "অবশেষে সে একটি চাকরি পেল।" }
+    ],
+    "synonyms": ["unemployed", "idle", "workless"]
+  },
+  {
+    "base": "joyous",
+    "phonetic": "ˈdʒɔɪəs",
+    "meaning": "আনন্দময় / উৎফুল্ল",
+    "examples": [
+      {
+        "en": "It was a joyous occasion.",
+        "bn": "এটি একটি আনন্দময় উপলক্ষ ছিল।"
+      },
+      { "en": "She had a joyous smile.", "bn": "তার মুখে আনন্দময় হাসি ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "The celebration was joyous.", "bn": "উদযাপনটি আনন্দময় ছিল।" },
+      {
+        "en": "He felt joyous after winning.",
+        "bn": "জেতার পর সে আনন্দিত হলো।"
+      },
+      { "en": "She had a joyous laugh.", "bn": "তার আনন্দময় হাসি ছিল।" },
+      { "en": "The news was joyous.", "bn": "খবরটি আনন্দময় ছিল।" },
+      {
+        "en": "They had a joyous reunion.",
+        "bn": "তাদের একটি আনন্দময় পুনর্মিলন হলো।"
+      },
+      { "en": "The children were joyous.", "bn": "শিশুরা আনন্দিত ছিল।" },
+      {
+        "en": "It was a joyous wedding day.",
+        "bn": "এটি একটি আনন্দময় বিবাহ দিন ছিল।"
+      },
+      {
+        "en": "He expressed joyous feelings.",
+        "bn": "সে আনন্দময় অনুভূতি প্রকাশ করল।"
+      },
+      { "en": "She felt joyous inside.", "bn": "সে ভেতরে আনন্দিত অনুভব করল।" },
+      { "en": "The atmosphere was joyous.", "bn": "পরিবেশটি আনন্দময় ছিল।" }
+    ],
+    "synonyms": ["happy", "cheerful", "delightful"]
+  },
+  {
+    "base": "junior",
+    "phonetic": "ˈdʒuːniər",
+    "meaning": "কনিষ্ঠ / জুনিয়র",
+    "examples": [
+      { "en": "He is a junior employee.", "bn": "সে একজন কনিষ্ঠ কর্মী।" },
+      { "en": "She is junior to me.", "bn": "সে আমার চেয়ে কনিষ্ঠ।" }
+    ],
+    "moreexample": [
+      { "en": "The junior team won the match.", "bn": "কনিষ্ঠ দল ম্যাচ জিতল।" },
+      { "en": "He is a junior doctor.", "bn": "সে একজন জুনিয়র ডাক্তার।" },
+      {
+        "en": "She teaches junior students.",
+        "bn": "সে কনিষ্ঠ শিক্ষার্থীদের পড়ায়।"
+      },
+      {
+        "en": "The junior staff needs guidance.",
+        "bn": "কনিষ্ঠ কর্মীদের নির্দেশনা দরকার।"
+      },
+      {
+        "en": "He joined as a junior officer.",
+        "bn": "সে জুনিয়র অফিসার হিসেবে যোগ দিল।"
+      },
+      {
+        "en": "Junior members should listen.",
+        "bn": "কনিষ্ঠ সদস্যদের শোনা উচিত।"
+      },
+      { "en": "She is a junior partner.", "bn": "সে একজন কনিষ্ঠ অংশীদার।" },
+      {
+        "en": "He mentors junior colleagues.",
+        "bn": "সে কনিষ্ঠ সহকর্মীদের পরামর্শ দেয়।"
+      },
+      {
+        "en": "The junior class performed well.",
+        "bn": "কনিষ্ঠ শ্রেণী ভালো পারফর্ম করল।"
+      },
+      { "en": "She is junior in experience.", "bn": "সে অভিজ্ঞতায় কনিষ্ঠ।" }
+    ],
+    "synonyms": ["younger", "subordinate", "lower"]
+  },
+  {
+    "base": "just",
+    "phonetic": "dʒʌst",
+    "meaning": "ন্যায্য / মাত্র / সবেমাত্র",
+    "examples": [
+      {
+        "en": "Be just in your decisions.",
+        "bn": "তোমার সিদ্ধান্তে ন্যায্য হও।"
+      },
+      { "en": "He just arrived home.", "bn": "সে সবেমাত্র বাড়ি পৌঁছাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She just finished her work.",
+        "bn": "সে সবেমাত্র তার কাজ শেষ করল।"
+      },
+      { "en": "It is just a small mistake.", "bn": "এটি মাত্র একটি ছোট ভুল।" },
+      {
+        "en": "He just wanted to help.",
+        "bn": "সে শুধু সাহায্য করতে চেয়েছিল।"
+      },
+      { "en": "Just do your best.", "bn": "শুধু তোমার সেরাটা করো।" },
+      { "en": "She was just being honest.", "bn": "সে শুধু সৎ ছিল।" },
+      { "en": "It is just not fair.", "bn": "এটি মোটেও ন্যায়সঙ্গত নয়।" },
+      { "en": "He just smiled at her.", "bn": "সে শুধু তার দিকে হাসল।" },
+      { "en": "Just be yourself.", "bn": "শুধু নিজে থাকো।" },
+      { "en": "She just needs more time.", "bn": "তার শুধু আরো সময় দরকার।" },
+      { "en": "He is just a child.", "bn": "সে মাত্র একটি শিশু।" }
+    ],
+    "synonyms": ["fair", "only", "merely"]
+  },
+  {
+    "base": "justice",
+    "phonetic": "ˈdʒʌstɪs",
+    "meaning": "ন্যায়বিচার / ন্যায়",
+    "examples": [
+      {
+        "en": "Everyone deserves justice.",
+        "bn": "সবাই ন্যায়বিচার পাওয়ার যোগ্য।"
+      },
+      {
+        "en": "She fought for justice.",
+        "bn": "সে ন্যায়বিচারের জন্য লড়াই করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Justice must be served.",
+        "bn": "ন্যায়বিচার নিশ্চিত করতে হবে।"
+      },
+      { "en": "He believed in justice.", "bn": "সে ন্যায়বিচারে বিশ্বাস করত।" },
+      { "en": "Justice was delayed.", "bn": "ন্যায়বিচার বিলম্বিত হলো।" },
+      {
+        "en": "She sought justice for all.",
+        "bn": "সে সবার জন্য ন্যায়বিচার চাইল।"
+      },
+      { "en": "Justice is blind.", "bn": "ন্যায়বিচার অন্ধ।" },
+      {
+        "en": "They marched for justice.",
+        "bn": "তারা ন্যায়বিচারের জন্য মিছিল করল।"
+      },
+      {
+        "en": "He demanded justice loudly.",
+        "bn": "সে জোরে ন্যায়বিচারের দাবি করল।"
+      },
+      { "en": "Justice brings peace.", "bn": "ন্যায়বিচার শান্তি নিয়ে আসে।" },
+      {
+        "en": "She received justice finally.",
+        "bn": "অবশেষে সে ন্যায়বিচার পেল।"
+      },
+      {
+        "en": "Justice takes time sometimes.",
+        "bn": "ন্যায়বিচার কখনো সময় নেয়।"
+      }
+    ],
+    "synonyms": ["fairness", "equity", "righteousness"]
+  },
+  {
+    "base": "judgment",
+    "phonetic": "ˈdʒʌdʒmənt",
+    "meaning": "রায় / বিচার / মতামত",
+    "examples": [
+      { "en": "The court gave its judgment.", "bn": "আদালত তার রায় দিল।" },
+      {
+        "en": "Do not rush your judgment.",
+        "bn": "তোমার মতামতে তাড়াহুড়া কোরো না।"
+      }
+    ],
+    "moreexample": [
+      { "en": "His judgment was correct.", "bn": "তার রায় সঠিক ছিল।" },
+      {
+        "en": "We respect her judgment.",
+        "bn": "আমরা তার মতামতকে সম্মান করি।"
+      },
+      {
+        "en": "Poor judgment leads to mistakes.",
+        "bn": "খারাপ বিচার ভুলের দিকে নিয়ে যায়।"
+      },
+      { "en": "The judgment was final.", "bn": "রায়টি চূড়ান্ত ছিল।" },
+      {
+        "en": "He made a quick judgment.",
+        "bn": "সে দ্রুত একটি সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "Judgment should be fair.",
+        "bn": "বিচার ন্যায়সঙ্গত হওয়া উচিত।"
+      },
+      { "en": "She trusted his judgment.", "bn": "সে তার বিচারে আস্থা রাখল।" },
+      {
+        "en": "His judgment saved the day.",
+        "bn": "তার সিদ্ধান্ত দিনটি বাঁচাল।"
+      },
+      {
+        "en": "Judgment comes with experience.",
+        "bn": "অভিজ্ঞতার সাথে বিচারশক্তি আসে।"
+      },
+      {
+        "en": "They questioned his judgment.",
+        "bn": "তারা তার বিচারকে প্রশ্ন করল।"
+      }
+    ],
+    "synonyms": ["decision", "opinion", "verdict"]
+  },
+  {
+    "base": "jail",
+    "phonetic": "dʒeɪl",
+    "meaning": "কারাগার / জেল",
+    "examples": [
+      { "en": "He was sent to jail.", "bn": "তাকে কারাগারে পাঠানো হলো।" },
+      { "en": "She visited him in jail.", "bn": "সে জেলে তাকে দেখতে গেল।" }
+    ],
+    "moreexample": [
+      { "en": "The thief went to jail.", "bn": "চোরটি জেলে গেল।" },
+      { "en": "He spent years in jail.", "bn": "সে বছরের পর বছর জেলে কাটাল।" },
+      {
+        "en": "She was released from jail.",
+        "bn": "তাকে জেল থেকে মুক্তি দেওয়া হলো।"
+      },
+      { "en": "Jail is not a good place.", "bn": "জেল ভালো জায়গা নয়।" },
+      { "en": "He feared going to jail.", "bn": "সে জেলে যেতে ভয় পেত।" },
+      {
+        "en": "The criminal was put in jail.",
+        "bn": "অপরাধীকে জেলে পুরা হলো।"
+      },
+      { "en": "She escaped from jail.", "bn": "সে জেল থেকে পালাল।" },
+      { "en": "Jail teaches hard lessons.", "bn": "জেল কঠিন শিক্ষা দেয়।" },
+      {
+        "en": "He was jailed for fraud.",
+        "bn": "তাকে প্রতারণার জন্য জেলে দেওয়া হলো।"
+      },
+      {
+        "en": "They built a new jail.",
+        "bn": "তারা একটি নতুন কারাগার তৈরি করল।"
+      }
+    ],
+    "synonyms": ["prison", "cell", "lockup"]
+  },
+  {
+    "base": "jam",
+    "phonetic": "dʒæm",
+    "meaning": "জ্যাম / আটকে পড়া",
+    "examples": [
+      { "en": "There was a traffic jam.", "bn": "যানজট ছিল।" },
+      { "en": "She made strawberry jam.", "bn": "সে স্ট্রবেরি জ্যাম বানাল।" }
+    ],
+    "moreexample": [
+      { "en": "He was stuck in a jam.", "bn": "সে জ্যামে আটকে পড়ল।" },
+      { "en": "Spread jam on the bread.", "bn": "রুটিতে জ্যাম লাগাও।" },
+      { "en": "The machine got jammed.", "bn": "যন্ত্রটি আটকে গেল।" },
+      { "en": "She loves mango jam.", "bn": "সে আমের জ্যাম ভালোবাসে।" },
+      { "en": "Traffic jams waste time.", "bn": "যানজট সময় নষ্ট করে।" },
+      { "en": "He jammed the door.", "bn": "সে দরজাটি আটকে দিল।" },
+      { "en": "The printer is jammed.", "bn": "প্রিন্টারটি আটকে গেছে।" },
+      { "en": "She put jam in her bag.", "bn": "সে তার ব্যাগে জ্যাম রাখল।" },
+      { "en": "They were in a real jam.", "bn": "তারা সত্যিকারের বিপদে পড়ল।" },
+      { "en": "He ate jam with butter.", "bn": "সে মাখনের সাথে জ্যাম খেল।" }
+    ],
+    "synonyms": ["block", "clog", "preserve"]
+  },
+  {
+    "base": "jar",
+    "phonetic": "dʒɑːr",
+    "meaning": "কাচের পাত্র / ঝাঁকুনি দেওয়া",
+    "examples": [
+      { "en": "She kept cookies in a jar.", "bn": "সে একটি জারে কুকিজ রাখল।" },
+      {
+        "en": "The noise jarred his nerves.",
+        "bn": "শব্দটি তার স্নায়ুতে ঝাঁকুনি দিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He opened the jar carefully.", "bn": "সে সাবধানে জারটি খুলল।" },
+      {
+        "en": "She filled the jar with water.",
+        "bn": "সে জারটি পানি দিয়ে ভরল।"
+      },
+      { "en": "The jar fell and broke.", "bn": "জারটি পড়ে ভেঙে গেল।" },
+      { "en": "Put honey in the jar.", "bn": "জারে মধু রাখো।" },
+      { "en": "He stored spices in jars.", "bn": "সে জারে মশলা সংরক্ষণ করল।" },
+      {
+        "en": "The sound jarred everyone.",
+        "bn": "শব্দটি সবাইকে ঝাঁকুনি দিল।"
+      },
+      { "en": "She bought a jar of pickles.", "bn": "সে এক জার আচার কিনল।" },
+      { "en": "The jar was tightly sealed.", "bn": "জারটি শক্তভাবে বন্ধ ছিল।" },
+      { "en": "He kept coins in a jar.", "bn": "সে একটি জারে মুদ্রা রাখল।" },
+      { "en": "The jar has a lid.", "bn": "জারটিতে একটি ঢাকনা আছে।" }
+    ],
+    "synonyms": ["container", "pot", "vessel"]
+  },
+  {
+    "base": "jaw",
+    "phonetic": "dʒɔː",
+    "meaning": "চোয়াল",
+    "examples": [
+      { "en": "He hurt his jaw.", "bn": "সে তার চোয়াল আঘাত পেল।" },
+      {
+        "en": "Her jaw dropped in surprise.",
+        "bn": "অবাক হয়ে তার চোয়াল নেমে গেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The jaw is part of the skull.",
+        "bn": "চোয়াল মাথার খুলির অংশ।"
+      },
+      {
+        "en": "He clenched his jaw tightly.",
+        "bn": "সে তার চোয়াল শক্তভাবে চাপল।"
+      },
+      { "en": "She had a strong jaw.", "bn": "তার একটি শক্তিশালী চোয়াল ছিল।" },
+      {
+        "en": "The jaw helps in chewing.",
+        "bn": "চোয়াল চিবানোতে সাহায্য করে।"
+      },
+      { "en": "His jaw was swollen.", "bn": "তার চোয়াল ফুলে গিয়েছিল।" },
+      {
+        "en": "She moved her jaw slowly.",
+        "bn": "সে ধীরে ধীরে চোয়াল নাড়াল।"
+      },
+      {
+        "en": "The dentist checked his jaw.",
+        "bn": "দন্তচিকিৎসক তার চোয়াল পরীক্ষা করলেন।"
+      },
+      {
+        "en": "His jaw ached after eating.",
+        "bn": "খাওয়ার পর তার চোয়াল ব্যথা করল।"
+      },
+      {
+        "en": "The jaw bone is very strong.",
+        "bn": "চোয়ালের হাড় খুব শক্তিশালী।"
+      },
+      { "en": "She rubbed her sore jaw.", "bn": "সে তার ব্যথার চোয়াল ঘষল।" }
+    ],
+    "synonyms": ["mandible", "chin", "mouth"]
+  },
+  {
+    "base": "jazz",
+    "phonetic": "dʒæz",
+    "meaning": "জ্যাজ সংগীত",
+    "examples": [
+      {
+        "en": "She loves listening to jazz.",
+        "bn": "সে জ্যাজ সংগীত শুনতে ভালোবাসে।"
+      },
+      {
+        "en": "He played jazz on the piano.",
+        "bn": "সে পিয়ানোতে জ্যাজ বাজাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Jazz is an American music style.",
+        "bn": "জ্যাজ একটি আমেরিকান সংগীতের ধরন।"
+      },
+      {
+        "en": "The jazz concert was amazing.",
+        "bn": "জ্যাজ কনসার্টটি অসাধারণ ছিল।"
+      },
+      {
+        "en": "He studied jazz in college.",
+        "bn": "সে কলেজে জ্যাজ পড়াশোনা করল।"
+      },
+      { "en": "She danced to the jazz beat.", "bn": "সে জ্যাজের তালে নাচল।" },
+      { "en": "Jazz music is soulful.", "bn": "জ্যাজ সংগীত আত্মিক।" },
+      {
+        "en": "They played jazz all night.",
+        "bn": "তারা সারারাত জ্যাজ বাজাল।"
+      },
+      { "en": "He enjoys smooth jazz.", "bn": "সে মসৃণ জ্যাজ উপভোগ করে।" },
+      {
+        "en": "Jazz originated in New Orleans.",
+        "bn": "জ্যাজের উৎপত্তি নিউ অরলিন্সে।"
+      },
+      {
+        "en": "She prefers jazz over pop.",
+        "bn": "সে পপের চেয়ে জ্যাজ পছন্দ করে।"
+      },
+      {
+        "en": "The jazz band performed well.",
+        "bn": "জ্যাজ ব্যান্ডটি ভালো পারফর্ম করল।"
+      }
+    ],
+    "synonyms": ["music", "blues", "swing"]
+  },
+  {
+    "base": "jeer",
+    "phonetic": "dʒɪər",
+    "meaning": "বিদ্রূপ করা / উপহাস করা",
+    "examples": [
+      { "en": "The crowd jeered at him.", "bn": "ভিড় তাকে উপহাস করল।" },
+      { "en": "Do not jeer at others.", "bn": "অন্যদের উপহাস করো না।" }
+    ],
+    "moreexample": [
+      { "en": "He jeered at the player.", "bn": "সে খেলোয়াড়কে বিদ্রূপ করল।" },
+      {
+        "en": "She was jeered by classmates.",
+        "bn": "সহপাঠীরা তাকে উপহাস করল।"
+      },
+      { "en": "Jeering is disrespectful.", "bn": "উপহাস করা অসম্মানজনক।" },
+      { "en": "They jeered loudly.", "bn": "তারা জোরে জোরে উপহাস করল।" },
+      { "en": "He felt hurt by jeering.", "bn": "উপহাসে সে কষ্ট পেল।" },
+      { "en": "She ignored their jeers.", "bn": "সে তাদের উপহাস উপেক্ষা করল।" },
+      { "en": "Jeering hurts feelings.", "bn": "উপহাস অনুভূতিতে আঘাত করে।" },
+      {
+        "en": "He responded to jeers calmly.",
+        "bn": "সে শান্তভাবে উপহাসের জবাব দিল।"
+      },
+      {
+        "en": "The audience jeered the performer.",
+        "bn": "দর্শকরা পরিবেশনকারীকে উপহাস করল।"
+      },
+      { "en": "Stop jeering immediately.", "bn": "এখনই উপহাস বন্ধ করো।" }
+    ],
+    "synonyms": ["mock", "taunt", "ridicule"]
+  },
+  {
+    "base": "jeopardize",
+    "phonetic": "ˈdʒepərdaɪz",
+    "meaning": "বিপদে ফেলা / ঝুঁকিতে ফেলা",
+    "examples": [
+      {
+        "en": "Do not jeopardize your health.",
+        "bn": "তোমার স্বাস্থ্যকে বিপদে ফেলো না।"
+      },
+      {
+        "en": "He jeopardized his career.",
+        "bn": "সে তার ক্যারিয়ার ঝুঁকিতে ফেলল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She jeopardized her future.",
+        "bn": "সে তার ভবিষ্যৎ বিপদে ফেলল।"
+      },
+      { "en": "Jeopardizing trust is wrong.", "bn": "বিশ্বাস বিপদে ফেলা ভুল।" },
+      {
+        "en": "He jeopardized the mission.",
+        "bn": "সে অভিযানটি ঝুঁকিতে ফেলল।"
+      },
+      {
+        "en": "They jeopardized their safety.",
+        "bn": "তারা তাদের নিরাপত্তা বিপদে ফেলল।"
+      },
+      {
+        "en": "Do not jeopardize your studies.",
+        "bn": "তোমার পড়াশোনা ঝুঁকিতে ফেলো না।"
+      },
+      {
+        "en": "She jeopardized her friendship.",
+        "bn": "সে তার বন্ধুত্ব বিপদে ফেলল।"
+      },
+      {
+        "en": "He jeopardized the project.",
+        "bn": "সে প্রকল্পটি ঝুঁকিতে ফেলল।"
+      },
+      {
+        "en": "Reckless actions jeopardize peace.",
+        "bn": "বেপরোয়া কাজ শান্তি বিপদে ফেলে।"
+      },
+      {
+        "en": "She jeopardized her reputation.",
+        "bn": "সে তার সুনাম বিপদে ফেলল।"
+      },
+      { "en": "Do not jeopardize others.", "bn": "অন্যদের বিপদে ফেলো না।" }
+    ],
+    "synonyms": ["endanger", "risk", "threaten"]
+  },
+  {
+    "base": "jingle",
+    "phonetic": "ˈdʒɪŋɡl",
+    "meaning": "ঝনঝন শব্দ / বিজ্ঞাপনের সুর",
+    "examples": [
+      {
+        "en": "The bells jingled softly.",
+        "bn": "ঘণ্টাগুলো মৃদুভাবে ঝনঝন করল।"
+      },
+      {
+        "en": "She hummed the jingle.",
+        "bn": "সে বিজ্ঞাপনের সুরটি গুনগুন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He heard the jingle of keys.",
+        "bn": "সে চাবির ঝনঝন শব্দ শুনল।"
+      },
+      {
+        "en": "The jingle was catchy.",
+        "bn": "বিজ্ঞাপনের সুরটি আকর্ষণীয় ছিল।"
+      },
+      {
+        "en": "She remembered the old jingle.",
+        "bn": "সে পুরানো বিজ্ঞাপনের সুর মনে করল।"
+      },
+      {
+        "en": "The coins jingled in his pocket.",
+        "bn": "তার পকেটে মুদ্রাগুলো ঝনঝন করল।"
+      },
+      { "en": "The jingle played on TV.", "bn": "টিভিতে বিজ্ঞাপনের সুর বাজল।" },
+      {
+        "en": "He wrote a jingle for the ad.",
+        "bn": "সে বিজ্ঞাপনের জন্য একটি সুর লিখল।"
+      },
+      {
+        "en": "The bells jingle at Christmas.",
+        "bn": "ক্রিসমাসে ঘণ্টাগুলো ঝনঝন করে।"
+      },
+      {
+        "en": "She liked the jingle sound.",
+        "bn": "সে ঝনঝন শব্দটি পছন্দ করল।"
+      },
+      {
+        "en": "The jingle stayed in his head.",
+        "bn": "সুরটি তার মাথায় রয়ে গেল।"
+      },
+      {
+        "en": "They created a new jingle.",
+        "bn": "তারা একটি নতুন বিজ্ঞাপনের সুর তৈরি করল।"
+      }
+    ],
+    "synonyms": ["chime", "ring", "tinkle"]
+  },
+
+  {
+    "base": "jot",
+    "phonetic": "dʒɒt",
+    "meaning": "সংক্ষেপে লেখা / টুকে রাখা",
+    "examples": [
+      { "en": "Jot down the main points.", "bn": "মূল বিষয়গুলো টুকে রাখো।" },
+      {
+        "en": "She jotted her ideas quickly.",
+        "bn": "সে দ্রুত তার ধারণাগুলো টুকে রাখল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He jotted the number down.", "bn": "সে নম্বরটি টুকে রাখল।" },
+      {
+        "en": "Jot notes during the lecture.",
+        "bn": "বক্তৃতার সময় নোট টুকে রাখো।"
+      },
+      { "en": "She jotted a reminder.", "bn": "সে একটি স্মারক টুকে রাখল।" },
+      { "en": "He jotted the address.", "bn": "সে ঠিকানাটি টুকে রাখল।" },
+      {
+        "en": "Jot it before you forget.",
+        "bn": "ভুলে যাওয়ার আগে টুকে রাখো।"
+      },
+      {
+        "en": "She jotted her thoughts.",
+        "bn": "সে তার চিন্তাগুলো টুকে রাখল।"
+      },
+      {
+        "en": "He always jots things down.",
+        "bn": "সে সবসময় জিনিস টুকে রাখে।"
+      },
+      { "en": "Jot the key words.", "bn": "মূল শব্দগুলো টুকে রাখো।" },
+      {
+        "en": "She jotted the instructions.",
+        "bn": "সে নির্দেশনাগুলো টুকে রাখল।"
+      },
+      {
+        "en": "He jotted a quick message.",
+        "bn": "সে একটি দ্রুত বার্তা টুকে রাখল।"
+      }
+    ],
+    "synonyms": ["note", "write", "record"]
+  },
+  {
+    "base": "journal",
+    "phonetic": "ˈdʒɜːrnl",
+    "meaning": "দিনপঞ্জি / সাময়িকী",
+    "examples": [
+      {
+        "en": "She writes in her journal daily.",
+        "bn": "সে প্রতিদিন তার দিনপঞ্জিতে লেখে।"
+      },
+      {
+        "en": "He published in a journal.",
+        "bn": "সে একটি সাময়িকীতে প্রকাশ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Keep a journal of your thoughts.",
+        "bn": "তোমার চিন্তার একটি দিনপঞ্জি রাখো।"
+      },
+      {
+        "en": "She read the science journal.",
+        "bn": "সে বিজ্ঞান সাময়িকীটি পড়ল।"
+      },
+      { "en": "He bought a new journal.", "bn": "সে একটি নতুন দিনপঞ্জি কিনল।" },
+      {
+        "en": "The journal covers health topics.",
+        "bn": "সাময়িকীটি স্বাস্থ্য বিষয় কভার করে।"
+      },
+      { "en": "She decorated her journal.", "bn": "সে তার দিনপঞ্জি সাজাল।" },
+      { "en": "He submitted to the journal.", "bn": "সে সাময়িকীতে জমা দিল।" },
+      {
+        "en": "Journaling helps mental health.",
+        "bn": "দিনপঞ্জি লেখা মানসিক স্বাস্থ্যে সাহায্য করে।"
+      },
+      {
+        "en": "She found her old journal.",
+        "bn": "সে তার পুরানো দিনপঞ্জি খুঁজে পেল।"
+      },
+      {
+        "en": "The journal was very popular.",
+        "bn": "সাময়িকীটি খুব জনপ্রিয় ছিল।"
+      },
+      {
+        "en": "He wrote his feelings in a journal.",
+        "bn": "সে তার অনুভূতি দিনপঞ্জিতে লিখল।"
+      }
+    ],
+    "synonyms": ["diary", "log", "magazine"]
+  },
+  {
+    "base": "jovial",
+    "phonetic": "ˈdʒoʊviəl",
+    "meaning": "প্রফুল্ল / আনন্দময়",
+    "examples": [
+      {
+        "en": "He has a jovial personality.",
+        "bn": "তার একটি প্রফুল্ল ব্যক্তিত্ব আছে।"
+      },
+      {
+        "en": "She was jovial at the party.",
+        "bn": "পার্টিতে সে প্রফুল্ল ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "His jovial mood lifted everyone.",
+        "bn": "তার প্রফুল্ল মেজাজ সবাইকে উৎফুল্ল করল।"
+      },
+      {
+        "en": "She greeted us jovially.",
+        "bn": "সে আমাদের প্রফুল্লভাবে স্বাগত জানাল।"
+      },
+      { "en": "He was always jovial.", "bn": "সে সবসময় প্রফুল্ল ছিল।" },
+      {
+        "en": "The jovial man made us laugh.",
+        "bn": "প্রফুল্ল মানুষটি আমাদের হাসাল।"
+      },
+      { "en": "She had a jovial laugh.", "bn": "তার একটি প্রফুল্ল হাসি ছিল।" },
+      {
+        "en": "He remained jovial despite trouble.",
+        "bn": "সমস্যার মধ্যেও সে প্রফুল্ল থাকল।"
+      },
+      {
+        "en": "The jovial teacher loved students.",
+        "bn": "প্রফুল্ল শিক্ষক শিক্ষার্থীদের ভালোবাসতেন।"
+      },
+      {
+        "en": "She spread jovial energy.",
+        "bn": "সে প্রফুল্ল শক্তি ছড়িয়ে দিল।"
+      },
+      {
+        "en": "His jovial nature won hearts.",
+        "bn": "তার প্রফুল্ল স্বভাব মন জয় করল।"
+      },
+      { "en": "They were jovial and warm.", "bn": "তারা প্রফুল্ল ও উষ্ণ ছিল।" }
+    ],
+    "synonyms": ["cheerful", "merry", "jolly"]
+  },
+  {
+    "base": "jubilant",
+    "phonetic": "ˈdʒuːbɪlənt",
+    "meaning": "আনন্দে উৎফুল্ল / উল্লসিত",
+    "examples": [
+      {
+        "en": "The team was jubilant after winning.",
+        "bn": "জেতার পর দল উল্লসিত ছিল।"
+      },
+      { "en": "She was jubilant at the news.", "bn": "খবরে সে উল্লসিত হলো।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He was jubilant about his result.",
+        "bn": "তার ফলাফলে সে উল্লসিত ছিল।"
+      },
+      { "en": "The crowd was jubilant.", "bn": "ভিড় উল্লসিত ছিল।" },
+      {
+        "en": "She felt jubilant inside.",
+        "bn": "সে ভেতরে উল্লসিত অনুভব করল।"
+      },
+      {
+        "en": "They were jubilant at the victory.",
+        "bn": "বিজয়ে তারা উল্লসিত ছিল।"
+      },
+      {
+        "en": "He expressed jubilant feelings.",
+        "bn": "সে উল্লসিত অনুভূতি প্রকাশ করল।"
+      },
+      {
+        "en": "The jubilant fans cheered loudly.",
+        "bn": "উল্লসিত ভক্তরা জোরে চিৎকার করল।"
+      },
+      {
+        "en": "She was jubilant on her birthday.",
+        "bn": "জন্মদিনে সে উল্লসিত ছিল।"
+      },
+      {
+        "en": "He looked jubilant and proud.",
+        "bn": "সে উল্লসিত ও গর্বিত দেখাল।"
+      },
+      {
+        "en": "The jubilant mood spread.",
+        "bn": "উল্লসিত মেজাজ ছড়িয়ে পড়ল।"
+      },
+      { "en": "They were jubilant together.", "bn": "তারা একসাথে উল্লসিত ছিল।" }
+    ],
+    "synonyms": ["elated", "joyful", "triumphant"]
+  },
+  {
+    "base": "jubilee",
+    "phonetic": "ˈdʒuːbɪliː",
+    "meaning": "জয়ন্তী / উৎসব",
+    "examples": [
+      {
+        "en": "They celebrated their golden jubilee.",
+        "bn": "তারা তাদের সুবর্ণ জয়ন্তী উদযাপন করল।"
+      },
+      {
+        "en": "The jubilee was a grand event.",
+        "bn": "জয়ন্তীটি একটি বড় অনুষ্ঠান ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "It was the school's silver jubilee.",
+        "bn": "এটি বিদ্যালয়ের রজত জয়ন্তী ছিল।"
+      },
+      {
+        "en": "He attended the jubilee ceremony.",
+        "bn": "সে জয়ন্তী অনুষ্ঠানে যোগ দিল।"
+      },
+      {
+        "en": "The jubilee was full of joy.",
+        "bn": "জয়ন্তীটি আনন্দে পূর্ণ ছিল।"
+      },
+      {
+        "en": "She organized the jubilee event.",
+        "bn": "সে জয়ন্তী অনুষ্ঠানটি আয়োজন করল।"
+      },
+      {
+        "en": "They marked their diamond jubilee.",
+        "bn": "তারা তাদের হীরক জয়ন্তী উদযাপন করল।"
+      },
+      { "en": "The jubilee was historic.", "bn": "জয়ন্তীটি ঐতিহাসিক ছিল।" },
+      {
+        "en": "He gave a speech at the jubilee.",
+        "bn": "সে জয়ন্তীতে বক্তৃতা দিল।"
+      },
+      {
+        "en": "The jubilee brought people together.",
+        "bn": "জয়ন্তী মানুষদের একত্রিত করল।"
+      },
+      { "en": "She danced at the jubilee.", "bn": "সে জয়ন্তীতে নাচল।" },
+      {
+        "en": "The jubilee lasted three days.",
+        "bn": "জয়ন্তীটি তিন দিন স্থায়ী হলো।"
+      }
+    ],
+    "synonyms": ["anniversary", "celebration", "festival"]
+  },
+  {
+    "base": "jumble",
+    "phonetic": "ˈdʒʌmbl",
+    "meaning": "এলোমেলো করা / গোলমাল পাকানো",
+    "examples": [
+      { "en": "Do not jumble the papers.", "bn": "কাগজগুলো এলোমেলো করো না।" },
+      {
+        "en": "His words were all jumbled.",
+        "bn": "তার কথাগুলো সব এলোমেলো ছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She jumbled the cards.", "bn": "সে কার্ডগুলো এলোমেলো করল।" },
+      { "en": "He jumbled the letters.", "bn": "সে অক্ষরগুলো এলোমেলো করল।" },
+      {
+        "en": "The toys were all jumbled up.",
+        "bn": "খেলনাগুলো সব এলোমেলো হয়ে গেল।"
+      },
+      {
+        "en": "Jumbling things creates confusion.",
+        "bn": "জিনিস এলোমেলো করলে বিভ্রান্তি হয়।"
+      },
+      {
+        "en": "She jumbled the ingredients.",
+        "bn": "সে উপাদানগুলো এলোমেলো করল।"
+      },
+      {
+        "en": "He jumbled his schedule.",
+        "bn": "সে তার সময়সূচি এলোমেলো করল।"
+      },
+      {
+        "en": "The bag was a jumble of things.",
+        "bn": "ব্যাগটি জিনিসের এলোমেলো সংগ্রহ ছিল।"
+      },
+      {
+        "en": "She sorted the jumbled files.",
+        "bn": "সে এলোমেলো ফাইলগুলো সাজাল।"
+      },
+      {
+        "en": "His thoughts were jumbled.",
+        "bn": "তার চিন্তাগুলো এলোমেলো ছিল।"
+      },
+      {
+        "en": "Jumbled words are hard to read.",
+        "bn": "এলোমেলো শব্দ পড়তে কঠিন।"
+      }
+    ],
+    "synonyms": ["mix", "disorder", "muddle"]
+  },
+  {
+    "base": "jungle",
+    "phonetic": "ˈdʒʌŋɡl",
+    "meaning": "জঙ্গল / বন",
+    "examples": [
+      {
+        "en": "The jungle is full of animals.",
+        "bn": "জঙ্গলটি প্রাণীতে পূর্ণ।"
+      },
+      { "en": "He explored the jungle.", "bn": "সে জঙ্গলটি অন্বেষণ করল।" }
+    ],
+    "moreexample": [
+      { "en": "She got lost in the jungle.", "bn": "সে জঙ্গলে হারিয়ে গেল।" },
+      { "en": "The jungle is dense and dark.", "bn": "জঙ্গলটি ঘন ও অন্ধকার।" },
+      { "en": "He heard sounds in the jungle.", "bn": "সে জঙ্গলে শব্দ শুনল।" },
+      { "en": "The jungle has many plants.", "bn": "জঙ্গলে অনেক গাছপালা আছে।" },
+      { "en": "She photographed the jungle.", "bn": "সে জঙ্গলের ছবি তুলল।" },
+      { "en": "The jungle is home to tigers.", "bn": "জঙ্গল বাঘের আবাস।" },
+      { "en": "They camped in the jungle.", "bn": "তারা জঙ্গলে তাঁবু করল।" },
+      { "en": "The jungle is being destroyed.", "bn": "জঙ্গল ধ্বংস হচ্ছে।" },
+      { "en": "He survived in the jungle.", "bn": "সে জঙ্গলে টিকে থাকল।" },
+      {
+        "en": "The jungle has its own rules.",
+        "bn": "জঙ্গলের নিজস্ব নিয়ম আছে।"
+      }
+    ],
+    "synonyms": ["forest", "wilderness", "rainforest"]
+  },
+  {
+    "base": "jacket",
+    "phonetic": "ˈdʒækɪt",
+    "meaning": "জ্যাকেট / কোট",
+    "examples": [
+      { "en": "She wore a red jacket.", "bn": "সে একটি লাল জ্যাকেট পরল।" },
+      { "en": "He bought a new jacket.", "bn": "সে একটি নতুন জ্যাকেট কিনল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Wear a jacket in cold weather.",
+        "bn": "ঠান্ডা আবহাওয়ায় জ্যাকেট পরো।"
+      },
+      {
+        "en": "She hung her jacket on the door.",
+        "bn": "সে দরজায় তার জ্যাকেট ঝুলাল।"
+      },
+      { "en": "He lost his jacket.", "bn": "সে তার জ্যাকেট হারাল।" },
+      { "en": "The jacket kept her warm.", "bn": "জ্যাকেটটি তাকে উষ্ণ রাখল।" },
+      { "en": "She zipped up her jacket.", "bn": "সে তার জ্যাকেট জিপ করল।" },
+      { "en": "He ironed his jacket.", "bn": "সে তার জ্যাকেট ইস্ত্রি করল।" },
+      { "en": "The jacket was too tight.", "bn": "জ্যাকেটটি খুব টাইট ছিল।" },
+      {
+        "en": "She gifted him a jacket.",
+        "bn": "সে তাকে একটি জ্যাকেট উপহার দিল।"
+      },
+      {
+        "en": "His jacket had many pockets.",
+        "bn": "তার জ্যাকেটে অনেক পকেট ছিল।"
+      },
+      {
+        "en": "Wear your jacket outside.",
+        "bn": "বাইরে যাওয়ার সময় জ্যাকেট পরো।"
+      }
+    ],
+    "synonyms": ["coat", "blazer", "cardigan"]
+  },
+  {
+    "base": "jade",
+    "phonetic": "dʒeɪd",
+    "meaning": "জেড পাথর / ক্লান্ত হওয়া",
+    "examples": [
+      {
+        "en": "She wore a jade necklace.",
+        "bn": "সে একটি জেড পাথরের নেকলেস পরল।"
+      },
+      {
+        "en": "He felt jaded after work.",
+        "bn": "কাজের পর সে ক্লান্ত অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Jade is a precious stone.", "bn": "জেড একটি মূল্যবান পাথর।" },
+      { "en": "She collected jade jewelry.", "bn": "সে জেড গহনা সংগ্রহ করল।" },
+      {
+        "en": "He was jaded by routine.",
+        "bn": "রুটিনে সে ক্লান্ত হয়ে পড়ল।"
+      },
+      { "en": "The jade ring was beautiful.", "bn": "জেড আংটিটি সুন্দর ছিল।" },
+      {
+        "en": "She felt jaded and tired.",
+        "bn": "সে ক্লান্ত ও অবসাদ অনুভব করল।"
+      },
+      { "en": "Jade comes in green color.", "bn": "জেড সবুজ রঙে পাওয়া যায়।" },
+      {
+        "en": "He gifted her a jade bracelet.",
+        "bn": "সে তাকে একটি জেড ব্রেসলেট উপহার দিল।"
+      },
+      {
+        "en": "She was jaded with the job.",
+        "bn": "সে চাকরিতে ক্লান্ত হয়ে পড়ল।"
+      },
+      {
+        "en": "The jade statue was ancient.",
+        "bn": "জেড মূর্তিটি প্রাচীন ছিল।"
+      },
+      {
+        "en": "He admired her jade earrings.",
+        "bn": "সে তার জেড কানের দুলের প্রশংসা করল।"
+      }
+    ],
+    "synonyms": ["gemstone", "weary", "tired"]
+  },
+  {
+    "base": "janitor",
+    "phonetic": "ˈdʒænɪtər",
+    "meaning": "দারোয়ান / পরিচ্ছন্নতা কর্মী",
+    "examples": [
+      {
+        "en": "The janitor cleaned the floor.",
+        "bn": "পরিচ্ছন্নতা কর্মী মেঝে পরিষ্কার করল।"
+      },
+      {
+        "en": "He works as a janitor.",
+        "bn": "সে পরিচ্ছন্নতা কর্মী হিসেবে কাজ করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The janitor mopped the hallway.",
+        "bn": "পরিচ্ছন্নতা কর্মী করিডোর মুছল।"
+      },
+      {
+        "en": "She thanked the janitor.",
+        "bn": "সে পরিচ্ছন্নতা কর্মীকে ধন্যবাদ দিল।"
+      },
+      {
+        "en": "The janitor arrived early.",
+        "bn": "পরিচ্ছন্নতা কর্মী তাড়াতাড়ি এল।"
+      },
+      {
+        "en": "He respects the janitor.",
+        "bn": "সে পরিচ্ছন্নতা কর্মীকে সম্মান করে।"
+      },
+      {
+        "en": "The janitor fixed the door.",
+        "bn": "পরিচ্ছন্নতা কর্মী দরজাটি ঠিক করল।"
+      },
+      {
+        "en": "She smiled at the janitor.",
+        "bn": "সে পরিচ্ছন্নতা কর্মীর দিকে হাসল।"
+      },
+      {
+        "en": "The janitor works every day.",
+        "bn": "পরিচ্ছন্নতা কর্মী প্রতিদিন কাজ করে।"
+      },
+      {
+        "en": "He helped the janitor carry things.",
+        "bn": "সে পরিচ্ছন্নতা কর্মীকে জিনিস বহন করতে সাহায্য করল।"
+      },
+      {
+        "en": "The janitor keeps things clean.",
+        "bn": "পরিচ্ছন্নতা কর্মী জিনিস পরিষ্কার রাখে।"
+      },
+      {
+        "en": "She became a school janitor.",
+        "bn": "সে বিদ্যালয়ের পরিচ্ছন্নতা কর্মী হলো।"
+      }
+    ],
+    "synonyms": ["cleaner", "custodian", "caretaker"]
+  },
+  {
+    "base": "jargon",
+    "phonetic": "ˈdʒɑːrɡən",
+    "meaning": "পরিভাষা / বিশেষ ভাষা",
+    "examples": [
+      {
+        "en": "Avoid using too much jargon.",
+        "bn": "অতিরিক্ত পরিভাষা ব্যবহার এড়িয়ে চলো।"
+      },
+      {
+        "en": "The doctor used medical jargon.",
+        "bn": "ডাক্তার চিকিৎসা পরিভাষা ব্যবহার করলেন।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Technical jargon confuses beginners.",
+        "bn": "প্রযুক্তি পরিভাষা শিক্ষানবিসদের বিভ্রান্ত করে।"
+      },
+      { "en": "He spoke in legal jargon.", "bn": "সে আইনি পরিভাষায় কথা বলল।" },
+      {
+        "en": "She avoided jargon in her speech.",
+        "bn": "সে তার বক্তৃতায় পরিভাষা এড়াল।"
+      },
+      { "en": "Jargon is hard to understand.", "bn": "পরিভাষা বুঝতে কঠিন।" },
+      {
+        "en": "He used computer jargon.",
+        "bn": "সে কম্পিউটার পরিভাষা ব্যবহার করল।"
+      },
+      {
+        "en": "Jargon varies by profession.",
+        "bn": "পেশা অনুযায়ী পরিভাষা আলাদা।"
+      },
+      {
+        "en": "She learned the business jargon.",
+        "bn": "সে ব্যবসায়িক পরিভাষা শিখল।"
+      },
+      {
+        "en": "He explained without jargon.",
+        "bn": "সে পরিভাষা ছাড়া ব্যাখ্যা করল।"
+      },
+      {
+        "en": "Jargon can exclude outsiders.",
+        "bn": "পরিভাষা বাইরের মানুষদের বাদ দিতে পারে।"
+      },
+      {
+        "en": "She disliked industry jargon.",
+        "bn": "সে শিল্পের পরিভাষা পছন্দ করত না।"
+      }
+    ],
+    "synonyms": ["terminology", "slang", "dialect"]
+  },
+  {
+    "base": "jealousy",
+    "phonetic": "ˈdʒeləsi",
+    "meaning": "ঈর্ষা / হিংসা",
+    "examples": [
+      {
+        "en": "Jealousy destroys friendships.",
+        "bn": "ঈর্ষা বন্ধুত্ব নষ্ট করে।"
+      },
+      {
+        "en": "He could not hide his jealousy.",
+        "bn": "সে তার ঈর্ষা লুকাতে পারল না।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She felt jealousy toward her sister.",
+        "bn": "সে তার বোনের প্রতি ঈর্ষা অনুভব করল।"
+      },
+      {
+        "en": "Jealousy leads to unhappiness.",
+        "bn": "ঈর্ষা অসুখীতার দিকে নিয়ে যায়।"
+      },
+      { "en": "He overcame his jealousy.", "bn": "সে তার ঈর্ষা কাটিয়ে উঠল।" },
+      {
+        "en": "Jealousy is a negative emotion.",
+        "bn": "ঈর্ষা একটি নেতিবাচক আবেগ।"
+      },
+      {
+        "en": "She expressed her jealousy openly.",
+        "bn": "সে তার ঈর্ষা প্রকাশ্যে প্রকাশ করল।"
+      },
+      {
+        "en": "Jealousy hurts the jealous person.",
+        "bn": "ঈর্ষা ঈর্ষান্বিত ব্যক্তিকেই কষ্ট দেয়।"
+      },
+      {
+        "en": "He felt jealousy and shame.",
+        "bn": "সে ঈর্ষা ও লজ্জা অনুভব করল।"
+      },
+      { "en": "Jealousy clouds judgment.", "bn": "ঈর্ষা বিচারকে ঘোলাটে করে।" },
+      { "en": "She let go of her jealousy.", "bn": "সে তার ঈর্ষা ছেড়ে দিল।" },
+      {
+        "en": "Jealousy can motivate change.",
+        "bn": "ঈর্ষা পরিবর্তনকে অনুপ্রাণিত করতে পারে।"
+      }
+    ],
+    "synonyms": ["envy", "resentment", "bitterness"]
+  },
+  {
+    "base": "jest",
+    "phonetic": "dʒest",
+    "meaning": "ঠাট্টা করা / রসিকতা",
+    "examples": [
+      { "en": "He said it in jest.", "bn": "সে ঠাট্টা করে বলল।" },
+      {
+        "en": "She jested with her friends.",
+        "bn": "সে বন্ধুদের সাথে রসিকতা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Many a true word is said in jest.",
+        "bn": "অনেক সত্য কথা ঠাট্টায় বলা হয়।"
+      },
+      {
+        "en": "He jested to lighten the mood.",
+        "bn": "সে মেজাজ হালকা করতে ঠাট্টা করল।"
+      },
+      {
+        "en": "She took the jest seriously.",
+        "bn": "সে ঠাট্টাটিকে গুরুত্বের সাথে নিল।"
+      },
+      {
+        "en": "Jest carefully around others.",
+        "bn": "অন্যদের সামনে সাবধানে ঠাট্টা করো।"
+      },
+      {
+        "en": "He enjoyed a good jest.",
+        "bn": "সে একটি ভালো ঠাট্টা উপভোগ করল।"
+      },
+      {
+        "en": "She jested about her mistake.",
+        "bn": "সে তার ভুল নিয়ে ঠাট্টা করল।"
+      },
+      {
+        "en": "His jest made everyone laugh.",
+        "bn": "তার ঠাট্টা সবাইকে হাসাল।"
+      },
+      {
+        "en": "Do not jest about serious things.",
+        "bn": "গুরুত্বপূর্ণ বিষয় নিয়ে ঠাট্টা করো না।"
+      },
+      { "en": "She loved harmless jests.", "bn": "সে নিরীহ ঠাট্টা ভালোবাসত।" },
+      {
+        "en": "He jested with a straight face.",
+        "bn": "সে গম্ভীর মুখে ঠাট্টা করল।"
+      }
+    ],
+    "synonyms": ["joke", "tease", "humor"]
+  },
+  {
+    "base": "jewel",
+    "phonetic": "ˈdʒuːəl",
+    "meaning": "রত্নপাথর / মণি",
+    "examples": [
+      {
+        "en": "She wore a beautiful jewel.",
+        "bn": "সে একটি সুন্দর রত্নপাথর পরল।"
+      },
+      { "en": "The jewel was very rare.", "bn": "রত্নপাথরটি খুব বিরল ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He gifted her a jewel.",
+        "bn": "সে তাকে একটি রত্নপাথর উপহার দিল।"
+      },
+      { "en": "The crown had many jewels.", "bn": "মুকুটে অনেক রত্নপাথর ছিল।" },
+      {
+        "en": "She collected precious jewels.",
+        "bn": "সে মূল্যবান রত্নপাথর সংগ্রহ করল।"
+      },
+      {
+        "en": "The jewel shone brightly.",
+        "bn": "রত্নপাথরটি উজ্জ্বলভাবে চকচক করল।"
+      },
+      { "en": "He sold the jewel.", "bn": "সে রত্নপাথরটি বিক্রি করল।" },
+      { "en": "The jewel was stolen.", "bn": "রত্নপাথরটি চুরি হয়ে গেল।" },
+      {
+        "en": "She kept jewels in a box.",
+        "bn": "সে একটি বাক্সে রত্নপাথর রাখল।"
+      },
+      {
+        "en": "The jewel matched her dress.",
+        "bn": "রত্নপাথরটি তার পোশাকের সাথে মিলল।"
+      },
+      { "en": "He admired the jewel.", "bn": "সে রত্নপাথরটির প্রশংসা করল।" },
+      {
+        "en": "Jewels are found underground.",
+        "bn": "রত্নপাথর মাটির নিচে পাওয়া যায়।"
+      }
+    ],
+    "synonyms": ["gem", "stone", "treasure"]
+  },
+  {
+    "base": "jilt",
+    "phonetic": "dʒɪlt",
+    "meaning": "প্রেম প্রত্যাখ্যান করা / ছেড়ে দেওয়া",
+    "examples": [
+      {
+        "en": "She jilted him before the wedding.",
+        "bn": "সে বিয়ের আগে তাকে ছেড়ে দিল।"
+      },
+      {
+        "en": "He was jilted by his lover.",
+        "bn": "তার প্রেমিকা তাকে প্রত্যাখ্যান করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Being jilted is very painful.",
+        "bn": "প্রত্যাখ্যাত হওয়া খুব কষ্টের।"
+      },
+      {
+        "en": "She jilted him without reason.",
+        "bn": "সে কারণ ছাড়াই তাকে ছেড়ে দিল।"
+      },
+      {
+        "en": "He recovered after being jilted.",
+        "bn": "প্রত্যাখ্যাত হওয়ার পর সে সুস্থ হলো।"
+      },
+      {
+        "en": "She felt guilty for jilting him.",
+        "bn": "তাকে ছেড়ে দেওয়ায় সে অপরাধী অনুভব করল।"
+      },
+      {
+        "en": "He was jilted at the altar.",
+        "bn": "সে বিয়ের মঞ্চে প্রত্যাখ্যাত হলো।"
+      },
+      {
+        "en": "Being jilted changed him.",
+        "bn": "প্রত্যাখ্যাত হওয়া তাকে বদলে দিল।"
+      },
+      { "en": "She jilted her fiance.", "bn": "সে তার বাগদত্তাকে ছেড়ে দিল।" },
+      {
+        "en": "He was jilted and heartbroken.",
+        "bn": "সে প্রত্যাখ্যাত হয়ে মনোভগ্ন হলো।"
+      },
+      {
+        "en": "Jilting someone is hurtful.",
+        "bn": "কাউকে ছেড়ে দেওয়া কষ্টদায়ক।"
+      },
+      {
+        "en": "She regretted jilting him.",
+        "bn": "তাকে ছেড়ে দেওয়ায় সে অনুশোচনা করল।"
+      }
+    ],
+    "synonyms": ["reject", "abandon", "desert"]
+  },
+  {
+    "base": "job",
+    "phonetic": "dʒɒb",
+    "meaning": "কাজ / চাকরি",
+    "examples": [
+      { "en": "She got a new job.", "bn": "সে একটি নতুন চাকরি পেল।" },
+      { "en": "He does his job well.", "bn": "সে তার কাজ ভালোভাবে করে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Finding a job takes time.",
+        "bn": "চাকরি খুঁজে পেতে সময় লাগে।"
+      },
+      { "en": "She loves her job.", "bn": "সে তার চাকরি ভালোবাসে।" },
+      { "en": "He quit his job.", "bn": "সে তার চাকরি ছেড়ে দিল।" },
+      {
+        "en": "A job gives financial stability.",
+        "bn": "চাকরি আর্থিক স্থিতিশীলতা দেয়।"
+      },
+      { "en": "She applied for the job.", "bn": "সে চাকরির জন্য আবেদন করল।" },
+      {
+        "en": "He was offered a good job.",
+        "bn": "তাকে একটি ভালো চাকরির প্রস্তাব দেওয়া হলো।"
+      },
+      { "en": "Do your job with honesty.", "bn": "সততার সাথে তোমার কাজ করো।" },
+      {
+        "en": "She completed the job on time.",
+        "bn": "সে সময়মতো কাজটি সম্পন্ন করল।"
+      },
+      {
+        "en": "He searched for a better job.",
+        "bn": "সে একটি ভালো চাকরির খোঁজ করল।"
+      },
+      {
+        "en": "The job requires experience.",
+        "bn": "চাকরিটির জন্য অভিজ্ঞতা প্রয়োজন।"
+      }
+    ],
+    "synonyms": ["work", "occupation", "profession"]
+  },
+  {
+    "base": "jog",
+    "phonetic": "dʒɒɡ",
+    "meaning": "ধীরে দৌড়ানো / জগিং করা",
+    "examples": [
+      { "en": "She jogs every morning.", "bn": "সে প্রতিদিন সকালে জগিং করে।" },
+      {
+        "en": "He jogged around the park.",
+        "bn": "সে পার্কের চারদিকে জগিং করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Jogging keeps you healthy.", "bn": "জগিং তোমাকে সুস্থ রাখে।" },
+      {
+        "en": "She jogged for thirty minutes.",
+        "bn": "সে ত্রিশ মিনিট জগিং করল।"
+      },
+      { "en": "He jogged in the rain.", "bn": "সে বৃষ্টিতে জগিং করল।" },
+      {
+        "en": "Jog to improve your fitness.",
+        "bn": "স্বাস্থ্য উন্নতির জন্য জগিং করো।"
+      },
+      {
+        "en": "She jogged with her dog.",
+        "bn": "সে তার কুকুরের সাথে জগিং করল।"
+      },
+      { "en": "He jogged to the store.", "bn": "সে দোকানে জগিং করে গেল।" },
+      { "en": "Jogging reduces stress.", "bn": "জগিং মানসিক চাপ কমায়।" },
+      {
+        "en": "She started jogging last year.",
+        "bn": "সে গত বছর জগিং শুরু করল।"
+      },
+      { "en": "He jogged at a slow pace.", "bn": "সে ধীর গতিতে জগিং করল।" },
+      {
+        "en": "Jog early for best results.",
+        "bn": "সেরা ফলাফলের জন্য ভোরে জগিং করো।"
+      }
+    ],
+    "synonyms": ["run", "trot", "exercise"]
+  },
+  {
+    "base": "jostle",
+    "phonetic": "ˈdʒɒsl",
+    "meaning": "ধাক্কাধাক্কি করা / ঠেলাঠেলি করা",
+    "examples": [
+      {
+        "en": "People jostled in the crowd.",
+        "bn": "ভিড়ে মানুষ ধাক্কাধাক্কি করল।"
+      },
+      {
+        "en": "He was jostled on the bus.",
+        "bn": "বাসে সে ধাক্কাধাক্কির শিকার হলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She was jostled in the market.",
+        "bn": "বাজারে সে ধাক্কাধাক্কির শিকার হলো।"
+      },
+      { "en": "Do not jostle others.", "bn": "অন্যদের ধাক্কা দিও না।" },
+      {
+        "en": "They jostled for position.",
+        "bn": "তারা অবস্থানের জন্য ধাক্কাধাক্কি করল।"
+      },
+      {
+        "en": "He jostled through the crowd.",
+        "bn": "সে ভিড় ঠেলে এগিয়ে গেল।"
+      },
+      {
+        "en": "She jostled her way inside.",
+        "bn": "সে ধাক্কাধাক্কি করে ভেতরে গেল।"
+      },
+      {
+        "en": "Jostling causes accidents.",
+        "bn": "ধাক্কাধাক্কি দুর্ঘটনা ঘটায়।"
+      },
+      {
+        "en": "He jostled the bags accidentally.",
+        "bn": "সে ভুলবশত ব্যাগগুলো ধাক্কা দিল।"
+      },
+      {
+        "en": "They jostled at the entrance.",
+        "bn": "তারা প্রবেশদ্বারে ধাক্কাধাক্কি করল।"
+      },
+      { "en": "She jostled past the crowd.", "bn": "সে ভিড় ঠেলে এগিয়ে গেল।" },
+      { "en": "Jostling is rude behavior.", "bn": "ধাক্কাধাক্কি অভদ্র আচরণ।" }
+    ],
+    "synonyms": ["push", "shove", "elbow"]
+  },
+  {
+    "base": "juggle",
+    "phonetic": "ˈdʒʌɡl",
+    "meaning": "জাগলিং করা / একসাথে সামলানো",
+    "examples": [
+      {
+        "en": "He can juggle three balls.",
+        "bn": "সে তিনটি বল জাগলিং করতে পারে।"
+      },
+      {
+        "en": "She juggled work and family.",
+        "bn": "সে কাজ ও পরিবার একসাথে সামলাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Juggling tasks is difficult.",
+        "bn": "একসাথে কাজ সামলানো কঠিন।"
+      },
+      { "en": "He juggled his schedule.", "bn": "সে তার সময়সূচি সামলাল।" },
+      { "en": "She juggled multiple roles.", "bn": "সে একাধিক ভূমিকা সামলাল।" },
+      { "en": "He juggled at the circus.", "bn": "সে সার্কাসে জাগলিং করল।" },
+      { "en": "Juggling requires practice.", "bn": "জাগলিং অনুশীলন প্রয়োজন।" },
+      {
+        "en": "She juggled her responsibilities.",
+        "bn": "সে তার দায়িত্বগুলো সামলাল।"
+      },
+      {
+        "en": "He juggled two jobs at once.",
+        "bn": "সে একসাথে দুটো চাকরি সামলাল।"
+      },
+      { "en": "Juggling balls takes skill.", "bn": "বল জাগলিং দক্ষতা চায়।" },
+      {
+        "en": "She juggled study and sports.",
+        "bn": "সে পড়াশোনা ও খেলাধুলা সামলাল।"
+      },
+      {
+        "en": "He juggled finances carefully.",
+        "bn": "সে সাবধানে অর্থ সামলাল।"
+      }
+    ],
+    "synonyms": ["balance", "manage", "handle"]
+  },
+
+  {
+    "base": "jumpy",
+    "phonetic": "ˈdʒʌmpi",
+    "meaning": "নার্ভাস / চমকপ্রবণ",
+    "examples": [
+      {
+        "en": "She felt jumpy before the exam.",
+        "bn": "পরীক্ষার আগে সে নার্ভাস অনুভব করল।"
+      },
+      { "en": "He was jumpy all night.", "bn": "সে সারারাত চমকপ্রবণ ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The loud noise made her jumpy.",
+        "bn": "জোরে শব্দটি তাকে চমকে দিল।"
+      },
+      { "en": "He gets jumpy in crowds.", "bn": "ভিড়ে সে নার্ভাস হয়ে যায়।" },
+      { "en": "She was jumpy and restless.", "bn": "সে নার্ভাস ও অস্থির ছিল।" },
+      {
+        "en": "Jumpy behavior shows anxiety.",
+        "bn": "চমকপ্রবণ আচরণ উদ্বেগ দেখায়।"
+      },
+      {
+        "en": "He felt jumpy during the storm.",
+        "bn": "ঝড়ের সময় সে নার্ভাস অনুভব করল।"
+      },
+      {
+        "en": "She was jumpy after the news.",
+        "bn": "খবরের পর সে চমকপ্রবণ ছিল।"
+      },
+      { "en": "Being jumpy is exhausting.", "bn": "চমকপ্রবণ থাকা ক্লান্তিকর।" },
+      {
+        "en": "He tried not to be jumpy.",
+        "bn": "সে নার্ভাস না হওয়ার চেষ্টা করল।"
+      },
+      {
+        "en": "She was jumpy at every sound.",
+        "bn": "প্রতিটি শব্দে সে চমকে উঠত।"
+      },
+      {
+        "en": "Jumpy people need calm environments.",
+        "bn": "চমকপ্রবণ মানুষদের শান্ত পরিবেশ দরকার।"
+      }
+    ],
+    "synonyms": ["nervous", "anxious", "restless"]
+  },
+  {
+    "base": "juvenile",
+    "phonetic": "ˈdʒuːvənaɪl",
+    "meaning": "কিশোর / অপ্রাপ্তবয়স্ক",
+    "examples": [
+      {
+        "en": "He was sent to a juvenile center.",
+        "bn": "তাকে কিশোর সংশোধন কেন্দ্রে পাঠানো হলো।"
+      },
+      {
+        "en": "Juvenile behavior is expected.",
+        "bn": "কিশোরসুলভ আচরণ স্বাভাবিক।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The juvenile court handled the case.",
+        "bn": "কিশোর আদালত মামলাটি পরিচালনা করল।"
+      },
+      {
+        "en": "She worked with juvenile offenders.",
+        "bn": "সে কিশোর অপরাধীদের সাথে কাজ করল।"
+      },
+      { "en": "Juvenile crime is increasing.", "bn": "কিশোর অপরাধ বাড়ছে।" },
+      {
+        "en": "He showed juvenile behavior.",
+        "bn": "সে কিশোরসুলভ আচরণ দেখাল।"
+      },
+      { "en": "Juvenile books are colorful.", "bn": "কিশোর বইগুলো রঙিন।" },
+      {
+        "en": "She volunteered at a juvenile center.",
+        "bn": "সে কিশোর কেন্দ্রে স্বেচ্ছাসেবক হলো।"
+      },
+      { "en": "Juvenile minds are curious.", "bn": "কিশোর মন কৌতূহলী।" },
+      {
+        "en": "He outgrew his juvenile habits.",
+        "bn": "সে তার কিশোরসুলভ অভ্যাস ছেড়ে উঠল।"
+      },
+      {
+        "en": "Juvenile education is important.",
+        "bn": "কিশোর শিক্ষা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She studied juvenile psychology.",
+        "bn": "সে কিশোর মনোবিজ্ঞান অধ্যয়ন করল।"
+      }
+    ],
+    "synonyms": ["young", "adolescent", "minor"]
+  },
+  {
+    "base": "jab",
+    "phonetic": "dʒæb",
+    "meaning": "খোঁচা দেওয়া / ঘুষি মারা",
+    "examples": [
+      {
+        "en": "He jabbed his finger at the map.",
+        "bn": "সে মানচিত্রে আঙুল খোঁচাল।"
+      },
+      { "en": "She jabbed him in the ribs.", "bn": "সে তার পাঁজরে খোঁচা দিল।" }
+    ],
+    "moreexample": [
+      { "en": "The boxer jabbed quickly.", "bn": "বক্সার দ্রুত ঘুষি মারল।" },
+      { "en": "He jabbed with his elbow.", "bn": "সে কনুই দিয়ে খোঁচাল।" },
+      {
+        "en": "She felt a sharp jab of pain.",
+        "bn": "সে তীব্র খোঁচার ব্যথা অনুভব করল।"
+      },
+      { "en": "He jabbed the needle in.", "bn": "সে সুচটি খোঁচাল।" },
+      {
+        "en": "The nurse gave him a jab.",
+        "bn": "নার্স তাকে একটি ইনজেকশন দিল।"
+      },
+      {
+        "en": "She jabbed her pen on the paper.",
+        "bn": "সে কাগজে কলম খোঁচাল।"
+      },
+      {
+        "en": "He jabbed the air with his fist.",
+        "bn": "সে মুষ্টি দিয়ে বাতাসে ঘুষি মারল।"
+      },
+      { "en": "Jab lightly not roughly.", "bn": "জোরে নয়, হালকাভাবে খোঁচাও।" },
+      {
+        "en": "She jabbed her fork in the food.",
+        "bn": "সে খাবারে কাঁটাচামচ খোঁচাল।"
+      },
+      {
+        "en": "He took a jab at the issue.",
+        "bn": "সে বিষয়টিতে একটি কটাক্ষ করল।"
+      }
+    ],
+    "synonyms": ["poke", "punch", "stab"]
+  },
+  {
+    "base": "jabber",
+    "phonetic": "ˈdʒæbər",
+    "meaning": "অস্পষ্টভাবে বকবক করা",
+    "examples": [
+      { "en": "Stop jabbering and listen.", "bn": "বকবক বন্ধ করো এবং শোনো।" },
+      { "en": "She jabbered on the phone.", "bn": "সে ফোনে বকবক করল।" }
+    ],
+    "moreexample": [
+      { "en": "He jabbered nervously.", "bn": "সে নার্ভাসভাবে বকবক করল।" },
+      {
+        "en": "The children jabbered excitedly.",
+        "bn": "শিশুরা উত্তেজিতভাবে বকবক করল।"
+      },
+      { "en": "She jabbered about nothing.", "bn": "সে কিছু ছাড়াই বকবক করল।" },
+      { "en": "He jabbered in his sleep.", "bn": "সে ঘুমের মধ্যে বকবক করল।" },
+      {
+        "en": "Stop jabbering and focus.",
+        "bn": "বকবক বন্ধ করো এবং মনোযোগ দাও।"
+      },
+      {
+        "en": "She jabbered with her friends.",
+        "bn": "সে বন্ধুদের সাথে বকবক করল।"
+      },
+      {
+        "en": "He jabbered all through dinner.",
+        "bn": "সে রাতের খাবারের সময় বকবক করল।"
+      },
+      {
+        "en": "Jabbering annoys people.",
+        "bn": "বকবক করা মানুষকে বিরক্ত করে।"
+      },
+      {
+        "en": "She jabbered without stopping.",
+        "bn": "সে না থামিয়ে বকবক করল।"
+      },
+      { "en": "He jabbered in confusion.", "bn": "সে বিভ্রান্তিতে বকবক করল।" }
+    ],
+    "synonyms": ["chatter", "babble", "prattle"]
+  },
+  {
+    "base": "jaded",
+    "phonetic": "ˈdʒeɪdɪd",
+    "meaning": "বিরক্ত / ক্লান্ত / অবসাদগ্রস্ত",
+    "examples": [
+      {
+        "en": "She felt jaded after years of work.",
+        "bn": "বছরের পর বছর কাজের পর সে অবসাদগ্রস্ত হলো।"
+      },
+      {
+        "en": "He had a jaded outlook on life.",
+        "bn": "জীবনের প্রতি তার একটি বিরক্ত দৃষ্টিভঙ্গি ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Jaded people lack enthusiasm.",
+        "bn": "অবসাদগ্রস্ত মানুষের উৎসাহ নেই।"
+      },
+      {
+        "en": "He became jaded with politics.",
+        "bn": "সে রাজনীতিতে বিরক্ত হয়ে পড়ল।"
+      },
+      {
+        "en": "She felt jaded and hopeless.",
+        "bn": "সে অবসাদগ্রস্ত ও হতাশ অনুভব করল।"
+      },
+      {
+        "en": "A jaded mind needs rest.",
+        "bn": "একটি অবসাদগ্রস্ত মন বিশ্রাম চায়।"
+      },
+      {
+        "en": "He was jaded by failures.",
+        "bn": "ব্যর্থতায় সে অবসাদগ্রস্ত হলো।"
+      },
+      {
+        "en": "She looked jaded and tired.",
+        "bn": "সে অবসাদগ্রস্ত ও ক্লান্ত দেখাল।"
+      },
+      {
+        "en": "Being jaded blocks creativity.",
+        "bn": "অবসাদগ্রস্ততা সৃজনশীলতা রোধ করে।"
+      },
+      {
+        "en": "He overcame his jaded feelings.",
+        "bn": "সে তার অবসাদগ্রস্ত অনুভূতি কাটিয়ে উঠল।"
+      },
+      {
+        "en": "She was jaded with routine life.",
+        "bn": "সে রুটিন জীবনে বিরক্ত হয়ে পড়ল।"
+      },
+      {
+        "en": "Travel helps jaded minds.",
+        "bn": "ভ্রমণ অবসাদগ্রস্ত মনকে সাহায্য করে।"
+      }
+    ],
+    "synonyms": ["weary", "tired", "bored"]
+  },
+  {
+    "base": "jagged",
+    "phonetic": "ˈdʒæɡɪd",
+    "meaning": "এবড়োখেবড়ো / দাঁতালো",
+    "examples": [
+      {
+        "en": "The rock had a jagged edge.",
+        "bn": "পাথরটির একটি এবড়োখেবড়ো প্রান্ত ছিল।"
+      },
+      {
+        "en": "She cut her hand on a jagged piece.",
+        "bn": "সে এবড়োখেবড়ো টুকরায় হাত কাটল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The jagged cliff was dangerous.",
+        "bn": "এবড়োখেবড়ো খাড়া পাথর বিপজ্জনক ছিল।"
+      },
+      {
+        "en": "He saw jagged mountains ahead.",
+        "bn": "সে সামনে এবড়োখেবড়ো পাহাড় দেখল।"
+      },
+      {
+        "en": "The glass had a jagged edge.",
+        "bn": "কাচটির একটি দাঁতালো প্রান্ত ছিল।"
+      },
+      {
+        "en": "She avoided the jagged rocks.",
+        "bn": "সে এবড়োখেবড়ো পাথর এড়াল।"
+      },
+      {
+        "en": "The jagged path was hard to walk.",
+        "bn": "এবড়োখেবড়ো পথে হাঁটা কঠিন ছিল।"
+      },
+      {
+        "en": "He touched the jagged surface.",
+        "bn": "সে এবড়োখেবড়ো পৃষ্ঠ স্পর্শ করল।"
+      },
+      {
+        "en": "The jagged edges cut easily.",
+        "bn": "দাঁতালো প্রান্তগুলো সহজে কাটে।"
+      },
+      {
+        "en": "She sanded the jagged wood.",
+        "bn": "সে এবড়োখেবড়ো কাঠ মসৃণ করল।"
+      },
+      {
+        "en": "The jagged line was uneven.",
+        "bn": "দাঁতালো রেখাটি অসমান ছিল।"
+      },
+      {
+        "en": "He drew a jagged shape.",
+        "bn": "সে একটি এবড়োখেবড়ো আকৃতি আঁকল।"
+      }
+    ],
+    "synonyms": ["rough", "uneven", "serrated"]
+  },
+  {
+    "base": "jaunty",
+    "phonetic": "ˈdʒɔːnti",
+    "meaning": "প্রফুল্ল / আত্মবিশ্বাসী",
+    "examples": [
+      {
+        "en": "He walked with a jaunty step.",
+        "bn": "সে আত্মবিশ্বাসী পদক্ষেপে হাঁটল।"
+      },
+      {
+        "en": "She had a jaunty attitude.",
+        "bn": "তার একটি প্রফুল্ল মনোভাব ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He wore his hat at a jaunty angle.",
+        "bn": "সে একটি আত্মবিশ্বাসী কোণে টুপি পরল।"
+      },
+      {
+        "en": "She greeted everyone jauntily.",
+        "bn": "সে সবাইকে প্রফুল্লভাবে অভিবাদন জানাল।"
+      },
+      {
+        "en": "His jaunty smile won hearts.",
+        "bn": "তার প্রফুল্ল হাসি মন জয় করল।"
+      },
+      {
+        "en": "She walked jauntily to class.",
+        "bn": "সে আত্মবিশ্বাসের সাথে ক্লাসে হাঁটল।"
+      },
+      {
+        "en": "He had a jaunty confidence.",
+        "bn": "তার একটি প্রফুল্ল আত্মবিশ্বাস ছিল।"
+      },
+      {
+        "en": "Her jaunty manner charmed people.",
+        "bn": "তার প্রফুল্ল ব্যবহার মানুষকে মুগ্ধ করল।"
+      },
+      { "en": "He spoke in a jaunty tone.", "bn": "সে প্রফুল্ল সুরে কথা বলল।" },
+      {
+        "en": "She had a jaunty walk.",
+        "bn": "তার একটি আত্মবিশ্বাসী চলন ছিল।"
+      },
+      {
+        "en": "His jaunty mood was infectious.",
+        "bn": "তার প্রফুল্ল মেজাজ সংক্রামক ছিল।"
+      },
+      {
+        "en": "She felt jaunty and free.",
+        "bn": "সে প্রফুল্ল ও মুক্ত অনুভব করল।"
+      }
+    ],
+    "synonyms": ["cheerful", "lively", "confident"]
+  },
+  {
+    "base": "javelin",
+    "phonetic": "ˈdʒævlɪn",
+    "meaning": "বর্শা / জ্যাভেলিন",
+    "examples": [
+      { "en": "She threw the javelin far.", "bn": "সে জ্যাভেলিন দূরে ছুঁড়ল।" },
+      { "en": "He won the javelin event.", "bn": "সে জ্যাভেলিন ইভেন্ট জিতল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Javelin throwing is an Olympic sport.",
+        "bn": "জ্যাভেলিন নিক্ষেপ একটি অলিম্পিক ক্রীড়া।"
+      },
+      {
+        "en": "She practiced javelin daily.",
+        "bn": "সে প্রতিদিন জ্যাভেলিন অনুশীলন করল।"
+      },
+      {
+        "en": "He held the javelin firmly.",
+        "bn": "সে জ্যাভেলিন শক্তভাবে ধরল।"
+      },
+      {
+        "en": "The javelin landed far away.",
+        "bn": "জ্যাভেলিনটি অনেক দূরে পড়ল।"
+      },
+      {
+        "en": "She learned to throw a javelin.",
+        "bn": "সে জ্যাভেলিন ছুঁড়তে শিখল।"
+      },
+      {
+        "en": "He broke the javelin record.",
+        "bn": "সে জ্যাভেলিনের রেকর্ড ভাঙল।"
+      },
+      {
+        "en": "The javelin is a long spear.",
+        "bn": "জ্যাভেলিন একটি লম্বা বর্শা।"
+      },
+      {
+        "en": "She competed in the javelin event.",
+        "bn": "সে জ্যাভেলিন ইভেন্টে প্রতিযোগিতা করল।"
+      },
+      {
+        "en": "He trained hard for javelin.",
+        "bn": "সে জ্যাভেলিনের জন্য কঠোর প্রশিক্ষণ নিল।"
+      },
+      {
+        "en": "The javelin throw requires strength.",
+        "bn": "জ্যাভেলিন নিক্ষেপে শক্তি দরকার।"
+      }
+    ],
+    "synonyms": ["spear", "lance", "dart"]
+  },
+  {
+    "base": "jitter",
+    "phonetic": "ˈdʒɪtər",
+    "meaning": "অস্থিরতা / নার্ভাসনেস",
+    "examples": [
+      {
+        "en": "She had the jitters before speaking.",
+        "bn": "বক্তৃতার আগে সে নার্ভাস ছিল।"
+      },
+      {
+        "en": "He felt jittery all morning.",
+        "bn": "সে সারা সকাল অস্থির অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Jitters are normal before exams.",
+        "bn": "পরীক্ষার আগে অস্থিরতা স্বাভাবিক।"
+      },
+      {
+        "en": "She overcame her jitters.",
+        "bn": "সে তার অস্থিরতা কাটিয়ে উঠল।"
+      },
+      { "en": "He had jitters on stage.", "bn": "মঞ্চে সে অস্থির হয়ে পড়ল।" },
+      {
+        "en": "The jitters made her hands shake.",
+        "bn": "অস্থিরতায় তার হাত কাঁপল।"
+      },
+      {
+        "en": "She felt jitters on her wedding day.",
+        "bn": "বিয়ের দিন সে অস্থির অনুভব করল।"
+      },
+      { "en": "He calmed his jitters.", "bn": "সে তার অস্থিরতা শান্ত করল।" },
+      {
+        "en": "Jitters can affect performance.",
+        "bn": "অস্থিরতা পারফরম্যান্স প্রভাবিত করতে পারে।"
+      },
+      {
+        "en": "She had jitters before the interview.",
+        "bn": "সাক্ষাৎকারের আগে সে অস্থির ছিল।"
+      },
+      {
+        "en": "Deep breathing reduces jitters.",
+        "bn": "গভীর শ্বাস অস্থিরতা কমায়।"
+      },
+      { "en": "He got rid of his jitters.", "bn": "সে তার অস্থিরতা দূর করল।" }
+    ],
+    "synonyms": ["nervousness", "anxiety", "unease"]
+  },
+  {
+    "base": "jolly",
+    "phonetic": "ˈdʒɒli",
+    "meaning": "হাসিখুশি / আনন্দময়",
+    "examples": [
+      { "en": "She was in a jolly mood.", "bn": "সে হাসিখুশি মেজাজে ছিল।" },
+      { "en": "He was a jolly old man.", "bn": "সে একজন হাসিখুশি বৃদ্ধ ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The party was jolly and fun.",
+        "bn": "পার্টিটি হাসিখুশি ও মজার ছিল।"
+      },
+      {
+        "en": "She greeted us in a jolly way.",
+        "bn": "সে আমাদের হাসিখুশিভাবে স্বাগত জানাল।"
+      },
+      { "en": "He had a jolly laugh.", "bn": "তার একটি হাসিখুশি হাসি ছিল।" },
+      {
+        "en": "They had a jolly time.",
+        "bn": "তারা একটি আনন্দময় সময় কাটাল।"
+      },
+      { "en": "She was always jolly.", "bn": "সে সবসময় হাসিখুশি ছিল।" },
+      {
+        "en": "His jolly nature was infectious.",
+        "bn": "তার হাসিখুশি স্বভাব সংক্রামক ছিল।"
+      },
+      { "en": "They sang jolly songs.", "bn": "তারা আনন্দময় গান গাইল।" },
+      {
+        "en": "He made everyone feel jolly.",
+        "bn": "সে সবাইকে হাসিখুশি অনুভব করাল।"
+      },
+      {
+        "en": "She had a jolly personality.",
+        "bn": "তার একটি হাসিখুশি ব্যক্তিত্ব ছিল।"
+      },
+      { "en": "The jolly crowd cheered.", "bn": "হাসিখুশি ভিড় উৎসাহ দিল।" }
+    ],
+    "synonyms": ["cheerful", "merry", "happy"]
+  },
+  {
+    "base": "joyful",
+    "phonetic": "ˈdʒɔɪfl",
+    "meaning": "আনন্দিত / সুখী",
+    "examples": [
+      { "en": "She was joyful at the news.", "bn": "খবরে সে আনন্দিত হলো।" },
+      { "en": "He had a joyful expression.", "bn": "তার মুখে আনন্দিত ভাব ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "The children were joyful.", "bn": "শিশুরা আনন্দিত ছিল।" },
+      { "en": "She felt joyful inside.", "bn": "সে ভেতরে আনন্দিত অনুভব করল।" },
+      {
+        "en": "He was joyful after winning.",
+        "bn": "জেতার পর সে আনন্দিত হলো।"
+      },
+      {
+        "en": "It was a joyful celebration.",
+        "bn": "এটি একটি আনন্দিত উদযাপন ছিল।"
+      },
+      {
+        "en": "She spread joyful energy.",
+        "bn": "সে আনন্দিত শক্তি ছড়িয়ে দিল।"
+      },
+      { "en": "He had a joyful heart.", "bn": "তার একটি আনন্দিত হৃদয় ছিল।" },
+      {
+        "en": "They had a joyful reunion.",
+        "bn": "তাদের একটি আনন্দিত পুনর্মিলন হলো।"
+      },
+      {
+        "en": "She was joyful on her birthday.",
+        "bn": "জন্মদিনে সে আনন্দিত ছিল।"
+      },
+      {
+        "en": "His joyful laughter filled the room.",
+        "bn": "তার আনন্দিত হাসি ঘর ভরিয়ে দিল।"
+      },
+      { "en": "Be joyful in all things.", "bn": "সব বিষয়ে আনন্দিত হও।" }
+    ],
+    "synonyms": ["happy", "delighted", "cheerful"]
+  },
+  {
+    "base": "joyless",
+    "phonetic": "ˈdʒɔɪləs",
+    "meaning": "আনন্দহীন / বিষণ্ণ",
+    "examples": [
+      {
+        "en": "He lived a joyless life.",
+        "bn": "সে একটি আনন্দহীন জীবন কাটাল।"
+      },
+      {
+        "en": "She felt joyless and empty.",
+        "bn": "সে আনন্দহীন ও শূন্য অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The joyless room was dark.",
+        "bn": "আনন্দহীন ঘরটি অন্ধকার ছিল।"
+      },
+      {
+        "en": "He had a joyless expression.",
+        "bn": "তার মুখে আনন্দহীন ভাব ছিল।"
+      },
+      {
+        "en": "She led a joyless existence.",
+        "bn": "সে একটি আনন্দহীন অস্তিত্ব কাটাল।"
+      },
+      {
+        "en": "Joyless work drains energy.",
+        "bn": "আনন্দহীন কাজ শক্তি নষ্ট করে।"
+      },
+      {
+        "en": "He became joyless over time.",
+        "bn": "সময়ের সাথে সে আনন্দহীন হয়ে পড়ল।"
+      },
+      {
+        "en": "She felt joyless after the loss.",
+        "bn": "ক্ষতির পর সে আনন্দহীন অনুভব করল।"
+      },
+      {
+        "en": "A joyless mind needs healing.",
+        "bn": "একটি আনন্দহীন মনের নিরাময় দরকার।"
+      },
+      {
+        "en": "He tried to escape joylessness.",
+        "bn": "সে আনন্দহীনতা থেকে বের হওয়ার চেষ্টা করল।"
+      },
+      {
+        "en": "She overcame her joyless phase.",
+        "bn": "সে তার আনন্দহীন পর্যায় কাটিয়ে উঠল।"
+      },
+      {
+        "en": "Joyless days feel very long.",
+        "bn": "আনন্দহীন দিনগুলো অনেক দীর্ঘ মনে হয়।"
+      }
+    ],
+    "synonyms": ["sad", "gloomy", "unhappy"]
+  },
+  {
+    "base": "jubilation",
+    "phonetic": "ˌdʒuːbɪˈleɪʃn",
+    "meaning": "উল্লাস / আনন্দোৎসব",
+    "examples": [
+      {
+        "en": "There was jubilation in the streets.",
+        "bn": "রাস্তায় উল্লাস ছিল।"
+      },
+      {
+        "en": "She expressed jubilation at winning.",
+        "bn": "জেতায় সে উল্লাস প্রকাশ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The jubilation lasted all night.",
+        "bn": "উল্লাস সারারাত স্থায়ী হলো।"
+      },
+      {
+        "en": "He felt jubilation inside.",
+        "bn": "সে ভেতরে উল্লাস অনুভব করল।"
+      },
+      { "en": "The jubilation was contagious.", "bn": "উল্লাস সংক্রামক ছিল।" },
+      { "en": "She joined the jubilation.", "bn": "সে উল্লাসে যোগ দিল।" },
+      { "en": "There was jubilation everywhere.", "bn": "সর্বত্র উল্লাস ছিল।" },
+      {
+        "en": "He expressed his jubilation loudly.",
+        "bn": "সে জোরে তার উল্লাস প্রকাশ করল।"
+      },
+      {
+        "en": "Jubilation filled the stadium.",
+        "bn": "উল্লাস স্টেডিয়াম ভরিয়ে দিল।"
+      },
+      { "en": "She danced in jubilation.", "bn": "সে উল্লাসে নাচল।" },
+      {
+        "en": "The jubilation was well deserved.",
+        "bn": "উল্লাসটি সত্যিই যোগ্য ছিল।"
+      },
+      {
+        "en": "He could not hide his jubilation.",
+        "bn": "সে তার উল্লাস লুকাতে পারল না।"
+      }
+    ],
+    "synonyms": ["celebration", "rejoicing", "triumph"]
+  },
+  {
+    "base": "judicial",
+    "phonetic": "dʒuːˈdɪʃl",
+    "meaning": "বিচারিক / আদালত সংক্রান্ত",
+    "examples": [
+      {
+        "en": "The judicial process takes time.",
+        "bn": "বিচারিক প্রক্রিয়া সময় নেয়।"
+      },
+      { "en": "She studied judicial law.", "bn": "সে বিচারিক আইন অধ্যয়ন করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He appeared before a judicial panel.",
+        "bn": "সে একটি বিচারিক প্যানেলের সামনে হাজির হলো।"
+      },
+      {
+        "en": "Judicial decisions must be fair.",
+        "bn": "বিচারিক সিদ্ধান্ত ন্যায়সঙ্গত হতে হবে।"
+      },
+      {
+        "en": "She questioned the judicial system.",
+        "bn": "সে বিচারিক ব্যবস্থাকে প্রশ্ন করল।"
+      },
+      {
+        "en": "Judicial review is important.",
+        "bn": "বিচারিক পর্যালোচনা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "He trusted the judicial process.",
+        "bn": "সে বিচারিক প্রক্রিয়ায় বিশ্বাস রাখল।"
+      },
+      {
+        "en": "The judicial ruling was final.",
+        "bn": "বিচারিক রায়টি চূড়ান্ত ছিল।"
+      },
+      {
+        "en": "She worked in the judicial system.",
+        "bn": "সে বিচারিক ব্যবস্থায় কাজ করল।"
+      },
+      {
+        "en": "Judicial power must be balanced.",
+        "bn": "বিচারিক ক্ষমতা সুষম হতে হবে।"
+      },
+      {
+        "en": "He challenged the judicial order.",
+        "bn": "সে বিচারিক আদেশকে চ্যালেঞ্জ করল।"
+      },
+      {
+        "en": "The judicial committee met today.",
+        "bn": "বিচারিক কমিটি আজ মিলিত হলো।"
+      }
+    ],
+    "synonyms": ["legal", "judiciary", "court"]
+  },
+  {
+    "base": "judicious",
+    "phonetic": "dʒuːˈdɪʃəs",
+    "meaning": "বিচক্ষণ / বুদ্ধিমান",
+    "examples": [
+      {
+        "en": "She made a judicious decision.",
+        "bn": "সে একটি বিচক্ষণ সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "He was judicious in his choices.",
+        "bn": "সে তার পছন্দে বিচক্ষণ ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Be judicious with your money.",
+        "bn": "তোমার অর্থ ব্যাপারে বিচক্ষণ হও।"
+      },
+      { "en": "She gave judicious advice.", "bn": "সে বিচক্ষণ পরামর্শ দিল।" },
+      { "en": "He was judicious and calm.", "bn": "সে বিচক্ষণ ও শান্ত ছিল।" },
+      {
+        "en": "Judicious planning avoids mistakes.",
+        "bn": "বিচক্ষণ পরিকল্পনা ভুল এড়ায়।"
+      },
+      {
+        "en": "She was judicious in her words.",
+        "bn": "সে তার কথায় বিচক্ষণ ছিল।"
+      },
+      {
+        "en": "He made judicious use of time.",
+        "bn": "সে সময়ের বিচক্ষণ ব্যবহার করল।"
+      },
+      {
+        "en": "Judicious leaders make good decisions.",
+        "bn": "বিচক্ষণ নেতারা ভালো সিদ্ধান্ত নেন।"
+      },
+      { "en": "She was always judicious.", "bn": "সে সবসময় বিচক্ষণ ছিল।" },
+      {
+        "en": "He acted in a judicious manner.",
+        "bn": "সে বিচক্ষণভাবে কাজ করল।"
+      },
+      {
+        "en": "Judicious thinking solves problems.",
+        "bn": "বিচক্ষণ চিন্তা সমস্যা সমাধান করে।"
+      }
+    ],
+    "synonyms": ["wise", "prudent", "sensible"]
+  },
+  {
+    "base": "junction",
+    "phonetic": "ˈdʒʌŋkʃn",
+    "meaning": "সংযোগস্থল / মোড়",
+    "examples": [
+      { "en": "Turn left at the junction.", "bn": "মোড়ে বাম দিকে ঘুরো।" },
+      { "en": "They met at the junction.", "bn": "তারা সংযোগস্থলে মিলিত হলো।" }
+    ],
+    "moreexample": [
+      { "en": "The junction was very busy.", "bn": "মোড়টি খুব ব্যস্ত ছিল।" },
+      { "en": "He waited at the junction.", "bn": "সে মোড়ে অপেক্ষা করল।" },
+      {
+        "en": "The junction connects two roads.",
+        "bn": "সংযোগস্থলটি দুটি রাস্তা সংযুক্ত করে।"
+      },
+      { "en": "She stopped at the junction.", "bn": "সে মোড়ে থামল।" },
+      {
+        "en": "The junction had traffic lights.",
+        "bn": "মোড়টিতে ট্রাফিক লাইট ছিল।"
+      },
+      {
+        "en": "He crossed the junction carefully.",
+        "bn": "সে সাবধানে মোড় পার হলো।"
+      },
+      {
+        "en": "The railway junction was large.",
+        "bn": "রেলওয়ে সংযোগস্থলটি বড় ছিল।"
+      },
+      {
+        "en": "She drove through the junction.",
+        "bn": "সে মোড় দিয়ে গাড়ি চালাল।"
+      },
+      { "en": "The junction was poorly lit.", "bn": "মোড়টিতে আলো কম ছিল।" },
+      {
+        "en": "He built a junction there.",
+        "bn": "সে সেখানে একটি সংযোগস্থল তৈরি করল।"
+      }
+    ],
+    "synonyms": ["intersection", "crossroads", "meeting point"]
+  },
+  {
+    "base": "jurisdiction",
+    "phonetic": "ˌdʒʊərɪsˈdɪkʃn",
+    "meaning": "এখতিয়ার / বিচারাধিকার",
+    "examples": [
+      {
+        "en": "This falls under our jurisdiction.",
+        "bn": "এটি আমাদের এখতিয়ারের মধ্যে পড়ে।"
+      },
+      {
+        "en": "The court had no jurisdiction.",
+        "bn": "আদালতের কোনো বিচারাধিকার ছিল না।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He questioned the jurisdiction.",
+        "bn": "সে এখতিয়ারকে প্রশ্ন করল।"
+      },
+      {
+        "en": "She worked within her jurisdiction.",
+        "bn": "সে তার এখতিয়ারের মধ্যে কাজ করল।"
+      },
+      {
+        "en": "Jurisdiction varies by country.",
+        "bn": "দেশ অনুযায়ী এখতিয়ার আলাদা।"
+      },
+      {
+        "en": "He exceeded his jurisdiction.",
+        "bn": "সে তার এখতিয়ার ছাড়িয়ে গেল।"
+      },
+      {
+        "en": "The case fell outside jurisdiction.",
+        "bn": "মামলাটি এখতিয়ারের বাইরে পড়ল।"
+      },
+      {
+        "en": "She understood her jurisdiction.",
+        "bn": "সে তার এখতিয়ার বুঝল।"
+      },
+      {
+        "en": "Jurisdiction defines legal authority.",
+        "bn": "এখতিয়ার আইনি কর্তৃত্ব নির্ধারণ করে।"
+      },
+      {
+        "en": "He argued over jurisdiction.",
+        "bn": "সে এখতিয়ার নিয়ে তর্ক করল।"
+      },
+      {
+        "en": "The local court had jurisdiction.",
+        "bn": "স্থানীয় আদালতের এখতিয়ার ছিল।"
+      },
+      {
+        "en": "Jurisdiction must be respected.",
+        "bn": "এখতিয়ার মেনে চলতে হবে।"
+      }
+    ],
+    "synonyms": ["authority", "power", "control"]
+  },
+  {
+    "base": "justification",
+    "phonetic": "ˌdʒʌstɪfɪˈkeɪʃn",
+    "meaning": "যুক্তি / কারণ / ন্যায্যতা",
+    "examples": [
+      { "en": "He had no justification.", "bn": "তার কোনো যুক্তি ছিল না।" },
+      {
+        "en": "She gave justification for her action.",
+        "bn": "সে তার কাজের কারণ দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Provide justification for your answer.",
+        "bn": "তোমার উত্তরের জন্য যুক্তি দাও।"
+      },
+      { "en": "He sought justification.", "bn": "সে ন্যায্যতা খুঁজল।" },
+      {
+        "en": "There is no justification for lying.",
+        "bn": "মিথ্যার কোনো ন্যায্যতা নেই।"
+      },
+      {
+        "en": "She accepted his justification.",
+        "bn": "সে তার যুক্তি মেনে নিল।"
+      },
+      {
+        "en": "Justification is needed here.",
+        "bn": "এখানে ন্যায্যতা প্রয়োজন।"
+      },
+      {
+        "en": "He gave a weak justification.",
+        "bn": "সে একটি দুর্বল যুক্তি দিল।"
+      },
+      {
+        "en": "She questioned his justification.",
+        "bn": "সে তার যুক্তি প্রশ্ন করল।"
+      },
+      {
+        "en": "Justification requires evidence.",
+        "bn": "ন্যায্যতার জন্য প্রমাণ দরকার।"
+      },
+      {
+        "en": "He failed to provide justification.",
+        "bn": "সে যুক্তি দিতে ব্যর্থ হলো।"
+      },
+      {
+        "en": "Her justification was convincing.",
+        "bn": "তার যুক্তি বিশ্বাসযোগ্য ছিল।"
+      }
+    ],
+    "synonyms": ["reason", "explanation", "defense"]
+  },
+  {
+    "base": "jaundice",
+    "phonetic": "ˈdʒɔːndɪs",
+    "meaning": "জন্ডিস / পক্ষপাতদুষ্ট দৃষ্টিভঙ্গি",
+    "examples": [
+      { "en": "He was diagnosed with jaundice.", "bn": "তার জন্ডিস ধরা পড়ল।" },
+      {
+        "en": "She had a jaundiced view.",
+        "bn": "তার একটি পক্ষপাতদুষ্ট দৃষ্টিভঙ্গি ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Jaundice turns skin yellow.",
+        "bn": "জন্ডিস ত্বক হলুদ করে দেয়।"
+      },
+      { "en": "He recovered from jaundice.", "bn": "সে জন্ডিস থেকে সেরে উঠল।" },
+      {
+        "en": "Jaundice affects the liver.",
+        "bn": "জন্ডিস যকৃতকে প্রভাবিত করে।"
+      },
+      {
+        "en": "She was treated for jaundice.",
+        "bn": "তার জন্ডিসের চিকিৎসা হলো।"
+      },
+      {
+        "en": "Jaundice requires rest and care.",
+        "bn": "জন্ডিসে বিশ্রাম ও যত্ন দরকার।"
+      },
+      {
+        "en": "He had a jaundiced opinion.",
+        "bn": "তার একটি পক্ষপাতদুষ্ট মতামত ছিল।"
+      },
+      {
+        "en": "Jaundice is a liver condition.",
+        "bn": "জন্ডিস একটি যকৃতের অবস্থা।"
+      },
+      {
+        "en": "She avoided jaundice by eating well.",
+        "bn": "সুষম খাবার খেয়ে সে জন্ডিস এড়াল।"
+      },
+      {
+        "en": "The baby had neonatal jaundice.",
+        "bn": "শিশুটির নবজাতক জন্ডিস ছিল।"
+      },
+      {
+        "en": "He looked yellow from jaundice.",
+        "bn": "জন্ডিসের কারণে সে হলুদ দেখাল।"
+      }
+    ],
+    "synonyms": ["liver disease", "bias", "prejudice"]
+  },
+
+  {
+    "base": "jawbone",
+    "phonetic": "ˈdʒɔːboʊn",
+    "meaning": "চোয়ালের হাড়",
+    "examples": [
+      { "en": "He broke his jawbone.", "bn": "সে তার চোয়ালের হাড় ভাঙল।" },
+      {
+        "en": "The jawbone was examined.",
+        "bn": "চোয়ালের হাড়টি পরীক্ষা করা হলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The jawbone supports the teeth.",
+        "bn": "চোয়ালের হাড় দাঁত ধরে রাখে।"
+      },
+      {
+        "en": "She injured her jawbone.",
+        "bn": "সে তার চোয়ালের হাড় আঘাত পেল।"
+      },
+      {
+        "en": "The jawbone is very strong.",
+        "bn": "চোয়ালের হাড় খুব শক্তিশালী।"
+      },
+      {
+        "en": "He had surgery on his jawbone.",
+        "bn": "তার চোয়ালের হাড়ে অস্ত্রোপচার হলো।"
+      },
+      {
+        "en": "The doctor examined the jawbone.",
+        "bn": "ডাক্তার চোয়ালের হাড় পরীক্ষা করলেন।"
+      },
+      {
+        "en": "She felt pain in her jawbone.",
+        "bn": "সে তার চোয়ালের হাড়ে ব্যথা অনুভব করল।"
+      },
+      {
+        "en": "The jawbone connects to the skull.",
+        "bn": "চোয়ালের হাড় মাথার খুলির সাথে সংযুক্ত।"
+      },
+      {
+        "en": "His jawbone was very prominent.",
+        "bn": "তার চোয়ালের হাড় খুব স্পষ্ট ছিল।"
+      },
+      {
+        "en": "The jawbone healed slowly.",
+        "bn": "চোয়ালের হাড় ধীরে ধীরে সেরে উঠল।"
+      },
+      {
+        "en": "She x-rayed her jawbone.",
+        "bn": "সে তার চোয়ালের হাড়ের এক্স-রে করাল।"
+      }
+    ],
+    "synonyms": ["mandible", "jaw", "bone"]
+  },
+  {
+    "base": "jealousness",
+    "phonetic": "ˈdʒeləsnəs",
+    "meaning": "ঈর্ষাপরায়ণতা",
+    "examples": [
+      {
+        "en": "His jealousness was obvious.",
+        "bn": "তার ঈর্ষাপরায়ণতা স্পষ্ট ছিল।"
+      },
+      {
+        "en": "Jealousness ruined their friendship.",
+        "bn": "ঈর্ষাপরায়ণতা তাদের বন্ধুত্ব নষ্ট করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She showed her jealousness openly.",
+        "bn": "সে প্রকাশ্যে তার ঈর্ষাপরায়ণতা দেখাল।"
+      },
+      {
+        "en": "Jealousness is a toxic feeling.",
+        "bn": "ঈর্ষাপরায়ণতা একটি ক্ষতিকর অনুভূতি।"
+      },
+      {
+        "en": "He struggled with jealousness.",
+        "bn": "সে ঈর্ষাপরায়ণতার সাথে লড়াই করল।"
+      },
+      {
+        "en": "Jealousness stems from insecurity.",
+        "bn": "ঈর্ষাপরায়ণতা অনিরাপত্তা থেকে আসে।"
+      },
+      {
+        "en": "She overcame her jealousness.",
+        "bn": "সে তার ঈর্ষাপরায়ণতা কাটিয়ে উঠল।"
+      },
+      {
+        "en": "His jealousness hurt everyone.",
+        "bn": "তার ঈর্ষাপরায়ণতা সবাইকে কষ্ট দিল।"
+      },
+      {
+        "en": "Jealousness destroys relationships.",
+        "bn": "ঈর্ষাপরায়ণতা সম্পর্ক নষ্ট করে।"
+      },
+      {
+        "en": "She hid her jealousness well.",
+        "bn": "সে তার ঈর্ষাপরায়ণতা ভালোভাবে লুকাল।"
+      },
+      {
+        "en": "Jealousness needs to be controlled.",
+        "bn": "ঈর্ষাপরায়ণতা নিয়ন্ত্রণ করতে হবে।"
+      },
+      {
+        "en": "He admitted his jealousness.",
+        "bn": "সে তার ঈর্ষাপরায়ণতা স্বীকার করল।"
+      }
+    ],
+    "synonyms": ["envy", "resentment", "covetousness"]
+  },
+  {
+    "base": "jewelry",
+    "phonetic": "ˈdʒuːəlri",
+    "meaning": "গহনা / অলংকার",
+    "examples": [
+      { "en": "She wore beautiful jewelry.", "bn": "সে সুন্দর গহনা পরল।" },
+      { "en": "He bought jewelry for her.", "bn": "সে তার জন্য গহনা কিনল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The jewelry was very expensive.",
+        "bn": "গহনাগুলো খুব দামি ছিল।"
+      },
+      {
+        "en": "She kept her jewelry in a box.",
+        "bn": "সে একটি বাক্সে গহনা রাখল।"
+      },
+      {
+        "en": "He gifted her gold jewelry.",
+        "bn": "সে তাকে সোনার গহনা উপহার দিল।"
+      },
+      { "en": "Jewelry is a sign of elegance.", "bn": "গহনা পরিশীলনের চিহ্ন।" },
+      {
+        "en": "She designed her own jewelry.",
+        "bn": "সে নিজের গহনা ডিজাইন করল।"
+      },
+      {
+        "en": "The jewelry store was crowded.",
+        "bn": "গহনার দোকানটি ভিড়ে ভরা ছিল।"
+      },
+      { "en": "He admired her jewelry.", "bn": "সে তার গহনার প্রশংসা করল।" },
+      {
+        "en": "She inherited family jewelry.",
+        "bn": "সে পারিবারিক গহনা উত্তরাধিকার সূত্রে পেল।"
+      },
+      { "en": "The jewelry was stolen.", "bn": "গহনাগুলো চুরি হয়ে গেল।" },
+      { "en": "She wore minimal jewelry.", "bn": "সে সামান্য গহনা পরল।" }
+    ],
+    "synonyms": ["ornaments", "gems", "accessories"]
+  },
+  {
+    "base": "jogging",
+    "phonetic": "ˈdʒɒɡɪŋ",
+    "meaning": "জগিং / ধীরে দৌড়ানো",
+    "examples": [
+      { "en": "Jogging keeps you fit.", "bn": "জগিং তোমাকে সুস্থ রাখে।" },
+      {
+        "en": "She goes jogging every day.",
+        "bn": "সে প্রতিদিন জগিং করতে যায়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He started jogging last month.",
+        "bn": "সে গত মাসে জগিং শুরু করল।"
+      },
+      {
+        "en": "Jogging improves heart health.",
+        "bn": "জগিং হৃদপিণ্ডের স্বাস্থ্য উন্নত করে।"
+      },
+      {
+        "en": "She jogs in the park daily.",
+        "bn": "সে প্রতিদিন পার্কে জগিং করে।"
+      },
+      { "en": "Jogging early is refreshing.", "bn": "ভোরে জগিং সতেজকর।" },
+      {
+        "en": "He enjoys jogging with friends.",
+        "bn": "সে বন্ধুদের সাথে জগিং উপভোগ করে।"
+      },
+      {
+        "en": "Jogging burns calories quickly.",
+        "bn": "জগিং দ্রুত ক্যালরি পোড়ায়।"
+      },
+      {
+        "en": "She wore shoes for jogging.",
+        "bn": "সে জগিংয়ের জন্য জুতো পরল।"
+      },
+      { "en": "Jogging clears the mind.", "bn": "জগিং মন পরিষ্কার করে।" },
+      {
+        "en": "He jogged for an hour today.",
+        "bn": "সে আজ এক ঘন্টা জগিং করল।"
+      },
+      {
+        "en": "Jogging is a healthy habit.",
+        "bn": "জগিং একটি স্বাস্থ্যকর অভ্যাস।"
+      }
+    ],
+    "synonyms": ["running", "trotting", "exercising"]
+  },
+  {
+    "base": "joining",
+    "phonetic": "ˈdʒɔɪnɪŋ",
+    "meaning": "যোগদান / সংযুক্ত হওয়া",
+    "examples": [
+      {
+        "en": "Joining the team was exciting.",
+        "bn": "দলে যোগদান করা উত্তেজনাপূর্ণ ছিল।"
+      },
+      {
+        "en": "She is joining the company.",
+        "bn": "সে কোম্পানিতে যোগদান করছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He is joining next week.",
+        "bn": "সে আগামী সপ্তাহে যোগদান করছে।"
+      },
+      {
+        "en": "Joining hands helps everyone.",
+        "bn": "হাত মেলানো সবাইকে সাহায্য করে।"
+      },
+      {
+        "en": "She enjoyed joining the club.",
+        "bn": "সে ক্লাবে যোগদান করতে পেরে আনন্দিত হলো।"
+      },
+      {
+        "en": "Joining early has benefits.",
+        "bn": "তাড়াতাড়ি যোগদানের সুবিধা আছে।"
+      },
+      {
+        "en": "He was happy about joining.",
+        "bn": "যোগদান করতে পেরে সে খুশি ছিল।"
+      },
+      {
+        "en": "Joining the army requires courage.",
+        "bn": "সেনাবাহিনীতে যোগদানে সাহস লাগে।"
+      },
+      { "en": "She thought about joining.", "bn": "সে যোগদানের কথা ভাবল।" },
+      {
+        "en": "Joining forces brings success.",
+        "bn": "শক্তি একত্রিত করা সাফল্য আনে।"
+      },
+      {
+        "en": "He regretted not joining.",
+        "bn": "যোগদান না করায় সে অনুশোচনা করল।"
+      },
+      {
+        "en": "Joining a team builds skills.",
+        "bn": "দলে যোগদান দক্ষতা তৈরি করে।"
+      }
+    ],
+    "synonyms": ["connecting", "uniting", "enrolling"]
+  },
+  {
+    "base": "joviality",
+    "phonetic": "ˌdʒoʊviˈæləti",
+    "meaning": "প্রফুল্লতা / আনন্দময়তা",
+    "examples": [
+      {
+        "en": "His joviality made everyone happy.",
+        "bn": "তার প্রফুল্লতা সবাইকে খুশি করল।"
+      },
+      {
+        "en": "She was known for her joviality.",
+        "bn": "সে তার প্রফুল্লতার জন্য পরিচিত ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Joviality spreads positive energy.",
+        "bn": "প্রফুল্লতা ইতিবাচক শক্তি ছড়ায়।"
+      },
+      { "en": "He was full of joviality.", "bn": "সে প্রফুল্লতায় পূর্ণ ছিল।" },
+      {
+        "en": "Her joviality lit up the room.",
+        "bn": "তার প্রফুল্লতা ঘর আলোকিত করল।"
+      },
+      { "en": "Joviality is a gift.", "bn": "প্রফুল্লতা একটি উপহার।" },
+      {
+        "en": "His joviality won many friends.",
+        "bn": "তার প্রফুল্লতা অনেক বন্ধু জিতল।"
+      },
+      {
+        "en": "She expressed joviality naturally.",
+        "bn": "সে স্বাভাবিকভাবে প্রফুল্লতা প্রকাশ করল।"
+      },
+      {
+        "en": "Joviality makes work enjoyable.",
+        "bn": "প্রফুল্লতা কাজকে আনন্দদায়ক করে।"
+      },
+      {
+        "en": "He maintained joviality always.",
+        "bn": "সে সবসময় প্রফুল্লতা বজায় রাখল।"
+      },
+      {
+        "en": "Her joviality was contagious.",
+        "bn": "তার প্রফুল্লতা সংক্রামক ছিল।"
+      },
+      {
+        "en": "Joviality brings people together.",
+        "bn": "প্রফুল্লতা মানুষকে একত্রিত করে।"
+      }
+    ],
+    "synonyms": ["cheerfulness", "merriment", "happiness"]
+  },
+  {
+    "base": "joyfulness",
+    "phonetic": "ˈdʒɔɪfʊlnəs",
+    "meaning": "আনন্দময়তা / সুখ",
+    "examples": [
+      {
+        "en": "Her joyfulness was infectious.",
+        "bn": "তার আনন্দময়তা সংক্রামক ছিল।"
+      },
+      {
+        "en": "He expressed his joyfulness.",
+        "bn": "সে তার আনন্দময়তা প্রকাশ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Joyfulness comes from gratitude.",
+        "bn": "আনন্দময়তা কৃতজ্ঞতা থেকে আসে।"
+      },
+      { "en": "She radiated joyfulness.", "bn": "সে আনন্দময়তা বিকিরণ করল।" },
+      {
+        "en": "His joyfulness inspired others.",
+        "bn": "তার আনন্দময়তা অন্যদের অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "Joyfulness is a state of mind.",
+        "bn": "আনন্দময়তা মনের একটি অবস্থা।"
+      },
+      {
+        "en": "She found joyfulness in small things.",
+        "bn": "সে ছোট জিনিসে আনন্দময়তা খুঁজে পেল।"
+      },
+      {
+        "en": "His joyfulness never faded.",
+        "bn": "তার আনন্দময়তা কখনো বিবর্ণ হলো না।"
+      },
+      {
+        "en": "Joyfulness makes life beautiful.",
+        "bn": "আনন্দময়তা জীবনকে সুন্দর করে।"
+      },
+      {
+        "en": "She felt joyfulness every day.",
+        "bn": "সে প্রতিদিন আনন্দময়তা অনুভব করল।"
+      },
+      {
+        "en": "His joyfulness spread to others.",
+        "bn": "তার আনন্দময়তা অন্যদের মধ্যে ছড়িয়ে পড়ল।"
+      },
+      {
+        "en": "Joyfulness heals the heart.",
+        "bn": "আনন্দময়তা হৃদয়কে সারিয়ে তোলে।"
+      }
+    ],
+    "synonyms": ["happiness", "delight", "bliss"]
+  },
+  {
+    "base": "juicy",
+    "phonetic": "ˈdʒuːsi",
+    "meaning": "রসালো / আকর্ষণীয়",
+    "examples": [
+      { "en": "The mango was very juicy.", "bn": "আমটি খুব রসালো ছিল।" },
+      {
+        "en": "She shared a juicy story.",
+        "bn": "সে একটি আকর্ষণীয় গল্প শেয়ার করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He ate a juicy orange.", "bn": "সে একটি রসালো কমলা খেল।" },
+      {
+        "en": "The steak was juicy and tender.",
+        "bn": "স্টেকটি রসালো ও নরম ছিল।"
+      },
+      { "en": "She loved juicy fruits.", "bn": "সে রসালো ফল ভালোবাসত।" },
+      {
+        "en": "He told a juicy secret.",
+        "bn": "সে একটি আকর্ষণীয় গোপন কথা বলল।"
+      },
+      {
+        "en": "The watermelon was very juicy.",
+        "bn": "তরমুজটি খুব রসালো ছিল।"
+      },
+      {
+        "en": "She described a juicy plot.",
+        "bn": "সে একটি আকর্ষণীয় কাহিনী বর্ণনা করল।"
+      },
+      { "en": "Juicy fruits are healthy.", "bn": "রসালো ফল স্বাস্থ্যকর।" },
+      { "en": "He gave juicy details.", "bn": "সে আকর্ষণীয় বিবরণ দিল।" },
+      {
+        "en": "The juicy burger was delicious.",
+        "bn": "রসালো বার্গারটি সুস্বাদু ছিল।"
+      },
+      {
+        "en": "She picked the juiciest fruit.",
+        "bn": "সে সবচেয়ে রসালো ফলটি বেছে নিল।"
+      }
+    ],
+    "synonyms": ["succulent", "moist", "flavorful"]
+  },
+  {
+    "base": "jumbled",
+    "phonetic": "ˈdʒʌmbld",
+    "meaning": "এলোমেলো / বিশৃঙ্খল",
+    "examples": [
+      {
+        "en": "The papers were all jumbled.",
+        "bn": "কাগজগুলো সব এলোমেলো ছিল।"
+      },
+      {
+        "en": "His thoughts were jumbled.",
+        "bn": "তার চিন্তাগুলো এলোমেলো ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She sorted the jumbled files.",
+        "bn": "সে এলোমেলো ফাইলগুলো সাজাল।"
+      },
+      {
+        "en": "The jumbled words confused him.",
+        "bn": "এলোমেলো শব্দগুলো তাকে বিভ্রান্ত করল।"
+      },
+      { "en": "He fixed the jumbled order.", "bn": "সে এলোমেলো ক্রম ঠিক করল।" },
+      {
+        "en": "The jumbled bag was a mess.",
+        "bn": "এলোমেলো ব্যাগটি বিশৃঙ্খল ছিল।"
+      },
+      {
+        "en": "She untangled the jumbled wires.",
+        "bn": "সে এলোমেলো তারগুলো সুলঝাল।"
+      },
+      { "en": "His speech was jumbled.", "bn": "তার বক্তৃতা এলোমেলো ছিল।" },
+      {
+        "en": "The jumbled puzzle was hard.",
+        "bn": "এলোমেলো ধাঁধাটি কঠিন ছিল।"
+      },
+      {
+        "en": "She rearranged the jumbled items.",
+        "bn": "সে এলোমেলো জিনিসগুলো পুনর্বিন্যাস করল।"
+      },
+      {
+        "en": "He read the jumbled sentence.",
+        "bn": "সে এলোমেলো বাক্যটি পড়ল।"
+      },
+      {
+        "en": "The jumbled data was corrected.",
+        "bn": "এলোমেলো তথ্য সংশোধন করা হলো।"
+      }
+    ],
+    "synonyms": ["mixed", "disordered", "confused"]
+  },
+  {
+    "base": "jumpstart",
+    "phonetic": "ˈdʒʌmpstɑːrt",
+    "meaning": "দ্রুত শুরু করা / উৎসাহিত করা",
+    "examples": [
+      {
+        "en": "He jumpstarted his career.",
+        "bn": "সে তার ক্যারিয়ার দ্রুত শুরু করল।"
+      },
+      {
+        "en": "She jumpstarted the project.",
+        "bn": "সে প্রকল্পটি দ্রুত শুরু করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Jumpstart your day with exercise.",
+        "bn": "ব্যায়াম দিয়ে তোমার দিন শুরু করো।"
+      },
+      { "en": "He jumpstarted the engine.", "bn": "সে ইঞ্জিনটি চালু করল।" },
+      { "en": "She jumpstarted the team.", "bn": "সে দলটিকে উৎসাহিত করল।" },
+      {
+        "en": "Jumpstart your learning today.",
+        "bn": "আজই তোমার শেখা শুরু করো।"
+      },
+      {
+        "en": "He jumpstarted his motivation.",
+        "bn": "সে তার অনুপ্রেরণা জাগিয়ে তুলল।"
+      },
+      {
+        "en": "She jumpstarted the business.",
+        "bn": "সে ব্যবসাটি দ্রুত শুরু করল।"
+      },
+      {
+        "en": "Jumpstart your fitness routine.",
+        "bn": "তোমার ফিটনেস রুটিন শুরু করো।"
+      },
+      { "en": "He jumpstarted the economy.", "bn": "সে অর্থনীতিকে গতি দিল।" },
+      {
+        "en": "She jumpstarted her confidence.",
+        "bn": "সে তার আত্মবিশ্বাস জাগিয়ে তুলল।"
+      },
+      { "en": "Jumpstart your goals now.", "bn": "এখনই তোমার লক্ষ্য শুরু করো।" }
+    ],
+    "synonyms": ["boost", "energize", "kickstart"]
+  },
+  {
+    "base": "justly",
+    "phonetic": "ˈdʒʌstli",
+    "meaning": "ন্যায়সঙ্গতভাবে / সঠিকভাবে",
+    "examples": [
+      {
+        "en": "Treat everyone justly.",
+        "bn": "সবাইকে ন্যায়সঙ্গতভাবে আচরণ করো।"
+      },
+      {
+        "en": "He was justly rewarded.",
+        "bn": "তাকে ন্যায়সঙ্গতভাবে পুরস্কৃত করা হলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She was justly punished.",
+        "bn": "তাকে ন্যায়সঙ্গতভাবে শাস্তি দেওয়া হলো।"
+      },
+      {
+        "en": "He acted justly in all matters.",
+        "bn": "সে সব বিষয়ে ন্যায়সঙ্গতভাবে কাজ করল।"
+      },
+      {
+        "en": "Justly sharing is important.",
+        "bn": "ন্যায়সঙ্গতভাবে ভাগ করা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She justly earned her prize.",
+        "bn": "সে ন্যায়সঙ্গতভাবে তার পুরস্কার অর্জন করল।"
+      },
+      {
+        "en": "He spoke justly about the issue.",
+        "bn": "সে বিষয়টি সম্পর্কে ন্যায়সঙ্গতভাবে কথা বলল।"
+      },
+      {
+        "en": "They were justly criticized.",
+        "bn": "তাদের ন্যায়সঙ্গতভাবে সমালোচনা করা হলো।"
+      },
+      {
+        "en": "She justly defended herself.",
+        "bn": "সে ন্যায়সঙ্গতভাবে নিজেকে রক্ষা করল।"
+      },
+      {
+        "en": "He judged justly always.",
+        "bn": "সে সবসময় ন্যায়সঙ্গতভাবে বিচার করল।"
+      },
+      {
+        "en": "Act justly in all situations.",
+        "bn": "সব পরিস্থিতিতে ন্যায়সঙ্গতভাবে কাজ করো।"
+      },
+      {
+        "en": "She was justly praised.",
+        "bn": "তাকে ন্যায়সঙ্গতভাবে প্রশংসা করা হলো।"
+      }
+    ],
+    "synonyms": ["fairly", "rightly", "properly"]
+  },
+  {
+    "base": "jamming",
+    "phonetic": "ˈdʒæmɪŋ",
+    "meaning": "জ্যাম করা / বাধা দেওয়া",
+    "examples": [
+      { "en": "The signal was jamming.", "bn": "সংকেতটি জ্যাম হচ্ছিল।" },
+      { "en": "He was jamming on the guitar.", "bn": "সে গিটারে বাজাচ্ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "They were jamming together.", "bn": "তারা একসাথে বাজাচ্ছিল।" },
+      {
+        "en": "The printer keeps jamming.",
+        "bn": "প্রিন্টারটি বারবার জ্যাম হচ্ছে।"
+      },
+      {
+        "en": "She enjoyed jamming with friends.",
+        "bn": "সে বন্ধুদের সাথে বাজাতে উপভোগ করল।"
+      },
+      {
+        "en": "The road was jamming with cars.",
+        "bn": "রাস্তায় গাড়ির জ্যাম ছিল।"
+      },
+      {
+        "en": "He fixed the jamming issue.",
+        "bn": "সে জ্যামের সমস্যা ঠিক করল।"
+      },
+      { "en": "Jamming music is fun.", "bn": "একসাথে সংগীত বাজানো মজার।" },
+      { "en": "The lock is jamming.", "bn": "তালাটি আটকে যাচ্ছে।" },
+      {
+        "en": "She loved jamming sessions.",
+        "bn": "সে একসাথে বাজানোর সেশন ভালোবাসত।"
+      },
+      {
+        "en": "The signal jamming caused issues.",
+        "bn": "সংকেত জ্যাম সমস্যা সৃষ্টি করল।"
+      },
+      { "en": "He was jamming on the drums.", "bn": "সে ড্রামে বাজাচ্ছিল।" }
+    ],
+    "synonyms": ["blocking", "playing", "clogging"]
+  },
+  {
+    "base": "jangling",
+    "phonetic": "ˈdʒæŋɡlɪŋ",
+    "meaning": "ঝনঝন শব্দ করা / কর্কশ শব্দ",
+    "examples": [
+      { "en": "The keys were jangling.", "bn": "চাবিগুলো ঝনঝন করছিল।" },
+      {
+        "en": "The jangling noise was annoying.",
+        "bn": "ঝনঝন শব্দটি বিরক্তিকর ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She heard jangling in the hall.",
+        "bn": "সে হলওয়েতে ঝনঝন শব্দ শুনল।"
+      },
+      { "en": "His nerves were jangling.", "bn": "তার স্নায়ু কাঁপছিল।" },
+      { "en": "The jangling bells woke her.", "bn": "ঝনঝন ঘণ্টা তাকে জাগাল।" },
+      {
+        "en": "Jangling sounds fill the market.",
+        "bn": "বাজার ঝনঝন শব্দে ভরে যায়।"
+      },
+      {
+        "en": "He stopped the jangling noise.",
+        "bn": "সে ঝনঝন শব্দ বন্ধ করল।"
+      },
+      {
+        "en": "The jangling bracelets distracted her.",
+        "bn": "ঝনঝন ব্রেসলেট তাকে বিরক্ত করল।"
+      },
+      {
+        "en": "She liked the jangling sound.",
+        "bn": "সে ঝনঝন শব্দটি পছন্দ করল।"
+      },
+      {
+        "en": "Jangling coins filled the jar.",
+        "bn": "ঝনঝন মুদ্রা জার ভরিয়ে দিল।"
+      },
+      { "en": "He heard a jangling sound.", "bn": "সে একটি ঝনঝন শব্দ শুনল।" },
+      {
+        "en": "The jangling alarm woke them.",
+        "bn": "ঝনঝন অ্যালার্ম তাদের জাগাল।"
+      }
+    ],
+    "synonyms": ["clinking", "rattling", "clanging"]
+  },
+  {
+    "base": "jarring",
+    "phonetic": "ˈdʒɑːrɪŋ",
+    "meaning": "কর্কশ / অস্বস্তিকর",
+    "examples": [
+      {
+        "en": "The jarring noise hurt his ears.",
+        "bn": "কর্কশ শব্দটি তার কান ব্যথা করল।"
+      },
+      {
+        "en": "She felt a jarring impact.",
+        "bn": "সে একটি অস্বস্তিকর আঘাত অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The jarring sound was unpleasant.",
+        "bn": "কর্কশ শব্দটি অপ্রীতিকর ছিল।"
+      },
+      {
+        "en": "He made a jarring comment.",
+        "bn": "সে একটি অস্বস্তিকর মন্তব্য করল।"
+      },
+      {
+        "en": "The jarring colors clashed.",
+        "bn": "কর্কশ রংগুলো সাংঘর্ষিক ছিল।"
+      },
+      {
+        "en": "She avoided jarring situations.",
+        "bn": "সে অস্বস্তিকর পরিস্থিতি এড়াল।"
+      },
+      {
+        "en": "The jarring transition was abrupt.",
+        "bn": "কর্কশ পরিবর্তনটি হঠাৎ ছিল।"
+      },
+      {
+        "en": "He found the movie jarring.",
+        "bn": "সে চলচ্চিত্রটি অস্বস্তিকর মনে করল।"
+      },
+      {
+        "en": "The jarring ride was rough.",
+        "bn": "কর্কশ যাত্রাটি অস্বস্তিকর ছিল।"
+      },
+      {
+        "en": "She felt a jarring sensation.",
+        "bn": "সে একটি কর্কশ অনুভূতি পেল।"
+      },
+      {
+        "en": "The jarring music was too loud.",
+        "bn": "কর্কশ সংগীত খুব জোরে ছিল।"
+      },
+      {
+        "en": "He tried to avoid jarring notes.",
+        "bn": "সে কর্কশ সুর এড়ানোর চেষ্টা করল।"
+      }
+    ],
+    "synonyms": ["harsh", "grating", "discordant"]
+  },
+  {
+    "base": "jesting",
+    "phonetic": "ˈdʒestɪŋ",
+    "meaning": "ঠাট্টা করা / রসিকতা করা",
+    "examples": [
+      {
+        "en": "He was jesting with his friends.",
+        "bn": "সে বন্ধুদের সাথে ঠাট্টা করছিল।"
+      },
+      { "en": "She was only jesting.", "bn": "সে শুধু ঠাট্টা করছিল।" }
+    ],
+    "moreexample": [
+      { "en": "Jesting lifted the mood.", "bn": "ঠাট্টা মেজাজ উন্নত করল।" },
+      {
+        "en": "He kept jesting all evening.",
+        "bn": "সে সারা সন্ধ্যা ঠাট্টা করতে থাকল।"
+      },
+      {
+        "en": "She was jesting about her mistake.",
+        "bn": "সে তার ভুল নিয়ে ঠাট্টা করছিল।"
+      },
+      {
+        "en": "Jesting can be misunderstood.",
+        "bn": "ঠাট্টা ভুল বোঝা যেতে পারে।"
+      },
+      {
+        "en": "He enjoyed jesting with colleagues.",
+        "bn": "সে সহকর্মীদের সাথে ঠাট্টা উপভোগ করল।"
+      },
+      {
+        "en": "She stopped jesting immediately.",
+        "bn": "সে সাথে সাথে ঠাট্টা বন্ধ করল।"
+      },
+      { "en": "Jesting relieves stress.", "bn": "ঠাট্টা মানসিক চাপ কমায়।" },
+      {
+        "en": "He was jesting but meant it.",
+        "bn": "সে ঠাট্টা করছিল কিন্তু মানে করত।"
+      },
+      {
+        "en": "She loved jesting with family.",
+        "bn": "সে পরিবারের সাথে ঠাট্টা করতে ভালোবাসত।"
+      },
+      {
+        "en": "Jesting builds friendships.",
+        "bn": "ঠাট্টা বন্ধুত্ব গড়ে তোলে।"
+      }
+    ],
+    "synonyms": ["joking", "teasing", "kidding"]
+  },
+  {
+    "base": "jittery",
+    "phonetic": "ˈdʒɪtəri",
+    "meaning": "অস্থির / নার্ভাস",
+    "examples": [
+      {
+        "en": "She felt jittery before the show.",
+        "bn": "শোয়ের আগে সে অস্থির অনুভব করল।"
+      },
+      { "en": "He was jittery all morning.", "bn": "সে সারা সকাল নার্ভাস ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Too much coffee makes me jittery.",
+        "bn": "বেশি কফি আমাকে অস্থির করে।"
+      },
+      {
+        "en": "She was jittery about the result.",
+        "bn": "ফলাফল নিয়ে সে অস্থির ছিল।"
+      },
+      {
+        "en": "He felt jittery and nervous.",
+        "bn": "সে অস্থির ও নার্ভাস অনুভব করল।"
+      },
+      {
+        "en": "The jittery student forgot lines.",
+        "bn": "অস্থির শিক্ষার্থী লাইন ভুলে গেল।"
+      },
+      {
+        "en": "She calmed her jittery nerves.",
+        "bn": "সে তার অস্থির স্নায়ু শান্ত করল।"
+      },
+      {
+        "en": "He was jittery on the first day.",
+        "bn": "প্রথম দিনে সে নার্ভাস ছিল।"
+      },
+      { "en": "Being jittery is natural.", "bn": "অস্থির থাকা স্বাভাবিক।" },
+      {
+        "en": "She felt jittery during the test.",
+        "bn": "পরীক্ষার সময় সে অস্থির অনুভব করল।"
+      },
+      {
+        "en": "He overcame his jittery feelings.",
+        "bn": "সে তার অস্থির অনুভূতি কাটিয়ে উঠল।"
+      },
+      {
+        "en": "Jittery hands gave him away.",
+        "bn": "অস্থির হাত তাকে ধরিয়ে দিল।"
+      }
+    ],
+    "synonyms": ["nervous", "anxious", "uneasy"]
+  },
+  {
+    "base": "joviousness",
+    "phonetic": "ˈdʒoʊviəsnəs",
+    "meaning": "আনন্দময়তা / প্রফুল্লতা",
+    "examples": [
+      {
+        "en": "His joviousness was admirable.",
+        "bn": "তার আনন্দময়তা প্রশংসনীয় ছিল।"
+      },
+      {
+        "en": "She was known for her joviousness.",
+        "bn": "সে তার আনন্দময়তার জন্য পরিচিত ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Joviousness makes life better.",
+        "bn": "আনন্দময়তা জীবনকে সুন্দর করে।"
+      },
+      {
+        "en": "He spread joviousness everywhere.",
+        "bn": "সে সর্বত্র আনন্দময়তা ছড়িয়ে দিল।"
+      },
+      {
+        "en": "Her joviousness charmed everyone.",
+        "bn": "তার আনন্দময়তা সবাইকে মুগ্ধ করল।"
+      },
+      {
+        "en": "Joviousness is a positive quality.",
+        "bn": "আনন্দময়তা একটি ইতিবাচক গুণ।"
+      },
+      {
+        "en": "He maintained joviousness daily.",
+        "bn": "সে প্রতিদিন আনন্দময়তা বজায় রাখল।"
+      },
+      {
+        "en": "Her joviousness never faded.",
+        "bn": "তার আনন্দময়তা কখনো বিবর্ণ হলো না।"
+      },
+      {
+        "en": "Joviousness reduces stress.",
+        "bn": "আনন্দময়তা মানসিক চাপ কমায়।"
+      },
+      {
+        "en": "She expressed joviousness freely.",
+        "bn": "সে মুক্তভাবে আনন্দময়তা প্রকাশ করল।"
+      },
+      {
+        "en": "His joviousness was genuine.",
+        "bn": "তার আনন্দময়তা প্রকৃত ছিল।"
+      },
+      {
+        "en": "Joviousness is truly infectious.",
+        "bn": "আনন্দময়তা সত্যিই সংক্রামক।"
+      }
+    ],
+    "synonyms": ["cheerfulness", "happiness", "liveliness"]
+  },
+  {
+    "base": "jubilantly",
+    "phonetic": "ˈdʒuːbɪləntli",
+    "meaning": "উল্লাসের সাথে / আনন্দিতভাবে",
+    "examples": [
+      { "en": "She cheered jubilantly.", "bn": "সে উল্লাসের সাথে চিৎকার করল।" },
+      { "en": "He jumped jubilantly.", "bn": "সে আনন্দিতভাবে লাফ দিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They celebrated jubilantly.",
+        "bn": "তারা উল্লাসের সাথে উদযাপন করল।"
+      },
+      { "en": "She sang jubilantly.", "bn": "সে আনন্দিতভাবে গান গাইল।" },
+      { "en": "He laughed jubilantly.", "bn": "সে উল্লাসের সাথে হাসল।" },
+      {
+        "en": "The crowd cheered jubilantly.",
+        "bn": "ভিড় উল্লাসের সাথে চিৎকার করল।"
+      },
+      { "en": "She announced jubilantly.", "bn": "সে আনন্দিতভাবে ঘোষণা করল।" },
+      { "en": "He waved jubilantly.", "bn": "সে উল্লাসের সাথে হাত নাড়াল।" },
+      { "en": "They danced jubilantly.", "bn": "তারা আনন্দিতভাবে নাচল।" },
+      {
+        "en": "She greeted him jubilantly.",
+        "bn": "সে তাকে উল্লাসের সাথে অভিবাদন জানাল।"
+      },
+      { "en": "He accepted jubilantly.", "bn": "সে আনন্দিতভাবে গ্রহণ করল।" },
+      {
+        "en": "She ran jubilantly to the stage.",
+        "bn": "সে উল্লাসের সাথে মঞ্চে দৌড়াল।"
+      }
+    ],
+    "synonyms": ["joyfully", "triumphantly", "exuberantly"]
+  },
+  {
+    "base": "jumpiness",
+    "phonetic": "ˈdʒʌmpinəs",
+    "meaning": "চমকপ্রবণতা / অস্থিরতা",
+    "examples": [
+      {
+        "en": "His jumpiness worried everyone.",
+        "bn": "তার চমকপ্রবণতা সবাইকে চিন্তিত করল।"
+      },
+      {
+        "en": "She noticed his jumpiness.",
+        "bn": "সে তার অস্থিরতা লক্ষ্য করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Jumpiness can signal anxiety.",
+        "bn": "চমকপ্রবণতা উদ্বেগের লক্ষণ হতে পারে।"
+      },
+      {
+        "en": "He overcame his jumpiness.",
+        "bn": "সে তার চমকপ্রবণতা কাটিয়ে উঠল।"
+      },
+      {
+        "en": "Her jumpiness was noticeable.",
+        "bn": "তার অস্থিরতা লক্ষণীয় ছিল।"
+      },
+      {
+        "en": "Jumpiness affects performance.",
+        "bn": "চমকপ্রবণতা পারফরম্যান্সকে প্রভাবিত করে।"
+      },
+      {
+        "en": "She tried to hide her jumpiness.",
+        "bn": "সে তার চমকপ্রবণতা লুকানোর চেষ্টা করল।"
+      },
+      {
+        "en": "His jumpiness faded over time.",
+        "bn": "সময়ের সাথে তার চমকপ্রবণতা কমল।"
+      },
+      {
+        "en": "Jumpiness shows inner tension.",
+        "bn": "চমকপ্রবণতা অভ্যন্তরীণ উত্তেজনা দেখায়।"
+      },
+      {
+        "en": "She calmed her jumpiness.",
+        "bn": "সে তার চমকপ্রবণতা শান্ত করল।"
+      },
+      {
+        "en": "His jumpiness was understandable.",
+        "bn": "তার চমকপ্রবণতা বোধগম্য ছিল।"
+      },
+      {
+        "en": "Jumpiness decreases with confidence.",
+        "bn": "আত্মবিশ্বাসের সাথে চমকপ্রবণতা কমে।"
+      }
+    ],
+    "synonyms": ["nervousness", "restlessness", "anxiety"]
+  },
+
+  {
+    "base": "jackpot",
+    "phonetic": "ˈdʒækpɒt",
+    "meaning": "জ্যাকপট / বড় পুরস্কার",
+    "examples": [
+      { "en": "She won the jackpot.", "bn": "সে জ্যাকপট জিতল।" },
+      {
+        "en": "He hit the jackpot last night.",
+        "bn": "সে গত রাতে জ্যাকপট জিতল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Winning the jackpot changed his life.",
+        "bn": "জ্যাকপট জেতা তার জীবন বদলে দিল।"
+      },
+      {
+        "en": "She dreamed of the jackpot.",
+        "bn": "সে জ্যাকপটের স্বপ্ন দেখল।"
+      },
+      { "en": "The jackpot was very large.", "bn": "জ্যাকপটটি খুব বড় ছিল।" },
+      {
+        "en": "He tried to win the jackpot.",
+        "bn": "সে জ্যাকপট জেতার চেষ্টা করল।"
+      },
+      {
+        "en": "The jackpot prize was announced.",
+        "bn": "জ্যাকপট পুরস্কার ঘোষণা করা হলো।"
+      },
+      {
+        "en": "She hit the jackpot with her idea.",
+        "bn": "তার ধারণায় সে বড় সাফল্য পেল।"
+      },
+      {
+        "en": "The jackpot grows every week.",
+        "bn": "জ্যাকপট প্রতি সপ্তাহে বাড়ে।"
+      },
+      {
+        "en": "He was lucky to win the jackpot.",
+        "bn": "জ্যাকপট জিততে পেরে সে ভাগ্যবান ছিল।"
+      },
+      {
+        "en": "The jackpot was shared equally.",
+        "bn": "জ্যাকপট সমানভাবে ভাগ করা হলো।"
+      },
+      {
+        "en": "She hit the jackpot in business.",
+        "bn": "সে ব্যবসায় বড় সাফল্য পেল।"
+      }
+    ],
+    "synonyms": ["prize", "windfall", "bonanza"]
+  },
+  {
+    "base": "jamboree",
+    "phonetic": "ˌdʒæmbəˈriː",
+    "meaning": "উৎসব / আনন্দময় সমাবেশ",
+    "examples": [
+      {
+        "en": "The scouts held a jamboree.",
+        "bn": "স্কাউটরা একটি সমাবেশ করল।"
+      },
+      { "en": "It was a great jamboree.", "bn": "এটি একটি দুর্দান্ত উৎসব ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She attended the annual jamboree.",
+        "bn": "সে বার্ষিক উৎসবে যোগ দিল।"
+      },
+      {
+        "en": "The jamboree lasted three days.",
+        "bn": "উৎসবটি তিন দিন স্থায়ী হলো।"
+      },
+      { "en": "He organized the jamboree.", "bn": "সে উৎসবটি আয়োজন করল।" },
+      {
+        "en": "The jamboree was full of music.",
+        "bn": "উৎসবটি সংগীতে পূর্ণ ছিল।"
+      },
+      { "en": "They danced at the jamboree.", "bn": "তারা উৎসবে নাচল।" },
+      {
+        "en": "The jamboree brought joy to all.",
+        "bn": "উৎসবটি সবার মধ্যে আনন্দ নিয়ে এল।"
+      },
+      { "en": "She enjoyed the jamboree.", "bn": "সে উৎসবটি উপভোগ করল।" },
+      {
+        "en": "The jamboree had many activities.",
+        "bn": "উৎসবে অনেক কার্যক্রম ছিল।"
+      },
+      { "en": "He performed at the jamboree.", "bn": "সে উৎসবে পারফর্ম করল।" },
+      {
+        "en": "The jamboree was unforgettable.",
+        "bn": "উৎসবটি অবিস্মরণীয় ছিল।"
+      }
+    ],
+    "synonyms": ["festival", "gathering", "celebration"]
+  },
+  {
+    "base": "jaunt",
+    "phonetic": "dʒɔːnt",
+    "meaning": "আনন্দ ভ্রমণ / ছোট সফর",
+    "examples": [
+      {
+        "en": "She went on a short jaunt.",
+        "bn": "সে একটি ছোট আনন্দ ভ্রমণে গেল।"
+      },
+      { "en": "He enjoyed the jaunt.", "bn": "সে আনন্দ ভ্রমণটি উপভোগ করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They took a jaunt to the park.",
+        "bn": "তারা পার্কে একটি ছোট সফরে গেল।"
+      },
+      {
+        "en": "She planned a weekend jaunt.",
+        "bn": "সে সপ্তাহান্তের আনন্দ ভ্রমণ পরিকল্পনা করল।"
+      },
+      {
+        "en": "He loved spontaneous jaunts.",
+        "bn": "সে স্বতঃস্ফূর্ত আনন্দ ভ্রমণ ভালোবাসত।"
+      },
+      {
+        "en": "The jaunt refreshed her mind.",
+        "bn": "আনন্দ ভ্রমণটি তার মন সতেজ করল।"
+      },
+      {
+        "en": "They went on a jaunt together.",
+        "bn": "তারা একসাথে আনন্দ ভ্রমণে গেল।"
+      },
+      {
+        "en": "A quick jaunt helps relax.",
+        "bn": "একটি দ্রুত আনন্দ ভ্রমণ শিথিল করতে সাহায্য করে।"
+      },
+      {
+        "en": "She took a jaunt by the river.",
+        "bn": "সে নদীর পাশে একটি আনন্দ ভ্রমণে গেল।"
+      },
+      {
+        "en": "He invited her for a jaunt.",
+        "bn": "সে তাকে একটি আনন্দ ভ্রমণের জন্য আমন্ত্রণ জানাল।"
+      },
+      {
+        "en": "The jaunt was short but fun.",
+        "bn": "আনন্দ ভ্রমণটি ছোট কিন্তু মজার ছিল।"
+      },
+      {
+        "en": "She returned from her jaunt.",
+        "bn": "সে তার আনন্দ ভ্রমণ থেকে ফিরে এল।"
+      }
+    ],
+    "synonyms": ["trip", "excursion", "outing"]
+  },
+  {
+    "base": "jeopardy",
+    "phonetic": "ˈdʒepərdi",
+    "meaning": "বিপদ / ঝুঁকি",
+    "examples": [
+      { "en": "His life was in jeopardy.", "bn": "তার জীবন বিপদে ছিল।" },
+      {
+        "en": "She put her career in jeopardy.",
+        "bn": "সে তার ক্যারিয়ার বিপদে ফেলল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Do not put yourself in jeopardy.",
+        "bn": "নিজেকে বিপদে ফেলো না।"
+      },
+      {
+        "en": "His actions put others in jeopardy.",
+        "bn": "তার কাজ অন্যদের বিপদে ফেলল।"
+      },
+      { "en": "The project was in jeopardy.", "bn": "প্রকল্পটি বিপদে ছিল।" },
+      { "en": "She escaped from jeopardy.", "bn": "সে বিপদ থেকে রক্ষা পেল।" },
+      {
+        "en": "Their safety was in jeopardy.",
+        "bn": "তাদের নিরাপত্তা বিপদে ছিল।"
+      },
+      {
+        "en": "He risked jeopardy for others.",
+        "bn": "সে অন্যদের জন্য বিপদ ঝুঁকি নিল।"
+      },
+      { "en": "The deal was in jeopardy.", "bn": "চুক্তিটি বিপদে ছিল।" },
+      {
+        "en": "She warned about the jeopardy.",
+        "bn": "সে বিপদ সম্পর্কে সতর্ক করল।"
+      },
+      { "en": "Jeopardy can be avoided.", "bn": "বিপদ এড়ানো যায়।" },
+      {
+        "en": "He faced jeopardy bravely.",
+        "bn": "সে সাহসের সাথে বিপদ মোকাবেলা করল।"
+      }
+    ],
+    "synonyms": ["danger", "risk", "peril"]
+  },
+  {
+    "base": "jetsam",
+    "phonetic": "ˈdʒetsəm",
+    "meaning": "জাহাজ থেকে ছুড়ে ফেলা মাল / ভেসে যাওয়া জিনিস",
+    "examples": [
+      { "en": "The jetsam washed ashore.", "bn": "ভেসে যাওয়া জিনিস তীরে এল।" },
+      {
+        "en": "They collected jetsam on the beach.",
+        "bn": "তারা সৈকতে ভেসে আসা জিনিস সংগ্রহ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The jetsam was found floating.",
+        "bn": "ভেসে যাওয়া জিনিস ভাসতে পাওয়া গেল।"
+      },
+      {
+        "en": "He examined the jetsam.",
+        "bn": "সে ভেসে আসা জিনিস পরীক্ষা করল।"
+      },
+      {
+        "en": "Jetsam cluttered the coastline.",
+        "bn": "ভেসে আসা জিনিস উপকূল ভরিয়ে দিল।"
+      },
+      { "en": "She found old jetsam.", "bn": "সে পুরানো ভেসে আসা জিনিস পেল।" },
+      {
+        "en": "Jetsam is thrown from ships.",
+        "bn": "জাহাজ থেকে মাল ছুড়ে ফেলা হয়।"
+      },
+      {
+        "en": "The jetsam was valuable.",
+        "bn": "ভেসে আসা জিনিসটি মূল্যবান ছিল।"
+      },
+      {
+        "en": "He reported the jetsam.",
+        "bn": "সে ভেসে আসা জিনিস রিপোর্ট করল।"
+      },
+      {
+        "en": "The jetsam drifted far away.",
+        "bn": "ভেসে যাওয়া জিনিস অনেক দূরে ভেসে গেল।"
+      },
+      {
+        "en": "She studied jetsam and flotsam.",
+        "bn": "সে ভেসে আসা জিনিস অধ্যয়ন করল।"
+      },
+      {
+        "en": "Jetsam can harm sea animals.",
+        "bn": "ভেসে যাওয়া জিনিস সামুদ্রিক প্রাণীর ক্ষতি করতে পারে।"
+      }
+    ],
+    "synonyms": ["debris", "wreckage", "flotsam"]
+  },
+  {
+    "base": "jeweler",
+    "phonetic": "ˈdʒuːələr",
+    "meaning": "জুয়েলার / গহনা বিক্রেতা",
+    "examples": [
+      { "en": "She visited the jeweler.", "bn": "সে জুয়েলারের কাছে গেল।" },
+      { "en": "He is a skilled jeweler.", "bn": "সে একজন দক্ষ গহনা তৈরিকারী।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The jeweler made a ring.",
+        "bn": "জুয়েলার একটি আংটি তৈরি করল।"
+      },
+      {
+        "en": "She bought from the jeweler.",
+        "bn": "সে জুয়েলারের কাছ থেকে কিনল।"
+      },
+      {
+        "en": "The jeweler repaired her necklace.",
+        "bn": "জুয়েলার তার নেকলেস মেরামত করল।"
+      },
+      {
+        "en": "He trained as a jeweler.",
+        "bn": "সে জুয়েলার হিসেবে প্রশিক্ষণ নিল।"
+      },
+      {
+        "en": "The jeweler's shop was beautiful.",
+        "bn": "জুয়েলারের দোকানটি সুন্দর ছিল।"
+      },
+      {
+        "en": "She consulted the jeweler.",
+        "bn": "সে জুয়েলারের সাথে পরামর্শ করল।"
+      },
+      {
+        "en": "The jeweler used gold and silver.",
+        "bn": "জুয়েলার সোনা ও রুপা ব্যবহার করল।"
+      },
+      {
+        "en": "He admired the jeweler's work.",
+        "bn": "সে জুয়েলারের কাজের প্রশংসা করল।"
+      },
+      {
+        "en": "The jeweler crafted a bracelet.",
+        "bn": "জুয়েলার একটি ব্রেসলেট তৈরি করল।"
+      },
+      {
+        "en": "She recommended the jeweler.",
+        "bn": "সে জুয়েলারের সুপারিশ করল।"
+      }
+    ],
+    "synonyms": ["goldsmith", "craftsman", "gem dealer"]
+  },
+  {
+    "base": "jockey",
+    "phonetic": "ˈdʒɒki",
+    "meaning": "জকি / ঘোড়ার আরোহী",
+    "examples": [
+      {
+        "en": "The jockey rode the horse well.",
+        "bn": "জকি ঘোড়াটি ভালোভাবে চালাল।"
+      },
+      { "en": "She became a famous jockey.", "bn": "সে একজন বিখ্যাত জকি হলো।" }
+    ],
+    "moreexample": [
+      { "en": "He trained as a jockey.", "bn": "সে জকি হিসেবে প্রশিক্ষণ নিল।" },
+      { "en": "The jockey won the race.", "bn": "জকি রেস জিতল।" },
+      {
+        "en": "She watched the jockey perform.",
+        "bn": "সে জকিকে পারফর্ম করতে দেখল।"
+      },
+      { "en": "The jockey wore colorful gear.", "bn": "জকি রঙিন পোশাক পরল।" },
+      {
+        "en": "He admired the skilled jockey.",
+        "bn": "সে দক্ষ জকির প্রশংসা করল।"
+      },
+      {
+        "en": "The jockey fell from the horse.",
+        "bn": "জকি ঘোড়া থেকে পড়ে গেল।"
+      },
+      { "en": "She cheered for the jockey.", "bn": "সে জকির জন্য উৎসাহ দিল।" },
+      {
+        "en": "The jockey trained every day.",
+        "bn": "জকি প্রতিদিন প্রশিক্ষণ নিল।"
+      },
+      {
+        "en": "He became a champion jockey.",
+        "bn": "সে একজন চ্যাম্পিয়ন জকি হলো।"
+      },
+      {
+        "en": "The jockey guided the horse.",
+        "bn": "জকি ঘোড়াটিকে পরিচালিত করল।"
+      }
+    ],
+    "synonyms": ["rider", "horseman", "racer"]
+  },
+  {
+    "base": "joker",
+    "phonetic": "ˈdʒoʊkər",
+    "meaning": "ঠাট্টাবাজ / রসিক ব্যক্তি",
+    "examples": [
+      { "en": "He is the class joker.", "bn": "সে ক্লাসের ঠাট্টাবাজ।" },
+      { "en": "She laughed at the joker.", "bn": "সে ঠাট্টাবাজের কথায় হাসল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The joker made everyone laugh.",
+        "bn": "ঠাট্টাবাজ সবাইকে হাসাল।"
+      },
+      { "en": "He played the joker card.", "bn": "সে জোকার কার্ড খেলল।" },
+      {
+        "en": "She enjoyed the joker's humor.",
+        "bn": "সে ঠাট্টাবাজের হাস্যরস উপভোগ করল।"
+      },
+      { "en": "The joker was very funny.", "bn": "ঠাট্টাবাজটি খুব মজার ছিল।" },
+      { "en": "He was the office joker.", "bn": "সে অফিসের ঠাট্টাবাজ ছিল।" },
+      {
+        "en": "She became a great joker.",
+        "bn": "সে একজন দুর্দান্ত ঠাট্টাবাজ হলো।"
+      },
+      {
+        "en": "The joker cheered everyone up.",
+        "bn": "ঠাট্টাবাজ সবাইকে উৎফুল্ল করল।"
+      },
+      {
+        "en": "He was known as the joker.",
+        "bn": "সে ঠাট্টাবাজ হিসেবে পরিচিত ছিল।"
+      },
+      {
+        "en": "The joker told funny stories.",
+        "bn": "ঠাট্টাবাজ মজার গল্প বলল।"
+      },
+      {
+        "en": "She admired the joker's wit.",
+        "bn": "সে ঠাট্টাবাজের রসিকতার প্রশংসা করল।"
+      }
+    ],
+    "synonyms": ["comedian", "clown", "prankster"]
+  },
+  {
+    "base": "jolting",
+    "phonetic": "ˈdʒoʊltɪŋ",
+    "meaning": "ঝাঁকুনি দেওয়া / আঘাত দেওয়া",
+    "examples": [
+      {
+        "en": "The jolting ride was uncomfortable.",
+        "bn": "ঝাঁকুনিপূর্ণ যাত্রাটি অস্বস্তিকর ছিল।"
+      },
+      {
+        "en": "She felt a jolting shock.",
+        "bn": "সে একটি ঝাঁকুনির ধাক্কা অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The jolting bus woke him.",
+        "bn": "ঝাঁকুনিপূর্ণ বাস তাকে জাগাল।"
+      },
+      {
+        "en": "She experienced a jolting impact.",
+        "bn": "সে একটি ঝাঁকুনির আঘাত অনুভব করল।"
+      },
+      {
+        "en": "The jolting news surprised everyone.",
+        "bn": "ঝাঁকুনির মতো খবর সবাইকে অবাক করল।"
+      },
+      {
+        "en": "He felt a jolting sensation.",
+        "bn": "সে একটি ঝাঁকুনির অনুভূতি পেল।"
+      },
+      {
+        "en": "The jolting stop was sudden.",
+        "bn": "হঠাৎ থামাটি ঝাঁকুনির মতো ছিল।"
+      },
+      {
+        "en": "She recovered from the jolting.",
+        "bn": "সে ঝাঁকুনি থেকে সেরে উঠল।"
+      },
+      {
+        "en": "The jolting earthquake scared them.",
+        "bn": "ঝাঁকুনিপূর্ণ ভূমিকম্প তাদের ভয় দিল।"
+      },
+      {
+        "en": "He experienced a jolting realization.",
+        "bn": "সে একটি আচমকা উপলব্ধি পেল।"
+      },
+      {
+        "en": "The jolting car ride tired her.",
+        "bn": "ঝাঁকুনিপূর্ণ গাড়ির যাত্রা তাকে ক্লান্ত করল।"
+      },
+      {
+        "en": "Jolting changes can be scary.",
+        "bn": "আচমকা পরিবর্তন ভয়ংকর হতে পারে।"
+      }
+    ],
+    "synonyms": ["shaking", "jarring", "shocking"]
+  },
+  {
+    "base": "journalism",
+    "phonetic": "ˈdʒɜːrnəlɪzəm",
+    "meaning": "সাংবাদিকতা",
+    "examples": [
+      {
+        "en": "She studied journalism in college.",
+        "bn": "সে কলেজে সাংবাদিকতা পড়াশোনা করল।"
+      },
+      { "en": "Journalism requires honesty.", "bn": "সাংবাদিকতায় সততা দরকার।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He pursued a career in journalism.",
+        "bn": "সে সাংবাদিকতায় ক্যারিয়ার গড়ল।"
+      },
+      {
+        "en": "Journalism shapes public opinion.",
+        "bn": "সাংবাদিকতা জনমত গঠন করে।"
+      },
+      {
+        "en": "She won an award for journalism.",
+        "bn": "সে সাংবাদিকতার জন্য পুরস্কার জিতল।"
+      },
+      {
+        "en": "Good journalism serves the public.",
+        "bn": "ভালো সাংবাদিকতা জনগণের সেবা করে।"
+      },
+      {
+        "en": "He learned journalism on the job.",
+        "bn": "সে কাজের মাধ্যমে সাংবাদিকতা শিখল।"
+      },
+      {
+        "en": "Journalism has changed digitally.",
+        "bn": "সাংবাদিকতা ডিজিটালভাবে পরিবর্তিত হয়েছে।"
+      },
+      {
+        "en": "She practiced investigative journalism.",
+        "bn": "সে অনুসন্ধানী সাংবাদিকতা চর্চা করল।"
+      },
+      {
+        "en": "Journalism exposes the truth.",
+        "bn": "সাংবাদিকতা সত্য প্রকাশ করে।"
+      },
+      {
+        "en": "He taught journalism at university.",
+        "bn": "সে বিশ্ববিদ্যালয়ে সাংবাদিকতা পড়াল।"
+      },
+      {
+        "en": "Journalism needs ethical standards.",
+        "bn": "সাংবাদিকতায় নৈতিক মান দরকার।"
+      }
+    ],
+    "synonyms": ["reporting", "media", "press"]
+  },
+  {
+    "base": "journalist",
+    "phonetic": "ˈdʒɜːrnəlɪst",
+    "meaning": "সাংবাদিক",
+    "examples": [
+      {
+        "en": "She is a famous journalist.",
+        "bn": "সে একজন বিখ্যাত সাংবাদিক।"
+      },
+      {
+        "en": "The journalist wrote the story.",
+        "bn": "সাংবাদিক গল্পটি লিখলেন।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He became a journalist.", "bn": "সে একজন সাংবাদিক হলো।" },
+      {
+        "en": "The journalist asked questions.",
+        "bn": "সাংবাদিক প্রশ্ন করলেন।"
+      },
+      {
+        "en": "She interviewed the journalist.",
+        "bn": "সে সাংবাদিকের সাক্ষাৎকার নিল।"
+      },
+      {
+        "en": "The journalist covered the event.",
+        "bn": "সাংবাদিক অনুষ্ঠানটি কভার করলেন।"
+      },
+      {
+        "en": "He is an award winning journalist.",
+        "bn": "সে একজন পুরস্কারজয়ী সাংবাদিক।"
+      },
+      {
+        "en": "The journalist reported bravely.",
+        "bn": "সাংবাদিক সাহসের সাথে রিপোর্ট করলেন।"
+      },
+      {
+        "en": "She trusted the journalist.",
+        "bn": "সে সাংবাদিককে বিশ্বাস করল।"
+      },
+      {
+        "en": "The journalist worked late.",
+        "bn": "সাংবাদিক দেরি পর্যন্ত কাজ করলেন।"
+      },
+      {
+        "en": "He admired the journalist.",
+        "bn": "সে সাংবাদিকের প্রশংসা করল।"
+      },
+      {
+        "en": "The journalist published the truth.",
+        "bn": "সাংবাদিক সত্য প্রকাশ করলেন।"
+      }
+    ],
+    "synonyms": ["reporter", "correspondent", "writer"]
+  },
+  {
+    "base": "joyfully",
+    "phonetic": "ˈdʒɔɪfəli",
+    "meaning": "আনন্দের সাথে / সুখীভাবে",
+    "examples": [
+      { "en": "She danced joyfully.", "bn": "সে আনন্দের সাথে নাচল।" },
+      { "en": "He sang joyfully.", "bn": "সে আনন্দের সাথে গান গাইল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They celebrated joyfully.",
+        "bn": "তারা আনন্দের সাথে উদযাপন করল।"
+      },
+      { "en": "She laughed joyfully.", "bn": "সে আনন্দের সাথে হাসল।" },
+      {
+        "en": "He greeted her joyfully.",
+        "bn": "সে তাকে আনন্দের সাথে স্বাগত জানাল।"
+      },
+      {
+        "en": "She ran joyfully toward him.",
+        "bn": "সে আনন্দের সাথে তার দিকে দৌড়াল।"
+      },
+      {
+        "en": "They clapped joyfully.",
+        "bn": "তারা আনন্দের সাথে হাততালি দিল।"
+      },
+      { "en": "He accepted joyfully.", "bn": "সে আনন্দের সাথে গ্রহণ করল।" },
+      {
+        "en": "She played joyfully with kids.",
+        "bn": "সে শিশুদের সাথে আনন্দের সাথে খেলল।"
+      },
+      {
+        "en": "He worked joyfully every day.",
+        "bn": "সে প্রতিদিন আনন্দের সাথে কাজ করল।"
+      },
+      { "en": "They hugged joyfully.", "bn": "তারা আনন্দের সাথে জড়িয়ে ধরল।" },
+      {
+        "en": "She waved joyfully goodbye.",
+        "bn": "সে আনন্দের সাথে বিদায় জানাল।"
+      }
+    ],
+    "synonyms": ["happily", "cheerfully", "gladly"]
+  },
+  {
+    "base": "jubilate",
+    "phonetic": "ˈdʒuːbɪleɪt",
+    "meaning": "আনন্দে উল্লাস করা",
+    "examples": [
+      {
+        "en": "They jubilated after the win.",
+        "bn": "জেতার পর তারা উল্লাস করল।"
+      },
+      { "en": "She jubilated at the good news.", "bn": "সুখবরে সে উল্লাস করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He jubilated with his team.",
+        "bn": "সে তার দলের সাথে উল্লাস করল।"
+      },
+      {
+        "en": "They jubilated in the streets.",
+        "bn": "তারা রাস্তায় উল্লাস করল।"
+      },
+      {
+        "en": "She jubilated over her results.",
+        "bn": "সে তার ফলাফলে উল্লাস করল।"
+      },
+      { "en": "He jubilated loudly.", "bn": "সে জোরে উল্লাস করল।" },
+      { "en": "They jubilated all night.", "bn": "তারা সারারাত উল্লাস করল।" },
+      {
+        "en": "She jubilated with her family.",
+        "bn": "সে পরিবারের সাথে উল্লাস করল।"
+      },
+      {
+        "en": "He jubilated after graduation.",
+        "bn": "স্নাতকের পর সে উল্লাস করল।"
+      },
+      {
+        "en": "They jubilated at the victory.",
+        "bn": "বিজয়ে তারা উল্লাস করল।"
+      },
+      { "en": "She jubilated with joy.", "bn": "সে আনন্দে উল্লাস করল।" },
+      { "en": "He jubilated with pride.", "bn": "সে গর্বের সাথে উল্লাস করল।" }
+    ],
+    "synonyms": ["rejoice", "celebrate", "exult"]
+  },
+  {
+    "base": "jumbo",
+    "phonetic": "ˈdʒʌmboʊ",
+    "meaning": "বিশালাকার / অতিকায়",
+    "examples": [
+      {
+        "en": "She ordered a jumbo burger.",
+        "bn": "সে একটি বিশাল বার্গার অর্ডার করল।"
+      },
+      { "en": "He flew on a jumbo jet.", "bn": "সে একটি জাম্বো জেটে উড়ল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The jumbo size was too big.",
+        "bn": "জাম্বো আকারটি খুব বড় ছিল।"
+      },
+      { "en": "She bought a jumbo pack.", "bn": "সে একটি জাম্বো প্যাক কিনল।" },
+      { "en": "He ate a jumbo meal.", "bn": "সে একটি বিশাল খাবার খেল।" },
+      {
+        "en": "The jumbo screen was amazing.",
+        "bn": "জাম্বো স্ক্রিনটি অসাধারণ ছিল।"
+      },
+      {
+        "en": "She loved jumbo sized snacks.",
+        "bn": "সে জাম্বো আকারের স্ন্যাকস ভালোবাসত।"
+      },
+      { "en": "He drove a jumbo truck.", "bn": "সে একটি বিশাল ট্রাক চালাল।" },
+      {
+        "en": "The jumbo elephant was huge.",
+        "bn": "বিশাল হাতিটি অনেক বড় ছিল।"
+      },
+      {
+        "en": "She chose the jumbo option.",
+        "bn": "সে জাম্বো বিকল্পটি বেছে নিল।"
+      },
+      {
+        "en": "He ordered jumbo shrimp.",
+        "bn": "সে জাম্বো চিংড়ি অর্ডার করল।"
+      },
+      {
+        "en": "The jumbo box held everything.",
+        "bn": "জাম্বো বাক্সটি সব ধরে রাখল।"
+      }
+    ],
+    "synonyms": ["giant", "huge", "oversized"]
+  },
+  {
+    "base": "jobseeker",
+    "phonetic": "ˈdʒɒbsiːkər",
+    "meaning": "চাকরিপ্রার্থী / কাজ খোঁজা ব্যক্তি",
+    "examples": [
+      {
+        "en": "He is an active jobseeker.",
+        "bn": "সে একজন সক্রিয় চাকরিপ্রার্থী।"
+      },
+      {
+        "en": "She registered as a jobseeker.",
+        "bn": "সে চাকরিপ্রার্থী হিসেবে নিবন্ধন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The jobseeker updated his resume.",
+        "bn": "চাকরিপ্রার্থী তার জীবনবৃত্তান্ত আপডেট করল।"
+      },
+      {
+        "en": "She attended a jobseeker workshop.",
+        "bn": "সে একটি চাকরিপ্রার্থী কর্মশালায় গেল।"
+      },
+      {
+        "en": "He was a determined jobseeker.",
+        "bn": "সে একজন দৃঢ় চাকরিপ্রার্থী ছিল।"
+      },
+      {
+        "en": "Jobseekers need strong skills.",
+        "bn": "চাকরিপ্রার্থীদের শক্তিশালী দক্ষতা দরকার।"
+      },
+      {
+        "en": "She helped the jobseeker.",
+        "bn": "সে চাকরিপ্রার্থীকে সাহায্য করল।"
+      },
+      {
+        "en": "The jobseeker applied online.",
+        "bn": "চাকরিপ্রার্থী অনলাইনে আবেদন করল।"
+      },
+      {
+        "en": "He advised the jobseeker.",
+        "bn": "সে চাকরিপ্রার্থীকে পরামর্শ দিল।"
+      },
+      {
+        "en": "Jobseekers face many challenges.",
+        "bn": "চাকরিপ্রার্থীরা অনেক চ্যালেঞ্জের মুখোমুখি হয়।"
+      },
+      {
+        "en": "She was a persistent jobseeker.",
+        "bn": "সে একজন অধ্যবসায়ী চাকরিপ্রার্থী ছিল।"
+      },
+      {
+        "en": "The jobseeker finally got hired.",
+        "bn": "চাকরিপ্রার্থী অবশেষে নিয়োগ পেল।"
+      }
+    ],
+    "synonyms": ["applicant", "candidate", "unemployed"]
+  },
+  {
+    "base": "joyride",
+    "phonetic": "ˈdʒɔɪraɪd",
+    "meaning": "আনন্দ গাড়ি চালানো / আনন্দ ভ্রমণ",
+    "examples": [
+      { "en": "They went on a joyride.", "bn": "তারা আনন্দ গাড়ি চালাতে গেল।" },
+      { "en": "She enjoyed the joyride.", "bn": "সে আনন্দ ভ্রমণটি উপভোগ করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He took a joyride at night.",
+        "bn": "সে রাতে আনন্দ গাড়ি চালাল।"
+      },
+      {
+        "en": "The joyride was thrilling.",
+        "bn": "আনন্দ ভ্রমণটি রোমাঞ্চকর ছিল।"
+      },
+      {
+        "en": "She went on a joyride alone.",
+        "bn": "সে একা আনন্দ ভ্রমণে গেল।"
+      },
+      {
+        "en": "He loved joyrides on weekends.",
+        "bn": "সে সপ্তাহান্তে আনন্দ গাড়ি চালাতে ভালোবাসত।"
+      },
+      {
+        "en": "They took a joyride together.",
+        "bn": "তারা একসাথে আনন্দ ভ্রমণে গেল।"
+      },
+      {
+        "en": "The joyride ended quickly.",
+        "bn": "আনন্দ ভ্রমণটি দ্রুত শেষ হলো।"
+      },
+      {
+        "en": "She planned a joyride.",
+        "bn": "সে একটি আনন্দ ভ্রমণ পরিকল্পনা করল।"
+      },
+      {
+        "en": "He described his joyride.",
+        "bn": "সে তার আনন্দ ভ্রমণ বর্ণনা করল।"
+      },
+      {
+        "en": "The joyride was memorable.",
+        "bn": "আনন্দ ভ্রমণটি স্মরণীয় ছিল।"
+      },
+      {
+        "en": "They sang during the joyride.",
+        "bn": "আনন্দ ভ্রমণের সময় তারা গান গাইল।"
+      }
+    ],
+    "synonyms": ["excursion", "drive", "trip"]
+  },
+  {
+    "base": "jawdropping",
+    "phonetic": "ˈdʒɔːdrɒpɪŋ",
+    "meaning": "অবাককারী / হতবাক করা",
+    "examples": [
+      { "en": "The view was jawdropping.", "bn": "দৃশ্যটি অবাককারী ছিল।" },
+      {
+        "en": "She gave a jawdropping performance.",
+        "bn": "সে একটি হতবাককারী পারফরম্যান্স দিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The news was jawdropping.", "bn": "খবরটি অবাককারী ছিল।" },
+      {
+        "en": "He showed jawdropping skills.",
+        "bn": "সে হতবাককারী দক্ষতা দেখাল।"
+      },
+      {
+        "en": "The sunset was jawdropping.",
+        "bn": "সূর্যাস্তটি অবাককারী ছিল।"
+      },
+      {
+        "en": "She wore a jawdropping dress.",
+        "bn": "সে একটি হতবাককারী পোশাক পরল।"
+      },
+      { "en": "The trick was jawdropping.", "bn": "কৌশলটি অবাককারী ছিল।" },
+      {
+        "en": "He achieved jawdropping results.",
+        "bn": "সে অবাককারী ফলাফল অর্জন করল।"
+      },
+      { "en": "The building was jawdropping.", "bn": "ভবনটি হতবাককারী ছিল।" },
+      {
+        "en": "She made a jawdropping entrance.",
+        "bn": "সে একটি হতবাককারী প্রবেশ করল।"
+      },
+      {
+        "en": "The film had jawdropping effects.",
+        "bn": "চলচ্চিত্রটিতে হতবাককারী প্রভাব ছিল।"
+      },
+      {
+        "en": "He delivered a jawdropping speech.",
+        "bn": "সে একটি অবাককারী বক্তৃতা দিল।"
+      }
+    ],
+    "synonyms": ["amazing", "stunning", "astonishing"]
+  },
+  {
+    "base": "jubilantly",
+    "phonetic": "ˈdʒuːbɪləntli",
+    "meaning": "উল্লাসের সাথে / আনন্দিতভাবে",
+    "examples": [
+      { "en": "She cheered jubilantly.", "bn": "সে উল্লাসের সাথে চিৎকার করল।" },
+      {
+        "en": "He accepted the award jubilantly.",
+        "bn": "সে আনন্দিতভাবে পুরস্কার গ্রহণ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They marched jubilantly.",
+        "bn": "তারা উল্লাসের সাথে মিছিল করল।"
+      },
+      { "en": "She waved jubilantly.", "bn": "সে উল্লাসের সাথে হাত নাড়াল।" },
+      { "en": "He shouted jubilantly.", "bn": "সে উল্লাসের সাথে চিৎকার করল।" },
+      {
+        "en": "They hugged jubilantly.",
+        "bn": "তারা উল্লাসের সাথে আলিঙ্গন করল।"
+      },
+      { "en": "She smiled jubilantly.", "bn": "সে উল্লাসের সাথে হাসল।" },
+      { "en": "He jumped jubilantly.", "bn": "সে উল্লাসের সাথে লাফ দিল।" },
+      { "en": "They sang jubilantly.", "bn": "তারা উল্লাসের সাথে গান গাইল।" },
+      { "en": "She ran jubilantly.", "bn": "সে উল্লাসের সাথে দৌড়াল।" },
+      { "en": "He spoke jubilantly.", "bn": "সে উল্লাসের সাথে কথা বলল।" },
+      { "en": "They danced jubilantly.", "bn": "তারা উল্লাসের সাথে নাচল।" }
+    ],
+    "synonyms": ["joyfully", "triumphantly", "exuberantly"]
+  },
+  {
+    "base": "jumpiness",
+    "phonetic": "ˈdʒʌmpinəs",
+    "meaning": "চমকপ্রবণতা / অস্থিরতা",
+    "examples": [
+      {
+        "en": "His jumpiness was noticeable.",
+        "bn": "তার চমকপ্রবণতা লক্ষণীয় ছিল।"
+      },
+      {
+        "en": "She hid her jumpiness well.",
+        "bn": "সে তার অস্থিরতা ভালোভাবে লুকাল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Jumpiness can be reduced.", "bn": "চমকপ্রবণতা কমানো যায়।" },
+      {
+        "en": "He overcame his jumpiness.",
+        "bn": "সে তার চমকপ্রবণতা কাটিয়ে উঠল।"
+      },
+      {
+        "en": "Her jumpiness worried her friends.",
+        "bn": "তার চমকপ্রবণতা বন্ধুদের চিন্তিত করল।"
+      },
+      { "en": "Jumpiness comes from fear.", "bn": "চমকপ্রবণতা ভয় থেকে আসে।" },
+      {
+        "en": "She calmed her jumpiness.",
+        "bn": "সে তার চমকপ্রবণতা শান্ত করল।"
+      },
+      {
+        "en": "His jumpiness affected his work.",
+        "bn": "তার চমকপ্রবণতা কাজকে প্রভাবিত করল।"
+      },
+      {
+        "en": "Jumpiness is a sign of stress.",
+        "bn": "চমকপ্রবণতা মানসিক চাপের লক্ষণ।"
+      },
+      { "en": "She managed her jumpiness.", "bn": "সে তার চমকপ্রবণতা সামলাল।" },
+      {
+        "en": "His jumpiness faded gradually.",
+        "bn": "তার চমকপ্রবণতা ধীরে ধীরে কমল।"
+      },
+      {
+        "en": "Jumpiness needs to be addressed.",
+        "bn": "চমকপ্রবণতার সমাধান করতে হবে।"
+      }
+    ],
+    "synonyms": ["nervousness", "anxiety", "edginess"]
   }
 ]

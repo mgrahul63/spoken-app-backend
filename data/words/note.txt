@@ -1,0 +1,7 @@
+The JSON contains vocabulary learning data for the word "introduce". Here's what's in it:
+base — the root/base form of the word
+phonetic — pronunciation guide (ˌɪntrəˈdjuːs)
+meaning — Bengali translation: পরিচয় করিয়ে দেওয়া
+examples — 2 basic example sentences (en: for english sentence, bn: translate for banlga meaning)
+moreexample — 10 additional example sentences (en: for english sentence, bn: translate for banlga meaning)
+synonyms — synonyms: write the synonyms word 

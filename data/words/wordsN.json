@@ -420,5 +420,1344 @@
       }
     ],
     "synonyms": ["impartial", "unbiased", "fair"]
+  },
+
+  {
+    "base": "nation",
+    "phonetic": "ˈneɪʃn",
+    "meaning": "জাতি",
+    "examples": [
+      { "en": "Bangladesh is a nation.", "bn": "বাংলাদেশ একটি জাতি।" },
+      { "en": "The nation is growing fast.", "bn": "জাতি দ্রুত উন্নতি করছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The nation celebrated independence.",
+        "bn": "জাতি স্বাধীনতা উদযাপন করেছে।"
+      },
+      {
+        "en": "Every nation has its flag.",
+        "bn": "প্রতিটি জাতির নিজস্ব পতাকা আছে।"
+      },
+      { "en": "The nation is peaceful.", "bn": "জাতিটি শান্তিপূর্ণ।" },
+      {
+        "en": "Leaders guide the nation.",
+        "bn": "নেতারা জাতিকে পরিচালনা করে।"
+      },
+      {
+        "en": "The nation faces challenges.",
+        "bn": "জাতি চ্যালেঞ্জের মুখোমুখি।"
+      },
+      { "en": "He loves his nation.", "bn": "সে তার জাতিকে ভালোবাসে।" },
+      { "en": "The nation is united.", "bn": "জাতি ঐক্যবদ্ধ।" },
+      {
+        "en": "Education strengthens a nation.",
+        "bn": "শিক্ষা একটি জাতিকে শক্তিশালী করে।"
+      },
+      { "en": "The nation grew stronger.", "bn": "জাতি আরও শক্তিশালী হয়েছে।" },
+      { "en": "They served the nation.", "bn": "তারা জাতির সেবা করেছে।" }
+    ],
+    "synonyms": ["country", "state", "land", "territory"]
+  },
+  {
+    "base": "national",
+    "phonetic": "ˈnæʃənl",
+    "meaning": "জাতীয়",
+    "examples": [
+      { "en": "It is a national holiday.", "bn": "এটি একটি জাতীয় ছুটি।" },
+      { "en": "He is a national hero.", "bn": "সে একজন জাতীয় বীর।" }
+    ],
+    "moreexample": [
+      {
+        "en": "National pride is important.",
+        "bn": "জাতীয় গর্ব গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "They sang the national anthem.",
+        "bn": "তারা জাতীয় সংগীত গেয়েছে।"
+      },
+      { "en": "It is a national issue.", "bn": "এটি একটি জাতীয় বিষয়।" },
+      { "en": "National unity matters.", "bn": "জাতীয় ঐক্য গুরুত্বপূর্ণ।" },
+      {
+        "en": "The national flag is red and green.",
+        "bn": "জাতীয় পতাকা লাল ও সবুজ।"
+      },
+      {
+        "en": "He received national recognition.",
+        "bn": "সে জাতীয় স্বীকৃতি পেয়েছে।"
+      },
+      {
+        "en": "National security is vital.",
+        "bn": "জাতীয় নিরাপত্তা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "They held a national event.",
+        "bn": "তারা একটি জাতীয় অনুষ্ঠান করেছে।"
+      },
+      {
+        "en": "National policy changed.",
+        "bn": "জাতীয় নীতি পরিবর্তিত হয়েছে।"
+      },
+      { "en": "She is a national player.", "bn": "সে একজন জাতীয় খেলোয়াড়।" }
+    ],
+    "synonyms": ["countrywide", "state", "public", "federal"]
+  },
+  {
+    "base": "native",
+    "phonetic": "ˈneɪtɪv",
+    "meaning": "স্থানীয় / জন্মগত",
+    "examples": [
+      { "en": "He is a native speaker.", "bn": "সে একজন স্থানীয় বক্তা।" },
+      { "en": "This is my native land.", "bn": "এটি আমার জন্মভূমি।" }
+    ],
+    "moreexample": [
+      { "en": "She is native to Dhaka.", "bn": "সে ঢাকার স্থানীয়।" },
+      {
+        "en": "He speaks his native language.",
+        "bn": "সে তার মাতৃভাষায় কথা বলে।"
+      },
+      { "en": "Native people live here.", "bn": "স্থানীয় মানুষ এখানে থাকে।" },
+      { "en": "It is native culture.", "bn": "এটি স্থানীয় সংস্কৃতি।" },
+      { "en": "He is native to this area.", "bn": "সে এই এলাকার স্থানীয়।" },
+      { "en": "Native plants grow here.", "bn": "স্থানীয় গাছ এখানে জন্মায়।" },
+      { "en": "She is a native artist.", "bn": "সে একজন স্থানীয় শিল্পী।" },
+      { "en": "Native traditions are rich.", "bn": "স্থানীয় ঐতিহ্য সমৃদ্ধ।" },
+      {
+        "en": "He returned to his native village.",
+        "bn": "সে তার জন্মগ্রামে ফিরে গেছে।"
+      },
+      { "en": "Native customs differ.", "bn": "স্থানীয় রীতিনীতি ভিন্ন।" }
+    ],
+    "synonyms": ["local", "indigenous", "original", "born"]
+  },
+  {
+    "base": "nature",
+    "phonetic": "ˈneɪtʃər",
+    "meaning": "প্রকৃতি",
+    "examples": [
+      { "en": "Nature is beautiful.", "bn": "প্রকৃতি সুন্দর।" },
+      { "en": "He loves nature.", "bn": "সে প্রকৃতি ভালোবাসে।" }
+    ],
+    "moreexample": [
+      { "en": "Nature is peaceful.", "bn": "প্রকৃতি শান্তিপূর্ণ।" },
+      {
+        "en": "We must protect nature.",
+        "bn": "আমাদের প্রকৃতি রক্ষা করতে হবে।"
+      },
+      { "en": "Nature heals us.", "bn": "প্রকৃতি আমাদের সুস্থ করে।" },
+      { "en": "He studies nature.", "bn": "সে প্রকৃতি অধ্যয়ন করে।" },
+      { "en": "Nature provides resources.", "bn": "প্রকৃতি সম্পদ দেয়।" },
+      {
+        "en": "She enjoys nature walks.",
+        "bn": "সে প্রকৃতিতে হাঁটা উপভোগ করে।"
+      },
+      { "en": "Nature is powerful.", "bn": "প্রকৃতি শক্তিশালী।" },
+      { "en": "We depend on nature.", "bn": "আমরা প্রকৃতির উপর নির্ভর করি।" },
+      { "en": "Nature is changing.", "bn": "প্রকৃতি পরিবর্তিত হচ্ছে।" },
+      { "en": "Respect nature.", "bn": "প্রকৃতিকে সম্মান করো।" }
+    ],
+    "synonyms": ["environment", "earth", "world", "wild"]
+  },
+  {
+    "base": "navigate",
+    "phonetic": "ˈnævɪɡeɪt",
+    "meaning": "নেভিগেট করা / পথ নির্ধারণ করা",
+    "examples": [
+      { "en": "He navigates the ship.", "bn": "সে জাহাজ পরিচালনা করে।" },
+      { "en": "She navigates the website.", "bn": "সে ওয়েবসাইট ব্যবহার করে।" }
+    ],
+    "moreexample": [
+      { "en": "They navigated the forest.", "bn": "তারা বন পার হয়েছে।" },
+      { "en": "He navigates carefully.", "bn": "সে সাবধানে পথ নির্ধারণ করে।" },
+      {
+        "en": "She learned to navigate maps.",
+        "bn": "সে মানচিত্র ব্যবহার করতে শিখেছে।"
+      },
+      {
+        "en": "The driver navigates traffic.",
+        "bn": "চালক ট্রাফিক পরিচালনা করে।"
+      },
+      { "en": "We navigate challenges.", "bn": "আমরা চ্যালেঞ্জ মোকাবিলা করি।" },
+      { "en": "He navigated the river.", "bn": "সে নদী পার হয়েছে।" },
+      {
+        "en": "She navigates her career.",
+        "bn": "সে তার ক্যারিয়ার পরিচালনা করে।"
+      },
+      {
+        "en": "The system helps navigate.",
+        "bn": "সিস্টেমটি পথ দেখাতে সাহায্য করে।"
+      },
+      { "en": "They navigated the city.", "bn": "তারা শহর ঘুরে দেখেছে।" },
+      { "en": "He navigates easily.", "bn": "সে সহজে পথ নির্ধারণ করে।" }
+    ],
+    "synonyms": ["guide", "steer", "direct", "travel"]
+  },
+  {
+    "base": "necessary",
+    "phonetic": "ˈnesəseri",
+    "meaning": "প্রয়োজনীয়",
+    "examples": [
+      { "en": "Water is necessary.", "bn": "পানি প্রয়োজনীয়।" },
+      { "en": "It is necessary to study.", "bn": "পড়াশোনা করা প্রয়োজনীয়।" }
+    ],
+    "moreexample": [
+      { "en": "Sleep is necessary.", "bn": "ঘুম প্রয়োজনীয়।" },
+      {
+        "en": "Food is necessary for life.",
+        "bn": "খাদ্য জীবনের জন্য প্রয়োজনীয়।"
+      },
+      {
+        "en": "It is necessary to work hard.",
+        "bn": "কঠোর পরিশ্রম করা প্রয়োজনীয়।"
+      },
+      { "en": "Money is necessary.", "bn": "টাকা প্রয়োজনীয়।" },
+      { "en": "Exercise is necessary.", "bn": "ব্যায়াম প্রয়োজনীয়।" },
+      { "en": "It is necessary to learn.", "bn": "শিখা প্রয়োজনীয়।" },
+      { "en": "Communication is necessary.", "bn": "যোগাযোগ প্রয়োজনীয়।" },
+      { "en": "Rest is necessary.", "bn": "বিশ্রাম প্রয়োজনীয়।" },
+      {
+        "en": "Necessary tools are ready.",
+        "bn": "প্রয়োজনীয় সরঞ্জাম প্রস্তুত।"
+      },
+      {
+        "en": "It is necessary for success.",
+        "bn": "সাফল্যের জন্য এটি প্রয়োজনীয়।"
+      }
+    ],
+    "synonyms": ["essential", "important", "required", "vital"]
+  },
+  {
+    "base": "negative",
+    "phonetic": "ˈneɡətɪv",
+    "meaning": "নেতিবাচক",
+    "examples": [
+      {
+        "en": "He gave a negative answer.",
+        "bn": "সে নেতিবাচক উত্তর দিয়েছে।"
+      },
+      { "en": "The result is negative.", "bn": "ফলাফল নেতিবাচক।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She has a negative attitude.",
+        "bn": "তার নেতিবাচক মনোভাব আছে।"
+      },
+      { "en": "The test was negative.", "bn": "পরীক্ষার ফল নেতিবাচক।" },
+      {
+        "en": "Negative thoughts are harmful.",
+        "bn": "নেতিবাচক চিন্তা ক্ষতিকর।"
+      },
+      {
+        "en": "He reacted negatively.",
+        "bn": "সে নেতিবাচকভাবে প্রতিক্রিয়া দিয়েছে।"
+      },
+      {
+        "en": "The feedback was negative.",
+        "bn": "প্রতিক্রিয়া নেতিবাচক ছিল।"
+      },
+      { "en": "Avoid negative people.", "bn": "নেতিবাচক মানুষ এড়াও।" },
+      { "en": "The impact was negative.", "bn": "প্রভাব নেতিবাচক ছিল।" },
+      { "en": "She felt negative.", "bn": "সে নেতিবাচক অনুভব করেছে।" },
+      {
+        "en": "Negative energy affects mood.",
+        "bn": "নেতিবাচক শক্তি মেজাজে প্রভাব ফেলে।"
+      },
+      {
+        "en": "The situation turned negative.",
+        "bn": "পরিস্থিতি নেতিবাচক হয়েছে।"
+      }
+    ],
+    "synonyms": ["bad", "harmful", "pessimistic", "adverse"]
+  },
+  {
+    "base": "negotiate",
+    "phonetic": "nɪˈɡoʊʃieɪt",
+    "meaning": "আলোচনা করে সমঝোতা করা",
+    "examples": [
+      {
+        "en": "They negotiate a deal.",
+        "bn": "তারা একটি চুক্তি নিয়ে আলোচনা করে।"
+      },
+      {
+        "en": "We must negotiate carefully.",
+        "bn": "আমাদের সাবধানে আলোচনা করতে হবে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They negotiated peace.",
+        "bn": "তারা শান্তি নিয়ে আলোচনা করেছে।"
+      },
+      { "en": "He negotiates prices.", "bn": "সে দাম নিয়ে আলোচনা করে।" },
+      { "en": "We negotiate terms.", "bn": "আমরা শর্ত নিয়ে আলোচনা করি।" },
+      { "en": "She negotiated well.", "bn": "সে ভালোভাবে আলোচনা করেছে।" },
+      { "en": "They are negotiating now.", "bn": "তারা এখন আলোচনা করছে।" },
+      { "en": "He negotiated salary.", "bn": "সে বেতন নিয়ে আলোচনা করেছে।" },
+      { "en": "Negotiations are ongoing.", "bn": "আলোচনা চলছে।" },
+      {
+        "en": "They negotiated agreement.",
+        "bn": "তারা চুক্তি নিয়ে আলোচনা করেছে।"
+      },
+      { "en": "She learned to negotiate.", "bn": "সে আলোচনা করতে শিখেছে।" },
+      {
+        "en": "They negotiated successfully.",
+        "bn": "তারা সফলভাবে আলোচনা করেছে।"
+      }
+    ],
+    "synonyms": ["discuss", "bargain", "settle", "mediate"]
+  },
+  {
+    "base": "neighbor",
+    "phonetic": "ˈneɪbər",
+    "meaning": "প্রতিবেশী",
+    "examples": [
+      { "en": "My neighbor is kind.", "bn": "আমার প্রতিবেশী দয়ালু।" },
+      {
+        "en": "We help our neighbors.",
+        "bn": "আমরা আমাদের প্রতিবেশীদের সাহায্য করি।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He met his neighbor.",
+        "bn": "সে তার প্রতিবেশীর সাথে দেখা করেছে।"
+      },
+      { "en": "Neighbors are friendly.", "bn": "প্রতিবেশীরা বন্ধুত্বপূর্ণ।" },
+      {
+        "en": "She visited her neighbor.",
+        "bn": "সে তার প্রতিবেশীর বাড়ি গেছে।"
+      },
+      { "en": "Good neighbors help.", "bn": "ভালো প্রতিবেশীরা সাহায্য করে।" },
+      { "en": "The neighbor is old.", "bn": "প্রতিবেশী বৃদ্ধ।" },
+      { "en": "They are neighbors.", "bn": "তারা প্রতিবেশী।" },
+      { "en": "He called his neighbor.", "bn": "সে তার প্রতিবেশীকে ডেকেছে।" },
+      { "en": "Neighbors share food.", "bn": "প্রতিবেশীরা খাবার ভাগ করে।" },
+      {
+        "en": "She trusts her neighbor.",
+        "bn": "সে তার প্রতিবেশীকে বিশ্বাস করে।"
+      },
+      {
+        "en": "The neighbor helped us.",
+        "bn": "প্রতিবেশী আমাদের সাহায্য করেছে।"
+      }
+    ],
+    "synonyms": ["resident", "local", "community member", "nearby person"]
+  },
+  {
+    "base": "network",
+    "phonetic": "ˈnetwɜːrk",
+    "meaning": "নেটওয়ার্ক / যোগাযোগ ব্যবস্থা",
+    "examples": [
+      {
+        "en": "The internet is a network.",
+        "bn": "ইন্টারনেট একটি নেটওয়ার্ক।"
+      },
+      {
+        "en": "He built a strong network.",
+        "bn": "সে একটি শক্তিশালী নেটওয়ার্ক তৈরি করেছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The network is fast.", "bn": "নেটওয়ার্ক দ্রুত।" },
+      {
+        "en": "She joined a professional network.",
+        "bn": "সে একটি পেশাদার নেটওয়ার্কে যোগ দিয়েছে।"
+      },
+      { "en": "The network failed.", "bn": "নেটওয়ার্ক কাজ করেনি।" },
+      {
+        "en": "He expanded his network.",
+        "bn": "সে তার নেটওয়ার্ক বাড়িয়েছে।"
+      },
+      {
+        "en": "Mobile network is strong.",
+        "bn": "মোবাইল নেটওয়ার্ক শক্তিশালী।"
+      },
+      {
+        "en": "They share network access.",
+        "bn": "তারা নেটওয়ার্ক অ্যাক্সেস শেয়ার করে।"
+      },
+      {
+        "en": "The network connects people.",
+        "bn": "নেটওয়ার্ক মানুষকে যুক্ত করে।"
+      },
+      {
+        "en": "He works in a network company.",
+        "bn": "সে একটি নেটওয়ার্ক কোম্পানিতে কাজ করে।"
+      },
+      { "en": "The network is global.", "bn": "নেটওয়ার্ক বিশ্বব্যাপী।" },
+      {
+        "en": "They improved the network.",
+        "bn": "তারা নেটওয়ার্ক উন্নত করেছে।"
+      }
+    ],
+    "synonyms": ["system", "connection", "web", "grid"]
+  },
+
+  {
+    "base": "news",
+    "phonetic": "njuːz",
+    "meaning": "সংবাদ",
+    "examples": [
+      { "en": "I watch the news daily.", "bn": "আমি প্রতিদিন সংবাদ দেখি।" },
+      { "en": "The news is shocking.", "bn": "সংবাদটি চমকপ্রদ।" }
+    ],
+    "moreexample": [
+      { "en": "Good news arrived.", "bn": "ভালো সংবাদ এসেছে।" },
+      { "en": "She shared the news.", "bn": "সে সংবাদটি শেয়ার করেছে।" },
+      { "en": "The news spread fast.", "bn": "সংবাদ দ্রুত ছড়িয়েছে।" },
+      { "en": "He heard the news.", "bn": "সে সংবাদটি শুনেছে।" },
+      { "en": "Breaking news is on TV.", "bn": "ব্রেকিং নিউজ টিভিতে চলছে।" },
+      { "en": "The news upset him.", "bn": "সংবাদটি তাকে দুঃখ দিয়েছে।" },
+      { "en": "Bad news came today.", "bn": "আজ খারাপ সংবাদ এসেছে।" },
+      { "en": "News travels quickly.", "bn": "সংবাদ দ্রুত ছড়ায়।" },
+      { "en": "She waited for news.", "bn": "সে সংবাদের জন্য অপেক্ষা করেছে।" },
+      { "en": "The news was confirmed.", "bn": "সংবাদটি নিশ্চিত হয়েছে।" }
+    ],
+    "synonyms": ["report", "update", "bulletin", "announcement"]
+  },
+  {
+    "base": "newspaper",
+    "phonetic": "ˈnjuːzpeɪpər",
+    "meaning": "সংবাদপত্র",
+    "examples": [
+      { "en": "He reads the newspaper.", "bn": "সে সংবাদপত্র পড়ে।" },
+      { "en": "The newspaper is old.", "bn": "সংবাদপত্রটি পুরনো।" }
+    ],
+    "moreexample": [
+      { "en": "She bought a newspaper.", "bn": "সে একটি সংবাদপত্র কিনেছে।" },
+      { "en": "The newspaper is daily.", "bn": "সংবাদপত্রটি দৈনিক।" },
+      { "en": "He writes for a newspaper.", "bn": "সে একটি সংবাদপত্রে লেখে।" },
+      {
+        "en": "The newspaper published news.",
+        "bn": "সংবাদপত্র সংবাদ প্রকাশ করেছে।"
+      },
+      {
+        "en": "I read the morning newspaper.",
+        "bn": "আমি সকালের সংবাদপত্র পড়ি।"
+      },
+      { "en": "The newspaper is informative.", "bn": "সংবাদপত্রটি তথ্যবহুল।" },
+      { "en": "She folded the newspaper.", "bn": "সে সংবাদপত্র ভাঁজ করেছে।" },
+      { "en": "The newspaper is popular.", "bn": "সংবাদপত্রটি জনপ্রিয়।" },
+      { "en": "He delivered newspapers.", "bn": "সে সংবাদপত্র বিতরণ করেছে।" },
+      { "en": "The newspaper is updated.", "bn": "সংবাদপত্রটি আপডেটেড।" }
+    ],
+    "synonyms": ["daily", "journal", "press", "publication"]
+  },
+  {
+    "base": "newly",
+    "phonetic": "ˈnjuːli",
+    "meaning": "সম্প্রতি / নতুনভাবে",
+    "examples": [
+      { "en": "They are newly married.", "bn": "তারা সদ্য বিবাহিত।" },
+      { "en": "The house is newly built.", "bn": "বাড়িটি নতুনভাবে তৈরি।" }
+    ],
+    "moreexample": [
+      { "en": "He is newly hired.", "bn": "সে সদ্য নিয়োগপ্রাপ্ত।" },
+      {
+        "en": "The system is newly updated.",
+        "bn": "সিস্টেমটি নতুনভাবে আপডেট করা হয়েছে।"
+      },
+      { "en": "She is newly arrived.", "bn": "সে সদ্য এসেছে।" },
+      {
+        "en": "The room is newly painted.",
+        "bn": "ঘরটি নতুনভাবে রং করা হয়েছে।"
+      },
+      { "en": "They are newly formed.", "bn": "তারা নতুনভাবে গঠিত।" },
+      { "en": "The shop is newly opened.", "bn": "দোকানটি সদ্য খোলা হয়েছে।" },
+      { "en": "He is newly promoted.", "bn": "সে সদ্য পদোন্নতি পেয়েছে।" },
+      {
+        "en": "The idea is newly developed.",
+        "bn": "আইডিয়াটি নতুনভাবে তৈরি।"
+      },
+      { "en": "She is newly assigned.", "bn": "সে সদ্য দায়িত্ব পেয়েছে।" },
+      {
+        "en": "The project is newly launched.",
+        "bn": "প্রকল্পটি নতুনভাবে চালু হয়েছে।"
+      }
+    ],
+    "synonyms": ["recently", "freshly", "lately", "just"]
+  },
+  {
+    "base": "newborn",
+    "phonetic": "ˈnjuːbɔːrn",
+    "meaning": "নবজাতক",
+    "examples": [
+      { "en": "The newborn is sleeping.", "bn": "নবজাতক ঘুমাচ্ছে।" },
+      { "en": "She has a newborn baby.", "bn": "তার একটি নবজাতক শিশু আছে।" }
+    ],
+    "moreexample": [
+      { "en": "The newborn cried loudly.", "bn": "নবজাতক জোরে কেঁদেছে।" },
+      {
+        "en": "They welcomed the newborn.",
+        "bn": "তারা নবজাতককে স্বাগত জানিয়েছে।"
+      },
+      { "en": "The newborn is healthy.", "bn": "নবজাতক সুস্থ।" },
+      { "en": "She held the newborn.", "bn": "সে নবজাতককে ধরে রেখেছে।" },
+      { "en": "The newborn needs care.", "bn": "নবজাতকের যত্ন দরকার।" },
+      {
+        "en": "Doctors checked the newborn.",
+        "bn": "ডাক্তার নবজাতক পরীক্ষা করেছে।"
+      },
+      { "en": "The newborn smiled.", "bn": "নবজাতক হাসল।" },
+      { "en": "The newborn is tiny.", "bn": "নবজাতক খুব ছোট।" },
+      {
+        "en": "Parents love their newborn.",
+        "bn": "অভিভাবকরা নবজাতককে ভালোবাসে।"
+      },
+      {
+        "en": "The newborn slept peacefully.",
+        "bn": "নবজাতক শান্তভাবে ঘুমিয়েছে।"
+      }
+    ],
+    "synonyms": ["infant", "baby", "new child", "little one"]
+  },
+  {
+    "base": "newcomer",
+    "phonetic": "ˈnjuːkʌmər",
+    "meaning": "নতুন আগন্তুক",
+    "examples": [
+      { "en": "He is a newcomer.", "bn": "সে একজন নতুন আগন্তুক।" },
+      { "en": "The newcomer is shy.", "bn": "নতুন আগন্তুক লাজুক।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The newcomer joined today.",
+        "bn": "নতুন আগন্তুক আজ যোগ দিয়েছে।"
+      },
+      {
+        "en": "She welcomed the newcomer.",
+        "bn": "সে নতুন আগন্তুককে স্বাগত জানিয়েছে।"
+      },
+      {
+        "en": "The newcomer is friendly.",
+        "bn": "নতুন আগন্তুক বন্ধুত্বপূর্ণ।"
+      },
+      {
+        "en": "He helped the newcomer.",
+        "bn": "সে নতুন আগন্তুককে সাহায্য করেছে।"
+      },
+      {
+        "en": "The newcomer adapted fast.",
+        "bn": "নতুন আগন্তুক দ্রুত মানিয়ে নিয়েছে।"
+      },
+      {
+        "en": "They introduced the newcomer.",
+        "bn": "তারা নতুন আগন্তুককে পরিচয় করিয়ে দিয়েছে।"
+      },
+      { "en": "The newcomer is talented.", "bn": "নতুন আগন্তুক প্রতিভাবান।" },
+      { "en": "She is a newcomer at school.", "bn": "সে স্কুলে নতুন আগন্তুক।" },
+      {
+        "en": "The newcomer learned quickly.",
+        "bn": "নতুন আগন্তুক দ্রুত শিখেছে।"
+      },
+      {
+        "en": "Everyone likes the newcomer.",
+        "bn": "সবাই নতুন আগন্তুককে পছন্দ করে।"
+      }
+    ],
+    "synonyms": ["new person", "fresh face", "entrant", "arrival"]
+  },
+  {
+    "base": "next",
+    "phonetic": "nekst",
+    "meaning": "পরবর্তী",
+    "examples": [
+      { "en": "What is next?", "bn": "পরবর্তী কী?" },
+      { "en": "See you next week.", "bn": "পরের সপ্তাহে দেখা হবে।" }
+    ],
+    "moreexample": [
+      { "en": "Next time will be better.", "bn": "পরের বার আরও ভালো হবে।" },
+      { "en": "He is next in line.", "bn": "সে লাইনে পরবর্তী।" },
+      { "en": "Next chapter is easy.", "bn": "পরবর্তী অধ্যায় সহজ।" },
+      { "en": "The next bus arrived.", "bn": "পরবর্তী বাস এসেছে।" },
+      { "en": "What comes next?", "bn": "পরবর্তী কী আসবে?" },
+      { "en": "Next day was sunny.", "bn": "পরের দিন রোদ ছিল।" },
+      { "en": "She sat next to me.", "bn": "সে আমার পাশে বসেছে।" },
+      { "en": "Next step is important.", "bn": "পরবর্তী ধাপ গুরুত্বপূর্ণ।" },
+      {
+        "en": "They plan next move.",
+        "bn": "তারা পরবর্তী পদক্ষেপ পরিকল্পনা করে।"
+      },
+      { "en": "Next goal is clear.", "bn": "পরবর্তী লক্ষ্য পরিষ্কার।" }
+    ],
+    "synonyms": ["following", "subsequent", "upcoming", "future"]
+  },
+  {
+    "base": "niche",
+    "phonetic": "niːʃ",
+    "meaning": "বিশেষ ক্ষেত্র",
+    "examples": [
+      {
+        "en": "He found his niche.",
+        "bn": "সে তার বিশেষ ক্ষেত্র খুঁজে পেয়েছে।"
+      },
+      { "en": "It is a niche market.", "bn": "এটি একটি বিশেষ বাজার।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She works in a niche field.",
+        "bn": "সে একটি বিশেষ ক্ষেত্রে কাজ করে।"
+      },
+      {
+        "en": "The niche is competitive.",
+        "bn": "বিশেষ ক্ষেত্রটি প্রতিযোগিতামূলক।"
+      },
+      {
+        "en": "He built a niche business.",
+        "bn": "সে একটি বিশেষ ব্যবসা তৈরি করেছে।"
+      },
+      { "en": "Niche markets grow fast.", "bn": "বিশেষ বাজার দ্রুত বাড়ে।" },
+      { "en": "She carved a niche.", "bn": "সে একটি বিশেষ স্থান তৈরি করেছে।" },
+      { "en": "It is a niche product.", "bn": "এটি একটি বিশেষ পণ্য।" },
+      {
+        "en": "They target a niche audience.",
+        "bn": "তারা বিশেষ দর্শকদের লক্ষ্য করে।"
+      },
+      {
+        "en": "He dominated the niche.",
+        "bn": "সে বিশেষ ক্ষেত্রটি দখল করেছে।"
+      },
+      { "en": "The niche is small.", "bn": "বিশেষ ক্ষেত্রটি ছোট।" },
+      {
+        "en": "She specializes in a niche.",
+        "bn": "সে একটি বিশেষ ক্ষেত্রে বিশেষজ্ঞ।"
+      }
+    ],
+    "synonyms": ["specialty", "segment", "area", "domain"]
+  },
+  {
+    "base": "nifty",
+    "phonetic": "ˈnɪfti",
+    "meaning": "চতুর / চমৎকার",
+    "examples": [
+      { "en": "That is a nifty idea.", "bn": "এটি একটি চমৎকার আইডিয়া।" },
+      { "en": "He built a nifty tool.", "bn": "সে একটি চতুর টুল তৈরি করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "She has a nifty trick.", "bn": "তার একটি চতুর কৌশল আছে।" },
+      { "en": "The device is nifty.", "bn": "ডিভাইসটি চমৎকার।" },
+      { "en": "He made a nifty solution.", "bn": "সে একটি চতুর সমাধান করেছে।" },
+      { "en": "It is a nifty design.", "bn": "এটি একটি চমৎকার ডিজাইন।" },
+      { "en": "She gave a nifty answer.", "bn": "সে একটি চতুর উত্তর দিয়েছে।" },
+      { "en": "The app is nifty.", "bn": "অ্যাপটি চমৎকার।" },
+      {
+        "en": "He used a nifty shortcut.",
+        "bn": "সে একটি চতুর শর্টকাট ব্যবহার করেছে।"
+      },
+      { "en": "It is a nifty feature.", "bn": "এটি একটি চমৎকার ফিচার।" },
+      { "en": "She showed a nifty move.", "bn": "সে একটি চতুর চাল দেখিয়েছে।" },
+      {
+        "en": "The idea is nifty and simple.",
+        "bn": "আইডিয়াটি চমৎকার এবং সহজ।"
+      }
+    ],
+    "synonyms": ["clever", "smart", "handy", "ingenious"]
+  },
+  {
+    "base": "night",
+    "phonetic": "naɪt",
+    "meaning": "রাত",
+    "examples": [
+      { "en": "It is night.", "bn": "এটি রাত।" },
+      { "en": "She studies at night.", "bn": "সে রাতে পড়ে।" }
+    ],
+    "moreexample": [
+      { "en": "The night is dark.", "bn": "রাত অন্ধকার।" },
+      { "en": "He sleeps at night.", "bn": "সে রাতে ঘুমায়।" },
+      { "en": "Night is peaceful.", "bn": "রাত শান্তিপূর্ণ।" },
+      { "en": "They walked at night.", "bn": "তারা রাতে হেঁটেছে।" },
+      { "en": "The night sky is clear.", "bn": "রাতের আকাশ পরিষ্কার।" },
+      { "en": "She works at night.", "bn": "সে রাতে কাজ করে।" },
+      { "en": "Night came quickly.", "bn": "রাত দ্রুত এসেছে।" },
+      { "en": "He fears the night.", "bn": "সে রাতকে ভয় পায়।" },
+      { "en": "The night was cold.", "bn": "রাতটি ঠান্ডা ছিল।" },
+      { "en": "They enjoyed the night.", "bn": "তারা রাত উপভোগ করেছে।" }
+    ],
+    "synonyms": ["evening", "darkness", "nighttime", "midnight"]
+  },
+  {
+    "base": "nuisance",
+    "phonetic": "ˈnjuːsəns",
+    "meaning": "বিরক্তিকর বিষয় / ঝামেলা",
+    "examples": [
+      { "en": "The noise is a nuisance.", "bn": "শব্দটি বিরক্তিকর।" },
+      { "en": "He is a nuisance.", "bn": "সে একটি ঝামেলা।" }
+    ],
+    "moreexample": [
+      { "en": "The problem is a nuisance.", "bn": "সমস্যাটি বিরক্তিকর।" },
+      { "en": "Mosquitoes are a nuisance.", "bn": "মশা একটি বিরক্তিকর বিষয়।" },
+      { "en": "He became a nuisance.", "bn": "সে একটি ঝামেলা হয়ে গেছে।" },
+      { "en": "The delay is a nuisance.", "bn": "দেরি একটি বিরক্তিকর বিষয়।" },
+      { "en": "The issue is a nuisance.", "bn": "বিষয়টি বিরক্তিকর।" },
+      { "en": "She found it a nuisance.", "bn": "সে এটিকে ঝামেলা মনে করেছে।" },
+      { "en": "Traffic is a nuisance.", "bn": "ট্রাফিক একটি বিরক্তিকর বিষয়।" },
+      { "en": "It became a nuisance.", "bn": "এটি ঝামেলা হয়ে গেছে।" },
+      { "en": "The rule is a nuisance.", "bn": "নিয়মটি বিরক্তিকর।" },
+      { "en": "He caused a nuisance.", "bn": "সে ঝামেলা সৃষ্টি করেছে।" }
+    ],
+    "synonyms": ["trouble", "annoyance", "irritation", "problem"]
+  },
+
+  {
+    "base": "nurture",
+    "phonetic": "ˈnɜːrtʃər",
+    "meaning": "লালন-পালন করা",
+    "examples": [
+      {
+        "en": "Parents nurture their children.",
+        "bn": "অভিভাবকরা তাদের সন্তানদের লালন-পালন করে।"
+      },
+      { "en": "We must nurture talent.", "bn": "আমাদের প্রতিভা লালন করতে হবে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Teachers nurture students.",
+        "bn": "শিক্ষকরা শিক্ষার্থীদের লালন করে।"
+      },
+      {
+        "en": "She nurtures plants carefully.",
+        "bn": "সে যত্নসহকারে গাছ লালন করে।"
+      },
+      {
+        "en": "Love nurtures relationships.",
+        "bn": "ভালোবাসা সম্পর্ক লালন করে।"
+      },
+      { "en": "They nurture young minds.", "bn": "তারা তরুণ মনকে লালন করে।" },
+      { "en": "He nurtures creativity.", "bn": "সে সৃজনশীলতা লালন করে।" },
+      { "en": "Environment nurtures growth.", "bn": "পরিবেশ বৃদ্ধি লালন করে।" },
+      { "en": "She nurtures her dreams.", "bn": "সে তার স্বপ্ন লালন করে।" },
+      { "en": "We nurture good habits.", "bn": "আমরা ভালো অভ্যাস গড়ে তুলি।" },
+      { "en": "Care nurtures success.", "bn": "যত্ন সাফল্য লালন করে।" },
+      { "en": "He nurtures his skills.", "bn": "সে তার দক্ষতা লালন করে।" }
+    ],
+    "synonyms": ["care", "foster", "develop", "support"]
+  },
+  {
+    "base": "nucleus",
+    "phonetic": "ˈnjuːkliəs",
+    "meaning": "কেন্দ্র / নিউক্লিয়াস",
+    "examples": [
+      {
+        "en": "The nucleus is in the center.",
+        "bn": "নিউক্লিয়াস কেন্দ্রস্থলে থাকে।"
+      },
+      { "en": "Atoms have a nucleus.", "bn": "পরমাণুর একটি নিউক্লিয়াস থাকে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The nucleus controls the cell.",
+        "bn": "নিউক্লিয়াস কোষ নিয়ন্ত্রণ করে।"
+      },
+      { "en": "It is the nucleus of the city.", "bn": "এটি শহরের কেন্দ্র।" },
+      {
+        "en": "The nucleus is small but powerful.",
+        "bn": "নিউক্লিয়াস ছোট কিন্তু শক্তিশালী।"
+      },
+      { "en": "Cells contain a nucleus.", "bn": "কোষে নিউক্লিয়াস থাকে।" },
+      { "en": "The nucleus holds DNA.", "bn": "নিউক্লিয়াস DNA ধারণ করে।" },
+      {
+        "en": "The family is the nucleus of society.",
+        "bn": "পরিবার সমাজের কেন্দ্র।"
+      },
+      {
+        "en": "Scientists study the nucleus.",
+        "bn": "বিজ্ঞানীরা নিউক্লিয়াস অধ্যয়ন করে।"
+      },
+      { "en": "The nucleus divides.", "bn": "নিউক্লিয়াস বিভক্ত হয়।" },
+      {
+        "en": "It is the nucleus of activity.",
+        "bn": "এটি কার্যকলাপের কেন্দ্র।"
+      },
+      { "en": "The nucleus is essential.", "bn": "নিউক্লিয়াস অত্যাবশ্যক।" }
+    ],
+    "synonyms": ["core", "center", "heart", "hub"]
+  },
+  {
+    "base": "numerous",
+    "phonetic": "ˈnjuːmərəs",
+    "meaning": "অসংখ্য",
+    "examples": [
+      { "en": "He has numerous friends.", "bn": "তার অসংখ্য বন্ধু আছে।" },
+      { "en": "There are numerous problems.", "bn": "অসংখ্য সমস্যা আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She received numerous awards.",
+        "bn": "সে অসংখ্য পুরস্কার পেয়েছে।"
+      },
+      { "en": "Numerous people attended.", "bn": "অসংখ্য মানুষ উপস্থিত ছিল।" },
+      { "en": "There are numerous reasons.", "bn": "অসংখ্য কারণ আছে।" },
+      { "en": "He made numerous attempts.", "bn": "সে অসংখ্য চেষ্টা করেছে।" },
+      {
+        "en": "The city has numerous buildings.",
+        "bn": "শহরে অসংখ্য ভবন আছে।"
+      },
+      { "en": "Numerous changes occurred.", "bn": "অসংখ্য পরিবর্তন ঘটেছে।" },
+      { "en": "She has numerous skills.", "bn": "তার অসংখ্য দক্ষতা আছে।" },
+      {
+        "en": "They faced numerous challenges.",
+        "bn": "তারা অসংখ্য চ্যালেঞ্জের মুখোমুখি হয়েছে।"
+      },
+      {
+        "en": "Numerous ideas were discussed.",
+        "bn": "অসংখ্য ধারণা আলোচনা হয়েছে।"
+      },
+      { "en": "He owns numerous books.", "bn": "তার অসংখ্য বই আছে।" }
+    ],
+    "synonyms": ["many", "countless", "multiple", "various"]
+  },
+  {
+    "base": "numb",
+    "phonetic": "nʌm",
+    "meaning": "অসাড় / অনুভূতিহীন",
+    "examples": [
+      { "en": "My hand is numb.", "bn": "আমার হাত অসাড়।" },
+      { "en": "He felt numb with shock.", "bn": "সে শকে অনুভূতিহীন হয়ে গেছে।" }
+    ],
+    "moreexample": [
+      { "en": "Her feet became numb.", "bn": "তার পা অসাড় হয়ে গেছে।" },
+      {
+        "en": "He felt numb after the news.",
+        "bn": "সংবাদ শোনার পর সে অনুভূতিহীন হয়ে যায়।"
+      },
+      {
+        "en": "Cold weather makes fingers numb.",
+        "bn": "ঠান্ডায় আঙুল অসাড় হয়ে যায়।"
+      },
+      { "en": "She was numb with pain.", "bn": "সে ব্যথায় অসাড় হয়ে গেছে।" },
+      {
+        "en": "The shock left him numb.",
+        "bn": "শক তাকে অনুভূতিহীন করে দিয়েছে।"
+      },
+      { "en": "His legs were numb.", "bn": "তার পা অসাড় ছিল।" },
+      {
+        "en": "She felt emotionally numb.",
+        "bn": "সে মানসিকভাবে অনুভূতিহীন ছিল।"
+      },
+      { "en": "The cold made him numb.", "bn": "ঠান্ডা তাকে অসাড় করেছে।" },
+      {
+        "en": "He stood numb in fear.",
+        "bn": "সে ভয়ে অসাড় হয়ে দাঁড়িয়েছিল।"
+      },
+      { "en": "My arm is numb now.", "bn": "আমার হাত এখন অসাড়।" }
+    ],
+    "synonyms": ["insensitive", "frozen", "deadened", "unfeeling"]
+  },
+  {
+    "base": "novel",
+    "phonetic": "ˈnɒvl",
+    "meaning": "উপন্যাস / নতুন",
+    "examples": [
+      { "en": "She wrote a novel.", "bn": "সে একটি উপন্যাস লিখেছে।" },
+      { "en": "It is a novel idea.", "bn": "এটি একটি নতুন ধারণা।" }
+    ],
+    "moreexample": [
+      { "en": "The novel is interesting.", "bn": "উপন্যাসটি আকর্ষণীয়।" },
+      { "en": "He reads novels daily.", "bn": "সে প্রতিদিন উপন্যাস পড়ে।" },
+      { "en": "It is a novel concept.", "bn": "এটি একটি নতুন ধারণা।" },
+      { "en": "She published a novel.", "bn": "সে একটি উপন্যাস প্রকাশ করেছে।" },
+      { "en": "The novel became popular.", "bn": "উপন্যাসটি জনপ্রিয় হয়েছে।" },
+      { "en": "He is a novel writer.", "bn": "সে একজন উপন্যাস লেখক।" },
+      {
+        "en": "They discussed the novel.",
+        "bn": "তারা উপন্যাসটি আলোচনা করেছে।"
+      },
+      { "en": "The novel is long.", "bn": "উপন্যাসটি দীর্ঘ।" },
+      {
+        "en": "She enjoys writing novels.",
+        "bn": "সে উপন্যাস লেখা উপভোগ করে।"
+      },
+      {
+        "en": "It presents a novel approach.",
+        "bn": "এটি একটি নতুন পদ্ধতি উপস্থাপন করে।"
+      }
+    ],
+    "synonyms": ["book", "story", "fresh", "original"]
+  },
+  {
+    "base": "notify",
+    "phonetic": "ˈnoʊtɪfaɪ",
+    "meaning": "জানানো / অবহিত করা",
+    "examples": [
+      { "en": "Please notify me.", "bn": "অনুগ্রহ করে আমাকে জানাও।" },
+      {
+        "en": "They notified the students.",
+        "bn": "তারা শিক্ষার্থীদের জানিয়েছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Notify me instantly.", "bn": "তৎক্ষণাৎ আমাকে জানাও।" },
+      { "en": "He notified the police.", "bn": "সে পুলিশকে জানিয়েছে।" },
+      { "en": "They will notify you.", "bn": "তারা তোমাকে জানাবে।" },
+      { "en": "She notified her boss.", "bn": "সে তার বসকে জানিয়েছে।" },
+      { "en": "We notified everyone.", "bn": "আমরা সবাইকে জানিয়েছি।" },
+      {
+        "en": "The system notifies users.",
+        "bn": "সিস্টেম ব্যবহারকারীদের জানায়।"
+      },
+      { "en": "Please notify them.", "bn": "অনুগ্রহ করে তাদের জানাও।" },
+      { "en": "He was notified early.", "bn": "তাকে আগে জানানো হয়েছে।" },
+      { "en": "They notified the change.", "bn": "তারা পরিবর্তনটি জানিয়েছে।" },
+      { "en": "Notify before arriving.", "bn": "আসার আগে জানাও।" }
+    ],
+    "synonyms": ["inform", "alert", "advise", "tell"]
+  },
+  {
+    "base": "notion",
+    "phonetic": "ˈnoʊʃn",
+    "meaning": "ধারণা",
+    "examples": [
+      { "en": "He has a strange notion.", "bn": "তার একটি অদ্ভুত ধারণা আছে।" },
+      { "en": "The notion is wrong.", "bn": "ধারণাটি ভুল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She rejected the notion.",
+        "bn": "সে ধারণাটি প্রত্যাখ্যান করেছে।"
+      },
+      { "en": "The notion is simple.", "bn": "ধারণাটি সহজ।" },
+      {
+        "en": "He developed a new notion.",
+        "bn": "সে একটি নতুন ধারণা তৈরি করেছে।"
+      },
+      { "en": "That notion is false.", "bn": "সেই ধারণাটি ভুল।" },
+      {
+        "en": "They discussed the notion.",
+        "bn": "তারা ধারণাটি আলোচনা করেছে।"
+      },
+      { "en": "It is a common notion.", "bn": "এটি একটি সাধারণ ধারণা।" },
+      {
+        "en": "She challenged the notion.",
+        "bn": "সে ধারণাটিকে চ্যালেঞ্জ করেছে।"
+      },
+      { "en": "The notion spread quickly.", "bn": "ধারণাটি দ্রুত ছড়িয়েছে।" },
+      { "en": "He accepted the notion.", "bn": "সে ধারণাটি গ্রহণ করেছে।" },
+      {
+        "en": "The notion is widely known.",
+        "bn": "ধারণাটি ব্যাপকভাবে পরিচিত।"
+      }
+    ],
+    "synonyms": ["idea", "concept", "thought", "belief"]
+  },
+  {
+    "base": "nourish",
+    "phonetic": "ˈnɜːrɪʃ",
+    "meaning": "পুষ্টি দেওয়া / লালন করা",
+    "examples": [
+      { "en": "Food nourishes the body.", "bn": "খাদ্য শরীরকে পুষ্টি দেয়।" },
+      { "en": "She nourishes her child.", "bn": "সে তার সন্তানকে লালন করে।" }
+    ],
+    "moreexample": [
+      { "en": "Milk nourishes children.", "bn": "দুধ শিশুদের পুষ্টি দেয়।" },
+      {
+        "en": "Plants need water to nourish.",
+        "bn": "গাছের পুষ্টির জন্য পানি দরকার।"
+      },
+      {
+        "en": "Love nourishes relationships.",
+        "bn": "ভালোবাসা সম্পর্ক লালন করে।"
+      },
+      { "en": "He nourishes his mind.", "bn": "সে তার মনকে পুষ্টি দেয়।" },
+      {
+        "en": "Healthy food nourishes us.",
+        "bn": "স্বাস্থ্যকর খাবার আমাদের পুষ্টি দেয়।"
+      },
+      { "en": "She nourishes hope.", "bn": "সে আশা লালন করে।" },
+      { "en": "The soil nourishes plants.", "bn": "মাটি গাছকে পুষ্টি দেয়।" },
+      { "en": "He nourishes talent.", "bn": "সে প্রতিভা লালন করে।" },
+      { "en": "Care nourishes growth.", "bn": "যত্ন বৃদ্ধি লালন করে।" },
+      { "en": "Water nourishes life.", "bn": "পানি জীবনকে পুষ্টি দেয়।" }
+    ],
+    "synonyms": ["feed", "sustain", "nurture", "strengthen"]
+  },
+  {
+    "base": "null",
+    "phonetic": "nʌl",
+    "meaning": "শূন্য / বাতিল",
+    "examples": [
+      { "en": "The value is null.", "bn": "মানটি শূন্য।" },
+      { "en": "The contract is null.", "bn": "চুক্তিটি বাতিল।" }
+    ],
+    "moreexample": [
+      { "en": "The result is null.", "bn": "ফলাফল শূন্য।" },
+      { "en": "Null data was found.", "bn": "শূন্য ডেটা পাওয়া গেছে।" },
+      { "en": "The argument is null.", "bn": "যুক্তিটি শূন্য।" },
+      { "en": "The entry is null.", "bn": "এন্ট্রিটি শূন্য।" },
+      { "en": "It became null.", "bn": "এটি বাতিল হয়েছে।" },
+      { "en": "Null values are removed.", "bn": "শূন্য মান সরানো হয়েছে।" },
+      {
+        "en": "The system returned null.",
+        "bn": "সিস্টেম শূন্য রিটার্ন করেছে।"
+      },
+      { "en": "The field is null.", "bn": "ফিল্ডটি শূন্য।" },
+      {
+        "en": "He got a null response.",
+        "bn": "সে শূন্য প্রতিক্রিয়া পেয়েছে।"
+      },
+      { "en": "The result is null and void.", "bn": "ফলাফল বাতিল।" }
+    ],
+    "synonyms": ["zero", "empty", "invalid", "void"]
+  },
+  {
+    "base": "nuisance",
+    "phonetic": "ˈnjuːsəns",
+    "meaning": "বিরক্তিকর বিষয়",
+    "examples": [
+      { "en": "Noise is a nuisance.", "bn": "শব্দ একটি বিরক্তিকর বিষয়।" },
+      { "en": "He is a nuisance.", "bn": "সে একটি ঝামেলা।" }
+    ],
+    "moreexample": [
+      { "en": "Mosquitoes are a nuisance.", "bn": "মশা একটি বিরক্তিকর বিষয়।" },
+      { "en": "The delay is a nuisance.", "bn": "দেরি একটি বিরক্তিকর বিষয়।" },
+      { "en": "He caused a nuisance.", "bn": "সে ঝামেলা সৃষ্টি করেছে।" },
+      { "en": "The issue is a nuisance.", "bn": "বিষয়টি বিরক্তিকর।" },
+      { "en": "Traffic is a nuisance.", "bn": "ট্রাফিক বিরক্তিকর।" },
+      { "en": "She found it a nuisance.", "bn": "সে এটিকে ঝামেলা মনে করেছে।" },
+      { "en": "The problem is a nuisance.", "bn": "সমস্যাটি বিরক্তিকর।" },
+      { "en": "It became a nuisance.", "bn": "এটি ঝামেলা হয়ে গেছে।" },
+      { "en": "The rule is a nuisance.", "bn": "নিয়মটি বিরক্তিকর।" },
+      { "en": "He is such a nuisance.", "bn": "সে সত্যিই ঝামেলা।" }
+    ],
+    "synonyms": ["annoyance", "trouble", "irritation", "problem"]
+  },
+
+  {
+    "base": "nuance",
+    "phonetic": "ˈnjuːɑːns",
+    "meaning": "সূক্ষ্ম পার্থক্য / সূক্ষ্মতা",
+    "examples": [
+      {
+        "en": "She understands every nuance.",
+        "bn": "সে প্রতিটি সূক্ষ্ম পার্থক্য বোঝে।"
+      },
+      { "en": "The meaning has a nuance.", "bn": "অর্থে একটি সূক্ষ্মতা আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He missed the nuance.",
+        "bn": "সে সূক্ষ্ম পার্থক্যটি মিস করেছে।"
+      },
+      {
+        "en": "The speech had emotional nuance.",
+        "bn": "ভাষণে আবেগের সূক্ষ্মতা ছিল।"
+      },
+      {
+        "en": "Artists notice nuance.",
+        "bn": "শিল্পীরা সূক্ষ্মতা লক্ষ্য করে।"
+      },
+      {
+        "en": "There is a cultural nuance.",
+        "bn": "এখানে সাংস্কৃতিক সূক্ষ্মতা আছে।"
+      },
+      {
+        "en": "She explained the nuance clearly.",
+        "bn": "সে সূক্ষ্ম পার্থক্যটি পরিষ্কারভাবে ব্যাখ্যা করেছে।"
+      },
+      {
+        "en": "Nuance matters in language.",
+        "bn": "ভাষায় সূক্ষ্মতা গুরুত্বপূর্ণ।"
+      },
+      { "en": "He ignored the nuance.", "bn": "সে সূক্ষ্মতা উপেক্ষা করেছে।" },
+      {
+        "en": "The story has many nuances.",
+        "bn": "গল্পটিতে অনেক সূক্ষ্মতা আছে।"
+      },
+      {
+        "en": "Understanding nuance is key.",
+        "bn": "সূক্ষ্মতা বোঝা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She captured every nuance.",
+        "bn": "সে প্রতিটি সূক্ষ্মতা ধরেছে।"
+      }
+    ],
+    "synonyms": ["subtlety", "shade", "detail", "distinction"]
+  },
+  {
+    "base": "nudge",
+    "phonetic": "nʌdʒ",
+    "meaning": "হালকা ধাক্কা / ইঙ্গিত করা",
+    "examples": [
+      { "en": "He gave her a nudge.", "bn": "সে তাকে হালকা ধাক্কা দিয়েছে।" },
+      {
+        "en": "She nudged him to wake up.",
+        "bn": "সে তাকে জাগাতে হালকা ধাক্কা দিয়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He nudged the door open.",
+        "bn": "সে দরজাটা হালকা ঠেলে খুলেছে।"
+      },
+      {
+        "en": "She nudged him forward.",
+        "bn": "সে তাকে সামনে যেতে ইঙ্গিত করেছে।"
+      },
+      {
+        "en": "The teacher nudged him to answer.",
+        "bn": "শিক্ষক তাকে উত্তর দিতে ইঙ্গিত করেছে।"
+      },
+      {
+        "en": "He nudged the table.",
+        "bn": "সে টেবিলটি হালকা ধাক্কা দিয়েছে।"
+      },
+      {
+        "en": "She nudged her friend.",
+        "bn": "সে তার বন্ধুকে হালকা ধাক্কা দিয়েছে।"
+      },
+      { "en": "The car nudged forward.", "bn": "গাড়িটি হালকা এগিয়েছে।" },
+      { "en": "He nudged the idea.", "bn": "সে ধারণাটি ইঙ্গিত করেছে।" },
+      {
+        "en": "She nudged him to speak.",
+        "bn": "সে তাকে কথা বলতে উৎসাহ দিয়েছে।"
+      },
+      { "en": "The push was just a nudge.", "bn": "ধাক্কাটি ছিল শুধু হালকা।" },
+      {
+        "en": "He nudged his brother.",
+        "bn": "সে তার ভাইকে হালকা ধাক্কা দিয়েছে।"
+      }
+    ],
+    "synonyms": ["push", "poke", "prompt", "encourage"]
+  },
+  {
+    "base": "numbness",
+    "phonetic": "ˈnʌmnəs",
+    "meaning": "অসাড়তা",
+    "examples": [
+      {
+        "en": "He felt numbness in his arm.",
+        "bn": "সে তার হাতে অসাড়তা অনুভব করেছে।"
+      },
+      {
+        "en": "Numbness spread quickly.",
+        "bn": "অসাড়তা দ্রুত ছড়িয়ে পড়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She experienced numbness in fingers.",
+        "bn": "সে আঙুলে অসাড়তা অনুভব করেছে।"
+      },
+      { "en": "Cold caused numbness.", "bn": "ঠান্ডা অসাড়তা সৃষ্টি করেছে।" },
+      {
+        "en": "Numbness lasted for hours.",
+        "bn": "অসাড়তা ঘণ্টার পর ঘণ্টা ছিল।"
+      },
+      { "en": "He reported numbness.", "bn": "সে অসাড়তা রিপোর্ট করেছে।" },
+      {
+        "en": "Numbness affected movement.",
+        "bn": "অসাড়তা চলাফেরায় প্রভাব ফেলেছে।"
+      },
+      {
+        "en": "She felt sudden numbness.",
+        "bn": "সে হঠাৎ অসাড়তা অনুভব করেছে।"
+      },
+      { "en": "Numbness decreased slowly.", "bn": "অসাড়তা ধীরে ধীরে কমেছে।" },
+      { "en": "He ignored the numbness.", "bn": "সে অসাড়তাকে উপেক্ষা করেছে।" },
+      { "en": "Numbness is a symptom.", "bn": "অসাড়তা একটি উপসর্গ।" },
+      {
+        "en": "Pain turned into numbness.",
+        "bn": "ব্যথা অসাড়তায় রূপ নিয়েছে।"
+      }
+    ],
+    "synonyms": ["loss of feeling", "insensitivity", "deadness", "anesthesia"]
+  },
+  {
+    "base": "nurturer",
+    "phonetic": "ˈnɜːrtʃərər",
+    "meaning": "লালনকারী ব্যক্তি",
+    "examples": [
+      {
+        "en": "She is a natural nurturer.",
+        "bn": "সে একজন স্বাভাবিক লালনকারী।"
+      },
+      {
+        "en": "A nurturer supports growth.",
+        "bn": "একজন লালনকারী বৃদ্ধি সমর্থন করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He is a nurturer of talent.", "bn": "সে প্রতিভার লালনকারী।" },
+      { "en": "Teachers are nurturers.", "bn": "শিক্ষকরা লালনকারী।" },
+      { "en": "She became a nurturer.", "bn": "সে একজন লালনকারী হয়েছে।" },
+      { "en": "A nurturer cares deeply.", "bn": "লালনকারী গভীরভাবে যত্ন করে।" },
+      { "en": "Parents are nurturers.", "bn": "অভিভাবকরা লালনকারী।" },
+      { "en": "He is a kind nurturer.", "bn": "সে একজন দয়ালু লালনকারী।" },
+      { "en": "Nurturers build futures.", "bn": "লালনকারীরা ভবিষ্যৎ গড়ে।" },
+      {
+        "en": "She is a patient nurturer.",
+        "bn": "সে একজন ধৈর্যশীল লালনকারী।"
+      },
+      {
+        "en": "Every nurturer matters.",
+        "bn": "প্রতিটি লালনকারী গুরুত্বপূর্ণ।"
+      },
+      { "en": "He works as a nurturer.", "bn": "সে লালনকারী হিসেবে কাজ করে।" }
+    ],
+    "synonyms": ["caretaker", "guardian", "supporter", "mentor"]
+  },
+  {
+    "base": "nullify",
+    "phonetic": "ˈnʌlɪfaɪ",
+    "meaning": "বাতিল করা",
+    "examples": [
+      { "en": "The law was nullified.", "bn": "আইনটি বাতিল করা হয়েছে।" },
+      { "en": "They nullify the agreement.", "bn": "তারা চুক্তিটি বাতিল করে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The decision was nullified.",
+        "bn": "সিদ্ধান্তটি বাতিল করা হয়েছে।"
+      },
+      { "en": "They nullified the rule.", "bn": "তারা নিয়মটি বাতিল করেছে।" },
+      { "en": "The contract got nullified.", "bn": "চুক্তিটি বাতিল হয়েছে।" },
+      { "en": "The court nullified it.", "bn": "আদালত এটি বাতিল করেছে।" },
+      {
+        "en": "He tried to nullify the claim.",
+        "bn": "সে দাবি বাতিল করার চেষ্টা করেছে।"
+      },
+      {
+        "en": "The action nullified the result.",
+        "bn": "কর্মটি ফলাফল বাতিল করেছে।"
+      },
+      { "en": "They nullified the vote.", "bn": "তারা ভোট বাতিল করেছে।" },
+      { "en": "The policy was nullified.", "bn": "নীতি বাতিল হয়েছে।" },
+      { "en": "She nullified the error.", "bn": "সে ভুলটি বাতিল করেছে।" },
+      {
+        "en": "The agreement was nullified legally.",
+        "bn": "চুক্তিটি আইনি ভাবে বাতিল হয়েছে।"
+      }
+    ],
+    "synonyms": ["cancel", "invalidate", "void", "abolish"]
+  },
+  {
+    "base": "numeral",
+    "phonetic": "ˈnjuːmərəl",
+    "meaning": "সংখ্যা চিহ্ন",
+    "examples": [
+      { "en": "Write the numeral 5.", "bn": "সংখ্যা ৫ লিখো।" },
+      { "en": "Roman numerals are old.", "bn": "রোমান সংখ্যা পুরনো।" }
+    ],
+    "moreexample": [
+      { "en": "The numeral system is complex.", "bn": "সংখ্যা পদ্ধতি জটিল।" },
+      { "en": "He wrote a numeral.", "bn": "সে একটি সংখ্যা লিখেছে।" },
+      { "en": "Arabic numerals are common.", "bn": "আরবি সংখ্যা সাধারণ।" },
+      { "en": "The numeral is correct.", "bn": "সংখ্যাটি সঠিক।" },
+      { "en": "Students learn numerals.", "bn": "শিক্ষার্থীরা সংখ্যা শেখে।" },
+      { "en": "The numeral changed.", "bn": "সংখ্যাটি পরিবর্তিত হয়েছে।" },
+      { "en": "Roman numerals are used.", "bn": "রোমান সংখ্যা ব্যবহৃত হয়।" },
+      { "en": "He converted the numeral.", "bn": "সে সংখ্যা রূপান্তর করেছে।" },
+      { "en": "The numeral appears here.", "bn": "সংখ্যাটি এখানে দেখা যায়।" },
+      { "en": "She understands numerals.", "bn": "সে সংখ্যা বোঝে।" }
+    ],
+    "synonyms": ["number", "digit", "figure", "symbol"]
+  },
+  {
+    "base": "nuptial",
+    "phonetic": "ˈnʌpʃl",
+    "meaning": "বিবাহ সম্পর্কিত",
+    "examples": [
+      { "en": "They had nuptial vows.", "bn": "তাদের বিবাহ প্রতিজ্ঞা ছিল।" },
+      {
+        "en": "Nuptial ceremony was grand.",
+        "bn": "বিবাহ অনুষ্ঠান ছিল জাঁকজমকপূর্ণ।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Nuptial rituals began.", "bn": "বিবাহ রীতি শুরু হয়েছে।" },
+      {
+        "en": "They planned nuptial events.",
+        "bn": "তারা বিবাহ অনুষ্ঠান পরিকল্পনা করেছে।"
+      },
+      { "en": "Nuptial night was special.", "bn": "বিবাহ রাত বিশেষ ছিল।" },
+      {
+        "en": "The nuptial hall was decorated.",
+        "bn": "বিবাহ হল সাজানো হয়েছে।"
+      },
+      {
+        "en": "Nuptial agreement was signed.",
+        "bn": "বিবাহ চুক্তি স্বাক্ষর হয়েছে।"
+      },
+      { "en": "She wore nuptial dress.", "bn": "সে বিবাহ পোশাক পরেছিল।" },
+      {
+        "en": "Nuptial ceremony started late.",
+        "bn": "বিবাহ অনুষ্ঠান দেরিতে শুরু হয়েছে।"
+      },
+      {
+        "en": "They enjoyed nuptial celebration.",
+        "bn": "তারা বিবাহ উদযাপন উপভোগ করেছে।"
+      },
+      { "en": "Nuptial traditions differ.", "bn": "বিবাহ ঐতিহ্য ভিন্ন।" },
+      { "en": "The nuptial bond is strong.", "bn": "বিবাহ বন্ধন শক্তিশালী।" }
+    ],
+    "synonyms": ["marriage", "wedding", "matrimonial", "union"]
+  },
+  {
+    "base": "nourishment",
+    "phonetic": "ˈnɜːrɪʃmənt",
+    "meaning": "পুষ্টি",
+    "examples": [
+      { "en": "Food gives nourishment.", "bn": "খাদ্য পুষ্টি দেয়।" },
+      { "en": "Children need nourishment.", "bn": "শিশুদের পুষ্টি দরকার।" }
+    ],
+    "moreexample": [
+      { "en": "Milk provides nourishment.", "bn": "দুধ পুষ্টি দেয়।" },
+      {
+        "en": "Plants get nourishment from soil.",
+        "bn": "গাছ মাটি থেকে পুষ্টি পায়।"
+      },
+      {
+        "en": "Proper nourishment is vital.",
+        "bn": "সঠিক পুষ্টি গুরুত্বপূর্ণ।"
+      },
+      { "en": "She lacked nourishment.", "bn": "তার পুষ্টির অভাব ছিল।" },
+      { "en": "The body needs nourishment.", "bn": "শরীরের পুষ্টি দরকার।" },
+      {
+        "en": "Healthy food ensures nourishment.",
+        "bn": "স্বাস্থ্যকর খাবার পুষ্টি নিশ্চিত করে।"
+      },
+      {
+        "en": "Nourishment improves health.",
+        "bn": "পুষ্টি স্বাস্থ্য উন্নত করে।"
+      },
+      {
+        "en": "He received proper nourishment.",
+        "bn": "সে সঠিক পুষ্টি পেয়েছে।"
+      },
+      {
+        "en": "Lack of nourishment is harmful.",
+        "bn": "পুষ্টির অভাব ক্ষতিকর।"
+      },
+      {
+        "en": "Nourishment supports growth.",
+        "bn": "পুষ্টি বৃদ্ধি সমর্থন করে।"
+      }
+    ],
+    "synonyms": ["nutrition", "food", "sustenance", "care"]
+  },
+  {
+    "base": "nylon",
+    "phonetic": "ˈnaɪlɒn",
+    "meaning": "নাইলন কাপড়",
+    "examples": [
+      { "en": "She wore a nylon dress.", "bn": "সে নাইলন পোশাক পরেছে।" },
+      { "en": "The bag is made of nylon.", "bn": "ব্যাগটি নাইলন দিয়ে তৈরি।" }
+    ],
+    "moreexample": [
+      { "en": "Nylon is strong.", "bn": "নাইলন শক্তিশালী।" },
+      { "en": "He bought nylon rope.", "bn": "সে নাইলন দড়ি কিনেছে।" },
+      { "en": "The jacket is nylon.", "bn": "জ্যাকেটটি নাইলন।" },
+      { "en": "Nylon is lightweight.", "bn": "নাইলন হালকা।" },
+      {
+        "en": "They used nylon material.",
+        "bn": "তারা নাইলন উপাদান ব্যবহার করেছে।"
+      },
+      { "en": "Nylon is durable.", "bn": "নাইলন টেকসই।" },
+      { "en": "She prefers nylon bags.", "bn": "সে নাইলন ব্যাগ পছন্দ করে।" },
+      { "en": "The tent is nylon-made.", "bn": "টেন্টটি নাইলন দিয়ে তৈরি।" },
+      { "en": "Nylon dries quickly.", "bn": "নাইলন দ্রুত শুকায়।" },
+      { "en": "He used nylon thread.", "bn": "সে নাইলন সুতা ব্যবহার করেছে।" }
+    ],
+    "synonyms": ["synthetic fiber", "fabric", "polymer material", "textile"]
   }
 ]

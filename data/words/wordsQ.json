@@ -309,5 +309,787 @@
       { "en": "The place felt quaint.", "bn": "জায়গাটি মনোরম লাগছিল।" }
     ],
     "synonyms": ["charming", "old-fashioned", "picturesque"]
+  },
+
+  {
+    "base": "quality",
+    "phonetic": "ˈkwɒləti",
+    "meaning": "গুণমান",
+    "examples": [
+      {
+        "en": "Quality is important in work.",
+        "bn": "কাজে গুণমান গুরুত্বপূর্ণ।"
+      },
+      { "en": "This product has high quality.", "bn": "এই পণ্যের গুণমান ভালো।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They check quality carefully.",
+        "bn": "তারা গুণমান ভালোভাবে পরীক্ষা করে।"
+      },
+      {
+        "en": "Quality matters more than quantity.",
+        "bn": "পরিমাণের চেয়ে গুণমান বেশি গুরুত্বপূর্ণ।"
+      },
+      { "en": "He improved quality.", "bn": "সে গুণমান উন্নত করেছে।" },
+      { "en": "We focus on quality.", "bn": "আমরা গুণমানের উপর গুরুত্ব দিই।" },
+      {
+        "en": "Poor quality is rejected.",
+        "bn": "খারাপ গুণমান বাতিল করা হয়।"
+      },
+      { "en": "She ensures quality.", "bn": "সে গুণমান নিশ্চিত করে।" },
+      { "en": "Quality control is strict.", "bn": "গুণমান নিয়ন্ত্রণ কঠোর।" },
+      {
+        "en": "Good quality lasts longer.",
+        "bn": "ভালো গুণমান দীর্ঘস্থায়ী হয়।"
+      },
+      { "en": "They maintain quality.", "bn": "তারা গুণমান বজায় রাখে।" },
+      { "en": "Quality affects price.", "bn": "গুণমান দামে প্রভাব ফেলে।" }
+    ],
+    "synonyms": ["standard", "grade", "value", "caliber"]
+  },
+  {
+    "base": "quantity",
+    "phonetic": "ˈkwɒntɪti",
+    "meaning": "পরিমাণ",
+    "examples": [
+      { "en": "Large quantity is needed.", "bn": "বড় পরিমাণ দরকার।" },
+      { "en": "Quantity is limited.", "bn": "পরিমাণ সীমিত।" }
+    ],
+    "moreexample": [
+      { "en": "Small quantity is enough.", "bn": "ছোট পরিমাণ যথেষ্ট।" },
+      { "en": "They measured quantity.", "bn": "তারা পরিমাণ মেপেছে।" },
+      { "en": "We reduced quantity.", "bn": "আমরা পরিমাণ কমিয়েছি।" },
+      { "en": "Quantity matters.", "bn": "পরিমাণ গুরুত্বপূর্ণ।" },
+      { "en": "He checked quantity.", "bn": "সে পরিমাণ পরীক্ষা করেছে।" },
+      { "en": "Quantity increased.", "bn": "পরিমাণ বেড়েছে।" },
+      {
+        "en": "They controlled quantity.",
+        "bn": "তারা পরিমাণ নিয়ন্ত্রণ করেছে।"
+      },
+      { "en": "We need more quantity.", "bn": "আমাদের বেশি পরিমাণ দরকার।" },
+      { "en": "Quantity is unknown.", "bn": "পরিমাণ অজানা।" },
+      { "en": "Quality over quantity.", "bn": "পরিমাণের চেয়ে গুণমান ভালো।" }
+    ],
+    "synonyms": ["amount", "volume", "mass", "measure"]
+  },
+  {
+    "base": "question",
+    "phonetic": "ˈkwestʃən",
+    "meaning": "প্রশ্ন",
+    "examples": [
+      { "en": "Ask a question.", "bn": "একটি প্রশ্ন করো।" },
+      { "en": "He answered the question.", "bn": "সে প্রশ্নের উত্তর দিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "She asked many questions.", "bn": "সে অনেক প্রশ্ন করেছে।" },
+      { "en": "This question is hard.", "bn": "এই প্রশ্নটি কঠিন।" },
+      { "en": "He avoided the question.", "bn": "সে প্রশ্ন এড়িয়েছে।" },
+      {
+        "en": "We discussed the question.",
+        "bn": "আমরা প্রশ্নটি আলোচনা করেছি।"
+      },
+      { "en": "Answer the question.", "bn": "প্রশ্নের উত্তর দাও।" },
+      { "en": "They raised a question.", "bn": "তারা একটি প্রশ্ন তুলেছে।" },
+      { "en": "The question remains.", "bn": "প্রশ্নটি রয়ে গেছে।" },
+      { "en": "I have no question.", "bn": "আমার কোনো প্রশ্ন নেই।" },
+      { "en": "She questioned him.", "bn": "সে তাকে প্রশ্ন করেছে।" },
+      { "en": "Many questions exist.", "bn": "অনেক প্রশ্ন আছে।" }
+    ],
+    "synonyms": ["query", "inquiry", "doubt", "problem"]
+  },
+  {
+    "base": "quick",
+    "phonetic": "kwɪk",
+    "meaning": "দ্রুত / ত্বরিত",
+    "examples": [
+      { "en": "He is quick.", "bn": "সে দ্রুত।" },
+      { "en": "She gave a quick answer.", "bn": "সে দ্রুত উত্তর দিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "Quick response is needed.", "bn": "দ্রুত প্রতিক্রিয়া দরকার।" },
+      {
+        "en": "He made a quick decision.",
+        "bn": "সে দ্রুত সিদ্ধান্ত নিয়েছে।"
+      },
+      { "en": "She is very quick.", "bn": "সে খুব দ্রুত।" },
+      {
+        "en": "Quick action saved him.",
+        "bn": "দ্রুত পদক্ষেপ তাকে বাঁচিয়েছে।"
+      },
+      { "en": "They finished quickly.", "bn": "তারা দ্রুত শেষ করেছে।" },
+      { "en": "He is quick learner.", "bn": "সে দ্রুত শিখে।" },
+      { "en": "We need quick solution.", "bn": "আমাদের দ্রুত সমাধান দরকার।" },
+      { "en": "She is quick at math.", "bn": "সে গণিতে দ্রুত।" },
+      { "en": "Quick thinking helps.", "bn": "দ্রুত চিন্তা সাহায্য করে।" },
+      { "en": "He reacted quick.", "bn": "সে দ্রুত প্রতিক্রিয়া দিয়েছে।" }
+    ],
+    "synonyms": ["fast", "rapid", "swift", "speedy"]
+  },
+  {
+    "base": "quiet",
+    "phonetic": "ˈkwaɪət",
+    "meaning": "নীরব / শান্ত",
+    "examples": [
+      { "en": "The room is quiet.", "bn": "ঘরটি শান্ত।" },
+      { "en": "Stay quiet.", "bn": "নীরব থাকো।" }
+    ],
+    "moreexample": [
+      { "en": "It is a quiet place.", "bn": "এটি একটি শান্ত জায়গা।" },
+      { "en": "She is very quiet.", "bn": "সে খুব নীরব।" },
+      { "en": "The street is quiet.", "bn": "রাস্তাটি শান্ত।" },
+      { "en": "He remained quiet.", "bn": "সে নীরব ছিল।" },
+      { "en": "A quiet village.", "bn": "একটি শান্ত গ্রাম।" },
+      { "en": "Keep quiet.", "bn": "নীরব থাকো।" },
+      { "en": "She prefers quiet life.", "bn": "সে শান্ত জীবন পছন্দ করে।" },
+      { "en": "The night is quiet.", "bn": "রাতটি শান্ত।" },
+      { "en": "He spoke quietly.", "bn": "সে ধীরে কথা বলেছে।" },
+      { "en": "We enjoyed quiet time.", "bn": "আমরা শান্ত সময় উপভোগ করেছি।" }
+    ],
+    "synonyms": ["silent", "calm", "peaceful", "still"]
+  },
+  {
+    "base": "quit",
+    "phonetic": "kwɪt",
+    "meaning": "ছেড়ে দেওয়া / ত্যাগ করা",
+    "examples": [
+      { "en": "He quit his job.", "bn": "সে চাকরি ছেড়ে দিয়েছে।" },
+      { "en": "She quit smoking.", "bn": "সে ধূমপান ছেড়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "They quit the game.", "bn": "তারা খেলা ছেড়েছে।" },
+      { "en": "He quit school.", "bn": "সে স্কুল ছেড়েছে।" },
+      { "en": "She quit early.", "bn": "সে আগেই ছেড়েছে।" },
+      { "en": "We quit the project.", "bn": "আমরা প্রকল্প ছেড়েছি।" },
+      { "en": "He quit suddenly.", "bn": "সে হঠাৎ ছেড়েছে।" },
+      { "en": "They quit work.", "bn": "তারা কাজ ছেড়েছে।" },
+      { "en": "She quit her habit.", "bn": "সে তার অভ্যাস ছেড়েছে।" },
+      { "en": "Don’t quit easily.", "bn": "সহজে হাল ছেড়ো না।" },
+      { "en": "He decided to quit.", "bn": "সে ছাড়ার সিদ্ধান্ত নিয়েছে।" },
+      { "en": "They quit training.", "bn": "তারা প্রশিক্ষণ ছেড়েছে।" }
+    ],
+    "synonyms": ["stop", "leave", "abandon", "resign"]
+  },
+  {
+    "base": "quote",
+    "phonetic": "kwəʊt",
+    "meaning": "উদ্ধৃতি / উদ্ধৃত করা",
+    "examples": [
+      { "en": "He quoted a line.", "bn": "সে একটি লাইন উদ্ধৃত করেছে।" },
+      { "en": "This is a famous quote.", "bn": "এটি একটি বিখ্যাত উদ্ধৃতি।" }
+    ],
+    "moreexample": [
+      { "en": "She quoted the author.", "bn": "সে লেখকের কথা উদ্ধৃত করেছে।" },
+      { "en": "They quote prices.", "bn": "তারা দাম উল্লেখ করে।" },
+      {
+        "en": "We often quote leaders.",
+        "bn": "আমরা প্রায়ই নেতাদের উদ্ধৃত করি।"
+      },
+      { "en": "He quoted evidence.", "bn": "সে প্রমাণ উদ্ধৃত করেছে।" },
+      { "en": "The article was quoted.", "bn": "নিবন্ধটি উদ্ধৃত হয়েছে।" },
+      { "en": "She quoted a book.", "bn": "সে একটি বই উদ্ধৃত করেছে।" },
+      {
+        "en": "They quoted statistics.",
+        "bn": "তারা পরিসংখ্যান উদ্ধৃত করেছে।"
+      },
+      { "en": "We quote examples.", "bn": "আমরা উদাহরণ উদ্ধৃত করি।" },
+      { "en": "He quoted correctly.", "bn": "সে সঠিকভাবে উদ্ধৃত করেছে।" },
+      {
+        "en": "Quotes inspire people.",
+        "bn": "উদ্ধৃতি মানুষকে অনুপ্রাণিত করে।"
+      }
+    ],
+    "synonyms": ["cite", "reference", "mention", "repeat"]
+  },
+  {
+    "base": "quota",
+    "phonetic": "ˈkwəʊtə",
+    "meaning": "নির্ধারিত অংশ / কোটা",
+    "examples": [
+      { "en": "He met the quota.", "bn": "সে কোটা পূরণ করেছে।" },
+      { "en": "The quota is fixed.", "bn": "কোটা নির্ধারিত।" }
+    ],
+    "moreexample": [
+      { "en": "They exceeded quota.", "bn": "তারা কোটা অতিক্রম করেছে।" },
+      { "en": "Quota system exists.", "bn": "কোটা ব্যবস্থা আছে।" },
+      { "en": "She reached quota.", "bn": "সে কোটা পূরণ করেছে।" },
+      { "en": "We set a quota.", "bn": "আমরা কোটা নির্ধারণ করেছি।" },
+      { "en": "Quota is important.", "bn": "কোটা গুরুত্বপূর্ণ।" },
+      { "en": "They changed quota.", "bn": "তারা কোটা পরিবর্তন করেছে।" },
+      { "en": "He failed quota.", "bn": "সে কোটা পূরণ করতে ব্যর্থ হয়েছে।" },
+      { "en": "Quota was reduced.", "bn": "কোটা কমানো হয়েছে।" },
+      { "en": "Each team has quota.", "bn": "প্রতিটি দলের কোটা আছে।" },
+      {
+        "en": "Quota affects performance.",
+        "bn": "কোটা কর্মক্ষমতাকে প্রভাবিত করে।"
+      }
+    ],
+    "synonyms": ["limit", "share", "portion", "allocation"]
+  },
+  {
+    "base": "qualify",
+    "phonetic": "ˈkwɒlɪfaɪ",
+    "meaning": "যোগ্য হওয়া",
+    "examples": [
+      {
+        "en": "He qualified for finals.",
+        "bn": "সে ফাইনালের জন্য যোগ্য হয়েছে।"
+      },
+      { "en": "She is qualified.", "bn": "সে যোগ্য।" }
+    ],
+    "moreexample": [
+      { "en": "They qualified easily.", "bn": "তারা সহজেই যোগ্য হয়েছে।" },
+      {
+        "en": "He qualified as engineer.",
+        "bn": "সে ইঞ্জিনিয়ার হিসেবে যোগ্য হয়েছে।"
+      },
+      {
+        "en": "She qualified for exam.",
+        "bn": "সে পরীক্ষার জন্য যোগ্য হয়েছে।"
+      },
+      { "en": "We qualify students.", "bn": "আমরা শিক্ষার্থীদের যোগ্য করি।" },
+      { "en": "Rules qualify players.", "bn": "নিয়ম খেলোয়াড়দের যোগ্য করে।" },
+      { "en": "He did not qualify.", "bn": "সে যোগ্য হয়নি।" },
+      {
+        "en": "They qualified successfully.",
+        "bn": "তারা সফলভাবে যোগ্য হয়েছে।"
+      },
+      { "en": "She qualified for job.", "bn": "সে চাকরির জন্য যোগ্য হয়েছে।" },
+      { "en": "He qualifies easily.", "bn": "সে সহজেই যোগ্য হয়।" },
+      { "en": "Qualification is required.", "bn": "যোগ্যতা প্রয়োজন।" }
+    ],
+    "synonyms": ["certify", "enable", "entitle", "fit"]
+  },
+  {
+    "base": "quota",
+    "phonetic": "ˈkwəʊtə",
+    "meaning": "নির্ধারিত সীমা / কোটা",
+    "examples": [
+      { "en": "Quota is set by government.", "bn": "সরকার কোটা নির্ধারণ করে।" },
+      { "en": "He met his quota.", "bn": "সে তার কোটা পূরণ করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "They increased quota.", "bn": "তারা কোটা বাড়িয়েছে।" },
+      { "en": "Quota system is debated.", "bn": "কোটা ব্যবস্থা বিতর্কিত।" },
+      { "en": "She reached quota.", "bn": "সে কোটা পূরণ করেছে।" },
+      { "en": "We follow quota rules.", "bn": "আমরা কোটা নিয়ম অনুসরণ করি।" },
+      { "en": "Quota affects jobs.", "bn": "কোটা চাকরিতে প্রভাব ফেলে।" },
+      {
+        "en": "He failed quota target.",
+        "bn": "সে কোটা লক্ষ্য পূরণ করতে ব্যর্থ হয়েছে।"
+      },
+      { "en": "They revised quota.", "bn": "তারা কোটা সংশোধন করেছে।" },
+      { "en": "Quota is necessary.", "bn": "কোটা প্রয়োজনীয়।" },
+      { "en": "Each region has quota.", "bn": "প্রতিটি অঞ্চলের কোটা আছে।" },
+      { "en": "Quota ensures fairness.", "bn": "কোটা ন্যায়বিচার নিশ্চিত করে।" }
+    ],
+    "synonyms": ["limit", "share", "allocation", "portion"]
+  },
+
+  {
+    "base": "quarrel",
+    "phonetic": "ˈkwɒrəl",
+    "meaning": "ঝগড়া করা / বিবাদ",
+    "examples": [
+      { "en": "They had a quarrel.", "bn": "তাদের মধ্যে ঝগড়া হয়েছে।" },
+      { "en": "Don’t quarrel with him.", "bn": "তার সাথে ঝগড়া করো না।" }
+    ],
+    "moreexample": [
+      { "en": "The quarrel ended quickly.", "bn": "ঝগড়াটি দ্রুত শেষ হয়েছে।" },
+      { "en": "They quarrel often.", "bn": "তারা প্রায়ই ঝগড়া করে।" },
+      { "en": "She avoided quarrel.", "bn": "সে ঝগড়া এড়িয়েছে।" },
+      {
+        "en": "A small quarrel started it.",
+        "bn": "একটি ছোট ঝগড়া থেকে শুরু হয়েছিল।"
+      },
+      {
+        "en": "They resolved their quarrel.",
+        "bn": "তারা তাদের ঝগড়া মিটিয়েছে।"
+      },
+      { "en": "He hates quarrels.", "bn": "সে ঝগড়া ঘৃণা করে।" },
+      { "en": "The quarrel grew worse.", "bn": "ঝগড়াটি আরও খারাপ হয়েছে।" },
+      {
+        "en": "Friends should not quarrel.",
+        "bn": "বন্ধুরা ঝগড়া করা উচিত নয়।"
+      },
+      {
+        "en": "They had a family quarrel.",
+        "bn": "তাদের পারিবারিক ঝগড়া হয়েছে।"
+      },
+      {
+        "en": "Quarrel ruined their friendship.",
+        "bn": "ঝগড়া তাদের বন্ধুত্ব নষ্ট করেছে।"
+      }
+    ],
+    "synonyms": ["fight", "argument", "dispute", "conflict"]
+  },
+  {
+    "base": "quarter",
+    "phonetic": "ˈkwɔːtə",
+    "meaning": "এক চতুর্থাংশ / অংশ",
+    "examples": [
+      {
+        "en": "A quarter of the cake is left.",
+        "bn": "কেকের এক চতুর্থাংশ বাকি আছে।"
+      },
+      {
+        "en": "He lives in the city quarter.",
+        "bn": "সে শহরের একটি অংশে থাকে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She saved a quarter of money.",
+        "bn": "সে টাকার এক চতুর্থাংশ সঞ্চয় করেছে।"
+      },
+      { "en": "Quarter past five.", "bn": "পাঁচটা পনেরো।" },
+      { "en": "They divided into quarters.", "bn": "তারা চার ভাগে ভাগ করেছে।" },
+      {
+        "en": "The first quarter is strong.",
+        "bn": "প্রথম চতুর্থাংশ শক্তিশালী।"
+      },
+      { "en": "He paid a quarter.", "bn": "সে এক চতুর্থাংশ পরিশোধ করেছে।" },
+      {
+        "en": "Quarter of population is urban.",
+        "bn": "জনসংখ্যার এক চতুর্থাংশ শহরে।"
+      },
+      {
+        "en": "We checked every quarter.",
+        "bn": "আমরা প্রতিটি অংশ পরীক্ষা করেছি।"
+      },
+      {
+        "en": "Quarter system in schools.",
+        "bn": "স্কুলে কোয়ার্টার সিস্টেম।"
+      },
+      { "en": "A quarter mile away.", "bn": "এক চতুর্থাংশ মাইল দূরে।" },
+      { "en": "He owns a city quarter.", "bn": "তার শহরের একটি অংশ আছে।" }
+    ],
+    "synonyms": ["fourth", "segment", "portion", "section"]
+  },
+  {
+    "base": "questionnaire",
+    "phonetic": "ˌkwestʃəˈneə",
+    "meaning": "প্রশ্নপত্র / জরিপ ফর্ম",
+    "examples": [
+      { "en": "Fill out the questionnaire.", "bn": "প্রশ্নপত্র পূরণ করো।" },
+      {
+        "en": "They prepared a questionnaire.",
+        "bn": "তারা একটি প্রশ্নপত্র তৈরি করেছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The questionnaire is simple.", "bn": "প্রশ্নপত্রটি সহজ।" },
+      {
+        "en": "We collected questionnaires.",
+        "bn": "আমরা প্রশ্নপত্র সংগ্রহ করেছি।"
+      },
+      {
+        "en": "She answered the questionnaire.",
+        "bn": "সে প্রশ্নপত্রের উত্তর দিয়েছে।"
+      },
+      { "en": "Online questionnaire is easy.", "bn": "অনলাইন প্রশ্নপত্র সহজ।" },
+      {
+        "en": "They designed a questionnaire.",
+        "bn": "তারা একটি প্রশ্নপত্র ডিজাইন করেছে।"
+      },
+      { "en": "The questionnaire is ready.", "bn": "প্রশ্নপত্র প্রস্তুত।" },
+      {
+        "en": "He submitted questionnaire.",
+        "bn": "সে প্রশ্নপত্র জমা দিয়েছে।"
+      },
+      {
+        "en": "Questionnaire includes 10 questions.",
+        "bn": "প্রশ্নপত্রে ১০টি প্রশ্ন আছে।"
+      },
+      {
+        "en": "We analyzed questionnaire data.",
+        "bn": "আমরা প্রশ্নপত্রের তথ্য বিশ্লেষণ করেছি।"
+      },
+      {
+        "en": "Students filled questionnaire.",
+        "bn": "শিক্ষার্থীরা প্রশ্নপত্র পূরণ করেছে।"
+      }
+    ],
+    "synonyms": ["survey", "form", "poll", "feedback sheet"]
+  },
+  {
+    "base": "quickness",
+    "phonetic": "ˈkwɪknəs",
+    "meaning": "দ্রুততা",
+    "examples": [
+      {
+        "en": "His quickness surprised us.",
+        "bn": "তার দ্রুততা আমাদের অবাক করেছে।"
+      },
+      { "en": "Quickness is important.", "bn": "দ্রুততা গুরুত্বপূর্ণ।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She shows quickness in learning.",
+        "bn": "সে শেখার ক্ষেত্রে দ্রুততা দেখায়।"
+      },
+      {
+        "en": "Quickness helps in exams.",
+        "bn": "দ্রুততা পরীক্ষায় সাহায্য করে।"
+      },
+      {
+        "en": "His quickness saved time.",
+        "bn": "তার দ্রুততা সময় বাঁচিয়েছে।"
+      },
+      {
+        "en": "They admire his quickness.",
+        "bn": "তারা তার দ্রুততা প্রশংসা করে।"
+      },
+      { "en": "Quickness is a skill.", "bn": "দ্রুততা একটি দক্ষতা।" },
+      { "en": "He lacks quickness.", "bn": "তার দ্রুততার অভাব আছে।" },
+      {
+        "en": "Quickness improves performance.",
+        "bn": "দ্রুততা পারফরম্যান্স উন্নত করে।"
+      },
+      { "en": "She gained quickness.", "bn": "সে দ্রুততা অর্জন করেছে।" },
+      {
+        "en": "Mental quickness matters.",
+        "bn": "মানসিক দ্রুততা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "He trains for quickness.",
+        "bn": "সে দ্রুততার জন্য প্রশিক্ষণ করে।"
+      }
+    ],
+    "synonyms": ["speed", "swiftness", "agility", "rapidity"]
+  },
+  {
+    "base": "quirk",
+    "phonetic": "kwɜːk",
+    "meaning": "অদ্ভুত বৈশিষ্ট্য / খামখেয়াল",
+    "examples": [
+      {
+        "en": "He has a strange quirk.",
+        "bn": "তার একটি অদ্ভুত বৈশিষ্ট্য আছে।"
+      },
+      { "en": "It is just a quirk.", "bn": "এটি শুধু একটি খামখেয়াল।" }
+    ],
+    "moreexample": [
+      { "en": "Everyone has quirks.", "bn": "সবাইয়ের কিছু খামখেয়াল আছে।" },
+      { "en": "Her quirk is funny.", "bn": "তার খামখেয়াল মজার।" },
+      {
+        "en": "It’s a personality quirk.",
+        "bn": "এটি ব্যক্তিত্বের খামখেয়াল।"
+      },
+      { "en": "He noticed a quirk.", "bn": "সে একটি খামখেয়াল লক্ষ্য করেছে।" },
+      {
+        "en": "Small quirks make people unique.",
+        "bn": "ছোট খামখেয়াল মানুষকে আলাদা করে।"
+      },
+      { "en": "The system has quirks.", "bn": "সিস্টেমে কিছু সমস্যা আছে।" },
+      { "en": "She accepts his quirks.", "bn": "সে তার খামখেয়াল মেনে নেয়।" },
+      {
+        "en": "It’s just a quirk of nature.",
+        "bn": "এটি প্রকৃতির একটি খামখেয়াল।"
+      },
+      { "en": "He laughed at her quirk.", "bn": "সে তার খামখেয়ালে হেসেছে।" },
+      { "en": "Technology has quirks.", "bn": "প্রযুক্তিরও খামখেয়াল থাকে।" }
+    ],
+    "synonyms": ["oddity", "habit", "trait", "peculiarity"]
+  },
+  {
+    "base": "quota",
+    "phonetic": "ˈkwəʊtə",
+    "meaning": "নির্ধারিত সীমা / কোটা",
+    "examples": [
+      { "en": "He met his quota.", "bn": "সে তার কোটা পূরণ করেছে।" },
+      { "en": "Quota is strict.", "bn": "কোটা কঠোর।" }
+    ],
+    "moreexample": [
+      { "en": "They exceeded quota.", "bn": "তারা কোটা অতিক্রম করেছে।" },
+      { "en": "Quota system exists.", "bn": "কোটা ব্যবস্থা আছে।" },
+      { "en": "She reached quota.", "bn": "সে কোটা পূরণ করেছে।" },
+      { "en": "We follow quota rules.", "bn": "আমরা কোটা নিয়ম অনুসরণ করি।" },
+      { "en": "Quota affects jobs.", "bn": "কোটা চাকরিতে প্রভাব ফেলে।" },
+      { "en": "He failed quota.", "bn": "সে কোটা পূরণ করতে ব্যর্থ হয়েছে।" },
+      { "en": "Quota was reduced.", "bn": "কোটা কমানো হয়েছে।" },
+      { "en": "Each region has quota.", "bn": "প্রতিটি অঞ্চলের কোটা আছে।" },
+      { "en": "Quota ensures fairness.", "bn": "কোটা ন্যায্যতা নিশ্চিত করে।" },
+      { "en": "Government sets quota.", "bn": "সরকার কোটা নির্ধারণ করে।" }
+    ],
+    "synonyms": ["limit", "share", "allocation", "portion"]
+  },
+  {
+    "base": "quotation",
+    "phonetic": "kwəʊˈteɪʃən",
+    "meaning": "উদ্ধৃতি / দাম উল্লেখ",
+    "examples": [
+      { "en": "He gave a quotation.", "bn": "সে একটি উদ্ধৃতি দিয়েছে।" },
+      { "en": "The quotation is famous.", "bn": "উদ্ধৃতিটি বিখ্যাত।" }
+    ],
+    "moreexample": [
+      { "en": "She used a quotation.", "bn": "সে একটি উদ্ধৃতি ব্যবহার করেছে।" },
+      {
+        "en": "They collected quotations.",
+        "bn": "তারা উদ্ধৃতি সংগ্রহ করেছে।"
+      },
+      { "en": "Quotation is accurate.", "bn": "উদ্ধৃতি সঠিক।" },
+      { "en": "We need quotation.", "bn": "আমাদের উদ্ধৃতি দরকার।" },
+      { "en": "He read a quotation.", "bn": "সে একটি উদ্ধৃতি পড়েছে।" },
+      {
+        "en": "Quotation marks are used.",
+        "bn": "উদ্ধৃতি চিহ্ন ব্যবহার করা হয়।"
+      },
+      { "en": "They sent a quotation.", "bn": "তারা একটি উদ্ধৃতি পাঠিয়েছে।" },
+      { "en": "Quotation includes price.", "bn": "উদ্ধৃতিতে দাম থাকে।" },
+      { "en": "She requested quotation.", "bn": "সে উদ্ধৃতি অনুরোধ করেছে।" },
+      {
+        "en": "Business quotation is ready.",
+        "bn": "ব্যবসার উদ্ধৃতি প্রস্তুত।"
+      }
+    ],
+    "synonyms": ["cite", "reference", "statement", "price estimate"]
+  },
+  {
+    "base": "queer",
+    "phonetic": "kwɪə",
+    "meaning": "অদ্ভুত / অস্বাভাবিক",
+    "examples": [
+      { "en": "He felt queer.", "bn": "সে অস্বস্তি অনুভব করেছে।" },
+      { "en": "It is a queer idea.", "bn": "এটি একটি অদ্ভুত ধারণা।" }
+    ],
+    "moreexample": [
+      { "en": "A queer sound came.", "bn": "একটি অদ্ভুত শব্দ এসেছে।" },
+      { "en": "She looked queer.", "bn": "সে অদ্ভুত দেখাচ্ছিল।" },
+      {
+        "en": "Queer behavior confused us.",
+        "bn": "অদ্ভুত আচরণ আমাদের বিভ্রান্ত করেছে।"
+      },
+      { "en": "It feels queer.", "bn": "এটি অদ্ভুত লাগছে।" },
+      { "en": "He gave a queer smile.", "bn": "সে অদ্ভুত হাসি দিয়েছে।" },
+      { "en": "The place is queer.", "bn": "জায়গাটি অদ্ভুত।" },
+      { "en": "Queer silence followed.", "bn": "অদ্ভুত নীরবতা নেমে এলো।" },
+      { "en": "She had a queer feeling.", "bn": "তার অদ্ভুত অনুভূতি হয়েছিল।" },
+      { "en": "Something queer happened.", "bn": "কিছু অদ্ভুত ঘটেছে।" },
+      { "en": "He noticed queer signs.", "bn": "সে অদ্ভুত চিহ্ন দেখেছে।" }
+    ],
+    "synonyms": ["strange", "odd", "peculiar", "unusual"]
+  },
+  {
+    "base": "quest",
+    "phonetic": "kwest",
+    "meaning": "অনুসন্ধান / অভিযান",
+    "examples": [
+      { "en": "He is on a quest.", "bn": "সে একটি অনুসন্ধানে আছে।" },
+      { "en": "The quest began.", "bn": "অভিযান শুরু হয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "A quest for truth.", "bn": "সত্যের অনুসন্ধান।" },
+      { "en": "She began her quest.", "bn": "সে তার অভিযান শুরু করেছে।" },
+      { "en": "The quest is long.", "bn": "অভিযান দীর্ঘ।" },
+      { "en": "He completed the quest.", "bn": "সে অভিযান সম্পন্ন করেছে।" },
+      { "en": "They joined the quest.", "bn": "তারা অভিযানে যোগ দিয়েছে।" },
+      { "en": "Quest for knowledge.", "bn": "জ্ঞান অনুসন্ধান।" },
+      { "en": "It is a hero’s quest.", "bn": "এটি একটি বীরের অভিযান।" },
+      {
+        "en": "She continues the quest.",
+        "bn": "সে অনুসন্ধান চালিয়ে যাচ্ছে।"
+      },
+      { "en": "Quest never ends.", "bn": "অনুসন্ধান কখনো শেষ হয় না।" },
+      { "en": "They failed the quest.", "bn": "তারা অভিযানে ব্যর্থ হয়েছে।" }
+    ],
+    "synonyms": ["search", "journey", "pursuit", "expedition"]
+  },
+  {
+    "base": "queue",
+    "phonetic": "kjuː",
+    "meaning": "সারি / লাইনে দাঁড়ানো",
+    "examples": [
+      { "en": "People are in queue.", "bn": "মানুষ সারিতে আছে।" },
+      { "en": "Join the queue.", "bn": "লাইনে দাঁড়াও।" }
+    ],
+    "moreexample": [
+      { "en": "He waited in queue.", "bn": "সে লাইনে অপেক্ষা করেছে।" },
+      { "en": "Long queue formed.", "bn": "লম্বা সারি তৈরি হয়েছে।" },
+      { "en": "They stood in queue.", "bn": "তারা লাইনে দাঁড়িয়েছে।" },
+      { "en": "Queue is moving slowly.", "bn": "সারি ধীরে চলছে।" },
+      { "en": "She joined the queue.", "bn": "সে লাইনে যোগ দিয়েছে।" },
+      { "en": "Queue for tickets.", "bn": "টিকিটের সারি।" },
+      { "en": "The queue is short.", "bn": "সারিটি ছোট।" },
+      { "en": "We waited in queue.", "bn": "আমরা লাইনে অপেক্ষা করেছি।" },
+      { "en": "Queue system is fair.", "bn": "সারি ব্যবস্থা ন্যায্য।" },
+      { "en": "He skipped the queue.", "bn": "সে লাইন ভেঙে এগিয়েছে।" }
+    ],
+    "synonyms": ["line", "row", "sequence", "file"]
+  },
+
+  {
+    "base": "quench",
+    "phonetic": "kwentʃ",
+    "meaning": "নিবারণ করা / তৃষ্ণা মেটানো",
+    "examples": [
+      { "en": "Water quenches thirst.", "bn": "পানি তৃষ্ণা মেটায়।" },
+      { "en": "He quenched his thirst.", "bn": "সে তার তৃষ্ণা মেটাল।" }
+    ],
+    "moreexample": [
+      { "en": "She quenched her hunger.", "bn": "সে তার ক্ষুধা মেটিয়েছে।" },
+      { "en": "The rain quenched the fire.", "bn": "বৃষ্টি আগুন নেভিয়েছে।" },
+      {
+        "en": "They quenched their curiosity.",
+        "bn": "তারা তাদের কৌতূহল মেটিয়েছে।"
+      },
+      {
+        "en": "Cold drinks quench thirst quickly.",
+        "bn": "ঠান্ডা পানীয় দ্রুত তৃষ্ণা মেটায়।"
+      },
+      { "en": "He quenched the flame.", "bn": "সে আগুন নেভিয়েছে।" },
+      {
+        "en": "Nothing could quench his anger.",
+        "bn": "কিছুই তার রাগ শান্ত করতে পারেনি।"
+      },
+      { "en": "She quenched her desire.", "bn": "সে তার ইচ্ছা দমন করেছে।" },
+      { "en": "They quenched the heat.", "bn": "তারা গরম কমিয়েছে।" },
+      {
+        "en": "The drink quenched him instantly.",
+        "bn": "পানীয়টি তাকে সঙ্গে সঙ্গে তৃপ্ত করেছে।"
+      },
+      {
+        "en": "Quench your thirst with water.",
+        "bn": "পানি দিয়ে তৃষ্ণা মেটাও।"
+      }
+    ],
+    "synonyms": ["satisfy", "suppress", "extinguish", "cool"]
+  },
+  {
+    "base": "quaint",
+    "phonetic": "kweɪnt",
+    "meaning": "সুন্দরভাবে পুরনো ধাঁচের / অদ্ভুতভাবে আকর্ষণীয়",
+    "examples": [
+      { "en": "It is a quaint village.", "bn": "এটি একটি সুন্দর পুরনো গ্রাম।" },
+      { "en": "She has a quaint style.", "bn": "তার স্টাইল অদ্ভুতভাবে সুন্দর।" }
+    ],
+    "moreexample": [
+      { "en": "A quaint little house.", "bn": "একটি সুন্দর ছোট বাড়ি।" },
+      {
+        "en": "The town looks quaint.",
+        "bn": "শহরটি সুন্দর পুরনো ধাঁচের দেখায়।"
+      },
+      {
+        "en": "He likes quaint places.",
+        "bn": "সে পুরনো ধাঁচের জায়গা পছন্দ করে।"
+      },
+      { "en": "A quaint tradition.", "bn": "একটি অদ্ভুত সুন্দর ঐতিহ্য।" },
+      { "en": "The café is quaint.", "bn": "ক্যাফেটি সুন্দর পুরনো ধাঁচের।" },
+      {
+        "en": "She wore a quaint dress.",
+        "bn": "সে একটি অদ্ভুত সুন্দর পোশাক পরেছিল।"
+      },
+      {
+        "en": "Quaint streets attract tourists.",
+        "bn": "পুরনো ধাঁচের রাস্তা পর্যটকদের আকর্ষণ করে।"
+      },
+      { "en": "A quaint smile.", "bn": "একটি অদ্ভুত সুন্দর হাসি।" },
+      { "en": "The design is quaint.", "bn": "ডিজাইনটি পুরনো ধাঁচের সুন্দর।" },
+      {
+        "en": "Quaint architecture remains.",
+        "bn": "পুরনো ধাঁচের স্থাপত্য রয়ে গেছে।"
+      }
+    ],
+    "synonyms": ["charming", "old-fashioned", "picturesque", "unique"]
+  },
+  {
+    "base": "quiver",
+    "phonetic": "ˈkwɪvə",
+    "meaning": "কাঁপা / কাঁপুনি",
+    "examples": [
+      { "en": "Her voice quivered.", "bn": "তার কণ্ঠ কেঁপে উঠল।" },
+      { "en": "He felt a quiver.", "bn": "সে একটি কাঁপুনি অনুভব করল।" }
+    ],
+    "moreexample": [
+      { "en": "His hands quivered.", "bn": "তার হাত কাঁপছিল।" },
+      { "en": "She quivered with fear.", "bn": "সে ভয়ে কাঁপছিল।" },
+      { "en": "The leaf quivered in wind.", "bn": "পাতাটি বাতাসে কাঁপছিল।" },
+      { "en": "A quiver of excitement.", "bn": "উত্তেজনার কাঁপুনি।" },
+      { "en": "He quivered slightly.", "bn": "সে একটু কেঁপে উঠল।" },
+      { "en": "Her lips quivered.", "bn": "তার ঠোঁট কাঁপছিল।" },
+      { "en": "The dog quivered in cold.", "bn": "কুকুরটি ঠান্ডায় কাঁপছিল।" },
+      {
+        "en": "A quiver ran through him.",
+        "bn": "তার শরীরে কাঁপুনি বয়ে গেল।"
+      },
+      { "en": "She quivered with emotion.", "bn": "সে আবেগে কেঁপে উঠল।" },
+      { "en": "His voice quivered again.", "bn": "তার কণ্ঠ আবার কেঁপে উঠল।" }
+    ],
+    "synonyms": ["tremble", "shake", "shiver", "vibrate"]
+  },
+  {
+    "base": "quota",
+    "phonetic": "ˈkwəʊtə",
+    "meaning": "নির্ধারিত সীমা / কোটা",
+    "examples": [
+      { "en": "He met his quota.", "bn": "সে তার কোটা পূরণ করেছে।" },
+      { "en": "Quota is limited.", "bn": "কোটা সীমিত।" }
+    ],
+    "moreexample": [
+      { "en": "They reached quota.", "bn": "তারা কোটা পূরণ করেছে।" },
+      { "en": "Quota system exists.", "bn": "কোটা ব্যবস্থা আছে।" },
+      { "en": "She failed quota.", "bn": "সে কোটা পূরণ করতে ব্যর্থ হয়েছে।" },
+      { "en": "We follow quota rules.", "bn": "আমরা কোটা নিয়ম অনুসরণ করি।" },
+      { "en": "Quota affects jobs.", "bn": "কোটা চাকরিতে প্রভাব ফেলে।" },
+      { "en": "Government sets quota.", "bn": "সরকার কোটা নির্ধারণ করে।" },
+      { "en": "He exceeded quota.", "bn": "সে কোটা অতিক্রম করেছে।" },
+      { "en": "Each region has quota.", "bn": "প্রতিটি অঞ্চলের কোটা আছে।" },
+      { "en": "Quota ensures fairness.", "bn": "কোটা ন্যায় নিশ্চিত করে।" },
+      { "en": "Quota was reduced.", "bn": "কোটা কমানো হয়েছে।" }
+    ],
+    "synonyms": ["limit", "share", "allocation", "portion"]
+  },
+  {
+    "base": "query",
+    "phonetic": "ˈkwɪəri",
+    "meaning": "প্রশ্ন / অনুসন্ধান",
+    "examples": [
+      { "en": "He raised a query.", "bn": "সে একটি প্রশ্ন তুলেছে।" },
+      { "en": "The query was answered.", "bn": "প্রশ্নের উত্তর দেওয়া হয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "We sent a query.", "bn": "আমরা একটি প্রশ্ন পাঠিয়েছি।" },
+      { "en": "She answered the query.", "bn": "সে প্রশ্নের উত্তর দিয়েছে।" },
+      { "en": "Database query is fast.", "bn": "ডাটাবেস কুয়েরি দ্রুত।" },
+      { "en": "He ignored the query.", "bn": "সে প্রশ্নটি উপেক্ষা করেছে।" },
+      {
+        "en": "They processed the query.",
+        "bn": "তারা প্রশ্নটি প্রক্রিয়া করেছে।"
+      },
+      { "en": "A simple query.", "bn": "একটি সহজ প্রশ্ন।" },
+      { "en": "We resolved the query.", "bn": "আমরা প্রশ্নটি সমাধান করেছি।" },
+      { "en": "Query remains open.", "bn": "প্রশ্নটি খোলা রয়ে গেছে।" },
+      { "en": "She filed a query.", "bn": "সে একটি প্রশ্ন দাখিল করেছে।" },
+      { "en": "He clarified the query.", "bn": "সে প্রশ্নটি পরিষ্কার করেছে।" }
+    ],
+    "synonyms": ["question", "inquiry", "request", "search"]
+  },
+  {
+    "base": "quarrel",
+    "phonetic": "ˈkwɒrəl",
+    "meaning": "ঝগড়া / বিবাদ",
+    "examples": [
+      { "en": "They had a quarrel.", "bn": "তাদের ঝগড়া হয়েছে।" },
+      { "en": "Don’t quarrel.", "bn": "ঝগড়া করো না।" }
+    ],
+    "moreexample": [
+      {
+        "en": "A small quarrel started it.",
+        "bn": "একটি ছোট ঝগড়া থেকে শুরু হয়েছিল।"
+      },
+      { "en": "They ended the quarrel.", "bn": "তারা ঝগড়া শেষ করেছে।" },
+      { "en": "He avoids quarrels.", "bn": "সে ঝগড়া এড়ায়।" },
+      { "en": "Family quarrel is common.", "bn": "পারিবারিক ঝগড়া সাধারণ।" },
+      { "en": "They resolved their quarrel.", "bn": "তারা ঝগড়া মিটিয়েছে।" },
+      {
+        "en": "Quarrel damaged friendship.",
+        "bn": "ঝগড়া বন্ধুত্ব নষ্ট করেছে।"
+      },
+      { "en": "She hates quarrels.", "bn": "সে ঝগড়া ঘৃণা করে।" },
+      { "en": "They often quarrel.", "bn": "তারা প্রায়ই ঝগড়া করে।" },
+      { "en": "Quarrel grew worse.", "bn": "ঝগড়া আরও খারাপ হয়েছে।" },
+      { "en": "Stop the quarrel.", "bn": "ঝগড়া বন্ধ করো।" }
+    ],
+    "synonyms": ["fight", "argument", "dispute", "conflict"]
   }
 ]

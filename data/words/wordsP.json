@@ -43,5 +43,2258 @@
       { "en": "He prepared a surprise.", "bn": "" }
     ],
     "synonyms": ["ready", "arrange", "organize", "plan", "set up"]
+  },
+
+  {
+    "base": "pack",
+    "phonetic": "pæk",
+    "meaning": "প্যাক করা / ব্যাগে ভরা",
+    "examples": [
+      { "en": "I will pack my bag.", "bn": "আমি আমার ব্যাগ গুছিয়ে নেব।" },
+      { "en": "They packed everything.", "bn": "তারা সবকিছু প্যাক করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "She packed clothes.", "bn": "সে কাপড় প্যাক করেছে।" },
+      { "en": "He packed his lunch.", "bn": "সে তার খাবার প্যাক করেছে।" },
+      { "en": "We packed for travel.", "bn": "আমরা ভ্রমণের জন্য প্যাক করেছি।" },
+      { "en": "They packed boxes.", "bn": "তারা বাক্স প্যাক করেছে।" },
+      { "en": "I packed early.", "bn": "আমি আগে প্যাক করেছি।" },
+      { "en": "She packed books.", "bn": "সে বই প্যাক করেছে।" },
+      { "en": "He packed quickly.", "bn": "সে দ্রুত প্যাক করেছে।" },
+      { "en": "We packed the room.", "bn": "আমরা ঘর গুছিয়েছি।" },
+      { "en": "They packed food.", "bn": "তারা খাবার প্যাক করেছে।" },
+      { "en": "I packed my suitcase.", "bn": "আমি আমার সুটকেস প্যাক করেছি।" }
+    ],
+    "synonyms": ["wrap", "bundle", "load", "fill"]
+  },
+  {
+    "base": "page",
+    "phonetic": "peɪdʒ",
+    "meaning": "পাতা",
+    "examples": [
+      { "en": "Turn the page.", "bn": "পাতা উল্টাও।" },
+      { "en": "This page is blank.", "bn": "এই পাতা ফাঁকা।" }
+    ],
+    "moreexample": [
+      { "en": "Read the page carefully.", "bn": "পাতাটি মনোযোগ দিয়ে পড়ো।" },
+      { "en": "She wrote a page.", "bn": "সে একটি পাতা লিখেছে।" },
+      { "en": "The page is torn.", "bn": "পাতাটি ছেঁড়া।" },
+      { "en": "He opened the page.", "bn": "সে পাতা খুলেছে।" },
+      { "en": "Pages are missing.", "bn": "কিছু পাতা নেই।" },
+      { "en": "I bookmarked the page.", "bn": "আমি পাতা বুকমার্ক করেছি।" },
+      { "en": "The page is long.", "bn": "পাতাটি দীর্ঘ।" },
+      { "en": "She flipped the page.", "bn": "সে পাতা উল্টিয়েছে।" },
+      { "en": "He printed the page.", "bn": "সে পাতা প্রিন্ট করেছে।" },
+      { "en": "The page contains notes.", "bn": "পাতায় নোট আছে।" }
+    ],
+    "synonyms": ["sheet", "leaf", "document page"]
+  },
+  {
+    "base": "pain",
+    "phonetic": "peɪn",
+    "meaning": "ব্যথা",
+    "examples": [
+      { "en": "I feel pain.", "bn": "আমি ব্যথা অনুভব করছি।" },
+      { "en": "He has back pain.", "bn": "তার পিঠে ব্যথা আছে।" }
+    ],
+    "moreexample": [
+      { "en": "The pain is strong.", "bn": "ব্যথা তীব্র।" },
+      { "en": "She felt pain.", "bn": "সে ব্যথা অনুভব করেছে।" },
+      { "en": "He hides his pain.", "bn": "সে তার ব্যথা লুকায়।" },
+      { "en": "Pain went away.", "bn": "ব্যথা চলে গেছে।" },
+      {
+        "en": "They feel emotional pain.",
+        "bn": "তারা মানসিক ব্যথা অনুভব করে।"
+      },
+      { "en": "Pain increased suddenly.", "bn": "ব্যথা হঠাৎ বেড়েছে।" },
+      { "en": "She ignored the pain.", "bn": "সে ব্যথা উপেক্ষা করেছে।" },
+      { "en": "He treated the pain.", "bn": "সে ব্যথার চিকিৎসা করেছে।" },
+      { "en": "Pain is temporary.", "bn": "ব্যথা সাময়িক।" },
+      { "en": "The pain stopped.", "bn": "ব্যথা থেমে গেছে।" }
+    ],
+    "synonyms": ["ache", "hurt", "suffering", "discomfort"]
+  },
+  {
+    "base": "paint",
+    "phonetic": "peɪnt",
+    "meaning": "রং করা",
+    "examples": [
+      { "en": "She paints well.", "bn": "সে ভালো রং করে।" },
+      { "en": "He painted the wall.", "bn": "সে দেয়াল রং করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "They paint houses.", "bn": "তারা বাড়ি রং করে।" },
+      { "en": "She painted a picture.", "bn": "সে একটি ছবি এঁকেছে।" },
+      { "en": "He paints daily.", "bn": "সে প্রতিদিন রং করে।" },
+      { "en": "We painted the room.", "bn": "আমরা ঘর রং করেছি।" },
+      { "en": "Paint dries quickly.", "bn": "রং দ্রুত শুকায়।" },
+      { "en": "She loves to paint.", "bn": "সে রং করতে ভালোবাসে।" },
+      { "en": "He painted a car.", "bn": "সে একটি গাড়ি রং করেছে।" },
+      { "en": "They painted the fence.", "bn": "তারা বেড়া রং করেছে।" },
+      {
+        "en": "The artist painted a portrait.",
+        "bn": "শিল্পী একটি প্রতিকৃতি এঁকেছে।"
+      },
+      { "en": "Paint is colorful.", "bn": "রং রঙিন।" }
+    ],
+    "synonyms": ["color", "dye", "coat", "decorate"]
+  },
+  {
+    "base": "pair",
+    "phonetic": "peə(r)",
+    "meaning": "জোড়া",
+    "examples": [
+      {
+        "en": "I bought a pair of shoes.",
+        "bn": "আমি একটি জোড়া জুতা কিনেছি।"
+      },
+      { "en": "They are a pair.", "bn": "তারা একটি জোড়া।" }
+    ],
+    "moreexample": [
+      { "en": "A pair of glasses.", "bn": "এক জোড়া চশমা।" },
+      {
+        "en": "She wore a pair of earrings.",
+        "bn": "সে এক জোড়া কানের দুল পরেছে।"
+      },
+      { "en": "We saw a pair of birds.", "bn": "আমরা এক জোড়া পাখি দেখেছি।" },
+      { "en": "He lost a pair of socks.", "bn": "সে এক জোড়া মোজা হারিয়েছে।" },
+      { "en": "A pair of gloves.", "bn": "এক জোড়া দস্তানা।" },
+      { "en": "They are a perfect pair.", "bn": "তারা একটি নিখুঁত জোড়া।" },
+      { "en": "She owns many pairs.", "bn": "তার অনেক জোড়া আছে।" },
+      { "en": "A pair of shoes is new.", "bn": "এক জোড়া জুতা নতুন।" },
+      { "en": "He bought a pair.", "bn": "সে একটি জোড়া কিনেছে।" },
+      { "en": "The pair matched well.", "bn": "জোড়াটি ভালোভাবে মিলেছে।" }
+    ],
+    "synonyms": ["couple", "duo", "set"]
+  },
+  {
+    "base": "panic",
+    "phonetic": "ˈpænɪk",
+    "meaning": "আতঙ্ক",
+    "examples": [
+      { "en": "Don’t panic.", "bn": "আতঙ্কিত হয়ো না।" },
+      { "en": "She felt panic.", "bn": "সে আতঙ্ক অনুভব করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "Panic spread quickly.", "bn": "আতঙ্ক দ্রুত ছড়িয়েছে।" },
+      { "en": "He controlled panic.", "bn": "সে আতঙ্ক নিয়ন্ত্রণ করেছে।" },
+      { "en": "People panicked.", "bn": "মানুষ আতঙ্কিত হয়েছে।" },
+      { "en": "She felt sudden panic.", "bn": "সে হঠাৎ আতঙ্ক অনুভব করেছে।" },
+      { "en": "Panic increased.", "bn": "আতঙ্ক বেড়েছে।" },
+      { "en": "They avoided panic.", "bn": "তারা আতঙ্ক এড়িয়েছে।" },
+      {
+        "en": "He stayed calm during panic.",
+        "bn": "সে আতঙ্কের সময় শান্ত ছিল।"
+      },
+      { "en": "Panic spread in crowd.", "bn": "ভিড়ে আতঙ্ক ছড়িয়েছে।" },
+      { "en": "She fought panic.", "bn": "সে আতঙ্কের বিরুদ্ধে লড়েছে।" },
+      { "en": "Panic can be dangerous.", "bn": "আতঙ্ক বিপজ্জনক হতে পারে।" }
+    ],
+    "synonyms": ["fear", "terror", "alarm", "anxiety"]
+  },
+  {
+    "base": "parcel",
+    "phonetic": "ˈpɑːsl",
+    "meaning": "পার্সেল / প্যাকেট",
+    "examples": [
+      { "en": "I received a parcel.", "bn": "আমি একটি পার্সেল পেয়েছি।" },
+      { "en": "She sent a parcel.", "bn": "সে একটি পার্সেল পাঠিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "The parcel is heavy.", "bn": "পার্সেলটি ভারী।" },
+      { "en": "He opened the parcel.", "bn": "সে পার্সেল খুলেছে।" },
+      {
+        "en": "They delivered a parcel.",
+        "bn": "তারা একটি পার্সেল ডেলিভারি করেছে।"
+      },
+      { "en": "The parcel arrived late.", "bn": "পার্সেলটি দেরিতে এসেছে।" },
+      { "en": "She packed the parcel.", "bn": "সে পার্সেল প্যাক করেছে।" },
+      { "en": "The parcel is missing.", "bn": "পার্সেলটি হারিয়ে গেছে।" },
+      { "en": "He checked the parcel.", "bn": "সে পার্সেল পরীক্ষা করেছে।" },
+      { "en": "Parcel delivery is fast.", "bn": "পার্সেল ডেলিভারি দ্রুত।" },
+      { "en": "They wrapped the parcel.", "bn": "তারা পার্সেল মোড়ক করেছে।" },
+      { "en": "I tracked the parcel.", "bn": "আমি পার্সেল ট্র্যাক করেছি।" }
+    ],
+    "synonyms": ["package", "bundle", "shipment"]
+  },
+  {
+    "base": "parent",
+    "phonetic": "ˈpeərənt",
+    "meaning": "অভিভাবক",
+    "examples": [
+      { "en": "My parent is kind.", "bn": "আমার অভিভাবক দয়ালু।" },
+      { "en": "Parents love children.", "bn": "অভিভাবকরা সন্তানদের ভালোবাসে।" }
+    ],
+    "moreexample": [
+      { "en": "She is a strict parent.", "bn": "সে একজন কঠোর অভিভাবক।" },
+      {
+        "en": "Parents guide children.",
+        "bn": "অভিভাবকরা সন্তানদের পথ দেখায়।"
+      },
+      { "en": "He became a parent.", "bn": "সে একজন অভিভাবক হয়েছে।" },
+      { "en": "Parents care deeply.", "bn": "অভিভাবকরা গভীরভাবে যত্ন নেয়।" },
+      {
+        "en": "She is a responsible parent.",
+        "bn": "সে একজন দায়িত্বশীল অভিভাবক।"
+      },
+      { "en": "Parents work hard.", "bn": "অভিভাবকরা কঠোর পরিশ্রম করে।" },
+      { "en": "He respects his parent.", "bn": "সে তার অভিভাবককে সম্মান করে।" },
+      {
+        "en": "Good parents teach values.",
+        "bn": "ভালো অভিভাবক মূল্যবোধ শেখায়।"
+      },
+      {
+        "en": "Parents support education.",
+        "bn": "অভিভাবকরা শিক্ষাকে সমর্থন করে।"
+      },
+      { "en": "She listens to parents.", "bn": "সে অভিভাবকদের কথা শোনে।" }
+    ],
+    "synonyms": ["guardian", "caretaker", "mother", "father"]
+  },
+  {
+    "base": "park",
+    "phonetic": "pɑːk",
+    "meaning": "উদ্যান / পার্ক",
+    "examples": [
+      { "en": "We went to the park.", "bn": "আমরা পার্কে গিয়েছিলাম।" },
+      { "en": "The park is beautiful.", "bn": "পার্কটি সুন্দর।" }
+    ],
+    "moreexample": [
+      { "en": "Children play in park.", "bn": "শিশুরা পার্কে খেলে।" },
+      { "en": "She walked in the park.", "bn": "সে পার্কে হাঁটছে।" },
+      { "en": "The park is clean.", "bn": "পার্কটি পরিষ্কার।" },
+      { "en": "He visited the park.", "bn": "সে পার্ক পরিদর্শন করেছে।" },
+      { "en": "They relaxed in park.", "bn": "তারা পার্কে বিশ্রাম নিয়েছে।" },
+      { "en": "The park has trees.", "bn": "পার্কে গাছ আছে।" },
+      { "en": "We picnic in park.", "bn": "আমরা পার্কে পিকনিক করি।" },
+      { "en": "The park is crowded.", "bn": "পার্কটি ভিড়।" },
+      { "en": "He jogs in park.", "bn": "সে পার্কে দৌড়ায়।" },
+      { "en": "The park is large.", "bn": "পার্কটি বড়।" }
+    ],
+    "synonyms": ["garden", "playground", "recreation area"]
+  },
+  {
+    "base": "passion",
+    "phonetic": "ˈpæʃn",
+    "meaning": "আবেগ / তীব্র ভালোবাসা",
+    "examples": [
+      {
+        "en": "He has a passion for music.",
+        "bn": "তার সংগীতের প্রতি আবেগ আছে।"
+      },
+      { "en": "She showed passion.", "bn": "সে আবেগ দেখিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "Passion drives success.", "bn": "আবেগ সাফল্য চালায়।" },
+      { "en": "He works with passion.", "bn": "সে আবেগ নিয়ে কাজ করে।" },
+      { "en": "Her passion is art.", "bn": "তার আবেগ শিল্প।" },
+      { "en": "They share passion.", "bn": "তারা আবেগ ভাগ করে।" },
+      {
+        "en": "Passion increased motivation.",
+        "bn": "আবেগ প্রেরণা বাড়িয়েছে।"
+      },
+      { "en": "He lost passion.", "bn": "সে আবেগ হারিয়েছে।" },
+      { "en": "She follows her passion.", "bn": "সে তার আবেগ অনুসরণ করে।" },
+      { "en": "Passion is important.", "bn": "আবেগ গুরুত্বপূর্ণ।" },
+      { "en": "They felt passion.", "bn": "তারা আবেগ অনুভব করেছে।" },
+      { "en": "He speaks with passion.", "bn": "সে আবেগ নিয়ে কথা বলে।" }
+    ],
+    "synonyms": ["enthusiasm", "love", "desire", "fervor"]
+  },
+  {
+    "base": "patience",
+    "phonetic": "ˈpeɪʃns",
+    "meaning": "ধৈর্য",
+    "examples": [
+      { "en": "Have patience.", "bn": "ধৈর্য ধরো।" },
+      { "en": "She showed patience.", "bn": "সে ধৈর্য দেখিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "Patience is important.", "bn": "ধৈর্য গুরুত্বপূর্ণ।" },
+      { "en": "He lost patience.", "bn": "সে ধৈর্য হারিয়েছে।" },
+      {
+        "en": "She waited with patience.",
+        "bn": "সে ধৈর্য সহকারে অপেক্ষা করেছে।"
+      },
+      { "en": "Patience brings success.", "bn": "ধৈর্য সাফল্য আনে।" },
+      { "en": "They practiced patience.", "bn": "তারা ধৈর্য অনুশীলন করেছে।" },
+      { "en": "He needs patience.", "bn": "তার ধৈর্য দরকার।" },
+      { "en": "Patience is a skill.", "bn": "ধৈর্য একটি দক্ষতা।" },
+      { "en": "She teaches patience.", "bn": "সে ধৈর্য শেখায়।" },
+      {
+        "en": "Lack of patience causes problems.",
+        "bn": "ধৈর্যের অভাব সমস্যা তৈরি করে।"
+      },
+      { "en": "He showed great patience.", "bn": "সে বড় ধৈর্য দেখিয়েছে।" }
+    ],
+    "synonyms": ["tolerance", "calmness", "endurance", "composure"]
+  },
+  {
+    "base": "peace",
+    "phonetic": "piːs",
+    "meaning": "শান্তি",
+    "examples": [
+      { "en": "We want peace.", "bn": "আমরা শান্তি চাই।" },
+      { "en": "Peace is important.", "bn": "শান্তি গুরুত্বপূর্ণ।" }
+    ],
+    "moreexample": [
+      { "en": "The world needs peace.", "bn": "বিশ্বের শান্তি দরকার।" },
+      { "en": "She lives in peace.", "bn": "সে শান্তিতে বাস করে।" },
+      { "en": "Peace brings happiness.", "bn": "শান্তি সুখ আনে।" },
+      { "en": "They signed peace.", "bn": "তারা শান্তি চুক্তি করেছে।" },
+      {
+        "en": "He prayed for peace.",
+        "bn": "সে শান্তির জন্য প্রার্থনা করেছে।"
+      },
+      { "en": "Peace was restored.", "bn": "শান্তি ফিরে এসেছে।" },
+      { "en": "We maintain peace.", "bn": "আমরা শান্তি বজায় রাখি।" },
+      { "en": "Peace reduces conflict.", "bn": "শান্তি সংঘাত কমায়।" },
+      { "en": "She seeks peace.", "bn": "সে শান্তি খোঁজে।" },
+      { "en": "Peace is precious.", "bn": "শান্তি মূল্যবান।" }
+    ],
+    "synonyms": ["calm", "harmony", "tranquility", "serenity"]
+  },
+
+  {
+    "base": "perceive",
+    "phonetic": "pəˈsiːv",
+    "meaning": "অনুভব করা / উপলব্ধি করা",
+    "examples": [
+      { "en": "I perceive a change.", "bn": "আমি একটি পরিবর্তন উপলব্ধি করছি।" },
+      { "en": "She perceives danger.", "bn": "সে বিপদ অনুভব করে।" }
+    ],
+    "moreexample": [
+      { "en": "He perceives truth.", "bn": "সে সত্য উপলব্ধি করে।" },
+      { "en": "They perceive risk.", "bn": "তারা ঝুঁকি অনুভব করে।" },
+      {
+        "en": "We perceive reality differently.",
+        "bn": "আমরা বাস্তবতাকে ভিন্নভাবে উপলব্ধি করি।"
+      },
+      {
+        "en": "She perceived his intention.",
+        "bn": "সে তার উদ্দেশ্য বুঝতে পেরেছে।"
+      },
+      {
+        "en": "He perceives emotions quickly.",
+        "bn": "সে দ্রুত আবেগ বুঝতে পারে।"
+      },
+      {
+        "en": "They perceived injustice.",
+        "bn": "তারা অন্যায় উপলব্ধি করেছে।"
+      },
+      { "en": "I perceive improvement.", "bn": "আমি উন্নতি দেখতে পাচ্ছি।" },
+      {
+        "en": "She perceives change in him.",
+        "bn": "সে তার মধ্যে পরিবর্তন অনুভব করে।"
+      },
+      { "en": "We perceive signals.", "bn": "আমরা সংকেত বুঝতে পারি।" },
+      { "en": "He perceived a threat.", "bn": "সে একটি হুমকি অনুভব করেছে।" }
+    ],
+    "synonyms": ["sense", "observe", "recognize", "discern"]
+  },
+  {
+    "base": "persist",
+    "phonetic": "pəˈsɪst",
+    "meaning": "অটল থাকা / অব্যাহত থাকা",
+    "examples": [
+      { "en": "He persisted in his work.", "bn": "সে তার কাজে অটল ছিল।" },
+      { "en": "Problems persist.", "bn": "সমস্যা অব্যাহত আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She persists despite failure.",
+        "bn": "সে ব্যর্থতা সত্ত্বেও অটল থাকে।"
+      },
+      { "en": "Difficulties persist.", "bn": "কঠিনতা অব্যাহত আছে।" },
+      { "en": "He persisted in asking.", "bn": "সে জিজ্ঞাসা চালিয়ে গেছে।" },
+      { "en": "The issue persists.", "bn": "সমস্যাটি রয়ে গেছে।" },
+      {
+        "en": "They persisted with effort.",
+        "bn": "তারা প্রচেষ্টা চালিয়ে গেছে।"
+      },
+      { "en": "She persists in learning.", "bn": "সে শেখা চালিয়ে যায়।" },
+      { "en": "Pain persisted for days.", "bn": "ব্যথা কয়েক দিন ধরে ছিল।" },
+      {
+        "en": "He persisted through challenges.",
+        "bn": "সে চ্যালেঞ্জের মধ্যেও অটল ছিল।"
+      },
+      { "en": "The noise persisted.", "bn": "শব্দ অব্যাহত ছিল।" },
+      { "en": "They persisted together.", "bn": "তারা একসাথে অটল ছিল।" }
+    ],
+    "synonyms": ["continue", "endure", "persevere", "last"]
+  },
+  {
+    "base": "policy",
+    "phonetic": "ˈpɒləsi",
+    "meaning": "নীতি",
+    "examples": [
+      { "en": "The policy changed.", "bn": "নীতি পরিবর্তন হয়েছে।" },
+      { "en": "This is government policy.", "bn": "এটি সরকারি নীতি।" }
+    ],
+    "moreexample": [
+      { "en": "Company policy is strict.", "bn": "কোম্পানির নীতি কঠোর।" },
+      { "en": "They follow policy.", "bn": "তারা নীতি অনুসরণ করে।" },
+      { "en": "Policy affects everyone.", "bn": "নীতি সবাইকে প্রভাবিত করে।" },
+      { "en": "He reviewed the policy.", "bn": "সে নীতি পর্যালোচনা করেছে।" },
+      { "en": "New policy was introduced.", "bn": "নতুন নীতি চালু হয়েছে।" },
+      {
+        "en": "Policy makers decided.",
+        "bn": "নীতিনির্ধারকরা সিদ্ধান্ত নিয়েছে।"
+      },
+      { "en": "They violated policy.", "bn": "তারা নীতি ভঙ্গ করেছে।" },
+      { "en": "Policy is important.", "bn": "নীতি গুরুত্বপূর্ণ।" },
+      { "en": "She explained the policy.", "bn": "সে নীতি ব্যাখ্যা করেছে।" },
+      { "en": "Policy protects users.", "bn": "নীতি ব্যবহারকারীদের রক্ষা করে।" }
+    ],
+    "synonyms": ["rule", "regulation", "guideline", "law"]
+  },
+  {
+    "base": "potential",
+    "phonetic": "pəˈtenʃl",
+    "meaning": "সম্ভাবনা",
+    "examples": [
+      { "en": "He has great potential.", "bn": "তার বড় সম্ভাবনা আছে।" },
+      {
+        "en": "Potential exists in everyone.",
+        "bn": "সবাইয়ের মধ্যে সম্ভাবনা আছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She shows potential.", "bn": "সে সম্ভাবনা দেখায়।" },
+      { "en": "The project has potential.", "bn": "প্রকল্পটির সম্ভাবনা আছে।" },
+      {
+        "en": "He reached his potential.",
+        "bn": "সে তার সম্ভাবনা অর্জন করেছে।"
+      },
+      {
+        "en": "They saw potential in him.",
+        "bn": "তারা তার মধ্যে সম্ভাবনা দেখেছে।"
+      },
+      { "en": "Potential growth is high.", "bn": "সম্ভাব্য বৃদ্ধি বেশি।" },
+      {
+        "en": "She unlocked her potential.",
+        "bn": "সে তার সম্ভাবনা প্রকাশ করেছে।"
+      },
+      { "en": "He wasted his potential.", "bn": "সে তার সম্ভাবনা নষ্ট করেছে।" },
+      { "en": "The idea has potential.", "bn": "ধারণাটির সম্ভাবনা আছে।" },
+      { "en": "Potential risk exists.", "bn": "সম্ভাব্য ঝুঁকি আছে।" },
+      { "en": "They maximize potential.", "bn": "তারা সম্ভাবনা সর্বোচ্চ করে।" }
+    ],
+    "synonyms": ["possibility", "capacity", "ability", "promise"]
+  },
+  {
+    "base": "poverty",
+    "phonetic": "ˈpɒvəti",
+    "meaning": "দারিদ্র্য",
+    "examples": [
+      {
+        "en": "Poverty is a global issue.",
+        "bn": "দারিদ্র্য একটি বৈশ্বিক সমস্যা।"
+      },
+      { "en": "He escaped poverty.", "bn": "সে দারিদ্র্য থেকে বেরিয়ে এসেছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Poverty affects millions.",
+        "bn": "দারিদ্র্য লক্ষ লক্ষ মানুষকে প্রভাবিত করে।"
+      },
+      { "en": "They live in poverty.", "bn": "তারা দারিদ্র্যে বাস করে।" },
+      { "en": "Poverty reduces opportunity.", "bn": "দারিদ্র্য সুযোগ কমায়।" },
+      { "en": "He fought poverty.", "bn": "সে দারিদ্র্যের বিরুদ্ধে লড়েছে।" },
+      { "en": "Poverty rate increased.", "bn": "দারিদ্র্যের হার বেড়েছে।" },
+      { "en": "Education reduces poverty.", "bn": "শিক্ষা দারিদ্র্য কমায়।" },
+      { "en": "She overcame poverty.", "bn": "সে দারিদ্র্য অতিক্রম করেছে।" },
+      { "en": "Poverty leads to hunger.", "bn": "দারিদ্র্য ক্ষুধার কারণ হয়।" },
+      { "en": "Government reduces poverty.", "bn": "সরকার দারিদ্র্য কমায়।" },
+      { "en": "They study poverty.", "bn": "তারা দারিদ্র্য নিয়ে গবেষণা করে।" }
+    ],
+    "synonyms": ["destitution", "hardship", "neediness", "deprivation"]
+  },
+  {
+    "base": "precaution",
+    "phonetic": "prɪˈkɔːʃn",
+    "meaning": "সতর্কতা",
+    "examples": [
+      { "en": "Take precaution.", "bn": "সতর্কতা নাও।" },
+      { "en": "He took precautions.", "bn": "সে সতর্কতা নিয়েছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Safety precautions matter.",
+        "bn": "নিরাপত্তা সতর্কতা গুরুত্বপূর্ণ।"
+      },
+      { "en": "She took precaution.", "bn": "সে সতর্কতা নিয়েছে।" },
+      {
+        "en": "Precaution prevents accidents.",
+        "bn": "সতর্কতা দুর্ঘটনা রোধ করে।"
+      },
+      { "en": "He ignored precaution.", "bn": "সে সতর্কতা উপেক্ষা করেছে।" },
+      {
+        "en": "They followed precautions.",
+        "bn": "তারা সতর্কতা অনুসরণ করেছে।"
+      },
+      { "en": "Precaution is necessary.", "bn": "সতর্কতা প্রয়োজনীয়।" },
+      { "en": "We must take precaution.", "bn": "আমাদের সতর্কতা নিতে হবে।" },
+      { "en": "Precaution saves lives.", "bn": "সতর্কতা জীবন বাঁচায়।" },
+      { "en": "She advised precaution.", "bn": "সে সতর্কতা পরামর্শ দিয়েছে।" },
+      { "en": "He acted with precaution.", "bn": "সে সতর্কতার সাথে কাজ করেছে।" }
+    ],
+    "synonyms": ["care", "caution", "safeguard", "prevention"]
+  },
+  {
+    "base": "predict",
+    "phonetic": "prɪˈdɪkt",
+    "meaning": "ভবিষ্যদ্বাণী করা",
+    "examples": [
+      {
+        "en": "Experts predict rain.",
+        "bn": "বিশেষজ্ঞরা বৃষ্টির পূর্বাভাস দেয়।"
+      },
+      { "en": "He predicted success.", "bn": "সে সাফল্যের ভবিষ্যদ্বাণী করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "They predict growth.", "bn": "তারা বৃদ্ধির পূর্বাভাস দেয়।" },
+      { "en": "She predicted outcome.", "bn": "সে ফলাফল অনুমান করেছে।" },
+      {
+        "en": "We cannot predict future.",
+        "bn": "আমরা ভবিষ্যৎ অনুমান করতে পারি না।"
+      },
+      {
+        "en": "Weather predicts rain.",
+        "bn": "আবহাওয়া বৃষ্টির পূর্বাভাস দেয়।"
+      },
+      { "en": "He predicts trends.", "bn": "সে প্রবণতা অনুমান করে।" },
+      { "en": "They predicted loss.", "bn": "তারা ক্ষতির পূর্বাভাস দিয়েছে।" },
+      { "en": "I predict change.", "bn": "আমি পরিবর্তনের পূর্বাভাস দিই।" },
+      { "en": "She predicts danger.", "bn": "সে বিপদের পূর্বাভাস দেয়।" },
+      { "en": "Data predicts behavior.", "bn": "ডেটা আচরণ অনুমান করে।" },
+      {
+        "en": "Experts predict rise.",
+        "bn": "বিশেষজ্ঞরা বৃদ্ধির পূর্বাভাস দেয়।"
+      }
+    ],
+    "synonyms": ["forecast", "anticipate", "expect", "prophesy"]
+  },
+  {
+    "base": "pressure",
+    "phonetic": "ˈpreʃə(r)",
+    "meaning": "চাপ",
+    "examples": [
+      { "en": "He feels pressure.", "bn": "সে চাপ অনুভব করে।" },
+      { "en": "Pressure increased.", "bn": "চাপ বেড়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "Work pressure is high.", "bn": "কাজের চাপ বেশি।" },
+      { "en": "She handled pressure.", "bn": "সে চাপ সামলেছে।" },
+      { "en": "Pressure affects health.", "bn": "চাপ স্বাস্থ্যে প্রভাব ফেলে।" },
+      { "en": "They reduce pressure.", "bn": "তারা চাপ কমায়।" },
+      { "en": "Pressure builds up.", "bn": "চাপ জমে যায়।" },
+      { "en": "He works under pressure.", "bn": "সে চাপের মধ্যে কাজ করে।" },
+      { "en": "Water pressure is strong.", "bn": "পানির চাপ শক্তিশালী।" },
+      { "en": "She resisted pressure.", "bn": "সে চাপ প্রতিরোধ করেছে।" },
+      { "en": "Pressure caused stress.", "bn": "চাপ মানসিক চাপ সৃষ্টি করেছে।" },
+      {
+        "en": "They feel social pressure.",
+        "bn": "তারা সামাজিক চাপ অনুভব করে।"
+      }
+    ],
+    "synonyms": ["stress", "force", "strain", "burden"]
+  },
+  {
+    "base": "prevent",
+    "phonetic": "prɪˈvent",
+    "meaning": "প্রতিরোধ করা",
+    "examples": [
+      { "en": "Vaccines prevent disease.", "bn": "টিকা রোগ প্রতিরোধ করে।" },
+      {
+        "en": "We must prevent accidents.",
+        "bn": "আমাদের দুর্ঘটনা প্রতিরোধ করতে হবে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "They prevent crime.", "bn": "তারা অপরাধ প্রতিরোধ করে।" },
+      { "en": "She prevented injury.", "bn": "সে আঘাত প্রতিরোধ করেছে।" },
+      {
+        "en": "Good habits prevent illness.",
+        "bn": "ভালো অভ্যাস অসুস্থতা প্রতিরোধ করে।"
+      },
+      { "en": "He prevented loss.", "bn": "সে ক্ষতি প্রতিরোধ করেছে।" },
+      { "en": "They prevent damage.", "bn": "তারা ক্ষতি প্রতিরোধ করে।" },
+      { "en": "Rules prevent chaos.", "bn": "নিয়ম বিশৃঙ্খলা প্রতিরোধ করে।" },
+      { "en": "She prevented failure.", "bn": "সে ব্যর্থতা প্রতিরোধ করেছে।" },
+      { "en": "Masks prevent infection.", "bn": "মাস্ক সংক্রমণ প্রতিরোধ করে।" },
+      {
+        "en": "They try to prevent danger.",
+        "bn": "তারা বিপদ প্রতিরোধ করার চেষ্টা করে।"
+      },
+      {
+        "en": "Education prevents ignorance.",
+        "bn": "শিক্ষা অজ্ঞতা প্রতিরোধ করে।"
+      }
+    ],
+    "synonyms": ["stop", "avoid", "block", "hinder"]
+  },
+  {
+    "base": "principle",
+    "phonetic": "ˈprɪnsəpl",
+    "meaning": "মূলনীতি",
+    "examples": [
+      { "en": "He follows principles.", "bn": "সে নীতি অনুসরণ করে।" },
+      { "en": "This is a moral principle.", "bn": "এটি একটি নৈতিক মূলনীতি।" }
+    ],
+    "moreexample": [
+      { "en": "Principles guide life.", "bn": "মূলনীতি জীবনকে পরিচালনা করে।" },
+      { "en": "She broke principles.", "bn": "সে নীতি ভেঙেছে।" },
+      { "en": "He stands on principles.", "bn": "সে নীতির উপর দাঁড়ায়।" },
+      { "en": "Good principles matter.", "bn": "ভালো মূলনীতি গুরুত্বপূর্ণ।" },
+      { "en": "They share principles.", "bn": "তারা নীতি ভাগ করে।" },
+      { "en": "Principles remain strong.", "bn": "মূলনীতি শক্তিশালী থাকে।" },
+      { "en": "He explained principles.", "bn": "সে মূলনীতি ব্যাখ্যা করেছে।" },
+      { "en": "She respects principles.", "bn": "সে নীতিকে সম্মান করে।" },
+      { "en": "Principles shape behavior.", "bn": "মূলনীতি আচরণ গঠন করে।" },
+      { "en": "They live by principles.", "bn": "তারা নীতির উপর চলে।" }
+    ],
+    "synonyms": ["rule", "value", "ethic", "standard"]
+  },
+
+  {
+    "base": "procedure",
+    "phonetic": "prəˈsiːdʒə(r)",
+    "meaning": "প্রক্রিয়া / পদ্ধতি",
+    "examples": [
+      { "en": "Follow the procedure.", "bn": "পদ্ধতি অনুসরণ করো।" },
+      { "en": "The procedure is simple.", "bn": "প্রক্রিয়াটি সহজ।" }
+    ],
+    "moreexample": [
+      { "en": "Medical procedures are strict.", "bn": "চিকিৎসা পদ্ধতি কঠোর।" },
+      {
+        "en": "They changed the procedure.",
+        "bn": "তারা পদ্ধতি পরিবর্তন করেছে।"
+      },
+      {
+        "en": "This procedure takes time.",
+        "bn": "এই প্রক্রিয়াটি সময় নেয়।"
+      },
+      {
+        "en": "He explained the procedure.",
+        "bn": "সে পদ্ধতি ব্যাখ্যা করেছে।"
+      },
+      {
+        "en": "Safety procedure is important.",
+        "bn": "নিরাপত্তা পদ্ধতি গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "We improved the procedure.",
+        "bn": "আমরা প্রক্রিয়া উন্নত করেছি।"
+      },
+      { "en": "The procedure failed.", "bn": "প্রক্রিয়াটি ব্যর্থ হয়েছে।" },
+      {
+        "en": "They followed legal procedure.",
+        "bn": "তারা আইনি পদ্ধতি অনুসরণ করেছে।"
+      },
+      {
+        "en": "Each procedure is documented.",
+        "bn": "প্রতিটি প্রক্রিয়া নথিভুক্ত করা হয়।"
+      },
+      { "en": "Procedure must be clear.", "bn": "পদ্ধতি স্পষ্ট হতে হবে।" }
+    ],
+    "synonyms": ["process", "method", "system", "technique"]
+  },
+  {
+    "base": "production",
+    "phonetic": "prəˈdʌkʃn",
+    "meaning": "উৎপাদন",
+    "examples": [
+      { "en": "Production increased.", "bn": "উৎপাদন বেড়েছে।" },
+      { "en": "Factory production is high.", "bn": "কারখানার উৎপাদন বেশি।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Food production is essential.",
+        "bn": "খাদ্য উৎপাদন গুরুত্বপূর্ণ।"
+      },
+      { "en": "They improved production.", "bn": "তারা উৎপাদন উন্নত করেছে।" },
+      { "en": "Production costs are high.", "bn": "উৎপাদন খরচ বেশি।" },
+      { "en": "Oil production decreased.", "bn": "তেল উৎপাদন কমেছে।" },
+      { "en": "We manage production.", "bn": "আমরা উৎপাদন পরিচালনা করি।" },
+      { "en": "Production stopped.", "bn": "উৎপাদন বন্ধ হয়েছে।" },
+      { "en": "They expanded production.", "bn": "তারা উৎপাদন বাড়িয়েছে।" },
+      { "en": "Production line is active.", "bn": "উৎপাদন লাইন চালু আছে।" },
+      {
+        "en": "Quality affects production.",
+        "bn": "গুণমান উৎপাদনকে প্রভাবিত করে।"
+      },
+      { "en": "Production is automated.", "bn": "উৎপাদন স্বয়ংক্রিয়।" }
+    ],
+    "synonyms": ["manufacturing", "output", "creation", "fabrication"]
+  },
+  {
+    "base": "progress",
+    "phonetic": "ˈprəʊɡres",
+    "meaning": "অগ্রগতি",
+    "examples": [
+      { "en": "He made progress.", "bn": "সে অগ্রগতি করেছে।" },
+      { "en": "Progress is slow.", "bn": "অগ্রগতি ধীর।" }
+    ],
+    "moreexample": [
+      { "en": "They track progress.", "bn": "তারা অগ্রগতি পর্যবেক্ষণ করে।" },
+      { "en": "She shows progress.", "bn": "সে অগ্রগতি দেখায়।" },
+      { "en": "Progress continues.", "bn": "অগ্রগতি চলতে থাকে।" },
+      { "en": "We need more progress.", "bn": "আমাদের আরও অগ্রগতি দরকার।" },
+      {
+        "en": "Technology drives progress.",
+        "bn": "প্রযুক্তি অগ্রগতিকে চালিত করে।"
+      },
+      { "en": "No progress was made.", "bn": "কোনো অগ্রগতি হয়নি।" },
+      {
+        "en": "Progress depends on effort.",
+        "bn": "অগ্রগতি প্রচেষ্টার উপর নির্ভর করে।"
+      },
+      { "en": "He measured progress.", "bn": "সে অগ্রগতি মেপেছে।" },
+      {
+        "en": "Social progress is important.",
+        "bn": "সামাজিক অগ্রগতি গুরুত্বপূর্ণ।"
+      },
+      { "en": "They celebrate progress.", "bn": "তারা অগ্রগতি উদযাপন করে।" }
+    ],
+    "synonyms": ["development", "advance", "growth", "improvement"]
+  },
+  {
+    "base": "prosperity",
+    "phonetic": "prɒˈsperɪti",
+    "meaning": "সমৃদ্ধি",
+    "examples": [
+      { "en": "Prosperity brings happiness.", "bn": "সমৃদ্ধি সুখ আনে।" },
+      { "en": "The country has prosperity.", "bn": "দেশটি সমৃদ্ধ।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Economic prosperity is rising.",
+        "bn": "অর্থনৈতিক সমৃদ্ধি বাড়ছে।"
+      },
+      { "en": "They achieved prosperity.", "bn": "তারা সমৃদ্ধি অর্জন করেছে।" },
+      {
+        "en": "Prosperity depends on growth.",
+        "bn": "সমৃদ্ধি বৃদ্ধির উপর নির্ভর করে।"
+      },
+      { "en": "She wishes prosperity.", "bn": "সে সমৃদ্ধি কামনা করে।" },
+      { "en": "Peace leads to prosperity.", "bn": "শান্তি সমৃদ্ধি আনে।" },
+      { "en": "Prosperity is not equal.", "bn": "সমৃদ্ধি সমান নয়।" },
+      {
+        "en": "Hard work brings prosperity.",
+        "bn": "কঠোর পরিশ্রম সমৃদ্ধি আনে।"
+      },
+      { "en": "They enjoy prosperity.", "bn": "তারা সমৃদ্ধি উপভোগ করে।" },
+      { "en": "Prosperity increased.", "bn": "সমৃদ্ধি বেড়েছে।" },
+      {
+        "en": "Education supports prosperity.",
+        "bn": "শিক্ষা সমৃদ্ধিকে সহায়তা করে।"
+      }
+    ],
+    "synonyms": ["wealth", "success", "affluence", "flourishing"]
+  },
+  {
+    "base": "psychology",
+    "phonetic": "saɪˈkɒlədʒi",
+    "meaning": "মনোবিজ্ঞান",
+    "examples": [
+      { "en": "He studies psychology.", "bn": "সে মনোবিজ্ঞান পড়ে।" },
+      { "en": "Psychology is complex.", "bn": "মনোবিজ্ঞান জটিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Psychology explains behavior.",
+        "bn": "মনোবিজ্ঞান আচরণ ব্যাখ্যা করে।"
+      },
+      { "en": "She teaches psychology.", "bn": "সে মনোবিজ্ঞান পড়ায়।" },
+      {
+        "en": "Psychology helps understanding mind.",
+        "bn": "মনোবিজ্ঞান মন বোঝাতে সাহায্য করে।"
+      },
+      {
+        "en": "Modern psychology is advanced.",
+        "bn": "আধুনিক মনোবিজ্ঞান উন্নত।"
+      },
+      {
+        "en": "They research psychology.",
+        "bn": "তারা মনোবিজ্ঞান গবেষণা করে।"
+      },
+      {
+        "en": "Psychology affects decisions.",
+        "bn": "মনোবিজ্ঞান সিদ্ধান্তকে প্রভাবিত করে।"
+      },
+      {
+        "en": "Child psychology is important.",
+        "bn": "শিশু মনোবিজ্ঞান গুরুত্বপূর্ণ।"
+      },
+      { "en": "He reads psychology books.", "bn": "সে মনোবিজ্ঞানের বই পড়ে।" },
+      {
+        "en": "Psychology studies emotions.",
+        "bn": "মনোবিজ্ঞান আবেগ অধ্যয়ন করে।"
+      },
+      {
+        "en": "It is a branch of psychology.",
+        "bn": "এটি মনোবিজ্ঞানের একটি শাখা।"
+      }
+    ],
+    "synonyms": ["mind science", "behavior study"]
+  },
+  {
+    "base": "publication",
+    "phonetic": "ˌpʌblɪˈkeɪʃn",
+    "meaning": "প্রকাশনা",
+    "examples": [
+      {
+        "en": "The publication was delayed.",
+        "bn": "প্রকাশনা বিলম্বিত হয়েছে।"
+      },
+      { "en": "He works in publication.", "bn": "সে প্রকাশনা কাজে কাজ করে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Scientific publication is important.",
+        "bn": "বৈজ্ঞানিক প্রকাশনা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "They released a publication.",
+        "bn": "তারা একটি প্রকাশনা প্রকাশ করেছে।"
+      },
+      {
+        "en": "Publication date is fixed.",
+        "bn": "প্রকাশনার তারিখ নির্ধারিত।"
+      },
+      { "en": "She manages publication.", "bn": "সে প্রকাশনা পরিচালনা করে।" },
+      {
+        "en": "Online publication is common.",
+        "bn": "অনলাইন প্রকাশনা সাধারণ।"
+      },
+      {
+        "en": "Publication improved knowledge.",
+        "bn": "প্রকাশনা জ্ঞান বাড়িয়েছে।"
+      },
+      { "en": "They stopped publication.", "bn": "তারা প্রকাশনা বন্ধ করেছে।" },
+      {
+        "en": "Journal publication is peer-reviewed.",
+        "bn": "জার্নাল প্রকাশনা পিয়ার-রিভিউড।"
+      },
+      { "en": "He edited publication.", "bn": "সে প্রকাশনা সম্পাদনা করেছে।" },
+      {
+        "en": "Publication reached readers.",
+        "bn": "প্রকাশনা পাঠকের কাছে পৌঁছেছে।"
+      }
+    ],
+    "synonyms": ["release", "printing", "issue", "journal"]
+  },
+
+  {
+    "base": "participate",
+    "phonetic": "pɑːˈtɪsɪpeɪt",
+    "meaning": "অংশগ্রহণ করা",
+    "examples": [
+      {
+        "en": "I will participate in the event.",
+        "bn": "আমি অনুষ্ঠানে অংশগ্রহণ করব।"
+      },
+      {
+        "en": "She participated actively.",
+        "bn": "সে সক্রিয়ভাবে অংশগ্রহণ করেছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Students participate in class.",
+        "bn": "শিক্ষার্থীরা ক্লাসে অংশগ্রহণ করে।"
+      },
+      {
+        "en": "He participated in the competition.",
+        "bn": "সে প্রতিযোগিতায় অংশ নিয়েছে।"
+      },
+      {
+        "en": "They participate in meetings.",
+        "bn": "তারা মিটিংয়ে অংশগ্রহণ করে।"
+      },
+      { "en": "We participate together.", "bn": "আমরা একসাথে অংশ নিই।" },
+      { "en": "She did not participate.", "bn": "সে অংশগ্রহণ করেনি।" },
+      { "en": "Everyone should participate.", "bn": "সবার অংশগ্রহণ করা উচিত।" },
+      { "en": "He participates daily.", "bn": "সে প্রতিদিন অংশ নেয়।" },
+      { "en": "They participated well.", "bn": "তারা ভালোভাবে অংশ নিয়েছে।" },
+      { "en": "Participation is required.", "bn": "অংশগ্রহণ প্রয়োজনীয়।" },
+      { "en": "We participate in sports.", "bn": "আমরা খেলায় অংশ নিই।" }
+    ],
+    "synonyms": ["join", "take part", "engage", "contribute"]
+  },
+  {
+    "base": "particular",
+    "phonetic": "pəˈtɪkjʊlə(r)",
+    "meaning": "নির্দিষ্ট / বিশেষ",
+    "examples": [
+      {
+        "en": "I have no particular reason.",
+        "bn": "আমার কোনো নির্দিষ্ট কারণ নেই।"
+      },
+      { "en": "She is very particular.", "bn": "সে খুব খুঁতখুঁতে।" }
+    ],
+    "moreexample": [
+      { "en": "This is a particular case.", "bn": "এটি একটি নির্দিষ্ট ঘটনা।" },
+      {
+        "en": "He is particular about food.",
+        "bn": "সে খাবার নিয়ে খুঁতখুঁতে।"
+      },
+      {
+        "en": "She likes particular items.",
+        "bn": "সে নির্দিষ্ট জিনিস পছন্দ করে।"
+      },
+      { "en": "In this particular moment.", "bn": "এই নির্দিষ্ট মুহূর্তে।" },
+      {
+        "en": "No particular issue found.",
+        "bn": "কোনো নির্দিষ্ট সমস্যা পাওয়া যায়নি।"
+      },
+      { "en": "He has particular taste.", "bn": "তার নির্দিষ্ট রুচি আছে।" },
+      { "en": "This case is particular.", "bn": "এই ঘটনা বিশেষ।" },
+      {
+        "en": "She is particular about details.",
+        "bn": "সে বিস্তারিত নিয়ে খুঁতখুঁতে।"
+      },
+      {
+        "en": "We discussed a particular topic.",
+        "bn": "আমরা একটি নির্দিষ্ট বিষয় আলোচনা করেছি।"
+      },
+      {
+        "en": "He avoided particular errors.",
+        "bn": "সে নির্দিষ্ট ভুল এড়িয়েছে।"
+      }
+    ],
+    "synonyms": ["specific", "certain", "distinct", "special"]
+  },
+  {
+    "base": "passenger",
+    "phonetic": "ˈpæsɪndʒə(r)",
+    "meaning": "যাত্রী",
+    "examples": [
+      { "en": "The passenger was safe.", "bn": "যাত্রীটি নিরাপদ ছিল।" },
+      { "en": "Passengers boarded the bus.", "bn": "যাত্রীরা বাসে উঠেছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Each passenger has a seat.",
+        "bn": "প্রতিটি যাত্রীর একটি আসন আছে।"
+      },
+      { "en": "The passenger waited.", "bn": "যাত্রীটি অপেক্ষা করেছে।" },
+      { "en": "Passengers are checked.", "bn": "যাত্রীদের পরীক্ষা করা হয়।" },
+      { "en": "He is a train passenger.", "bn": "সে একজন ট্রেন যাত্রী।" },
+      { "en": "Air passengers arrived.", "bn": "বিমান যাত্রীরা পৌঁছেছে।" },
+      { "en": "The passenger smiled.", "bn": "যাত্রীটি হাসলো।" },
+      { "en": "Passengers left early.", "bn": "যাত্রীরা আগে চলে গেছে।" },
+      {
+        "en": "Safety for passengers matters.",
+        "bn": "যাত্রীদের নিরাপত্তা গুরুত্বপূর্ণ।"
+      },
+      { "en": "She is a frequent passenger.", "bn": "সে নিয়মিত যাত্রী।" },
+      {
+        "en": "Passengers felt comfortable.",
+        "bn": "যাত্রীরা স্বাচ্ছন্দ্য অনুভব করেছে।"
+      }
+    ],
+    "synonyms": ["traveler", "commuter", "rider", "guest"]
+  },
+  {
+    "base": "perform",
+    "phonetic": "pəˈfɔːm",
+    "meaning": "সম্পাদন করা / পরিবেশন করা",
+    "examples": [
+      { "en": "He performs well.", "bn": "সে ভালোভাবে কাজ করে।" },
+      { "en": "She performed on stage.", "bn": "সে মঞ্চে পরিবেশন করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "They perform tasks.", "bn": "তারা কাজ সম্পাদন করে।" },
+      { "en": "He performed surgery.", "bn": "সে অস্ত্রোপচার করেছে।" },
+      { "en": "She performs daily.", "bn": "সে প্রতিদিন কাজ করে।" },
+      { "en": "Actors perform plays.", "bn": "অভিনেতারা নাটক পরিবেশন করে।" },
+      { "en": "He performed badly.", "bn": "সে খারাপভাবে করেছে।" },
+      { "en": "Machines perform tasks.", "bn": "মেশিন কাজ সম্পাদন করে।" },
+      {
+        "en": "She performed beautifully.",
+        "bn": "সে সুন্দরভাবে পরিবেশন করেছে।"
+      },
+      { "en": "We perform experiments.", "bn": "আমরা পরীক্ষা করি।" },
+      { "en": "He performs duties.", "bn": "সে দায়িত্ব পালন করে।" },
+      { "en": "They perform together.", "bn": "তারা একসাথে পরিবেশন করে।" }
+    ],
+    "synonyms": ["execute", "carry out", "act", "deliver"]
+  },
+  {
+    "base": "persuade",
+    "phonetic": "pəˈsweɪd",
+    "meaning": "প্ররোচিত করা / রাজি করানো",
+    "examples": [
+      { "en": "He persuaded her.", "bn": "সে তাকে রাজি করিয়েছে।" },
+      { "en": "She was persuaded easily.", "bn": "সে সহজেই রাজি হয়েছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They persuaded him to stay.",
+        "bn": "তারা তাকে থাকতে রাজি করিয়েছে।"
+      },
+      {
+        "en": "She persuaded her friend.",
+        "bn": "সে তার বন্ধুকে রাজি করিয়েছে।"
+      },
+      {
+        "en": "He tried to persuade me.",
+        "bn": "সে আমাকে রাজি করানোর চেষ্টা করেছে।"
+      },
+      { "en": "They persuaded the crowd.", "bn": "তারা ভিড়কে রাজি করিয়েছে।" },
+      {
+        "en": "She couldn’t persuade him.",
+        "bn": "সে তাকে রাজি করাতে পারেনি।"
+      },
+      {
+        "en": "He persuaded them quickly.",
+        "bn": "সে দ্রুত তাদের রাজি করিয়েছে।"
+      },
+      {
+        "en": "We persuaded the teacher.",
+        "bn": "আমরা শিক্ষককে রাজি করিয়েছি।"
+      },
+      {
+        "en": "She persuaded with words.",
+        "bn": "সে কথার মাধ্যমে রাজি করিয়েছে।"
+      },
+      {
+        "en": "They persuaded investors.",
+        "bn": "তারা বিনিয়োগকারীদের রাজি করিয়েছে।"
+      },
+      { "en": "He was hard to persuade.", "bn": "তাকে রাজি করানো কঠিন ছিল।" }
+    ],
+    "synonyms": ["convince", "influence", "coax", "urge"]
+  },
+
+  {
+    "base": "phenomenon",
+    "phonetic": "fəˈnɒmɪnən",
+    "meaning": "ঘটনা / প্রাকৃতিক বা সামাজিক ঘটনা",
+    "examples": [
+      {
+        "en": "Rain is a natural phenomenon.",
+        "bn": "বৃষ্টি একটি প্রাকৃতিক ঘটনা।"
+      },
+      { "en": "This is a global phenomenon.", "bn": "এটি একটি বৈশ্বিক ঘটনা।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The phenomenon surprised scientists.",
+        "bn": "ঘটনাটি বিজ্ঞানীদের অবাক করেছে।"
+      },
+      {
+        "en": "Social media is a modern phenomenon.",
+        "bn": "সোশ্যাল মিডিয়া একটি আধুনিক ঘটনা।"
+      },
+      {
+        "en": "They studied the phenomenon.",
+        "bn": "তারা ঘটনাটি অধ্যয়ন করেছে।"
+      },
+      { "en": "It is a rare phenomenon.", "bn": "এটি একটি বিরল ঘটনা।" },
+      { "en": "The phenomenon occurs yearly.", "bn": "ঘটনাটি প্রতি বছর ঘটে।" },
+      {
+        "en": "Scientists explained the phenomenon.",
+        "bn": "বিজ্ঞানীরা ঘটনাটি ব্যাখ্যা করেছে।"
+      },
+      { "en": "The phenomenon is complex.", "bn": "ঘটনাটি জটিল।" },
+      {
+        "en": "He observed the phenomenon.",
+        "bn": "সে ঘটনাটি পর্যবেক্ষণ করেছে।"
+      },
+      {
+        "en": "Economic growth is a phenomenon.",
+        "bn": "অর্থনৈতিক বৃদ্ধি একটি ঘটনা।"
+      },
+      {
+        "en": "We cannot ignore the phenomenon.",
+        "bn": "আমরা ঘটনাটি উপেক্ষা করতে পারি না।"
+      }
+    ],
+    "synonyms": ["event", "occurrence", "incident", "happening"]
+  },
+  {
+    "base": "philosophy",
+    "phonetic": "fɪˈlɒsəfi",
+    "meaning": "দর্শন",
+    "examples": [
+      { "en": "He studies philosophy.", "bn": "সে দর্শন পড়ে।" },
+      {
+        "en": "Life philosophy is important.",
+        "bn": "জীবনের দর্শন গুরুত্বপূর্ণ।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Philosophy asks deep questions.",
+        "bn": "দর্শন গভীর প্রশ্ন করে।"
+      },
+      { "en": "She teaches philosophy.", "bn": "সে দর্শন পড়ায়।" },
+      { "en": "Ancient philosophy is rich.", "bn": "প্রাচীন দর্শন সমৃদ্ধ।" },
+      { "en": "He follows a philosophy.", "bn": "সে একটি দর্শন অনুসরণ করে।" },
+      { "en": "Philosophy shapes thinking.", "bn": "দর্শন চিন্তাকে গঠন করে।" },
+      { "en": "They debate philosophy.", "bn": "তারা দর্শন নিয়ে বিতর্ক করে।" },
+      { "en": "Modern philosophy is complex.", "bn": "আধুনিক দর্শন জটিল।" },
+      { "en": "His philosophy is simple.", "bn": "তার দর্শন সহজ।" },
+      {
+        "en": "Philosophy influences life.",
+        "bn": "দর্শন জীবনকে প্রভাবিত করে।"
+      },
+      { "en": "We learn philosophy.", "bn": "আমরা দর্শন শিখি।" }
+    ],
+    "synonyms": ["belief system", "ideology", "thinking", "doctrine"]
+  },
+  {
+    "base": "physical",
+    "phonetic": "ˈfɪzɪkl",
+    "meaning": "শারীরিক",
+    "examples": [
+      {
+        "en": "Physical health is important.",
+        "bn": "শারীরিক স্বাস্থ্য গুরুত্বপূর্ণ।"
+      },
+      { "en": "He is physically strong.", "bn": "সে শারীরিকভাবে শক্তিশালী।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Physical activity helps health.",
+        "bn": "শারীরিক কার্যকলাপ স্বাস্থ্যে সাহায্য করে।"
+      },
+      { "en": "She has physical strength.", "bn": "তার শারীরিক শক্তি আছে।" },
+      { "en": "Physical work is hard.", "bn": "শারীরিক কাজ কঠিন।" },
+      { "en": "He faced physical pain.", "bn": "সে শারীরিক ব্যথা সহ্য করেছে।" },
+      {
+        "en": "Physical education is important.",
+        "bn": "শারীরিক শিক্ষা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "They improve physical fitness.",
+        "bn": "তারা শারীরিক ফিটনেস উন্নত করে।"
+      },
+      { "en": "Physical damage occurred.", "bn": "শারীরিক ক্ষতি হয়েছে।" },
+      {
+        "en": "She recovered physically.",
+        "bn": "সে শারীরিকভাবে সুস্থ হয়েছে।"
+      },
+      {
+        "en": "Physical condition matters.",
+        "bn": "শারীরিক অবস্থা গুরুত্বপূর্ণ।"
+      },
+      { "en": "He avoids physical stress.", "bn": "সে শারীরিক চাপ এড়ায়।" }
+    ],
+    "synonyms": ["bodily", "material", "corporeal"]
+  },
+  {
+    "base": "plural",
+    "phonetic": "ˈplʊərəl",
+    "meaning": "বহুবচন",
+    "examples": [
+      { "en": "These words are plural.", "bn": "এই শব্দগুলো বহুবচন।" },
+      { "en": "Plural form is important.", "bn": "বহুবচন রূপ গুরুত্বপূর্ণ।" }
+    ],
+    "moreexample": [
+      { "en": "Plural nouns are common.", "bn": "বহুবচন নাম সাধারণ।" },
+      {
+        "en": "He used plural correctly.",
+        "bn": "সে সঠিকভাবে বহুবচন ব্যবহার করেছে।"
+      },
+      {
+        "en": "English has plural rules.",
+        "bn": "ইংরেজিতে বহুবচনের নিয়ম আছে।"
+      },
+      { "en": "She wrote plural forms.", "bn": "সে বহুবচন রূপ লিখেছে।" },
+      { "en": "Plural changes meaning.", "bn": "বহুবচন অর্থ পরিবর্তন করে।" },
+      { "en": "They learned plural nouns.", "bn": "তারা বহুবচন নাম শিখেছে।" },
+      { "en": "Plural is easy.", "bn": "বহুবচন সহজ।" },
+      {
+        "en": "He corrected plural mistakes.",
+        "bn": "সে বহুবচনের ভুল সংশোধন করেছে।"
+      },
+      { "en": "Plural words vary.", "bn": "বহুবচন শব্দ ভিন্ন হয়।" },
+      { "en": "We practice plural forms.", "bn": "আমরা বহুবচন অনুশীলন করি।" }
+    ],
+    "synonyms": ["multiple form", "more than one"]
+  },
+  {
+    "base": "portion",
+    "phonetic": "ˈpɔːʃn",
+    "meaning": "অংশ",
+    "examples": [
+      { "en": "Eat a small portion.", "bn": "একটি ছোট অংশ খাও।" },
+      { "en": "A portion of land.", "bn": "জমির একটি অংশ।" }
+    ],
+    "moreexample": [
+      { "en": "He received his portion.", "bn": "সে তার অংশ পেয়েছে।" },
+      { "en": "A large portion is missing.", "bn": "একটি বড় অংশ অনুপস্থিত।" },
+      { "en": "She divided the portion.", "bn": "সে অংশ ভাগ করেছে।" },
+      { "en": "Portion size matters.", "bn": "অংশের আকার গুরুত্বপূর্ণ।" },
+      { "en": "He ate half portion.", "bn": "সে অর্ধেক অংশ খেয়েছে।" },
+      { "en": "Portion of food is enough.", "bn": "খাবারের অংশ যথেষ্ট।" },
+      {
+        "en": "They claimed their portion.",
+        "bn": "তারা তাদের অংশ দাবি করেছে।"
+      },
+      { "en": "A portion was damaged.", "bn": "একটি অংশ ক্ষতিগ্রস্ত হয়েছে।" },
+      { "en": "She saved a portion.", "bn": "সে একটি অংশ সংরক্ষণ করেছে।" },
+      { "en": "Each gets a portion.", "bn": "প্রত্যেকে একটি অংশ পায়।" }
+    ],
+    "synonyms": ["part", "section", "segment", "share"]
+  },
+  {
+    "base": "portray",
+    "phonetic": "pɔːˈtreɪ",
+    "meaning": "চিত্রিত করা",
+    "examples": [
+      { "en": "He portrays a hero.", "bn": "সে একজন নায়ককে চিত্রিত করে।" },
+      {
+        "en": "The film portrays reality.",
+        "bn": "ছবিটি বাস্তবতা চিত্রিত করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She portrayed a teacher.",
+        "bn": "সে একজন শিক্ষককে চিত্রিত করেছে।"
+      },
+      { "en": "They portray emotions.", "bn": "তারা আবেগ চিত্রিত করে।" },
+      { "en": "The story portrays life.", "bn": "গল্পটি জীবন চিত্রিত করে।" },
+      { "en": "He portrayed sadness.", "bn": "সে দুঃখ চিত্রিত করেছে।" },
+      { "en": "Movies portray society.", "bn": "ছবিগুলো সমাজ চিত্রিত করে।" },
+      { "en": "She portrayed courage.", "bn": "সে সাহস চিত্রিত করেছে।" },
+      { "en": "The book portrays history.", "bn": "বইটি ইতিহাস চিত্রিত করে।" },
+      { "en": "Actors portray roles.", "bn": "অভিনেতারা চরিত্র চিত্রিত করে।" },
+      {
+        "en": "He portrayed a villain.",
+        "bn": "সে একজন খলনায়ক চিত্রিত করেছে।"
+      },
+      { "en": "Art portrays feelings.", "bn": "শিল্প অনুভূতি চিত্রিত করে।" }
+    ],
+    "synonyms": ["depict", "represent", "illustrate", "describe"]
+  },
+  {
+    "base": "proportion",
+    "phonetic": "prəˈpɔːʃn",
+    "meaning": "অনুপাত",
+    "examples": [
+      { "en": "The proportion is correct.", "bn": "অনুপাত সঠিক।" },
+      { "en": "It is in equal proportion.", "bn": "এটি সমান অনুপাতে।" }
+    ],
+    "moreexample": [
+      { "en": "The proportion of boys is high.", "bn": "ছেলেদের অনুপাত বেশি।" },
+      { "en": "She calculated proportion.", "bn": "সে অনুপাত হিসাব করেছে।" },
+      {
+        "en": "Food proportion matters.",
+        "bn": "খাবারের অনুপাত গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "They maintained proportion.",
+        "bn": "তারা অনুপাত বজায় রেখেছে।"
+      },
+      { "en": "The design has proportion.", "bn": "ডিজাইনে অনুপাত আছে।" },
+      {
+        "en": "Incorrect proportion failed.",
+        "bn": "ভুল অনুপাত ব্যর্থ হয়েছে।"
+      },
+      { "en": "He adjusted proportion.", "bn": "সে অনুপাত সমন্বয় করেছে।" },
+      { "en": "Water proportion is fixed.", "bn": "পানির অনুপাত নির্ধারিত।" },
+      { "en": "They study proportion.", "bn": "তারা অনুপাত অধ্যয়ন করে।" },
+      { "en": "Proper proportion is needed.", "bn": "সঠিক অনুপাত দরকার।" }
+    ],
+    "synonyms": ["ratio", "balance", "relation", "scale"]
+  },
+  {
+    "base": "propose",
+    "phonetic": "prəˈpəʊz",
+    "meaning": "প্রস্তাব করা",
+    "examples": [
+      {
+        "en": "He proposed a plan.",
+        "bn": "সে একটি পরিকল্পনা প্রস্তাব করেছে।"
+      },
+      {
+        "en": "She was proposed to.",
+        "bn": "তাকে বিয়ের প্রস্তাব দেওয়া হয়েছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "They propose changes.", "bn": "তারা পরিবর্তন প্রস্তাব করে।" },
+      {
+        "en": "He proposed a solution.",
+        "bn": "সে একটি সমাধান প্রস্তাব করেছে।"
+      },
+      { "en": "She proposed marriage.", "bn": "সে বিয়ের প্রস্তাব দিয়েছে।" },
+      { "en": "We propose ideas.", "bn": "আমরা ধারণা প্রস্তাব করি।" },
+      { "en": "They proposed reform.", "bn": "তারা সংস্কার প্রস্তাব করেছে।" },
+      { "en": "He proposed quickly.", "bn": "সে দ্রুত প্রস্তাব করেছে।" },
+      { "en": "She proposed action.", "bn": "সে পদক্ষেপ প্রস্তাব করেছে।" },
+      { "en": "They propose laws.", "bn": "তারা আইন প্রস্তাব করে।" },
+      {
+        "en": "He proposed a project.",
+        "bn": "সে একটি প্রকল্প প্রস্তাব করেছে।"
+      },
+      { "en": "We propose collaboration.", "bn": "আমরা সহযোগিতা প্রস্তাব করি।" }
+    ],
+    "synonyms": ["suggest", "recommend", "offer", "put forward"]
+  },
+  {
+    "base": "psychological",
+    "phonetic": "ˌsaɪkəˈlɒdʒɪkl",
+    "meaning": "মানসিক",
+    "examples": [
+      {
+        "en": "He faced psychological stress.",
+        "bn": "সে মানসিক চাপের মুখোমুখি হয়েছে।"
+      },
+      {
+        "en": "Psychological effects are strong.",
+        "bn": "মানসিক প্রভাব শক্তিশালী।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Psychological health matters.",
+        "bn": "মানসিক স্বাস্থ্য গুরুত্বপূর্ণ।"
+      },
+      { "en": "She has psychological issues.", "bn": "তার মানসিক সমস্যা আছে।" },
+      {
+        "en": "Psychological support helps.",
+        "bn": "মানসিক সহায়তা সাহায্য করে।"
+      },
+      {
+        "en": "They studied psychological effects.",
+        "bn": "তারা মানসিক প্রভাব অধ্যয়ন করেছে।"
+      },
+      { "en": "Psychological pressure is real.", "bn": "মানসিক চাপ বাস্তব।" },
+      { "en": "He needs psychological care.", "bn": "তার মানসিক যত্ন দরকার।" },
+      { "en": "Psychological fear increased.", "bn": "মানসিক ভয় বেড়েছে।" },
+      {
+        "en": "She overcame psychological pain.",
+        "bn": "সে মানসিক ব্যথা অতিক্রম করেছে।"
+      },
+      { "en": "Psychological study is complex.", "bn": "মানসিক অধ্যয়ন জটিল।" },
+      {
+        "en": "They provide psychological help.",
+        "bn": "তারা মানসিক সাহায্য দেয়।"
+      }
+    ],
+    "synonyms": ["mental", "emotional", "cognitive", "behavioral"]
+  },
+
+  {
+    "base": "possess",
+    "phonetic": "pəˈzes",
+    "meaning": "অধিকার করা / থাকা",
+    "examples": [
+      { "en": "He possesses great talent.", "bn": "তার অসাধারণ প্রতিভা আছে।" },
+      { "en": "They possess a car.", "bn": "তাদের একটি গাড়ি আছে।" }
+    ],
+    "moreexample": [
+      { "en": "She possesses knowledge.", "bn": "তার জ্ঞান আছে।" },
+      { "en": "He possesses courage.", "bn": "তার সাহস আছে।" },
+      { "en": "They possess wealth.", "bn": "তাদের সম্পদ আছে।" },
+      { "en": "The house possesses value.", "bn": "বাড়িটির মূল্য আছে।" },
+      { "en": "He possesses skills.", "bn": "তার দক্ষতা আছে।" },
+      { "en": "She possesses confidence.", "bn": "তার আত্মবিশ্বাস আছে।" },
+      { "en": "They possess rights.", "bn": "তাদের অধিকার আছে।" },
+      { "en": "He possesses experience.", "bn": "তার অভিজ্ঞতা আছে।" },
+      { "en": "The artifact possesses history.", "bn": "বস্তুটির ইতিহাস আছে।" },
+      { "en": "She possesses charm.", "bn": "তার আকর্ষণ আছে।" }
+    ],
+    "synonyms": ["own", "have", "hold", "retain"]
+  },
+  {
+    "base": "possibility",
+    "phonetic": "ˌpɒsəˈbɪlɪti",
+    "meaning": "সম্ভাবনা",
+    "examples": [
+      {
+        "en": "There is a possibility of rain.",
+        "bn": "বৃষ্টির সম্ভাবনা আছে।"
+      },
+      { "en": "Anything is a possibility.", "bn": "যেকোনো কিছু সম্ভব।" }
+    ],
+    "moreexample": [
+      { "en": "The possibility is high.", "bn": "সম্ভাবনা বেশি।" },
+      {
+        "en": "We consider all possibilities.",
+        "bn": "আমরা সব সম্ভাবনা বিবেচনা করি।"
+      },
+      { "en": "There is no possibility.", "bn": "কোনো সম্ভাবনা নেই।" },
+      {
+        "en": "He explores possibilities.",
+        "bn": "সে সম্ভাবনা অনুসন্ধান করে।"
+      },
+      {
+        "en": "Possibility depends on effort.",
+        "bn": "সম্ভাবনা প্রচেষ্টার উপর নির্ভর করে।"
+      },
+      {
+        "en": "They discussed possibilities.",
+        "bn": "তারা সম্ভাবনা নিয়ে আলোচনা করেছে।"
+      },
+      {
+        "en": "Future possibilities are endless.",
+        "bn": "ভবিষ্যতের সম্ভাবনা অসীম।"
+      },
+      { "en": "She sees possibility.", "bn": "সে সম্ভাবনা দেখে।" },
+      { "en": "No possibility exists.", "bn": "কোনো সম্ভাবনা নেই।" },
+      { "en": "We increase possibility.", "bn": "আমরা সম্ভাবনা বাড়াই।" }
+    ],
+    "synonyms": ["chance", "likelihood", "potential", "option"]
+  },
+  {
+    "base": "prefer",
+    "phonetic": "prɪˈfɜː(r)",
+    "meaning": "পছন্দ করা",
+    "examples": [
+      { "en": "I prefer tea.", "bn": "আমি চা পছন্দ করি।" },
+      { "en": "She prefers reading.", "bn": "সে পড়া পছন্দ করে।" }
+    ],
+    "moreexample": [
+      { "en": "He prefers coffee.", "bn": "সে কফি পছন্দ করে।" },
+      { "en": "They prefer comfort.", "bn": "তারা আরাম পছন্দ করে।" },
+      { "en": "She prefers silence.", "bn": "সে নীরবতা পছন্দ করে।" },
+      { "en": "I prefer this option.", "bn": "আমি এই বিকল্পটি পছন্দ করি।" },
+      { "en": "We prefer simple life.", "bn": "আমরা সহজ জীবন পছন্দ করি।" },
+      { "en": "He prefers walking.", "bn": "সে হাঁটা পছন্দ করে।" },
+      {
+        "en": "They prefer online classes.",
+        "bn": "তারা অনলাইন ক্লাস পছন্দ করে।"
+      },
+      { "en": "She prefers honesty.", "bn": "সে সততা পছন্দ করে।" },
+      {
+        "en": "I prefer learning English.",
+        "bn": "আমি ইংরেজি শেখা পছন্দ করি।"
+      },
+      { "en": "We prefer teamwork.", "bn": "আমরা দলগত কাজ পছন্দ করি।" }
+    ],
+    "synonyms": ["like better", "favor", "choose", "opt for"]
+  },
+  {
+    "base": "predictable",
+    "phonetic": "prɪˈdɪktəbl",
+    "meaning": "পূর্বানুমেয় / অনুমেয়",
+    "examples": [
+      { "en": "The result is predictable.", "bn": "ফলাফল অনুমেয়।" },
+      { "en": "His behavior is predictable.", "bn": "তার আচরণ অনুমেয়।" }
+    ],
+    "moreexample": [
+      { "en": "The ending is predictable.", "bn": "শেষটি অনুমেয়।" },
+      { "en": "She is predictable.", "bn": "সে অনুমেয়।" },
+      { "en": "The story is predictable.", "bn": "গল্পটি অনুমেয়।" },
+      {
+        "en": "His reaction was predictable.",
+        "bn": "তার প্রতিক্রিয়া অনুমেয় ছিল।"
+      },
+      { "en": "The outcome is predictable.", "bn": "ফলাফল অনুমেয়।" },
+      { "en": "Life is not predictable.", "bn": "জীবন অনুমেয় নয়।" },
+      { "en": "The system is predictable.", "bn": "সিস্টেমটি অনুমেয়।" },
+      {
+        "en": "They are predictable players.",
+        "bn": "তারা অনুমেয় খেলোয়াড়।"
+      },
+      { "en": "Her answer was predictable.", "bn": "তার উত্তর অনুমেয় ছিল।" },
+      {
+        "en": "Patterns become predictable.",
+        "bn": "প্যাটার্ন অনুমেয় হয়ে যায়।"
+      }
+    ],
+    "synonyms": ["expected", "foreseeable", "certain", "obvious"]
+  },
+  {
+    "base": "preserve",
+    "phonetic": "prɪˈzɜːv",
+    "meaning": "সংরক্ষণ করা",
+    "examples": [
+      { "en": "We preserve nature.", "bn": "আমরা প্রকৃতি সংরক্ষণ করি।" },
+      { "en": "They preserved history.", "bn": "তারা ইতিহাস সংরক্ষণ করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "She preserves food.", "bn": "সে খাবার সংরক্ষণ করে।" },
+      { "en": "They preserve culture.", "bn": "তারা সংস্কৃতি সংরক্ষণ করে।" },
+      {
+        "en": "We must preserve energy.",
+        "bn": "আমাদের শক্তি সংরক্ষণ করতে হবে।"
+      },
+      { "en": "He preserved documents.", "bn": "সে নথি সংরক্ষণ করেছে।" },
+      { "en": "Forest must be preserved.", "bn": "বন সংরক্ষণ করা উচিত।" },
+      { "en": "They preserved memories.", "bn": "তারা স্মৃতি সংরক্ষণ করেছে।" },
+      { "en": "She preserved tradition.", "bn": "সে ঐতিহ্য সংরক্ষণ করেছে।" },
+      { "en": "We preserve resources.", "bn": "আমরা সম্পদ সংরক্ষণ করি।" },
+      { "en": "He preserved evidence.", "bn": "সে প্রমাণ সংরক্ষণ করেছে।" },
+      { "en": "Nature is preserved here.", "bn": "এখানে প্রকৃতি সংরক্ষিত।" }
+    ],
+    "synonyms": ["protect", "maintain", "conserve", "save"]
+  },
+  {
+    "base": "previous",
+    "phonetic": "ˈpriːviəs",
+    "meaning": "পূর্ববর্তী",
+    "examples": [
+      {
+        "en": "The previous day was busy.",
+        "bn": "পূর্ববর্তী দিনটি ব্যস্ত ছিল।"
+      },
+      { "en": "Refer to previous page.", "bn": "পূর্ববর্তী পাতায় দেখো।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Previous experience helps.",
+        "bn": "পূর্ববর্তী অভিজ্ঞতা সাহায্য করে।"
+      },
+      {
+        "en": "He met the previous owner.",
+        "bn": "সে পূর্ববর্তী মালিকের সাথে দেখা করেছে।"
+      },
+      {
+        "en": "The previous version failed.",
+        "bn": "পূর্ববর্তী সংস্করণ ব্যর্থ হয়েছে।"
+      },
+      {
+        "en": "She recalled previous events.",
+        "bn": "সে পূর্ববর্তী ঘটনা মনে করেছে।"
+      },
+      {
+        "en": "Previous results were better.",
+        "bn": "পূর্ববর্তী ফলাফল ভালো ছিল।"
+      },
+      {
+        "en": "We checked previous data.",
+        "bn": "আমরা পূর্ববর্তী ডেটা পরীক্ষা করেছি।"
+      },
+      {
+        "en": "He ignored previous warnings.",
+        "bn": "সে পূর্ববর্তী সতর্কতা উপেক্ষা করেছে।"
+      },
+      {
+        "en": "Previous chapter is important.",
+        "bn": "পূর্ববর্তী অধ্যায় গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "They improved from previous mistakes.",
+        "bn": "তারা পূর্ববর্তী ভুল থেকে উন্নতি করেছে।"
+      },
+      { "en": "Previous year was hard.", "bn": "পূর্ববর্তী বছর কঠিন ছিল।" }
+    ],
+    "synonyms": ["earlier", "former", "prior", "past"]
+  },
+  {
+    "base": "primary",
+    "phonetic": "ˈpraɪməri",
+    "meaning": "প্রাথমিক / প্রধান",
+    "examples": [
+      { "en": "Education is primary.", "bn": "শিক্ষা প্রাথমিক।" },
+      { "en": "This is the primary reason.", "bn": "এটি প্রধান কারণ।" }
+    ],
+    "moreexample": [
+      { "en": "Primary goal is success.", "bn": "প্রধান লক্ষ্য সাফল্য।" },
+      { "en": "He has primary role.", "bn": "তার প্রধান ভূমিকা আছে।" },
+      {
+        "en": "Primary school is important.",
+        "bn": "প্রাথমিক বিদ্যালয় গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She chose primary option.",
+        "bn": "সে প্রধান বিকল্প বেছে নিয়েছে।"
+      },
+      { "en": "Primary focus is health.", "bn": "প্রধান ফোকাস স্বাস্থ্য।" },
+      {
+        "en": "They studied primary data.",
+        "bn": "তারা প্রাথমিক ডেটা অধ্যয়ন করেছে।"
+      },
+      { "en": "Primary concern is safety.", "bn": "প্রধান উদ্বেগ নিরাপত্তা।" },
+      { "en": "He plays primary role.", "bn": "সে প্রধান ভূমিকা পালন করে।" },
+      { "en": "Primary cause is unknown.", "bn": "প্রধান কারণ অজানা।" },
+      {
+        "en": "We need primary support.",
+        "bn": "আমাদের প্রাথমিক সহায়তা দরকার।"
+      }
+    ],
+    "synonyms": ["main", "chief", "basic", "principal"]
+  },
+  {
+    "base": "principle",
+    "phonetic": "ˈprɪnsəpl",
+    "meaning": "মূলনীতি",
+    "examples": [
+      { "en": "He follows principles.", "bn": "সে মূলনীতি অনুসরণ করে।" },
+      { "en": "This is a moral principle.", "bn": "এটি একটি নৈতিক মূলনীতি।" }
+    ],
+    "moreexample": [
+      { "en": "Principles guide life.", "bn": "মূলনীতি জীবনকে পরিচালনা করে।" },
+      { "en": "She broke principles.", "bn": "সে মূলনীতি ভেঙেছে।" },
+      { "en": "He stands by principles.", "bn": "সে মূলনীতির পাশে দাঁড়ায়।" },
+      { "en": "They respect principles.", "bn": "তারা মূলনীতিকে সম্মান করে।" },
+      { "en": "Good principles matter.", "bn": "ভালো মূলনীতি গুরুত্বপূর্ণ।" },
+      { "en": "He explained principles.", "bn": "সে মূলনীতি ব্যাখ্যা করেছে।" },
+      { "en": "Principles shape behavior.", "bn": "মূলনীতি আচরণ গঠন করে।" },
+      { "en": "We learn principles.", "bn": "আমরা মূলনীতি শিখি।" },
+      { "en": "Strong principles exist.", "bn": "শক্তিশালী মূলনীতি আছে।" },
+      {
+        "en": "They follow strict principles.",
+        "bn": "তারা কঠোর মূলনীতি অনুসরণ করে।"
+      }
+    ],
+    "synonyms": ["rule", "value", "ethic", "standard"]
+  },
+  {
+    "base": "private",
+    "phonetic": "ˈpraɪvət",
+    "meaning": "ব্যক্তিগত / গোপন",
+    "examples": [
+      { "en": "This is private.", "bn": "এটি ব্যক্তিগত।" },
+      { "en": "Private information is safe.", "bn": "ব্যক্তিগত তথ্য নিরাপদ।" }
+    ],
+    "moreexample": [
+      { "en": "He has a private room.", "bn": "তার একটি ব্যক্তিগত ঘর আছে।" },
+      { "en": "She keeps it private.", "bn": "সে এটি গোপন রাখে।" },
+      { "en": "Private data is protected.", "bn": "ব্যক্তিগত ডেটা সুরক্ষিত।" },
+      {
+        "en": "They discussed privately.",
+        "bn": "তারা ব্যক্তিগতভাবে আলোচনা করেছে।"
+      },
+      { "en": "Private life matters.", "bn": "ব্যক্তিগত জীবন গুরুত্বপূর্ণ।" },
+      {
+        "en": "He owns private property.",
+        "bn": "তার ব্যক্তিগত সম্পত্তি আছে।"
+      },
+      {
+        "en": "Private companies grow.",
+        "bn": "বেসরকারি কোম্পানি বৃদ্ধি পায়।"
+      },
+      { "en": "She made it private.", "bn": "সে এটি গোপন করেছে।" },
+      { "en": "Private access only.", "bn": "শুধু ব্যক্তিগত প্রবেশ।" },
+      {
+        "en": "They value private space.",
+        "bn": "তারা ব্যক্তিগত স্থানকে মূল্য দেয়।"
+      }
+    ],
+    "synonyms": ["personal", "confidential", "secret", "individual"]
+  },
+  {
+    "base": "procedure",
+    "phonetic": "prəˈsiːdʒə(r)",
+    "meaning": "প্রক্রিয়া / পদ্ধতি",
+    "examples": [
+      { "en": "Follow the procedure.", "bn": "পদ্ধতি অনুসরণ করো।" },
+      { "en": "The procedure is simple.", "bn": "প্রক্রিয়াটি সহজ।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Medical procedure is strict.",
+        "bn": "চিকিৎসা প্রক্রিয়া কঠোর।"
+      },
+      { "en": "They changed procedure.", "bn": "তারা পদ্ধতি পরিবর্তন করেছে।" },
+      {
+        "en": "Safety procedure matters.",
+        "bn": "নিরাপত্তা প্রক্রিয়া গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "He explained procedure.",
+        "bn": "সে প্রক্রিয়া ব্যাখ্যা করেছে।"
+      },
+      { "en": "We follow procedure.", "bn": "আমরা পদ্ধতি অনুসরণ করি।" },
+      { "en": "Procedure takes time.", "bn": "প্রক্রিয়াটি সময় নেয়।" },
+      {
+        "en": "They improved procedure.",
+        "bn": "তারা প্রক্রিয়া উন্নত করেছে।"
+      },
+      { "en": "Legal procedure exists.", "bn": "আইনি প্রক্রিয়া আছে।" },
+      {
+        "en": "Each procedure is documented.",
+        "bn": "প্রতিটি প্রক্রিয়া নথিভুক্ত।"
+      },
+      { "en": "Procedure failed.", "bn": "প্রক্রিয়াটি ব্যর্থ হয়েছে।" }
+    ],
+    "synonyms": ["process", "method", "system", "technique"]
+  },
+
+  {
+    "base": "proceed",
+    "phonetic": "prəˈsiːd",
+    "meaning": "এগিয়ে যাওয়া / অগ্রসর হওয়া",
+    "examples": [
+      {
+        "en": "We proceed with the plan.",
+        "bn": "আমরা পরিকল্পনা নিয়ে এগিয়ে যাই।"
+      },
+      { "en": "Please proceed.", "bn": "অনুগ্রহ করে এগিয়ে যান।" }
+    ],
+    "moreexample": [
+      { "en": "They proceed carefully.", "bn": "তারা সতর্কভাবে এগিয়ে যায়।" },
+      { "en": "He proceeded to explain.", "bn": "সে ব্যাখ্যা করতে শুরু করল।" },
+      { "en": "The meeting will proceed.", "bn": "মিটিংটি চলবে।" },
+      { "en": "She proceeded slowly.", "bn": "সে ধীরে এগিয়েছে।" },
+      { "en": "We proceed step by step.", "bn": "আমরা ধাপে ধাপে এগোই।" },
+      { "en": "The work proceeded well.", "bn": "কাজ ভালোভাবে এগিয়েছে।" },
+      {
+        "en": "They proceeded without delay.",
+        "bn": "তারা দেরি না করে এগিয়েছে।"
+      },
+      {
+        "en": "He proceeded to the next stage.",
+        "bn": "সে পরবর্তী ধাপে এগিয়েছে।"
+      },
+      { "en": "Proceed with caution.", "bn": "সতর্কতার সাথে এগিয়ে যাও।" },
+      {
+        "en": "She proceeded confidently.",
+        "bn": "সে আত্মবিশ্বাসের সাথে এগিয়েছে।"
+      }
+    ],
+    "synonyms": ["continue", "advance", "move on", "go ahead"]
+  },
+  {
+    "base": "process",
+    "phonetic": "ˈprəʊses",
+    "meaning": "প্রক্রিয়া / পদ্ধতি",
+    "examples": [
+      { "en": "This is a long process.", "bn": "এটি একটি দীর্ঘ প্রক্রিয়া।" },
+      { "en": "We process data.", "bn": "আমরা ডেটা প্রক্রিয়া করি।" }
+    ],
+    "moreexample": [
+      { "en": "The process takes time.", "bn": "প্রক্রিয়াটি সময় নেয়।" },
+      { "en": "They process information.", "bn": "তারা তথ্য প্রক্রিয়া করে।" },
+      {
+        "en": "It is a natural process.",
+        "bn": "এটি একটি প্রাকৃতিক প্রক্রিয়া।"
+      },
+      { "en": "We follow the process.", "bn": "আমরা প্রক্রিয়া অনুসরণ করি।" },
+      { "en": "The process is simple.", "bn": "প্রক্রিয়াটি সহজ।" },
+      { "en": "He improved the process.", "bn": "সে প্রক্রিয়া উন্নত করেছে।" },
+      {
+        "en": "Manufacturing process is complex.",
+        "bn": "উৎপাদন প্রক্রিয়া জটিল।"
+      },
+      {
+        "en": "They designed a process.",
+        "bn": "তারা একটি প্রক্রিয়া ডিজাইন করেছে।"
+      },
+      { "en": "The process failed.", "bn": "প্রক্রিয়াটি ব্যর্থ হয়েছে।" },
+      { "en": "We analyze process.", "bn": "আমরা প্রক্রিয়া বিশ্লেষণ করি।" }
+    ],
+    "synonyms": ["method", "procedure", "system", "operation"]
+  },
+  {
+    "base": "produce",
+    "phonetic": "prəˈdjuːs",
+    "meaning": "উৎপাদন করা / তৈরি করা",
+    "examples": [
+      {
+        "en": "Factories produce goods.",
+        "bn": "কারখানাগুলো পণ্য উৎপাদন করে।"
+      },
+      { "en": "She produces music.", "bn": "সে সংগীত তৈরি করে।" }
+    ],
+    "moreexample": [
+      { "en": "They produce food.", "bn": "তারা খাবার উৎপাদন করে।" },
+      { "en": "The farm produces rice.", "bn": "খামার ধান উৎপাদন করে।" },
+      { "en": "He produced a film.", "bn": "সে একটি চলচ্চিত্র তৈরি করেছে।" },
+      { "en": "We produce results.", "bn": "আমরা ফলাফল তৈরি করি।" },
+      { "en": "Factories produce cars.", "bn": "কারখানাগুলো গাড়ি তৈরি করে।" },
+      { "en": "She produces content.", "bn": "সে কনটেন্ট তৈরি করে।" },
+      { "en": "They produced energy.", "bn": "তারা শক্তি উৎপাদন করেছে।" },
+      { "en": "The land produces crops.", "bn": "জমি ফসল উৎপাদন করে।" },
+      { "en": "He produces ideas.", "bn": "সে ধারণা তৈরি করে।" },
+      { "en": "We produce solutions.", "bn": "আমরা সমাধান তৈরি করি।" }
+    ],
+    "synonyms": ["create", "make", "generate", "manufacture"]
+  },
+  {
+    "base": "profit",
+    "phonetic": "ˈprɒfɪt",
+    "meaning": "লাভ",
+    "examples": [
+      { "en": "The company made a profit.", "bn": "কোম্পানিটি লাভ করেছে।" },
+      { "en": "Profit is increasing.", "bn": "লাভ বাড়ছে।" }
+    ],
+    "moreexample": [
+      { "en": "They earned profit.", "bn": "তারা লাভ করেছে।" },
+      { "en": "Business profit is high.", "bn": "ব্যবসার লাভ বেশি।" },
+      { "en": "He lost profit.", "bn": "সে লাভ হারিয়েছে।" },
+      { "en": "We share profit.", "bn": "আমরা লাভ ভাগ করি।" },
+      {
+        "en": "Profit matters in business.",
+        "bn": "ব্যবসায় লাভ গুরুত্বপূর্ণ।"
+      },
+      { "en": "They increased profit.", "bn": "তারা লাভ বাড়িয়েছে।" },
+      {
+        "en": "Profit motivates companies.",
+        "bn": "লাভ কোম্পানিকে অনুপ্রাণিত করে।"
+      },
+      { "en": "She calculated profit.", "bn": "সে লাভ হিসাব করেছে।" },
+      { "en": "Low profit is risky.", "bn": "কম লাভ ঝুঁকিপূর্ণ।" },
+      { "en": "They reinvest profit.", "bn": "তারা লাভ পুনঃবিনিয়োগ করে।" }
+    ],
+    "synonyms": ["gain", "earnings", "income", "return"]
+  },
+  {
+    "base": "progress",
+    "phonetic": "ˈprəʊɡres",
+    "meaning": "অগ্রগতি",
+    "examples": [
+      { "en": "We are making progress.", "bn": "আমরা অগ্রগতি করছি।" },
+      { "en": "Progress is slow.", "bn": "অগ্রগতি ধীর।" }
+    ],
+    "moreexample": [
+      { "en": "She shows progress.", "bn": "সে অগ্রগতি দেখায়।" },
+      {
+        "en": "The project progressed well.",
+        "bn": "প্রকল্পটি ভালোভাবে এগিয়েছে।"
+      },
+      { "en": "We track progress.", "bn": "আমরা অগ্রগতি পর্যবেক্ষণ করি।" },
+      {
+        "en": "Progress depends on effort.",
+        "bn": "অগ্রগতি প্রচেষ্টার উপর নির্ভর করে।"
+      },
+      { "en": "He made progress quickly.", "bn": "সে দ্রুত অগ্রগতি করেছে।" },
+      { "en": "No progress was seen.", "bn": "কোনো অগ্রগতি দেখা যায়নি।" },
+      { "en": "They monitor progress.", "bn": "তারা অগ্রগতি পর্যবেক্ষণ করে।" },
+      { "en": "Progress is important.", "bn": "অগ্রগতি গুরুত্বপূর্ণ।" },
+      { "en": "We evaluate progress.", "bn": "আমরা অগ্রগতি মূল্যায়ন করি।" },
+      { "en": "Slow progress is normal.", "bn": "ধীর অগ্রগতি স্বাভাবিক।" }
+    ],
+    "synonyms": ["development", "advancement", "improvement", "growth"]
+  },
+  {
+    "base": "protect",
+    "phonetic": "prəˈtekt",
+    "meaning": "রক্ষা করা",
+    "examples": [
+      { "en": "We protect nature.", "bn": "আমরা প্রকৃতি রক্ষা করি।" },
+      { "en": "He protected his family.", "bn": "সে তার পরিবারকে রক্ষা করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "They protect the environment.", "bn": "তারা পরিবেশ রক্ষা করে।" },
+      { "en": "She protects children.", "bn": "সে শিশুদের রক্ষা করে।" },
+      { "en": "Laws protect citizens.", "bn": "আইন নাগরিকদের রক্ষা করে।" },
+      { "en": "He protects data.", "bn": "সে ডেটা রক্ষা করে।" },
+      { "en": "We protect rights.", "bn": "আমরা অধিকার রক্ষা করি।" },
+      { "en": "They protect animals.", "bn": "তারা প্রাণীদের রক্ষা করে।" },
+      { "en": "She protected herself.", "bn": "সে নিজেকে রক্ষা করেছে।" },
+      { "en": "Security protects us.", "bn": "নিরাপত্তা আমাদের রক্ষা করে।" },
+      { "en": "He protects privacy.", "bn": "সে গোপনীয়তা রক্ষা করে।" },
+      {
+        "en": "We must protect nature.",
+        "bn": "আমাদের প্রকৃতি রক্ষা করতে হবে।"
+      }
+    ],
+    "synonyms": ["defend", "guard", "shield", "safeguard"]
+  },
+  {
+    "base": "provide",
+    "phonetic": "prəˈvaɪd",
+    "meaning": "সরবরাহ করা / প্রদান করা",
+    "examples": [
+      { "en": "They provide food.", "bn": "তারা খাবার সরবরাহ করে।" },
+      { "en": "He provides support.", "bn": "সে সহায়তা প্রদান করে।" }
+    ],
+    "moreexample": [
+      { "en": "We provide services.", "bn": "আমরা সেবা প্রদান করি।" },
+      { "en": "She provides information.", "bn": "সে তথ্য প্রদান করে।" },
+      { "en": "They provide jobs.", "bn": "তারা চাকরি প্রদান করে।" },
+      { "en": "He provides money.", "bn": "সে টাকা প্রদান করে।" },
+      { "en": "School provides education.", "bn": "স্কুল শিক্ষা প্রদান করে।" },
+      { "en": "They provide help.", "bn": "তারা সাহায্য করে।" },
+      { "en": "We provide solutions.", "bn": "আমরা সমাধান প্রদান করি।" },
+      { "en": "She provides care.", "bn": "সে যত্ন প্রদান করে।" },
+      {
+        "en": "Government provides support.",
+        "bn": "সরকার সহায়তা প্রদান করে।"
+      },
+      { "en": "They provide shelter.", "bn": "তারা আশ্রয় দেয়।" }
+    ],
+    "synonyms": ["supply", "offer", "deliver", "give"]
+  },
+  {
+    "base": "publish",
+    "phonetic": "ˈpʌblɪʃ",
+    "meaning": "প্রকাশ করা",
+    "examples": [
+      { "en": "He published a book.", "bn": "সে একটি বই প্রকাশ করেছে।" },
+      { "en": "The article is published.", "bn": "নিবন্ধটি প্রকাশিত হয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "They publish newspapers.", "bn": "তারা সংবাদপত্র প্রকাশ করে।" },
+      { "en": "She published research.", "bn": "সে গবেষণা প্রকাশ করেছে।" },
+      { "en": "We publish content.", "bn": "আমরা কনটেন্ট প্রকাশ করি।" },
+      {
+        "en": "The journal publishes articles.",
+        "bn": "জার্নালটি নিবন্ধ প্রকাশ করে।"
+      },
+      { "en": "He published findings.", "bn": "সে ফলাফল প্রকাশ করেছে।" },
+      {
+        "en": "Books are published yearly.",
+        "bn": "বই প্রতি বছর প্রকাশিত হয়।"
+      },
+      { "en": "They published reports.", "bn": "তারা রিপোর্ট প্রকাশ করেছে।" },
+      { "en": "She publishes online.", "bn": "সে অনলাইনে প্রকাশ করে।" },
+      { "en": "We published results.", "bn": "আমরা ফলাফল প্রকাশ করেছি।" },
+      { "en": "The author publishes stories.", "bn": "লেখক গল্প প্রকাশ করে।" }
+    ],
+    "synonyms": ["release", "issue", "print", "disclose"]
+  },
+  {
+    "base": "punish",
+    "phonetic": "ˈpʌnɪʃ",
+    "meaning": "শাস্তি দেওয়া",
+    "examples": [
+      { "en": "He was punished.", "bn": "তাকে শাস্তি দেওয়া হয়েছে।" },
+      { "en": "They punish mistakes.", "bn": "তারা ভুলের জন্য শাস্তি দেয়।" }
+    ],
+    "moreexample": [
+      { "en": "She punished the child.", "bn": "সে শিশুকে শাস্তি দিয়েছে।" },
+      { "en": "Laws punish crimes.", "bn": "আইন অপরাধের শাস্তি দেয়।" },
+      { "en": "He punished unfairly.", "bn": "সে অন্যায়ভাবে শাস্তি দিয়েছে।" },
+      {
+        "en": "They were punished heavily.",
+        "bn": "তাদের কঠোর শাস্তি দেওয়া হয়েছে।"
+      },
+      {
+        "en": "Teachers punish students.",
+        "bn": "শিক্ষকরা শিক্ষার্থীদের শাস্তি দেয়।"
+      },
+      { "en": "Crime is punished.", "bn": "অপরাধ শাস্তিযোগ্য।" },
+      { "en": "She punished behavior.", "bn": "সে আচরণ শাস্তি দিয়েছে।" },
+      { "en": "He got punished.", "bn": "সে শাস্তি পেয়েছে।" },
+      {
+        "en": "They punish rule breakers.",
+        "bn": "তারা নিয়ম ভঙ্গকারীদের শাস্তি দেয়।"
+      },
+      { "en": "Punish carefully.", "bn": "সতর্কভাবে শাস্তি দাও।" }
+    ],
+    "synonyms": ["penalize", "discipline", "fine", "reprimand"]
+  },
+  {
+    "base": "purchase",
+    "phonetic": "ˈpɜːtʃəs",
+    "meaning": "কেনা",
+    "examples": [
+      { "en": "He purchased a phone.", "bn": "সে একটি ফোন কিনেছে।" },
+      { "en": "They purchased land.", "bn": "তারা জমি কিনেছে।" }
+    ],
+    "moreexample": [
+      { "en": "She purchased clothes.", "bn": "সে কাপড় কিনেছে।" },
+      { "en": "We purchased books.", "bn": "আমরা বই কিনেছি।" },
+      { "en": "He purchased a car.", "bn": "সে একটি গাড়ি কিনেছে।" },
+      { "en": "They purchased equipment.", "bn": "তারা যন্ত্রপাতি কিনেছে।" },
+      { "en": "Purchase online is easy.", "bn": "অনলাইনে কেনা সহজ।" },
+      { "en": "She purchased food.", "bn": "সে খাবার কিনেছে।" },
+      { "en": "We purchased tickets.", "bn": "আমরা টিকিট কিনেছি।" },
+      { "en": "He purchased property.", "bn": "সে সম্পত্তি কিনেছে।" },
+      { "en": "They purchased goods.", "bn": "তারা পণ্য কিনেছে।" },
+      {
+        "en": "Smart purchase saves money.",
+        "bn": "স্মার্ট কেনা টাকা বাঁচায়।"
+      }
+    ],
+    "synonyms": ["buy", "acquire", "obtain", "procure"]
+  },
+
+  {
+    "base": "pursue",
+    "phonetic": "pəˈsjuː",
+    "meaning": "অনুসরণ করা / পেছনে ছোটা / লক্ষ্য অনুসরণ করা",
+    "examples": [
+      { "en": "He pursues his dream.", "bn": "সে তার স্বপ্ন অনুসরণ করে।" },
+      { "en": "They pursued the thief.", "bn": "তারা চোরকে ধাওয়া করেছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She pursues higher studies.",
+        "bn": "সে উচ্চশিক্ষা অনুসরণ করে।"
+      },
+      { "en": "We pursue success.", "bn": "আমরা সাফল্য অনুসরণ করি।" },
+      { "en": "He pursued knowledge.", "bn": "সে জ্ঞান অনুসরণ করেছে।" },
+      { "en": "They pursued the goal.", "bn": "তারা লক্ষ্য অনুসরণ করেছে।" },
+      { "en": "She pursues happiness.", "bn": "সে সুখ অনুসরণ করে।" },
+      { "en": "He pursued the opportunity.", "bn": "সে সুযোগ অনুসরণ করেছে।" },
+      { "en": "We pursue justice.", "bn": "আমরা ন্যায়বিচার অনুসরণ করি।" },
+      { "en": "They pursued progress.", "bn": "তারা অগ্রগতি অনুসরণ করেছে।" },
+      {
+        "en": "She pursued career goals.",
+        "bn": "সে ক্যারিয়ার লক্ষ্য অনুসরণ করেছে।"
+      },
+      { "en": "He pursued the suspect.", "bn": "সে সন্দেহভাজনকে ধাওয়া করেছে।" }
+    ],
+    "synonyms": ["follow", "chase", "seek", "strive for"]
+  },
+  {
+    "base": "purpose",
+    "phonetic": "ˈpɜːpəs",
+    "meaning": "উদ্দেশ্য",
+    "examples": [
+      { "en": "What is your purpose?", "bn": "তোমার উদ্দেশ্য কী?" },
+      { "en": "Life has purpose.", "bn": "জীবনের উদ্দেশ্য আছে।" }
+    ],
+    "moreexample": [
+      { "en": "He lost his purpose.", "bn": "সে তার উদ্দেশ্য হারিয়েছে।" },
+      { "en": "Everything has a purpose.", "bn": "সবকিছুর একটি উদ্দেশ্য আছে।" },
+      {
+        "en": "She defined her purpose.",
+        "bn": "সে তার উদ্দেশ্য নির্ধারণ করেছে।"
+      },
+      { "en": "The purpose is clear.", "bn": "উদ্দেশ্য স্পষ্ট।" },
+      { "en": "We understand purpose.", "bn": "আমরা উদ্দেশ্য বুঝি।" },
+      {
+        "en": "He found purpose in life.",
+        "bn": "সে জীবনে উদ্দেশ্য খুঁজে পেয়েছে।"
+      },
+      { "en": "Their purpose is education.", "bn": "তাদের উদ্দেশ্য শিক্ষা।" },
+      {
+        "en": "She questioned her purpose.",
+        "bn": "সে তার উদ্দেশ্য নিয়ে প্রশ্ন করেছে।"
+      },
+      { "en": "Work with purpose.", "bn": "উদ্দেশ্য নিয়ে কাজ করো।" },
+      { "en": "Purpose drives action.", "bn": "উদ্দেশ্য কাজ চালায়।" }
+    ],
+    "synonyms": ["goal", "aim", "intention", "objective"]
+  },
+  {
+    "base": "puzzle",
+    "phonetic": "ˈpʌzl",
+    "meaning": "ধাঁধা / বিভ্রান্ত করা",
+    "examples": [
+      { "en": "This puzzle is hard.", "bn": "এই ধাঁধাটি কঠিন।" },
+      { "en": "He was puzzled.", "bn": "সে বিভ্রান্ত হয়েছিল।" }
+    ],
+    "moreexample": [
+      { "en": "She solved the puzzle.", "bn": "সে ধাঁধা সমাধান করেছে।" },
+      {
+        "en": "The question puzzles me.",
+        "bn": "প্রশ্নটি আমাকে বিভ্রান্ত করে।"
+      },
+      { "en": "They enjoy puzzles.", "bn": "তারা ধাঁধা উপভোগ করে।" },
+      { "en": "It remains a puzzle.", "bn": "এটি একটি ধাঁধা রয়ে গেছে।" },
+      { "en": "He puzzled over it.", "bn": "সে এটি নিয়ে বিভ্রান্ত হয়েছে।" },
+      {
+        "en": "The problem puzzled scientists.",
+        "bn": "সমস্যাটি বিজ্ঞানীদের বিভ্রান্ত করেছে।"
+      },
+      { "en": "She is puzzled.", "bn": "সে বিভ্রান্ত।" },
+      {
+        "en": "We solved many puzzles.",
+        "bn": "আমরা অনেক ধাঁধা সমাধান করেছি।"
+      },
+      { "en": "It is a complex puzzle.", "bn": "এটি একটি জটিল ধাঁধা।" },
+      {
+        "en": "The mystery puzzles everyone.",
+        "bn": "রহস্যটি সবাইকে বিভ্রান্ত করে।"
+      }
+    ],
+    "synonyms": ["riddle", "mystery", "confuse", "baffle"]
+  },
+  {
+    "base": "qualify",
+    "phonetic": "ˈkwɒlɪfaɪ",
+    "meaning": "যোগ্য হওয়া / যোগ্য করা",
+    "examples": [
+      {
+        "en": "He qualified for the exam.",
+        "bn": "সে পরীক্ষার জন্য যোগ্য হয়েছে।"
+      },
+      { "en": "She is qualified.", "bn": "সে যোগ্য।" }
+    ],
+    "moreexample": [
+      { "en": "They qualified easily.", "bn": "তারা সহজেই যোগ্য হয়েছে।" },
+      {
+        "en": "He qualified for the job.",
+        "bn": "সে চাকরির জন্য যোগ্য হয়েছে।"
+      },
+      {
+        "en": "She qualified as a doctor.",
+        "bn": "সে ডাক্তার হিসেবে যোগ্য হয়েছে।"
+      },
+      { "en": "We qualify students.", "bn": "আমরা শিক্ষার্থীদের যোগ্য করি।" },
+      { "en": "He did not qualify.", "bn": "সে যোগ্য হয়নি।" },
+      {
+        "en": "They qualified successfully.",
+        "bn": "তারা সফলভাবে যোগ্য হয়েছে।"
+      },
+      {
+        "en": "She qualifies for scholarship.",
+        "bn": "সে স্কলারশিপের জন্য যোগ্য।"
+      },
+      {
+        "en": "Rules qualify candidates.",
+        "bn": "নিয়ম প্রার্থীদের যোগ্য করে।"
+      },
+      {
+        "en": "He qualified after training.",
+        "bn": "সে প্রশিক্ষণের পর যোগ্য হয়েছে।"
+      },
+      { "en": "They qualify for finals.", "bn": "তারা ফাইনালের জন্য যোগ্য।" }
+    ],
+    "synonyms": ["certify", "enable", "entitle", "fit"]
+  },
+  {
+    "base": "quality",
+    "phonetic": "ˈkwɒləti",
+    "meaning": "গুণমান",
+    "examples": [
+      { "en": "Quality matters.", "bn": "গুণমান গুরুত্বপূর্ণ।" },
+      { "en": "The quality is good.", "bn": "গুণমান ভালো।" }
+    ],
+    "moreexample": [
+      { "en": "High quality products.", "bn": "উচ্চ মানের পণ্য।" },
+      { "en": "We ensure quality.", "bn": "আমরা গুণমান নিশ্চিত করি।" },
+      { "en": "Quality is checked.", "bn": "গুণমান পরীক্ষা করা হয়।" },
+      { "en": "He values quality.", "bn": "সে গুণমানকে মূল্য দেয়।" },
+      { "en": "Poor quality fails.", "bn": "খারাপ গুণমান ব্যর্থ হয়।" },
+      { "en": "They improved quality.", "bn": "তারা গুণমান উন্নত করেছে।" },
+      { "en": "Quality control is strict.", "bn": "গুণমান নিয়ন্ত্রণ কঠোর।" },
+      { "en": "She checks quality.", "bn": "সে গুণমান পরীক্ষা করে।" },
+      { "en": "Best quality exists.", "bn": "সেরা গুণমান রয়েছে।" },
+      { "en": "Quality affects price.", "bn": "গুণমান দামে প্রভাব ফেলে।" }
+    ],
+    "synonyms": ["standard", "grade", "value", "caliber"]
+  },
+  {
+    "base": "quantity",
+    "phonetic": "ˈkwɒntɪti",
+    "meaning": "পরিমাণ",
+    "examples": [
+      { "en": "Large quantity is needed.", "bn": "বড় পরিমাণ দরকার।" },
+      { "en": "Quantity matters.", "bn": "পরিমাণ গুরুত্বপূর্ণ।" }
+    ],
+    "moreexample": [
+      { "en": "Small quantity is enough.", "bn": "ছোট পরিমাণ যথেষ্ট।" },
+      { "en": "They measured quantity.", "bn": "তারা পরিমাণ মেপেছে।" },
+      { "en": "Quantity increased.", "bn": "পরিমাণ বেড়েছে।" },
+      { "en": "He reduced quantity.", "bn": "সে পরিমাণ কমিয়েছে।" },
+      {
+        "en": "Quality over quantity.",
+        "bn": "পরিমাণের চেয়ে গুণমান গুরুত্বপূর্ণ।"
+      },
+      { "en": "We control quantity.", "bn": "আমরা পরিমাণ নিয়ন্ত্রণ করি।" },
+      { "en": "Large quantity sold.", "bn": "বড় পরিমাণ বিক্রি হয়েছে।" },
+      { "en": "They checked quantity.", "bn": "তারা পরিমাণ পরীক্ষা করেছে।" },
+      { "en": "Quantity is limited.", "bn": "পরিমাণ সীমিত।" },
+      { "en": "He estimated quantity.", "bn": "সে পরিমাণ অনুমান করেছে।" }
+    ],
+    "synonyms": ["amount", "volume", "mass", "measure"]
+  },
+  {
+    "base": "question",
+    "phonetic": "ˈkwestʃən",
+    "meaning": "প্রশ্ন",
+    "examples": [
+      { "en": "Ask a question.", "bn": "একটি প্রশ্ন করো।" },
+      { "en": "He answered the question.", "bn": "সে প্রশ্নের উত্তর দিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "She asked many questions.", "bn": "সে অনেক প্রশ্ন করেছে।" },
+      { "en": "This is a difficult question.", "bn": "এটি একটি কঠিন প্রশ্ন।" },
+      { "en": "They questioned him.", "bn": "তারা তাকে প্রশ্ন করেছে।" },
+      { "en": "I have no question.", "bn": "আমার কোনো প্রশ্ন নেই।" },
+      { "en": "The question is simple.", "bn": "প্রশ্নটি সহজ।" },
+      { "en": "He avoided the question.", "bn": "সে প্রশ্ন এড়িয়েছে।" },
+      {
+        "en": "We discussed the question.",
+        "bn": "আমরা প্রশ্নটি আলোচনা করেছি।"
+      },
+      { "en": "She raised a question.", "bn": "সে একটি প্রশ্ন তুলেছে।" },
+      { "en": "Answer the question.", "bn": "প্রশ্নের উত্তর দাও।" },
+      { "en": "Many questions remain.", "bn": "অনেক প্রশ্ন রয়ে গেছে।" }
+    ],
+    "synonyms": ["query", "inquiry", "doubt", "problem"]
+  },
+  {
+    "base": "quickly",
+    "phonetic": "ˈkwɪkli",
+    "meaning": "দ্রুতভাবে",
+    "examples": [
+      { "en": "He ran quickly.", "bn": "সে দ্রুত দৌড়েছে।" },
+      { "en": "She quickly finished work.", "bn": "সে দ্রুত কাজ শেষ করেছে।" }
+    ],
+    "moreexample": [
+      { "en": "They quickly responded.", "bn": "তারা দ্রুত উত্তর দিয়েছে।" },
+      { "en": "He quickly left.", "bn": "সে দ্রুত চলে গেছে।" },
+      { "en": "She quickly understood.", "bn": "সে দ্রুত বুঝেছে।" },
+      { "en": "We quickly solved it.", "bn": "আমরা দ্রুত সমাধান করেছি।" },
+      { "en": "He acted quickly.", "bn": "সে দ্রুত কাজ করেছে।" },
+      { "en": "They moved quickly.", "bn": "তারা দ্রুত এগিয়েছে।" },
+      { "en": "She quickly agreed.", "bn": "সে দ্রুত সম্মত হয়েছে।" },
+      { "en": "It changed quickly.", "bn": "এটি দ্রুত পরিবর্তন হয়েছে।" },
+      { "en": "He quickly recovered.", "bn": "সে দ্রুত সুস্থ হয়েছে।" },
+      { "en": "Work was done quickly.", "bn": "কাজ দ্রুত শেষ হয়েছে।" }
+    ],
+    "synonyms": ["fast", "rapidly", "swiftly", "promptly"]
+  },
+  {
+    "base": "quiet",
+    "phonetic": "ˈkwaɪət",
+    "meaning": "নীরব / শান্ত",
+    "examples": [
+      { "en": "The room is quiet.", "bn": "ঘরটি শান্ত।" },
+      { "en": "He stayed quiet.", "bn": "সে নীরব ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "It is a quiet place.", "bn": "এটি একটি শান্ত জায়গা।" },
+      { "en": "She is very quiet.", "bn": "সে খুব নীরব।" },
+      { "en": "Keep quiet.", "bn": "নীরব থাকো।" },
+      { "en": "The night is quiet.", "bn": "রাতটি শান্ত।" },
+      { "en": "He spoke quietly.", "bn": "সে ধীরে কথা বলেছে।" },
+      { "en": "They remained quiet.", "bn": "তারা নীরব ছিল।" },
+      { "en": "A quiet village.", "bn": "একটি শান্ত গ্রাম।" },
+      { "en": "She enjoys quiet.", "bn": "সে নীরবতা উপভোগ করে।" },
+      { "en": "The street is quiet.", "bn": "রাস্তাটি শান্ত।" },
+      { "en": "He prefers quiet life.", "bn": "সে শান্ত জীবন পছন্দ করে।" }
+    ],
+    "synonyms": ["silent", "calm", "peaceful", "still"]
+  },
+  {
+    "base": "quite",
+    "phonetic": "kwaɪt",
+    "meaning": "একেবারে / বেশ",
+    "examples": [
+      { "en": "It is quite good.", "bn": "এটি বেশ ভালো।" },
+      { "en": "She is quite tired.", "bn": "সে বেশ ক্লান্ত।" }
+    ],
+    "moreexample": [
+      { "en": "He is quite smart.", "bn": "সে বেশ বুদ্ধিমান।" },
+      { "en": "It is quite easy.", "bn": "এটি বেশ সহজ।" },
+      { "en": "She is quite happy.", "bn": "সে বেশ খুশি।" },
+      { "en": "The task is quite hard.", "bn": "কাজটি বেশ কঠিন।" },
+      { "en": "He is quite strong.", "bn": "সে বেশ শক্তিশালী।" },
+      { "en": "It is quite far.", "bn": "এটি বেশ দূরে।" },
+      { "en": "She is quite young.", "bn": "সে বেশ তরুণ।" },
+      { "en": "We are quite ready.", "bn": "আমরা একেবারে প্রস্তুত।" },
+      { "en": "It was quite interesting.", "bn": "এটি বেশ আকর্ষণীয় ছিল।" },
+      { "en": "He is quite busy.", "bn": "সে বেশ ব্যস্ত।" }
+    ],
+    "synonyms": ["fairly", "rather", "completely", "very"]
+  },
+  {
+    "base": "quote",
+    "phonetic": "kwəʊt",
+    "meaning": "উদ্ধৃতি / উদ্ধৃত করা",
+    "examples": [
+      { "en": "He quoted a sentence.", "bn": "সে একটি বাক্য উদ্ধৃত করেছে।" },
+      { "en": "This is a famous quote.", "bn": "এটি একটি বিখ্যাত উদ্ধৃতি।" }
+    ],
+    "moreexample": [
+      { "en": "She quoted the author.", "bn": "সে লেখকের কথা উদ্ধৃত করেছে।" },
+      { "en": "They quote prices.", "bn": "তারা দাম উল্লেখ করে।" },
+      { "en": "He quoted correctly.", "bn": "সে সঠিকভাবে উদ্ধৃত করেছে।" },
+      {
+        "en": "We use famous quotes.",
+        "bn": "আমরা বিখ্যাত উদ্ধৃতি ব্যবহার করি।"
+      },
+      { "en": "She quoted a book.", "bn": "সে একটি বই উদ্ধৃত করেছে।" },
+      { "en": "He quoted evidence.", "bn": "সে প্রমাণ উদ্ধৃত করেছে।" },
+      {
+        "en": "They quoted statistics.",
+        "bn": "তারা পরিসংখ্যান উদ্ধৃত করেছে।"
+      },
+      { "en": "The speech was quoted.", "bn": "ভাষণটি উদ্ধৃত হয়েছে।" },
+      {
+        "en": "We often quote leaders.",
+        "bn": "আমরা প্রায়ই নেতাদের উদ্ধৃত করি।"
+      },
+      { "en": "He quoted a line.", "bn": "সে একটি লাইন উদ্ধৃত করেছে।" }
+    ],
+    "synonyms": ["cite", "reference", "repeat", "mention"]
   }
 ]

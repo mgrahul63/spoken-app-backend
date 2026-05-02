@@ -40,5 +40,2236 @@
       }
     ],
     "synonyms": ["monument", "site", "point of interest"]
+  },
+
+  {
+    "base": "lack",
+    "phonetic": "læk",
+    "meaning": "অভাব",
+    "examples": [
+      {
+        "en": "He lacks confidence.",
+        "bn": "তার আত্মবিশ্বাসের অভাব আছে।"
+      },
+      {
+        "en": "There is a lack of water.",
+        "bn": "পানির অভাব রয়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The team lacks experience.",
+        "bn": "দলের অভিজ্ঞতার অভাব রয়েছে।"
+      },
+      { "en": "She lacks patience.", "bn": "তার ধৈর্যের অভাব রয়েছে।" },
+      {
+        "en": "The project failed due to lack of funds.",
+        "bn": "অর্থের অভাবে প্রকল্পটি ব্যর্থ হয়েছে।"
+      },
+      {
+        "en": "They lack proper guidance.",
+        "bn": "তাদের সঠিক দিকনির্দেশনার অভাব রয়েছে।"
+      },
+      {
+        "en": "He lacks basic skills.",
+        "bn": "তার মৌলিক দক্ষতার অভাব রয়েছে।"
+      },
+      {
+        "en": "The system lacks efficiency.",
+        "bn": "সিস্টেমটির দক্ষতার অভাব রয়েছে।"
+      },
+      { "en": "There is a lack of trust.", "bn": "বিশ্বাসের অভাব রয়েছে।" },
+      {
+        "en": "She lacks interest in studies.",
+        "bn": "তার পড়াশোনায় আগ্রহের অভাব রয়েছে।"
+      },
+      {
+        "en": "The country lacks resources.",
+        "bn": "দেশটির সম্পদের অভাব রয়েছে।"
+      },
+      { "en": "He lacks discipline.", "bn": "তার শৃঙ্খলার অভাব রয়েছে।" }
+    ],
+    "synonyms": ["shortage", "deficiency", "scarcity"]
+  },
+
+  {
+    "base": "ladder",
+    "phonetic": "ˈlædər",
+    "meaning": "সিঁড়ি",
+    "examples": [
+      {
+        "en": "He climbed the ladder.",
+        "bn": "সে সিঁড়ি বেয়ে উঠল।"
+      },
+      {
+        "en": "Bring a ladder to fix the light.",
+        "bn": "লাইট ঠিক করতে একটি সিঁড়ি আনো।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The ladder is made of wood.", "bn": "সিঁড়িটি কাঠের তৈরি।" },
+      { "en": "He fell off the ladder.", "bn": "সে সিঁড়ি থেকে পড়ে গেল।" },
+      {
+        "en": "She held the ladder steady.",
+        "bn": "সে সিঁড়িটি স্থিরভাবে ধরে রাখল।"
+      },
+      { "en": "The ladder was too short.", "bn": "সিঁড়িটি খুব ছোট ছিল।" },
+      {
+        "en": "They used a ladder to reach the roof.",
+        "bn": "তারা ছাদে উঠতে সিঁড়ি ব্যবহার করল।"
+      },
+      {
+        "en": "He climbed down the ladder.",
+        "bn": "সে সিঁড়ি বেয়ে নিচে নামল।"
+      },
+      { "en": "The ladder broke suddenly.", "bn": "সিঁড়িটি হঠাৎ ভেঙে গেল।" },
+      {
+        "en": "She painted while standing on a ladder.",
+        "bn": "সে সিঁড়ির উপর দাঁড়িয়ে রং করছিল।"
+      },
+      { "en": "The ladder was unstable.", "bn": "সিঁড়িটি অস্থির ছিল।" },
+      {
+        "en": "He carried the ladder easily.",
+        "bn": "সে সহজেই সিঁড়িটি বহন করল।"
+      }
+    ],
+    "synonyms": ["stair", "steps"]
+  },
+
+  {
+    "base": "land",
+    "phonetic": "lænd",
+    "meaning": "ভূমি",
+    "examples": [
+      {
+        "en": "They bought land for farming.",
+        "bn": "তারা চাষের জন্য জমি কিনেছে।"
+      },
+      { "en": "The plane will land soon.", "bn": "বিমানটি শিগগিরই অবতরণ করবে।" }
+    ],
+    "moreexample": [
+      { "en": "This land is fertile.", "bn": "এই জমি উর্বর।" },
+      { "en": "He owns a large piece of land.", "bn": "তার বড় একটি জমি আছে।" },
+      { "en": "The land is dry.", "bn": "জমিটি শুষ্ক।" },
+      {
+        "en": "They work on the land daily.",
+        "bn": "তারা প্রতিদিন জমিতে কাজ করে।"
+      },
+      { "en": "The land needs water.", "bn": "জমির পানি দরকার।" },
+      { "en": "He landed safely.", "bn": "সে নিরাপদে অবতরণ করেছে।" },
+      {
+        "en": "The land is under construction.",
+        "bn": "জমিতে নির্মাণ কাজ চলছে।"
+      },
+      { "en": "They cleared the land.", "bn": "তারা জমি পরিষ্কার করেছে।" },
+      { "en": "The land belongs to him.", "bn": "জমিটি তার।" },
+      { "en": "Farmers depend on land.", "bn": "কৃষকরা জমির উপর নির্ভর করে।" }
+    ],
+    "synonyms": ["ground", "soil", "earth"]
+  },
+  {
+    "base": "language",
+    "phonetic": "ˈlæŋɡwɪdʒ",
+    "meaning": "ভাষা",
+    "examples": [
+      {
+        "en": "English is an international language.",
+        "bn": "ইংরেজি একটি আন্তর্জাতিক ভাষা।"
+      },
+      {
+        "en": "She is learning a new language.",
+        "bn": "সে একটি নতুন ভাষা শিখছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Language helps communication.",
+        "bn": "ভাষা যোগাযোগে সাহায্য করে।"
+      },
+      {
+        "en": "He speaks three languages.",
+        "bn": "সে তিনটি ভাষায় কথা বলতে পারে।"
+      },
+      { "en": "This language is easy to learn.", "bn": "এই ভাষাটি শেখা সহজ।" },
+      {
+        "en": "They teach foreign languages.",
+        "bn": "তারা বিদেশি ভাষা শেখায়।"
+      },
+      { "en": "Language connects people.", "bn": "ভাষা মানুষকে সংযুক্ত করে।" },
+      {
+        "en": "She improved her language skills.",
+        "bn": "সে তার ভাষার দক্ষতা উন্নত করেছে।"
+      },
+      {
+        "en": "Different regions have different languages.",
+        "bn": "বিভিন্ন অঞ্চলে বিভিন্ন ভাষা রয়েছে।"
+      },
+      {
+        "en": "Language reflects culture.",
+        "bn": "ভাষা সংস্কৃতিকে প্রকাশ করে।"
+      },
+      {
+        "en": "Children learn language quickly.",
+        "bn": "শিশুরা দ্রুত ভাষা শেখে।"
+      },
+      {
+        "en": "He studies language daily.",
+        "bn": "সে প্রতিদিন ভাষা অধ্যয়ন করে।"
+      }
+    ],
+    "synonyms": ["tongue", "speech"]
+  },
+  {
+    "base": "large",
+    "phonetic": "lɑːrdʒ",
+    "meaning": "বড়",
+    "examples": [
+      {
+        "en": "They live in a large house.",
+        "bn": "তারা একটি বড় বাড়িতে থাকে।"
+      },
+      { "en": "The company is very large.", "bn": "কোম্পানিটি খুব বড়।" }
+    ],
+    "moreexample": [
+      { "en": "He has a large family.", "bn": "তার বড় পরিবার রয়েছে।" },
+      { "en": "The room is large and clean.", "bn": "ঘরটি বড় এবং পরিষ্কার।" },
+      {
+        "en": "They made a large investment.",
+        "bn": "তারা বড় বিনিয়োগ করেছে।"
+      },
+      { "en": "The building is large.", "bn": "ভবনটি বড়।" },
+      { "en": "She bought a large bag.", "bn": "সে একটি বড় ব্যাগ কিনেছে।" },
+      { "en": "The lake is large.", "bn": "হ্রদটি বড়।" },
+      { "en": "He eats a large meal.", "bn": "সে বড় খাবার খায়।" },
+      { "en": "The crowd was large.", "bn": "ভিড়টি বড় ছিল।" },
+      { "en": "They need a large space.", "bn": "তাদের বড় জায়গা দরকার।" },
+      { "en": "The project is large.", "bn": "প্রকল্পটি বড়।" }
+    ],
+    "synonyms": ["big", "huge", "vast"]
+  },
+  {
+    "base": "last",
+    "phonetic": "læst",
+    "meaning": "শেষ / সর্বশেষ",
+    "examples": [
+      { "en": "This is the last chance.", "bn": "এটি শেষ সুযোগ।" },
+      { "en": "He came last in the race.", "bn": "সে দৌড়ে শেষ হয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "I saw him last night.", "bn": "আমি তাকে গত রাতে দেখেছি।" },
+      { "en": "This is my last attempt.", "bn": "এটি আমার শেষ চেষ্টা।" },
+      { "en": "The last page is missing.", "bn": "শেষ পৃষ্ঠাটি নেই।" },
+      { "en": "She spoke last.", "bn": "সে শেষে কথা বলেছে।" },
+      { "en": "We met last week.", "bn": "আমরা গত সপ্তাহে দেখা করেছি।" },
+      { "en": "This was his last job.", "bn": "এটি তার শেষ কাজ ছিল।" },
+      { "en": "He finished last.", "bn": "সে শেষে শেষ করেছে।" },
+      { "en": "The last train has left.", "bn": "শেষ ট্রেন চলে গেছে।" },
+      { "en": "This is the last warning.", "bn": "এটি শেষ সতর্কবার্তা।" },
+      { "en": "She was the last person.", "bn": "সে ছিল শেষ ব্যক্তি।" }
+    ],
+    "synonyms": ["final", "end", "ultimate"]
+  },
+
+  {
+    "base": "lazy",
+    "phonetic": "ˈleɪzi",
+    "meaning": "অলস",
+    "examples": [
+      { "en": "He is very lazy.", "bn": "সে খুব অলস।" },
+      { "en": "Don’t be lazy at work.", "bn": "কাজে অলসতা করো না।" }
+    ],
+    "moreexample": [
+      { "en": "She feels lazy today.", "bn": "আজ সে অলস অনুভব করছে।" },
+      { "en": "Lazy habits are harmful.", "bn": "অলস অভ্যাস ক্ষতিকর।" },
+      {
+        "en": "He became lazy over time.",
+        "bn": "সময়ের সাথে সে অলস হয়ে গেছে।"
+      },
+      { "en": "Don’t stay lazy all day.", "bn": "সারাদিন অলস থেকো না।" },
+      {
+        "en": "A lazy person avoids work.",
+        "bn": "অলস ব্যক্তি কাজ এড়িয়ে চলে।"
+      },
+      {
+        "en": "She looks lazy but works hard.",
+        "bn": "সে অলস দেখায় কিন্তু কঠোর পরিশ্রম করে।"
+      },
+      {
+        "en": "Lazy students fail often.",
+        "bn": "অলস শিক্ষার্থীরা প্রায়ই ব্যর্থ হয়।"
+      },
+      { "en": "He gave a lazy response.", "bn": "সে অলসভাবে উত্তর দিল।" },
+      { "en": "The dog looked lazy.", "bn": "কুকুরটি অলস দেখাচ্ছিল।" },
+      { "en": "Stop being lazy and act.", "bn": "অলসতা ছেড়ে কাজ করো।" }
+    ],
+    "synonyms": ["idle", "inactive", "sluggish"]
+  },
+  {
+    "base": "lead",
+    "phonetic": "liːd",
+    "meaning": "নেতৃত্ব দেওয়া",
+    "examples": [
+      { "en": "She will lead the team.", "bn": "সে দলকে নেতৃত্ব দেবে।" },
+      { "en": "He leads by example.", "bn": "সে উদাহরণ দিয়ে নেতৃত্ব দেয়।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They chose him to lead.",
+        "bn": "তারা তাকে নেতৃত্ব দেওয়ার জন্য বেছে নিয়েছে।"
+      },
+      {
+        "en": "A good leader can lead well.",
+        "bn": "একজন ভালো নেতা ভালোভাবে নেতৃত্ব দিতে পারে।"
+      },
+      {
+        "en": "She led the project successfully.",
+        "bn": "সে প্রকল্পটি সফলভাবে পরিচালনা করেছে।"
+      },
+      {
+        "en": "He leads a group of workers.",
+        "bn": "সে একদল কর্মীকে নেতৃত্ব দেয়।"
+      },
+      {
+        "en": "Strong values lead success.",
+        "bn": "মজবুত মূল্যবোধ সাফল্যের দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "She leads with confidence.",
+        "bn": "সে আত্মবিশ্বাসের সাথে নেতৃত্ব দেয়।"
+      },
+      { "en": "This road leads to the city.", "bn": "এই রাস্তা শহরে যায়।" },
+      {
+        "en": "He led them to safety.",
+        "bn": "সে তাদের নিরাপদ স্থানে নিয়ে গেছে।"
+      },
+      { "en": "They lead a simple life.", "bn": "তারা সহজ জীবনযাপন করে।" },
+      {
+        "en": "Good habits lead to success.",
+        "bn": "ভালো অভ্যাস সাফল্যের দিকে নিয়ে যায়।"
+      }
+    ],
+    "synonyms": ["guide", "direct", "command"]
+  },
+  {
+    "base": "learn",
+    "phonetic": "lɜːrn",
+    "meaning": "শেখা",
+    "examples": [
+      { "en": "I want to learn English.", "bn": "আমি ইংরেজি শিখতে চাই।" },
+      { "en": "Children learn quickly.", "bn": "শিশুরা দ্রুত শেখে।" }
+    ],
+    "moreexample": [
+      { "en": "He learns from mistakes.", "bn": "সে ভুল থেকে শেখে।" },
+      { "en": "She is learning new skills.", "bn": "সে নতুন দক্ষতা শিখছে।" },
+      { "en": "We learn every day.", "bn": "আমরা প্রতিদিন শিখি।" },
+      { "en": "They learn together.", "bn": "তারা একসাথে শেখে।" },
+      { "en": "Learning takes time.", "bn": "শেখার জন্য সময় লাগে।" },
+      {
+        "en": "He learned the lesson well.",
+        "bn": "সে পাঠটি ভালোভাবে শিখেছে।"
+      },
+      { "en": "She learns from books.", "bn": "সে বই থেকে শেখে।" },
+      {
+        "en": "Students learn in class.",
+        "bn": "শিক্ষার্থীরা শ্রেণিকক্ষে শেখে।"
+      },
+      { "en": "He wants to learn coding.", "bn": "সে কোডিং শিখতে চায়।" },
+      { "en": "We must learn patience.", "bn": "আমাদের ধৈর্য শেখা উচিত।" }
+    ],
+    "synonyms": ["study", "acquire", "grasp"]
+  },
+  {
+    "base": "leave",
+    "phonetic": "liːv",
+    "meaning": "ছেড়ে যাওয়া",
+    "examples": [
+      { "en": "I will leave now.", "bn": "আমি এখন চলে যাব।" },
+      { "en": "She left the room.", "bn": "সে ঘর ছেড়ে চলে গেল।" }
+    ],
+    "moreexample": [
+      { "en": "He left early.", "bn": "সে আগে চলে গেছে।" },
+      {
+        "en": "Don’t leave your bag here.",
+        "bn": "তোমার ব্যাগ এখানে রেখে যেও না।"
+      },
+      { "en": "She left the job.", "bn": "সে চাকরি ছেড়ে দিয়েছে।" },
+      { "en": "They left the city.", "bn": "তারা শহর ছেড়ে গেছে।" },
+      {
+        "en": "He left without saying goodbye.",
+        "bn": "সে বিদায় না জানিয়ে চলে গেছে।"
+      },
+      { "en": "Leave me alone.", "bn": "আমাকে একা থাকতে দাও।" },
+      { "en": "She left a message.", "bn": "সে একটি বার্তা রেখে গেছে।" },
+      { "en": "We must leave soon.", "bn": "আমাদের শিগগিরই চলে যেতে হবে।" },
+      { "en": "He left the door open.", "bn": "সে দরজাটি খোলা রেখে গেছে।" },
+      { "en": "They left the country.", "bn": "তারা দেশ ছেড়ে গেছে।" }
+    ],
+    "synonyms": ["depart", "exit", "abandon"]
+  },
+  {
+    "base": "legal",
+    "phonetic": "ˈliːɡəl",
+    "meaning": "আইনসম্মত",
+    "examples": [
+      { "en": "This action is legal.", "bn": "এই কাজটি আইনসম্মত।" },
+      { "en": "They took legal action.", "bn": "তারা আইনি ব্যবস্থা নিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "He needs legal advice.", "bn": "তার আইনি পরামর্শ দরকার।" },
+      { "en": "This is a legal document.", "bn": "এটি একটি আইনি নথি।" },
+      {
+        "en": "They followed legal rules.",
+        "bn": "তারা আইনি নিয়ম মেনে চলেছে।"
+      },
+      { "en": "It is not legal to do this.", "bn": "এটি করা আইনসম্মত নয়।" },
+      {
+        "en": "She works in a legal firm.",
+        "bn": "সে একটি আইন সংস্থায় কাজ করে।"
+      },
+      { "en": "The process is legal.", "bn": "প্রক্রিয়াটি আইনসম্মত।" },
+      {
+        "en": "He studied legal matters.",
+        "bn": "সে আইনি বিষয় পড়াশোনা করেছে।"
+      },
+      {
+        "en": "They solved the issue legally.",
+        "bn": "তারা বিষয়টি আইনগতভাবে সমাধান করেছে।"
+      },
+      {
+        "en": "Legal systems vary by country.",
+        "bn": "দেশভেদে আইনি ব্যবস্থা ভিন্ন হয়।"
+      },
+      { "en": "This is legally approved.", "bn": "এটি আইনগতভাবে অনুমোদিত।" }
+    ],
+    "synonyms": ["lawful", "legitimate", "authorized"]
+  },
+  {
+    "base": "lesson",
+    "phonetic": "ˈlesən",
+    "meaning": "পাঠ",
+    "examples": [
+      { "en": "Today's lesson is easy.", "bn": "আজকের পাঠ সহজ।" },
+      { "en": "He learned his lesson.", "bn": "সে তার পাঠ শিখেছে।" }
+    ],
+    "moreexample": [
+      { "en": "She teaches a lesson.", "bn": "সে একটি পাঠ শেখায়।" },
+      { "en": "The lesson was interesting.", "bn": "পাঠটি আকর্ষণীয় ছিল।" },
+      { "en": "We have a math lesson.", "bn": "আমাদের গণিতের পাঠ আছে।" },
+      { "en": "He missed the lesson.", "bn": "সে পাঠ মিস করেছে।" },
+      { "en": "The lesson starts now.", "bn": "পাঠ এখন শুরু হচ্ছে।" },
+      {
+        "en": "She prepared the lesson well.",
+        "bn": "সে পাঠটি ভালোভাবে প্রস্তুত করেছে।"
+      },
+      {
+        "en": "They discussed the lesson.",
+        "bn": "তারা পাঠটি নিয়ে আলোচনা করেছে।"
+      },
+      { "en": "This lesson is important.", "bn": "এই পাঠটি গুরুত্বপূর্ণ।" },
+      { "en": "He repeated the lesson.", "bn": "সে পাঠটি পুনরাবৃত্তি করেছে।" },
+      { "en": "The lesson ended early.", "bn": "পাঠটি আগে শেষ হয়েছে।" }
+    ],
+    "synonyms": ["class", "lecture", "teaching"]
+  },
+  {
+    "base": "letter",
+    "phonetic": "ˈletər",
+    "meaning": "চিঠি",
+    "examples": [
+      { "en": "I wrote a letter.", "bn": "আমি একটি চিঠি লিখেছি।" },
+      { "en": "She sent a letter.", "bn": "সে একটি চিঠি পাঠিয়েছে।" }
+    ],
+    "moreexample": [
+      { "en": "The letter arrived late.", "bn": "চিঠিটি দেরিতে এসেছে।" },
+      { "en": "He opened the letter.", "bn": "সে চিঠিটি খুলেছে।" },
+      { "en": "She read the letter.", "bn": "সে চিঠিটি পড়েছে।" },
+      { "en": "The letter was important.", "bn": "চিঠিটি গুরুত্বপূর্ণ ছিল।" },
+      { "en": "I received your letter.", "bn": "আমি তোমার চিঠি পেয়েছি।" },
+      { "en": "He wrote a long letter.", "bn": "সে একটি দীর্ঘ চিঠি লিখেছে।" },
+      { "en": "The letter contained news.", "bn": "চিঠিতে খবর ছিল।" },
+      { "en": "She kept the letter.", "bn": "সে চিঠিটি রেখে দিয়েছে।" },
+      { "en": "The letter was handwritten.", "bn": "চিঠিটি হাতে লেখা ছিল।" },
+      {
+        "en": "They mailed the letter.",
+        "bn": "তারা চিঠিটি ডাকযোগে পাঠিয়েছে।"
+      }
+    ],
+    "synonyms": ["mail", "message"]
+  },
+  {
+    "base": "level",
+    "phonetic": "ˈlevəl",
+    "meaning": "স্তর",
+    "examples": [
+      { "en": "Water reached a high level.", "bn": "পানি উচ্চ স্তরে পৌঁছেছে।" },
+      { "en": "This is an advanced level.", "bn": "এটি একটি উন্নত স্তর।" }
+    ],
+    "moreexample": [
+      { "en": "The level is rising.", "bn": "স্তর বাড়ছে।" },
+      { "en": "He reached the next level.", "bn": "সে পরবর্তী স্তরে পৌঁছেছে।" },
+      { "en": "The level is stable.", "bn": "স্তর স্থির আছে।" },
+      { "en": "They checked the level.", "bn": "তারা স্তর পরীক্ষা করেছে।" },
+      { "en": "This level is difficult.", "bn": "এই স্তরটি কঠিন।" },
+      { "en": "She improved her level.", "bn": "সে তার স্তর উন্নত করেছে।" },
+      { "en": "The water level dropped.", "bn": "পানির স্তর কমেছে।" },
+      { "en": "The level is low.", "bn": "স্তরটি কম।" },
+      { "en": "He plays at a high level.", "bn": "সে উচ্চ স্তরে খেলে।" },
+      { "en": "This is the final level.", "bn": "এটি শেষ স্তর।" }
+    ],
+    "synonyms": ["stage", "degree", "rank"]
+  },
+  {
+    "base": "library",
+    "phonetic": "ˈlaɪbreri",
+    "meaning": "গ্রন্থাগার",
+    "examples": [
+      {
+        "en": "I study in the library.",
+        "bn": "আমি গ্রন্থাগারে পড়াশোনা করি।"
+      },
+      { "en": "The library is quiet.", "bn": "গ্রন্থাগারটি শান্ত।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She borrowed a book from the library.",
+        "bn": "সে গ্রন্থাগার থেকে একটি বই নিয়েছে।"
+      },
+      { "en": "The library opens at 9.", "bn": "গ্রন্থাগার সকাল ৯টায় খোলে।" },
+      { "en": "He works in a library.", "bn": "সে একটি গ্রন্থাগারে কাজ করে।" },
+      {
+        "en": "The library is full of books.",
+        "bn": "গ্রন্থাগারটি বইয়ে ভরা।"
+      },
+      { "en": "They visited the library.", "bn": "তারা গ্রন্থাগারে গিয়েছিল।" },
+      {
+        "en": "The library has many sections.",
+        "bn": "গ্রন্থাগারে অনেক বিভাগ রয়েছে।"
+      },
+      { "en": "She reads in the library.", "bn": "সে গ্রন্থাগারে পড়ে।" },
+      { "en": "The library is clean.", "bn": "গ্রন্থাগারটি পরিষ্কার।" },
+      {
+        "en": "Students use the library.",
+        "bn": "শিক্ষার্থীরা গ্রন্থাগার ব্যবহার করে।"
+      },
+      { "en": "The library closes late.", "bn": "গ্রন্থাগার দেরিতে বন্ধ হয়।" }
+    ],
+    "synonyms": ["archive", "collection"]
+  },
+  {
+    "base": "light",
+    "phonetic": "laɪt",
+    "meaning": "আলো",
+    "examples": [
+      { "en": "Turn on the light.", "bn": "আলো জ্বালাও।" },
+      { "en": "The room is full of light.", "bn": "ঘরটি আলোয় ভরা।" }
+    ],
+    "moreexample": [
+      { "en": "The light is bright.", "bn": "আলোটি উজ্জ্বল।" },
+      { "en": "She turned off the light.", "bn": "সে আলো বন্ধ করেছে।" },
+      {
+        "en": "Sunlight gives natural light.",
+        "bn": "সূর্যের আলো প্রাকৃতিক আলো দেয়।"
+      },
+      { "en": "The light flickered.", "bn": "আলোটি টিমটিম করছিল।" },
+      { "en": "He sat under the light.", "bn": "সে আলোর নিচে বসেছিল।" },
+      { "en": "The light is dim.", "bn": "আলোটি ম্লান।" },
+      { "en": "We need more light.", "bn": "আমাদের আরও আলো দরকার।" },
+      { "en": "The light went out.", "bn": "আলো নিভে গেছে।" },
+      { "en": "The light shines brightly.", "bn": "আলো উজ্জ্বলভাবে জ্বলছে।" },
+      { "en": "They fixed the light.", "bn": "তারা আলোটি ঠিক করেছে।" }
+    ],
+    "synonyms": ["illumination", "brightness"]
+  },
+
+  {
+    "base": "limit",
+    "phonetic": "ˈlɪmɪt",
+    "meaning": "সীমা",
+    "examples": [
+      {
+        "en": "There is a limit to everything.",
+        "bn": "সব কিছুরই একটি সীমা আছে।"
+      },
+      { "en": "Do not cross the speed limit.", "bn": "গতিসীমা অতিক্রম করো না।" }
+    ],
+    "moreexample": [
+      { "en": "He reached his limit.", "bn": "সে তার সীমায় পৌঁছেছে।" },
+      {
+        "en": "The limit is clearly defined.",
+        "bn": "সীমাটি স্পষ্টভাবে নির্ধারিত।"
+      },
+      {
+        "en": "They set a time limit.",
+        "bn": "তারা একটি সময়সীমা নির্ধারণ করেছে।"
+      },
+      { "en": "There is no limit to learning.", "bn": "শেখার কোনো সীমা নেই।" },
+      { "en": "The limit was exceeded.", "bn": "সীমা অতিক্রম করা হয়েছে।" },
+      { "en": "Stay within the limit.", "bn": "সীমার মধ্যে থাকো।" },
+      { "en": "He tested his limits.", "bn": "সে তার সীমা পরীক্ষা করেছে।" },
+      { "en": "The budget limit is low.", "bn": "বাজেটের সীমা কম।" },
+      { "en": "They removed the limit.", "bn": "তারা সীমা তুলে দিয়েছে।" },
+      { "en": "This plan has a limit.", "bn": "এই পরিকল্পনার একটি সীমা আছে।" }
+    ],
+    "synonyms": ["boundary", "restriction", "cap"]
+  },
+  {
+    "base": "line",
+    "phonetic": "laɪn",
+    "meaning": "রেখা / সারি",
+    "examples": [
+      { "en": "Draw a straight line.", "bn": "একটি সোজা রেখা আঁকো।" },
+      { "en": "They stood in a line.", "bn": "তারা একটি সারিতে দাঁড়িয়েছিল।" }
+    ],
+    "moreexample": [
+      { "en": "The line is long.", "bn": "সারিটি দীর্ঘ।" },
+      { "en": "He crossed the line.", "bn": "সে সীমা অতিক্রম করেছে।" },
+      { "en": "Write between the lines.", "bn": "রেখার মধ্যে লিখো।" },
+      { "en": "The line is clear.", "bn": "রেখাটি স্পষ্ট।" },
+      { "en": "They waited in line.", "bn": "তারা সারিতে অপেক্ষা করছিল।" },
+      { "en": "The line moved slowly.", "bn": "সারিটি ধীরে এগোচ্ছিল।" },
+      { "en": "He drew a curved line.", "bn": "সে একটি বাঁকা রেখা এঁকেছে।" },
+      { "en": "This line is important.", "bn": "এই রেখাটি গুরুত্বপূর্ণ।" },
+      { "en": "Stay in line.", "bn": "সারিতে থাকো।" },
+      { "en": "The phone line is busy.", "bn": "ফোন লাইনটি ব্যস্ত।" }
+    ],
+    "synonyms": ["row", "queue", "mark"]
+  },
+  {
+    "base": "link",
+    "phonetic": "lɪŋk",
+    "meaning": "সংযোগ",
+    "examples": [
+      { "en": "Click the link below.", "bn": "নিচের লিঙ্কে ক্লিক করো।" },
+      {
+        "en": "There is a link between them.",
+        "bn": "তাদের মধ্যে একটি সংযোগ আছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The link is broken.", "bn": "লিঙ্কটি ভেঙে গেছে।" },
+      { "en": "He shared the link.", "bn": "সে লিঙ্কটি শেয়ার করেছে।" },
+      { "en": "This link opens a page.", "bn": "এই লিঙ্কটি একটি পৃষ্ঠা খুলে।" },
+      {
+        "en": "They found a strong link.",
+        "bn": "তারা একটি শক্তিশালী সংযোগ খুঁজে পেয়েছে।"
+      },
+      { "en": "The chain has many links.", "bn": "চেইনে অনেক সংযোগ রয়েছে।" },
+      { "en": "She sent me the link.", "bn": "সে আমাকে লিঙ্কটি পাঠিয়েছে।" },
+      { "en": "The link is useful.", "bn": "লিঙ্কটি উপকারী।" },
+      { "en": "There is no link here.", "bn": "এখানে কোনো সংযোগ নেই।" },
+      { "en": "The link connects data.", "bn": "লিঙ্কটি ডেটা সংযুক্ত করে।" },
+      { "en": "They fixed the link.", "bn": "তারা লিঙ্কটি ঠিক করেছে।" }
+    ],
+    "synonyms": ["connection", "relation", "tie"]
+  },
+  {
+    "base": "list",
+    "phonetic": "lɪst",
+    "meaning": "তালিকা",
+    "examples": [
+      {
+        "en": "Make a list of items.",
+        "bn": "জিনিসগুলোর একটি তালিকা তৈরি করো।"
+      },
+      { "en": "Her name is on the list.", "bn": "তার নাম তালিকায় আছে।" }
+    ],
+    "moreexample": [
+      { "en": "The list is long.", "bn": "তালিকাটি দীর্ঘ।" },
+      { "en": "He checked the list.", "bn": "সে তালিকাটি পরীক্ষা করেছে।" },
+      { "en": "Add this to the list.", "bn": "এটি তালিকায় যোগ করো।" },
+      { "en": "The list is complete.", "bn": "তালিকাটি সম্পূর্ণ।" },
+      { "en": "She wrote a list.", "bn": "সে একটি তালিকা লিখেছে।" },
+      { "en": "The list includes names.", "bn": "তালিকায় নাম রয়েছে।" },
+      { "en": "They updated the list.", "bn": "তারা তালিকাটি আপডেট করেছে।" },
+      { "en": "This list is important.", "bn": "এই তালিকাটি গুরুত্বপূর্ণ।" },
+      { "en": "He forgot the list.", "bn": "সে তালিকাটি ভুলে গেছে।" },
+      { "en": "The list was printed.", "bn": "তালিকাটি প্রিন্ট করা হয়েছে।" }
+    ],
+    "synonyms": ["record", "catalog", "register"]
+  },
+  {
+    "base": "listen",
+    "phonetic": "ˈlɪsən",
+    "meaning": "শোনা",
+    "examples": [
+      { "en": "Listen to me carefully.", "bn": "আমাকে মনোযোগ দিয়ে শোনো।" },
+      { "en": "She listens to music.", "bn": "সে গান শোনে।" }
+    ],
+    "moreexample": [
+      { "en": "He listens silently.", "bn": "সে নীরবে শোনে।" },
+      { "en": "Listen to the teacher.", "bn": "শিক্ষকের কথা শোনো।" },
+      { "en": "They listened carefully.", "bn": "তারা মনোযোগ দিয়ে শুনেছে।" },
+      { "en": "She listens every day.", "bn": "সে প্রতিদিন শোনে।" },
+      { "en": "Listen before you speak.", "bn": "কথা বলার আগে শোনো।" },
+      { "en": "He listens to advice.", "bn": "সে পরামর্শ শোনে।" },
+      { "en": "They listen together.", "bn": "তারা একসাথে শোনে।" },
+      { "en": "She listened to the story.", "bn": "সে গল্পটি শুনেছে।" },
+      { "en": "He refuses to listen.", "bn": "সে শুনতে অস্বীকার করে।" },
+      { "en": "Listen with focus.", "bn": "মনোযোগ দিয়ে শোনো।" }
+    ],
+    "synonyms": ["hear", "pay attention"]
+  },
+  {
+    "base": "little",
+    "phonetic": "ˈlɪtəl",
+    "meaning": "ছোট / অল্প",
+    "examples": [
+      { "en": "I have little time.", "bn": "আমার অল্প সময় আছে।" },
+      { "en": "She is a little girl.", "bn": "সে একটি ছোট মেয়ে।" }
+    ],
+    "moreexample": [
+      { "en": "He ate a little food.", "bn": "সে অল্প খাবার খেয়েছে।" },
+      { "en": "There is little hope.", "bn": "অল্প আশা আছে।" },
+      { "en": "She has little money.", "bn": "তার অল্প টাকা আছে।" },
+      { "en": "The child is little.", "bn": "শিশুটি ছোট।" },
+      { "en": "He showed little interest.", "bn": "সে অল্প আগ্রহ দেখিয়েছে।" },
+      { "en": "We made little progress.", "bn": "আমরা অল্প অগ্রগতি করেছি।" },
+      { "en": "Little things matter.", "bn": "ছোট বিষয়গুলো গুরুত্বপূর্ণ।" },
+      { "en": "He spoke little.", "bn": "সে অল্প কথা বলেছে।" },
+      { "en": "She gave a little help.", "bn": "সে অল্প সাহায্য করেছে।" },
+      { "en": "There is little difference.", "bn": "অল্প পার্থক্য আছে।" }
+    ],
+    "synonyms": ["small", "tiny", "minor"]
+  },
+  {
+    "base": "live",
+    "phonetic": "lɪv",
+    "meaning": "বাস করা",
+    "examples": [
+      { "en": "I live in Dhaka.", "bn": "আমি ঢাকায় বাস করি।" },
+      { "en": "They live together.", "bn": "তারা একসাথে বাস করে।" }
+    ],
+    "moreexample": [
+      { "en": "He lives alone.", "bn": "সে একা বাস করে।" },
+      { "en": "She lives in a village.", "bn": "সে একটি গ্রামে বাস করে।" },
+      { "en": "They live happily.", "bn": "তারা সুখে বাস করে।" },
+      { "en": "We live near the river.", "bn": "আমরা নদীর কাছে বাস করি।" },
+      { "en": "He lives abroad.", "bn": "সে বিদেশে বাস করে।" },
+      { "en": "They live a simple life.", "bn": "তারা সহজ জীবনযাপন করে।" },
+      {
+        "en": "She lives with her family.",
+        "bn": "সে তার পরিবারের সাথে বাস করে।"
+      },
+      { "en": "He lives here.", "bn": "সে এখানে বাস করে।" },
+      { "en": "We must live well.", "bn": "আমাদের ভালোভাবে বাঁচতে হবে।" },
+      { "en": "They live in peace.", "bn": "তারা শান্তিতে বাস করে।" }
+    ],
+    "synonyms": ["reside", "dwell"]
+  },
+  {
+    "base": "load",
+    "phonetic": "loʊd",
+    "meaning": "বোঝা / লোড",
+    "examples": [
+      {
+        "en": "He carried a heavy load.",
+        "bn": "সে একটি ভারী বোঝা বহন করেছে।"
+      },
+      { "en": "The page is loading.", "bn": "পৃষ্ঠা লোড হচ্ছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The truck has a full load.",
+        "bn": "ট্রাকটি পূর্ণ বোঝা বহন করছে।"
+      },
+      { "en": "She reduced the load.", "bn": "সে বোঝা কমিয়েছে।" },
+      {
+        "en": "The system failed to load.",
+        "bn": "সিস্টেমটি লোড হতে ব্যর্থ হয়েছে।"
+      },
+      { "en": "He lifted the load.", "bn": "সে বোঝাটি তুলেছে।" },
+      { "en": "The load is too heavy.", "bn": "বোঝাটি খুব ভারী।" },
+      { "en": "They loaded the goods.", "bn": "তারা পণ্যগুলো লোড করেছে।" },
+      { "en": "The load increased.", "bn": "বোঝা বেড়েছে।" },
+      { "en": "This load is manageable.", "bn": "এই বোঝাটি সামলানো যায়।" },
+      { "en": "He shared the load.", "bn": "সে বোঝা ভাগ করে নিয়েছে।" },
+      { "en": "The load was delivered.", "bn": "বোঝাটি পৌঁছে দেওয়া হয়েছে।" }
+    ],
+    "synonyms": ["burden", "weight", "cargo"]
+  },
+  {
+    "base": "local",
+    "phonetic": "ˈloʊkəl",
+    "meaning": "স্থানীয়",
+    "examples": [
+      { "en": "This is a local market.", "bn": "এটি একটি স্থানীয় বাজার।" },
+      {
+        "en": "He supports local businesses.",
+        "bn": "সে স্থানীয় ব্যবসাকে সমর্থন করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Local people are friendly.",
+        "bn": "স্থানীয় মানুষজন বন্ধুত্বপূর্ণ।"
+      },
+      { "en": "The local shop is nearby.", "bn": "স্থানীয় দোকানটি কাছেই।" },
+      {
+        "en": "They sell local products.",
+        "bn": "তারা স্থানীয় পণ্য বিক্রি করে।"
+      },
+      { "en": "Local news is important.", "bn": "স্থানীয় খবর গুরুত্বপূর্ণ।" },
+      {
+        "en": "He joined a local club.",
+        "bn": "সে একটি স্থানীয় ক্লাবে যোগ দিয়েছে।"
+      },
+      { "en": "The event is local.", "bn": "ইভেন্টটি স্থানীয়।" },
+      {
+        "en": "She works for a local company.",
+        "bn": "সে একটি স্থানীয় কোম্পানিতে কাজ করে।"
+      },
+      { "en": "Local food is tasty.", "bn": "স্থানীয় খাবার সুস্বাদু।" },
+      {
+        "en": "They hired local workers.",
+        "bn": "তারা স্থানীয় কর্মী নিয়োগ করেছে।"
+      },
+      { "en": "The local area is clean.", "bn": "স্থানীয় এলাকা পরিষ্কার।" }
+    ],
+    "synonyms": ["regional", "community", "native"]
+  },
+
+  {
+    "base": "locate",
+    "phonetic": "loʊˈkeɪt",
+    "meaning": "অবস্থান নির্ধারণ করা",
+    "examples": [
+      {
+        "en": "We need to locate the missing file before the meeting starts.",
+        "bn": "মিটিং শুরু হওয়ার আগে আমাদের হারিয়ে যাওয়া ফাইলটি খুঁজে বের করতে হবে।"
+      },
+      {
+        "en": "The police were able to locate the suspect within a few hours.",
+        "bn": "পুলিশ কয়েক ঘণ্টার মধ্যেই সন্দেহভাজনকে খুঁজে বের করতে সক্ষম হয়েছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He used a map to locate the exact position of the village.",
+        "bn": "সে মানচিত্র ব্যবহার করে গ্রামের সঠিক অবস্থান নির্ধারণ করেছে।"
+      },
+      {
+        "en": "Can you locate the error in this code?",
+        "bn": "তুমি কি এই কোডে ভুলটি খুঁজে বের করতে পারো?"
+      },
+      {
+        "en": "They tried to locate the source of the noise.",
+        "bn": "তারা শব্দের উৎস খুঁজে বের করার চেষ্টা করেছে।"
+      },
+      {
+        "en": "It was difficult to locate the house in the dark.",
+        "bn": "অন্ধকারে বাড়িটি খুঁজে পাওয়া কঠিন ছিল।"
+      },
+      {
+        "en": "The app helps users locate nearby restaurants easily.",
+        "bn": "অ্যাপটি ব্যবহারকারীদের সহজেই কাছাকাছি রেস্টুরেন্ট খুঁজে পেতে সাহায্য করে।"
+      },
+      {
+        "en": "Scientists are working to locate new resources underground.",
+        "bn": "বিজ্ঞানীরা মাটির নিচে নতুন সম্পদ খুঁজে বের করার জন্য কাজ করছেন।"
+      },
+      {
+        "en": "She managed to locate her lost phone using a tracking app.",
+        "bn": "সে একটি ট্র্যাকিং অ্যাপ ব্যবহার করে তার হারানো ফোনটি খুঁজে পেয়েছে।"
+      },
+      {
+        "en": "They could not locate the missing documents on time.",
+        "bn": "তারা সময়মতো হারিয়ে যাওয়া নথিগুলো খুঁজে পায়নি।"
+      },
+      {
+        "en": "The system can quickly locate any stored data.",
+        "bn": "সিস্টেমটি দ্রুত যেকোনো সংরক্ষিত ডেটা খুঁজে বের করতে পারে।"
+      },
+      {
+        "en": "Rescue teams worked hard to locate the survivors.",
+        "bn": "উদ্ধার দলগুলো জীবিতদের খুঁজে বের করতে কঠোর পরিশ্রম করেছে।"
+      }
+    ],
+    "synonyms": ["find", "detect", "identify"]
+  },
+  {
+    "base": "lock",
+    "phonetic": "lɒk",
+    "meaning": "তালা দেওয়া",
+    "examples": [
+      {
+        "en": "Please lock the door before you leave the house.",
+        "bn": "বাড়ি থেকে বের হওয়ার আগে দয়া করে দরজাটি তালা দাও।"
+      },
+      {
+        "en": "He forgot to lock his bike outside the office.",
+        "bn": "সে অফিসের বাইরে তার বাইকটি তালা দিতে ভুলে গিয়েছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She always locks her room when she goes out.",
+        "bn": "সে বাইরে গেলে সবসময় তার ঘরে তালা দেয়।"
+      },
+      {
+        "en": "The system automatically locks after a few minutes of inactivity.",
+        "bn": "কিছুক্ষণ ব্যবহার না হলে সিস্টেমটি স্বয়ংক্রিয়ভাবে লক হয়ে যায়।"
+      },
+      {
+        "en": "He locked the gate carefully before going to bed.",
+        "bn": "ঘুমাতে যাওয়ার আগে সে গেটটি ভালোভাবে তালা দিয়েছিল।"
+      },
+      {
+        "en": "Make sure to lock your phone with a strong password.",
+        "bn": "তোমার ফোনটি একটি শক্তিশালী পাসওয়ার্ড দিয়ে লক করো।"
+      },
+      {
+        "en": "The drawer was locked to keep the documents safe.",
+        "bn": "নথিগুলো নিরাপদ রাখতে ড্রয়ারটি তালাবদ্ধ করা ছিল।"
+      },
+      {
+        "en": "She locked the windows during the storm.",
+        "bn": "ঝড়ের সময় সে জানালাগুলো বন্ধ করে তালা দিয়েছিল।"
+      },
+      {
+        "en": "He locked himself out of the house accidentally.",
+        "bn": "সে ভুলবশত নিজেকে বাড়ির বাইরে আটকে ফেলেছিল।"
+      },
+      {
+        "en": "The file is locked and cannot be edited right now.",
+        "bn": "ফাইলটি লক করা আছে এবং এখন সম্পাদনা করা যাবে না।"
+      },
+      {
+        "en": "They locked the safe with a secret code.",
+        "bn": "তারা একটি গোপন কোড দিয়ে সেফটি লক করেছে।"
+      },
+      {
+        "en": "Always lock your belongings in public places.",
+        "bn": "জনসমাগম স্থানে সবসময় তোমার জিনিসপত্র নিরাপদে তালা দিয়ে রাখো।"
+      }
+    ],
+    "synonyms": ["secure", "fasten", "bolt"]
+  },
+  {
+    "base": "lonely",
+    "phonetic": "ˈloʊnli",
+    "meaning": "একাকী",
+    "examples": [
+      {
+        "en": "He felt lonely after moving to a new city.",
+        "bn": "নতুন শহরে যাওয়ার পর সে একাকী অনুভব করেছিল।"
+      },
+      {
+        "en": "She often feels lonely when her friends are busy.",
+        "bn": "তার বন্ধুরা ব্যস্ত থাকলে সে প্রায়ই একাকী অনুভব করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Living alone in a big house can be very lonely.",
+        "bn": "একটি বড় বাড়িতে একা থাকা খুব একাকী হতে পারে।"
+      },
+      {
+        "en": "He spent many lonely nights thinking about his past.",
+        "bn": "সে তার অতীত নিয়ে ভাবতে ভাবতে অনেক একাকী রাত কাটিয়েছে।"
+      },
+      {
+        "en": "She felt lonely despite being surrounded by people.",
+        "bn": "অনেক মানুষের মাঝেও সে একাকী অনুভব করছিল।"
+      },
+      {
+        "en": "Lonely moments can sometimes help us understand ourselves better.",
+        "bn": "একাকী মুহূর্তগুলো কখনও কখনও আমাদের নিজেকে ভালোভাবে বুঝতে সাহায্য করে।"
+      },
+      {
+        "en": "He tried to avoid feeling lonely by staying busy.",
+        "bn": "সে ব্যস্ত থেকে একাকীত্ব এড়ানোর চেষ্টা করেছে।"
+      },
+      {
+        "en": "The old man lived a lonely life in the village.",
+        "bn": "বৃদ্ধ লোকটি গ্রামে একাকী জীবন যাপন করত।"
+      },
+      {
+        "en": "She called her friend because she was feeling lonely.",
+        "bn": "সে একাকী বোধ করছিল বলে বন্ধুকে ফোন করেছিল।"
+      },
+      {
+        "en": "A lonely road stretched across the empty field.",
+        "bn": "একটি নির্জন রাস্তা খালি মাঠ জুড়ে প্রসারিত ছিল।"
+      },
+      {
+        "en": "He wrote songs during his lonely days.",
+        "bn": "সে তার একাকী দিনগুলোতে গান লিখত।"
+      },
+      {
+        "en": "They helped him overcome his lonely feelings.",
+        "bn": "তারা তাকে তার একাকীত্ব কাটিয়ে উঠতে সাহায্য করেছে।"
+      }
+    ],
+    "synonyms": ["alone", "isolated", "solitary"]
+  },
+
+  {
+    "base": "long",
+    "phonetic": "lɒŋ",
+    "meaning": "দীর্ঘ / লম্বা",
+    "examples": [
+      {
+        "en": "It was a long journey, but we finally reached our destination safely.",
+        "bn": "এটি একটি দীর্ঘ যাত্রা ছিল, কিন্তু আমরা অবশেষে নিরাপদে আমাদের গন্তব্যে পৌঁছেছি।"
+      },
+      {
+        "en": "She has long hair that she takes great care of every day.",
+        "bn": "তার লম্বা চুল রয়েছে, যা সে প্রতিদিন যত্ন সহকারে দেখাশোনা করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The meeting lasted for a long time and covered many important topics.",
+        "bn": "মিটিংটি দীর্ঘ সময় ধরে চলেছিল এবং অনেক গুরুত্বপূর্ণ বিষয় নিয়ে আলোচনা হয়েছিল।"
+      },
+      {
+        "en": "He waited in a long line to buy the concert tickets.",
+        "bn": "কনসার্টের টিকিট কিনতে সে দীর্ঘ সারিতে অপেক্ষা করেছিল।"
+      },
+      {
+        "en": "It has been a long day, so I need some rest now.",
+        "bn": "আজ দিনটি দীর্ঘ ছিল, তাই এখন আমার কিছু বিশ্রাম দরকার।"
+      },
+      {
+        "en": "The bridge is very long and connects two distant towns.",
+        "bn": "সেতুটি খুব দীর্ঘ এবং দুটি দূরবর্তী শহরকে সংযুক্ত করে।"
+      },
+      {
+        "en": "She wrote a long email explaining the entire situation clearly.",
+        "bn": "সে পুরো পরিস্থিতি স্পষ্টভাবে ব্যাখ্যা করে একটি দীর্ঘ ইমেইল লিখেছে।"
+      },
+      {
+        "en": "They took a long route to avoid heavy traffic on the main road.",
+        "bn": "মূল সড়কের ভারী যানজট এড়াতে তারা একটি দীর্ঘ পথ বেছে নিয়েছিল।"
+      },
+      {
+        "en": "He has a long history of working in the technology sector.",
+        "bn": "প্রযুক্তি খাতে কাজ করার তার দীর্ঘ অভিজ্ঞতা রয়েছে।"
+      },
+      {
+        "en": "The movie was quite long, but it kept the audience engaged.",
+        "bn": "ছবিটি বেশ দীর্ঘ ছিল, কিন্তু এটি দর্শকদের আকৃষ্ট করে রেখেছিল।"
+      },
+      {
+        "en": "We had a long discussion about the future of the project.",
+        "bn": "আমরা প্রকল্পের ভবিষ্যৎ নিয়ে একটি দীর্ঘ আলোচনা করেছি।"
+      },
+      {
+        "en": "She took a long break after finishing her exams.",
+        "bn": "পরীক্ষা শেষ করার পর সে একটি দীর্ঘ বিরতি নিয়েছিল।"
+      }
+    ],
+    "synonyms": ["lengthy", "extended", "prolonged"]
+  },
+  {
+    "base": "look",
+    "phonetic": "lʊk",
+    "meaning": "দেখা / তাকানো",
+    "examples": [
+      {
+        "en": "Look at the sky, it is full of beautiful stars tonight.",
+        "bn": "আকাশের দিকে তাকাও, আজ রাতের আকাশ সুন্দর তারায় ভরা।"
+      },
+      {
+        "en": "She looked at me and smiled warmly.",
+        "bn": "সে আমার দিকে তাকিয়ে উষ্ণভাবে হাসল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He looked around the room but could not find his keys anywhere.",
+        "bn": "সে ঘরের চারপাশে তাকাল কিন্তু তার চাবি কোথাও খুঁজে পেল না।"
+      },
+      {
+        "en": "Please look carefully before making any important decision.",
+        "bn": "কোনো গুরুত্বপূর্ণ সিদ্ধান্ত নেওয়ার আগে ভালোভাবে দেখে নাও।"
+      },
+      {
+        "en": "She looked after the children while their parents were away.",
+        "bn": "বাবা-মা না থাকাকালীন সে বাচ্চাদের দেখাশোনা করেছিল।"
+      },
+      {
+        "en": "He looked tired after working for several hours continuously.",
+        "bn": "কয়েক ঘণ্টা একটানা কাজ করার পর তাকে ক্লান্ত দেখাচ্ছিল।"
+      },
+      {
+        "en": "They looked at the map to find the correct direction.",
+        "bn": "সঠিক দিক খুঁজে পেতে তারা মানচিত্রের দিকে তাকিয়েছিল।"
+      },
+      {
+        "en": "She looked through the documents to find the necessary information.",
+        "bn": "প্রয়োজনীয় তথ্য খুঁজতে সে নথিগুলো খুঁটিয়ে দেখেছে।"
+      },
+      {
+        "en": "He looked forward to meeting his old friends again.",
+        "bn": "সে তার পুরোনো বন্ধুদের সাথে আবার দেখা করার অপেক্ষায় ছিল।"
+      },
+      {
+        "en": "Look out for cars while crossing the busy street.",
+        "bn": "ব্যস্ত রাস্তা পার হওয়ার সময় গাড়ির দিকে খেয়াল রাখো।"
+      },
+      {
+        "en": "She looked up the word in the dictionary to understand its meaning.",
+        "bn": "শব্দটির অর্থ বোঝার জন্য সে অভিধানে খুঁজে দেখেছে।"
+      },
+      {
+        "en": "He looked confused when he heard the unexpected news.",
+        "bn": "অপ্রত্যাশিত খবরটি শুনে তাকে বিভ্রান্ত দেখাচ্ছিল।"
+      }
+    ],
+    "synonyms": ["see", "observe", "watch"]
+  },
+  {
+    "base": "lose",
+    "phonetic": "luːz",
+    "meaning": "হারানো",
+    "examples": [
+      {
+        "en": "If you don’t try your best, you may lose the opportunity.",
+        "bn": "তুমি যদি সর্বোচ্চ চেষ্টা না করো, তাহলে সুযোগটি হারাতে পারো।"
+      },
+      {
+        "en": "He lost his wallet while traveling on a crowded bus.",
+        "bn": "ভিড় বাসে ভ্রমণের সময় সে তার মানিব্যাগ হারিয়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She did not want to lose the chance to study abroad.",
+        "bn": "সে বিদেশে পড়াশোনার সুযোগটি হারাতে চায়নি।"
+      },
+      {
+        "en": "They lost the match despite playing very well throughout the game.",
+        "bn": "ভালো খেলেও তারা ম্যাচটি হেরে গেছে।"
+      },
+      {
+        "en": "Be careful not to lose your important documents during the trip.",
+        "bn": "ভ্রমণের সময় গুরুত্বপূর্ণ নথিগুলো যেন না হারাও সেদিকে খেয়াল রাখো।"
+      },
+      {
+        "en": "He worked hard because he did not want to lose his job.",
+        "bn": "সে কঠোর পরিশ্রম করেছে কারণ সে তার চাকরি হারাতে চায়নি।"
+      },
+      {
+        "en": "She lost track of time while working on her project.",
+        "bn": "প্রকল্পে কাজ করতে করতে সে সময়ের হিসাব হারিয়ে ফেলেছিল।"
+      },
+      {
+        "en": "If you are not careful, you might lose your balance.",
+        "bn": "সতর্ক না থাকলে তুমি ভারসাম্য হারাতে পারো।"
+      },
+      {
+        "en": "They lost contact after moving to different countries.",
+        "bn": "ভিন্ন দেশে যাওয়ার পর তারা যোগাযোগ হারিয়ে ফেলেছিল।"
+      },
+      {
+        "en": "He refused to lose hope even in difficult situations.",
+        "bn": "কঠিন পরিস্থিতিতেও সে আশা হারাতে রাজি ছিল না।"
+      },
+      {
+        "en": "She lost interest in the movie halfway through.",
+        "bn": "ছবির মাঝামাঝি এসে তার আগ্রহ কমে যায়।"
+      },
+      {
+        "en": "The company could lose customers if the service quality drops.",
+        "bn": "সেবার মান কমে গেলে কোম্পানি গ্রাহক হারাতে পারে।"
+      }
+    ],
+    "synonyms": ["misplace", "forfeit", "drop"]
+  },
+
+  {
+    "base": "loss",
+    "phonetic": "lɒs",
+    "meaning": "ক্ষতি / হারানো",
+    "examples": [
+      {
+        "en": "The company reported a significant loss after the market declined sharply.",
+        "bn": "বাজার তীব্রভাবে পতনের পর কোম্পানিটি একটি উল্লেখযোগ্য ক্ষতির কথা জানিয়েছে।"
+      },
+      {
+        "en": "He felt a deep sense of loss after losing his close friend.",
+        "bn": "ঘনিষ্ঠ বন্ধুকে হারানোর পর সে গভীর ক্ষতির অনুভূতি পেয়েছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The financial loss affected the company's future plans seriously.",
+        "bn": "আর্থিক ক্ষতি কোম্পানির ভবিষ্যৎ পরিকল্পনাকে গুরুতরভাবে প্রভাবিত করেছে।"
+      },
+      {
+        "en": "She could not recover from the emotional loss for a long time.",
+        "bn": "সে দীর্ঘ সময় ধরে মানসিক ক্ষতি থেকে বের হতে পারেনি।"
+      },
+      {
+        "en": "The loss of data created major problems for the entire system.",
+        "bn": "ডেটা হারানোর ফলে পুরো সিস্টেমে বড় সমস্যা সৃষ্টি হয়েছে।"
+      },
+      {
+        "en": "They suffered a huge loss due to the unexpected storm last night.",
+        "bn": "গত রাতের অপ্রত্যাশিত ঝড়ের কারণে তারা বড় ক্ষতির সম্মুখীন হয়েছে।"
+      },
+      {
+        "en": "He accepted the loss and decided to move forward with confidence.",
+        "bn": "সে ক্ষতিটি মেনে নিয়ে আত্মবিশ্বাসের সাথে এগিয়ে যাওয়ার সিদ্ধান্ত নিয়েছে।"
+      },
+      {
+        "en": "The loss of trust can damage relationships permanently.",
+        "bn": "বিশ্বাসের ক্ষতি সম্পর্ককে স্থায়ীভাবে নষ্ট করতে পারে।"
+      },
+      {
+        "en": "The team learned valuable lessons from their recent loss.",
+        "bn": "দলটি তাদের সাম্প্রতিক পরাজয় থেকে মূল্যবান শিক্ষা পেয়েছে।"
+      },
+      {
+        "en": "There was a heavy loss of life in the accident.",
+        "bn": "দুর্ঘটনায় প্রাণহানির ঘটনা ঘটেছে।"
+      },
+      {
+        "en": "The business faced a loss during the first year of operation.",
+        "bn": "ব্যবসাটি প্রথম বছরে ক্ষতির সম্মুখীন হয়েছে।"
+      },
+      {
+        "en": "He kept working hard despite facing continuous losses.",
+        "bn": "নিয়মিত ক্ষতির সম্মুখীন হয়েও সে কঠোর পরিশ্রম চালিয়ে গেছে।"
+      }
+    ],
+    "synonyms": ["damage", "deficit", "decline"]
+  },
+  {
+    "base": "loud",
+    "phonetic": "laʊd",
+    "meaning": "উচ্চস্বরে / জোরে",
+    "examples": [
+      {
+        "en": "The music was so loud that it could be heard from outside the building.",
+        "bn": "সংগীতটি এত জোরে ছিল যে এটি ভবনের বাইরে থেকেও শোনা যাচ্ছিল।"
+      },
+      {
+        "en": "He spoke in a loud voice to get everyone's attention immediately.",
+        "bn": "সে সবার দৃষ্টি আকর্ষণ করতে জোরে কথা বলেছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The loud noise suddenly woke everyone up in the middle of the night.",
+        "bn": "হঠাৎ জোরে শব্দটি রাতের মধ্যে সবাইকে জাগিয়ে তুলেছিল।"
+      },
+      {
+        "en": "She laughed loudly after hearing the funny story.",
+        "bn": "মজার গল্পটি শুনে সে জোরে হেসেছিল।"
+      },
+      {
+        "en": "The crowd became loud as the match reached its final moments.",
+        "bn": "ম্যাচ শেষের দিকে পৌঁছালে ভিড় জোরে চিৎকার করতে শুরু করে।"
+      },
+      {
+        "en": "He played loud music while working, which distracted others.",
+        "bn": "সে কাজ করার সময় জোরে গান বাজাত, যা অন্যদের বিভ্রান্ত করত।"
+      },
+      {
+        "en": "The teacher asked the students not to be loud in the classroom.",
+        "bn": "শিক্ষক শিক্ষার্থীদের শ্রেণিকক্ষে জোরে কথা না বলতে বলেছিলেন।"
+      },
+      {
+        "en": "A loud crash was heard when the object fell to the ground.",
+        "bn": "বস্তুটি মাটিতে পড়লে একটি জোরে শব্দ শোনা যায়।"
+      },
+      {
+        "en": "She gave a loud warning before the situation became dangerous.",
+        "bn": "পরিস্থিতি বিপজ্জনক হওয়ার আগে সে জোরে সতর্কবার্তা দিয়েছিল।"
+      },
+      {
+        "en": "The loud engine noise made it hard to concentrate on the conversation.",
+        "bn": "ইঞ্জিনের জোরে শব্দের কারণে কথোপকথনে মনোযোগ দেওয়া কঠিন হচ্ছিল।"
+      },
+      {
+        "en": "He shouted loudly to call for help during the emergency.",
+        "bn": "জরুরি পরিস্থিতিতে সাহায্যের জন্য সে জোরে চিৎকার করেছিল।"
+      },
+      {
+        "en": "The loud applause showed how much the audience enjoyed the performance.",
+        "bn": "জোরে করতালি দেখিয়েছিল দর্শকরা কতটা উপভোগ করেছে।"
+      }
+    ],
+    "synonyms": ["noisy", "boisterous", "clamorous"]
+  },
+  {
+    "base": "love",
+    "phonetic": "lʌv",
+    "meaning": "ভালোবাসা",
+    "examples": [
+      {
+        "en": "She expressed her love for her family through her constant care and support.",
+        "bn": "সে তার পরিবারের প্রতি ভালোবাসা তার নিয়মিত যত্ন ও সমর্থনের মাধ্যমে প্রকাশ করেছে।"
+      },
+      {
+        "en": "He loves reading books in his free time to relax his mind.",
+        "bn": "সে তার অবসর সময়ে মনকে শান্ত করতে বই পড়তে ভালোবাসে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "True love requires patience, understanding, and trust between two people.",
+        "bn": "সত্যিকারের ভালোবাসার জন্য দুইজন মানুষের মধ্যে ধৈর্য, বোঝাপড়া এবং বিশ্বাস প্রয়োজন।"
+      },
+      {
+        "en": "She showed her love by helping others without expecting anything in return.",
+        "bn": "সে বিনিময়ে কিছু আশা না করে অন্যদের সাহায্য করে তার ভালোবাসা প্রকাশ করেছে।"
+      },
+      {
+        "en": "He fell in love with the beauty of the mountains during the trip.",
+        "bn": "ভ্রমণের সময় সে পাহাড়ের সৌন্দর্যের প্রেমে পড়েছিল।"
+      },
+      {
+        "en": "Their love grew stronger despite facing many challenges together.",
+        "bn": "অনেক চ্যালেঞ্জের সম্মুখীন হয়েও তাদের ভালোবাসা আরও শক্তিশালী হয়েছে।"
+      },
+      {
+        "en": "She loves cooking new dishes and sharing them with her friends.",
+        "bn": "সে নতুন খাবার রান্না করতে এবং বন্ধুদের সাথে ভাগ করে নিতে ভালোবাসে।"
+      },
+      {
+        "en": "He expressed his love through small but meaningful actions every day.",
+        "bn": "সে প্রতিদিন ছোট কিন্তু অর্থপূর্ণ কাজের মাধ্যমে তার ভালোবাসা প্রকাশ করেছে।"
+      },
+      {
+        "en": "The story beautifully describes the power of unconditional love.",
+        "bn": "গল্পটি নিঃশর্ত ভালোবাসার শক্তিকে সুন্দরভাবে বর্ণনা করেছে।"
+      },
+      {
+        "en": "They built their relationship on mutual love and respect.",
+        "bn": "তারা পারস্পরিক ভালোবাসা ও সম্মানের উপর তাদের সম্পর্ক গড়ে তুলেছে।"
+      },
+      {
+        "en": "She has a deep love for music and spends hours practicing.",
+        "bn": "তার সংগীতের প্রতি গভীর ভালোবাসা রয়েছে এবং সে ঘণ্টার পর ঘণ্টা অনুশীলন করে।"
+      },
+      {
+        "en": "Love can bring people together even in the most difficult times.",
+        "bn": "সবচেয়ে কঠিন সময়েও ভালোবাসা মানুষকে একত্রিত করতে পারে।"
+      }
+    ],
+    "synonyms": ["affection", "care", "devotion"]
+  },
+
+  {
+    "base": "lovely",
+    "phonetic": "ˈlʌvli",
+    "meaning": "সুন্দর / মনোরম",
+    "examples": [
+      {
+        "en": "It was a lovely evening, and we enjoyed walking by the river together.",
+        "bn": "এটি একটি মনোরম সন্ধ্যা ছিল, এবং আমরা একসাথে নদীর পাশে হাঁটতে উপভোগ করেছি।"
+      },
+      {
+        "en": "She wore a lovely dress that made her stand out in the crowd.",
+        "bn": "সে একটি সুন্দর পোশাক পরেছিল যা তাকে ভিড়ের মধ্যে আলাদা করে তুলেছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They spent a lovely day exploring the countryside and taking photos.",
+        "bn": "তারা গ্রামাঞ্চল ঘুরে এবং ছবি তুলে একটি সুন্দর দিন কাটিয়েছে।"
+      },
+      {
+        "en": "The garden looks lovely with all the flowers blooming in spring.",
+        "bn": "বসন্তে ফুল ফোটায় বাগানটি মনোরম দেখায়।"
+      },
+      {
+        "en": "She has a lovely smile that makes everyone feel comfortable.",
+        "bn": "তার একটি সুন্দর হাসি রয়েছে যা সবাইকে স্বাচ্ছন্দ্য বোধ করায়।"
+      },
+      {
+        "en": "We had a lovely conversation about our future plans and dreams.",
+        "bn": "আমরা আমাদের ভবিষ্যৎ পরিকল্পনা ও স্বপ্ন নিয়ে একটি সুন্দর আলোচনা করেছি।"
+      },
+      {
+        "en": "The weather was lovely, so we decided to go for a long walk outside.",
+        "bn": "আবহাওয়া মনোরম ছিল, তাই আমরা বাইরে দীর্ঘ হাঁটার সিদ্ধান্ত নিয়েছিলাম।"
+      },
+      {
+        "en": "She prepared a lovely meal for her guests with great care.",
+        "bn": "সে তার অতিথিদের জন্য যত্ন সহকারে একটি সুন্দর খাবার প্রস্তুত করেছে।"
+      },
+      {
+        "en": "The place has a lovely view of the mountains and the lake.",
+        "bn": "জায়গাটি থেকে পাহাড় ও হ্রদের একটি মনোরম দৃশ্য দেখা যায়।"
+      },
+      {
+        "en": "He wrote a lovely message to thank his teacher for her support.",
+        "bn": "সে তার শিক্ষিকাকে ধন্যবাদ জানাতে একটি সুন্দর বার্তা লিখেছে।"
+      },
+      {
+        "en": "They shared a lovely moment that they would always remember.",
+        "bn": "তারা একটি সুন্দর মুহূর্ত ভাগ করে নিয়েছিল যা তারা সবসময় মনে রাখবে।"
+      },
+      {
+        "en": "The hotel offers a lovely environment for a relaxing holiday.",
+        "bn": "হোটেলটি একটি মনোরম পরিবেশ প্রদান করে যা আরামদায়ক ছুটির জন্য উপযুক্ত।"
+      }
+    ],
+    "synonyms": ["beautiful", "pleasant", "charming"]
+  },
+  {
+    "base": "low",
+    "phonetic": "loʊ",
+    "meaning": "নিম্ন / কম",
+    "examples": [
+      {
+        "en": "The water level is very low due to the lack of rainfall this season.",
+        "bn": "এই মৌসুমে বৃষ্টির অভাবে পানির স্তর খুব কম।"
+      },
+      {
+        "en": "He spoke in a low voice so that others could not hear the conversation.",
+        "bn": "সে নিচু স্বরে কথা বলেছিল যাতে অন্যরা কথোপকথনটি শুনতে না পারে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The battery level is low, so you should charge your phone soon.",
+        "bn": "ব্যাটারির স্তর কম, তাই তোমার ফোনটি দ্রুত চার্জ করা উচিত।"
+      },
+      {
+        "en": "She felt low after hearing the disappointing news from her friend.",
+        "bn": "বন্ধুর কাছ থেকে হতাশাজনক খবর শুনে সে মন খারাপ অনুভব করেছিল।"
+      },
+      {
+        "en": "The prices are low during the seasonal sale, attracting many customers.",
+        "bn": "মৌসুমি সেলে দাম কম থাকে, যা অনেক ক্রেতাকে আকর্ষণ করে।"
+      },
+      {
+        "en": "He kept his expectations low to avoid feeling disappointed later.",
+        "bn": "পরে হতাশা এড়াতে সে তার প্রত্যাশা কম রেখেছিল।"
+      },
+      {
+        "en": "The temperature dropped to a very low point during the night.",
+        "bn": "রাতে তাপমাত্রা খুব নিচে নেমে গিয়েছিল।"
+      },
+      {
+        "en": "The company is offering products at a low cost to increase sales.",
+        "bn": "বিক্রি বাড়াতে কোম্পানি কম দামে পণ্য দিচ্ছে।"
+      },
+      {
+        "en": "She bent low to pick up the book from under the table.",
+        "bn": "সে টেবিলের নিচ থেকে বইটি তুলতে নিচু হয়ে বসেছিল।"
+      },
+      {
+        "en": "The signal is low in this area, making it hard to use the internet.",
+        "bn": "এই এলাকায় সিগন্যাল কম, তাই ইন্টারনেট ব্যবহার করা কঠিন।"
+      },
+      {
+        "en": "He felt his energy levels were low after working all day.",
+        "bn": "সারাদিন কাজ করার পর তার শক্তি কমে গেছে বলে মনে হচ্ছিল।"
+      },
+      {
+        "en": "The sound was too low to be heard clearly from a distance.",
+        "bn": "দূর থেকে শব্দটি পরিষ্কারভাবে শোনার জন্য খুব কম ছিল।"
+      }
+    ],
+    "synonyms": ["short", "minimal", "reduced"]
+  },
+  {
+    "base": "loyal",
+    "phonetic": "ˈlɔɪəl",
+    "meaning": "বিশ্বস্ত",
+    "examples": [
+      {
+        "en": "A loyal friend will always stand by you in difficult times.",
+        "bn": "একজন বিশ্বস্ত বন্ধু কঠিন সময়ে সবসময় তোমার পাশে থাকবে।"
+      },
+      {
+        "en": "The dog remained loyal to its owner throughout its life.",
+        "bn": "কুকুরটি তার মালিকের প্রতি সারাজীবন বিশ্বস্ত ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She is loyal to her family and always supports them in every situation.",
+        "bn": "সে তার পরিবারের প্রতি বিশ্বস্ত এবং সব পরিস্থিতিতে তাদের সমর্থন করে।"
+      },
+      {
+        "en": "The company values loyal employees who contribute consistently over time.",
+        "bn": "কোম্পানি সেইসব বিশ্বস্ত কর্মীদের মূল্য দেয় যারা নিয়মিত অবদান রাখে।"
+      },
+      {
+        "en": "He stayed loyal to his principles despite facing many challenges.",
+        "bn": "অনেক চ্যালেঞ্জের সম্মুখীন হয়েও সে তার নীতির প্রতি বিশ্বস্ত ছিল।"
+      },
+      {
+        "en": "Loyal customers often return because they trust the brand deeply.",
+        "bn": "বিশ্বস্ত গ্রাহকরা প্রায়ই ফিরে আসে কারণ তারা ব্র্যান্ডের উপর গভীর বিশ্বাস রাখে।"
+      },
+      {
+        "en": "She remained loyal to her friend even when others turned against him.",
+        "bn": "অন্যরা তার বন্ধুর বিরুদ্ধে গেলেও সে তার প্রতি বিশ্বস্ত ছিল।"
+      },
+      {
+        "en": "A loyal team can achieve great success together over time.",
+        "bn": "একটি বিশ্বস্ত দল সময়ের সাথে বড় সাফল্য অর্জন করতে পারে।"
+      },
+      {
+        "en": "He proved his loyal nature through his actions rather than words.",
+        "bn": "সে কথার চেয়ে কাজে তার বিশ্বস্ততা প্রমাণ করেছে।"
+      },
+      {
+        "en": "The brand has built a loyal customer base over many years.",
+        "bn": "ব্র্যান্ডটি বহু বছর ধরে একটি বিশ্বস্ত গ্রাহক গোষ্ঠী তৈরি করেছে।"
+      },
+      {
+        "en": "She expects loyalty and honesty in every relationship she builds.",
+        "bn": "সে প্রতিটি সম্পর্কে বিশ্বস্ততা ও সততা আশা করে।"
+      },
+      {
+        "en": "Being loyal does not mean you ignore mistakes, but you stand with truth.",
+        "bn": "বিশ্বস্ত হওয়া মানে ভুল উপেক্ষা করা নয়, বরং সত্যের পাশে থাকা।"
+      }
+    ],
+    "synonyms": ["faithful", "devoted", "trustworthy"]
+  },
+  {
+    "base": "luck",
+    "phonetic": "lʌk",
+    "meaning": "ভাগ্য",
+    "examples": [
+      {
+        "en": "Good luck can sometimes change the outcome of a difficult situation.",
+        "bn": "ভালো ভাগ্য কখনও কখনও কঠিন পরিস্থিতির ফলাফল পরিবর্তন করতে পারে।"
+      },
+      {
+        "en": "He had no luck finding a job despite trying many times.",
+        "bn": "অনেক চেষ্টা করেও সে চাকরি পেতে কোনো ভাগ্য পায়নি।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She believes that hard work matters more than luck in the long run.",
+        "bn": "সে বিশ্বাস করে দীর্ঘমেয়াদে ভাগ্যের চেয়ে পরিশ্রম বেশি গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "With a bit of luck, we might finish the project before the deadline.",
+        "bn": "কিছুটা ভাগ্য সহায় হলে আমরা সময়সীমার আগেই প্রকল্পটি শেষ করতে পারি।"
+      },
+      {
+        "en": "He thanked his luck for escaping the accident without any injury.",
+        "bn": "কোনো আঘাত ছাড়াই দুর্ঘটনা থেকে বাঁচার জন্য সে তার ভাগ্যকে ধন্যবাদ জানিয়েছে।"
+      },
+      {
+        "en": "Bad luck followed him throughout the entire week.",
+        "bn": "পুরো সপ্তাহ জুড়ে দুর্ভাগ্য তাকে অনুসরণ করেছে।"
+      },
+      {
+        "en": "She wished him good luck before his important exam started.",
+        "bn": "গুরুত্বপূর্ণ পরীক্ষার আগে সে তাকে শুভকামনা জানিয়েছিল।"
+      },
+      {
+        "en": "Sometimes success depends on both skill and a little luck.",
+        "bn": "কখনও কখনও সাফল্য দক্ষতা এবং সামান্য ভাগ্যের উপর নির্ভর করে।"
+      },
+      {
+        "en": "He had the luck to meet the right person at the right time.",
+        "bn": "সঠিক সময়ে সঠিক মানুষের সাথে দেখা করার ভাগ্য তার হয়েছিল।"
+      },
+      {
+        "en": "They relied too much on luck instead of proper planning.",
+        "bn": "তারা সঠিক পরিকল্পনার পরিবর্তে ভাগ্যের উপর বেশি নির্ভর করেছিল।"
+      },
+      {
+        "en": "Her luck changed after she started working hard consistently.",
+        "bn": "নিয়মিত কঠোর পরিশ্রম শুরু করার পর তার ভাগ্য বদলে গেছে।"
+      },
+      {
+        "en": "Luck alone cannot guarantee success without effort and discipline.",
+        "bn": "শুধু ভাগ্য দিয়ে পরিশ্রম ও শৃঙ্খলা ছাড়া সাফল্য নিশ্চিত করা যায় না।"
+      }
+    ],
+    "synonyms": ["fortune", "chance", "fate"]
+  },
+  {
+    "base": "lucky",
+    "phonetic": "ˈlʌki",
+    "meaning": "ভাগ্যবান",
+    "examples": [
+      {
+        "en": "He felt lucky to get such a great opportunity early in his career.",
+        "bn": "ক্যারিয়ারের শুরুতেই এমন একটি ভালো সুযোগ পেয়ে সে নিজেকে ভাগ্যবান মনে করেছিল।"
+      },
+      {
+        "en": "She was lucky enough to avoid the accident at the last moment.",
+        "bn": "শেষ মুহূর্তে দুর্ঘটনা এড়াতে পেরে সে ভাগ্যবান ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "You are lucky to have such supportive friends around you always.",
+        "bn": "তোমার চারপাশে এমন সহায়ক বন্ধু থাকা সত্যিই ভাগ্যের বিষয়।"
+      },
+      {
+        "en": "He considered himself lucky after passing the exam with good marks.",
+        "bn": "ভালো নম্বর পেয়ে পরীক্ষায় পাশ করার পর সে নিজেকে ভাগ্যবান মনে করেছে।"
+      },
+      {
+        "en": "She was lucky to find her lost bag exactly where she had left it.",
+        "bn": "যেখানে ব্যাগটি রেখে গিয়েছিল সেখানেই খুঁজে পেয়ে সে ভাগ্যবান ছিল।"
+      },
+      {
+        "en": "They were lucky that the storm ended before causing serious damage.",
+        "bn": "গুরুতর ক্ষতি করার আগেই ঝড় থেমে যাওয়ায় তারা ভাগ্যবান ছিল।"
+      },
+      {
+        "en": "He felt lucky to learn from such an experienced teacher.",
+        "bn": "এত অভিজ্ঞ শিক্ষকের কাছ থেকে শিখতে পেরে সে ভাগ্যবান মনে করেছে।"
+      },
+      {
+        "en": "She is lucky to work in a positive and supportive environment.",
+        "bn": "সে একটি ইতিবাচক ও সহায়ক পরিবেশে কাজ করতে পেরে ভাগ্যবান।"
+      },
+      {
+        "en": "We are lucky to live in a time with so many learning resources.",
+        "bn": "এত শেখার সুযোগ থাকা সময়ে বেঁচে থাকা আমাদের জন্য সৌভাগ্যের বিষয়।"
+      },
+      {
+        "en": "He was lucky enough to catch the last train before it departed.",
+        "bn": "শেষ ট্রেনটি ছাড়ার আগে ধরতে পেরে সে ভাগ্যবান ছিল।"
+      },
+      {
+        "en": "They felt lucky after winning the competition unexpectedly.",
+        "bn": "অপ্রত্যাশিতভাবে প্রতিযোগিতা জিতে তারা নিজেদের ভাগ্যবান মনে করেছে।"
+      },
+      {
+        "en": "You are lucky if you find a job that you truly enjoy doing.",
+        "bn": "তুমি সত্যিই ভাগ্যবান যদি এমন কাজ পাও যা তুমি উপভোগ করো।"
+      }
+    ],
+    "synonyms": ["fortunate", "blessed", "favored"]
+  },
+  {
+    "base": "lunch",
+    "phonetic": "lʌntʃ",
+    "meaning": "দুপুরের খাবার",
+    "examples": [
+      {
+        "en": "We had lunch together at a small restaurant near the office.",
+        "bn": "আমরা অফিসের কাছের একটি ছোট রেস্টুরেন্টে একসাথে দুপুরের খাবার খেয়েছিলাম।"
+      },
+      {
+        "en": "She usually brings homemade lunch to work every day.",
+        "bn": "সে প্রতিদিন কাজে বাড়ির তৈরি দুপুরের খাবার নিয়ে আসে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He skipped lunch because he was too busy with his work schedule.",
+        "bn": "কাজের ব্যস্ততার কারণে সে দুপুরের খাবার খেতে পারেনি।"
+      },
+      {
+        "en": "They decided to have lunch outside after finishing the meeting.",
+        "bn": "মিটিং শেষ করার পর তারা বাইরে দুপুরের খাবার খাওয়ার সিদ্ধান্ত নিয়েছিল।"
+      },
+      {
+        "en": "She prepared a healthy lunch with fresh vegetables and rice.",
+        "bn": "সে তাজা সবজি ও ভাত দিয়ে একটি স্বাস্থ্যকর দুপুরের খাবার প্রস্তুত করেছে।"
+      },
+      {
+        "en": "We usually take a short break during lunch to relax and talk.",
+        "bn": "আমরা সাধারণত দুপুরের খাবারের সময় একটু বিরতি নিয়ে বিশ্রাম করি এবং কথা বলি।"
+      },
+      {
+        "en": "The lunch menu includes a variety of traditional dishes.",
+        "bn": "দুপুরের খাবারের মেনুতে বিভিন্ন ধরনের ঐতিহ্যবাহী খাবার রয়েছে।"
+      },
+      {
+        "en": "He invited his colleagues to join him for lunch at a nearby café.",
+        "bn": "সে তার সহকর্মীদের কাছের একটি ক্যাফেতে দুপুরের খাবারে যোগ দিতে আমন্ত্রণ জানিয়েছিল।"
+      },
+      {
+        "en": "She finished her lunch quickly and returned to her desk.",
+        "bn": "সে দ্রুত তার দুপুরের খাবার শেষ করে তার ডেস্কে ফিরে গেছে।"
+      },
+      {
+        "en": "They packed lunch for the trip to avoid eating outside food.",
+        "bn": "বাইরের খাবার এড়াতে তারা ভ্রমণের জন্য দুপুরের খাবার সঙ্গে নিয়েছিল।"
+      },
+      {
+        "en": "Lunch time is a great opportunity to take a break from work.",
+        "bn": "দুপুরের খাবারের সময় কাজ থেকে বিরতি নেওয়ার একটি ভালো সুযোগ।"
+      },
+      {
+        "en": "He ordered a simple lunch that was both healthy and filling.",
+        "bn": "সে একটি সাধারণ কিন্তু স্বাস্থ্যকর ও পেট ভরানো দুপুরের খাবার অর্ডার করেছিল।"
+      }
+    ],
+    "synonyms": ["midday meal", "meal"]
+  },
+  {
+    "base": "luxury",
+    "phonetic": "ˈlʌkʃəri",
+    "meaning": "বিলাসিতা",
+    "examples": [
+      {
+        "en": "They stayed in a luxury hotel that offered world-class services and comfort.",
+        "bn": "তারা একটি বিলাসবহুল হোটেলে থেকেছিল যেখানে বিশ্বমানের সেবা ও আরাম ছিল।"
+      },
+      {
+        "en": "Owning a private car is considered a luxury for many people.",
+        "bn": "নিজস্ব গাড়ি থাকা অনেক মানুষের জন্য বিলাসিতা হিসেবে বিবেচিত হয়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The house was designed with luxury features and modern technology.",
+        "bn": "বাড়িটি বিলাসবহুল বৈশিষ্ট্য এবং আধুনিক প্রযুক্তি দিয়ে ডিজাইন করা হয়েছে।"
+      },
+      {
+        "en": "They enjoyed a luxury lifestyle with access to high-end facilities.",
+        "bn": "তারা উচ্চমানের সুবিধা নিয়ে একটি বিলাসবহুল জীবনযাপন উপভোগ করেছে।"
+      },
+      {
+        "en": "The brand is known for producing luxury products for elite customers.",
+        "bn": "এই ব্র্যান্ডটি উচ্চবিত্ত গ্রাহকদের জন্য বিলাসবহুল পণ্য তৈরি করার জন্য পরিচিত।"
+      },
+      {
+        "en": "Staying in such a place felt like a rare luxury experience.",
+        "bn": "এমন জায়গায় থাকা একটি বিরল বিলাসবহুল অভিজ্ঞতা মনে হয়েছে।"
+      },
+      {
+        "en": "He spent money on luxury items that were not really necessary.",
+        "bn": "সে এমন বিলাসবহুল জিনিসে টাকা খরচ করেছে যা আসলে প্রয়োজনীয় ছিল না।"
+      },
+      {
+        "en": "The car offers a luxury feel with its comfortable seats and smooth performance.",
+        "bn": "গাড়িটি আরামদায়ক আসন ও মসৃণ পারফরম্যান্স দিয়ে বিলাসবহুল অনুভূতি দেয়।"
+      },
+      {
+        "en": "They turned their home into a space of comfort and luxury.",
+        "bn": "তারা তাদের বাড়িকে আরাম ও বিলাসিতার জায়গায় রূপান্তর করেছে।"
+      },
+      {
+        "en": "Luxury should not replace basic needs and priorities in life.",
+        "bn": "জীবনে মৌলিক চাহিদা ও অগ্রাধিকারের জায়গায় বিলাসিতা আসা উচিত নয়।"
+      },
+      {
+        "en": "She prefers simple living over unnecessary luxury.",
+        "bn": "সে অপ্রয়োজনীয় বিলাসিতার চেয়ে সহজ জীবনযাপন পছন্দ করে।"
+      },
+      {
+        "en": "The hotel provides luxury services that ensure complete comfort.",
+        "bn": "হোটেলটি সম্পূর্ণ আরাম নিশ্চিত করতে বিলাসবহুল সেবা প্রদান করে।"
+      }
+    ],
+    "synonyms": ["comfort", "opulence", "extravagance"]
+  },
+
+  {
+    "base": "label",
+    "phonetic": "ˈleɪbl",
+    "meaning": "লেবেল / চিহ্নিত করা",
+    "examples": [
+      {
+        "en": "Please label each box before storage.",
+        "bn": "সংরক্ষণের আগে প্রতিটি বাক্সে লেবেল লাগাও।"
+      },
+      {
+        "en": "The label on the bottle shows its ingredients.",
+        "bn": "বোতলের লেবেলে এর উপাদানগুলো দেখানো আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She labeled all the folders carefully.",
+        "bn": "সে সব ফোল্ডারে সাবধানে লেবেল লাগিয়েছে।"
+      },
+      {
+        "en": "The product label contains important information.",
+        "bn": "পণ্যের লেবেলে গুরুত্বপূর্ণ তথ্য থাকে।"
+      },
+      {
+        "en": "He forgot to label the samples in the lab.",
+        "bn": "সে ল্যাবে নমুনাগুলো লেবেল করতে ভুলে গেছে।"
+      },
+      {
+        "en": "Each file should be clearly labeled.",
+        "bn": "প্রতিটি ফাইল পরিষ্কারভাবে লেবেল করা উচিত।"
+      },
+      {
+        "en": "The label was printed in bold letters.",
+        "bn": "লেবেলটি মোটা অক্ষরে প্রিন্ট করা হয়েছিল।"
+      },
+      {
+        "en": "She removed the old label from the jar.",
+        "bn": "সে জার থেকে পুরোনো লেবেল খুলে ফেলেছে।"
+      },
+      {
+        "en": "The label helps customers identify the product.",
+        "bn": "লেবেল গ্রাহকদের পণ্য চিহ্নিত করতে সাহায্য করে।"
+      },
+      {
+        "en": "He designed a new label for the brand.",
+        "bn": "সে ব্র্যান্ডের জন্য একটি নতুন লেবেল ডিজাইন করেছে।"
+      },
+      {
+        "en": "The label was damaged during transport.",
+        "bn": "পরিবহনের সময় লেবেলটি ক্ষতিগ্রস্ত হয়েছে।"
+      },
+      {
+        "en": "Always read the label before using medicine.",
+        "bn": "ওষুধ ব্যবহারের আগে সবসময় লেবেল পড়ো।"
+      }
+    ],
+    "synonyms": ["tag", "mark", "sticker"]
+  },
+  {
+    "base": "ladder",
+    "phonetic": "ˈlædər",
+    "meaning": "সিঁড়ি (পোর্টেবল)",
+    "examples": [
+      {
+        "en": "He climbed the ladder to fix the roof.",
+        "bn": "সে ছাদ মেরামত করতে সিঁড়িতে উঠেছিল।"
+      },
+      {
+        "en": "Be careful when using a tall ladder.",
+        "bn": "লম্বা সিঁড়ি ব্যবহার করার সময় সাবধান থাকো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The painter used a ladder to reach the wall.",
+        "bn": "চিত্রকর দেয়ালে পৌঁছাতে সিঁড়ি ব্যবহার করেছে।"
+      },
+      {
+        "en": "She fell from the ladder while cleaning the window.",
+        "bn": "জানালা পরিষ্কার করার সময় সে সিঁড়ি থেকে পড়ে গেছে।"
+      },
+      {
+        "en": "They bought a new aluminum ladder.",
+        "bn": "তারা একটি নতুন অ্যালুমিনিয়ামের সিঁড়ি কিনেছে।"
+      },
+      {
+        "en": "He climbed the ladder step by step.",
+        "bn": "সে ধাপে ধাপে সিঁড়ি বেয়ে উঠেছে।"
+      },
+      {
+        "en": "The ladder was too short for the task.",
+        "bn": "কাজটির জন্য সিঁড়িটি খুব ছোট ছিল।"
+      },
+      {
+        "en": "She held the ladder while he climbed up.",
+        "bn": "সে সিঁড়িটি ধরে রেখেছিল যখন সে উঠছিল।"
+      },
+      {
+        "en": "The ladder slipped on the wet floor.",
+        "bn": "ভেজা মেঝেতে সিঁড়িটি পিছলে গেছে।"
+      },
+      {
+        "en": "Firefighters used a ladder to rescue people.",
+        "bn": "দমকলকর্মীরা মানুষ উদ্ধার করতে সিঁড়ি ব্যবহার করেছে।"
+      },
+      {
+        "en": "He stored the ladder in the garage.",
+        "bn": "সে গ্যারেজে সিঁড়িটি রেখেছে।"
+      },
+      {
+        "en": "A wooden ladder stood against the wall.",
+        "bn": "একটি কাঠের সিঁড়ি দেয়ালের সাথে হেলান দিয়ে ছিল।"
+      }
+    ],
+    "synonyms": ["stair", "steps", "rung"]
+  },
+  {
+    "base": "language",
+    "phonetic": "ˈlæŋɡwɪdʒ",
+    "meaning": "ভাষা",
+    "examples": [
+      {
+        "en": "English is a global language.",
+        "bn": "ইংরেজি একটি বৈশ্বিক ভাষা।"
+      },
+      {
+        "en": "She is learning a new language.",
+        "bn": "সে একটি নতুন ভাষা শিখছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Language helps us communicate with others.",
+        "bn": "ভাষা আমাদের অন্যদের সাথে যোগাযোগ করতে সাহায্য করে।"
+      },
+      {
+        "en": "He speaks three different languages.",
+        "bn": "সে তিনটি ভিন্ন ভাষা বলতে পারে।"
+      },
+      {
+        "en": "Learning a language takes time and practice.",
+        "bn": "ভাষা শেখার জন্য সময় ও অনুশীলন দরকার।"
+      },
+      {
+        "en": "She improved her language skills quickly.",
+        "bn": "সে দ্রুত তার ভাষার দক্ষতা উন্নত করেছে।"
+      },
+      {
+        "en": "Body language is also important.",
+        "bn": "শারীরিক ভাষাও গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "The course focuses on spoken language.",
+        "bn": "কোর্সটি কথ্য ভাষার উপর গুরুত্ব দেয়।"
+      },
+      {
+        "en": "Language changes over time.",
+        "bn": "ভাষা সময়ের সাথে পরিবর্তিত হয়।"
+      },
+      {
+        "en": "He studied language at university.",
+        "bn": "সে বিশ্ববিদ্যালয়ে ভাষা পড়েছে।"
+      },
+      {
+        "en": "Different regions have different languages.",
+        "bn": "বিভিন্ন অঞ্চলে ভিন্ন ভাষা রয়েছে।"
+      },
+      {
+        "en": "Technology is changing how we use language.",
+        "bn": "প্রযুক্তি আমাদের ভাষা ব্যবহারের ধরন পরিবর্তন করছে।"
+      }
+    ],
+    "synonyms": ["dialect", "speech", "tongue"]
+  },
+  {
+    "base": "laugh",
+    "phonetic": "læf",
+    "meaning": "হাসা",
+    "examples": [
+      {
+        "en": "They laughed loudly at the funny joke.",
+        "bn": "মজার কৌতুকে তারা জোরে হেসেছিল।"
+      },
+      {
+        "en": "Her laugh made everyone feel happy.",
+        "bn": "তার হাসি সবাইকে খুশি করেছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He couldn’t stop laughing during the movie.",
+        "bn": "ছবির সময় সে হাসি থামাতে পারেনি।"
+      },
+      {
+        "en": "We laugh together every evening.",
+        "bn": "আমরা প্রতিদিন সন্ধ্যায় একসাথে হাসি।"
+      },
+      {
+        "en": "She laughed at her own mistake.",
+        "bn": "সে নিজের ভুল দেখে হেসে ফেলেছিল।"
+      },
+      {
+        "en": "The children laughed happily in the park.",
+        "bn": "শিশুরা পার্কে আনন্দে হাসছিল।"
+      },
+      {
+        "en": "His joke made everyone laugh.",
+        "bn": "তার কৌতুক সবাইকে হাসিয়েছে।"
+      },
+      {
+        "en": "They laughed until they cried.",
+        "bn": "তারা হাসতে হাসতে কেঁদে ফেলেছিল।"
+      },
+      { "en": "She has a very sweet laugh.", "bn": "তার হাসি খুব মিষ্টি।" },
+      {
+        "en": "We laugh even during difficult times.",
+        "bn": "আমরা কঠিন সময়েও হাসি।"
+      },
+      {
+        "en": "He laughed nervously before the interview.",
+        "bn": "ইন্টারভিউয়ের আগে সে নার্ভাসভাবে হেসেছিল।"
+      },
+      { "en": "Laughing reduces stress.", "bn": "হাসা মানসিক চাপ কমায়।" }
+    ],
+    "synonyms": ["giggle", "smile", "chuckle"]
+  },
+  {
+    "base": "law",
+    "phonetic": "lɔː",
+    "meaning": "আইন",
+    "examples": [
+      { "en": "Everyone must follow the law.", "bn": "সবাইকে আইন মানতে হবে।" },
+      {
+        "en": "He studied law at university.",
+        "bn": "সে বিশ্ববিদ্যালয়ে আইন পড়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The law protects citizens' rights.",
+        "bn": "আইন নাগরিকদের অধিকার রক্ষা করে।"
+      },
+      {
+        "en": "Breaking the law has serious consequences.",
+        "bn": "আইন ভাঙার গুরুতর পরিণতি আছে।"
+      },
+      {
+        "en": "She works in the field of law.",
+        "bn": "সে আইন ক্ষেত্রে কাজ করে।"
+      },
+      {
+        "en": "New laws were introduced last year.",
+        "bn": "গত বছর নতুন আইন চালু হয়েছে।"
+      },
+      {
+        "en": "The law applies to everyone equally.",
+        "bn": "আইন সবার জন্য সমানভাবে প্রযোজ্য।"
+      },
+      {
+        "en": "He is familiar with international law.",
+        "bn": "সে আন্তর্জাতিক আইনের সাথে পরিচিত।"
+      },
+      {
+        "en": "The law was changed recently.",
+        "bn": "আইনটি সম্প্রতি পরিবর্তন করা হয়েছে।"
+      },
+      {
+        "en": "They consulted a law expert.",
+        "bn": "তারা একজন আইন বিশেষজ্ঞের সাথে পরামর্শ করেছে।"
+      },
+      { "en": "The law must be respected.", "bn": "আইনকে সম্মান করতে হবে।" },
+      {
+        "en": "She wants to become a law professional.",
+        "bn": "সে আইন পেশায় যেতে চায়।"
+      }
+    ],
+    "synonyms": ["rule", "regulation", "act"]
+  },
+  {
+    "base": "lawyer",
+    "phonetic": "ˈlɔɪər",
+    "meaning": "আইনজীবী",
+    "examples": [
+      {
+        "en": "He hired a lawyer for legal advice.",
+        "bn": "সে আইনি পরামর্শের জন্য একজন আইনজীবী নিয়োগ করেছে।"
+      },
+      {
+        "en": "The lawyer presented the case in court.",
+        "bn": "আইনজীবী আদালতে মামলাটি উপস্থাপন করেছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She is working as a successful lawyer.",
+        "bn": "সে একজন সফল আইনজীবী হিসেবে কাজ করছে।"
+      },
+      {
+        "en": "The lawyer explained the legal process clearly.",
+        "bn": "আইনজীবী আইনি প্রক্রিয়া পরিষ্কারভাবে ব্যাখ্যা করেছে।"
+      },
+      {
+        "en": "He consulted a lawyer before signing the contract.",
+        "bn": "চুক্তিতে স্বাক্ষর করার আগে সে আইনজীবীর সাথে পরামর্শ করেছে।"
+      },
+      {
+        "en": "The lawyer defended his client strongly.",
+        "bn": "আইনজীবী তার মক্কেলকে জোরালোভাবে রক্ষা করেছে।"
+      },
+      {
+        "en": "She wants to become a criminal lawyer.",
+        "bn": "সে একজন ফৌজদারি আইনজীবী হতে চায়।"
+      },
+      {
+        "en": "The lawyer prepared all necessary documents.",
+        "bn": "আইনজীবী সব প্রয়োজনীয় নথি প্রস্তুত করেছে।"
+      },
+      {
+        "en": "He met with his lawyer before the hearing.",
+        "bn": "শুনানির আগে সে তার আইনজীবীর সাথে দেখা করেছে।"
+      },
+      {
+        "en": "A good lawyer understands both law and people.",
+        "bn": "একজন ভালো আইনজীবী আইন ও মানুষ দুটোই বোঝে।"
+      },
+      {
+        "en": "The lawyer argued the case confidently.",
+        "bn": "আইনজীবী আত্মবিশ্বাসের সাথে মামলাটি উপস্থাপন করেছে।"
+      },
+      {
+        "en": "She works as a corporate lawyer.",
+        "bn": "সে কর্পোরেট আইনজীবী হিসেবে কাজ করে।"
+      }
+    ],
+    "synonyms": ["attorney", "advocate", "counsel"]
+  },
+  {
+    "base": "layer",
+    "phonetic": "ˈleɪər",
+    "meaning": "স্তর",
+    "examples": [
+      {
+        "en": "The earth has several layers beneath its surface.",
+        "bn": "পৃথিবীর পৃষ্ঠের নিচে অনেক স্তর রয়েছে।"
+      },
+      {
+        "en": "She added a layer of paint to the wall.",
+        "bn": "সে দেয়ালে একটি রঙের স্তর যোগ করেছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The cake has multiple layers of cream.",
+        "bn": "কেকটিতে ক্রিমের একাধিক স্তর রয়েছে।"
+      },
+      {
+        "en": "A thick layer of snow covered the ground.",
+        "bn": "মাটির উপর বরফের একটি পুরু স্তর ছিল।"
+      },
+      {
+        "en": "He removed the top layer carefully.",
+        "bn": "সে উপরের স্তরটি সাবধানে সরিয়েছে।"
+      },
+      {
+        "en": "The atmosphere consists of different layers.",
+        "bn": "বায়ুমণ্ডল বিভিন্ন স্তর নিয়ে গঠিত।"
+      },
+      {
+        "en": "She applied a protective layer on the surface.",
+        "bn": "সে পৃষ্ঠে একটি সুরক্ষামূলক স্তর প্রয়োগ করেছে।"
+      },
+      {
+        "en": "Each layer has a different function.",
+        "bn": "প্রতিটি স্তরের আলাদা কাজ রয়েছে।"
+      },
+      {
+        "en": "The cake was made with chocolate layers.",
+        "bn": "কেকটি চকলেটের স্তর দিয়ে তৈরি ছিল।"
+      },
+      {
+        "en": "The skin has multiple protective layers.",
+        "bn": "ত্বকের একাধিক সুরক্ষামূলক স্তর রয়েছে।"
+      },
+      {
+        "en": "He studied the geological layers of rocks.",
+        "bn": "সে পাথরের ভূতাত্ত্বিক স্তর নিয়ে পড়াশোনা করেছে।"
+      },
+      {
+        "en": "The system works in multiple layers.",
+        "bn": "সিস্টেমটি একাধিক স্তরে কাজ করে।"
+      }
+    ],
+    "synonyms": ["level", "stratum", "sheet"]
+  },
+  {
+    "base": "leader",
+    "phonetic": "ˈliːdər",
+    "meaning": "নেতা",
+    "examples": [
+      {
+        "en": "A good leader inspires people to achieve great things.",
+        "bn": "একজন ভালো নেতা মানুষকে বড় কিছু অর্জনে অনুপ্রাণিত করে।"
+      },
+      {
+        "en": "She became the leader of the team.",
+        "bn": "সে দলের নেতা হয়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The leader guided the group during the crisis.",
+        "bn": "নেতা সংকটের সময় দলকে পরিচালনা করেছে।"
+      },
+      {
+        "en": "He is a respected political leader.",
+        "bn": "সে একজন সম্মানিত রাজনৈতিক নেতা।"
+      },
+      {
+        "en": "A strong leader listens to others.",
+        "bn": "একজন শক্তিশালী নেতা অন্যদের কথা শোনে।"
+      },
+      {
+        "en": "The leader made an important decision.",
+        "bn": "নেতা একটি গুরুত্বপূর্ণ সিদ্ধান্ত নিয়েছে।"
+      },
+      {
+        "en": "She is a natural leader in her class.",
+        "bn": "সে তার ক্লাসে স্বাভাবিকভাবেই একজন নেতা।"
+      },
+      {
+        "en": "The leader motivated the team to succeed.",
+        "bn": "নেতা দলকে সফল হতে অনুপ্রাণিত করেছে।"
+      },
+      {
+        "en": "He became the leader after many years of experience.",
+        "bn": "অনেক বছরের অভিজ্ঞতার পর সে নেতা হয়েছে।"
+      },
+      {
+        "en": "The leader solved the problem efficiently.",
+        "bn": "নেতা দক্ষতার সাথে সমস্যাটি সমাধান করেছে।"
+      },
+      {
+        "en": "She respects her team leader.",
+        "bn": "সে তার দলনেতাকে সম্মান করে।"
+      },
+      {
+        "en": "Good leaders build strong teams.",
+        "bn": "ভালো নেতারা শক্তিশালী দল গড়ে তোলে।"
+      }
+    ],
+    "synonyms": ["chief", "head", "commander"]
+  },
+  {
+    "base": "lecture",
+    "phonetic": "ˈlɛktʃər",
+    "meaning": "বক্তৃতা / ক্লাস",
+    "examples": [
+      {
+        "en": "The professor gave an interesting lecture on science.",
+        "bn": "অধ্যাপক বিজ্ঞান নিয়ে একটি আকর্ষণীয় বক্তৃতা দিয়েছেন।"
+      },
+      {
+        "en": "She attended a lecture at the university.",
+        "bn": "সে বিশ্ববিদ্যালয়ে একটি বক্তৃতায় অংশ নিয়েছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The lecture covered important historical events.",
+        "bn": "বক্তৃতাটি গুরুত্বপূর্ণ ঐতিহাসিক ঘটনা নিয়ে আলোচনা করেছে।"
+      },
+      {
+        "en": "He missed the lecture due to illness.",
+        "bn": "অসুস্থতার কারণে সে বক্তৃতা মিস করেছে।"
+      },
+      {
+        "en": "The lecture was very informative.",
+        "bn": "বক্তৃতাটি খুব তথ্যবহুল ছিল।"
+      },
+      {
+        "en": "She prepared notes before the lecture.",
+        "bn": "সে বক্তৃতার আগে নোট প্রস্তুত করেছে।"
+      },
+      {
+        "en": "The lecture lasted for two hours.",
+        "bn": "বক্তৃতাটি দুই ঘণ্টা ধরে চলেছিল।"
+      },
+      {
+        "en": "Students asked questions after the lecture.",
+        "bn": "বক্তৃতার পর শিক্ষার্থীরা প্রশ্ন করেছে।"
+      },
+      {
+        "en": "The lecture was delivered online.",
+        "bn": "বক্তৃতাটি অনলাইনে দেওয়া হয়েছে।"
+      },
+      {
+        "en": "He enjoyed the lecture on technology.",
+        "bn": "সে প্রযুক্তি নিয়ে বক্তৃতাটি উপভোগ করেছে।"
+      },
+      {
+        "en": "The lecture helped students understand the topic.",
+        "bn": "বক্তৃতাটি শিক্ষার্থীদের বিষয়টি বুঝতে সাহায্য করেছে।"
+      },
+      {
+        "en": "She gave a lecture on environmental issues.",
+        "bn": "সে পরিবেশগত সমস্যা নিয়ে একটি বক্তৃতা দিয়েছে।"
+      }
+    ],
+    "synonyms": ["talk", "speech", "presentation"]
   }
 ]
+
+
