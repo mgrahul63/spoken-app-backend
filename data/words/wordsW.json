@@ -346,5 +346,4976 @@
       }
     ],
     "synonyms": ["amazement", "curiosity", "awe"]
+  },
+
+  {
+    "base": "walk",
+    "phonetic": "wɔːk",
+    "meaning": "হাঁটা / পদব্রজে যাওয়া",
+    "examples": [
+      {
+        "en": "She walks to school every day.",
+        "bn": "সে প্রতিদিন স্কুলে হেঁটে যায়।"
+      },
+      { "en": "He went for a walk in the park.", "bn": "সে পার্কে হাঁটতে গেল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Walk slowly and enjoy the view.",
+        "bn": "ধীরে হাঁটো এবং দৃশ্য উপভোগ করো।"
+      },
+      { "en": "She walked home alone.", "bn": "সে একা বাড়ি হেঁটে গেল।" },
+      { "en": "He walked for an hour.", "bn": "সে এক ঘন্টা হাঁটল।" },
+      {
+        "en": "Walking is good for health.",
+        "bn": "হাঁটা স্বাস্থ্যের জন্য ভালো।"
+      },
+      {
+        "en": "She walked with confidence.",
+        "bn": "সে আত্মবিশ্বাসের সাথে হাঁটল।"
+      },
+      { "en": "He walked along the beach.", "bn": "সে সৈকত ধরে হাঁটল।" },
+      {
+        "en": "They walked together in silence.",
+        "bn": "তারা নীরবে একসাথে হাঁটল।"
+      },
+      {
+        "en": "She walked away without a word.",
+        "bn": "সে কোনো কথা না বলে চলে গেল।"
+      },
+      { "en": "He walked into the room.", "bn": "সে ঘরে প্রবেশ করল।" },
+      {
+        "en": "Walk every morning to stay fit.",
+        "bn": "সুস্থ থাকতে প্রতিদিন সকালে হাঁটো।"
+      }
+    ],
+    "synonyms": ["stroll", "march", "stride"]
+  },
+  {
+    "base": "want",
+    "phonetic": "wɒnt",
+    "meaning": "চাওয়া / ইচ্ছা করা",
+    "examples": [
+      { "en": "I want to learn English.", "bn": "আমি ইংরেজি শিখতে চাই।" },
+      { "en": "She wants a new book.", "bn": "সে একটি নতুন বই চায়।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He wants to travel the world.",
+        "bn": "সে পৃথিবী ভ্রমণ করতে চায়।"
+      },
+      { "en": "What do you want to eat?", "bn": "তুমি কী খেতে চাও?" },
+      { "en": "She wants to be a doctor.", "bn": "সে ডাক্তার হতে চায়।" },
+      { "en": "He wants more time.", "bn": "সে আরো সময় চায়।" },
+      {
+        "en": "They want peace and happiness.",
+        "bn": "তারা শান্তি ও সুখ চায়।"
+      },
+      {
+        "en": "She wants to help others.",
+        "bn": "সে অন্যদের সাহায্য করতে চায়।"
+      },
+      {
+        "en": "He wants to improve himself.",
+        "bn": "সে নিজেকে উন্নত করতে চায়।"
+      },
+      {
+        "en": "Want what you need not what others have.",
+        "bn": "তোমার যা দরকার তা চাও অন্যের মতো নয়।"
+      },
+      {
+        "en": "She wants to finish her work.",
+        "bn": "সে তার কাজ শেষ করতে চায়।"
+      },
+      { "en": "He wants a better life.", "bn": "সে একটি ভালো জীবন চায়।" }
+    ],
+    "synonyms": ["desire", "wish", "need"]
+  },
+  {
+    "base": "warm",
+    "phonetic": "wɔːrm",
+    "meaning": "উষ্ণ / গরম",
+    "examples": [
+      { "en": "The weather is warm today.", "bn": "আজ আবহাওয়া উষ্ণ।" },
+      { "en": "She gave him a warm hug.", "bn": "সে তাকে উষ্ণ আলিঙ্গন করল।" }
+    ],
+    "moreexample": [
+      { "en": "He wore a warm jacket.", "bn": "সে একটি উষ্ণ জ্যাকেট পরল।" },
+      {
+        "en": "The soup was warm and comforting.",
+        "bn": "স্যুপটি উষ্ণ ও আরামদায়ক ছিল।"
+      },
+      { "en": "She had a warm smile.", "bn": "তার একটি উষ্ণ হাসি ছিল।" },
+      {
+        "en": "Warm water helps digestion.",
+        "bn": "উষ্ণ পানি হজমে সাহায্য করে।"
+      },
+      {
+        "en": "He was warm and friendly.",
+        "bn": "সে উষ্ণ ও বন্ধুত্বপূর্ণ ছিল।"
+      },
+      { "en": "She sat near the warm fire.", "bn": "সে উষ্ণ আগুনের কাছে বসল।" },
+      {
+        "en": "The room was warm and cozy.",
+        "bn": "ঘরটি উষ্ণ ও আরামদায়ক ছিল।"
+      },
+      { "en": "He gave a warm welcome.", "bn": "সে উষ্ণ স্বাগত জানাল।" },
+      {
+        "en": "She warmed up before exercise.",
+        "bn": "সে ব্যায়ামের আগে ওয়ার্মআপ করল।"
+      },
+      {
+        "en": "Warm colors make rooms cheerful.",
+        "bn": "উষ্ণ রং ঘর প্রফুল্ল করে।"
+      }
+    ],
+    "synonyms": ["cozy", "heated", "friendly"]
+  },
+  {
+    "base": "watch",
+    "phonetic": "wɒtʃ",
+    "meaning": "দেখা / পর্যবেক্ষণ করা",
+    "examples": [
+      { "en": "She watched the sunset.", "bn": "সে সূর্যাস্ত দেখল।" },
+      {
+        "en": "He watches TV every evening.",
+        "bn": "সে প্রতি সন্ধ্যায় টিভি দেখে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Watch your step carefully.", "bn": "সাবধানে পা ফেলো।" },
+      {
+        "en": "She watched the children play.",
+        "bn": "সে শিশুদের খেলতে দেখল।"
+      },
+      { "en": "He watched the game online.", "bn": "সে অনলাইনে খেলা দেখল।" },
+      { "en": "Watch what you say.", "bn": "কী বলছ সেদিকে খেয়াল রাখো।" },
+      { "en": "She watched him closely.", "bn": "সে তাকে মনোযোগ দিয়ে দেখল।" },
+      { "en": "He watched the stars at night.", "bn": "সে রাতে তারা দেখল।" },
+      { "en": "Watch and learn from others.", "bn": "অন্যদের দেখে শেখো।" },
+      {
+        "en": "She watched the movie twice.",
+        "bn": "সে সিনেমাটি দুইবার দেখল।"
+      },
+      { "en": "He kept watch all night.", "bn": "সে সারারাত পাহারা দিল।" },
+      {
+        "en": "Watch your health carefully.",
+        "bn": "তোমার স্বাস্থ্যের দিকে সাবধানে খেয়াল রাখো।"
+      }
+    ],
+    "synonyms": ["observe", "monitor", "view"]
+  },
+  {
+    "base": "water",
+    "phonetic": "ˈwɔːtər",
+    "meaning": "পানি / জল",
+    "examples": [
+      {
+        "en": "Drink plenty of water daily.",
+        "bn": "প্রতিদিন প্রচুর পানি পান করো।"
+      },
+      { "en": "She watered the plants.", "bn": "সে গাছে পানি দিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Water is essential for life.",
+        "bn": "পানি জীবনের জন্য অপরিহার্য।"
+      },
+      {
+        "en": "He swam in the clear water.",
+        "bn": "সে স্বচ্ছ পানিতে সাঁতার কাটল।"
+      },
+      {
+        "en": "Save water for the future.",
+        "bn": "ভবিষ্যতের জন্য পানি সাশ্রয় করো।"
+      },
+      { "en": "She drank cold water.", "bn": "সে ঠান্ডা পানি পান করল।" },
+      { "en": "The river water was clean.", "bn": "নদীর পানি পরিষ্কার ছিল।" },
+      { "en": "He poured water into the glass.", "bn": "সে গ্লাসে পানি ঢালল।" },
+      {
+        "en": "Water the garden every morning.",
+        "bn": "প্রতিদিন সকালে বাগানে পানি দাও।"
+      },
+      {
+        "en": "She washed her hands with water.",
+        "bn": "সে পানি দিয়ে হাত ধুল।"
+      },
+      {
+        "en": "Clean water is a basic right.",
+        "bn": "বিশুদ্ধ পানি একটি মৌলিক অধিকার।"
+      },
+      { "en": "He loves the sound of water.", "bn": "সে পানির শব্দ ভালোবাসে।" }
+    ],
+    "synonyms": ["liquid", "H2O", "fluid"]
+  },
+  {
+    "base": "wave",
+    "phonetic": "weɪv",
+    "meaning": "ঢেউ / হাত নাড়া",
+    "examples": [
+      { "en": "She waved goodbye.", "bn": "সে বিদায় জানিয়ে হাত নাড়ল।" },
+      {
+        "en": "The waves crashed on the shore.",
+        "bn": "ঢেউগুলো তীরে আছড়ে পড়ল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He waved at his friend.",
+        "bn": "সে বন্ধুকে হাত নেড়ে অভিবাদন জানাল।"
+      },
+      { "en": "The flag waved in the wind.", "bn": "পতাকাটি বাতাসে উড়ল।" },
+      { "en": "She felt the ocean waves.", "bn": "সে সমুদ্রের ঢেউ অনুভব করল।" },
+      { "en": "He surfed the big waves.", "bn": "সে বড় ঢেউয়ে সার্ফ করল।" },
+      {
+        "en": "Wave to the crowd politely.",
+        "bn": "ভিড়কে ভদ্রভাবে হাত নেড়ে অভিবাদন জানাও।"
+      },
+      { "en": "She waved her hair.", "bn": "সে তার চুল তরঙ্গায়িত করল।" },
+      {
+        "en": "The waves were very high today.",
+        "bn": "আজ ঢেউগুলো অনেক উঁচু ছিল।"
+      },
+      { "en": "He waved his hand to stop.", "bn": "সে থামাতে হাত নাড়াল।" },
+      {
+        "en": "She watched the waves gently roll.",
+        "bn": "সে ঢেউগুলো মৃদুভাবে গড়াতে দেখল।"
+      },
+      { "en": "A wave of emotion hit him.", "bn": "তার মনে আবেগের ঢেউ উঠল।" }
+    ],
+    "synonyms": ["ripple", "surge", "gesture"]
+  },
+  {
+    "base": "wear",
+    "phonetic": "weər",
+    "meaning": "পরা / পরিধান করা",
+    "examples": [
+      { "en": "She wears a blue dress.", "bn": "সে একটি নীল পোশাক পরে।" },
+      { "en": "He wore a suit to the meeting.", "bn": "সে মিটিংয়ে স্যুট পরল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Wear comfortable shoes for walking.",
+        "bn": "হাঁটার জন্য আরামদায়ক জুতো পরো।"
+      },
+      { "en": "She wears glasses.", "bn": "সে চশমা পরে।" },
+      { "en": "He wore his best clothes.", "bn": "সে তার সেরা পোশাক পরল।" },
+      {
+        "en": "Always wear a helmet while riding.",
+        "bn": "গাড়ি চালানোর সময় সবসময় হেলমেট পরো।"
+      },
+      {
+        "en": "She wore a beautiful necklace.",
+        "bn": "সে একটি সুন্দর নেকলেস পরল।"
+      },
+      { "en": "He wore a warm coat.", "bn": "সে একটি উষ্ণ কোট পরল।" },
+      {
+        "en": "Wear clean clothes every day.",
+        "bn": "প্রতিদিন পরিষ্কার পোশাক পরো।"
+      },
+      { "en": "She wore a smile on her face.", "bn": "তার মুখে হাসি ছিল।" },
+      {
+        "en": "He wore his uniform proudly.",
+        "bn": "সে গর্বের সাথে ইউনিফর্ম পরল।"
+      },
+      {
+        "en": "Wear protective gear at work.",
+        "bn": "কাজে সুরক্ষামূলক পোশাক পরো।"
+      }
+    ],
+    "synonyms": ["dress", "put on", "don"]
+  },
+  {
+    "base": "welcome",
+    "phonetic": "ˈwelkəm",
+    "meaning": "স্বাগত জানানো / স্বাগত",
+    "examples": [
+      { "en": "Welcome to our school.", "bn": "আমাদের স্কুলে স্বাগতম।" },
+      {
+        "en": "She welcomed the guests warmly.",
+        "bn": "সে অতিথিদের উষ্ণভাবে স্বাগত জানাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He felt welcome in the new place.",
+        "bn": "নতুন জায়গায় সে স্বাগত অনুভব করল।"
+      },
+      { "en": "They gave a warm welcome.", "bn": "তারা উষ্ণ স্বাগত জানাল।" },
+      { "en": "She welcomed the change.", "bn": "সে পরিবর্তনকে স্বাগত জানাল।" },
+      { "en": "He was welcomed by all.", "bn": "সবাই তাকে স্বাগত জানাল।" },
+      {
+        "en": "Welcome everyone with a smile.",
+        "bn": "হাসি দিয়ে সবাইকে স্বাগত জানাও।"
+      },
+      {
+        "en": "She felt welcomed and accepted.",
+        "bn": "সে স্বাগত ও গৃহীত অনুভব করল।"
+      },
+      {
+        "en": "He welcomed the opportunity.",
+        "bn": "সে সুযোগটিকে স্বাগত জানাল।"
+      },
+      {
+        "en": "They welcomed the new student.",
+        "bn": "তারা নতুন শিক্ষার্থীকে স্বাগত জানাল।"
+      },
+      {
+        "en": "She welcomed him with open arms.",
+        "bn": "সে তাকে খোলা বাহুতে স্বাগত জানাল।"
+      },
+      {
+        "en": "Your help is always welcome.",
+        "bn": "তোমার সাহায্য সবসময় স্বাগত।"
+      }
+    ],
+    "synonyms": ["greet", "receive", "accept"]
+  },
+  {
+    "base": "win",
+    "phonetic": "wɪn",
+    "meaning": "জেতা / বিজয়ী হওয়া",
+    "examples": [
+      { "en": "She won the competition.", "bn": "সে প্রতিযোগিতা জিতল।" },
+      { "en": "He always plays to win.", "bn": "সে সবসময় জেতার জন্য খেলে।" }
+    ],
+    "moreexample": [
+      { "en": "They won the championship.", "bn": "তারা চ্যাম্পিয়নশিপ জিতল।" },
+      { "en": "She won first place.", "bn": "সে প্রথম স্থান জিতল।" },
+      { "en": "He won the award.", "bn": "সে পুরস্কার জিতল।" },
+      {
+        "en": "Win with grace and humility.",
+        "bn": "মার্জিত ও বিনম্রভাবে জেতো।"
+      },
+      { "en": "She won everyone's heart.", "bn": "সে সবার হৃদয় জিতল।" },
+      {
+        "en": "He worked hard to win.",
+        "bn": "সে জেতার জন্য কঠোর পরিশ্রম করল।"
+      },
+      { "en": "They won the match easily.", "bn": "তারা সহজে ম্যাচ জিতল।" },
+      { "en": "She won a scholarship.", "bn": "সে বৃত্তি জিতল।" },
+      {
+        "en": "He won against all odds.",
+        "bn": "সে সব প্রতিকূলতার বিরুদ্ধে জিতল।"
+      },
+      {
+        "en": "Win or lose keep trying.",
+        "bn": "জিতো বা হারো চেষ্টা চালিয়ে যাও।"
+      }
+    ],
+    "synonyms": ["succeed", "triumph", "achieve"]
+  },
+  {
+    "base": "wish",
+    "phonetic": "wɪʃ",
+    "meaning": "ইচ্ছা করা / কামনা করা",
+    "examples": [
+      { "en": "I wish you good luck.", "bn": "আমি তোমার জন্য শুভকামনা করি।" },
+      {
+        "en": "She wished for a better life.",
+        "bn": "সে একটি ভালো জীবনের ইচ্ছা করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He wished on a shooting star.", "bn": "সে উল্কায় ইচ্ছা করল।" },
+      {
+        "en": "She wished her friend happy birthday.",
+        "bn": "সে বন্ধুকে জন্মদিনের শুভেচ্ছা জানাল।"
+      },
+      {
+        "en": "Wish others well always.",
+        "bn": "সবসময় অন্যদের মঙ্গল কামনা করো।"
+      },
+      {
+        "en": "He wished to travel more.",
+        "bn": "সে আরো ভ্রমণ করতে ইচ্ছা করল।"
+      },
+      {
+        "en": "She wished she had studied harder.",
+        "bn": "সে ইচ্ছা করল যে আরো কঠোর পড়ত।"
+      },
+      { "en": "He wished for peace.", "bn": "সে শান্তির কামনা করল।" },
+      {
+        "en": "They wished each other well.",
+        "bn": "তারা একে অপরের মঙ্গল কামনা করল।"
+      },
+      {
+        "en": "She wished him a safe journey.",
+        "bn": "সে তাকে নিরাপদ যাত্রার কামনা করল।"
+      },
+      {
+        "en": "He wished to start over.",
+        "bn": "সে নতুন করে শুরু করতে ইচ্ছা করল।"
+      },
+      {
+        "en": "Wish big and work hard.",
+        "bn": "বড় স্বপ্ন দেখো এবং কঠোর পরিশ্রম করো।"
+      }
+    ],
+    "synonyms": ["desire", "hope", "long for"]
+  },
+  {
+    "base": "wonder",
+    "phonetic": "ˈwʌndər",
+    "meaning": "বিস্মিত হওয়া / ভাবা",
+    "examples": [
+      {
+        "en": "She wondered about the future.",
+        "bn": "সে ভবিষ্যৎ নিয়ে ভাবল।"
+      },
+      { "en": "He wondered at the beauty.", "bn": "সে সৌন্দর্যে বিস্মিত হলো।" }
+    ],
+    "moreexample": [
+      {
+        "en": "I wonder what she is thinking.",
+        "bn": "আমি ভাবছি সে কী ভাবছে।"
+      },
+      {
+        "en": "She wondered how it happened.",
+        "bn": "সে ভাবল কীভাবে এটি হলো।"
+      },
+      { "en": "He wondered at the stars.", "bn": "সে তারা দেখে বিস্মিত হলো।" },
+      {
+        "en": "Wonder is the beginning of wisdom.",
+        "bn": "বিস্ময় জ্ঞানের শুরু।"
+      },
+      { "en": "She wondered if she was right.", "bn": "সে ভাবল সে সঠিক কিনা।" },
+      {
+        "en": "He wondered about the mystery.",
+        "bn": "সে রহস্যটি নিয়ে ভাবল।"
+      },
+      {
+        "en": "They wondered at nature's beauty.",
+        "bn": "তারা প্রকৃতির সৌন্দর্যে বিস্মিত হলো।"
+      },
+      { "en": "She wondered what to do next.", "bn": "সে ভাবল পরে কী করবে।" },
+      {
+        "en": "He wondered about his purpose.",
+        "bn": "সে তার উদ্দেশ্য নিয়ে ভাবল।"
+      },
+      {
+        "en": "Wonder and explore the world.",
+        "bn": "বিস্মিত হও এবং পৃথিবী অন্বেষণ করো।"
+      }
+    ],
+    "synonyms": ["marvel", "ponder", "question"]
+  },
+  {
+    "base": "work",
+    "phonetic": "wɜːrk",
+    "meaning": "কাজ করা / পরিশ্রম করা",
+    "examples": [
+      {
+        "en": "She works hard every day.",
+        "bn": "সে প্রতিদিন কঠোর পরিশ্রম করে।"
+      },
+      { "en": "He works at a hospital.", "bn": "সে একটি হাসপাতালে কাজ করে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Work smart not just hard.",
+        "bn": "শুধু কঠোর নয় বুদ্ধিমানের সাথে কাজ করো।"
+      },
+      { "en": "She worked on the project.", "bn": "সে প্রকল্পে কাজ করল।" },
+      { "en": "He worked overtime yesterday.", "bn": "সে গতকাল ওভারটাইম করল।" },
+      { "en": "They worked as a team.", "bn": "তারা দল হিসেবে কাজ করল।" },
+      {
+        "en": "She worked to support her family.",
+        "bn": "সে পরিবারকে সহায়তা করতে কাজ করল।"
+      },
+      { "en": "He works from home now.", "bn": "সে এখন ঘর থেকে কাজ করে।" },
+      {
+        "en": "Work brings purpose and dignity.",
+        "bn": "কাজ উদ্দেশ্য ও মর্যাদা দেয়।"
+      },
+      { "en": "She worked through the night.", "bn": "সে রাত জেগে কাজ করল।" },
+      {
+        "en": "He worked on his weaknesses.",
+        "bn": "সে তার দুর্বলতা নিয়ে কাজ করল।"
+      },
+      {
+        "en": "Work together for better results.",
+        "bn": "ভালো ফলাফলের জন্য একসাথে কাজ করো।"
+      }
+    ],
+    "synonyms": ["labor", "toil", "effort"]
+  },
+  {
+    "base": "worry",
+    "phonetic": "ˈwʌri",
+    "meaning": "চিন্তা করা / উদ্বিগ্ন হওয়া",
+    "examples": [
+      {
+        "en": "Do not worry about small things.",
+        "bn": "ছোট বিষয়ে চিন্তা করো না।"
+      },
+      {
+        "en": "She worried about her health.",
+        "bn": "সে তার স্বাস্থ্য নিয়ে চিন্তিত ছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He worried all night.", "bn": "সে সারারাত চিন্তা করল।" },
+      {
+        "en": "Stop worrying and start acting.",
+        "bn": "চিন্তা বন্ধ করো এবং কাজ শুরু করো।"
+      },
+      {
+        "en": "She worried about her children.",
+        "bn": "সে তার সন্তানদের নিয়ে চিন্তিত ছিল।"
+      },
+      {
+        "en": "He worried about the deadline.",
+        "bn": "সে সময়সীমা নিয়ে চিন্তিত ছিল।"
+      },
+      {
+        "en": "Worrying does not solve problems.",
+        "bn": "চিন্তা করা সমস্যা সমাধান করে না।"
+      },
+      {
+        "en": "She tried not to worry.",
+        "bn": "সে চিন্তা না করার চেষ্টা করল।"
+      },
+      {
+        "en": "He worried about the future.",
+        "bn": "সে ভবিষ্যৎ নিয়ে চিন্তিত ছিল।"
+      },
+      { "en": "They worried together.", "bn": "তারা একসাথে চিন্তিত ছিল।" },
+      {
+        "en": "She worried less as she grew older.",
+        "bn": "বয়স বাড়ার সাথে সে কম চিন্তা করল।"
+      },
+      {
+        "en": "Worry less and live more.",
+        "bn": "কম চিন্তা করো এবং বেশি বাঁচো।"
+      }
+    ],
+    "synonyms": ["stress", "fret", "anxiety"]
+  },
+  {
+    "base": "write",
+    "phonetic": "raɪt",
+    "meaning": "লেখা / রচনা করা",
+    "examples": [
+      { "en": "She writes in her diary.", "bn": "সে তার দিনপঞ্জিতে লেখে।" },
+      { "en": "He wrote a beautiful poem.", "bn": "সে একটি সুন্দর কবিতা লিখল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Write your thoughts clearly.",
+        "bn": "তোমার চিন্তা স্পষ্টভাবে লেখো।"
+      },
+      {
+        "en": "She writes letters to her friends.",
+        "bn": "সে বন্ধুদের চিঠি লেখে।"
+      },
+      { "en": "He wrote a book last year.", "bn": "সে গত বছর একটি বই লিখল।" },
+      {
+        "en": "Write every day to improve.",
+        "bn": "উন্নতির জন্য প্রতিদিন লেখো।"
+      },
+      {
+        "en": "She wrote an essay on nature.",
+        "bn": "সে প্রকৃতির উপর একটি রচনা লিখল।"
+      },
+      {
+        "en": "He writes for a newspaper.",
+        "bn": "সে একটি সংবাদপত্রের জন্য লেখে।"
+      },
+      {
+        "en": "They wrote the report together.",
+        "bn": "তারা একসাথে প্রতিবেদন লিখল।"
+      },
+      {
+        "en": "She wrote her name on the board.",
+        "bn": "সে বোর্ডে তার নাম লিখল।"
+      },
+      { "en": "He wrote a thank you note.", "bn": "সে একটি ধন্যবাদ নোট লিখল।" },
+      { "en": "Write down your goals.", "bn": "তোমার লক্ষ্য লিখে রাখো।" }
+    ],
+    "synonyms": ["compose", "record", "pen"]
+  },
+  {
+    "base": "wrong",
+    "phonetic": "rɒŋ",
+    "meaning": "ভুল / অন্যায়",
+    "examples": [
+      { "en": "That answer is wrong.", "bn": "সেই উত্তরটি ভুল।" },
+      { "en": "She knew it was wrong.", "bn": "সে জানত এটি ভুল।" }
+    ],
+    "moreexample": [
+      { "en": "He did something wrong.", "bn": "সে কিছু ভুল করল।" },
+      {
+        "en": "Admit when you are wrong.",
+        "bn": "যখন ভুল করো তখন স্বীকার করো।"
+      },
+      {
+        "en": "She corrected the wrong answer.",
+        "bn": "সে ভুল উত্তর সংশোধন করল।"
+      },
+      { "en": "He took the wrong path.", "bn": "সে ভুল পথ নিল।" },
+      { "en": "It is wrong to lie.", "bn": "মিথ্যা বলা ভুল।" },
+      { "en": "She felt wrong about it.", "bn": "সে এটি নিয়ে ভুল অনুভব করল।" },
+      { "en": "He proved her wrong.", "bn": "সে তাকে ভুল প্রমাণ করল।" },
+      { "en": "Nothing went wrong today.", "bn": "আজ কিছুই ভুল হয়নি।" },
+      {
+        "en": "She learned from her wrong choices.",
+        "bn": "সে তার ভুল পছন্দ থেকে শিখল।"
+      },
+      {
+        "en": "Right the wrong you have done.",
+        "bn": "তুমি যে ভুল করেছ তা সংশোধন করো।"
+      }
+    ],
+    "synonyms": ["incorrect", "mistaken", "unjust"]
+  },
+  {
+    "base": "waste",
+    "phonetic": "weɪst",
+    "meaning": "অপচয় করা / নষ্ট করা",
+    "examples": [
+      { "en": "Do not waste your time.", "bn": "তোমার সময় নষ্ট করো না।" },
+      {
+        "en": "She wasted food carelessly.",
+        "bn": "সে অসাবধানে খাবার নষ্ট করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He wasted his opportunity.", "bn": "সে তার সুযোগ নষ্ট করল।" },
+      { "en": "Waste not want not.", "bn": "অপচয় করো না তাহলে অভাব হবে না।" },
+      { "en": "She reduced waste at home.", "bn": "সে বাড়িতে অপচয় কমাল।" },
+      {
+        "en": "He wasted money on useless things.",
+        "bn": "সে অকেজো জিনিসে অর্থ নষ্ট করল।"
+      },
+      {
+        "en": "Avoid wasting natural resources.",
+        "bn": "প্রাকৃতিক সম্পদের অপচয় এড়িয়ে চলো।"
+      },
+      {
+        "en": "She felt she had wasted her efforts.",
+        "bn": "সে মনে করল তার প্রচেষ্টা নষ্ট হয়েছে।"
+      },
+      {
+        "en": "He wasted no time getting started.",
+        "bn": "সে শুরু করতে একটুও সময় নষ্ট করল না।"
+      },
+      {
+        "en": "Waste management is important.",
+        "bn": "বর্জ্য ব্যবস্থাপনা গুরুত্বপূর্ণ।"
+      },
+      { "en": "She wasted her talent.", "bn": "সে তার প্রতিভা নষ্ট করল।" },
+      { "en": "Do not waste water.", "bn": "পানি নষ্ট করো না।" }
+    ],
+    "synonyms": ["squander", "misuse", "discard"]
+  },
+  {
+    "base": "weak",
+    "phonetic": "wiːk",
+    "meaning": "দুর্বল / শক্তিহীন",
+    "examples": [
+      {
+        "en": "She felt weak after the illness.",
+        "bn": "অসুস্থতার পর সে দুর্বল অনুভব করল।"
+      },
+      { "en": "He had a weak voice.", "bn": "তার একটি দুর্বল কণ্ঠস্বর ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The weak need our support.",
+        "bn": "দুর্বলদের আমাদের সহায়তা দরকার।"
+      },
+      {
+        "en": "She was weak but determined.",
+        "bn": "সে দুর্বল কিন্তু দৃঢ়প্রতিজ্ঞ ছিল।"
+      },
+      {
+        "en": "He felt weak without food.",
+        "bn": "খাবার ছাড়া সে দুর্বল অনুভব করল।"
+      },
+      {
+        "en": "Weak excuses do not help.",
+        "bn": "দুর্বল অজুহাত সাহায্য করে না।"
+      },
+      { "en": "She had weak knees.", "bn": "তার হাঁটু দুর্বল ছিল।" },
+      {
+        "en": "He became weak from stress.",
+        "bn": "চাপে সে দুর্বল হয়ে পড়ল।"
+      },
+      {
+        "en": "The weak signal caused problems.",
+        "bn": "দুর্বল সংকেত সমস্যা সৃষ্টি করল।"
+      },
+      {
+        "en": "She strengthened her weak points.",
+        "bn": "সে তার দুর্বল দিকগুলো শক্তিশালী করল।"
+      },
+      { "en": "He was weak in mathematics.", "bn": "সে গণিতে দুর্বল ছিল।" },
+      {
+        "en": "Weak foundations cause collapse.",
+        "bn": "দুর্বল ভিত্তি ধ্বংস ডেকে আনে।"
+      }
+    ],
+    "synonyms": ["feeble", "frail", "powerless"]
+  },
+  {
+    "base": "wealth",
+    "phonetic": "welθ",
+    "meaning": "সম্পদ / ধন",
+    "examples": [
+      {
+        "en": "Health is greater than wealth.",
+        "bn": "স্বাস্থ্য সম্পদের চেয়ে বেশি মূল্যবান।"
+      },
+      {
+        "en": "She accumulated wealth over time.",
+        "bn": "সে সময়ের সাথে সম্পদ সঞ্চয় করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He shared his wealth with others.",
+        "bn": "সে তার সম্পদ অন্যদের সাথে ভাগ করল।"
+      },
+      {
+        "en": "True wealth comes from within.",
+        "bn": "প্রকৃত সম্পদ ভেতর থেকে আসে।"
+      },
+      {
+        "en": "She built her wealth slowly.",
+        "bn": "সে ধীরে ধীরে তার সম্পদ গড়ল।"
+      },
+      {
+        "en": "He used his wealth wisely.",
+        "bn": "সে তার সম্পদ বুদ্ধিমানের সাথে ব্যবহার করল।"
+      },
+      {
+        "en": "Wealth without wisdom is dangerous.",
+        "bn": "জ্ঞান ছাড়া সম্পদ বিপজ্জনক।"
+      },
+      {
+        "en": "She donated part of her wealth.",
+        "bn": "সে তার সম্পদের একটি অংশ দান করল।"
+      },
+      {
+        "en": "He lost his wealth in business.",
+        "bn": "সে ব্যবসায় তার সম্পদ হারাল।"
+      },
+      {
+        "en": "Wealth brings responsibility.",
+        "bn": "সম্পদ দায়িত্ব নিয়ে আসে।"
+      },
+      {
+        "en": "She valued knowledge over wealth.",
+        "bn": "সে সম্পদের চেয়ে জ্ঞানকে মূল্য দিল।"
+      },
+      {
+        "en": "He worked hard to create wealth.",
+        "bn": "সে সম্পদ তৈরি করতে কঠোর পরিশ্রম করল।"
+      }
+    ],
+    "synonyms": ["riches", "fortune", "prosperity"]
+  },
+  {
+    "base": "weapon",
+    "phonetic": "ˈwepən",
+    "meaning": "অস্ত্র / হাতিয়ার",
+    "examples": [
+      {
+        "en": "Knowledge is a powerful weapon.",
+        "bn": "জ্ঞান একটি শক্তিশালী হাতিয়ার।"
+      },
+      {
+        "en": "He carried a weapon for safety.",
+        "bn": "সে নিরাপত্তার জন্য অস্ত্র বহন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She used her words as a weapon.",
+        "bn": "সে তার কথাকে অস্ত্র হিসেবে ব্যবহার করল।"
+      },
+      {
+        "en": "The weapon was confiscated.",
+        "bn": "অস্ত্রটি বাজেয়াপ্ত করা হলো।"
+      },
+      { "en": "Kindness is the best weapon.", "bn": "দয়া সেরা হাতিয়ার।" },
+      { "en": "He dropped his weapon.", "bn": "সে তার অস্ত্র ফেলে দিল।" },
+      { "en": "She had no weapon.", "bn": "তার কোনো অস্ত্র ছিল না।" },
+      { "en": "The weapon was hidden.", "bn": "অস্ত্রটি লুকানো ছিল।" },
+      { "en": "He surrendered his weapon.", "bn": "সে তার অস্ত্র সমর্পণ করল।" },
+      {
+        "en": "Love is the greatest weapon.",
+        "bn": "ভালোবাসা সবচেয়ে বড় হাতিয়ার।"
+      },
+      {
+        "en": "She defended herself without a weapon.",
+        "bn": "সে অস্ত্র ছাড়াই নিজেকে রক্ষা করল।"
+      },
+      {
+        "en": "Weapons should never harm innocents.",
+        "bn": "অস্ত্র কখনো নিরীহদের ক্ষতি করা উচিত নয়।"
+      }
+    ],
+    "synonyms": ["arm", "tool", "instrument"]
+  },
+  {
+    "base": "weather",
+    "phonetic": "ˈweðər",
+    "meaning": "আবহাওয়া / ঝড় সামলানো",
+    "examples": [
+      { "en": "The weather is nice today.", "bn": "আজ আবহাওয়া সুন্দর।" },
+      {
+        "en": "She weathered the storm bravely.",
+        "bn": "সে সাহসের সাথে ঝড় সামলাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Check the weather before going out.",
+        "bn": "বাইরে যাওয়ার আগে আবহাওয়া দেখো।"
+      },
+      {
+        "en": "He dressed for cold weather.",
+        "bn": "সে ঠান্ডা আবহাওয়ার জন্য পোশাক পরল।"
+      },
+      {
+        "en": "The weather changed suddenly.",
+        "bn": "আবহাওয়া হঠাৎ পরিবর্তন হলো।"
+      },
+      {
+        "en": "She loves rainy weather.",
+        "bn": "সে বৃষ্টির আবহাওয়া ভালোবাসে।"
+      },
+      {
+        "en": "He weathered many difficulties.",
+        "bn": "সে অনেক কঠিন পরিস্থিতি সামলাল।"
+      },
+      {
+        "en": "The weather forecast was wrong.",
+        "bn": "আবহাওয়ার পূর্বাভাস ভুল ছিল।"
+      },
+      {
+        "en": "She adapted to the cold weather.",
+        "bn": "সে ঠান্ডা আবহাওয়ার সাথে মানিয়ে নিল।"
+      },
+      {
+        "en": "Hot weather makes me tired.",
+        "bn": "গরম আবহাওয়া আমাকে ক্লান্ত করে।"
+      },
+      {
+        "en": "He enjoyed the spring weather.",
+        "bn": "সে বসন্তের আবহাওয়া উপভোগ করল।"
+      },
+      {
+        "en": "Weather affects our mood.",
+        "bn": "আবহাওয়া আমাদের মেজাজ প্রভাবিত করে।"
+      }
+    ],
+    "synonyms": ["climate", "conditions", "atmosphere"]
+  },
+  {
+    "base": "weigh",
+    "phonetic": "weɪ",
+    "meaning": "ওজন করা / বিবেচনা করা",
+    "examples": [
+      {
+        "en": "She weighed herself this morning.",
+        "bn": "সে এই সকালে নিজের ওজন করল।"
+      },
+      {
+        "en": "He weighed his options carefully.",
+        "bn": "সে সাবধানে তার বিকল্পগুলো বিবেচনা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Weigh the pros and cons.",
+        "bn": "সুবিধা ও অসুবিধা বিবেচনা করো।"
+      },
+      { "en": "She weighed the ingredients.", "bn": "সে উপাদানগুলো ওজন করল।" },
+      { "en": "He weighed every word.", "bn": "সে প্রতিটি শব্দ বিবেচনা করল।" },
+      {
+        "en": "The box weighed too much.",
+        "bn": "বাক্সটির ওজন অনেক বেশি ছিল।"
+      },
+      { "en": "She weighed the evidence.", "bn": "সে প্রমাণগুলো বিবেচনা করল।" },
+      {
+        "en": "He weighed the risks carefully.",
+        "bn": "সে সাবধানে ঝুঁকিগুলো বিবেচনা করল।"
+      },
+      {
+        "en": "Weigh your decisions before acting.",
+        "bn": "কাজ করার আগে তোমার সিদ্ধান্ত বিবেচনা করো।"
+      },
+      {
+        "en": "She weighed less than expected.",
+        "bn": "সে প্রত্যাশার চেয়ে কম ওজন ছিল।"
+      },
+      { "en": "He weighed the package.", "bn": "সে প্যাকেজটি ওজন করল।" },
+      {
+        "en": "Weigh the situation before reacting.",
+        "bn": "প্রতিক্রিয়া করার আগে পরিস্থিতি বিবেচনা করো।"
+      }
+    ],
+    "synonyms": ["measure", "consider", "evaluate"]
+  },
+
+  {
+    "base": "weird",
+    "phonetic": "wɪərd",
+    "meaning": "অদ্ভুত / অস্বাভাবিক",
+    "examples": [
+      { "en": "She had a weird dream.", "bn": "তার একটি অদ্ভুত স্বপ্ন হলো।" },
+      { "en": "He made a weird sound.", "bn": "সে একটি অদ্ভুত শব্দ করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "That was a weird experience.",
+        "bn": "সেটি একটি অদ্ভুত অভিজ্ঞতা ছিল।"
+      },
+      { "en": "She wore weird clothes.", "bn": "সে অদ্ভুত পোশাক পরল।" },
+      { "en": "He acted in a weird way.", "bn": "সে অদ্ভুতভাবে আচরণ করল।" },
+      { "en": "The weather was weird today.", "bn": "আজ আবহাওয়া অদ্ভুত ছিল।" },
+      { "en": "She gave a weird smile.", "bn": "সে একটি অদ্ভুত হাসি দিল।" },
+      { "en": "He had a weird habit.", "bn": "তার একটি অদ্ভুত অভ্যাস ছিল।" },
+      {
+        "en": "The noise was really weird.",
+        "bn": "শব্দটি সত্যিই অদ্ভুত ছিল।"
+      },
+      {
+        "en": "She felt weird about it.",
+        "bn": "সে এটি নিয়ে অদ্ভুত অনুভব করল।"
+      },
+      { "en": "He told a weird story.", "bn": "সে একটি অদ্ভুত গল্প বলল।" },
+      {
+        "en": "It is okay to be a little weird.",
+        "bn": "একটু অদ্ভুত হওয়া ঠিক আছে।"
+      }
+    ],
+    "synonyms": ["strange", "odd", "unusual"]
+  },
+  {
+    "base": "well",
+    "phonetic": "wel",
+    "meaning": "ভালো / সুস্থ",
+    "examples": [
+      { "en": "She is doing well.", "bn": "সে ভালো আছে।" },
+      { "en": "He speaks English well.", "bn": "সে ভালো ইংরেজি বলে।" }
+    ],
+    "moreexample": [
+      { "en": "Do your work well.", "bn": "তোমার কাজ ভালোভাবে করো।" },
+      { "en": "She slept well last night.", "bn": "সে গত রাতে ভালো ঘুমাল।" },
+      {
+        "en": "He treats others well.",
+        "bn": "সে অন্যদের সাথে ভালো আচরণ করে।"
+      },
+      { "en": "Well done on your results.", "bn": "তোমার ফলাফলে শাবাশ।" },
+      {
+        "en": "She recovered well after surgery.",
+        "bn": "অস্ত্রোপচারের পর সে ভালোভাবে সুস্থ হলো।"
+      },
+      { "en": "He knows her very well.", "bn": "সে তাকে খুব ভালো চেনে।" },
+      { "en": "Be well and stay healthy.", "bn": "ভালো থাকো এবং সুস্থ থাকো।" },
+      {
+        "en": "She handled it very well.",
+        "bn": "সে এটি খুব ভালোভাবে সামলাল।"
+      },
+      {
+        "en": "He is not feeling well today.",
+        "bn": "সে আজ ভালো অনুভব করছে না।"
+      },
+      {
+        "en": "Things will work out well.",
+        "bn": "জিনিসগুলো ভালোভাবে সমাধান হবে।"
+      }
+    ],
+    "synonyms": ["good", "healthy", "properly"]
+  },
+  {
+    "base": "widen",
+    "phonetic": "ˈwaɪdən",
+    "meaning": "প্রসারিত করা / বিস্তৃত করা",
+    "examples": [
+      { "en": "They widened the road.", "bn": "তারা রাস্তা প্রসারিত করল।" },
+      { "en": "She widened her knowledge.", "bn": "সে তার জ্ঞান বিস্তৃত করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He widened his perspective.",
+        "bn": "সে তার দৃষ্টিভঙ্গি বিস্তৃত করল।"
+      },
+      {
+        "en": "Widen your circle of friends.",
+        "bn": "তোমার বন্ধুদের বৃত্ত বিস্তৃত করো।"
+      },
+      {
+        "en": "The gap widened over time.",
+        "bn": "ব্যবধান সময়ের সাথে বাড়ল।"
+      },
+      { "en": "She widened her skills.", "bn": "সে তার দক্ষতা বিস্তৃত করল।" },
+      {
+        "en": "He widened the door frame.",
+        "bn": "সে দরজার ফ্রেম প্রসারিত করল।"
+      },
+      {
+        "en": "Widen your understanding of others.",
+        "bn": "অন্যদের সম্পর্কে তোমার বোঝাপড়া বিস্তৃত করো।"
+      },
+      {
+        "en": "The river widened near the sea.",
+        "bn": "সমুদ্রের কাছে নদীটি প্রসারিত হলো।"
+      },
+      {
+        "en": "She widened her search.",
+        "bn": "সে তার অনুসন্ধান বিস্তৃত করল।"
+      },
+      {
+        "en": "He widened his experience.",
+        "bn": "সে তার অভিজ্ঞতা বিস্তৃত করল।"
+      },
+      {
+        "en": "Widen your horizons every day.",
+        "bn": "প্রতিদিন তোমার দিগন্ত বিস্তৃত করো।"
+      }
+    ],
+    "synonyms": ["expand", "broaden", "extend"]
+  },
+  {
+    "base": "willing",
+    "phonetic": "ˈwɪlɪŋ",
+    "meaning": "ইচ্ছুক / রাজি",
+    "examples": [
+      { "en": "She was willing to help.", "bn": "সে সাহায্য করতে ইচ্ছুক ছিল।" },
+      { "en": "He was willing to learn.", "bn": "সে শিখতে রাজি ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Are you willing to try again?",
+        "bn": "তুমি কি আবার চেষ্টা করতে ইচ্ছুক?"
+      },
+      {
+        "en": "She was willing to sacrifice.",
+        "bn": "সে আত্মত্যাগ করতে ইচ্ছুক ছিল।"
+      },
+      {
+        "en": "He was willing to cooperate.",
+        "bn": "সে সহযোগিতা করতে রাজি ছিল।"
+      },
+      {
+        "en": "Be willing to accept change.",
+        "bn": "পরিবর্তন মেনে নিতে ইচ্ছুক হও।"
+      },
+      {
+        "en": "She was willing to forgive.",
+        "bn": "সে ক্ষমা করতে ইচ্ছুক ছিল।"
+      },
+      { "en": "He was willing to wait.", "bn": "সে অপেক্ষা করতে রাজি ছিল।" },
+      {
+        "en": "They were willing to work hard.",
+        "bn": "তারা কঠোর পরিশ্রম করতে ইচ্ছুক ছিল।"
+      },
+      {
+        "en": "She was willing to start over.",
+        "bn": "সে নতুন করে শুরু করতে ইচ্ছুক ছিল।"
+      },
+      { "en": "He was willing to share.", "bn": "সে ভাগ করতে রাজি ছিল।" },
+      {
+        "en": "Willing hearts achieve great things.",
+        "bn": "ইচ্ছুক হৃদয় বড় কাজ করে।"
+      }
+    ],
+    "synonyms": ["ready", "eager", "prepared"]
+  },
+  {
+    "base": "wisdom",
+    "phonetic": "ˈwɪzdəm",
+    "meaning": "জ্ঞান / প্রজ্ঞা",
+    "examples": [
+      {
+        "en": "She spoke with great wisdom.",
+        "bn": "সে অনেক প্রজ্ঞার সাথে কথা বলল।"
+      },
+      {
+        "en": "He gained wisdom through experience.",
+        "bn": "সে অভিজ্ঞতার মাধ্যমে প্রজ্ঞা অর্জন করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Wisdom comes with age.", "bn": "বয়সের সাথে প্রজ্ঞা আসে।" },
+      {
+        "en": "She shared her wisdom freely.",
+        "bn": "সে তার প্রজ্ঞা মুক্তভাবে ভাগ করল।"
+      },
+      {
+        "en": "He sought wisdom from elders.",
+        "bn": "সে বড়দের কাছ থেকে প্রজ্ঞা খুঁজল।"
+      },
+      {
+        "en": "Wisdom is better than wealth.",
+        "bn": "প্রজ্ঞা সম্পদের চেয়ে ভালো।"
+      },
+      {
+        "en": "She applied wisdom in her decisions.",
+        "bn": "সে তার সিদ্ধান্তে প্রজ্ঞা প্রয়োগ করল।"
+      },
+      {
+        "en": "He had the wisdom to stay calm.",
+        "bn": "শান্ত থাকার প্রজ্ঞা তার ছিল।"
+      },
+      {
+        "en": "True wisdom is knowing yourself.",
+        "bn": "প্রকৃত প্রজ্ঞা হলো নিজেকে জানা।"
+      },
+      {
+        "en": "She read books to gain wisdom.",
+        "bn": "সে প্রজ্ঞা অর্জনের জন্য বই পড়ল।"
+      },
+      {
+        "en": "He passed on his wisdom to others.",
+        "bn": "সে তার প্রজ্ঞা অন্যদের কাছে দিয়ে গেল।"
+      },
+      {
+        "en": "Wisdom guides good decisions.",
+        "bn": "প্রজ্ঞা ভালো সিদ্ধান্ত পরিচালিত করে।"
+      }
+    ],
+    "synonyms": ["knowledge", "insight", "understanding"]
+  },
+  {
+    "base": "wise",
+    "phonetic": "waɪz",
+    "meaning": "বিজ্ঞ / বুদ্ধিমান",
+    "examples": [
+      { "en": "She is a wise woman.", "bn": "সে একজন বিজ্ঞ নারী।" },
+      {
+        "en": "He made a wise decision.",
+        "bn": "সে একটি বুদ্ধিমানের সিদ্ধান্ত নিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Be wise in your choices.", "bn": "তোমার পছন্দে বুদ্ধিমান হও।" },
+      { "en": "She gave wise advice.", "bn": "সে বিজ্ঞ পরামর্শ দিল।" },
+      {
+        "en": "He was wise beyond his years.",
+        "bn": "সে তার বয়সের চেয়ে বেশি বিজ্ঞ ছিল।"
+      },
+      { "en": "Wise people listen more.", "bn": "বিজ্ঞ মানুষ বেশি শোনে।" },
+      {
+        "en": "She was wise enough to wait.",
+        "bn": "সে অপেক্ষা করার মতো বুদ্ধিমান ছিল।"
+      },
+      {
+        "en": "He made a wise investment.",
+        "bn": "সে একটি বুদ্ধিমানের বিনিয়োগ করল।"
+      },
+      {
+        "en": "A wise leader earns respect.",
+        "bn": "একজন বিজ্ঞ নেতা সম্মান অর্জন করে।"
+      },
+      {
+        "en": "She was wise to stay quiet.",
+        "bn": "সে চুপ থাকার মতো বুদ্ধিমান ছিল।"
+      },
+      {
+        "en": "He grew wiser with time.",
+        "bn": "সময়ের সাথে সে আরো বিজ্ঞ হলো।"
+      },
+      {
+        "en": "Wise words can change lives.",
+        "bn": "বিজ্ঞ কথা জীবন বদলাতে পারে।"
+      }
+    ],
+    "synonyms": ["smart", "prudent", "knowledgeable"]
+  },
+  {
+    "base": "withdraw",
+    "phonetic": "wɪðˈdrɔː",
+    "meaning": "প্রত্যাহার করা / সরে আসা",
+    "examples": [
+      {
+        "en": "She withdrew money from the bank.",
+        "bn": "সে ব্যাংক থেকে টাকা তুলল।"
+      },
+      {
+        "en": "He withdrew from the competition.",
+        "bn": "সে প্রতিযোগিতা থেকে সরে আসল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She withdrew her support.",
+        "bn": "সে তার সমর্থন প্রত্যাহার করল।"
+      },
+      { "en": "He withdrew into silence.", "bn": "সে নীরবতায় সরে গেল।" },
+      {
+        "en": "They withdrew their troops.",
+        "bn": "তারা তাদের সৈন্য প্রত্যাহার করল।"
+      },
+      {
+        "en": "She withdrew her application.",
+        "bn": "সে তার আবেদন প্রত্যাহার করল।"
+      },
+      {
+        "en": "He withdrew from public life.",
+        "bn": "সে সার্বজনীন জীবন থেকে সরে আসল।"
+      },
+      {
+        "en": "Withdraw only what you need.",
+        "bn": "শুধু যতটুকু দরকার ততটুকু তোলো।"
+      },
+      {
+        "en": "She withdrew her complaint.",
+        "bn": "সে তার অভিযোগ প্রত্যাহার করল।"
+      },
+      { "en": "He withdrew from the deal.", "bn": "সে চুক্তি থেকে সরে আসল।" },
+      { "en": "She withdrew into herself.", "bn": "সে নিজের মধ্যে সরে গেল।" },
+      {
+        "en": "He withdrew his harsh words.",
+        "bn": "সে তার কঠোর কথা প্রত্যাহার করল।"
+      }
+    ],
+    "synonyms": ["retreat", "remove", "pull back"]
+  },
+  {
+    "base": "witness",
+    "phonetic": "ˈwɪtnəs",
+    "meaning": "সাক্ষী / প্রত্যক্ষ করা",
+    "examples": [
+      {
+        "en": "She witnessed the accident.",
+        "bn": "সে দুর্ঘটনাটি প্রত্যক্ষ করল।"
+      },
+      {
+        "en": "He was a key witness.",
+        "bn": "সে একজন গুরুত্বপূর্ণ সাক্ষী ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They witnessed history being made.",
+        "bn": "তারা ইতিহাস তৈরি হতে প্রত্যক্ষ করল।"
+      },
+      {
+        "en": "She witnessed his kindness.",
+        "bn": "সে তার দয়া প্রত্যক্ষ করল।"
+      },
+      {
+        "en": "He testified as a witness.",
+        "bn": "সে সাক্ষী হিসেবে সাক্ষ্য দিল।"
+      },
+      {
+        "en": "Witness the beauty of nature.",
+        "bn": "প্রকৃতির সৌন্দর্য প্রত্যক্ষ করো।"
+      },
+      {
+        "en": "She was called as a witness.",
+        "bn": "তাকে সাক্ষী হিসেবে ডাকা হলো।"
+      },
+      {
+        "en": "He witnessed a miracle.",
+        "bn": "সে একটি অলৌকিক ঘটনা প্রত্যক্ষ করল।"
+      },
+      { "en": "The witness told the truth.", "bn": "সাক্ষী সত্য বলল।" },
+      {
+        "en": "She witnessed the signing.",
+        "bn": "সে স্বাক্ষর প্রত্যক্ষ করল।"
+      },
+      { "en": "He was the only witness.", "bn": "সে একমাত্র সাক্ষী ছিল।" },
+      {
+        "en": "Witness your own growth.",
+        "bn": "তোমার নিজের বিকাশ প্রত্যক্ষ করো।"
+      }
+    ],
+    "synonyms": ["observer", "spectator", "testify"]
+  },
+  {
+    "base": "wonderful",
+    "phonetic": "ˈwʌndərfl",
+    "meaning": "অসাধারণ / চমৎকার",
+    "examples": [
+      {
+        "en": "She had a wonderful time.",
+        "bn": "তার একটি অসাধারণ সময় কাটল।"
+      },
+      {
+        "en": "He gave a wonderful performance.",
+        "bn": "সে একটি চমৎকার পারফরম্যান্স দিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The view was wonderful.", "bn": "দৃশ্যটি অসাধারণ ছিল।" },
+      {
+        "en": "She cooked a wonderful meal.",
+        "bn": "সে একটি চমৎকার খাবার রান্না করল।"
+      },
+      { "en": "He told a wonderful story.", "bn": "সে একটি অসাধারণ গল্প বলল।" },
+      { "en": "What a wonderful surprise.", "bn": "কী একটি চমৎকার বিস্ময়।" },
+      { "en": "She is a wonderful teacher.", "bn": "সে একজন অসাধারণ শিক্ষক।" },
+      { "en": "He had a wonderful smile.", "bn": "তার একটি চমৎকার হাসি ছিল।" },
+      { "en": "The concert was wonderful.", "bn": "কনসার্টটি অসাধারণ ছিল।" },
+      { "en": "She did a wonderful job.", "bn": "সে একটি অসাধারণ কাজ করল।" },
+      {
+        "en": "He lived a wonderful life.",
+        "bn": "সে একটি চমৎকার জীবন কাটাল।"
+      },
+      {
+        "en": "Every day is a wonderful gift.",
+        "bn": "প্রতিটি দিন একটি চমৎকার উপহার।"
+      }
+    ],
+    "synonyms": ["amazing", "fantastic", "marvelous"]
+  },
+  {
+    "base": "worthy",
+    "phonetic": "ˈwɜːrði",
+    "meaning": "যোগ্য / মূল্যবান",
+    "examples": [
+      { "en": "She is worthy of respect.", "bn": "সে সম্মানের যোগ্য।" },
+      { "en": "He proved himself worthy.", "bn": "সে নিজেকে যোগ্য প্রমাণ করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Worthy goals require hard work.",
+        "bn": "যোগ্য লক্ষ্যে কঠোর পরিশ্রম লাগে।"
+      },
+      {
+        "en": "She was worthy of the award.",
+        "bn": "সে পুরস্কারের যোগ্য ছিল।"
+      },
+      {
+        "en": "He contributed to a worthy cause.",
+        "bn": "সে একটি মূল্যবান কারণে অবদান রাখল।"
+      },
+      { "en": "Be worthy of trust.", "bn": "বিশ্বাসের যোগ্য হও।" },
+      {
+        "en": "She was a worthy opponent.",
+        "bn": "সে একজন যোগ্য প্রতিপক্ষ ছিল।"
+      },
+      { "en": "He led a worthy life.", "bn": "সে একটি মূল্যবান জীবন কাটাল।" },
+      {
+        "en": "Every person is worthy of love.",
+        "bn": "প্রতিটি মানুষ ভালোবাসার যোগ্য।"
+      },
+      {
+        "en": "She proved herself worthy.",
+        "bn": "সে নিজেকে যোগ্য প্রমাণ করল।"
+      },
+      {
+        "en": "He made a worthy sacrifice.",
+        "bn": "সে একটি মূল্যবান আত্মত্যাগ করল।"
+      },
+      { "en": "Worthy deeds are remembered.", "bn": "যোগ্য কাজ মনে রাখা হয়।" }
+    ],
+    "synonyms": ["deserving", "meritorious", "valuable"]
+  },
+  {
+    "base": "wound",
+    "phonetic": "wuːnd",
+    "meaning": "আঘাত / ক্ষত",
+    "examples": [
+      { "en": "He had a deep wound.", "bn": "তার একটি গভীর ক্ষত ছিল।" },
+      { "en": "She wounded his feelings.", "bn": "সে তার অনুভূতিতে আঘাত করল।" }
+    ],
+    "moreexample": [
+      { "en": "The wound healed slowly.", "bn": "ক্ষতটি ধীরে ধীরে সারল।" },
+      {
+        "en": "She cleaned the wound carefully.",
+        "bn": "সে সাবধানে ক্ষতটি পরিষ্কার করল।"
+      },
+      { "en": "He was wounded in battle.", "bn": "সে যুদ্ধে আহত হলো।" },
+      { "en": "Words can wound deeply.", "bn": "কথা গভীরভাবে আঘাত করতে পারে।" },
+      { "en": "She bandaged the wound.", "bn": "সে ক্ষতে ব্যান্ডেজ করল।" },
+      { "en": "He nursed his wound.", "bn": "সে তার ক্ষতের যত্ন নিল।" },
+      { "en": "The wound left a scar.", "bn": "ক্ষতটি একটি দাগ রেখে গেল।" },
+      {
+        "en": "She healed from her wound.",
+        "bn": "সে তার ক্ষত থেকে সেরে উঠল।"
+      },
+      { "en": "His wound was serious.", "bn": "তার ক্ষত গুরুতর ছিল।" },
+      {
+        "en": "Time heals every wound.",
+        "bn": "সময় প্রতিটি ক্ষত সারিয়ে দেয়।"
+      }
+    ],
+    "synonyms": ["injury", "hurt", "damage"]
+  },
+  {
+    "base": "wrap",
+    "phonetic": "ræp",
+    "meaning": "মোড়ানো / জড়ানো",
+    "examples": [
+      {
+        "en": "She wrapped the gift nicely.",
+        "bn": "সে উপহারটি সুন্দরভাবে মোড়াল।"
+      },
+      {
+        "en": "He wrapped himself in a blanket.",
+        "bn": "সে কম্বলে নিজেকে জড়াল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Wrap the food to keep it fresh.",
+        "bn": "খাবার তাজা রাখতে মোড়াও।"
+      },
+      {
+        "en": "She wrapped her arms around him.",
+        "bn": "সে তার চারপাশে বাহু জড়াল।"
+      },
+      { "en": "He wrapped up the meeting.", "bn": "সে মিটিং শেষ করল।" },
+      { "en": "Wrap up warm in winter.", "bn": "শীতে উষ্ণভাবে মোড়াও।" },
+      {
+        "en": "She wrapped the baby carefully.",
+        "bn": "সে সাবধানে শিশুকে মোড়াল।"
+      },
+      {
+        "en": "He wrapped the parcel tightly.",
+        "bn": "সে পার্সেলটি শক্তভাবে মোড়াল।"
+      },
+      { "en": "They wrapped up the project.", "bn": "তারা প্রকল্পটি শেষ করল।" },
+      {
+        "en": "She wrapped the scarf around her neck.",
+        "bn": "সে গলায় স্কার্ফ জড়াল।"
+      },
+      {
+        "en": "He wrapped the wire carefully.",
+        "bn": "সে সাবধানে তারটি মোড়াল।"
+      },
+      {
+        "en": "Wrap your problems with patience.",
+        "bn": "ধৈর্য দিয়ে তোমার সমস্যা মোকাবেলা করো।"
+      }
+    ],
+    "synonyms": ["cover", "enclose", "bundle"]
+  },
+  {
+    "base": "wrestle",
+    "phonetic": "ˈresl",
+    "meaning": "কুস্তি করা / লড়াই করা",
+    "examples": [
+      {
+        "en": "He wrestled with the problem.",
+        "bn": "সে সমস্যার সাথে লড়াই করল।"
+      },
+      { "en": "She wrestled her fears.", "bn": "সে তার ভয়ের সাথে লড়াই করল।" }
+    ],
+    "moreexample": [
+      { "en": "They wrestled on the mat.", "bn": "তারা মাদুরে কুস্তি করল।" },
+      {
+        "en": "He wrestled with his conscience.",
+        "bn": "সে তার বিবেকের সাথে লড়াই করল।"
+      },
+      {
+        "en": "She wrestled with the decision.",
+        "bn": "সে সিদ্ধান্তের সাথে লড়াই করল।"
+      },
+      {
+        "en": "Wrestle your challenges boldly.",
+        "bn": "সাহসের সাথে তোমার চ্যালেঞ্জের সাথে লড়াই করো।"
+      },
+      {
+        "en": "He learned to wrestle young.",
+        "bn": "সে ছোটবেলায় কুস্তি শিখল।"
+      },
+      {
+        "en": "She wrestled with her emotions.",
+        "bn": "সে তার আবেগের সাথে লড়াই করল।"
+      },
+      {
+        "en": "He wrestled with the heavy bag.",
+        "bn": "সে ভারী ব্যাগের সাথে লড়াই করল।"
+      },
+      { "en": "Wrestling builds strength.", "bn": "কুস্তি শক্তি গড়ে।" },
+      {
+        "en": "She wrestled with her past.",
+        "bn": "সে তার অতীতের সাথে লড়াই করল।"
+      },
+      {
+        "en": "He wrestled until he succeeded.",
+        "bn": "সে সফল না হওয়া পর্যন্ত লড়াই করল।"
+      }
+    ],
+    "synonyms": ["struggle", "grapple", "fight"]
+  },
+  {
+    "base": "wander",
+    "phonetic": "ˈwɒndər",
+    "meaning": "ঘুরে বেড়ানো / বিচরণ করা",
+    "examples": [
+      { "en": "She wandered through the forest.", "bn": "সে বনে ঘুরে বেড়াল।" },
+      {
+        "en": "His mind wandered during class.",
+        "bn": "ক্লাসে তার মন বিচরণ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He wandered the streets alone.",
+        "bn": "সে একা রাস্তায় ঘুরে বেড়াল।"
+      },
+      {
+        "en": "She wandered into a new café.",
+        "bn": "সে একটি নতুন ক্যাফেতে ঘুরে গেল।"
+      },
+      {
+        "en": "Let your mind wander freely.",
+        "bn": "মনকে মুক্তভাবে বিচরণ করতে দাও।"
+      },
+      {
+        "en": "He wandered far from home.",
+        "bn": "সে ঘর থেকে অনেক দূরে ঘুরে গেল।"
+      },
+      {
+        "en": "She wandered around the market.",
+        "bn": "সে বাজারে ঘুরে বেড়াল।"
+      },
+      {
+        "en": "He wandered without purpose.",
+        "bn": "সে উদ্দেশ্য ছাড়া ঘুরে বেড়াল।"
+      },
+      {
+        "en": "They wandered through the city.",
+        "bn": "তারা শহরে ঘুরে বেড়াল।"
+      },
+      { "en": "She wandered into the park.", "bn": "সে পার্কে ঘুরে গেল।" },
+      {
+        "en": "His eyes wandered around the room.",
+        "bn": "তার চোখ ঘরের চারদিকে বিচরণ করল।"
+      },
+      {
+        "en": "Wander and discover new things.",
+        "bn": "ঘুরে বেড়াও এবং নতুন জিনিস আবিষ্কার করো।"
+      }
+    ],
+    "synonyms": ["roam", "drift", "stray"]
+  },
+  {
+    "base": "warn",
+    "phonetic": "wɔːrn",
+    "meaning": "সতর্ক করা / সাবধান করা",
+    "examples": [
+      {
+        "en": "She warned him about the danger.",
+        "bn": "সে তাকে বিপদ সম্পর্কে সতর্ক করল।"
+      },
+      { "en": "He warned the children.", "bn": "সে শিশুদের সাবধান করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Warn others before it is too late.",
+        "bn": "অনেক দেরি হওয়ার আগে অন্যদের সতর্ক করো।"
+      },
+      { "en": "She warned him not to go.", "bn": "সে তাকে না যেতে সতর্ক করল।" },
+      {
+        "en": "He warned about the storm.",
+        "bn": "সে ঝড় সম্পর্কে সতর্ক করল।"
+      },
+      {
+        "en": "They warned her of the risk.",
+        "bn": "তারা তাকে ঝুঁকি সম্পর্কে সতর্ক করল।"
+      },
+      {
+        "en": "She was warned in advance.",
+        "bn": "তাকে আগে থেকে সতর্ক করা হলো।"
+      },
+      {
+        "en": "He warned the team to be careful.",
+        "bn": "সে দলকে সাবধান থাকতে সতর্ক করল।"
+      },
+      {
+        "en": "Warn people about unsafe areas.",
+        "bn": "অনিরাপদ এলাকা সম্পর্কে মানুষদের সতর্ক করো।"
+      },
+      { "en": "She warned him kindly.", "bn": "সে তাকে দয়ার সাথে সতর্ক করল।" },
+      {
+        "en": "He warned about the consequences.",
+        "bn": "সে পরিণতি সম্পর্কে সতর্ক করল।"
+      },
+      {
+        "en": "She was warned but ignored it.",
+        "bn": "তাকে সতর্ক করা হয়েছিল কিন্তু সে উপেক্ষা করল।"
+      }
+    ],
+    "synonyms": ["caution", "alert", "advise"]
+  },
+  {
+    "base": "warrant",
+    "phonetic": "ˈwɒrənt",
+    "meaning": "ওয়ারেন্ট / ন্যায্যতা দেওয়া",
+    "examples": [
+      {
+        "en": "The police had a warrant.",
+        "bn": "পুলিশের কাছে ওয়ারেন্ট ছিল।"
+      },
+      {
+        "en": "His actions did not warrant punishment.",
+        "bn": "তার কাজ শাস্তির ন্যায্যতা দেয়নি।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She issued a warrant.", "bn": "সে একটি ওয়ারেন্ট জারি করল।" },
+      {
+        "en": "He warranted an investigation.",
+        "bn": "সে একটি তদন্তের ন্যায্যতা দিল।"
+      },
+      {
+        "en": "The situation warrants attention.",
+        "bn": "পরিস্থিতিটি মনোযোগের ন্যায্যতা দেয়।"
+      },
+      {
+        "en": "She got a search warrant.",
+        "bn": "সে একটি তল্লাশি ওয়ারেন্ট পেল।"
+      },
+      {
+        "en": "He warranted further study.",
+        "bn": "সে আরো অধ্যয়নের ন্যায্যতা দিল।"
+      },
+      {
+        "en": "The product came with a warranty.",
+        "bn": "পণ্যটি ওয়ারেন্টি সহ এল।"
+      },
+      {
+        "en": "She obtained an arrest warrant.",
+        "bn": "সে একটি গ্রেফতারি ওয়ারেন্ট পেল।"
+      },
+      {
+        "en": "His behavior warranted concern.",
+        "bn": "তার আচরণ উদ্বেগের ন্যায্যতা দিল।"
+      },
+      {
+        "en": "The judge signed the warrant.",
+        "bn": "বিচারক ওয়ারেন্টে স্বাক্ষর করলেন।"
+      },
+      {
+        "en": "She warranted special treatment.",
+        "bn": "সে বিশেষ সুবিধার ন্যায্যতা দিল।"
+      }
+    ],
+    "synonyms": ["authorize", "justify", "permit"]
+  },
+  {
+    "base": "warrior",
+    "phonetic": "ˈwɒriər",
+    "meaning": "যোদ্ধা / সংগ্রামী",
+    "examples": [
+      { "en": "She was a brave warrior.", "bn": "সে একজন সাহসী যোদ্ধা ছিল।" },
+      {
+        "en": "He fought like a true warrior.",
+        "bn": "সে একজন প্রকৃত যোদ্ধার মতো লড়াই করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Be a warrior not a worrier.", "bn": "চিন্তাবিদ নয় যোদ্ধা হও।" },
+      { "en": "She was a warrior of peace.", "bn": "সে শান্তির যোদ্ধা ছিল।" },
+      {
+        "en": "He trained to become a warrior.",
+        "bn": "সে যোদ্ধা হতে প্রশিক্ষণ নিল।"
+      },
+      { "en": "The warrior never gave up.", "bn": "যোদ্ধা কখনো হাল ছাড়েনি।" },
+      {
+        "en": "She was a warrior for justice.",
+        "bn": "সে ন্যায়বিচারের যোদ্ধা ছিল।"
+      },
+      {
+        "en": "He was a fearless warrior.",
+        "bn": "সে একজন নির্ভীক যোদ্ধা ছিল।"
+      },
+      {
+        "en": "Every survivor is a warrior.",
+        "bn": "প্রতিটি বেঁচে থাকা মানুষ একজন যোদ্ধা।"
+      },
+      {
+        "en": "She became a spiritual warrior.",
+        "bn": "সে একজন আধ্যাত্মিক যোদ্ধা হলো।"
+      },
+      {
+        "en": "He admired the ancient warriors.",
+        "bn": "সে প্রাচীন যোদ্ধাদের প্রশংসা করল।"
+      },
+      {
+        "en": "A true warrior fights with wisdom.",
+        "bn": "একজন প্রকৃত যোদ্ধা প্রজ্ঞার সাথে লড়াই করে।"
+      }
+    ],
+    "synonyms": ["fighter", "soldier", "champion"]
+  },
+  {
+    "base": "watchful",
+    "phonetic": "ˈwɒtʃfl",
+    "meaning": "সতর্ক / পর্যবেক্ষণশীল",
+    "examples": [
+      { "en": "She kept a watchful eye.", "bn": "সে সতর্ক দৃষ্টি রাখল।" },
+      {
+        "en": "He was watchful of his surroundings.",
+        "bn": "সে তার পরিবেশ সম্পর্কে সতর্ক ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Be watchful of strangers.",
+        "bn": "অপরিচিতদের বিষয়ে সতর্ক থাকো।"
+      },
+      {
+        "en": "She was watchful and careful.",
+        "bn": "সে সতর্ক ও সাবধানী ছিল।"
+      },
+      {
+        "en": "He remained watchful all night.",
+        "bn": "সে সারারাত সতর্ক থাকল।"
+      },
+      {
+        "en": "Watchful parents protect their children.",
+        "bn": "সতর্ক বাবা-মা সন্তানদের রক্ষা করেন।"
+      },
+      {
+        "en": "She was watchful of her health.",
+        "bn": "সে তার স্বাস্থ্যের ব্যাপারে সতর্ক ছিল।"
+      },
+      { "en": "He had watchful eyes.", "bn": "তার সতর্ক চোখ ছিল।" },
+      {
+        "en": "Stay watchful in new places.",
+        "bn": "নতুন জায়গায় সতর্ক থাকো।"
+      },
+      {
+        "en": "She was watchful during the journey.",
+        "bn": "যাত্রার সময় সে সতর্ক ছিল।"
+      },
+      { "en": "He kept a watchful guard.", "bn": "সে সতর্ক পাহারা রাখল।" },
+      {
+        "en": "Watchful minds catch every detail.",
+        "bn": "সতর্ক মন প্রতিটি বিস্তারিত লক্ষ্য করে।"
+      }
+    ],
+    "synonyms": ["alert", "vigilant", "observant"]
+  },
+  {
+    "base": "weaken",
+    "phonetic": "ˈwiːkən",
+    "meaning": "দুর্বল করা / শক্তি কমানো",
+    "examples": [
+      { "en": "The illness weakened him.", "bn": "অসুস্থতা তাকে দুর্বল করল।" },
+      {
+        "en": "She weakened under pressure.",
+        "bn": "চাপে সে দুর্বল হয়ে পড়ল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Fear weakens the mind.", "bn": "ভয় মনকে দুর্বল করে।" },
+      { "en": "He weakened his argument.", "bn": "সে তার যুক্তি দুর্বল করল।" },
+      {
+        "en": "The storm weakened overnight.",
+        "bn": "ঝড় রাতারাতি দুর্বল হলো।"
+      },
+      { "en": "She weakened with old age.", "bn": "বার্ধক্যে সে দুর্বল হলো।" },
+      {
+        "en": "Do not weaken your resolve.",
+        "bn": "তোমার সংকল্প দুর্বল করো না।"
+      },
+      { "en": "He weakened the structure.", "bn": "সে কাঠামোটি দুর্বল করল।" },
+      {
+        "en": "Negativity weakens the spirit.",
+        "bn": "নেতিবাচকতা মনোবল দুর্বল করে।"
+      },
+      {
+        "en": "She weakened after the surgery.",
+        "bn": "অস্ত্রোপচারের পর সে দুর্বল হলো।"
+      },
+      {
+        "en": "He weakened with exhaustion.",
+        "bn": "ক্লান্তিতে সে দুর্বল হলো।"
+      },
+      {
+        "en": "Weaken not your determination.",
+        "bn": "তোমার দৃঢ়তা দুর্বল করো না।"
+      }
+    ],
+    "synonyms": ["diminish", "reduce", "undermine"]
+  },
+
+  {
+    "base": "wealthy",
+    "phonetic": "ˈwelθi",
+    "meaning": "ধনী / সম্পদশালী",
+    "examples": [
+      {
+        "en": "She comes from a wealthy family.",
+        "bn": "সে একটি ধনী পরিবার থেকে এসেছে।"
+      },
+      {
+        "en": "He became wealthy through hard work.",
+        "bn": "সে কঠোর পরিশ্রমের মাধ্যমে ধনী হলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Wealthy people have more responsibility.",
+        "bn": "ধনী মানুষদের বেশি দায়িত্ব আছে।"
+      },
+      {
+        "en": "She was wealthy but humble.",
+        "bn": "সে ধনী কিন্তু বিনম্র ছিল।"
+      },
+      {
+        "en": "He lived in a wealthy neighborhood.",
+        "bn": "সে একটি ধনী এলাকায় বাস করত।"
+      },
+      {
+        "en": "Being wealthy does not mean being happy.",
+        "bn": "ধনী হওয়া মানে সুখী হওয়া নয়।"
+      },
+      {
+        "en": "She donated to the poor despite being wealthy.",
+        "bn": "ধনী হওয়া সত্ত্বেও সে গরিবদের দান করল।"
+      },
+      {
+        "en": "He grew wealthy over the years.",
+        "bn": "বছরের পর বছর সে ধনী হলো।"
+      },
+      {
+        "en": "Wealthy nations help poorer ones.",
+        "bn": "ধনী দেশগুলো দরিদ্র দেশগুলোকে সাহায্য করে।"
+      },
+      { "en": "She was wealthy in spirit.", "bn": "সে আত্মায় ধনী ছিল।" },
+      {
+        "en": "He managed his wealthy estate.",
+        "bn": "সে তার ধনী সম্পদ পরিচালনা করল।"
+      },
+      {
+        "en": "Wealthy or poor treat all equally.",
+        "bn": "ধনী বা দরিদ্র সবার সাথে সমানভাবে আচরণ করো।"
+      }
+    ],
+    "synonyms": ["rich", "prosperous", "affluent"]
+  },
+  {
+    "base": "weary",
+    "phonetic": "ˈwɪəri",
+    "meaning": "ক্লান্ত / অবসাদগ্রস্ত",
+    "examples": [
+      {
+        "en": "She was weary after the long journey.",
+        "bn": "দীর্ঘ যাত্রার পর সে ক্লান্ত ছিল।"
+      },
+      {
+        "en": "He grew weary of waiting.",
+        "bn": "অপেক্ষায় সে ক্লান্ত হয়ে পড়ল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The weary traveler rested.", "bn": "ক্লান্ত পথিক বিশ্রাম নিল।" },
+      {
+        "en": "She felt weary and drained.",
+        "bn": "সে ক্লান্ত ও শক্তিহীন অনুভব করল।"
+      },
+      {
+        "en": "He was weary from overwork.",
+        "bn": "অতিরিক্ত কাজে সে ক্লান্ত ছিল।"
+      },
+      {
+        "en": "Even the strongest grow weary.",
+        "bn": "সবচেয়ে শক্তিশালীরাও ক্লান্ত হয়।"
+      },
+      {
+        "en": "She was weary but kept going.",
+        "bn": "সে ক্লান্ত ছিল কিন্তু এগিয়ে গেল।"
+      },
+      {
+        "en": "He was weary of the arguments.",
+        "bn": "তর্কে সে ক্লান্ত হয়ে গেল।"
+      },
+      { "en": "Weary eyes need rest.", "bn": "ক্লান্ত চোখের বিশ্রাম দরকার।" },
+      {
+        "en": "She grew weary of the routine.",
+        "bn": "রুটিনে সে ক্লান্ত হয়ে পড়ল।"
+      },
+      {
+        "en": "He was weary but smiling.",
+        "bn": "সে ক্লান্ত ছিল কিন্তু হাসছিল।"
+      },
+      {
+        "en": "Rest when you feel weary.",
+        "bn": "ক্লান্ত অনুভব করলে বিশ্রাম নাও।"
+      }
+    ],
+    "synonyms": ["tired", "exhausted", "fatigued"]
+  },
+  {
+    "base": "weave",
+    "phonetic": "wiːv",
+    "meaning": "বোনা / গাঁথা",
+    "examples": [
+      {
+        "en": "She weaved a beautiful basket.",
+        "bn": "সে একটি সুন্দর ঝুড়ি বুনল।"
+      },
+      {
+        "en": "He wove a tale of adventure.",
+        "bn": "সে একটি অ্যাডভেঞ্চারের গল্প গাঁথল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Weave your dreams into reality.",
+        "bn": "তোমার স্বপ্নকে বাস্তবে রূপ দাও।"
+      },
+      {
+        "en": "She weaved through the crowd.",
+        "bn": "সে ভিড়ের মধ্য দিয়ে এগিয়ে গেল।"
+      },
+      {
+        "en": "He weaved the threads together.",
+        "bn": "সে সুতাগুলো একসাথে বুনল।"
+      },
+      { "en": "The spider weaved a web.", "bn": "মাকড়সাটি জাল বুনল।" },
+      {
+        "en": "She weaved stories for her children.",
+        "bn": "সে তার সন্তানদের জন্য গল্প গাঁথল।"
+      },
+      {
+        "en": "He weaved the fabric skillfully.",
+        "bn": "সে দক্ষতার সাথে কাপড় বুনল।"
+      },
+      {
+        "en": "Weave kindness into every action.",
+        "bn": "প্রতিটি কাজে দয়া মিশিয়ে দাও।"
+      },
+      { "en": "She weaved her way home.", "bn": "সে পথ এড়িয়ে বাড়ি গেল।" },
+      {
+        "en": "He weaved music into his words.",
+        "bn": "সে তার কথায় সংগীত মিশিয়ে দিল।"
+      },
+      {
+        "en": "Weave your life with purpose.",
+        "bn": "উদ্দেশ্য দিয়ে তোমার জীবন গাঁথো।"
+      }
+    ],
+    "synonyms": ["knit", "intertwine", "braid"]
+  },
+  {
+    "base": "welfare",
+    "phonetic": "ˈwelfeər",
+    "meaning": "কল্যাণ / সুস্বাস্থ্য",
+    "examples": [
+      {
+        "en": "She cared about the welfare of others.",
+        "bn": "সে অন্যদের কল্যাণ নিয়ে চিন্তা করত।"
+      },
+      {
+        "en": "He worked for public welfare.",
+        "bn": "সে জনকল্যাণের জন্য কাজ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Child welfare is very important.",
+        "bn": "শিশু কল্যাণ খুব গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She promoted animal welfare.",
+        "bn": "সে পশু কল্যাণ প্রচার করল।"
+      },
+      {
+        "en": "He focused on the welfare of workers.",
+        "bn": "সে শ্রমিকদের কল্যাণে মনোযোগ দিল।"
+      },
+      {
+        "en": "Welfare programs help the needy.",
+        "bn": "কল্যাণ কর্মসূচি অভাবীদের সাহায্য করে।"
+      },
+      {
+        "en": "She ensured the welfare of patients.",
+        "bn": "সে রোগীদের কল্যাণ নিশ্চিত করল।"
+      },
+      {
+        "en": "He believed in social welfare.",
+        "bn": "সে সামাজিক কল্যাণে বিশ্বাস করল।"
+      },
+      {
+        "en": "Welfare of the community matters.",
+        "bn": "সম্প্রদায়ের কল্যাণ গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She dedicated her life to welfare.",
+        "bn": "সে তার জীবন কল্যাণে উৎসর্গ করল।"
+      },
+      {
+        "en": "He supported welfare initiatives.",
+        "bn": "সে কল্যাণ উদ্যোগ সমর্থন করল।"
+      },
+      {
+        "en": "Welfare brings dignity to all.",
+        "bn": "কল্যাণ সবার মধ্যে মর্যাদা নিয়ে আসে।"
+      }
+    ],
+    "synonyms": ["wellbeing", "health", "benefit"]
+  },
+  {
+    "base": "whine",
+    "phonetic": "waɪn",
+    "meaning": "ঘ্যানঘ্যান করা / অভিযোগ করা",
+    "examples": [
+      {
+        "en": "The child began to whine.",
+        "bn": "শিশুটি ঘ্যানঘ্যান করতে শুরু করল।"
+      },
+      {
+        "en": "He always whines about everything.",
+        "bn": "সে সবসময় সব কিছু নিয়ে অভিযোগ করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Stop whining and start working.",
+        "bn": "ঘ্যানঘ্যান বন্ধ করো এবং কাজ শুরু করো।"
+      },
+      {
+        "en": "She whined about the food.",
+        "bn": "সে খাবার নিয়ে অভিযোগ করল।"
+      },
+      {
+        "en": "He whined when things got hard.",
+        "bn": "কঠিন হলে সে ঘ্যানঘ্যান করল।"
+      },
+      {
+        "en": "The dog whined at the door.",
+        "bn": "কুকুরটি দরজায় ঘ্যানঘ্যান করল।"
+      },
+      {
+        "en": "She whined about the cold.",
+        "bn": "সে ঠান্ডার ব্যাপারে অভিযোগ করল।"
+      },
+      {
+        "en": "Whining never solves problems.",
+        "bn": "ঘ্যানঘ্যান করা কখনো সমস্যা সমাধান করে না।"
+      },
+      {
+        "en": "He whined about the workload.",
+        "bn": "সে কাজের বোঝা নিয়ে অভিযোগ করল।"
+      },
+      {
+        "en": "She stopped whining and smiled.",
+        "bn": "সে ঘ্যানঘ্যান বন্ধ করে হাসল।"
+      },
+      {
+        "en": "The engine whined loudly.",
+        "bn": "ইঞ্জিনটি জোরে ঘ্যানঘ্যান করল।"
+      },
+      {
+        "en": "Do not whine when things go wrong.",
+        "bn": "কিছু ভুল হলে ঘ্যানঘ্যান করো না।"
+      }
+    ],
+    "synonyms": ["complain", "grumble", "moan"]
+  },
+  {
+    "base": "whisper",
+    "phonetic": "ˈwɪspər",
+    "meaning": "ফিসফিস করা / চুপচুপে বলা",
+    "examples": [
+      { "en": "She whispered in his ear.", "bn": "সে তার কানে ফিসফিস করল।" },
+      {
+        "en": "He whispered a secret.",
+        "bn": "সে একটি গোপন কথা ফিসফিস করে বলল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Whisper so no one hears.",
+        "bn": "ফিসফিস করো যাতে কেউ না শোনে।"
+      },
+      {
+        "en": "She whispered a prayer.",
+        "bn": "সে একটি প্রার্থনা ফিসফিস করল।"
+      },
+      { "en": "He whispered her name.", "bn": "সে তার নাম ফিসফিস করে বলল।" },
+      {
+        "en": "The wind whispered through the trees.",
+        "bn": "বাতাস গাছের মধ্য দিয়ে ফিসফিস করল।"
+      },
+      { "en": "She whispered goodnight.", "bn": "সে শুভ রাত্রি ফিসফিস করল।" },
+      {
+        "en": "He whispered to avoid waking her.",
+        "bn": "সে তাকে না জাগাতে ফিসফিস করল।"
+      },
+      {
+        "en": "They whispered in the library.",
+        "bn": "তারা লাইব্রেরিতে ফিসফিস করল।"
+      },
+      { "en": "She heard a whisper.", "bn": "সে একটি ফিসফিস শুনল।" },
+      {
+        "en": "He whispered words of comfort.",
+        "bn": "সে সান্ত্বনার কথা ফিসফিস করল।"
+      },
+      {
+        "en": "Nature whispers to those who listen.",
+        "bn": "প্রকৃতি যারা শোনে তাদের সাথে ফিসফিস করে।"
+      }
+    ],
+    "synonyms": ["murmur", "mutter", "breathe"]
+  },
+  {
+    "base": "wholesome",
+    "phonetic": "ˈhoʊlsəm",
+    "meaning": "স্বাস্থ্যকর / মঙ্গলজনক",
+    "examples": [
+      { "en": "She ate wholesome food.", "bn": "সে স্বাস্থ্যকর খাবার খেল।" },
+      {
+        "en": "He lived a wholesome life.",
+        "bn": "সে একটি মঙ্গলজনক জীবন কাটাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Wholesome habits build a good life.",
+        "bn": "স্বাস্থ্যকর অভ্যাস ভালো জীবন গড়ে।"
+      },
+      {
+        "en": "She enjoyed wholesome entertainment.",
+        "bn": "সে স্বাস্থ্যকর বিনোদন উপভোগ করল।"
+      },
+      {
+        "en": "He had a wholesome personality.",
+        "bn": "তার একটি মঙ্গলজনক ব্যক্তিত্ব ছিল।"
+      },
+      {
+        "en": "Cook wholesome meals every day.",
+        "bn": "প্রতিদিন স্বাস্থ্যকর খাবার রান্না করো।"
+      },
+      { "en": "She read wholesome books.", "bn": "সে স্বাস্থ্যকর বই পড়ল।" },
+      {
+        "en": "He promoted wholesome values.",
+        "bn": "সে মঙ্গলজনক মূল্যবোধ প্রচার করল।"
+      },
+      {
+        "en": "Wholesome relationships bring joy.",
+        "bn": "মঙ্গলজনক সম্পর্ক আনন্দ আনে।"
+      },
+      {
+        "en": "She led a wholesome lifestyle.",
+        "bn": "সে একটি স্বাস্থ্যকর জীবনধারা অনুসরণ করল।"
+      },
+      {
+        "en": "He gave wholesome advice.",
+        "bn": "সে স্বাস্থ্যকর পরামর্শ দিল।"
+      },
+      {
+        "en": "Wholesome content uplifts the mind.",
+        "bn": "স্বাস্থ্যকর বিষয়বস্তু মনকে উন্নত করে।"
+      }
+    ],
+    "synonyms": ["healthy", "nutritious", "beneficial"]
+  },
+  {
+    "base": "wicked",
+    "phonetic": "ˈwɪkɪd",
+    "meaning": "দুষ্ট / মন্দ",
+    "examples": [
+      {
+        "en": "The wicked man was punished.",
+        "bn": "দুষ্ট লোকটিকে শাস্তি দেওয়া হলো।"
+      },
+      { "en": "She played a wicked trick.", "bn": "সে একটি দুষ্ট কৌশল খেলল।" }
+    ],
+    "moreexample": [
+      { "en": "He had wicked intentions.", "bn": "তার মন্দ উদ্দেশ্য ছিল।" },
+      {
+        "en": "She fought against the wicked.",
+        "bn": "সে দুষ্টের বিরুদ্ধে লড়াই করল।"
+      },
+      {
+        "en": "Wicked deeds have consequences.",
+        "bn": "দুষ্ট কাজের পরিণতি আছে।"
+      },
+      {
+        "en": "He had a wicked sense of humor.",
+        "bn": "তার একটি দুষ্টু হাস্যরস ছিল।"
+      },
+      {
+        "en": "She warned about wicked people.",
+        "bn": "সে দুষ্ট মানুষদের সম্পর্কে সতর্ক করল।"
+      },
+      {
+        "en": "Wicked behavior destroys trust.",
+        "bn": "দুষ্ট আচরণ বিশ্বাস নষ্ট করে।"
+      },
+      {
+        "en": "He overcame his wicked past.",
+        "bn": "সে তার দুষ্ট অতীত কাটিয়ে উঠল।"
+      },
+      {
+        "en": "She recognized the wicked plan.",
+        "bn": "সে দুষ্ট পরিকল্পনা বুঝতে পারল।"
+      },
+      {
+        "en": "No wicked act goes unpunished.",
+        "bn": "কোনো দুষ্ট কাজ শাস্তিহীন থাকে না।"
+      },
+      {
+        "en": "He turned away from his wicked ways.",
+        "bn": "সে তার দুষ্ট পথ থেকে সরে গেল।"
+      }
+    ],
+    "synonyms": ["evil", "sinful", "corrupt"]
+  },
+  {
+    "base": "widespread",
+    "phonetic": "ˈwaɪdspred",
+    "meaning": "ব্যাপক / বিস্তৃত",
+    "examples": [
+      { "en": "The disease was widespread.", "bn": "রোগটি ব্যাপক ছিল।" },
+      { "en": "She had widespread support.", "bn": "তার ব্যাপক সমর্থন ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Widespread poverty is a problem.",
+        "bn": "ব্যাপক দারিদ্র্য একটি সমস্যা।"
+      },
+      {
+        "en": "He gained widespread recognition.",
+        "bn": "সে ব্যাপক স্বীকৃতি পেল।"
+      },
+      {
+        "en": "The news caused widespread panic.",
+        "bn": "খবরটি ব্যাপক আতঙ্ক সৃষ্টি করল।"
+      },
+      { "en": "She had widespread influence.", "bn": "তার ব্যাপক প্রভাব ছিল।" },
+      {
+        "en": "Widespread education changes societies.",
+        "bn": "ব্যাপক শিক্ষা সমাজ পরিবর্তন করে।"
+      },
+      {
+        "en": "He was well known and widespread.",
+        "bn": "সে পরিচিত ও ব্যাপকভাবে প্রসিদ্ধ ছিল।"
+      },
+      {
+        "en": "Widespread corruption is dangerous.",
+        "bn": "ব্যাপক দুর্নীতি বিপজ্জনক।"
+      },
+      {
+        "en": "She noticed widespread happiness.",
+        "bn": "সে ব্যাপক সুখ লক্ষ্য করল।"
+      },
+      {
+        "en": "The flood caused widespread damage.",
+        "bn": "বন্যা ব্যাপক ক্ষতি সৃষ্টি করল।"
+      },
+      {
+        "en": "Widespread kindness heals the world.",
+        "bn": "ব্যাপক দয়া পৃথিবী সারিয়ে তোলে।"
+      }
+    ],
+    "synonyms": ["extensive", "prevalent", "common"]
+  },
+  {
+    "base": "willpower",
+    "phonetic": "ˈwɪlpaʊər",
+    "meaning": "ইচ্ছাশক্তি / মনের জোর",
+    "examples": [
+      {
+        "en": "She had strong willpower.",
+        "bn": "তার শক্তিশালী ইচ্ছাশক্তি ছিল।"
+      },
+      {
+        "en": "He used willpower to quit.",
+        "bn": "সে ছেড়ে দিতে ইচ্ছাশক্তি ব্যবহার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Willpower helps achieve goals.",
+        "bn": "ইচ্ছাশক্তি লক্ষ্য অর্জনে সাহায্য করে।"
+      },
+      {
+        "en": "She developed her willpower.",
+        "bn": "সে তার ইচ্ছাশক্তি বিকশিত করল।"
+      },
+      {
+        "en": "He had the willpower to resist.",
+        "bn": "প্রতিরোধের ইচ্ছাশক্তি তার ছিল।"
+      },
+      { "en": "Willpower is like a muscle.", "bn": "ইচ্ছাশক্তি পেশীর মতো।" },
+      {
+        "en": "She relied on her willpower.",
+        "bn": "সে তার ইচ্ছাশক্তির উপর নির্ভর করল।"
+      },
+      { "en": "He lacked willpower.", "bn": "তার ইচ্ছাশক্তির অভাব ছিল।" },
+      {
+        "en": "Build your willpower daily.",
+        "bn": "প্রতিদিন তোমার ইচ্ছাশক্তি গড়ো।"
+      },
+      {
+        "en": "She overcame addiction with willpower.",
+        "bn": "সে ইচ্ছাশক্তি দিয়ে আসক্তি কাটিয়ে উঠল।"
+      },
+      {
+        "en": "He showed incredible willpower.",
+        "bn": "সে অবিশ্বাস্য ইচ্ছাশক্তি দেখাল।"
+      },
+      { "en": "Willpower changes lives.", "bn": "ইচ্ছাশক্তি জীবন বদলায়।" }
+    ],
+    "synonyms": ["determination", "self-control", "resolve"]
+  },
+  {
+    "base": "withstand",
+    "phonetic": "wɪðˈstænd",
+    "meaning": "প্রতিরোধ করা / সহ্য করা",
+    "examples": [
+      { "en": "She withstood the pressure.", "bn": "সে চাপ সহ্য করল।" },
+      { "en": "He withstood the storm.", "bn": "সে ঝড় প্রতিরোধ করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The bridge withstood the flood.",
+        "bn": "সেতুটি বন্যা সহ্য করল।"
+      },
+      {
+        "en": "She withstood all the criticism.",
+        "bn": "সে সমস্ত সমালোচনা সহ্য করল।"
+      },
+      {
+        "en": "He withstood the temptation.",
+        "bn": "সে প্রলোভন প্রতিরোধ করল।"
+      },
+      {
+        "en": "Withstand challenges with courage.",
+        "bn": "সাহসের সাথে চ্যালেঞ্জ সহ্য করো।"
+      },
+      {
+        "en": "She withstood years of hardship.",
+        "bn": "সে বছরের পর বছর কষ্ট সহ্য করল।"
+      },
+      {
+        "en": "He withstood the cold weather.",
+        "bn": "সে ঠান্ডা আবহাওয়া সহ্য করল।"
+      },
+      {
+        "en": "The wall withstood the impact.",
+        "bn": "দেয়ালটি আঘাত সহ্য করল।"
+      },
+      {
+        "en": "She withstood his harsh words.",
+        "bn": "সে তার কঠোর কথা সহ্য করল।"
+      },
+      {
+        "en": "He withstood the test of time.",
+        "bn": "সে সময়ের পরীক্ষা সহ্য করল।"
+      },
+      {
+        "en": "True strength withstands adversity.",
+        "bn": "প্রকৃত শক্তি প্রতিকূলতা সহ্য করে।"
+      }
+    ],
+    "synonyms": ["endure", "resist", "tolerate"]
+  },
+  {
+    "base": "witty",
+    "phonetic": "ˈwɪti",
+    "meaning": "রসিক / বুদ্ধিদীপ্ত",
+    "examples": [
+      { "en": "She made a witty comment.", "bn": "সে একটি রসিক মন্তব্য করল।" },
+      {
+        "en": "He was known for being witty.",
+        "bn": "সে রসিক হিসেবে পরিচিত ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Her witty replies made everyone laugh.",
+        "bn": "তার রসিক উত্তর সবাইকে হাসাল।"
+      },
+      { "en": "He told a witty joke.", "bn": "সে একটি রসিক রসিকতা বলল।" },
+      {
+        "en": "She had a witty sense of humor.",
+        "bn": "তার একটি রসিক হাস্যরসের বোধ ছিল।"
+      },
+      { "en": "Be witty but kind.", "bn": "রসিক হও কিন্তু দয়ালু থাকো।" },
+      { "en": "He was witty and charming.", "bn": "সে রসিক ও আকর্ষণীয় ছিল।" },
+      { "en": "She gave a witty response.", "bn": "সে একটি রসিক সাড়া দিল।" },
+      {
+        "en": "His witty remarks were enjoyed.",
+        "bn": "তার রসিক মন্তব্য উপভোগ করা হলো।"
+      },
+      { "en": "She was quick and witty.", "bn": "সে দ্রুত ও রসিক ছিল।" },
+      {
+        "en": "He turned every situation witty.",
+        "bn": "সে প্রতিটি পরিস্থিতিকে রসিক করে তুলল।"
+      },
+      {
+        "en": "Witty people brighten any room.",
+        "bn": "রসিক মানুষ যেকোনো ঘর উজ্জ্বল করে।"
+      }
+    ],
+    "synonyms": ["clever", "humorous", "sharp"]
+  },
+  {
+    "base": "woeful",
+    "phonetic": "ˈwoʊfl",
+    "meaning": "দুঃখজনক / হতাশাজনক",
+    "examples": [
+      {
+        "en": "She had a woeful expression.",
+        "bn": "তার মুখে দুঃখজনক ভাব ছিল।"
+      },
+      {
+        "en": "His performance was woeful.",
+        "bn": "তার পারফরম্যান্স হতাশাজনক ছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He told a woeful story.", "bn": "সে একটি দুঃখজনক গল্প বলল।" },
+      { "en": "She had a woeful look.", "bn": "তার একটি দুঃখজনক দৃষ্টি ছিল।" },
+      { "en": "The results were woeful.", "bn": "ফলাফল হতাশাজনক ছিল।" },
+      {
+        "en": "He was in a woeful state.",
+        "bn": "সে একটি দুঃখজনক অবস্থায় ছিল।"
+      },
+      {
+        "en": "She gave a woeful sigh.",
+        "bn": "সে একটি দুঃখজনক দীর্ঘশ্বাস ফেলল।"
+      },
+      {
+        "en": "The team had a woeful season.",
+        "bn": "দলটির একটি হতাশাজনক মৌসুম ছিল।"
+      },
+      {
+        "en": "He expressed woeful regret.",
+        "bn": "সে দুঃখজনক অনুশোচনা প্রকাশ করল।"
+      },
+      { "en": "She felt woeful inside.", "bn": "সে ভেতরে দুঃখজনক অনুভব করল।" },
+      {
+        "en": "His woeful mistakes cost him.",
+        "bn": "তার দুঃখজনক ভুল তাকে ক্ষতি করল।"
+      },
+      {
+        "en": "The woeful news saddened all.",
+        "bn": "দুঃখজনক খবর সবাইকে মন খারাপ করাল।"
+      }
+    ],
+    "synonyms": ["sad", "miserable", "dreadful"]
+  },
+  {
+    "base": "worthless",
+    "phonetic": "ˈwɜːrθləs",
+    "meaning": "মূল্যহীন / অকেজো",
+    "examples": [
+      {
+        "en": "The old coin was worthless.",
+        "bn": "পুরানো মুদ্রাটি মূল্যহীন ছিল।"
+      },
+      {
+        "en": "She felt worthless at times.",
+        "bn": "সে কখনো কখনো মূল্যহীন অনুভব করত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He threw away the worthless items.",
+        "bn": "সে মূল্যহীন জিনিসগুলো ফেলে দিল।"
+      },
+      { "en": "The advice was worthless.", "bn": "পরামর্শটি মূল্যহীন ছিল।" },
+      {
+        "en": "She refused to feel worthless.",
+        "bn": "সে মূল্যহীন অনুভব করতে অস্বীকার করল।"
+      },
+      {
+        "en": "Worthless promises hurt people.",
+        "bn": "মূল্যহীন প্রতিশ্রুতি মানুষকে কষ্ট দেয়।"
+      },
+      {
+        "en": "He sold a worthless product.",
+        "bn": "সে একটি মূল্যহীন পণ্য বিক্রি করল।"
+      },
+      {
+        "en": "She discarded the worthless paper.",
+        "bn": "সে মূল্যহীন কাগজটি ফেলে দিল।"
+      },
+      {
+        "en": "No one is truly worthless.",
+        "bn": "কেউ সত্যিকারের মূল্যহীন নয়।"
+      },
+      {
+        "en": "He felt worthless without purpose.",
+        "bn": "উদ্দেশ্য ছাড়া সে মূল্যহীন অনুভব করল।"
+      },
+      {
+        "en": "The worthless machine was discarded.",
+        "bn": "মূল্যহীন যন্ত্রটি ফেলে দেওয়া হলো।"
+      },
+      {
+        "en": "She proved she was not worthless.",
+        "bn": "সে প্রমাণ করল সে মূল্যহীন নয়।"
+      }
+    ],
+    "synonyms": ["valueless", "useless", "meaningless"]
+  },
+  {
+    "base": "worthwhile",
+    "phonetic": "ˌwɜːrθˈwaɪl",
+    "meaning": "মূল্যবান / সার্থক",
+    "examples": [
+      { "en": "The effort was worthwhile.", "bn": "প্রচেষ্টাটি সার্থক ছিল।" },
+      {
+        "en": "She found the work worthwhile.",
+        "bn": "সে কাজটি মূল্যবান মনে করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "It was a worthwhile experience.",
+        "bn": "এটি একটি মূল্যবান অভিজ্ঞতা ছিল।"
+      },
+      {
+        "en": "He made a worthwhile investment.",
+        "bn": "সে একটি সার্থক বিনিয়োগ করল।"
+      },
+      { "en": "The journey was worthwhile.", "bn": "যাত্রাটি সার্থক ছিল।" },
+      {
+        "en": "She pursued a worthwhile goal.",
+        "bn": "সে একটি মূল্যবান লক্ষ্য অনুসরণ করল।"
+      },
+      {
+        "en": "He dedicated himself to worthwhile causes.",
+        "bn": "সে মূল্যবান কারণে নিজেকে উৎসর্গ করল।"
+      },
+      {
+        "en": "Every minute was worthwhile.",
+        "bn": "প্রতিটি মিনিট সার্থক ছিল।"
+      },
+      {
+        "en": "She chose a worthwhile career.",
+        "bn": "সে একটি মূল্যবান ক্যারিয়ার বেছে নিল।"
+      },
+      {
+        "en": "He found the struggle worthwhile.",
+        "bn": "সে সংগ্রামটি সার্থক মনে করল।"
+      },
+      {
+        "en": "The course was truly worthwhile.",
+        "bn": "কোর্সটি সত্যিই মূল্যবান ছিল।"
+      },
+      { "en": "Make every day worthwhile.", "bn": "প্রতিটি দিন সার্থক করো।" }
+    ],
+    "synonyms": ["valuable", "meaningful", "rewarding"]
+  },
+  {
+    "base": "wreck",
+    "phonetic": "rek",
+    "meaning": "ধ্বংস করা / ক্ষতি করা",
+    "examples": [
+      { "en": "The storm wrecked the boat.", "bn": "ঝড় নৌকাটি ধ্বংস করল।" },
+      { "en": "She wrecked her car.", "bn": "সে তার গাড়ি নষ্ট করল।" }
+    ],
+    "moreexample": [
+      { "en": "He wrecked his health.", "bn": "সে তার স্বাস্থ্য নষ্ট করল।" },
+      { "en": "The fire wrecked the building.", "bn": "আগুন ভবনটি ধ্বংস করল।" },
+      { "en": "She wrecked the relationship.", "bn": "সে সম্পর্কটি নষ্ট করল।" },
+      { "en": "He wrecked his career.", "bn": "সে তার ক্যারিয়ার নষ্ট করল।" },
+      {
+        "en": "The wreck was found at sea.",
+        "bn": "ধ্বংসাবশেষটি সমুদ্রে পাওয়া গেল।"
+      },
+      {
+        "en": "She was a nervous wreck.",
+        "bn": "সে একটি নার্ভাস ধ্বংসাবশেষ ছিল।"
+      },
+      {
+        "en": "He wrecked all his plans.",
+        "bn": "সে তার সব পরিকল্পনা নষ্ট করল।"
+      },
+      {
+        "en": "The accident wrecked the train.",
+        "bn": "দুর্ঘটনা ট্রেনটি ধ্বংস করল।"
+      },
+      {
+        "en": "She avoided wrecking friendships.",
+        "bn": "সে বন্ধুত্ব নষ্ট করা এড়াল।"
+      },
+      { "en": "He cleared the wreckage.", "bn": "সে ধ্বংসাবশেষ পরিষ্কার করল।" }
+    ],
+    "synonyms": ["destroy", "ruin", "demolish"]
+  },
+  {
+    "base": "wretched",
+    "phonetic": "ˈretʃɪd",
+    "meaning": "দুর্দশাগ্রস্ত / হতভাগ্য",
+    "examples": [
+      {
+        "en": "He lived a wretched life.",
+        "bn": "সে একটি দুর্দশাগ্রস্ত জীবন কাটাল।"
+      },
+      {
+        "en": "She felt wretched about her mistake.",
+        "bn": "ভুলের জন্য সে হতভাগ্য অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The wretched conditions shocked everyone.",
+        "bn": "দুর্দশাগ্রস্ত অবস্থা সবাইকে হতবাক করল।"
+      },
+      {
+        "en": "He was in a wretched state.",
+        "bn": "সে একটি দুর্দশাগ্রস্ত অবস্থায় ছিল।"
+      },
+      { "en": "She had a wretched day.", "bn": "তার একটি হতভাগ্য দিন ছিল।" },
+      {
+        "en": "The wretched weather ruined the trip.",
+        "bn": "দুর্দশাগ্রস্ত আবহাওয়া ভ্রমণ নষ্ট করল।"
+      },
+      {
+        "en": "He felt wretched and alone.",
+        "bn": "সে দুর্দশাগ্রস্ত ও একাকী অনুভব করল।"
+      },
+      {
+        "en": "She helped the wretched poor.",
+        "bn": "সে দুর্দশাগ্রস্ত গরিবদের সাহায্য করল।"
+      },
+      {
+        "en": "He overcame his wretched past.",
+        "bn": "সে তার দুর্দশাগ্রস্ত অতীত কাটিয়ে উঠল।"
+      },
+      {
+        "en": "The wretched animal needed care.",
+        "bn": "দুর্দশাগ্রস্ত প্রাণীটির যত্ন দরকার ছিল।"
+      },
+      {
+        "en": "She escaped her wretched situation.",
+        "bn": "সে তার দুর্দশাগ্রস্ত পরিস্থিতি থেকে বের হলো।"
+      },
+      {
+        "en": "He turned his wretched life around.",
+        "bn": "সে তার দুর্দশাগ্রস্ত জীবন উল্টে দিল।"
+      }
+    ],
+    "synonyms": ["miserable", "unfortunate", "pitiful"]
+  },
+  {
+    "base": "wriggle",
+    "phonetic": "ˈrɪɡl",
+    "meaning": "মোচড় দেওয়া / ছটফট করা",
+    "examples": [
+      {
+        "en": "The baby wriggled in her arms.",
+        "bn": "শিশুটি তার বাহুতে ছটফট করল।"
+      },
+      {
+        "en": "He wriggled free from the grip.",
+        "bn": "সে আঁকড়া থেকে মোচড় দিয়ে বের হলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She wriggled out of the tight spot.",
+        "bn": "সে সংকটময় পরিস্থিতি থেকে বের হলো।"
+      },
+      {
+        "en": "The worm wriggled in the soil.",
+        "bn": "কেঁচোটি মাটিতে ছটফট করল।"
+      },
+      {
+        "en": "He wriggled his toes in the sand.",
+        "bn": "সে বালিতে আঙুল মোচড় দিল।"
+      },
+      { "en": "She wriggled uncomfortably.", "bn": "সে অস্বস্তিতে ছটফট করল।" },
+      {
+        "en": "The fish wriggled on the hook.",
+        "bn": "মাছটি বঁড়শিতে ছটফট করল।"
+      },
+      {
+        "en": "He wriggled through the crowd.",
+        "bn": "সে ভিড়ের মধ্য দিয়ে সরে গেল।"
+      },
+      {
+        "en": "She wriggled to get comfortable.",
+        "bn": "সে আরামদায়ক হতে ছটফট করল।"
+      },
+      { "en": "He wriggled his way out.", "bn": "সে বের হওয়ার পথ খুঁজে নিল।" },
+      {
+        "en": "The puppy wriggled with joy.",
+        "bn": "কুকুরছানাটি আনন্দে ছটফট করল।"
+      },
+      {
+        "en": "She wriggled into the tight dress.",
+        "bn": "সে টাইট পোশাকে ঢুকতে ছটফট করল।"
+      }
+    ],
+    "synonyms": ["squirm", "twist", "writhe"]
+  },
+  {
+    "base": "wrongful",
+    "phonetic": "ˈrɒŋfl",
+    "meaning": "অন্যায্য / অবৈধ",
+    "examples": [
+      {
+        "en": "He filed a wrongful dismissal claim.",
+        "bn": "সে অন্যায্য বরখাস্তের দাবি দাখিল করল।"
+      },
+      {
+        "en": "She suffered wrongful treatment.",
+        "bn": "সে অন্যায্য আচরণের শিকার হলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was a victim of wrongful arrest.",
+        "bn": "সে অন্যায্য গ্রেফতারের শিকার ছিল।"
+      },
+      {
+        "en": "Wrongful acts must be corrected.",
+        "bn": "অন্যায্য কাজ সংশোধন করতে হবে।"
+      },
+      {
+        "en": "She challenged the wrongful decision.",
+        "bn": "সে অন্যায্য সিদ্ধান্তকে চ্যালেঞ্জ করল।"
+      },
+      {
+        "en": "He was convicted wrongfully.",
+        "bn": "তাকে অন্যায্যভাবে দোষী সাব্যস্ত করা হলো।"
+      },
+      {
+        "en": "Wrongful accusations cause pain.",
+        "bn": "অন্যায্য অভিযোগ কষ্ট দেয়।"
+      },
+      {
+        "en": "She fought against wrongful practices.",
+        "bn": "সে অন্যায্য চর্চার বিরুদ্ধে লড়াই করল।"
+      },
+      {
+        "en": "He sought justice for wrongful acts.",
+        "bn": "সে অন্যায্য কাজের জন্য ন্যায়বিচার চাইল।"
+      },
+      {
+        "en": "Wrongful behavior must stop.",
+        "bn": "অন্যায্য আচরণ বন্ধ হতে হবে।"
+      },
+      {
+        "en": "She was wrongfully blamed.",
+        "bn": "তাকে অন্যায্যভাবে দোষারোপ করা হলো।"
+      },
+      {
+        "en": "He proved his wrongful conviction.",
+        "bn": "সে তার অন্যায্য দোষ প্রমাণ করল।"
+      }
+    ],
+    "synonyms": ["unjust", "illegal", "unfair"]
+  },
+
+  {
+    "base": "wholehearted",
+    "phonetic": "ˌhoʊlˈhɑːrtɪd",
+    "meaning": "পূর্ণ হৃদয়ের / আন্তরিক",
+    "examples": [
+      {
+        "en": "She gave wholehearted support.",
+        "bn": "সে পূর্ণ হৃদয়ের সমর্থন দিল।"
+      },
+      {
+        "en": "He made a wholehearted effort.",
+        "bn": "সে আন্তরিক প্রচেষ্টা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She was wholehearted in her work.",
+        "bn": "সে তার কাজে আন্তরিক ছিল।"
+      },
+      {
+        "en": "He gave wholehearted dedication.",
+        "bn": "সে পূর্ণ হৃদয়ের নিষ্ঠা দিল।"
+      },
+      {
+        "en": "Wholehearted love never fades.",
+        "bn": "আন্তরিক ভালোবাসা কখনো ম্লান হয় না।"
+      },
+      { "en": "She had wholehearted faith.", "bn": "তার আন্তরিক বিশ্বাস ছিল।" },
+      {
+        "en": "He was wholehearted in everything.",
+        "bn": "সে সব কিছুতে আন্তরিক ছিল।"
+      },
+      {
+        "en": "Give wholehearted effort to succeed.",
+        "bn": "সফল হতে আন্তরিক প্রচেষ্টা দাও।"
+      },
+      {
+        "en": "She showed wholehearted commitment.",
+        "bn": "সে আন্তরিক প্রতিশ্রুতি দেখাল।"
+      },
+      {
+        "en": "He earned wholehearted respect.",
+        "bn": "সে আন্তরিক সম্মান অর্জন করল।"
+      },
+      {
+        "en": "Her wholehearted care touched hearts.",
+        "bn": "তার আন্তরিক যত্ন হৃদয় স্পর্শ করল।"
+      },
+      {
+        "en": "Wholehearted actions inspire others.",
+        "bn": "আন্তরিক কাজ অন্যদের অনুপ্রাণিত করে।"
+      }
+    ],
+    "synonyms": ["sincere", "genuine", "earnest"]
+  },
+  {
+    "base": "wholeheartedly",
+    "phonetic": "ˌhoʊlˈhɑːrtɪdli",
+    "meaning": "সম্পূর্ণ আন্তরিকতার সাথে / পূর্ণ মনে",
+    "examples": [
+      {
+        "en": "She supported him wholeheartedly.",
+        "bn": "সে তাকে সম্পূর্ণ আন্তরিকতার সাথে সমর্থন করল।"
+      },
+      { "en": "He agreed wholeheartedly.", "bn": "সে পূর্ণ মনে রাজি হলো।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She worked wholeheartedly.",
+        "bn": "সে সম্পূর্ণ আন্তরিকতার সাথে কাজ করল।"
+      },
+      {
+        "en": "He believed wholeheartedly.",
+        "bn": "সে পূর্ণ মনে বিশ্বাস করল।"
+      },
+      {
+        "en": "She gave herself wholeheartedly.",
+        "bn": "সে নিজেকে সম্পূর্ণ আন্তরিকতার সাথে দিল।"
+      },
+      {
+        "en": "He committed wholeheartedly.",
+        "bn": "সে পূর্ণ মনে প্রতিশ্রুতি দিল।"
+      },
+      {
+        "en": "Wholeheartedly embrace your purpose.",
+        "bn": "সম্পূর্ণ আন্তরিকতার সাথে তোমার উদ্দেশ্য গ্রহণ করো।"
+      },
+      {
+        "en": "She loved him wholeheartedly.",
+        "bn": "সে তাকে পূর্ণ মনে ভালোবাসল।"
+      },
+      {
+        "en": "He dedicated himself wholeheartedly.",
+        "bn": "সে নিজেকে সম্পূর্ণ আন্তরিকতার সাথে উৎসর্গ করল।"
+      },
+      {
+        "en": "She accepted the challenge wholeheartedly.",
+        "bn": "সে পূর্ণ মনে চ্যালেঞ্জ গ্রহণ করল।"
+      },
+      {
+        "en": "He served wholeheartedly.",
+        "bn": "সে সম্পূর্ণ আন্তরিকতার সাথে সেবা করল।"
+      },
+      {
+        "en": "She forgave him wholeheartedly.",
+        "bn": "সে তাকে পূর্ণ মনে ক্ষমা করল।"
+      }
+    ],
+    "synonyms": ["sincerely", "genuinely", "completely"]
+  },
+  {
+    "base": "willingness",
+    "phonetic": "ˈwɪlɪŋnəs",
+    "meaning": "ইচ্ছুকতা / সদিচ্ছা",
+    "examples": [
+      {
+        "en": "She showed willingness to help.",
+        "bn": "সে সাহায্য করার ইচ্ছুকতা দেখাল।"
+      },
+      {
+        "en": "His willingness inspired others.",
+        "bn": "তার ইচ্ছুকতা অন্যদের অনুপ্রাণিত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Willingness to learn is key.",
+        "bn": "শেখার ইচ্ছুকতাই মূল চাবিকাঠি।"
+      },
+      {
+        "en": "She showed great willingness.",
+        "bn": "সে দারুণ ইচ্ছুকতা দেখাল।"
+      },
+      {
+        "en": "He expressed willingness to change.",
+        "bn": "সে পরিবর্তনের ইচ্ছুকতা প্রকাশ করল।"
+      },
+      {
+        "en": "Willingness builds strong teams.",
+        "bn": "ইচ্ছুকতা শক্তিশালী দল গড়ে।"
+      },
+      {
+        "en": "She had willingness to sacrifice.",
+        "bn": "তার আত্মত্যাগের ইচ্ছুকতা ছিল।"
+      },
+      {
+        "en": "He showed willingness to cooperate.",
+        "bn": "সে সহযোগিতার ইচ্ছুকতা দেখাল।"
+      },
+      {
+        "en": "Her willingness was admirable.",
+        "bn": "তার ইচ্ছুকতা প্রশংসনীয় ছিল।"
+      },
+      {
+        "en": "Willingness to forgive is powerful.",
+        "bn": "ক্ষমা করার ইচ্ছুকতা শক্তিশালী।"
+      },
+      {
+        "en": "He had willingness to try again.",
+        "bn": "আবার চেষ্টা করার ইচ্ছুকতা তার ছিল।"
+      },
+      {
+        "en": "Show willingness in everything you do.",
+        "bn": "তুমি যা করো তাতে ইচ্ছুকতা দেখাও।"
+      }
+    ],
+    "synonyms": ["readiness", "eagerness", "enthusiasm"]
+  },
+  {
+    "base": "windfall",
+    "phonetic": "ˈwɪndfɔːl",
+    "meaning": "অপ্রত্যাশিত লাভ / আকস্মিক সম্পদ",
+    "examples": [
+      {
+        "en": "She received a windfall.",
+        "bn": "সে একটি অপ্রত্যাশিত লাভ পেল।"
+      },
+      {
+        "en": "He used the windfall wisely.",
+        "bn": "সে আকস্মিক সম্পদ বুদ্ধিমানের সাথে ব্যবহার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The windfall helped their business.",
+        "bn": "অপ্রত্যাশিত লাভ তাদের ব্যবসায় সাহায্য করল।"
+      },
+      {
+        "en": "She invested her windfall.",
+        "bn": "সে তার আকস্মিক সম্পদ বিনিয়োগ করল।"
+      },
+      {
+        "en": "He was surprised by the windfall.",
+        "bn": "অপ্রত্যাশিত লাভে সে অবাক হলো।"
+      },
+      {
+        "en": "A windfall can change your life.",
+        "bn": "আকস্মিক সম্পদ তোমার জীবন বদলাতে পারে।"
+      },
+      {
+        "en": "She shared her windfall generously.",
+        "bn": "সে উদারভাবে তার আকস্মিক লাভ ভাগ করল।"
+      },
+      {
+        "en": "He saved the windfall for later.",
+        "bn": "সে পরের জন্য আকস্মিক লাভ সঞ্চয় করল।"
+      },
+      {
+        "en": "The windfall came unexpectedly.",
+        "bn": "অপ্রত্যাশিত লাভ হঠাৎ এল।"
+      },
+      {
+        "en": "She used the windfall for education.",
+        "bn": "সে শিক্ষার জন্য আকস্মিক লাভ ব্যবহার করল।"
+      },
+      {
+        "en": "A windfall does not last forever.",
+        "bn": "আকস্মিক লাভ চিরকাল থাকে না।"
+      },
+      {
+        "en": "He donated his windfall to charity.",
+        "bn": "সে তার আকস্মিক লাভ দাতব্য কাজে দান করল।"
+      }
+    ],
+    "synonyms": ["bonanza", "jackpot", "godsend"]
+  },
+  {
+    "base": "wistful",
+    "phonetic": "ˈwɪstfl",
+    "meaning": "বিষণ্ণ আকাঙ্ক্ষী / আকুল",
+    "examples": [
+      { "en": "She had a wistful look.", "bn": "তার একটি আকুল দৃষ্টি ছিল।" },
+      {
+        "en": "He felt wistful about the past.",
+        "bn": "সে অতীত নিয়ে বিষণ্ণ আকাঙ্ক্ষা অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She gave a wistful smile.", "bn": "সে একটি আকুল হাসি দিল।" },
+      {
+        "en": "He felt wistful for his hometown.",
+        "bn": "সে তার জন্মশহরের জন্য আকুল অনুভব করল।"
+      },
+      { "en": "She had a wistful expression.", "bn": "তার একটি আকুল ভাব ছিল।" },
+      { "en": "He spoke in a wistful tone.", "bn": "সে আকুল সুরে কথা বলল।" },
+      {
+        "en": "Wistful memories filled her heart.",
+        "bn": "আকুল স্মৃতি তার হৃদয় ভরিয়ে দিল।"
+      },
+      {
+        "en": "She looked wistfully at the photo.",
+        "bn": "সে আকুলভাবে ছবির দিকে তাকাল।"
+      },
+      {
+        "en": "He was wistful about his youth.",
+        "bn": "সে তার যৌবন নিয়ে আকুল ছিল।"
+      },
+      {
+        "en": "She sighed with wistful longing.",
+        "bn": "সে আকুল আকাঙ্ক্ষায় দীর্ঘশ্বাস ফেলল।"
+      },
+      { "en": "He had a wistful dream.", "bn": "তার একটি আকুল স্বপ্ন ছিল।" },
+      {
+        "en": "Wistful thoughts can bring peace.",
+        "bn": "আকুল চিন্তা শান্তি আনতে পারে।"
+      }
+    ],
+    "synonyms": ["nostalgic", "longing", "pensive"]
+  },
+  {
+    "base": "withdrawn",
+    "phonetic": "wɪðˈdrɔːn",
+    "meaning": "নিজের মধ্যে গুটিয়ে নেওয়া / অন্তর্মুখী",
+    "examples": [
+      {
+        "en": "She became withdrawn after the loss.",
+        "bn": "ক্ষতির পর সে নিজের মধ্যে গুটিয়ে গেল।"
+      },
+      { "en": "He was shy and withdrawn.", "bn": "সে লাজুক ও অন্তর্মুখী ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The withdrawn child needed support.",
+        "bn": "অন্তর্মুখী শিশুটির সহায়তা দরকার ছিল।"
+      },
+      {
+        "en": "She was withdrawn and quiet.",
+        "bn": "সে নিজের মধ্যে গুটানো ও শান্ত ছিল।"
+      },
+      {
+        "en": "He grew withdrawn over time.",
+        "bn": "সময়ের সাথে সে অন্তর্মুখী হয়ে গেল।"
+      },
+      {
+        "en": "Withdrawn people need patience.",
+        "bn": "অন্তর্মুখী মানুষদের ধৈর্য দরকার।"
+      },
+      {
+        "en": "She was withdrawn but kind.",
+        "bn": "সে অন্তর্মুখী কিন্তু দয়ালু ছিল।"
+      },
+      {
+        "en": "He became withdrawn after failure.",
+        "bn": "ব্যর্থতার পর সে নিজের মধ্যে গুটিয়ে গেল।"
+      },
+      {
+        "en": "The withdrawn student opened up slowly.",
+        "bn": "অন্তর্মুখী শিক্ষার্থী ধীরে ধীরে খুলে গেল।"
+      },
+      {
+        "en": "She was withdrawn but observant.",
+        "bn": "সে অন্তর্মুখী কিন্তু পর্যবেক্ষণশীল ছিল।"
+      },
+      {
+        "en": "He helped the withdrawn newcomer.",
+        "bn": "সে অন্তর্মুখী নতুনকে সাহায্য করল।"
+      },
+      {
+        "en": "Being withdrawn is not weakness.",
+        "bn": "অন্তর্মুখী হওয়া দুর্বলতা নয়।"
+      }
+    ],
+    "synonyms": ["introverted", "reserved", "isolated"]
+  },
+  {
+    "base": "workload",
+    "phonetic": "ˈwɜːrkloʊd",
+    "meaning": "কাজের বোঝা / কার্যভার",
+    "examples": [
+      {
+        "en": "She managed her workload well.",
+        "bn": "সে তার কাজের বোঝা ভালোভাবে সামলাল।"
+      },
+      {
+        "en": "His workload was too heavy.",
+        "bn": "তার কাজের বোঝা অনেক বেশি ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Balance your workload carefully.",
+        "bn": "সাবধানে তোমার কাজের বোঝা ভারসাম্য করো।"
+      },
+      { "en": "She reduced her workload.", "bn": "সে তার কাজের বোঝা কমাল।" },
+      {
+        "en": "He struggled with the heavy workload.",
+        "bn": "সে ভারী কাজের বোঝায় লড়াই করল।"
+      },
+      {
+        "en": "Workload affects mental health.",
+        "bn": "কাজের বোঝা মানসিক স্বাস্থ্য প্রভাবিত করে।"
+      },
+      {
+        "en": "She distributed the workload fairly.",
+        "bn": "সে কাজের বোঝা ন্যায্যভাবে ভাগ করল।"
+      },
+      {
+        "en": "He complained about the workload.",
+        "bn": "সে কাজের বোঝা নিয়ে অভিযোগ করল।"
+      },
+      {
+        "en": "Manage your workload efficiently.",
+        "bn": "দক্ষতার সাথে তোমার কাজের বোঝা সামলাও।"
+      },
+      {
+        "en": "She took on extra workload.",
+        "bn": "সে অতিরিক্ত কাজের বোঝা নিল।"
+      },
+      {
+        "en": "His workload increased suddenly.",
+        "bn": "তার কাজের বোঝা হঠাৎ বেড়ে গেল।"
+      },
+      {
+        "en": "A heavy workload leads to burnout.",
+        "bn": "ভারী কাজের বোঝা ক্লান্তির দিকে নিয়ে যায়।"
+      }
+    ],
+    "synonyms": ["tasks", "duties", "responsibilities"]
+  },
+  {
+    "base": "worldly",
+    "phonetic": "ˈwɜːrldli",
+    "meaning": "পার্থিব / দুনিয়াদার",
+    "examples": [
+      {
+        "en": "She had worldly experience.",
+        "bn": "তার পার্থিব অভিজ্ঞতা ছিল।"
+      },
+      { "en": "He was wise and worldly.", "bn": "সে বিজ্ঞ ও দুনিয়াদার ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Worldly pleasures do not last.",
+        "bn": "পার্থিব আনন্দ স্থায়ী হয় না।"
+      },
+      {
+        "en": "She gave up worldly possessions.",
+        "bn": "সে পার্থিব সম্পদ ছেড়ে দিল।"
+      },
+      {
+        "en": "He had a worldly perspective.",
+        "bn": "তার একটি পার্থিব দৃষ্টিভঙ্গি ছিল।"
+      },
+      {
+        "en": "Worldly success is temporary.",
+        "bn": "পার্থিব সাফল্য সাময়িক।"
+      },
+      {
+        "en": "She was worldly and experienced.",
+        "bn": "সে দুনিয়াদার ও অভিজ্ঞ ছিল।"
+      },
+      {
+        "en": "He sought more than worldly things.",
+        "bn": "সে পার্থিব বিষয়ের চেয়ে বেশি খুঁজল।"
+      },
+      {
+        "en": "Worldly knowledge opens many doors.",
+        "bn": "পার্থিব জ্ঞান অনেক দরজা খুলে দেয়।"
+      },
+      {
+        "en": "She balanced worldly and spiritual life.",
+        "bn": "সে পার্থিব ও আধ্যাত্মিক জীবন ভারসাম্য রাখল।"
+      },
+      {
+        "en": "He was not attached to worldly goods.",
+        "bn": "সে পার্থিব সম্পদে আসক্ত ছিল না।"
+      },
+      {
+        "en": "Worldly wisdom helps in daily life.",
+        "bn": "পার্থিব জ্ঞান দৈনন্দিন জীবনে সাহায্য করে।"
+      }
+    ],
+    "synonyms": ["earthly", "material", "secular"]
+  },
+  {
+    "base": "worrisome",
+    "phonetic": "ˈwʌrisəm",
+    "meaning": "উদ্বেগজনক / চিন্তার কারণ",
+    "examples": [
+      {
+        "en": "The situation was worrisome.",
+        "bn": "পরিস্থিতিটি উদ্বেগজনক ছিল।"
+      },
+      {
+        "en": "She had a worrisome feeling.",
+        "bn": "তার একটি উদ্বেগজনক অনুভূতি ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He found the news worrisome.",
+        "bn": "সে খবরটি উদ্বেগজনক মনে করল।"
+      },
+      {
+        "en": "The worrisome signs were noticed.",
+        "bn": "উদ্বেগজনক চিহ্নগুলো লক্ষ্য করা হলো।"
+      },
+      {
+        "en": "She had worrisome thoughts.",
+        "bn": "তার উদ্বেগজনক চিন্তা ছিল।"
+      },
+      {
+        "en": "Worrisome behavior needs attention.",
+        "bn": "উদ্বেগজনক আচরণ মনোযোগের দাবি রাখে।"
+      },
+      {
+        "en": "He had a worrisome cough.",
+        "bn": "তার একটি উদ্বেগজনক কাশি ছিল।"
+      },
+      {
+        "en": "The worrisome trend continued.",
+        "bn": "উদ্বেগজনক প্রবণতা অব্যাহত থাকল।"
+      },
+      {
+        "en": "She addressed the worrisome issue.",
+        "bn": "সে উদ্বেগজনক বিষয়টি সামলাল।"
+      },
+      {
+        "en": "It was a worrisome development.",
+        "bn": "এটি একটি উদ্বেগজনক উন্নয়ন ছিল।"
+      },
+      {
+        "en": "He tried to calm worrisome fears.",
+        "bn": "সে উদ্বেগজনক ভয় শান্ত করার চেষ্টা করল।"
+      },
+      {
+        "en": "Worrisome times need calm minds.",
+        "bn": "উদ্বেগজনক সময়ে শান্ত মন দরকার।"
+      }
+    ],
+    "synonyms": ["concerning", "troubling", "alarming"]
+  },
+  {
+    "base": "wrath",
+    "phonetic": "rɒθ",
+    "meaning": "রাগ / ক্রোধ",
+    "examples": [
+      {
+        "en": "She felt the wrath of his anger.",
+        "bn": "সে তার রাগের ক্রোধ অনুভব করল।"
+      },
+      { "en": "He controlled his wrath.", "bn": "সে তার ক্রোধ নিয়ন্ত্রণ করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The wrath of the storm was fierce.",
+        "bn": "ঝড়ের ক্রোধ তীব্র ছিল।"
+      },
+      { "en": "She feared his wrath.", "bn": "সে তার ক্রোধকে ভয় পেত।" },
+      {
+        "en": "He expressed his wrath loudly.",
+        "bn": "সে জোরে তার ক্রোধ প্রকাশ করল।"
+      },
+      {
+        "en": "Wrath clouds good judgment.",
+        "bn": "ক্রোধ ভালো বিচারকে ঘোলাটে করে।"
+      },
+      { "en": "She avoided his wrath.", "bn": "সে তার ক্রোধ এড়াল।" },
+      { "en": "He overcame his wrath.", "bn": "সে তার ক্রোধ কাটিয়ে উঠল।" },
+      { "en": "The king showed great wrath.", "bn": "রাজা বড় ক্রোধ দেখালেন।" },
+      { "en": "She calmed his wrath.", "bn": "সে তার ক্রোধ শান্ত করল।" },
+      {
+        "en": "Wrath can destroy relationships.",
+        "bn": "ক্রোধ সম্পর্ক ধ্বংস করতে পারে।"
+      },
+      { "en": "He regretted his wrath.", "bn": "সে তার ক্রোধে অনুশোচনা করল।" }
+    ],
+    "synonyms": ["anger", "fury", "rage"]
+  },
+  {
+    "base": "wrongdoing",
+    "phonetic": "ˈrɒŋduːɪŋ",
+    "meaning": "অন্যায় কাজ / অপকর্ম",
+    "examples": [
+      {
+        "en": "He admitted his wrongdoing.",
+        "bn": "সে তার অন্যায় কাজ স্বীকার করল।"
+      },
+      { "en": "She reported the wrongdoing.", "bn": "সে অপকর্মটি রিপোর্ট করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Wrongdoing must be punished.",
+        "bn": "অন্যায় কাজ শাস্তি পেতে হবে।"
+      },
+      {
+        "en": "He denied any wrongdoing.",
+        "bn": "সে কোনো অন্যায় কাজ অস্বীকার করল।"
+      },
+      {
+        "en": "She stood against wrongdoing.",
+        "bn": "সে অন্যায় কাজের বিরুদ্ধে দাঁড়াল।"
+      },
+      {
+        "en": "Wrongdoing harms the community.",
+        "bn": "অন্যায় কাজ সম্প্রদায়ের ক্ষতি করে।"
+      },
+      {
+        "en": "He was caught for his wrongdoing.",
+        "bn": "তার অন্যায় কাজের জন্য ধরা পড়ল।"
+      },
+      { "en": "She exposed the wrongdoing.", "bn": "সে অপকর্মটি উন্মোচন করল।" },
+      {
+        "en": "No wrongdoing goes unnoticed.",
+        "bn": "কোনো অন্যায় কাজ অলক্ষিত থাকে না।"
+      },
+      {
+        "en": "He regretted his wrongdoing.",
+        "bn": "সে তার অন্যায় কাজে অনুশোচনা করল।"
+      },
+      {
+        "en": "Wrongdoing destroys integrity.",
+        "bn": "অন্যায় কাজ সততা নষ্ট করে।"
+      },
+      {
+        "en": "She corrected her wrongdoing.",
+        "bn": "সে তার অন্যায় কাজ সংশোধন করল।"
+      }
+    ],
+    "synonyms": ["misconduct", "offense", "misdeed"]
+  },
+  {
+    "base": "wakeful",
+    "phonetic": "ˈweɪkfl",
+    "meaning": "জেগে থাকা / সজাগ",
+    "examples": [
+      {
+        "en": "She had a wakeful night.",
+        "bn": "তার একটি জেগে থাকার রাত ছিল।"
+      },
+      { "en": "He was wakeful and alert.", "bn": "সে সজাগ ও সতর্ক ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Wakeful minds notice everything.",
+        "bn": "সজাগ মন সব কিছু লক্ষ্য করে।"
+      },
+      {
+        "en": "She spent wakeful hours thinking.",
+        "bn": "সে চিন্তায় জেগে থেকে ঘন্টা কাটাল।"
+      },
+      {
+        "en": "He was wakeful during the storm.",
+        "bn": "ঝড়ের সময় সে সজাগ ছিল।"
+      },
+      {
+        "en": "Wakeful parents protect their children.",
+        "bn": "সজাগ বাবা-মা সন্তানদের রক্ষা করেন।"
+      },
+      {
+        "en": "She had a wakeful imagination.",
+        "bn": "তার একটি সজাগ কল্পনাশক্তি ছিল।"
+      },
+      { "en": "He remained wakeful all night.", "bn": "সে সারারাত জেগে থাকল।" },
+      {
+        "en": "Wakeful eyes catch every detail.",
+        "bn": "সজাগ চোখ প্রতিটি বিস্তারিত ধরে।"
+      },
+      {
+        "en": "She was wakeful during the meeting.",
+        "bn": "সভার সময় সে সজাগ ছিল।"
+      },
+      { "en": "He had wakeful dreams.", "bn": "তার সজাগ স্বপ্ন ছিল।" },
+      { "en": "Stay wakeful to stay safe.", "bn": "নিরাপদ থাকতে সজাগ থাকো।" }
+    ],
+    "synonyms": ["alert", "vigilant", "aware"]
+  },
+  {
+    "base": "wanderer",
+    "phonetic": "ˈwɒndərər",
+    "meaning": "পরিব্রাজক / ঘুরে বেড়ানো মানুষ",
+    "examples": [
+      {
+        "en": "She was a wanderer at heart.",
+        "bn": "সে হৃদয়ে একজন পরিব্রাজক ছিল।"
+      },
+      {
+        "en": "He was a lonely wanderer.",
+        "bn": "সে একজন একাকী পরিব্রাজক ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The wanderer traveled far and wide.",
+        "bn": "পরিব্রাজক দূরে দূরে ভ্রমণ করল।"
+      },
+      {
+        "en": "She was a free wanderer.",
+        "bn": "সে একজন মুক্ত পরিব্রাজক ছিল।"
+      },
+      {
+        "en": "He was known as a wanderer.",
+        "bn": "সে পরিব্রাজক হিসেবে পরিচিত ছিল।"
+      },
+      {
+        "en": "The wanderer found peace in travel.",
+        "bn": "পরিব্রাজক ভ্রমণে শান্তি খুঁজে পেল।"
+      },
+      {
+        "en": "She was a wanderer of the world.",
+        "bn": "সে পৃথিবীর পরিব্রাজক ছিল।"
+      },
+      {
+        "en": "He was a wanderer seeking truth.",
+        "bn": "সে সত্য খোঁজা পরিব্রাজক ছিল।"
+      },
+      {
+        "en": "Wanderers discover hidden treasures.",
+        "bn": "পরিব্রাজকরা লুকানো ধন আবিষ্কার করে।"
+      },
+      {
+        "en": "She was a creative wanderer.",
+        "bn": "সে একজন সৃজনশীল পরিব্রাজক ছিল।"
+      },
+      {
+        "en": "The wanderer never stayed long.",
+        "bn": "পরিব্রাজক কখনো বেশিক্ষণ থাকেনি।"
+      },
+      {
+        "en": "He lived as a happy wanderer.",
+        "bn": "সে একজন সুখী পরিব্রাজক হিসেবে জীবন কাটাল।"
+      }
+    ],
+    "synonyms": ["traveler", "roamer", "nomad"]
+  },
+  {
+    "base": "warlike",
+    "phonetic": "ˈwɔːrlaɪk",
+    "meaning": "যুদ্ধপ্রিয় / আক্রমণাত্মক",
+    "examples": [
+      { "en": "The tribe was warlike.", "bn": "উপজাতিটি যুদ্ধপ্রিয় ছিল।" },
+      {
+        "en": "He had a warlike attitude.",
+        "bn": "তার একটি আক্রমণাত্মক মনোভাব ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The warlike nation feared no one.",
+        "bn": "যুদ্ধপ্রিয় জাতি কাউকে ভয় পেত না।"
+      },
+      {
+        "en": "She avoided warlike confrontations.",
+        "bn": "সে যুদ্ধপ্রিয় সংঘাত এড়াল।"
+      },
+      {
+        "en": "He had a warlike spirit.",
+        "bn": "তার একটি যুদ্ধপ্রিয় মনোবল ছিল।"
+      },
+      {
+        "en": "Warlike behavior causes conflict.",
+        "bn": "যুদ্ধপ্রিয় আচরণ সংঘাত সৃষ্টি করে।"
+      },
+      {
+        "en": "She was firm but not warlike.",
+        "bn": "সে দৃঢ় কিন্তু যুদ্ধপ্রিয় ছিল না।"
+      },
+      {
+        "en": "The warlike leader fought bravely.",
+        "bn": "যুদ্ধপ্রিয় নেতা সাহসের সাথে লড়াই করলেন।"
+      },
+      {
+        "en": "He rejected warlike solutions.",
+        "bn": "সে যুদ্ধপ্রিয় সমাধান প্রত্যাখ্যান করল।"
+      },
+      {
+        "en": "Warlike cultures value strength.",
+        "bn": "যুদ্ধপ্রিয় সংস্কৃতি শক্তিকে মূল্য দেয়।"
+      },
+      {
+        "en": "She calmed the warlike situation.",
+        "bn": "সে যুদ্ধপ্রিয় পরিস্থিতি শান্ত করল।"
+      },
+      {
+        "en": "He turned from a warlike past.",
+        "bn": "সে তার যুদ্ধপ্রিয় অতীত থেকে সরে গেল।"
+      }
+    ],
+    "synonyms": ["aggressive", "militant", "combative"]
+  },
+  {
+    "base": "warmhearted",
+    "phonetic": "ˌwɔːrmˈhɑːrtɪd",
+    "meaning": "উষ্ণ হৃদয়ের / দয়ালু",
+    "examples": [
+      {
+        "en": "She was warmhearted and kind.",
+        "bn": "সে উষ্ণ হৃদয়ের ও দয়ালু ছিল।"
+      },
+      {
+        "en": "He was a warmhearted person.",
+        "bn": "সে একজন উষ্ণ হৃদয়ের মানুষ ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Warmhearted people spread happiness.",
+        "bn": "উষ্ণ হৃদয়ের মানুষ সুখ ছড়ায়।"
+      },
+      {
+        "en": "She received a warmhearted welcome.",
+        "bn": "সে একটি উষ্ণ হৃদয়ের স্বাগত পেল।"
+      },
+      {
+        "en": "He had a warmhearted smile.",
+        "bn": "তার একটি উষ্ণ হৃদয়ের হাসি ছিল।"
+      },
+      {
+        "en": "Warmhearted gestures mean a lot.",
+        "bn": "উষ্ণ হৃদয়ের ইঙ্গিত অনেক অর্থ বহন করে।"
+      },
+      {
+        "en": "She was warmhearted to all.",
+        "bn": "সে সবার প্রতি উষ্ণ হৃদয়ের ছিল।"
+      },
+      {
+        "en": "He gave warmhearted advice.",
+        "bn": "সে উষ্ণ হৃদয়ের পরামর্শ দিল।"
+      },
+      {
+        "en": "Warmhearted people are loved.",
+        "bn": "উষ্ণ হৃদয়ের মানুষদের ভালোবাসা যায়।"
+      },
+      {
+        "en": "She had a warmhearted nature.",
+        "bn": "তার একটি উষ্ণ হৃদয়ের স্বভাব ছিল।"
+      },
+      {
+        "en": "He was warmhearted even in hard times.",
+        "bn": "কঠিন সময়েও সে উষ্ণ হৃদয়ের ছিল।"
+      },
+      {
+        "en": "Her warmhearted support helped him.",
+        "bn": "তার উষ্ণ হৃদয়ের সমর্থন তাকে সাহায্য করল।"
+      }
+    ],
+    "synonyms": ["kind", "caring", "compassionate"]
+  },
+  {
+    "base": "watchdog",
+    "phonetic": "ˈwɒtʃdɒɡ",
+    "meaning": "প্রহরী কুকুর / নজরদারি সংস্থা",
+    "examples": [
+      {
+        "en": "The watchdog barked at strangers.",
+        "bn": "প্রহরী কুকুর অপরিচিতদের দিকে ঘেউ করল।"
+      },
+      {
+        "en": "She worked for a consumer watchdog.",
+        "bn": "সে একটি ভোক্তা নজরদারি সংস্থায় কাজ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The watchdog protected the house.",
+        "bn": "প্রহরী কুকুর বাড়ি রক্ষা করল।"
+      },
+      { "en": "He acted as a watchdog.", "bn": "সে প্রহরী হিসেবে কাজ করল।" },
+      {
+        "en": "The watchdog reported the fraud.",
+        "bn": "নজরদারি সংস্থা প্রতারণা রিপোর্ট করল।"
+      },
+      { "en": "She was the team watchdog.", "bn": "সে দলের নজরদার ছিল।" },
+      {
+        "en": "Watchdog organizations protect rights.",
+        "bn": "নজরদারি সংস্থা অধিকার রক্ষা করে।"
+      },
+      {
+        "en": "He supported watchdog journalism.",
+        "bn": "সে নজরদারি সাংবাদিকতা সমর্থন করল।"
+      },
+      {
+        "en": "The watchdog kept everything safe.",
+        "bn": "প্রহরী সব কিছু নিরাপদ রাখল।"
+      },
+      {
+        "en": "She trusted the watchdog agency.",
+        "bn": "সে নজরদারি সংস্থাকে বিশ্বাস করল।"
+      },
+      {
+        "en": "He trained the watchdog well.",
+        "bn": "সে প্রহরী কুকুরকে ভালোভাবে প্রশিক্ষণ দিল।"
+      },
+      {
+        "en": "A good watchdog never sleeps.",
+        "bn": "একটি ভালো প্রহরী কখনো ঘুমায় না।"
+      }
+    ],
+    "synonyms": ["guardian", "monitor", "protector"]
+  },
+  {
+    "base": "waterfall",
+    "phonetic": "ˈwɔːtərfɔːl",
+    "meaning": "জলপ্রপাত",
+    "examples": [
+      {
+        "en": "She stood near the waterfall.",
+        "bn": "সে জলপ্রপাতের কাছে দাঁড়াল।"
+      },
+      {
+        "en": "The waterfall was breathtaking.",
+        "bn": "জলপ্রপাতটি অসাধারণ ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He photographed the waterfall.",
+        "bn": "সে জলপ্রপাতের ছবি তুলল।"
+      },
+      {
+        "en": "The waterfall roared loudly.",
+        "bn": "জলপ্রপাত জোরে গর্জন করল।"
+      },
+      {
+        "en": "She swam near the waterfall.",
+        "bn": "সে জলপ্রপাতের কাছে সাঁতার কাটল।"
+      },
+      {
+        "en": "The waterfall fed the river.",
+        "bn": "জলপ্রপাত নদীতে পানি দিল।"
+      },
+      { "en": "He hiked to the waterfall.", "bn": "সে হেঁটে জলপ্রপাতে গেল।" },
+      {
+        "en": "The waterfall was hidden in the forest.",
+        "bn": "জলপ্রপাতটি বনে লুকানো ছিল।"
+      },
+      {
+        "en": "She loved the sound of the waterfall.",
+        "bn": "সে জলপ্রপাতের শব্দ ভালোবাসত।"
+      },
+      {
+        "en": "He felt peace at the waterfall.",
+        "bn": "জলপ্রপাতে সে শান্তি অনুভব করল।"
+      },
+      {
+        "en": "The waterfall was tall and wide.",
+        "bn": "জলপ্রপাতটি লম্বা ও চওড়া ছিল।"
+      },
+      {
+        "en": "She dreamed of the waterfall.",
+        "bn": "সে জলপ্রপাতের স্বপ্ন দেখল।"
+      }
+    ],
+    "synonyms": ["cascade", "falls", "cataract"]
+  },
+  {
+    "base": "wayward",
+    "phonetic": "ˈweɪwərd",
+    "meaning": "অবাধ্য / খামখেয়ালি",
+    "examples": [
+      {
+        "en": "The wayward child needed guidance.",
+        "bn": "অবাধ্য শিশুটির নির্দেশনা দরকার ছিল।"
+      },
+      {
+        "en": "He had a wayward personality.",
+        "bn": "তার একটি খামখেয়ালি ব্যক্তিত্ব ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She helped the wayward student.",
+        "bn": "সে অবাধ্য শিক্ষার্থীকে সাহায্য করল।"
+      },
+      {
+        "en": "He overcame his wayward ways.",
+        "bn": "সে তার অবাধ্য আচরণ কাটিয়ে উঠল।"
+      },
+      {
+        "en": "Wayward behavior needs correction.",
+        "bn": "অবাধ্য আচরণ সংশোধন দরকার।"
+      },
+      {
+        "en": "She guided the wayward youth.",
+        "bn": "সে অবাধ্য তরুণকে পথ দেখাল।"
+      },
+      {
+        "en": "He was wayward but talented.",
+        "bn": "সে অবাধ্য কিন্তু প্রতিভাবান ছিল।"
+      },
+      {
+        "en": "Wayward thinking leads nowhere.",
+        "bn": "খামখেয়ালি চিন্তা কোথাও নিয়ে যায় না।"
+      },
+      {
+        "en": "She was patient with the wayward child.",
+        "bn": "সে অবাধ্য শিশুর সাথে ধৈর্যশীল ছিল।"
+      },
+      {
+        "en": "He changed his wayward lifestyle.",
+        "bn": "সে তার অবাধ্য জীবনধারা পরিবর্তন করল।"
+      },
+      {
+        "en": "The wayward path led to trouble.",
+        "bn": "অবাধ্য পথ সমস্যার দিকে নিয়ে গেল।"
+      },
+      {
+        "en": "She forgave his wayward behavior.",
+        "bn": "সে তার অবাধ্য আচরণ ক্ষমা করল।"
+      }
+    ],
+    "synonyms": ["disobedient", "unruly", "unpredictable"]
+  },
+  {
+    "base": "weakling",
+    "phonetic": "ˈwiːklɪŋ",
+    "meaning": "দুর্বল ব্যক্তি / কমজোরি",
+    "examples": [
+      {
+        "en": "He was called a weakling.",
+        "bn": "তাকে দুর্বল ব্যক্তি বলা হলো।"
+      },
+      {
+        "en": "She refused to be a weakling.",
+        "bn": "সে দুর্বল হতে অস্বীকার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The weakling surprised everyone.",
+        "bn": "দুর্বল ব্যক্তিটি সবাইকে অবাক করল।"
+      },
+      {
+        "en": "He proved he was no weakling.",
+        "bn": "সে প্রমাণ করল সে দুর্বল নয়।"
+      },
+      {
+        "en": "She never saw herself as a weakling.",
+        "bn": "সে কখনো নিজেকে দুর্বল মনে করেনি।"
+      },
+      {
+        "en": "Even a weakling can be strong inside.",
+        "bn": "একজন দুর্বল ব্যক্তিও ভেতরে শক্তিশালী হতে পারে।"
+      },
+      {
+        "en": "He overcame the weakling label.",
+        "bn": "সে দুর্বল পরিচয় কাটিয়ে উঠল।"
+      },
+      {
+        "en": "She encouraged the weakling.",
+        "bn": "সে দুর্বল ব্যক্তিকে উৎসাহিত করল।"
+      },
+      {
+        "en": "The weakling trained to get stronger.",
+        "bn": "দুর্বল ব্যক্তিটি শক্তিশালী হতে প্রশিক্ষণ নিল।"
+      },
+      { "en": "Never call someone a weakling.", "bn": "কাউকে দুর্বল বলো না।" },
+      {
+        "en": "He refused the weakling title.",
+        "bn": "সে দুর্বল উপাধি প্রত্যাখ্যান করল।"
+      },
+      {
+        "en": "A weakling can become a champion.",
+        "bn": "একজন দুর্বল ব্যক্তি চ্যাম্পিয়ন হতে পারে।"
+      }
+    ],
+    "synonyms": ["coward", "pushover", "lightweight"]
+  },
+
+  {
+    "base": "wealthiness",
+    "phonetic": "ˈwelθinəs",
+    "meaning": "ধনাঢ্যতা / সম্পদশালিতা",
+    "examples": [
+      {
+        "en": "Her wealthiness was well known.",
+        "bn": "তার ধনাঢ্যতা সুপরিচিত ছিল।"
+      },
+      {
+        "en": "He showed no signs of wealthiness.",
+        "bn": "সে ধনাঢ্যতার কোনো চিহ্ন দেখাল না।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Wealthiness does not equal happiness.",
+        "bn": "ধনাঢ্যতা সুখের সমান নয়।"
+      },
+      {
+        "en": "She used her wealthiness for good.",
+        "bn": "সে তার ধনাঢ্যতা ভালো কাজে ব্যবহার করল।"
+      },
+      {
+        "en": "His wealthiness came from hard work.",
+        "bn": "তার ধনাঢ্যতা কঠোর পরিশ্রম থেকে এল।"
+      },
+      {
+        "en": "Wealthiness brings responsibility.",
+        "bn": "ধনাঢ্যতা দায়িত্ব নিয়ে আসে।"
+      },
+      { "en": "She shared her wealthiness.", "bn": "সে তার ধনাঢ্যতা ভাগ করল।" },
+      {
+        "en": "His wealthiness inspired others.",
+        "bn": "তার ধনাঢ্যতা অন্যদের অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "Wealthiness should be used wisely.",
+        "bn": "ধনাঢ্যতা বুদ্ধিমানের সাথে ব্যবহার করা উচিত।"
+      },
+      {
+        "en": "She built wealthiness through savings.",
+        "bn": "সে সঞ্চয়ের মাধ্যমে ধনাঢ্যতা গড়ল।"
+      },
+      {
+        "en": "He measured wealthiness differently.",
+        "bn": "সে ধনাঢ্যতা ভিন্নভাবে পরিমাপ করল।"
+      },
+      {
+        "en": "True wealthiness is inner peace.",
+        "bn": "প্রকৃত ধনাঢ্যতা হলো অভ্যন্তরীণ শান্তি।"
+      }
+    ],
+    "synonyms": ["prosperity", "affluence", "richness"]
+  },
+  {
+    "base": "weariness",
+    "phonetic": "ˈwɪərinəs",
+    "meaning": "ক্লান্তি / অবসাদ",
+    "examples": [
+      {
+        "en": "She felt weariness in her bones.",
+        "bn": "সে হাড়ে ক্লান্তি অনুভব করল।"
+      },
+      { "en": "His weariness was visible.", "bn": "তার ক্লান্তি স্পষ্ট ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "Weariness crept over her.", "bn": "ক্লান্তি তার উপর ভর করল।" },
+      { "en": "He hid his weariness.", "bn": "সে তার ক্লান্তি লুকাল।" },
+      {
+        "en": "Weariness comes from overwork.",
+        "bn": "ক্লান্তি অতিরিক্ত কাজ থেকে আসে।"
+      },
+      {
+        "en": "She fought through her weariness.",
+        "bn": "সে তার ক্লান্তির মধ্য দিয়ে লড়াই করল।"
+      },
+      {
+        "en": "His weariness slowed him down.",
+        "bn": "তার ক্লান্তি তাকে ধীর করে দিল।"
+      },
+      { "en": "Rest relieves weariness.", "bn": "বিশ্রাম ক্লান্তি দূর করে।" },
+      {
+        "en": "She overcame her weariness.",
+        "bn": "সে তার ক্লান্তি কাটিয়ে উঠল।"
+      },
+      {
+        "en": "Weariness is a sign to rest.",
+        "bn": "ক্লান্তি বিশ্রামের সংকেত।"
+      },
+      { "en": "He felt deep weariness.", "bn": "সে গভীর ক্লান্তি অনুভব করল।" },
+      {
+        "en": "Her weariness disappeared with sleep.",
+        "bn": "ঘুমের সাথে তার ক্লান্তি দূর হলো।"
+      }
+    ],
+    "synonyms": ["fatigue", "exhaustion", "tiredness"]
+  },
+  {
+    "base": "welcoming",
+    "phonetic": "ˈwelkəmɪŋ",
+    "meaning": "আতিথেয় / স্বাগত জানানো",
+    "examples": [
+      {
+        "en": "She had a welcoming smile.",
+        "bn": "তার একটি আতিথেয় হাসি ছিল।"
+      },
+      { "en": "The town was very welcoming.", "bn": "শহরটি খুব আতিথেয় ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He created a welcoming environment.",
+        "bn": "সে একটি আতিথেয় পরিবেশ তৈরি করল।"
+      },
+      {
+        "en": "She was welcoming to all guests.",
+        "bn": "সে সব অতিথিদের প্রতি আতিথেয় ছিল।"
+      },
+      {
+        "en": "The welcoming atmosphere relaxed everyone.",
+        "bn": "আতিথেয় পরিবেশ সবাইকে শিথিল করল।"
+      },
+      {
+        "en": "He had a welcoming personality.",
+        "bn": "তার একটি আতিথেয় ব্যক্তিত্ব ছিল।"
+      },
+      { "en": "Be welcoming to newcomers.", "bn": "নতুনদের প্রতি আতিথেয় হও।" },
+      {
+        "en": "She made a welcoming gesture.",
+        "bn": "সে একটি আতিথেয় ইঙ্গিত করল।"
+      },
+      {
+        "en": "The welcoming community helped him.",
+        "bn": "আতিথেয় সম্প্রদায় তাকে সাহায্য করল।"
+      },
+      { "en": "He was warm and welcoming.", "bn": "সে উষ্ণ ও আতিথেয় ছিল।" },
+      {
+        "en": "She gave a welcoming speech.",
+        "bn": "সে একটি আতিথেয় বক্তৃতা দিল।"
+      },
+      {
+        "en": "A welcoming heart opens doors.",
+        "bn": "আতিথেয় হৃদয় দরজা খুলে দেয়।"
+      }
+    ],
+    "synonyms": ["hospitable", "friendly", "inviting"]
+  },
+  {
+    "base": "wellbeing",
+    "phonetic": "ˈwelbiːɪŋ",
+    "meaning": "সুস্বাস্থ্য / মঙ্গল",
+    "examples": [
+      {
+        "en": "She cared for her wellbeing.",
+        "bn": "সে তার সুস্বাস্থ্যের যত্ন নিল।"
+      },
+      {
+        "en": "He promoted the wellbeing of others.",
+        "bn": "সে অন্যদের মঙ্গল প্রচার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Wellbeing includes physical and mental health.",
+        "bn": "সুস্বাস্থ্যে শারীরিক ও মানসিক স্বাস্থ্য অন্তর্ভুক্ত।"
+      },
+      {
+        "en": "She focused on her emotional wellbeing.",
+        "bn": "সে তার আবেগিক সুস্বাস্থ্যে মনোযোগ দিল।"
+      },
+      {
+        "en": "His wellbeing improved with rest.",
+        "bn": "বিশ্রামের সাথে তার সুস্বাস্থ্য উন্নত হলো।"
+      },
+      {
+        "en": "Wellbeing is a lifelong journey.",
+        "bn": "সুস্বাস্থ্য একটি আজীবন যাত্রা।"
+      },
+      {
+        "en": "She promoted community wellbeing.",
+        "bn": "সে সম্প্রদায়ের মঙ্গল প্রচার করল।"
+      },
+      {
+        "en": "Exercise boosts your wellbeing.",
+        "bn": "ব্যায়াম তোমার সুস্বাস্থ্য বাড়ায়।"
+      },
+      {
+        "en": "He invested in his wellbeing.",
+        "bn": "সে তার সুস্বাস্থ্যে বিনিয়োগ করল।"
+      },
+      {
+        "en": "Wellbeing comes from balance.",
+        "bn": "সুস্বাস্থ্য ভারসাম্য থেকে আসে।"
+      },
+      {
+        "en": "She prioritized her wellbeing.",
+        "bn": "সে তার সুস্বাস্থ্যকে অগ্রাধিকার দিল।"
+      },
+      {
+        "en": "Good relationships support wellbeing.",
+        "bn": "ভালো সম্পর্ক সুস্বাস্থ্যকে সমর্থন করে।"
+      }
+    ],
+    "synonyms": ["health", "welfare", "happiness"]
+  },
+  {
+    "base": "whimsical",
+    "phonetic": "ˈwɪmzɪkl",
+    "meaning": "খেয়ালি / কল্পনাপ্রবণ",
+    "examples": [
+      {
+        "en": "She had a whimsical imagination.",
+        "bn": "তার একটি কল্পনাপ্রবণ কল্পনাশক্তি ছিল।"
+      },
+      { "en": "He told a whimsical story.", "bn": "সে একটি খেয়ালি গল্প বলল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The whimsical painting caught her eye.",
+        "bn": "খেয়ালি চিত্রটি তার দৃষ্টি আকর্ষণ করল।"
+      },
+      {
+        "en": "He had a whimsical sense of humor.",
+        "bn": "তার একটি খেয়ালি হাস্যরসের বোধ ছিল।"
+      },
+      {
+        "en": "She decorated the room whimsically.",
+        "bn": "সে খেয়ালিভাবে ঘর সাজাল।"
+      },
+      {
+        "en": "His whimsical ideas were unique.",
+        "bn": "তার খেয়ালি ধারণাগুলো অনন্য ছিল।"
+      },
+      { "en": "She wore a whimsical hat.", "bn": "সে একটি খেয়ালি টুপি পরল।" },
+      {
+        "en": "The whimsical garden was magical.",
+        "bn": "খেয়ালি বাগানটি জাদুকরী ছিল।"
+      },
+      { "en": "He wrote whimsical poetry.", "bn": "সে খেয়ালি কবিতা লিখল।" },
+      {
+        "en": "She had a whimsical personality.",
+        "bn": "তার একটি কল্পনাপ্রবণ ব্যক্তিত্ব ছিল।"
+      },
+      {
+        "en": "The whimsical character made children laugh.",
+        "bn": "খেয়ালি চরিত্রটি শিশুদের হাসাল।"
+      },
+      {
+        "en": "He enjoyed whimsical adventures.",
+        "bn": "সে খেয়ালি অ্যাডভেঞ্চার উপভোগ করল।"
+      }
+    ],
+    "synonyms": ["fanciful", "playful", "imaginative"]
+  },
+  {
+    "base": "wholeness",
+    "phonetic": "ˈhoʊlnəs",
+    "meaning": "সম্পূর্ণতা / অখণ্ডতা",
+    "examples": [
+      {
+        "en": "She felt a sense of wholeness.",
+        "bn": "সে সম্পূর্ণতার অনুভূতি পেল।"
+      },
+      {
+        "en": "He sought wholeness in life.",
+        "bn": "সে জীবনে সম্পূর্ণতা খুঁজল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Wholeness comes from self acceptance.",
+        "bn": "সম্পূর্ণতা আত্মস্বীকৃতি থেকে আসে।"
+      },
+      {
+        "en": "She found wholeness in nature.",
+        "bn": "সে প্রকৃতিতে সম্পূর্ণতা খুঁজে পেল।"
+      },
+      {
+        "en": "He worked toward inner wholeness.",
+        "bn": "সে অভ্যন্তরীণ সম্পূর্ণতার দিকে কাজ করল।"
+      },
+      {
+        "en": "Wholeness requires mind and body balance.",
+        "bn": "সম্পূর্ণতায় মন ও শরীরের ভারসাম্য দরকার।"
+      },
+      {
+        "en": "She experienced wholeness and joy.",
+        "bn": "সে সম্পূর্ণতা ও আনন্দ অনুভব করল।"
+      },
+      {
+        "en": "Wholeness heals broken hearts.",
+        "bn": "সম্পূর্ণতা ভাঙা হৃদয় সারিয়ে তোলে।"
+      },
+      {
+        "en": "He restored his sense of wholeness.",
+        "bn": "সে তার সম্পূর্ণতার অনুভূতি পুনরুদ্ধার করল।"
+      },
+      {
+        "en": "Wholeness begins with acceptance.",
+        "bn": "সম্পূর্ণতা স্বীকৃতি দিয়ে শুরু হয়।"
+      },
+      {
+        "en": "She taught others about wholeness.",
+        "bn": "সে অন্যদের সম্পূর্ণতা সম্পর্কে শেখাল।"
+      },
+      {
+        "en": "True wholeness cannot be bought.",
+        "bn": "প্রকৃত সম্পূর্ণতা কেনা যায় না।"
+      }
+    ],
+    "synonyms": ["completeness", "integrity", "entirety"]
+  },
+  {
+    "base": "wickedness",
+    "phonetic": "ˈwɪkɪdnəs",
+    "meaning": "দুষ্টামি / পাপপ্রবণতা",
+    "examples": [
+      {
+        "en": "She fought against wickedness.",
+        "bn": "সে দুষ্টামির বিরুদ্ধে লড়াই করল।"
+      },
+      { "en": "His wickedness was punished.", "bn": "তার দুষ্টামি শাস্তি পেল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Wickedness destroys communities.",
+        "bn": "দুষ্টামি সম্প্রদায় ধ্বংস করে।"
+      },
+      {
+        "en": "She recognized his wickedness.",
+        "bn": "সে তার দুষ্টামি চিনতে পারল।"
+      },
+      {
+        "en": "He overcame his wickedness.",
+        "bn": "সে তার দুষ্টামি কাটিয়ে উঠল।"
+      },
+      {
+        "en": "Wickedness has no place here.",
+        "bn": "এখানে দুষ্টামির কোনো জায়গা নেই।"
+      },
+      {
+        "en": "She warned about wickedness.",
+        "bn": "সে দুষ্টামি সম্পর্কে সতর্ক করল।"
+      },
+      {
+        "en": "His wickedness shocked everyone.",
+        "bn": "তার দুষ্টামি সবাইকে হতবাক করল।"
+      },
+      { "en": "Wickedness stems from greed.", "bn": "দুষ্টামি লোভ থেকে আসে।" },
+      {
+        "en": "She refused to accept wickedness.",
+        "bn": "সে দুষ্টামি মেনে নিতে অস্বীকার করল।"
+      },
+      {
+        "en": "He repented for his wickedness.",
+        "bn": "সে তার দুষ্টামির জন্য অনুতাপ করল।"
+      },
+      {
+        "en": "No amount of wickedness pays.",
+        "bn": "কোনো পরিমাণ দুষ্টামি লাভজনক নয়।"
+      }
+    ],
+    "synonyms": ["evil", "sinfulness", "immorality"]
+  },
+  {
+    "base": "willful",
+    "phonetic": "ˈwɪlfl",
+    "meaning": "ইচ্ছাকৃত / জেদি",
+    "examples": [
+      { "en": "He was willful and stubborn.", "bn": "সে জেদি ও একরোখা ছিল।" },
+      {
+        "en": "She made a willful decision.",
+        "bn": "সে একটি ইচ্ছাকৃত সিদ্ধান্ত নিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "His willful behavior caused problems.",
+        "bn": "তার জেদি আচরণ সমস্যা সৃষ্টি করল।"
+      },
+      {
+        "en": "She was willful but capable.",
+        "bn": "সে জেদি কিন্তু সক্ষম ছিল।"
+      },
+      { "en": "He made a willful mistake.", "bn": "সে একটি ইচ্ছাকৃত ভুল করল।" },
+      {
+        "en": "Willful ignorance is dangerous.",
+        "bn": "ইচ্ছাকৃত অজ্ঞতা বিপজ্জনক।"
+      },
+      {
+        "en": "She was willful in her choices.",
+        "bn": "সে তার পছন্দে জেদি ছিল।"
+      },
+      {
+        "en": "He acted with willful determination.",
+        "bn": "সে ইচ্ছাকৃত দৃঢ়তার সাথে কাজ করল।"
+      },
+      {
+        "en": "Willful actions have consequences.",
+        "bn": "ইচ্ছাকৃত কাজের পরিণতি আছে।"
+      },
+      {
+        "en": "She was willful but responsible.",
+        "bn": "সে জেদি কিন্তু দায়িত্বশীল ছিল।"
+      },
+      {
+        "en": "His willful nature was well known.",
+        "bn": "তার জেদি স্বভাব সুপরিচিত ছিল।"
+      },
+      {
+        "en": "Willful people achieve their goals.",
+        "bn": "জেদি মানুষ তাদের লক্ষ্য অর্জন করে।"
+      }
+    ],
+    "synonyms": ["deliberate", "stubborn", "intentional"]
+  },
+  {
+    "base": "winding",
+    "phonetic": "ˈwaɪndɪŋ",
+    "meaning": "বাঁকানো / প্যাঁচানো",
+    "examples": [
+      {
+        "en": "The winding road was beautiful.",
+        "bn": "বাঁকানো রাস্তাটি সুন্দর ছিল।"
+      },
+      { "en": "She walked the winding path.", "bn": "সে প্যাঁচানো পথে হাঁটল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He drove along the winding road.",
+        "bn": "সে বাঁকানো রাস্তায় গাড়ি চালাল।"
+      },
+      {
+        "en": "The winding river was peaceful.",
+        "bn": "প্যাঁচানো নদীটি শান্তিপূর্ণ ছিল।"
+      },
+      {
+        "en": "She climbed the winding staircase.",
+        "bn": "সে প্যাঁচানো সিঁড়ি বেয়ে উঠল।"
+      },
+      {
+        "en": "The winding path led to the top.",
+        "bn": "বাঁকানো পথ শীর্ষে নিয়ে গেল।"
+      },
+      {
+        "en": "He followed the winding trail.",
+        "bn": "সে বাঁকানো পথ অনুসরণ করল।"
+      },
+      {
+        "en": "Life is often a winding journey.",
+        "bn": "জীবন প্রায়ই একটি বাঁকানো যাত্রা।"
+      },
+      {
+        "en": "She enjoyed the winding drive.",
+        "bn": "সে বাঁকানো ড্রাইভ উপভোগ করল।"
+      },
+      {
+        "en": "The winding road surprised him.",
+        "bn": "বাঁকানো রাস্তাটি তাকে অবাক করল।"
+      },
+      {
+        "en": "He mapped the winding route.",
+        "bn": "সে বাঁকানো পথের মানচিত্র তৈরি করল।"
+      },
+      {
+        "en": "The winding stream was charming.",
+        "bn": "প্যাঁচানো ঝর্ণাটি আকর্ষণীয় ছিল।"
+      }
+    ],
+    "synonyms": ["twisting", "curving", "meandering"]
+  },
+  {
+    "base": "winsome",
+    "phonetic": "ˈwɪnsəm",
+    "meaning": "আকর্ষণীয় / মনোমুগ্ধকর",
+    "examples": [
+      {
+        "en": "She had a winsome smile.",
+        "bn": "তার একটি মনোমুগ্ধকর হাসি ছিল।"
+      },
+      {
+        "en": "He was a winsome young man.",
+        "bn": "সে একজন আকর্ষণীয় তরুণ ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Her winsome personality charmed all.",
+        "bn": "তার আকর্ষণীয় ব্যক্তিত্ব সবাইকে মুগ্ধ করল।"
+      },
+      {
+        "en": "He had a winsome manner.",
+        "bn": "তার একটি মনোমুগ্ধকর আচরণ ছিল।"
+      },
+      {
+        "en": "She gave a winsome laugh.",
+        "bn": "সে একটি আকর্ষণীয় হাসি দিল।"
+      },
+      {
+        "en": "His winsome charm won hearts.",
+        "bn": "তার আকর্ষণীয় মনোমুগ্ধকরতা মন জিতল।"
+      },
+      {
+        "en": "She was winsome and graceful.",
+        "bn": "সে আকর্ষণীয় ও মার্জিত ছিল।"
+      },
+      {
+        "en": "He had a winsome expression.",
+        "bn": "তার একটি মনোমুগ্ধকর ভাব ছিল।"
+      },
+      {
+        "en": "The winsome child delighted everyone.",
+        "bn": "আকর্ষণীয় শিশুটি সবাইকে আনন্দিত করল।"
+      },
+      {
+        "en": "She spoke in a winsome way.",
+        "bn": "সে একটি মনোমুগ্ধকর উপায়ে কথা বলল।"
+      },
+      {
+        "en": "His winsome nature attracted friends.",
+        "bn": "তার আকর্ষণীয় স্বভাব বন্ধু টানল।"
+      },
+      {
+        "en": "She had a naturally winsome look.",
+        "bn": "তার স্বাভাবিকভাবেই একটি আকর্ষণীয় দৃষ্টি ছিল।"
+      }
+    ],
+    "synonyms": ["charming", "appealing", "attractive"]
+  },
+  {
+    "base": "witless",
+    "phonetic": "ˈwɪtləs",
+    "meaning": "বোকা / বুদ্ধিহীন",
+    "examples": [
+      { "en": "He was scared witless.", "bn": "সে ভয়ে বোকা হয়ে গেল।" },
+      {
+        "en": "She was not as witless as she seemed.",
+        "bn": "সে যতটা বোকা মনে হলো ততটা ছিল না।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "His witless comment embarrassed him.",
+        "bn": "তার বোকা মন্তব্য তাকে বিব্রত করল।"
+      },
+      { "en": "She was bored witless.", "bn": "সে বিরক্তিতে বোকা হয়ে গেল।" },
+      {
+        "en": "He acted witless under pressure.",
+        "bn": "চাপে সে বোকার মতো কাজ করল।"
+      },
+      {
+        "en": "The witless plan failed.",
+        "bn": "বোকামির পরিকল্পনাটি ব্যর্থ হলো।"
+      },
+      { "en": "She was frightened witless.", "bn": "সে ভয়ে বোকা হয়ে গেল।" },
+      {
+        "en": "He made a witless decision.",
+        "bn": "সে একটি বোকামির সিদ্ধান্ত নিল।"
+      },
+      { "en": "Being witless is not funny.", "bn": "বোকামি মজার নয়।" },
+      {
+        "en": "She overcame her witless moment.",
+        "bn": "সে তার বোকামির মুহূর্ত কাটিয়ে উঠল।"
+      },
+      {
+        "en": "He was not witless just nervous.",
+        "bn": "সে বোকা ছিল না শুধু নার্ভাস ছিল।"
+      },
+      {
+        "en": "Witless choices lead to trouble.",
+        "bn": "বোকামির পছন্দ সমস্যার দিকে নিয়ে যায়।"
+      }
+    ],
+    "synonyms": ["foolish", "stupid", "senseless"]
+  },
+  {
+    "base": "workforce",
+    "phonetic": "ˈwɜːrkfɔːrs",
+    "meaning": "কর্মীবাহিনী / শ্রমশক্তি",
+    "examples": [
+      {
+        "en": "The workforce was very productive.",
+        "bn": "কর্মীবাহিনী খুব উৎপাদনশীল ছিল।"
+      },
+      {
+        "en": "She joined the workforce early.",
+        "bn": "সে তাড়াতাড়ি কর্মীবাহিনীতে যোগ দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The company expanded its workforce.",
+        "bn": "কোম্পানি তার কর্মীবাহিনী বিস্তৃত করল।"
+      },
+      {
+        "en": "He managed the workforce well.",
+        "bn": "সে কর্মীবাহিনী ভালোভাবে পরিচালনা করল।"
+      },
+      {
+        "en": "A skilled workforce drives growth.",
+        "bn": "দক্ষ কর্মীবাহিনী প্রবৃদ্ধি চালিত করে।"
+      },
+      {
+        "en": "She trained the workforce.",
+        "bn": "সে কর্মীবাহিনীকে প্রশিক্ষণ দিল।"
+      },
+      {
+        "en": "The workforce went on strike.",
+        "bn": "কর্মীবাহিনী ধর্মঘটে গেল।"
+      },
+      {
+        "en": "He motivated the workforce.",
+        "bn": "সে কর্মীবাহিনীকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "A happy workforce produces more.",
+        "bn": "সুখী কর্মীবাহিনী বেশি উৎপাদন করে।"
+      },
+      {
+        "en": "She developed the local workforce.",
+        "bn": "সে স্থানীয় কর্মীবাহিনী উন্নত করল।"
+      },
+      {
+        "en": "The workforce adapted to change.",
+        "bn": "কর্মীবাহিনী পরিবর্তনের সাথে মানিয়ে নিল।"
+      },
+      {
+        "en": "He invested in his workforce.",
+        "bn": "সে তার কর্মীবাহিনীতে বিনিয়োগ করল।"
+      }
+    ],
+    "synonyms": ["employees", "labor force", "workers"]
+  },
+  {
+    "base": "workaholism",
+    "phonetic": "ˌwɜːrkəˈhɒlɪzəm",
+    "meaning": "কাজে আসক্তি / কাজপাগলামি",
+    "examples": [
+      {
+        "en": "His workaholism affected his health.",
+        "bn": "তার কাজে আসক্তি তার স্বাস্থ্য প্রভাবিত করল।"
+      },
+      {
+        "en": "She struggled with workaholism.",
+        "bn": "সে কাজপাগলামির সাথে লড়াই করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Workaholism harms relationships.",
+        "bn": "কাজে আসক্তি সম্পর্ক ক্ষতি করে।"
+      },
+      {
+        "en": "He overcame his workaholism.",
+        "bn": "সে তার কাজে আসক্তি কাটিয়ে উঠল।"
+      },
+      {
+        "en": "Workaholism leads to burnout.",
+        "bn": "কাজে আসক্তি ক্লান্তির দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "She recognized signs of workaholism.",
+        "bn": "সে কাজে আসক্তির লক্ষণ চিনতে পারল।"
+      },
+      {
+        "en": "Workaholism is not a virtue.",
+        "bn": "কাজপাগলামি একটি গুণ নয়।"
+      },
+      {
+        "en": "He sought help for workaholism.",
+        "bn": "সে কাজে আসক্তির জন্য সাহায্য চাইল।"
+      },
+      {
+        "en": "Workaholism affects family life.",
+        "bn": "কাজে আসক্তি পারিবারিক জীবন প্রভাবিত করে।"
+      },
+      {
+        "en": "She balanced work to avoid workaholism.",
+        "bn": "সে কাজপাগলামি এড়াতে কাজের ভারসাম্য রাখল।"
+      },
+      {
+        "en": "Workaholism needs to be addressed.",
+        "bn": "কাজে আসক্তির সমাধান করতে হবে।"
+      },
+      { "en": "He reduced his workaholism.", "bn": "সে তার কাজে আসক্তি কমাল।" }
+    ],
+    "synonyms": ["overwork", "obsession", "dedication"]
+  },
+  {
+    "base": "worldwide",
+    "phonetic": "ˌwɜːldˈwaɪd",
+    "meaning": "বিশ্বব্যাপী / সারা পৃথিবীতে",
+    "examples": [
+      {
+        "en": "The product was sold worldwide.",
+        "bn": "পণ্যটি বিশ্বব্যাপী বিক্রি হলো।"
+      },
+      { "en": "She was known worldwide.", "bn": "সে বিশ্বব্যাপী পরিচিত ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The news spread worldwide.",
+        "bn": "খবরটি বিশ্বব্যাপী ছড়িয়ে পড়ল।"
+      },
+      {
+        "en": "He had worldwide recognition.",
+        "bn": "তার বিশ্বব্যাপী স্বীকৃতি ছিল।"
+      },
+      {
+        "en": "The disease spread worldwide.",
+        "bn": "রোগটি বিশ্বব্যাপী ছড়াল।"
+      },
+      {
+        "en": "She made worldwide impact.",
+        "bn": "সে বিশ্বব্যাপী প্রভাব ফেলল।"
+      },
+      {
+        "en": "The movement grew worldwide.",
+        "bn": "আন্দোলনটি বিশ্বব্যাপী বাড়ল।"
+      },
+      {
+        "en": "He shipped his products worldwide.",
+        "bn": "সে বিশ্বব্যাপী তার পণ্য পাঠাল।"
+      },
+      {
+        "en": "The song became worldwide famous.",
+        "bn": "গানটি বিশ্বব্যাপী বিখ্যাত হলো।"
+      },
+      {
+        "en": "She connected with people worldwide.",
+        "bn": "সে বিশ্বব্যাপী মানুষের সাথে সংযুক্ত হলো।"
+      },
+      {
+        "en": "The event attracted worldwide attention.",
+        "bn": "অনুষ্ঠানটি বিশ্বব্যাপী মনোযোগ আকর্ষণ করল।"
+      },
+      {
+        "en": "Worldwide cooperation solves big problems.",
+        "bn": "বিশ্বব্যাপী সহযোগিতা বড় সমস্যা সমাধান করে।"
+      }
+    ],
+    "synonyms": ["global", "international", "universal"]
+  },
+  {
+    "base": "wrathful",
+    "phonetic": "ˈrɒθfl",
+    "meaning": "ক্রোধান্বিত / রাগী",
+    "examples": [
+      {
+        "en": "The wrathful king punished them.",
+        "bn": "ক্রোধান্বিত রাজা তাদের শাস্তি দিলেন।"
+      },
+      {
+        "en": "She was wrathful at the lie.",
+        "bn": "মিথ্যায় সে ক্রোধান্বিত হলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He became wrathful without reason.",
+        "bn": "সে কারণ ছাড়াই ক্রোধান্বিত হলো।"
+      },
+      {
+        "en": "The wrathful storm destroyed everything.",
+        "bn": "ক্রোধান্বিত ঝড় সব ধ্বংস করল।"
+      },
+      {
+        "en": "She calmed the wrathful man.",
+        "bn": "সে ক্রোধান্বিত মানুষটিকে শান্ত করল।"
+      },
+      {
+        "en": "His wrathful words hurt deeply.",
+        "bn": "তার ক্রোধান্বিত কথা গভীরভাবে আঘাত করল।"
+      },
+      {
+        "en": "She stayed calm before his wrathful response.",
+        "bn": "সে তার ক্রোধান্বিত প্রতিক্রিয়ার সামনে শান্ত থাকল।"
+      },
+      {
+        "en": "He regretted his wrathful reaction.",
+        "bn": "সে তার ক্রোধান্বিত প্রতিক্রিয়ায় অনুশোচনা করল।"
+      },
+      {
+        "en": "Wrathful people push others away.",
+        "bn": "ক্রোধান্বিত মানুষ অন্যদের দূরে ঠেলে দেয়।"
+      },
+      {
+        "en": "She faced his wrathful anger.",
+        "bn": "সে তার ক্রোধান্বিত রাগের মুখোমুখি হলো।"
+      },
+      {
+        "en": "He controlled his wrathful impulse.",
+        "bn": "সে তার ক্রোধান্বিত আবেগ নিয়ন্ত্রণ করল।"
+      },
+      {
+        "en": "Wrathful actions lead to regret.",
+        "bn": "ক্রোধান্বিত কাজ অনুশোচনার দিকে নিয়ে যায়।"
+      }
+    ],
+    "synonyms": ["furious", "angry", "enraged"]
+  },
+  {
+    "base": "wrongheaded",
+    "phonetic": "ˌrɒŋˈhedɪd",
+    "meaning": "ভুল ধারণাপ্রবণ / একগুঁয়ে ভুল",
+    "examples": [
+      {
+        "en": "His wrongheaded thinking caused issues.",
+        "bn": "তার ভুল ধারণাপ্রবণ চিন্তা সমস্যা সৃষ্টি করল।"
+      },
+      {
+        "en": "She refused his wrongheaded advice.",
+        "bn": "সে তার ভুল ধারণাপ্রবণ পরামর্শ প্রত্যাখ্যান করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The wrongheaded plan failed.",
+        "bn": "ভুল ধারণাপ্রবণ পরিকল্পনাটি ব্যর্থ হলো।"
+      },
+      {
+        "en": "He held wrongheaded beliefs.",
+        "bn": "সে ভুল ধারণাপ্রবণ বিশ্বাস রাখত।"
+      },
+      {
+        "en": "She corrected his wrongheaded view.",
+        "bn": "সে তার ভুল ধারণাপ্রবণ দৃষ্টিভঙ্গি সংশোধন করল।"
+      },
+      {
+        "en": "Wrongheaded decisions waste resources.",
+        "bn": "ভুল ধারণাপ্রবণ সিদ্ধান্ত সম্পদ নষ্ট করে।"
+      },
+      {
+        "en": "He admitted his wrongheaded approach.",
+        "bn": "সে তার ভুল ধারণাপ্রবণ পদ্ধতি স্বীকার করল।"
+      },
+      {
+        "en": "Wrongheaded thinking blocks progress.",
+        "bn": "ভুল ধারণাপ্রবণ চিন্তা অগ্রগতি বাধা দেয়।"
+      },
+      {
+        "en": "She avoided wrongheaded solutions.",
+        "bn": "সে ভুল ধারণাপ্রবণ সমাধান এড়াল।"
+      },
+      {
+        "en": "He was wrongheaded but sincere.",
+        "bn": "সে ভুল ধারণাপ্রবণ কিন্তু আন্তরিক ছিল।"
+      },
+      {
+        "en": "Wrongheaded policies harm society.",
+        "bn": "ভুল ধারণাপ্রবণ নীতি সমাজের ক্ষতি করে।"
+      },
+      {
+        "en": "She challenged his wrongheaded stance.",
+        "bn": "সে তার ভুল ধারণাপ্রবণ অবস্থানকে চ্যালেঞ্জ করল।"
+      }
+    ],
+    "synonyms": ["misguided", "stubborn", "perverse"]
+  },
+  {
+    "base": "wistfulness",
+    "phonetic": "ˈwɪstflnəs",
+    "meaning": "আকুলতা / বিষণ্ণ আকাঙ্ক্ষা",
+    "examples": [
+      {
+        "en": "She felt wistfulness for her past.",
+        "bn": "সে তার অতীতের জন্য আকুলতা অনুভব করল।"
+      },
+      {
+        "en": "His wistfulness was touching.",
+        "bn": "তার আকুলতা হৃদয়স্পর্শী ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Wistfulness filled her heart.",
+        "bn": "আকুলতা তার হৃদয় ভরিয়ে দিল।"
+      },
+      { "en": "He spoke with wistfulness.", "bn": "সে আকুলতার সাথে কথা বলল।" },
+      {
+        "en": "She expressed her wistfulness.",
+        "bn": "সে তার আকুলতা প্রকাশ করল।"
+      },
+      {
+        "en": "His wistfulness about youth was clear.",
+        "bn": "যৌবনের জন্য তার আকুলতা স্পষ্ট ছিল।"
+      },
+      {
+        "en": "She felt wistfulness at the reunion.",
+        "bn": "পুনর্মিলনে সে আকুলতা অনুভব করল।"
+      },
+      {
+        "en": "Wistfulness is bittersweet.",
+        "bn": "আকুলতা তিক্ততা ও মিষ্টতার মিশ্রণ।"
+      },
+      {
+        "en": "He felt a deep wistfulness.",
+        "bn": "সে গভীর আকুলতা অনুভব করল।"
+      },
+      {
+        "en": "She overcame her wistfulness.",
+        "bn": "সে তার আকুলতা কাটিয়ে উঠল।"
+      },
+      {
+        "en": "His wistfulness for home was real.",
+        "bn": "বাড়ির জন্য তার আকুলতা প্রকৃত ছিল।"
+      },
+      {
+        "en": "Wistfulness reminds us of good times.",
+        "bn": "আকুলতা আমাদের ভালো সময় মনে করিয়ে দেয়।"
+      }
+    ],
+    "synonyms": ["nostalgia", "longing", "yearning"]
+  },
+  {
+    "base": "wanderlust",
+    "phonetic": "ˈwɒndərlʌst",
+    "meaning": "ভ্রমণ-আকাঙ্ক্ষা / ঘুরে বেড়ানোর তীব্র ইচ্ছা",
+    "examples": [
+      {
+        "en": "She had a strong wanderlust.",
+        "bn": "তার একটি শক্তিশালী ভ্রমণ-আকাঙ্ক্ষা ছিল।"
+      },
+      {
+        "en": "His wanderlust took him far.",
+        "bn": "তার ভ্রমণ-আকাঙ্ক্ষা তাকে দূরে নিয়ে গেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Wanderlust filled her soul.",
+        "bn": "ভ্রমণ-আকাঙ্ক্ষা তার আত্মা ভরিয়ে দিল।"
+      },
+      {
+        "en": "He followed his wanderlust.",
+        "bn": "সে তার ভ্রমণ-আকাঙ্ক্ষা অনুসরণ করল।"
+      },
+      {
+        "en": "She traveled due to wanderlust.",
+        "bn": "ভ্রমণ-আকাঙ্ক্ষার কারণে সে ভ্রমণ করল।"
+      },
+      {
+        "en": "Wanderlust inspires exploration.",
+        "bn": "ভ্রমণ-আকাঙ্ক্ষা অন্বেষণ অনুপ্রাণিত করে।"
+      },
+      {
+        "en": "He satisfied his wanderlust.",
+        "bn": "সে তার ভ্রমণ-আকাঙ্ক্ষা পূরণ করল।"
+      },
+      {
+        "en": "She wrote about her wanderlust.",
+        "bn": "সে তার ভ্রমণ-আকাঙ্ক্ষা সম্পর্কে লিখল।"
+      },
+      {
+        "en": "Wanderlust is a beautiful feeling.",
+        "bn": "ভ্রমণ-আকাঙ্ক্ষা একটি সুন্দর অনুভূতি।"
+      },
+      {
+        "en": "His wanderlust never faded.",
+        "bn": "তার ভ্রমণ-আকাঙ্ক্ষা কখনো বিবর্ণ হলো না।"
+      },
+      {
+        "en": "She embraced her wanderlust fully.",
+        "bn": "সে সম্পূর্ণভাবে তার ভ্রমণ-আকাঙ্ক্ষা গ্রহণ করল।"
+      },
+      {
+        "en": "Wanderlust leads to great adventures.",
+        "bn": "ভ্রমণ-আকাঙ্ক্ষা দুর্দান্ত অ্যাডভেঞ্চারের দিকে নিয়ে যায়।"
+      }
+    ],
+    "synonyms": ["travel desire", "roaming spirit", "adventure seeking"]
+  },
+  {
+    "base": "worshipful",
+    "phonetic": "ˈwɜːrʃɪpfl",
+    "meaning": "ভক্তিপূর্ণ / শ্রদ্ধাশীল",
+    "examples": [
+      {
+        "en": "She had a worshipful attitude.",
+        "bn": "তার একটি ভক্তিপূর্ণ মনোভাব ছিল।"
+      },
+      {
+        "en": "He gave a worshipful look.",
+        "bn": "সে একটি ভক্তিপূর্ণ দৃষ্টি দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The worshipful crowd was silent.",
+        "bn": "ভক্তিপূর্ণ ভিড় নীরব ছিল।"
+      },
+      {
+        "en": "She showed worshipful respect.",
+        "bn": "সে ভক্তিপূর্ণ সম্মান দেখাল।"
+      },
+      {
+        "en": "He was worshipful of his mentor.",
+        "bn": "সে তার পরামর্শদাতার প্রতি ভক্তিপূর্ণ ছিল।"
+      },
+      {
+        "en": "Worshipful hearts find peace.",
+        "bn": "ভক্তিপূর্ণ হৃদয় শান্তি খুঁজে পায়।"
+      },
+      {
+        "en": "She was worshipful in prayer.",
+        "bn": "প্রার্থনায় সে ভক্তিপূর্ণ ছিল।"
+      },
+      {
+        "en": "He expressed worshipful gratitude.",
+        "bn": "সে ভক্তিপূর্ণ কৃতজ্ঞতা প্রকাশ করল।"
+      },
+      {
+        "en": "The worshipful ceremony was moving.",
+        "bn": "ভক্তিপূর্ণ অনুষ্ঠানটি হৃদয়গ্রাহী ছিল।"
+      },
+      {
+        "en": "She had a worshipful devotion.",
+        "bn": "তার একটি ভক্তিপূর্ণ নিষ্ঠা ছিল।"
+      },
+      {
+        "en": "He bowed in worshipful reverence.",
+        "bn": "সে ভক্তিপূর্ণ শ্রদ্ধায় মাথা নত করল।"
+      },
+      {
+        "en": "Worshipful love is unconditional.",
+        "bn": "ভক্তিপূর্ণ ভালোবাসা নিঃশর্ত।"
+      }
+    ],
+    "synonyms": ["reverent", "devoted", "adoring"]
+  },
+  {
+    "base": "worthiness",
+    "phonetic": "ˈwɜːrðinəs",
+    "meaning": "যোগ্যতা / মূল্যবানতা",
+    "examples": [
+      {
+        "en": "She proved her worthiness.",
+        "bn": "সে তার যোগ্যতা প্রমাণ করল।"
+      },
+      {
+        "en": "His worthiness was never in doubt.",
+        "bn": "তার যোগ্যতা কখনো সন্দেহে ছিল না।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Worthiness comes from within.", "bn": "যোগ্যতা ভেতর থেকে আসে।" },
+      {
+        "en": "She established her worthiness.",
+        "bn": "সে তার যোগ্যতা প্রতিষ্ঠা করল।"
+      },
+      {
+        "en": "He questioned his own worthiness.",
+        "bn": "সে নিজের যোগ্যতা নিয়ে প্রশ্ন করল।"
+      },
+      {
+        "en": "Worthiness is earned not given.",
+        "bn": "যোগ্যতা অর্জন করতে হয় দেওয়া হয় না।"
+      },
+      {
+        "en": "She believed in her worthiness.",
+        "bn": "সে তার যোগ্যতায় বিশ্বাস করল।"
+      },
+      {
+        "en": "He demonstrated his worthiness.",
+        "bn": "সে তার যোগ্যতা প্রদর্শন করল।"
+      },
+      {
+        "en": "Worthiness inspires confidence.",
+        "bn": "যোগ্যতা আত্মবিশ্বাস অনুপ্রাণিত করে।"
+      },
+      {
+        "en": "She showed her moral worthiness.",
+        "bn": "সে তার নৈতিক যোগ্যতা দেখাল।"
+      },
+      {
+        "en": "His worthiness was recognized.",
+        "bn": "তার যোগ্যতা স্বীকৃত হলো।"
+      },
+      {
+        "en": "Every person has inherent worthiness.",
+        "bn": "প্রতিটি মানুষের সহজাত যোগ্যতা আছে।"
+      }
+    ],
+    "synonyms": ["merit", "value", "deservingness"]
+  },
+  {
+    "base": "wakeful",
+    "phonetic": "ˈweɪkfl",
+    "meaning": "জাগরণশীল / সজাগ",
+    "examples": [
+      { "en": "She had a wakeful mind.", "bn": "তার একটি জাগরণশীল মন ছিল।" },
+      {
+        "en": "He spent wakeful nights thinking.",
+        "bn": "সে চিন্তায় জাগরণশীল রাত কাটাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Wakeful awareness leads to growth.",
+        "bn": "জাগরণশীল সচেতনতা বিকাশের দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "She remained wakeful to opportunities.",
+        "bn": "সে সুযোগের প্রতি জাগরণশীল থাকল।"
+      },
+      {
+        "en": "He was wakeful to new ideas.",
+        "bn": "সে নতুন ধারণার প্রতি সজাগ ছিল।"
+      },
+      {
+        "en": "Wakeful hearts feel deeply.",
+        "bn": "জাগরণশীল হৃদয় গভীরভাবে অনুভব করে।"
+      },
+      {
+        "en": "She had wakeful sensitivity.",
+        "bn": "তার জাগরণশীল সংবেদনশীলতা ছিল।"
+      },
+      {
+        "en": "He stayed wakeful all morning.",
+        "bn": "সে সারা সকাল জাগরণশীল থাকল।"
+      },
+      {
+        "en": "Wakeful observation improves skills.",
+        "bn": "জাগরণশীল পর্যবেক্ষণ দক্ষতা উন্নত করে।"
+      },
+      {
+        "en": "She was wakeful and attentive.",
+        "bn": "সে জাগরণশীল ও মনোযোগী ছিল।"
+      },
+      {
+        "en": "He had a wakeful conscience.",
+        "bn": "তার একটি জাগরণশীল বিবেক ছিল।"
+      },
+      {
+        "en": "Wakeful living brings more meaning.",
+        "bn": "জাগরণশীল জীবন বেশি অর্থ নিয়ে আসে।"
+      }
+    ],
+    "synonyms": ["conscious", "aware", "attentive"]
+  },
+  {
+    "base": "wholehearted",
+    "phonetic": "ˌhoʊlˈhɑːrtɪd",
+    "meaning": "সম্পূর্ণ হৃদয়ের / নিষ্ঠাপূর্ণ",
+    "examples": [
+      {
+        "en": "She gave wholehearted love.",
+        "bn": "সে সম্পূর্ণ হৃদয়ের ভালোবাসা দিল।"
+      },
+      {
+        "en": "He received wholehearted praise.",
+        "bn": "সে নিষ্ঠাপূর্ণ প্রশংসা পেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Wholehearted efforts never go to waste.",
+        "bn": "সম্পূর্ণ হৃদয়ের প্রচেষ্টা কখনো নষ্ট হয় না।"
+      },
+      {
+        "en": "She showed wholehearted kindness.",
+        "bn": "সে সম্পূর্ণ হৃদয়ের দয়া দেখাল।"
+      },
+      {
+        "en": "He had wholehearted enthusiasm.",
+        "bn": "তার সম্পূর্ণ হৃদয়ের উৎসাহ ছিল।"
+      },
+      {
+        "en": "Wholehearted participation makes a difference.",
+        "bn": "সম্পূর্ণ হৃদয়ের অংশগ্রহণ পার্থক্য তৈরি করে।"
+      },
+      {
+        "en": "She expressed wholehearted gratitude.",
+        "bn": "সে সম্পূর্ণ হৃদয়ের কৃতজ্ঞতা প্রকাশ করল।"
+      },
+      {
+        "en": "He was wholehearted in his service.",
+        "bn": "সে তার সেবায় সম্পূর্ণ হৃদয়ের ছিল।"
+      },
+      {
+        "en": "Wholehearted commitment builds success.",
+        "bn": "সম্পূর্ণ হৃদয়ের প্রতিশ্রুতি সাফল্য গড়ে।"
+      },
+      {
+        "en": "She was wholehearted in friendship.",
+        "bn": "সে বন্ধুত্বে সম্পূর্ণ হৃদয়ের ছিল।"
+      },
+      {
+        "en": "He believed wholeheartedly in others.",
+        "bn": "সে অন্যদের উপর সম্পূর্ণ হৃদয়ে বিশ্বাস করল।"
+      },
+      {
+        "en": "Wholehearted living brings fulfillment.",
+        "bn": "সম্পূর্ণ হৃদয়ের জীবন পরিতৃপ্তি নিয়ে আসে।"
+      }
+    ],
+    "synonyms": ["complete", "total", "absolute"]
   }
 ]

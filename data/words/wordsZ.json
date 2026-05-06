@@ -403,5 +403,2564 @@
       { "en": "The video zooms smoothly.", "bn": "ভিডিওটি সুন্দরভাবে জুম হয়।" }
     ],
     "synonyms": ["speed", "rush", "magnify"]
+  },
+
+  {
+    "base": "zeal",
+    "phonetic": "ziːl",
+    "meaning": "উৎসাহ / আগ্রহ / জোশ",
+    "examples": [
+      {
+        "en": "She worked with great zeal.",
+        "bn": "সে অনেক উৎসাহ নিয়ে কাজ করল।"
+      },
+      {
+        "en": "His zeal for learning was admirable.",
+        "bn": "শেখার প্রতি তার উৎসাহ প্রশংসনীয় ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He showed zeal in every task.",
+        "bn": "প্রতিটি কাজে সে উৎসাহ দেখাল।"
+      },
+      {
+        "en": "She approached the project with zeal.",
+        "bn": "সে উৎসাহ নিয়ে প্রকল্পটিতে এগিয়ে এল।"
+      },
+      {
+        "en": "His religious zeal was well known.",
+        "bn": "তার ধর্মীয় উৎসাহ সুপরিচিত ছিল।"
+      },
+      {
+        "en": "She volunteered with zeal.",
+        "bn": "সে উৎসাহ নিয়ে স্বেচ্ছাসেবক কাজ করল।"
+      },
+      {
+        "en": "He pursued his goals with zeal.",
+        "bn": "সে উৎসাহ নিয়ে তার লক্ষ্য অনুসরণ করল।"
+      },
+      {
+        "en": "Her zeal motivated others.",
+        "bn": "তার উৎসাহ অন্যদের অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "He brought zeal to the cause.",
+        "bn": "সে কারণে উৎসাহ নিয়ে এল।"
+      },
+      {
+        "en": "She had zeal for social change.",
+        "bn": "সামাজিক পরিবর্তনের প্রতি তার উৎসাহ ছিল।"
+      },
+      { "en": "His zeal never diminished.", "bn": "তার উৎসাহ কখনো কমেনি।" },
+      {
+        "en": "She completed the task with zeal.",
+        "bn": "সে উৎসাহ নিয়ে কাজটি সম্পন্ন করল।"
+      }
+    ],
+    "synonyms": ["enthusiasm", "passion", "eagerness", "fervor", "dedication"]
+  },
+  {
+    "base": "zealous",
+    "phonetic": "ˈzeləs",
+    "meaning": "উৎসাহী / নিষ্ঠাবান",
+    "examples": [
+      { "en": "She was zealous in her work.", "bn": "কাজে সে উৎসাহী ছিল।" },
+      {
+        "en": "He was a zealous supporter.",
+        "bn": "সে একজন নিষ্ঠাবান সমর্থক ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She was zealous about justice.",
+        "bn": "ন্যায়বিচার সম্পর্কে সে উৎসাহী ছিল।"
+      },
+      {
+        "en": "He was a zealous student.",
+        "bn": "সে একজন উৎসাহী শিক্ষার্থী ছিল।"
+      },
+      {
+        "en": "She showed zealous dedication.",
+        "bn": "সে নিষ্ঠাবান উৎসর্গ দেখাল।"
+      },
+      {
+        "en": "He was zealous in defending his beliefs.",
+        "bn": "তার বিশ্বাস রক্ষায় সে উৎসাহী ছিল।"
+      },
+      {
+        "en": "A zealous worker finishes early.",
+        "bn": "একজন উৎসাহী কর্মী আগে শেষ করেন।"
+      },
+      {
+        "en": "She was zealous about health.",
+        "bn": "স্বাস্থ্য সম্পর্কে সে উৎসাহী ছিল।"
+      },
+      {
+        "en": "He approached the task zealously.",
+        "bn": "সে উৎসাহের সাথে কাজটিতে এগিয়ে এল।"
+      },
+      {
+        "en": "She was known as a zealous advocate.",
+        "bn": "সে উৎসাহী সমর্থক হিসেবে পরিচিত ছিল।"
+      },
+      {
+        "en": "His zealous nature inspired the team.",
+        "bn": "তার উৎসাহী স্বভাব দলকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "She was zealous but sometimes too forceful.",
+        "bn": "সে উৎসাহী ছিল কিন্তু কখনো অনেক জোরালো হয়ে যেত।"
+      }
+    ],
+    "synonyms": ["enthusiastic", "passionate", "eager", "devoted", "fervent"]
+  },
+  {
+    "base": "zenith",
+    "phonetic": "ˈzenɪθ",
+    "meaning": "শীর্ষবিন্দু / সর্বোচ্চ পর্যায়",
+    "examples": [
+      {
+        "en": "She reached the zenith of her career.",
+        "bn": "সে তার ক্যারিয়ারের শীর্ষবিন্দুতে পৌঁছাল।"
+      },
+      {
+        "en": "The sun was at its zenith.",
+        "bn": "সূর্য তার শীর্ষবিন্দুতে ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He reached the zenith of his power.",
+        "bn": "সে তার ক্ষমতার শীর্ষবিন্দুতে পৌঁছাল।"
+      },
+      {
+        "en": "The company is at its zenith now.",
+        "bn": "কোম্পানি এখন তার শীর্ষবিন্দুতে আছে।"
+      },
+      {
+        "en": "She was at the zenith of fame.",
+        "bn": "সে খ্যাতির শীর্ষবিন্দুতে ছিল।"
+      },
+      {
+        "en": "He worked hard to reach the zenith.",
+        "bn": "শীর্ষবিন্দুতে পৌঁছাতে সে কঠোর পরিশ্রম করল।"
+      },
+      {
+        "en": "The civilization reached its zenith.",
+        "bn": "সভ্যতাটি তার শীর্ষবিন্দুতে পৌঁছাল।"
+      },
+      {
+        "en": "She observed the star at its zenith.",
+        "bn": "সে তারাটিকে শীর্ষবিন্দুতে পর্যবেক্ষণ করল।"
+      },
+      {
+        "en": "He described it as the zenith of art.",
+        "bn": "সে এটিকে শিল্পের শীর্ষবিন্দু বলে বর্ণনা করল।"
+      },
+      {
+        "en": "The team is at its zenith.",
+        "bn": "দলটি তার শীর্ষবিন্দুতে আছে।"
+      },
+      {
+        "en": "She achieved the zenith of success.",
+        "bn": "সে সাফল্যের শীর্ষবিন্দু অর্জন করল।"
+      },
+      {
+        "en": "He was past his zenith.",
+        "bn": "সে তার শীর্ষবিন্দু পার করেছিল।"
+      }
+    ],
+    "synonyms": ["peak", "pinnacle", "apex", "summit", "acme"]
+  },
+  {
+    "base": "zero",
+    "phonetic": "ˈzɪərəʊ",
+    "meaning": "শূন্য / কিছুই না",
+    "examples": [
+      {
+        "en": "The temperature dropped to zero.",
+        "bn": "তাপমাত্রা শূন্যে নেমে এল।"
+      },
+      { "en": "She started from zero.", "bn": "সে শূন্য থেকে শুরু করল।" }
+    ],
+    "moreexample": [
+      { "en": "He scored zero on the test.", "bn": "সে পরীক্ষায় শূন্য পেল।" },
+      {
+        "en": "Zero tolerance for violence.",
+        "bn": "সহিংসতার প্রতি শূন্য সহনশীলতা।"
+      },
+      { "en": "She had zero experience.", "bn": "তার শূন্য অভিজ্ঞতা ছিল।" },
+      {
+        "en": "He zeroed in on the problem.",
+        "bn": "সে সমস্যায় মনোযোগ কেন্দ্রীভূত করল।"
+      },
+      { "en": "The balance reached zero.", "bn": "ব্যালেন্স শূন্যে পৌঁছাল।" },
+      { "en": "She gave zero effort.", "bn": "সে শূন্য প্রচেষ্টা দিল।" },
+      {
+        "en": "He reset the counter to zero.",
+        "bn": "সে কাউন্টার শূন্যে রিসেট করল।"
+      },
+      {
+        "en": "Zero is a very important number.",
+        "bn": "শূন্য একটি অত্যন্ত গুরুত্বপূর্ণ সংখ্যা।"
+      },
+      {
+        "en": "She reduced waste to near zero.",
+        "bn": "সে বর্জ্য প্রায় শূন্যে নামিয়ে আনল।"
+      },
+      {
+        "en": "He aimed for zero mistakes.",
+        "bn": "সে শূন্য ভুলের লক্ষ্য রাখল।"
+      }
+    ],
+    "synonyms": ["nothing", "nil", "nought", "cipher", "none"]
+  },
+  {
+    "base": "zest",
+    "phonetic": "zest",
+    "meaning": "উৎসাহ / আগ্রহ / লেবুর খোসা",
+    "examples": [
+      {
+        "en": "She approached life with zest.",
+        "bn": "সে উৎসাহ নিয়ে জীবনে এগিয়ে গেল।"
+      },
+      {
+        "en": "He added lemon zest to the cake.",
+        "bn": "সে কেকে লেবুর খোসা যোগ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She had a zest for learning.",
+        "bn": "শেখার প্রতি তার উৎসাহ ছিল।"
+      },
+      {
+        "en": "He brought zest to the project.",
+        "bn": "সে প্রকল্পে উৎসাহ নিয়ে এল।"
+      },
+      {
+        "en": "Her zest for life was contagious.",
+        "bn": "জীবনের প্রতি তার উৎসাহ সংক্রামক ছিল।"
+      },
+      {
+        "en": "He cooked with zest and creativity.",
+        "bn": "সে উৎসাহ ও সৃজনশীলতায় রান্না করল।"
+      },
+      {
+        "en": "The orange zest gave flavor to the dish.",
+        "bn": "কমলার খোসা খাবারে স্বাদ দিল।"
+      },
+      {
+        "en": "She lived life with zest.",
+        "bn": "সে উৎসাহের সাথে জীবন যাপন করল।"
+      },
+      {
+        "en": "His zest for adventure knew no bounds.",
+        "bn": "অ্যাডভেঞ্চারের প্রতি তার উৎসাহের কোনো সীমা ছিল না।"
+      },
+      {
+        "en": "She added zest to every occasion.",
+        "bn": "সে প্রতিটি উপলক্ষে উৎসাহ যোগ করল।"
+      },
+      {
+        "en": "He tackled challenges with zest.",
+        "bn": "সে উৎসাহ নিয়ে চ্যালেঞ্জ মোকাবেলা করল।"
+      },
+      {
+        "en": "Zest for work makes you productive.",
+        "bn": "কাজের প্রতি উৎসাহ আপনাকে উৎপাদনশীল করে।"
+      }
+    ],
+    "synonyms": ["enthusiasm", "energy", "gusto", "passion", "flavor"]
+  },
+  {
+    "base": "zone",
+    "phonetic": "zəʊn",
+    "meaning": "অঞ্চল / এলাকা",
+    "examples": [
+      {
+        "en": "She entered the danger zone.",
+        "bn": "সে বিপদ অঞ্চলে প্রবেশ করল।"
+      },
+      {
+        "en": "He lives in a residential zone.",
+        "bn": "সে আবাসিক অঞ্চলে বাস করে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The school is in a quiet zone.", "bn": "স্কুলটি শান্ত অঞ্চলে।" },
+      {
+        "en": "She was in the zone during the match.",
+        "bn": "ম্যাচের সময় সে নিজের সেরা অবস্থায় ছিল।"
+      },
+      {
+        "en": "He zoned out during the lecture.",
+        "bn": "বক্তৃতার সময় সে মনোযোগ হারিয়ে ফেলল।"
+      },
+      {
+        "en": "The earthquake hit the coastal zone.",
+        "bn": "ভূমিকম্প উপকূলীয় অঞ্চলে আঘাত করল।"
+      },
+      {
+        "en": "She works in the industrial zone.",
+        "bn": "সে শিল্প অঞ্চলে কাজ করে।"
+      },
+      {
+        "en": "He entered the comfort zone.",
+        "bn": "সে স্বাচ্ছন্দ্য অঞ্চলে প্রবেশ করল।"
+      },
+      {
+        "en": "The time zone difference confused her.",
+        "bn": "সময় অঞ্চলের পার্থক্য তাকে বিভ্রান্ত করল।"
+      },
+      {
+        "en": "He designated a no-parking zone.",
+        "bn": "সে একটি নো-পার্কিং অঞ্চল নির্ধারণ করল।"
+      },
+      {
+        "en": "She stepped outside her comfort zone.",
+        "bn": "সে তার স্বাচ্ছন্দ্য অঞ্চলের বাইরে পা রাখল।"
+      },
+      {
+        "en": "The free trade zone attracted businesses.",
+        "bn": "মুক্ত বাণিজ্য অঞ্চল ব্যবসা আকর্ষণ করল।"
+      }
+    ],
+    "synonyms": ["area", "region", "district", "territory", "sector"]
+  },
+  {
+    "base": "zoom",
+    "phonetic": "zuːm",
+    "meaning": "দ্রুত যাওয়া / জুম করা",
+    "examples": [
+      {
+        "en": "The car zoomed past them.",
+        "bn": "গাড়িটি তাদের পাশ দিয়ে দ্রুত চলে গেল।"
+      },
+      { "en": "She zoomed in on the photo.", "bn": "সে ছবিতে জুম করল।" }
+    ],
+    "moreexample": [
+      { "en": "He zoomed through the work.", "bn": "সে দ্রুত কাজটি করে ফেলল।" },
+      {
+        "en": "The plane zoomed overhead.",
+        "bn": "বিমানটি মাথার উপর দিয়ে দ্রুত উড়ে গেল।"
+      },
+      {
+        "en": "She zoomed in to see the details.",
+        "bn": "বিস্তারিত দেখতে সে জুম করল।"
+      },
+      {
+        "en": "He zoomed out to see the full picture.",
+        "bn": "সম্পূর্ণ ছবি দেখতে সে জুম আউট করল।"
+      },
+      {
+        "en": "The motorbike zoomed down the road.",
+        "bn": "মোটরবাইকটি রাস্তায় দ্রুত ছুটে গেল।"
+      },
+      {
+        "en": "She zoomed past all competitors.",
+        "bn": "সে সমস্ত প্রতিযোগীদের পাশ দিয়ে দ্রুত এগিয়ে গেল।"
+      },
+      { "en": "He zoomed in on the target.", "bn": "সে লক্ষ্যে জুম করল।" },
+      {
+        "en": "The rocket zoomed into space.",
+        "bn": "রকেটটি মহাকাশে দ্রুত ছুটে গেল।"
+      },
+      {
+        "en": "She joined the zoom meeting.",
+        "bn": "সে জুম মিটিংয়ে যোগ দিল।"
+      },
+      { "en": "He zoomed in on the map.", "bn": "সে মানচিত্রে জুম করল।" }
+    ],
+    "synonyms": ["speed", "rush", "accelerate", "enlarge", "dash"]
+  },
+  {
+    "base": "zealot",
+    "phonetic": "ˈzelət",
+    "meaning": "উগ্র সমর্থক / অতি উৎসাহী",
+    "examples": [
+      {
+        "en": "He was a zealot for his cause.",
+        "bn": "সে তার কারণের একজন উগ্র সমর্থক ছিল।"
+      },
+      {
+        "en": "The zealot refused to compromise.",
+        "bn": "উগ্র সমর্থকটি আপোষ করতে অস্বীকার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She was a religious zealot.",
+        "bn": "সে একজন ধর্মীয় উগ্র সমর্থক ছিল।"
+      },
+      {
+        "en": "He was called a zealot for his views.",
+        "bn": "তার মতের কারণে তাকে উগ্র সমর্থক বলা হল।"
+      },
+      {
+        "en": "The zealot inspired others.",
+        "bn": "উগ্র সমর্থকটি অন্যদের অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "She was not a zealot but simply dedicated.",
+        "bn": "সে উগ্র সমর্থক ছিল না কিন্তু শুধু নিষ্ঠাবান ছিল।"
+      },
+      {
+        "en": "The zealot's passion was overwhelming.",
+        "bn": "উগ্র সমর্থকের আবেগ অভিভূত করছিল।"
+      },
+      {
+        "en": "He became a zealot after the event.",
+        "bn": "ঘটনার পরে সে উগ্র সমর্থক হয়ে উঠল।"
+      },
+      {
+        "en": "The zealot spread his message widely.",
+        "bn": "উগ্র সমর্থক তার বার্তা ব্যাপকভাবে ছড়াল।"
+      },
+      {
+        "en": "She was wary of zealots.",
+        "bn": "সে উগ্র সমর্থকদের ব্যাপারে সতর্ক ছিল।"
+      },
+      {
+        "en": "He criticized the zealot's extreme methods.",
+        "bn": "সে উগ্র সমর্থকের চরম পদ্ধতির সমালোচনা করল।"
+      },
+      {
+        "en": "A zealot can inspire but also divide.",
+        "bn": "একজন উগ্র সমর্থক অনুপ্রাণিত করতে পারে কিন্তু বিভক্তও করতে পারে।"
+      }
+    ],
+    "synonyms": ["fanatic", "extremist", "devotee", "crusader", "true believer"]
+  },
+  {
+    "base": "zip",
+    "phonetic": "zɪp",
+    "meaning": "জিপার / দ্রুত যাওয়া / কিছুই না",
+    "examples": [
+      {
+        "en": "She zipped up her jacket.",
+        "bn": "সে তার জ্যাকেটের জিপার লাগাল।"
+      },
+      { "en": "He zipped through the work.", "bn": "সে দ্রুত কাজটি শেষ করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The car zipped down the highway.",
+        "bn": "গাড়িটি হাইওয়েতে দ্রুত ছুটল।"
+      },
+      {
+        "en": "She zipped the file before sending.",
+        "bn": "পাঠানোর আগে সে ফাইলটি জিপ করল।"
+      },
+      {
+        "en": "He had zip energy left.",
+        "bn": "তার কোনো শক্তিই অবশিষ্ট ছিল না।"
+      },
+      {
+        "en": "She zipped past the finish line.",
+        "bn": "সে শেষ রেখা পেরিয়ে দ্রুত চলে গেল।"
+      },
+      {
+        "en": "He zipped his bag closed.",
+        "bn": "সে তার ব্যাগ জিপ করে বন্ধ করল।"
+      },
+      {
+        "en": "She added zip to the presentation.",
+        "bn": "সে উপস্থাপনায় প্রাণ যোগ করল।"
+      },
+      {
+        "en": "He zipped through the chapters.",
+        "bn": "সে দ্রুত অধ্যায়গুলো পড়ল।"
+      },
+      { "en": "The zip on her bag broke.", "bn": "তার ব্যাগের জিপ ভেঙে গেল।" },
+      {
+        "en": "She zipped the folder to save space.",
+        "bn": "জায়গা বাঁচাতে সে ফোল্ডারটি জিপ করল।"
+      },
+      {
+        "en": "He felt like zip was left in the tank.",
+        "bn": "তার মনে হল কিছুই অবশিষ্ট নেই।"
+      }
+    ],
+    "synonyms": ["fasten", "speed", "rush", "compress", "nothing"]
+  },
+  {
+    "base": "zombie",
+    "phonetic": "ˈzɒmbi",
+    "meaning": "জম্বি / প্রাণহীন মানুষ",
+    "examples": [
+      {
+        "en": "She felt like a zombie after no sleep.",
+        "bn": "ঘুম না হওয়ায় সে জম্বির মতো অনুভব করল।"
+      },
+      {
+        "en": "The movie featured scary zombies.",
+        "bn": "চলচ্চিত্রটিতে ভয়ঙ্কর জম্বি ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He walked like a zombie to work.",
+        "bn": "সে জম্বির মতো কাজে হেঁটে গেল।"
+      },
+      {
+        "en": "The students looked like zombies after exams.",
+        "bn": "পরীক্ষার পরে শিক্ষার্থীরা জম্বির মতো দেখাচ্ছিল।"
+      },
+      {
+        "en": "She played a zombie in the film.",
+        "bn": "সে চলচ্চিত্রে জম্বির ভূমিকায় অভিনয় করল।"
+      },
+      {
+        "en": "He was a zombie without coffee.",
+        "bn": "কফি ছাড়া সে জম্বির মতো ছিল।"
+      },
+      {
+        "en": "The zombie apocalypse genre is popular.",
+        "bn": "জম্বি সর্বনাশের ধারা জনপ্রিয়।"
+      },
+      { "en": "She shuffled like a zombie.", "bn": "সে জম্বির মতো হাঁটল।" },
+      {
+        "en": "He avoided the zombie-like routine.",
+        "bn": "সে জম্বির মতো রুটিন এড়িয়ে চলল।"
+      },
+      {
+        "en": "Zombie companies drain economies.",
+        "bn": "জম্বি কোম্পানিগুলো অর্থনীতি নিষ্কাশন করে।"
+      },
+      {
+        "en": "She stared blankly like a zombie.",
+        "bn": "সে জম্বির মতো শূন্যদৃষ্টিতে তাকাল।"
+      },
+      {
+        "en": "He was a phone zombie on the bus.",
+        "bn": "বাসে সে ফোন জম্বির মতো ছিল।"
+      }
+    ],
+    "synonyms": [
+      "undead",
+      "automaton",
+      "sleepwalker",
+      "mindless person",
+      "living dead"
+    ]
+  },
+  {
+    "base": "zany",
+    "phonetic": "ˈzeɪni",
+    "meaning": "উদ্ভট / মজাদার / পাগলাটে",
+    "examples": [
+      { "en": "She has a zany sense of humor.", "bn": "তার উদ্ভট রসবোধ আছে।" },
+      {
+        "en": "He came up with a zany idea.",
+        "bn": "সে একটি পাগলাটে ধারণা নিয়ে এল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The zany comedian made everyone laugh.",
+        "bn": "উদ্ভট কৌতুকশিল্পী সবাইকে হাসাল।"
+      },
+      { "en": "She wore a zany costume.", "bn": "সে একটি পাগলাটে পোশাক পরল।" },
+      {
+        "en": "His zany antics entertained the crowd.",
+        "bn": "তার উদ্ভট কাণ্ড ভিড়কে বিনোদন দিল।"
+      },
+      {
+        "en": "She had a zany personality.",
+        "bn": "তার পাগলাটে ব্যক্তিত্ব ছিল।"
+      },
+      {
+        "en": "He came up with zany solutions.",
+        "bn": "সে উদ্ভট সমাধান নিয়ে এল।"
+      },
+      {
+        "en": "The zany film made her laugh.",
+        "bn": "উদ্ভট চলচ্চিত্রটি তাকে হাসাল।"
+      },
+      {
+        "en": "She loved his zany outlook.",
+        "bn": "সে তার পাগলাটে দৃষ্টিভঙ্গি পছন্দ করত।"
+      },
+      { "en": "He danced in a zany way.", "bn": "সে পাগলাটে ভাবে নাচল।" },
+      {
+        "en": "The zany professor had wild theories.",
+        "bn": "উদ্ভট অধ্যাপকের অদ্ভুত তত্ত্ব ছিল।"
+      },
+      {
+        "en": "She decorated the room in a zany style.",
+        "bn": "সে পাগলাটে ধরনে ঘর সাজাল।"
+      }
+    ],
+    "synonyms": ["wacky", "eccentric", "funny", "quirky", "comical"]
+  },
+  {
+    "base": "zigzag",
+    "phonetic": "ˈzɪɡzæɡ",
+    "meaning": "আঁকাবাঁকা / জিগজ্যাগ",
+    "examples": [
+      {
+        "en": "The path zigzagged through the forest.",
+        "bn": "পথটি বনের মধ্য দিয়ে আঁকাবাঁকাভাবে গেছে।"
+      },
+      { "en": "She drew a zigzag line.", "bn": "সে একটি জিগজ্যাগ রেখা আঁকল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He zigzagged through the traffic.",
+        "bn": "সে ট্রাফিকের মধ্য দিয়ে আঁকাবাঁকাভাবে গেল।"
+      },
+      {
+        "en": "The river zigzagged across the plain.",
+        "bn": "নদীটি সমভূমি জুড়ে আঁকাবাঁকাভাবে প্রবাহিত হল।"
+      },
+      { "en": "She made zigzag stitches.", "bn": "সে জিগজ্যাগ সেলাই করল।" },
+      {
+        "en": "He took a zigzag route home.",
+        "bn": "সে আঁকাবাঁকা পথে বাড়ি গেল।"
+      },
+      {
+        "en": "The lightning bolt made a zigzag pattern.",
+        "bn": "বজ্রপাত একটি জিগজ্যাগ নকশা তৈরি করল।"
+      },
+      {
+        "en": "She zigzagged across the dance floor.",
+        "bn": "সে নাচের মেঝে জুড়ে আঁকাবাঁকাভাবে চলল।"
+      },
+      {
+        "en": "He drew zigzag lines on paper.",
+        "bn": "সে কাগজে জিগজ্যাগ রেখা আঁকল।"
+      },
+      {
+        "en": "The fence had a zigzag design.",
+        "bn": "বেড়াটিতে জিগজ্যাগ নকশা ছিল।"
+      },
+      {
+        "en": "She drove in a zigzag to avoid potholes.",
+        "bn": "গর্ত এড়াতে সে আঁকাবাঁকাভাবে গাড়ি চালাল।"
+      },
+      {
+        "en": "He decorated with zigzag patterns.",
+        "bn": "সে জিগজ্যাগ নকশায় সাজাল।"
+      }
+    ],
+    "synonyms": ["winding", "crooked", "meandering", "serpentine", "jagged"]
+  },
+  {
+    "base": "zealotry",
+    "phonetic": "ˈzelətri",
+    "meaning": "উগ্রতা / অতিরিক্ত উৎসাহ",
+    "examples": [
+      {
+        "en": "Religious zealotry can be dangerous.",
+        "bn": "ধর্মীয় উগ্রতা বিপজ্জনক হতে পারে।"
+      },
+      {
+        "en": "She warned against political zealotry.",
+        "bn": "সে রাজনৈতিক উগ্রতার বিরুদ্ধে সতর্ক করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "His zealotry drove others away.",
+        "bn": "তার উগ্রতা অন্যদের দূরে সরিয়ে দিল।"
+      },
+      {
+        "en": "She rejected zealotry of any kind.",
+        "bn": "সে যেকোনো ধরনের উগ্রতা প্রত্যাখ্যান করল।"
+      },
+      {
+        "en": "Zealotry often leads to conflict.",
+        "bn": "উগ্রতা প্রায়ই দ্বন্দ্বের দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "He criticized the group's zealotry.",
+        "bn": "সে দলের উগ্রতার সমালোচনা করল।"
+      },
+      {
+        "en": "Zealotry blinds people to reason.",
+        "bn": "উগ্রতা মানুষকে যুক্তির কাছে অন্ধ করে।"
+      },
+      {
+        "en": "She overcame zealotry through education.",
+        "bn": "সে শিক্ষার মাধ্যমে উগ্রতা কাটিয়ে উঠল।"
+      },
+      {
+        "en": "He saw zealotry in the movement.",
+        "bn": "সে আন্দোলনে উগ্রতা দেখল।"
+      },
+      {
+        "en": "Zealotry is not the same as passion.",
+        "bn": "উগ্রতা আবেগের সমান নয়।"
+      },
+      {
+        "en": "She studied the roots of zealotry.",
+        "bn": "সে উগ্রতার শিকড় অধ্যয়ন করল।"
+      },
+      {
+        "en": "The country was torn apart by zealotry.",
+        "bn": "উগ্রতায় দেশটি বিভক্ত হয়ে পড়েছিল।"
+      }
+    ],
+    "synonyms": [
+      "fanaticism",
+      "extremism",
+      "dogmatism",
+      "radicalism",
+      "obsession"
+    ]
+  },
+  {
+    "base": "zephyr",
+    "phonetic": "ˈzefər",
+    "meaning": "মৃদু বাতাস / পশ্চিমা বাতাস",
+    "examples": [
+      {
+        "en": "A gentle zephyr cooled the air.",
+        "bn": "একটি মৃদু বাতাস বায়ু ঠান্ডা করল।"
+      },
+      {
+        "en": "She felt a zephyr on her face.",
+        "bn": "সে মুখে মৃদু বাতাস অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The zephyr carried the scent of flowers.",
+        "bn": "মৃদু বাতাস ফুলের সুবাস বহন করল।"
+      },
+      {
+        "en": "He enjoyed the evening zephyr.",
+        "bn": "সে সন্ধ্যার মৃদু বাতাস উপভোগ করল।"
+      },
+      {
+        "en": "A zephyr rustled the leaves.",
+        "bn": "একটি মৃদু বাতাস পাতা নাড়াল।"
+      },
+      {
+        "en": "She wrote about the gentle zephyr.",
+        "bn": "সে মৃদু বাতাস সম্পর্কে লিখল।"
+      },
+      {
+        "en": "The zephyr came from the west.",
+        "bn": "মৃদু বাতাস পশ্চিম থেকে এল।"
+      },
+      {
+        "en": "He walked into the cool zephyr.",
+        "bn": "সে ঠান্ডা মৃদু বাতাসে হেঁটে গেল।"
+      },
+      {
+        "en": "A morning zephyr greeted them.",
+        "bn": "একটি সকালের মৃদু বাতাস তাদের স্বাগত জানাল।"
+      },
+      {
+        "en": "The zephyr was a welcome relief.",
+        "bn": "মৃদু বাতাস একটি স্বাগত স্বস্তি ছিল।"
+      },
+      {
+        "en": "She described the zephyr beautifully.",
+        "bn": "সে মৃদু বাতাস সুন্দরভাবে বর্ণনা করল।"
+      },
+      {
+        "en": "The boat sailed on the zephyr.",
+        "bn": "নৌকাটি মৃদু বাতাসে ভেসে চলল।"
+      }
+    ],
+    "synonyms": ["breeze", "gentle wind", "soft wind", "draft", "gust"]
+  },
+  {
+    "base": "zenith",
+    "phonetic": "ˈzenɪθ",
+    "meaning": "আকাশের সর্বোচ্চ বিন্দু",
+    "examples": [
+      {
+        "en": "The moon was near the zenith.",
+        "bn": "চাঁদ আকাশের সর্বোচ্চ বিন্দুর কাছে ছিল।"
+      },
+      { "en": "He studied the zenith angle.", "bn": "সে শীর্ষকোণ অধ্যয়ন করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The star crossed the zenith at midnight.",
+        "bn": "মধ্যরাতে তারাটি আকাশের শীর্ষ অতিক্রম করল।"
+      },
+      {
+        "en": "She measured the zenith distance.",
+        "bn": "সে শীর্ষ দূরত্ব পরিমাপ করল।"
+      },
+      {
+        "en": "At the zenith, the sun is brightest.",
+        "bn": "শীর্ষে সূর্য সবচেয়ে উজ্জ্বল।"
+      },
+      {
+        "en": "He calculated the zenith position.",
+        "bn": "সে শীর্ষ অবস্থান গণনা করল।"
+      },
+      {
+        "en": "The zenith is directly overhead.",
+        "bn": "শীর্ষ সরাসরি মাথার উপরে থাকে।"
+      },
+      {
+        "en": "She observed the sky at zenith.",
+        "bn": "সে শীর্ষে আকাশ পর্যবেক্ষণ করল।"
+      },
+      {
+        "en": "The satellite passed through the zenith.",
+        "bn": "স্যাটেলাইটটি শীর্ষের মধ্য দিয়ে গেল।"
+      },
+      {
+        "en": "He explained the concept of zenith.",
+        "bn": "সে শীর্ষের ধারণা ব্যাখ্যা করল।"
+      },
+      {
+        "en": "The telescope was aimed at the zenith.",
+        "bn": "দূরবিনটি শীর্ষের দিকে তাক করা ছিল।"
+      },
+      {
+        "en": "She drew the zenith in her diagram.",
+        "bn": "সে ডায়াগ্রামে শীর্ষ আঁকল।"
+      }
+    ],
+    "synonyms": [
+      "overhead point",
+      "celestial peak",
+      "highest point",
+      "meridian",
+      "top"
+    ]
+  },
+  {
+    "base": "zeal",
+    "phonetic": "ziːl",
+    "meaning": "দৃঢ় সংকল্প",
+    "examples": [
+      {
+        "en": "She tackled the problem with zeal.",
+        "bn": "সে দৃঢ় সংকল্প নিয়ে সমস্যার মোকাবেলা করল।"
+      },
+      {
+        "en": "His zeal for reform was unstoppable.",
+        "bn": "সংস্কারের প্রতি তার দৃঢ় সংকল্প অপ্রতিরোধ্য ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She showed remarkable zeal.",
+        "bn": "সে অসাধারণ দৃঢ় সংকল্প দেখাল।"
+      },
+      {
+        "en": "His zeal inspired the whole team.",
+        "bn": "তার দৃঢ় সংকল্প পুরো দলকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "She applied zeal to every challenge.",
+        "bn": "সে প্রতিটি চ্যালেঞ্জে দৃঢ় সংকল্প প্রয়োগ করল।"
+      },
+      {
+        "en": "He carried out his duties with zeal.",
+        "bn": "সে দৃঢ় সংকল্প নিয়ে তার দায়িত্ব পালন করল।"
+      },
+      {
+        "en": "Her zeal was admired by many.",
+        "bn": "তার দৃঢ় সংকল্প অনেকে প্রশংসা করল।"
+      },
+      {
+        "en": "He brought fresh zeal to the cause.",
+        "bn": "সে কারণে নতুন দৃঢ় সংকল্প নিয়ে এল।"
+      },
+      {
+        "en": "She worked with boundless zeal.",
+        "bn": "সে অসীম দৃঢ় সংকল্প নিয়ে কাজ করল।"
+      },
+      {
+        "en": "His zeal was matched by his skill.",
+        "bn": "তার দৃঢ় সংকল্প দক্ষতার সাথে মিলে গেল।"
+      },
+      {
+        "en": "She pursued justice with zeal.",
+        "bn": "সে দৃঢ় সংকল্প নিয়ে ন্যায়বিচার অনুসরণ করল।"
+      },
+      {
+        "en": "Zeal without direction leads nowhere.",
+        "bn": "দিক ছাড়া দৃঢ় সংকল্প কোথাও যায় না।"
+      }
+    ],
+    "synonyms": [
+      "determination",
+      "resolve",
+      "persistence",
+      "commitment",
+      "tenacity"
+    ]
+  },
+  {
+    "base": "zone",
+    "phonetic": "zəʊn",
+    "meaning": "মনোযোগের অবস্থা",
+    "examples": [
+      {
+        "en": "She was in the zone during performance.",
+        "bn": "পারফরম্যান্সের সময় সে মনোযোগের সর্বোচ্চ অবস্থায় ছিল।"
+      },
+      {
+        "en": "He got into the zone quickly.",
+        "bn": "সে দ্রুত মনোযোগের অবস্থায় প্রবেশ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Athletes often describe being in the zone.",
+        "bn": "খেলোয়াড়রা প্রায়ই মনোযোগের অবস্থায় থাকার কথা বলেন।"
+      },
+      {
+        "en": "She found her zone in the library.",
+        "bn": "সে লাইব্রেরিতে তার মনোযোগের অবস্থা খুঁজে পেল।"
+      },
+      {
+        "en": "He slipped into the zone naturally.",
+        "bn": "সে স্বাভাবিকভাবে মনোযোগের অবস্থায় প্রবেশ করল।"
+      },
+      {
+        "en": "Music helped her get into the zone.",
+        "bn": "সঙ্গীত তাকে মনোযোগের অবস্থায় প্রবেশ করতে সাহায্য করল।"
+      },
+      {
+        "en": "He was in the zone all morning.",
+        "bn": "সে সারা সকাল মনোযোগের অবস্থায় ছিল।"
+      },
+      {
+        "en": "She achieved peak performance in the zone.",
+        "bn": "মনোযোগের অবস্থায় সে সর্বোচ্চ পারফরম্যান্স অর্জন করল।"
+      },
+      {
+        "en": "He described the zone as flow state.",
+        "bn": "সে মনোযোগের অবস্থাকে প্রবাহ অবস্থা বলে বর্ণনা করল।"
+      },
+      {
+        "en": "She lost the zone after the interruption.",
+        "bn": "বাধার পরে সে মনোযোগের অবস্থা হারাল।"
+      },
+      {
+        "en": "He practiced to stay in the zone longer.",
+        "bn": "দীর্ঘক্ষণ মনোযোগের অবস্থায় থাকতে সে অনুশীলন করল।"
+      },
+      {
+        "en": "The zone helps produce best work.",
+        "bn": "মনোযোগের অবস্থা সেরা কাজ করতে সাহায্য করে।"
+      }
+    ],
+    "synonyms": [
+      "flow state",
+      "focus",
+      "peak performance",
+      "concentration",
+      "groove"
+    ]
+  },
+  {
+    "base": "zap",
+    "phonetic": "zæp",
+    "meaning": "বৈদ্যুতিক আঘাত করা / দ্রুত ধ্বংস করা",
+    "examples": [
+      {
+        "en": "The fly was zapped by the bug zapper.",
+        "bn": "মাছিটি বাগ জ্যাপারে আঘাত পেল।"
+      },
+      {
+        "en": "She zapped the food in the microwave.",
+        "bn": "সে মাইক্রোওয়েভে খাবার গরম করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He zapped through the channels.",
+        "bn": "সে চ্যানেলগুলো দ্রুত পরিবর্তন করল।"
+      },
+      {
+        "en": "She zapped the weeds with chemicals.",
+        "bn": "সে রাসায়নিক দিয়ে আগাছা ধ্বংস করল।"
+      },
+      {
+        "en": "He felt zapped by the electric fence.",
+        "bn": "সে বৈদ্যুতিক বেড়ায় আঘাত অনুভব করল।"
+      },
+      {
+        "en": "She zapped the virus with the software.",
+        "bn": "সে সফটওয়্যার দিয়ে ভাইরাস দূর করল।"
+      },
+      {
+        "en": "He was zapped of energy.",
+        "bn": "তার শক্তি নিষ্কাশিত হয়ে গেল।"
+      },
+      {
+        "en": "She zapped the file to him.",
+        "bn": "সে তাকে ফাইলটি দ্রুত পাঠাল।"
+      },
+      {
+        "en": "He zapped the problem immediately.",
+        "bn": "সে তাৎক্ষণিকভাবে সমস্যা দূর করল।"
+      },
+      {
+        "en": "The thunder zapped the old tree.",
+        "bn": "বজ্রপাত পুরনো গাছটিকে আঘাত করল।"
+      },
+      {
+        "en": "She zapped him a quick message.",
+        "bn": "সে তাকে দ্রুত একটি বার্তা পাঠাল।"
+      },
+      {
+        "en": "He zapped the leftover food.",
+        "bn": "সে বাকি খাবার মাইক্রোওয়েভে গরম করল।"
+      }
+    ],
+    "synonyms": ["strike", "blast", "eliminate", "heat", "microwave"]
+  },
+  {
+    "base": "zealous",
+    "phonetic": "ˈzeləs",
+    "meaning": "আগ্রহী / উদ্যমী",
+    "examples": [
+      {
+        "en": "She was zealous in her pursuit.",
+        "bn": "তার সাধনায় সে আগ্রহী ছিল।"
+      },
+      {
+        "en": "He was a zealous reformer.",
+        "bn": "সে একজন উদ্যমী সংস্কারক ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A zealous leader drives change.",
+        "bn": "একজন উদ্যমী নেতা পরিবর্তন আনেন।"
+      },
+      {
+        "en": "She was zealous in her research.",
+        "bn": "গবেষণায় সে আগ্রহী ছিল।"
+      },
+      {
+        "en": "He was zealous but patient.",
+        "bn": "সে উদ্যমী ছিল কিন্তু ধৈর্যশীল।"
+      },
+      {
+        "en": "She showed zealous effort.",
+        "bn": "সে উদ্যমী প্রচেষ্টা দেখাল।"
+      },
+      {
+        "en": "His zealous campaigning won votes.",
+        "bn": "তার উদ্যমী প্রচারণা ভোট জিতল।"
+      },
+      {
+        "en": "She was zealous about the environment.",
+        "bn": "পরিবেশ সম্পর্কে সে আগ্রহী ছিল।"
+      },
+      {
+        "en": "He remained zealous throughout.",
+        "bn": "সে সর্বক্ষণ উদ্যমী থাকল।"
+      },
+      {
+        "en": "A zealous team achieves more.",
+        "bn": "একটি উদ্যমী দল বেশি অর্জন করে।"
+      },
+      { "en": "She was zealous in teaching.", "bn": "শিক্ষায় সে আগ্রহী ছিল।" },
+      {
+        "en": "He tackled the issue zealously.",
+        "bn": "সে উদ্যমীভাবে বিষয়টি মোকাবেলা করল।"
+      }
+    ],
+    "synonyms": ["eager", "motivated", "driven", "spirited", "active"]
+  },
+  {
+    "base": "zingy",
+    "phonetic": "ˈzɪŋi",
+    "meaning": "তীক্ষ্ণ স্বাদের / উদ্যমী",
+    "examples": [
+      {
+        "en": "The sauce had a zingy flavor.",
+        "bn": "সসটির তীক্ষ্ণ স্বাদ ছিল।"
+      },
+      {
+        "en": "She had a zingy personality.",
+        "bn": "তার উদ্যমী ব্যক্তিত্ব ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He loved the zingy taste of lime.",
+        "bn": "সে চুনের তীক্ষ্ণ স্বাদ ভালোবাসত।"
+      },
+      { "en": "She wore a zingy outfit.", "bn": "সে একটি উদ্যমী পোশাক পরল।" },
+      {
+        "en": "The zingy music energized them.",
+        "bn": "উদ্যমী সঙ্গীত তাদের উজ্জীবিত করল।"
+      },
+      {
+        "en": "He made a zingy comment.",
+        "bn": "সে একটি তীক্ষ্ণ মন্তব্য করল।"
+      },
+      {
+        "en": "She enjoyed the zingy salsa.",
+        "bn": "সে তীক্ষ্ণ সালসা উপভোগ করল।"
+      },
+      {
+        "en": "The zingy ad caught everyone's attention.",
+        "bn": "উদ্যমী বিজ্ঞাপনটি সবার মনোযোগ আকর্ষণ করল।"
+      },
+      {
+        "en": "He added a zingy dressing to the salad.",
+        "bn": "সে সালাদে তীক্ষ্ণ ড্রেসিং যোগ করল।"
+      },
+      {
+        "en": "She had a zingy sense of style.",
+        "bn": "তার উদ্যমী ফ্যাশন বোধ ছিল।"
+      },
+      {
+        "en": "The zingy performance wowed the crowd.",
+        "bn": "উদ্যমী পারফরম্যান্স ভিড়কে মুগ্ধ করল।"
+      },
+      {
+        "en": "He liked the zingy sensation.",
+        "bn": "সে তীক্ষ্ণ অনুভূতি পছন্দ করত।"
+      }
+    ],
+    "synonyms": ["tangy", "sharp", "lively", "spicy", "vibrant"]
+  },
+  {
+    "base": "zero",
+    "phonetic": "ˈzɪərəʊ",
+    "meaning": "শূন্য করা / হ্রাস করা",
+    "examples": [
+      { "en": "She zeroed out the balance.", "bn": "সে ব্যালেন্স শূন্য করল।" },
+      {
+        "en": "He zeroed in on the issue.",
+        "bn": "সে বিষয়ে মনোযোগ কেন্দ্রীভূত করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She zeroed the account.", "bn": "সে অ্যাকাউন্ট শূন্য করল।" },
+      {
+        "en": "He zeroed in on the main point.",
+        "bn": "সে মূল বিষয়ে মনোযোগ দিল।"
+      },
+      {
+        "en": "The team zeroed out the deficit.",
+        "bn": "দলটি ঘাটতি শূন্য করল।"
+      },
+      {
+        "en": "She zeroed her goals for the year.",
+        "bn": "সে বছরের লক্ষ্যগুলো পুনর্নির্ধারণ করল।"
+      },
+      {
+        "en": "He zeroed in on the target.",
+        "bn": "সে লক্ষ্যে মনোযোগ কেন্দ্রীভূত করল।"
+      },
+      {
+        "en": "She zeroed the scale before weighing.",
+        "bn": "ওজন করার আগে সে পাল্লা শূন্যে আনল।"
+      },
+      {
+        "en": "They zeroed all emissions.",
+        "bn": "তারা সমস্ত নির্গমন শূন্যে নামিয়ে আনল।"
+      },
+      { "en": "He zeroed in on the solution.", "bn": "সে সমাধানে মনোযোগ দিল।" },
+      {
+        "en": "She worked to zero the debt.",
+        "bn": "সে ঋণ শূন্যে নামাতে কাজ করল।"
+      },
+      {
+        "en": "He zeroed out all redundancies.",
+        "bn": "সে সমস্ত বাড়তি খরচ শূন্য করল।"
+      }
+    ],
+    "synonyms": ["eliminate", "reduce", "focus on", "target", "neutralize"]
+  },
+  {
+    "base": "zest",
+    "phonetic": "zest",
+    "meaning": "স্বাদ / সুস্বাদু উপাদান",
+    "examples": [
+      {
+        "en": "She added lime zest to the drink.",
+        "bn": "সে পানীয়তে চুনের খোসা যোগ করল।"
+      },
+      {
+        "en": "The recipe called for lemon zest.",
+        "bn": "রেসিপিতে লেবুর খোসার প্রয়োজন ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He grated the zest carefully.",
+        "bn": "সে সাবধানে খোসা গ্রেট করল।"
+      },
+      {
+        "en": "She used orange zest in the dessert.",
+        "bn": "সে ডেজার্টে কমলার খোসা ব্যবহার করল।"
+      },
+      {
+        "en": "The zest gave the dish a fresh flavor.",
+        "bn": "খোসাটি খাবারে তাজা স্বাদ দিল।"
+      },
+      {
+        "en": "He added grapefruit zest to the cake.",
+        "bn": "সে কেকে জাম্বুরার খোসা যোগ করল।"
+      },
+      {
+        "en": "She stored the zest in the freezer.",
+        "bn": "সে খোসা ফ্রিজারে রাখল।"
+      },
+      {
+        "en": "The zest enhanced the recipe.",
+        "bn": "খোসাটি রেসিপি উন্নত করল।"
+      },
+      {
+        "en": "He taught her how to zest a lemon.",
+        "bn": "সে তাকে লেবুর খোসা ছাড়ানো শেখাল।"
+      },
+      {
+        "en": "She mixed the zest with sugar.",
+        "bn": "সে খোসা চিনির সাথে মিশাল।"
+      },
+      {
+        "en": "The zest made the sauce brighter.",
+        "bn": "খোসাটি সস আরও প্রাণবন্ত করল।"
+      },
+      {
+        "en": "He sprinkled lemon zest on top.",
+        "bn": "সে উপরে লেবুর খোসা ছিটিয়ে দিল।"
+      }
+    ],
+    "synonyms": ["peel", "rind", "skin", "flavor", "tang"]
+  },
+  {
+    "base": "zone",
+    "phonetic": "zəʊn",
+    "meaning": "বিভাগ / বিভক্ত করা",
+    "examples": [
+      {
+        "en": "The city is zoned for commercial use.",
+        "bn": "শহরটি বাণিজ্যিক ব্যবহারের জন্য বিভক্ত।"
+      },
+      {
+        "en": "She zoned off the restricted area.",
+        "bn": "সে সীমাবদ্ধ এলাকাটি বিভক্ত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He zoned the land for farming.",
+        "bn": "সে জমিটি কৃষির জন্য বিভক্ত করল।"
+      },
+      {
+        "en": "The park is zoned into sections.",
+        "bn": "পার্কটি বিভাগে বিভক্ত।"
+      },
+      {
+        "en": "She zoned the kitchen for cooking only.",
+        "bn": "সে রান্নাঘর শুধু রান্নার জন্য বিভক্ত করল।"
+      },
+      {
+        "en": "He zoned the area for housing.",
+        "bn": "সে এলাকাটি আবাসনের জন্য বিভক্ত করল।"
+      },
+      {
+        "en": "The beach is zoned for safety.",
+        "bn": "সমুদ্র সৈকত নিরাপত্তার জন্য বিভক্ত।"
+      },
+      {
+        "en": "She zoned the office space efficiently.",
+        "bn": "সে অফিসের জায়গা দক্ষভাবে বিভক্ত করল।"
+      },
+      {
+        "en": "He zoned the park into play areas.",
+        "bn": "সে পার্কটি খেলার এলাকায় বিভক্ত করল।"
+      },
+      {
+        "en": "They zoned the region for protection.",
+        "bn": "তারা সুরক্ষার জন্য অঞ্চলটি বিভক্ত করল।"
+      },
+      {
+        "en": "She zoned the classroom by activity.",
+        "bn": "সে কার্যক্রম অনুসারে শ্রেণিকক্ষ বিভক্ত করল।"
+      },
+      {
+        "en": "He zoned the farm into crops.",
+        "bn": "সে খামারটি ফসল অনুসারে বিভক্ত করল।"
+      }
+    ],
+    "synonyms": ["divide", "section", "allocate", "designate", "partition"]
+  },
+  {
+    "base": "zing",
+    "phonetic": "zɪŋ",
+    "meaning": "তীক্ষ্ণ শব্দ / প্রাণশক্তি",
+    "examples": [
+      {
+        "en": "The arrow zinged past his ear.",
+        "bn": "তীরটি তার কানের পাশ দিয়ে তীক্ষ্ণ শব্দে গেল।"
+      },
+      {
+        "en": "She added zing to the performance.",
+        "bn": "সে পারফরম্যান্সে প্রাণশক্তি যোগ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He felt the zing of excitement.",
+        "bn": "সে উত্তেজনার তীক্ষ্ণ অনুভূতি পেল।"
+      },
+      {
+        "en": "The bullet zinged past.",
+        "bn": "গুলিটি তীক্ষ্ণ শব্দে পাশ দিয়ে গেল।"
+      },
+      {
+        "en": "She put zing into her cooking.",
+        "bn": "সে রান্নায় প্রাণশক্তি যোগ করল।"
+      },
+      {
+        "en": "He zinged a sharp remark.",
+        "bn": "সে একটি তীক্ষ্ণ মন্তব্য ছুঁড়ল।"
+      },
+      {
+        "en": "The guitar string gave a sharp zing.",
+        "bn": "গিটারের তার একটি তীক্ষ্ণ শব্দ দিল।"
+      },
+      {
+        "en": "She brought zing to the dull event.",
+        "bn": "সে একঘেয়ে অনুষ্ঠানে প্রাণশক্তি আনল।"
+      },
+      {
+        "en": "He heard the zing of the ball.",
+        "bn": "সে বলের তীক্ষ্ণ শব্দ শুনল।"
+      },
+      {
+        "en": "The zing of lemon brightened the dish.",
+        "bn": "লেবুর তীক্ষ্ণ স্বাদ খাবার উজ্জ্বল করল।"
+      },
+      {
+        "en": "She liked the zing of spicy food.",
+        "bn": "সে মশলাদার খাবারের তীক্ষ্ণ স্বাদ পছন্দ করত।"
+      },
+      {
+        "en": "He zinged back with a clever reply.",
+        "bn": "সে চতুর উত্তর দিয়ে পাল্টা দিল।"
+      }
+    ],
+    "synonyms": ["sharp sound", "buzz", "energy", "vitality", "tang"]
+  },
+  {
+    "base": "zenith",
+    "phonetic": "ˈzenɪθ",
+    "meaning": "সর্বোচ্চ সমৃদ্ধি",
+    "examples": [
+      {
+        "en": "The empire was at its zenith.",
+        "bn": "সাম্রাজ্যটি তার সর্বোচ্চ সমৃদ্ধিতে ছিল।"
+      },
+      {
+        "en": "She reached her zenith at forty.",
+        "bn": "চল্লিশ বছরে সে তার সর্বোচ্চ সমৃদ্ধিতে পৌঁছাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was at his zenith as a writer.",
+        "bn": "লেখক হিসেবে সে তার সর্বোচ্চ সমৃদ্ধিতে ছিল।"
+      },
+      {
+        "en": "The brand reached its zenith.",
+        "bn": "ব্র্যান্ডটি তার সর্বোচ্চ সমৃদ্ধিতে পৌঁছাল।"
+      },
+      {
+        "en": "She helped the company reach its zenith.",
+        "bn": "সে কোম্পানিকে সর্বোচ্চ সমৃদ্ধিতে পৌঁছাতে সাহায্য করল।"
+      },
+      {
+        "en": "His music was at its zenith.",
+        "bn": "তার সঙ্গীত সর্বোচ্চ সমৃদ্ধিতে ছিল।"
+      },
+      {
+        "en": "The team hit its zenith last season.",
+        "bn": "দলটি গত মৌসুমে সর্বোচ্চ সমৃদ্ধিতে পৌঁছেছিল।"
+      },
+      {
+        "en": "She was at the zenith of her influence.",
+        "bn": "সে তার প্রভাবের সর্বোচ্চ সমৃদ্ধিতে ছিল।"
+      },
+      {
+        "en": "He fell after the zenith of his career.",
+        "bn": "ক্যারিয়ারের সর্বোচ্চ সমৃদ্ধির পরে সে পড়ে গেল।"
+      },
+      {
+        "en": "The golden age was the zenith.",
+        "bn": "স্বর্ণযুগ ছিল সর্বোচ্চ সমৃদ্ধি।"
+      },
+      {
+        "en": "She basked in the zenith of success.",
+        "bn": "সে সাফল্যের সর্বোচ্চ সমৃদ্ধিতে আনন্দ উপভোগ করল।"
+      },
+      {
+        "en": "He looked back at his zenith fondly.",
+        "bn": "সে স্নেহের সাথে তার সর্বোচ্চ সমৃদ্ধির দিকে ফিরে তাকাল।"
+      }
+    ],
+    "synonyms": ["prime", "heyday", "golden age", "height", "flourishing"]
+  },
+  {
+    "base": "zeal",
+    "phonetic": "ziːl",
+    "meaning": "নিষ্ঠা / আনুগত্য",
+    "examples": [
+      {
+        "en": "She served with unwavering zeal.",
+        "bn": "সে অটুট নিষ্ঠার সাথে সেবা করল।"
+      },
+      {
+        "en": "His zeal for duty was admired.",
+        "bn": "দায়িত্বের প্রতি তার নিষ্ঠা প্রশংসিত হল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She showed zeal in her community work.",
+        "bn": "সামাজিক কাজে সে নিষ্ঠা দেখাল।"
+      },
+      {
+        "en": "He expressed zeal for national service.",
+        "bn": "জাতীয় সেবার প্রতি সে নিষ্ঠা প্রকাশ করল।"
+      },
+      {
+        "en": "A zeal for fairness guided her.",
+        "bn": "ন্যায্যতার প্রতি নিষ্ঠা তাকে পথ দেখাল।"
+      },
+      {
+        "en": "He worked with zeal for the community.",
+        "bn": "সে সমাজের জন্য নিষ্ঠার সাথে কাজ করল।"
+      },
+      {
+        "en": "Her zeal for teaching was legendary.",
+        "bn": "শিক্ষার প্রতি তার নিষ্ঠা কিংবদন্তি ছিল।"
+      },
+      {
+        "en": "Zeal for truth is admirable.",
+        "bn": "সত্যের প্রতি নিষ্ঠা প্রশংসনীয়।"
+      },
+      {
+        "en": "She combined zeal with wisdom.",
+        "bn": "সে নিষ্ঠার সাথে জ্ঞান মেলাল।"
+      },
+      {
+        "en": "His zeal won the respect of many.",
+        "bn": "তার নিষ্ঠা অনেকের সম্মান জিতল।"
+      },
+      {
+        "en": "She served with undying zeal.",
+        "bn": "সে অবিচল নিষ্ঠার সাথে সেবা করল।"
+      },
+      {
+        "en": "His zeal inspired a generation.",
+        "bn": "তার নিষ্ঠা একটি প্রজন্মকে অনুপ্রাণিত করল।"
+      }
+    ],
+    "synonyms": [
+      "loyalty",
+      "devotion",
+      "faithfulness",
+      "commitment",
+      "dedication"
+    ]
+  },
+  {
+    "base": "zigzag",
+    "phonetic": "ˈzɪɡzæɡ",
+    "meaning": "এঁকেবেঁকে চলা",
+    "examples": [
+      {
+        "en": "She zigzagged her way to the top.",
+        "bn": "সে এঁকেবেঁকে শীর্ষে পৌঁছাল।"
+      },
+      {
+        "en": "He zigzagged to avoid being followed.",
+        "bn": "অনুসরণ এড়াতে সে এঁকেবেঁকে চলল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The path zigzagged up the mountain.",
+        "bn": "পথটি পাহাড়ে এঁকেবেঁকে উঠে গেছে।"
+      },
+      {
+        "en": "She zigzagged through the maze.",
+        "bn": "সে গোলকধাঁধায় এঁকেবেঁকে চলল।"
+      },
+      {
+        "en": "He zigzagged between topics.",
+        "bn": "সে বিষয়গুলোর মধ্যে এঁকেবেঁকে গেল।"
+      },
+      {
+        "en": "The deer zigzagged away from the hunter.",
+        "bn": "হরিণটি শিকারি থেকে এঁকেবেঁকে পালাল।"
+      },
+      {
+        "en": "She zigzagged to avoid the obstacle.",
+        "bn": "বাধা এড়াতে সে এঁকেবেঁকে চলল।"
+      },
+      {
+        "en": "The child zigzagged excitedly.",
+        "bn": "শিশুটি উত্তেজনায় এঁকেবেঁকে দৌড়াল।"
+      },
+      {
+        "en": "He zigzagged across the field.",
+        "bn": "সে মাঠ জুড়ে এঁকেবেঁকে গেল।"
+      },
+      {
+        "en": "The stream zigzagged through the valley.",
+        "bn": "নালাটি উপত্যকায় এঁকেবেঁকে প্রবাহিত হল।"
+      },
+      {
+        "en": "She zigzagged her career path.",
+        "bn": "সে এঁকেবেঁকে ক্যারিয়ারের পথ নিল।"
+      },
+      {
+        "en": "The road zigzagged dangerously.",
+        "bn": "রাস্তাটি বিপজ্জনকভাবে এঁকেবেঁকে গেছে।"
+      }
+    ],
+    "synonyms": ["meander", "weave", "wind", "twist", "bend"]
+  },
+  {
+    "base": "zeal",
+    "phonetic": "ziːl",
+    "meaning": "উদ্দীপনা / অনুপ্রেরণা",
+    "examples": [
+      {
+        "en": "Her zeal uplifted the team.",
+        "bn": "তার উদ্দীপনা দলকে উৎসাহিত করল।"
+      },
+      {
+        "en": "He spoke with zeal about education.",
+        "bn": "সে শিক্ষা নিয়ে উদ্দীপনার সাথে কথা বলল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She showed zeal in all aspects.",
+        "bn": "সে সমস্ত দিকে উদ্দীপনা দেখাল।"
+      },
+      {
+        "en": "His zeal for innovation drove progress.",
+        "bn": "উদ্ভাবনের প্রতি তার উদ্দীপনা অগ্রগতি নিয়ে এল।"
+      },
+      {
+        "en": "She inspired others with her zeal.",
+        "bn": "তার উদ্দীপনা দিয়ে সে অন্যদের অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "He spoke with renewed zeal.",
+        "bn": "সে নতুন উদ্দীপনার সাথে কথা বলল।"
+      },
+      {
+        "en": "Zeal drives people to do more.",
+        "bn": "উদ্দীপনা মানুষকে আরও বেশি করতে চালিত করে।"
+      },
+      {
+        "en": "She had zeal for making a difference.",
+        "bn": "পরিবর্তন আনার প্রতি তার উদ্দীপনা ছিল।"
+      },
+      {
+        "en": "His zeal for justice was clear.",
+        "bn": "ন্যায়বিচারের প্রতি তার উদ্দীপনা স্পষ্ট ছিল।"
+      },
+      {
+        "en": "She kept her zeal alive daily.",
+        "bn": "সে প্রতিদিন তার উদ্দীপনা জাগিয়ে রাখল।"
+      },
+      {
+        "en": "He led with zeal and purpose.",
+        "bn": "সে উদ্দীপনা ও উদ্দেশ্য নিয়ে নেতৃত্ব দিল।"
+      },
+      {
+        "en": "Zeal brings out the best in people.",
+        "bn": "উদ্দীপনা মানুষের মধ্যে সেরাটা বের করে আনে।"
+      }
+    ],
+    "synonyms": ["inspiration", "motivation", "drive", "spirit", "impulse"]
+  },
+  {
+    "base": "zone",
+    "phonetic": "zəʊn",
+    "meaning": "সুরক্ষিত এলাকা",
+    "examples": [
+      {
+        "en": "The animals live in a protected zone.",
+        "bn": "প্রাণীরা সুরক্ষিত এলাকায় বাস করে।"
+      },
+      {
+        "en": "The fire zone was dangerous.",
+        "bn": "আগুনের সুরক্ষিত এলাকা বিপজ্জনক ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She entered the exclusion zone.",
+        "bn": "সে বর্জন এলাকায় প্রবেশ করল।"
+      },
+      {
+        "en": "He was caught in the strike zone.",
+        "bn": "সে আঘাতের এলাকায় আটকে পড়ল।"
+      },
+      {
+        "en": "The buffer zone kept the peace.",
+        "bn": "বাফার এলাকা শান্তি বজায় রাখল।"
+      },
+      {
+        "en": "She studied the buffer zone carefully.",
+        "bn": "সে বাফার এলাকা সাবধানে অধ্যয়ন করল।"
+      },
+      {
+        "en": "He patrolled the restricted zone.",
+        "bn": "সে সীমাবদ্ধ এলাকায় টহল দিল।"
+      },
+      {
+        "en": "The neutral zone prevented conflict.",
+        "bn": "নিরপেক্ষ এলাকা দ্বন্দ্ব প্রতিরোধ করল।"
+      },
+      {
+        "en": "She crossed into the demilitarized zone.",
+        "bn": "সে অসামরিক এলাকায় পার হল।"
+      },
+      {
+        "en": "The danger zone required special equipment.",
+        "bn": "বিপদ এলাকায় বিশেষ সরঞ্জাম দরকার ছিল।"
+      },
+      {
+        "en": "He evacuated the flood zone.",
+        "bn": "সে বন্যার এলাকা খালি করল।"
+      },
+      {
+        "en": "She respected the no-fly zone.",
+        "bn": "সে নো-ফ্লাই এলাকা মেনে চলল।"
+      }
+    ],
+    "synonyms": [
+      "protected area",
+      "buffer zone",
+      "exclusion zone",
+      "territory",
+      "boundary"
+    ]
+  },
+  {
+    "base": "zest",
+    "phonetic": "zest",
+    "meaning": "মজা / আনন্দ",
+    "examples": [
+      { "en": "She did it with zest.", "bn": "সে আনন্দের সাথে এটি করল।" },
+      {
+        "en": "He found zest in simple things.",
+        "bn": "সে সহজ জিনিসে আনন্দ খুঁজে পেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She laughed with great zest.",
+        "bn": "সে অনেক আনন্দের সাথে হাসল।"
+      },
+      {
+        "en": "He brought zest to the gathering.",
+        "bn": "সে সমাবেশে আনন্দ নিয়ে এল।"
+      },
+      { "en": "She danced with zest.", "bn": "সে আনন্দের সাথে নাচল।" },
+      {
+        "en": "His zest for life was inspiring.",
+        "bn": "জীবনের প্রতি তার আনন্দ অনুপ্রেরণাদায়ী ছিল।"
+      },
+      {
+        "en": "She sang with pure zest.",
+        "bn": "সে বিশুদ্ধ আনন্দের সাথে গাইল।"
+      },
+      {
+        "en": "He brought zest to every conversation.",
+        "bn": "সে প্রতিটি কথোপকথনে আনন্দ নিয়ে এল।"
+      },
+      {
+        "en": "Zest makes ordinary things special.",
+        "bn": "আনন্দ সাধারণ জিনিসকে বিশেষ করে তোলে।"
+      },
+      {
+        "en": "She lived each day with zest.",
+        "bn": "সে প্রতিটি দিন আনন্দের সাথে যাপন করল।"
+      },
+      { "en": "He found zest in his hobby.", "bn": "সে শখে আনন্দ খুঁজে পেল।" },
+      {
+        "en": "Her zest brightened the room.",
+        "bn": "তার আনন্দ ঘর উজ্জ্বল করল।"
+      }
+    ],
+    "synonyms": ["joy", "delight", "fun", "enjoyment", "relish"]
+  },
+  {
+    "base": "zoom",
+    "phonetic": "zuːm",
+    "meaning": "মনোযোগ দেওয়া",
+    "examples": [
+      {
+        "en": "She zoomed in on the key issue.",
+        "bn": "সে মূল বিষয়ে মনোযোগ দিল।"
+      },
+      {
+        "en": "He zoomed in on what mattered.",
+        "bn": "সে যা গুরুত্বপূর্ণ ছিল তাতে মনোযোগ দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She zoomed in on the solution.",
+        "bn": "সে সমাধানে মনোযোগ দিল।"
+      },
+      {
+        "en": "He zoomed in on the main points.",
+        "bn": "সে মূল বিষয়গুলোতে মনোযোগ দিল।"
+      },
+      {
+        "en": "The analysis zoomed in on the data.",
+        "bn": "বিশ্লেষণ তথ্যে মনোযোগ দিল।"
+      },
+      {
+        "en": "She zoomed in on her priorities.",
+        "bn": "সে তার অগ্রাধিকারে মনোযোগ দিল।"
+      },
+      {
+        "en": "He zoomed in on the weaknesses.",
+        "bn": "সে দুর্বলতাগুলোতে মনোযোগ দিল।"
+      },
+      { "en": "They zoomed in on the cause.", "bn": "তারা কারণে মনোযোগ দিল।" },
+      {
+        "en": "She zoomed in on his strengths.",
+        "bn": "সে তার শক্তিতে মনোযোগ দিল।"
+      },
+      {
+        "en": "He zoomed in on the core value.",
+        "bn": "সে মূল মূল্যবোধে মনোযোগ দিল।"
+      },
+      {
+        "en": "Zooming in helps find root causes.",
+        "bn": "মনোযোগ দেওয়া মূল কারণ খুঁজে পেতে সাহায্য করে।"
+      },
+      {
+        "en": "She zoomed in on the client's needs.",
+        "bn": "সে ক্লায়েন্টের প্রয়োজনে মনোযোগ দিল।"
+      }
+    ],
+    "synonyms": ["focus on", "concentrate", "target", "narrow down", "hone in"]
+  },
+  {
+    "base": "zeal",
+    "phonetic": "ziːl",
+    "meaning": "শিক্ষার আগ্রহ",
+    "examples": [
+      {
+        "en": "She had zeal for learning languages.",
+        "bn": "ভাষা শেখার প্রতি তার আগ্রহ ছিল।"
+      },
+      {
+        "en": "His zeal for study impressed teachers.",
+        "bn": "পড়াশোনার প্রতি তার আগ্রহ শিক্ষকদের মুগ্ধ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She had zeal for science.",
+        "bn": "বিজ্ঞানের প্রতি তার আগ্রহ ছিল।"
+      },
+      {
+        "en": "His zeal for history drove research.",
+        "bn": "ইতিহাসের প্রতি তার আগ্রহ গবেষণা চালিত করল।"
+      },
+      {
+        "en": "She showed zeal in every subject.",
+        "bn": "প্রতিটি বিষয়ে সে আগ্রহ দেখাল।"
+      },
+      {
+        "en": "His zeal for maths was exceptional.",
+        "bn": "গণিতের প্রতি তার আগ্রহ অসাধারণ ছিল।"
+      },
+      {
+        "en": "She maintained her zeal for reading.",
+        "bn": "সে পড়ার প্রতি তার আগ্রহ বজায় রাখল।"
+      },
+      {
+        "en": "His zeal helped him pass with honors.",
+        "bn": "তার আগ্রহ তাকে সম্মানের সাথে পাস করতে সাহায্য করল।"
+      },
+      {
+        "en": "She taught with zeal and patience.",
+        "bn": "সে আগ্রহ ও ধৈর্যের সাথে শেখাল।"
+      },
+      {
+        "en": "Zeal for learning opens many doors.",
+        "bn": "শেখার আগ্রহ অনেক দরজা খুলে দেয়।"
+      },
+      {
+        "en": "He showed zeal from a young age.",
+        "bn": "সে ছোটবেলা থেকেই আগ্রহ দেখাল।"
+      },
+      {
+        "en": "Her zeal for art led to success.",
+        "bn": "শিল্পের প্রতি তার আগ্রহ সাফল্যের দিকে নিয়ে গেল।"
+      }
+    ],
+    "synonyms": ["interest", "curiosity", "eagerness", "appetite", "hunger"]
+  },
+  {
+    "base": "zealous",
+    "phonetic": "ˈzeləs",
+    "meaning": "একনিষ্ঠ / দৃঢ়প্রতিজ্ঞ",
+    "examples": [
+      {
+        "en": "She was zealous in her pursuit of truth.",
+        "bn": "সত্যের সন্ধানে সে একনিষ্ঠ ছিল।"
+      },
+      {
+        "en": "He was a zealous protector of rights.",
+        "bn": "সে অধিকারের একনিষ্ঠ রক্ষক ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She remained zealous despite failure.",
+        "bn": "ব্যর্থতা সত্ত্বেও সে একনিষ্ঠ থাকল।"
+      },
+      {
+        "en": "He was zealous in his promises.",
+        "bn": "প্রতিশ্রুতিতে সে একনিষ্ঠ ছিল।"
+      },
+      {
+        "en": "A zealous employee always gives their best.",
+        "bn": "একনিষ্ঠ কর্মচারী সবসময় সর্বোচ্চ দেন।"
+      },
+      {
+        "en": "She was zealous in protecting nature.",
+        "bn": "প্রকৃতি রক্ষায় সে একনিষ্ঠ ছিল।"
+      },
+      {
+        "en": "He remained zealous in his mission.",
+        "bn": "তার মিশনে সে একনিষ্ঠ থাকল।"
+      },
+      {
+        "en": "Zealous workers never give up.",
+        "bn": "একনিষ্ঠ কর্মীরা কখনো হার মানে না।"
+      },
+      {
+        "en": "She was zealous in all her efforts.",
+        "bn": "সমস্ত প্রচেষ্টায় সে একনিষ্ঠ ছিল।"
+      },
+      {
+        "en": "He was zealous in serving others.",
+        "bn": "অন্যদের সেবায় সে একনিষ্ঠ ছিল।"
+      },
+      {
+        "en": "A zealous approach leads to better results.",
+        "bn": "একনিষ্ঠ পদ্ধতি ভালো ফলাফলের দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "She proved herself zealous and trustworthy.",
+        "bn": "সে নিজেকে একনিষ্ঠ ও বিশ্বস্ত প্রমাণ করল।"
+      }
+    ],
+    "synonyms": [
+      "dedicated",
+      "committed",
+      "steadfast",
+      "unwavering",
+      "resolute"
+    ]
+  },
+  {
+    "base": "zoning",
+    "phonetic": "ˈzəʊnɪŋ",
+    "meaning": "এলাকা বিভাজন / জোনিং",
+    "examples": [
+      {
+        "en": "Zoning laws protect neighborhoods.",
+        "bn": "জোনিং আইন পাড়া রক্ষা করে।"
+      },
+      {
+        "en": "She studied zoning regulations.",
+        "bn": "সে জোনিং বিধিমালা অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He applied for a zoning variance.",
+        "bn": "সে জোনিং ব্যতিক্রমের জন্য আবেদন করল।"
+      },
+      {
+        "en": "The zoning board approved the plan.",
+        "bn": "জোনিং বোর্ড পরিকল্পনা অনুমোদন করল।"
+      },
+      {
+        "en": "She challenged the zoning decision.",
+        "bn": "সে জোনিং সিদ্ধান্তকে চ্যালেঞ্জ করল।"
+      },
+      {
+        "en": "Zoning separates industrial and residential areas.",
+        "bn": "জোনিং শিল্প ও আবাসিক এলাকা আলাদা করে।"
+      },
+      {
+        "en": "He reviewed the city's zoning map.",
+        "bn": "সে শহরের জোনিং মানচিত্র পর্যালোচনা করল।"
+      },
+      {
+        "en": "Zoning ensures orderly development.",
+        "bn": "জোনিং সুশৃঙ্খল উন্নয়ন নিশ্চিত করে।"
+      },
+      {
+        "en": "She worked on zoning reforms.",
+        "bn": "সে জোনিং সংস্কারে কাজ করল।"
+      },
+      {
+        "en": "The zoning change affected property values.",
+        "bn": "জোনিং পরিবর্তন সম্পত্তির মূল্য প্রভাবিত করল।"
+      },
+      {
+        "en": "He understood the zoning code well.",
+        "bn": "সে জোনিং কোড ভালোভাবে বুঝল।"
+      },
+      {
+        "en": "Zoning policies vary by city.",
+        "bn": "জোনিং নীতি শহর অনুসারে ভিন্ন।"
+      }
+    ],
+    "synonyms": [
+      "land use regulation",
+      "city planning",
+      "area division",
+      "urban planning",
+      "district allocation"
+    ]
+  },
+  {
+    "base": "zoo",
+    "phonetic": "zuː",
+    "meaning": "চিড়িয়াখানা",
+    "examples": [
+      {
+        "en": "She visited the zoo with her children.",
+        "bn": "সে সন্তানদের নিয়ে চিড়িয়াখানা পরিদর্শন করল।"
+      },
+      {
+        "en": "The zoo had many exotic animals.",
+        "bn": "চিড়িয়াখানায় অনেক বিদেশী প্রাণী ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He worked as a vet at the zoo.",
+        "bn": "সে চিড়িয়াখানায় পশুচিকিৎসক হিসেবে কাজ করল।"
+      },
+      {
+        "en": "The zoo was crowded on weekends.",
+        "bn": "সপ্তাহান্তে চিড়িয়াখানা ভিড় ছিল।"
+      },
+      {
+        "en": "She donated to the zoo's conservation fund.",
+        "bn": "সে চিড়িয়াখানার সংরক্ষণ তহবিলে দান করল।"
+      },
+      {
+        "en": "The office was a zoo today.",
+        "bn": "আজ অফিসটি বিশৃঙ্খলাপূর্ণ ছিল।"
+      },
+      {
+        "en": "He loved watching animals at the zoo.",
+        "bn": "সে চিড়িয়াখানায় প্রাণী দেখতে ভালোবাসত।"
+      },
+      {
+        "en": "The zoo opened a new exhibit.",
+        "bn": "চিড়িয়াখানা একটি নতুন প্রদর্শনী খুলল।"
+      },
+      {
+        "en": "She photographed lions at the zoo.",
+        "bn": "সে চিড়িয়াখানায় সিংহের ছবি তুলল।"
+      },
+      {
+        "en": "The children loved the zoo trip.",
+        "bn": "শিশুরা চিড়িয়াখানার ভ্রমণ পছন্দ করল।"
+      },
+      {
+        "en": "He learned about wildlife at the zoo.",
+        "bn": "সে চিড়িয়াখানায় বন্যপ্রাণী সম্পর্কে শিখল।"
+      },
+      {
+        "en": "The zoo helps preserve endangered species.",
+        "bn": "চিড়িয়াখানা বিপন্ন প্রজাতি সংরক্ষণে সাহায্য করে।"
+      }
+    ],
+    "synonyms": [
+      "wildlife park",
+      "animal park",
+      "zoological garden",
+      "nature reserve",
+      "safari park"
+    ]
+  },
+  {
+    "base": "zeal",
+    "phonetic": "ziːl",
+    "meaning": "সামাজিক দায়বদ্ধতা",
+    "examples": [
+      {
+        "en": "She had zeal for helping the poor.",
+        "bn": "গরিবদের সাহায্যের প্রতি তার সামাজিক দায়বদ্ধতা ছিল।"
+      },
+      {
+        "en": "His zeal for community work was notable.",
+        "bn": "সামাজিক কাজের প্রতি তার দায়বদ্ধতা উল্লেখযোগ্য ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She worked with zeal for the needy.",
+        "bn": "সে অভাবীদের জন্য দায়বদ্ধতার সাথে কাজ করল।"
+      },
+      {
+        "en": "His zeal for volunteering inspired others.",
+        "bn": "স্বেচ্ছাসেবকতার প্রতি তার দায়বদ্ধতা অন্যদের অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "She showed zeal in raising funds.",
+        "bn": "তহবিল সংগ্রহে সে দায়বদ্ধতা দেখাল।"
+      },
+      {
+        "en": "Zeal for social good builds better communities.",
+        "bn": "সামাজিক ভালোর প্রতি দায়বদ্ধতা উন্নত সমাজ গড়ে।"
+      },
+      {
+        "en": "He had zeal for youth empowerment.",
+        "bn": "তরুণদের ক্ষমতায়নের প্রতি তার দায়বদ্ধতা ছিল।"
+      },
+      {
+        "en": "Her zeal for charity was well-known.",
+        "bn": "দাতব্য কাজের প্রতি তার দায়বদ্ধতা সুপরিচিত ছিল।"
+      },
+      {
+        "en": "He served with zeal at the shelter.",
+        "bn": "সে আশ্রয়কেন্দ্রে দায়বদ্ধতার সাথে সেবা করল।"
+      },
+      {
+        "en": "She brought zeal to social reform.",
+        "bn": "সে সামাজিক সংস্কারে দায়বদ্ধতা নিয়ে এল।"
+      },
+      {
+        "en": "His zeal created positive change.",
+        "bn": "তার দায়বদ্ধতা ইতিবাচক পরিবর্তন তৈরি করল।"
+      },
+      {
+        "en": "A zeal for others enriches life.",
+        "bn": "অন্যদের প্রতি দায়বদ্ধতা জীবন সমৃদ্ধ করে।"
+      }
+    ],
+    "synonyms": [
+      "social responsibility",
+      "civic duty",
+      "altruism",
+      "service",
+      "charity"
+    ]
+  },
+  {
+    "base": "zenith",
+    "phonetic": "ˈzenɪθ",
+    "meaning": "উন্নতির চরম পর্যায়",
+    "examples": [
+      {
+        "en": "The industry reached its zenith.",
+        "bn": "শিল্পটি উন্নতির চরম পর্যায়ে পৌঁছাল।"
+      },
+      {
+        "en": "She was at the zenith of innovation.",
+        "bn": "সে উদ্ভাবনের চরম পর্যায়ে ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He led the firm to its zenith.",
+        "bn": "সে প্রতিষ্ঠানকে উন্নতির চরম পর্যায়ে নিয়ে গেল।"
+      },
+      {
+        "en": "The technology reached its zenith.",
+        "bn": "প্রযুক্তি উন্নতির চরম পর্যায়ে পৌঁছাল।"
+      },
+      {
+        "en": "She was praised at the zenith of her career.",
+        "bn": "ক্যারিয়ারের চরম পর্যায়ে তাকে প্রশংসা করা হল।"
+      },
+      {
+        "en": "His power was at its zenith.",
+        "bn": "তার শক্তি চরম পর্যায়ে ছিল।"
+      },
+      {
+        "en": "The movement reached its zenith.",
+        "bn": "আন্দোলন উন্নতির চরম পর্যায়ে পৌঁছাল।"
+      },
+      {
+        "en": "She worked toward the zenith of excellence.",
+        "bn": "সে উৎকর্ষের চরম পর্যায়ের দিকে কাজ করল।"
+      },
+      {
+        "en": "The civilization was at its zenith.",
+        "bn": "সভ্যতাটি উন্নতির চরম পর্যায়ে ছিল।"
+      },
+      {
+        "en": "He achieved the zenith of his goals.",
+        "bn": "সে তার লক্ষ্যের চরম পর্যায় অর্জন করল।"
+      },
+      {
+        "en": "At its zenith, the company employed thousands.",
+        "bn": "চরম পর্যায়ে কোম্পানিটি হাজার হাজার লোক নিয়োগ দিত।"
+      },
+      {
+        "en": "She celebrated reaching the zenith.",
+        "bn": "সে চরম পর্যায়ে পৌঁছানো উদযাপন করল।"
+      }
+    ],
+    "synonyms": [
+      "culmination",
+      "climax",
+      "high point",
+      "crowning achievement",
+      "greatest moment"
+    ]
+  },
+  {
+    "base": "zephyr",
+    "phonetic": "ˈzefər",
+    "meaning": "সুখকর বাতাস",
+    "examples": [
+      {
+        "en": "A zephyr refreshed the tired hikers.",
+        "bn": "একটি সুখকর বাতাস ক্লান্ত হাইকারদের সতেজ করল।"
+      },
+      {
+        "en": "She loved the summer zephyr.",
+        "bn": "সে গ্রীষ্মের সুখকর বাতাস পছন্দ করত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The zephyr carried away the heat.",
+        "bn": "সুখকর বাতাস গরম দূর করল।"
+      },
+      {
+        "en": "He sat outside to enjoy the zephyr.",
+        "bn": "সুখকর বাতাস উপভোগ করতে সে বাইরে বসল।"
+      },
+      {
+        "en": "The zephyr gently moved the curtains.",
+        "bn": "সুখকর বাতাস আলতোভাবে পর্দা নাড়াল।"
+      },
+      {
+        "en": "She described the zephyr in her poem.",
+        "bn": "সে কবিতায় সুখকর বাতাস বর্ণনা করল।"
+      },
+      {
+        "en": "A zephyr touched his cheek.",
+        "bn": "একটি সুখকর বাতাস তার গালে স্পর্শ করল।"
+      },
+      {
+        "en": "The zephyr made the hot day bearable.",
+        "bn": "সুখকর বাতাস গরমের দিনটি সহনীয় করল।"
+      },
+      {
+        "en": "He felt the zephyr through the window.",
+        "bn": "সে জানালা দিয়ে সুখকর বাতাস অনুভব করল।"
+      },
+      {
+        "en": "A gentle zephyr swept through the garden.",
+        "bn": "একটি মৃদু সুখকর বাতাস বাগান জুড়ে বয়ে গেল।"
+      },
+      {
+        "en": "She welcomed the morning zephyr.",
+        "bn": "সে সকালের সুখকর বাতাসকে স্বাগত জানাল।"
+      },
+      {
+        "en": "The zephyr brought the fragrance of flowers.",
+        "bn": "সুখকর বাতাস ফুলের সুগন্ধ নিয়ে এল।"
+      }
+    ],
+    "synonyms": [
+      "pleasant breeze",
+      "cool wind",
+      "light wind",
+      "refreshing breeze",
+      "waft"
+    ]
+  },
+  {
+    "base": "zip",
+    "phonetic": "zɪp",
+    "meaning": "শক্তি / প্রাণশক্তি",
+    "examples": [
+      {
+        "en": "She had zip in her step.",
+        "bn": "তার পদক্ষেপে প্রাণশক্তি ছিল।"
+      },
+      {
+        "en": "He brought zip to the project.",
+        "bn": "সে প্রকল্পে প্রাণশক্তি নিয়ে এল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She walked with zip and confidence.",
+        "bn": "সে প্রাণশক্তি ও আত্মবিশ্বাসের সাথে হাঁটল।"
+      },
+      {
+        "en": "He had zip in everything he did.",
+        "bn": "সে যা করত সবকিছুতে প্রাণশক্তি ছিল।"
+      },
+      {
+        "en": "The morning run gave her zip.",
+        "bn": "সকালের দৌড় তাকে প্রাণশক্তি দিল।"
+      },
+      {
+        "en": "He had lost his zip after illness.",
+        "bn": "অসুস্থতার পরে সে প্রাণশক্তি হারিয়েছিল।"
+      },
+      {
+        "en": "She added zip to the dull meeting.",
+        "bn": "সে একঘেয়ে সভায় প্রাণশক্তি যোগ করল।"
+      },
+      {
+        "en": "His speech had real zip.",
+        "bn": "তার বক্তৃতায় প্রকৃত প্রাণশক্তি ছিল।"
+      },
+      {
+        "en": "She felt full of zip.",
+        "bn": "সে প্রাণশক্তিতে পরিপূর্ণ অনুভব করল।"
+      },
+      {
+        "en": "He put some zip into his routine.",
+        "bn": "সে তার রুটিনে প্রাণশক্তি যোগ করল।"
+      },
+      {
+        "en": "The coffee gave her the zip she needed.",
+        "bn": "কফি তাকে প্রয়োজনীয় প্রাণশক্তি দিল।"
+      },
+      { "en": "Zip comes from within.", "bn": "প্রাণশক্তি ভেতর থেকে আসে।" }
+    ],
+    "synonyms": ["energy", "vitality", "vigor", "spark", "liveliness"]
+  },
+  {
+    "base": "zombie",
+    "phonetic": "ˈzɒmbi",
+    "meaning": "মানসিকভাবে নিষ্ক্রিয়",
+    "examples": [
+      {
+        "en": "She was a zombie after the all-nighter.",
+        "bn": "সারারাত জেগে থাকার পরে সে মানসিকভাবে নিষ্ক্রিয় ছিল।"
+      },
+      {
+        "en": "He was a zombie without his morning coffee.",
+        "bn": "সকালের কফি ছাড়া সে মানসিকভাবে নিষ্ক্রিয় ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The overworked team looked like zombies.",
+        "bn": "অতিরিক্ত কাজ করা দলটি মানসিকভাবে নিষ্ক্রিয় দেখাচ্ছিল।"
+      },
+      {
+        "en": "She shuffled around like a zombie.",
+        "bn": "সে মানসিকভাবে নিষ্ক্রিয়ের মতো ঘুরে বেড়াল।"
+      },
+      {
+        "en": "He was a zombie in morning meetings.",
+        "bn": "সকালের সভায় সে মানসিকভাবে নিষ্ক্রিয় থাকত।"
+      },
+      {
+        "en": "After the long trip, they were all zombies.",
+        "bn": "দীর্ঘ ভ্রমণের পরে তারা সবাই মানসিকভাবে নিষ্ক্রিয় ছিল।"
+      },
+      {
+        "en": "She stared blankly like a zombie.",
+        "bn": "সে মানসিকভাবে নিষ্ক্রিয়ের মতো শূন্যদৃষ্টিতে তাকাল।"
+      },
+      {
+        "en": "He needed sleep to stop being a zombie.",
+        "bn": "মানসিকভাবে নিষ্ক্রিয় না থাকতে তার ঘুমের দরকার ছিল।"
+      },
+      {
+        "en": "She felt like a zombie all day.",
+        "bn": "সারাদিন সে মানসিকভাবে নিষ্ক্রিয় অনুভব করল।"
+      },
+      {
+        "en": "He was a zombie when stressed.",
+        "bn": "মানসিক চাপে সে মানসিকভাবে নিষ্ক্রিয় ছিল।"
+      },
+      {
+        "en": "She became a zombie after the deadline.",
+        "bn": "সময়সীমার পরে সে মানসিকভাবে নিষ্ক্রিয় হয়ে গেল।"
+      },
+      {
+        "en": "Rest cures the zombie feeling.",
+        "bn": "বিশ্রাম মানসিক নিষ্ক্রিয়তার অনুভূতি দূর করে।"
+      }
+    ],
+    "synonyms": [
+      "emotionally drained",
+      "exhausted person",
+      "sleepwalker",
+      "burnout",
+      "deadened"
+    ]
+  },
+  {
+    "base": "zero",
+    "phonetic": "ˈzɪərəʊ",
+    "meaning": "প্রারম্ভিক অবস্থা",
+    "examples": [
+      {
+        "en": "He built everything from zero.",
+        "bn": "সে সবকিছু প্রারম্ভিক অবস্থা থেকে গড়ল।"
+      },
+      {
+        "en": "She started from zero and succeeded.",
+        "bn": "সে প্রারম্ভিক অবস্থা থেকে শুরু করে সফল হল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They rebuilt from zero after the disaster.",
+        "bn": "দুর্যোগের পরে তারা প্রারম্ভিক অবস্থা থেকে পুনর্নির্মাণ করল।"
+      },
+      {
+        "en": "She was at zero before her breakthrough.",
+        "bn": "সাফল্যের আগে সে প্রারম্ভিক অবস্থায় ছিল।"
+      },
+      {
+        "en": "He reset to zero and started fresh.",
+        "bn": "সে প্রারম্ভিক অবস্থায় রিসেট করে নতুন করে শুরু করল।"
+      },
+      {
+        "en": "Zero is the beginning of everything.",
+        "bn": "শূন্য সবকিছুর শুরু।"
+      },
+      {
+        "en": "She embraced starting at zero.",
+        "bn": "সে প্রারম্ভিক অবস্থা থেকে শুরু করতে স্বাগত জানাল।"
+      },
+      {
+        "en": "He saw zero as an opportunity.",
+        "bn": "সে শূন্যকে সুযোগ হিসেবে দেখল।"
+      },
+      {
+        "en": "From zero to hero is her story.",
+        "bn": "প্রারম্ভিক অবস্থা থেকে নায়ক হওয়া তার গল্প।"
+      },
+      {
+        "en": "She regained everything she had lost to zero.",
+        "bn": "সে শূন্যে হারানো সবকিছু ফিরে পেল।"
+      },
+      {
+        "en": "Starting from zero requires courage.",
+        "bn": "প্রারম্ভিক অবস্থা থেকে শুরু করতে সাহস লাগে।"
+      },
+      { "en": "He was not afraid of zero.", "bn": "শূন্য নিয়ে সে ভয় পেত না।" }
+    ],
+    "synonyms": ["starting point", "ground zero", "beginning", "base", "origin"]
+  },
+  {
+    "base": "zoning",
+    "phonetic": "ˈzəʊnɪŋ",
+    "meaning": "পরিকল্পনা অনুসারে বিভাজন",
+    "examples": [
+      {
+        "en": "Zoning helped organize the city.",
+        "bn": "জোনিং শহর সংগঠিত করতে সাহায্য করল।"
+      },
+      {
+        "en": "She supported stricter zoning laws.",
+        "bn": "সে কঠোর জোনিং আইন সমর্থন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He opposed the new zoning plan.",
+        "bn": "সে নতুন জোনিং পরিকল্পনার বিরোধিতা করল।"
+      },
+      {
+        "en": "Zoning can protect green spaces.",
+        "bn": "জোনিং সবুজ স্থান রক্ষা করতে পারে।"
+      },
+      {
+        "en": "She voted against the zoning change.",
+        "bn": "সে জোনিং পরিবর্তনের বিপক্ষে ভোট দিল।"
+      },
+      {
+        "en": "The zoning ordinance was updated.",
+        "bn": "জোনিং অধ্যাদেশ আপডেট করা হল।"
+      },
+      {
+        "en": "He understood complex zoning codes.",
+        "bn": "সে জটিল জোনিং কোড বুঝল।"
+      },
+      {
+        "en": "Zoning affects housing costs.",
+        "bn": "জোনিং আবাসন খরচ প্রভাবিত করে।"
+      },
+      {
+        "en": "She proposed new zoning ideas.",
+        "bn": "সে নতুন জোনিং ধারণা প্রস্তাব করল।"
+      },
+      {
+        "en": "Zoning meetings were often heated.",
+        "bn": "জোনিং সভা প্রায়ই উত্তপ্ত ছিল।"
+      },
+      {
+        "en": "He filed a zoning application.",
+        "bn": "সে একটি জোনিং আবেদন দাখিল করল।"
+      },
+      {
+        "en": "The zoning committee reviewed the proposal.",
+        "bn": "জোনিং কমিটি প্রস্তাবটি পর্যালোচনা করল।"
+      }
+    ],
+    "synonyms": [
+      "urban planning",
+      "land regulation",
+      "city zoning",
+      "municipal planning",
+      "development control"
+    ]
+  },
+  {
+    "base": "zeal",
+    "phonetic": "ziːl",
+    "meaning": "সংগ্রামের মনোভাব",
+    "examples": [
+      {
+        "en": "She fought for rights with zeal.",
+        "bn": "সে সংগ্রামের মনোভাব নিয়ে অধিকারের জন্য লড়াই করল।"
+      },
+      {
+        "en": "His zeal in adversity was remarkable.",
+        "bn": "প্রতিকূলতায় তার সংগ্রামের মনোভাব অসাধারণ ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She showed zeal when facing challenges.",
+        "bn": "চ্যালেঞ্জের মুখে সে সংগ্রামের মনোভাব দেখাল।"
+      },
+      {
+        "en": "He never lost his zeal.",
+        "bn": "সে কখনো সংগ্রামের মনোভাব হারায়নি।"
+      },
+      {
+        "en": "A zeal for victory drove them.",
+        "bn": "বিজয়ের সংগ্রামের মনোভাব তাদের চালিত করল।"
+      },
+      {
+        "en": "She stood firm with zeal.",
+        "bn": "সে সংগ্রামের মনোভাব নিয়ে দৃঢ় থাকল।"
+      },
+      {
+        "en": "His zeal turned failure into success.",
+        "bn": "তার সংগ্রামের মনোভাব ব্যর্থতাকে সাফল্যে পরিণত করল।"
+      },
+      {
+        "en": "She maintained her zeal under pressure.",
+        "bn": "চাপের মধ্যে সে সংগ্রামের মনোভাব বজায় রাখল।"
+      },
+      {
+        "en": "He fought with zeal against injustice.",
+        "bn": "সে অন্যায়ের বিরুদ্ধে সংগ্রামের মনোভাব নিয়ে লড়াই করল।"
+      },
+      {
+        "en": "Zeal in battle determines outcome.",
+        "bn": "যুদ্ধে সংগ্রামের মনোভাব ফলাফল নির্ধারণ করে।"
+      },
+      {
+        "en": "She never gave up her zeal.",
+        "bn": "সে কখনো সংগ্রামের মনোভাব ছেড়ে দেয়নি।"
+      },
+      {
+        "en": "His zeal for the fight was unbreakable.",
+        "bn": "লড়াইয়ের প্রতি তার সংগ্রামের মনোভাব অটুট ছিল।"
+      }
+    ],
+    "synonyms": [
+      "fighting spirit",
+      "tenacity",
+      "grit",
+      "resilience",
+      "determination"
+    ]
+  },
+  {
+    "base": "zealous",
+    "phonetic": "ˈzeləs",
+    "meaning": "উৎসাহের সাথে কাজ করা",
+    "examples": [
+      {
+        "en": "She was zealous in completing goals.",
+        "bn": "লক্ষ্য পূরণে সে উৎসাহের সাথে কাজ করল।"
+      },
+      {
+        "en": "He zealously defended his position.",
+        "bn": "সে উৎসাহের সাথে তার অবস্থান রক্ষা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She was zealous in every meeting.",
+        "bn": "প্রতিটি সভায় সে উৎসাহের সাথে কাজ করল।"
+      },
+      {
+        "en": "He fought zealously for his team.",
+        "bn": "সে তার দলের জন্য উৎসাহের সাথে লড়াই করল।"
+      },
+      {
+        "en": "She zealously promoted the project.",
+        "bn": "সে উৎসাহের সাথে প্রকল্প প্রচার করল।"
+      },
+      {
+        "en": "He was zealous in every detail.",
+        "bn": "প্রতিটি বিস্তারিতে সে উৎসাহের সাথে কাজ করল।"
+      },
+      {
+        "en": "She worked zealously day and night.",
+        "bn": "সে দিনরাত উৎসাহের সাথে কাজ করল।"
+      },
+      {
+        "en": "He zealously committed to the cause.",
+        "bn": "সে উৎসাহের সাথে কারণে নিজেকে নিবেদিত করল।"
+      },
+      {
+        "en": "She was zealous in her advocacy.",
+        "bn": "সমর্থনে সে উৎসাহের সাথে কাজ করল।"
+      },
+      {
+        "en": "He zealously supported the team.",
+        "bn": "সে উৎসাহের সাথে দলকে সহায়তা করল।"
+      },
+      {
+        "en": "Zealously done work stands out.",
+        "bn": "উৎসাহের সাথে করা কাজ আলাদাভাবে দেখা যায়।"
+      },
+      {
+        "en": "She was zealous in every pursuit.",
+        "bn": "প্রতিটি সাধনায় সে উৎসাহের সাথে কাজ করল।"
+      }
+    ],
+    "synonyms": [
+      "diligently",
+      "energetically",
+      "passionately",
+      "actively",
+      "fervently"
+    ]
   }
 ]

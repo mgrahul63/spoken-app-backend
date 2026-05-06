@@ -100,5 +100,2235 @@
       }
     ],
     "synonyms": ["instrument"]
+  },
+
+  {
+    "base": "x-ray",
+    "phonetic": "ˈeksreɪ",
+    "meaning": "এক্স-রে / বিকিরণ চিত্র",
+    "examples": [
+      {
+        "en": "The doctor took an x-ray of her chest.",
+        "bn": "ডাক্তার তার বুকের এক্স-রে নিলেন।"
+      },
+      {
+        "en": "He needed an x-ray after the accident.",
+        "bn": "দুর্ঘটনার পরে তার এক্স-রে দরকার হল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The x-ray showed a broken bone.",
+        "bn": "এক্স-রেতে ভাঙা হাড় দেখা গেল।"
+      },
+      {
+        "en": "She had her teeth x-rayed.",
+        "bn": "তার দাঁতের এক্স-রে নেওয়া হল।"
+      },
+      {
+        "en": "The airport uses x-ray machines.",
+        "bn": "বিমানবন্দর এক্স-রে মেশিন ব্যবহার করে।"
+      },
+      {
+        "en": "He was asked to get an x-ray done.",
+        "bn": "তাকে এক্স-রে করাতে বলা হল।"
+      },
+      {
+        "en": "The x-ray results came back normal.",
+        "bn": "এক্স-রের ফলাফল স্বাভাবিক এল।"
+      },
+      {
+        "en": "She studied the x-ray carefully.",
+        "bn": "সে সাবধানে এক্স-রেটি পরীক্ষা করল।"
+      },
+      {
+        "en": "X-rays help detect diseases.",
+        "bn": "এক্স-রে রোগ শনাক্ত করতে সাহায্য করে।"
+      },
+      {
+        "en": "The technician operated the x-ray machine.",
+        "bn": "কারিগর এক্স-রে মেশিন পরিচালনা করল।"
+      },
+      {
+        "en": "His lungs were clear on the x-ray.",
+        "bn": "এক্স-রেতে তার ফুসফুস পরিষ্কার ছিল।"
+      },
+      {
+        "en": "They x-rayed the luggage at customs.",
+        "bn": "শুল্কে তারা লাগেজের এক্স-রে নিল।"
+      }
+    ],
+    "synonyms": ["radiograph", "scan", "radiogram", "fluoroscopy", "imaging"]
+  },
+  {
+    "base": "xylophone",
+    "phonetic": "ˈzaɪləfəʊn",
+    "meaning": "জাইলোফোন / একটি বাদ্যযন্ত্র",
+    "examples": [
+      {
+        "en": "She played the xylophone beautifully.",
+        "bn": "সে জাইলোফোন সুন্দরভাবে বাজাল।"
+      },
+      {
+        "en": "The child loved the xylophone.",
+        "bn": "শিশুটি জাইলোফোন পছন্দ করত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He learned to play the xylophone.",
+        "bn": "সে জাইলোফোন বাজাতে শিখল।"
+      },
+      {
+        "en": "The xylophone has wooden bars.",
+        "bn": "জাইলোফোনে কাঠের পাত থাকে।"
+      },
+      {
+        "en": "She bought a xylophone for her daughter.",
+        "bn": "সে মেয়ের জন্য একটি জাইলোফোন কিনল।"
+      },
+      {
+        "en": "The band included a xylophone player.",
+        "bn": "দলে একজন জাইলোফোন বাদক ছিল।"
+      },
+      {
+        "en": "He hit the xylophone bars with mallets.",
+        "bn": "সে মেলেট দিয়ে জাইলোফোনের পাত আঘাত করল।"
+      },
+      {
+        "en": "The xylophone produces a bright sound.",
+        "bn": "জাইলোফোন উজ্জ্বল শব্দ উৎপন্ন করে।"
+      },
+      {
+        "en": "She used a xylophone in the performance.",
+        "bn": "সে পরিবেশনায় জাইলোফোন ব্যবহার করল।"
+      },
+      {
+        "en": "The xylophone is often used in music education.",
+        "bn": "সঙ্গীত শিক্ষায় জাইলোফোন প্রায়ই ব্যবহার করা হয়।"
+      },
+      {
+        "en": "He tuned the xylophone before the concert.",
+        "bn": "কনসার্টের আগে সে জাইলোফোন সুর করল।"
+      },
+      {
+        "en": "The children enjoyed the xylophone music.",
+        "bn": "শিশুরা জাইলোফোনের সঙ্গীত উপভোগ করল।"
+      }
+    ],
+    "synonyms": [
+      "percussion instrument",
+      "marimba",
+      "vibraphone",
+      "metallophone",
+      "glockenspiel"
+    ]
+  },
+  {
+    "base": "xenophobia",
+    "phonetic": "ˌzenəˈfəʊbiə",
+    "meaning": "বিদেশী-ভীতি / অপরিচিত-ভীতি",
+    "examples": [
+      {
+        "en": "Xenophobia is a serious social problem.",
+        "bn": "বিদেশী-ভীতি একটি গুরুতর সামাজিক সমস্যা।"
+      },
+      {
+        "en": "He spoke against xenophobia.",
+        "bn": "সে বিদেশী-ভীতির বিরুদ্ধে কথা বলল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xenophobia leads to discrimination.",
+        "bn": "বিদেশী-ভীতি বৈষম্যের দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "She campaigned against xenophobia.",
+        "bn": "সে বিদেশী-ভীতির বিরুদ্ধে প্রচার করল।"
+      },
+      {
+        "en": "Xenophobia is fueled by ignorance.",
+        "bn": "অজ্ঞতা থেকে বিদেশী-ভীতি তৈরি হয়।"
+      },
+      {
+        "en": "He experienced xenophobia abroad.",
+        "bn": "সে বিদেশে বিদেশী-ভীতির শিকার হল।"
+      },
+      {
+        "en": "Education helps reduce xenophobia.",
+        "bn": "শিক্ষা বিদেশী-ভীতি কমাতে সাহায্য করে।"
+      },
+      {
+        "en": "She wrote about the dangers of xenophobia.",
+        "bn": "সে বিদেশী-ভীতির বিপদ সম্পর্কে লিখল।"
+      },
+      {
+        "en": "Xenophobia divides communities.",
+        "bn": "বিদেশী-ভীতি সম্প্রদায়কে বিভক্ত করে।"
+      },
+      {
+        "en": "He condemned xenophobia strongly.",
+        "bn": "সে জোরালোভাবে বিদেশী-ভীতির নিন্দা করল।"
+      },
+      {
+        "en": "Xenophobia has no place in society.",
+        "bn": "সমাজে বিদেশী-ভীতির কোনো স্থান নেই।"
+      },
+      {
+        "en": "She overcame xenophobia through travel.",
+        "bn": "ভ্রমণের মাধ্যমে সে বিদেশী-ভীতি কাটিয়ে উঠল।"
+      }
+    ],
+    "synonyms": [
+      "racism",
+      "bigotry",
+      "intolerance",
+      "prejudice",
+      "discrimination"
+    ]
+  },
+  {
+    "base": "xenophobic",
+    "phonetic": "ˌzenəˈfəʊbɪk",
+    "meaning": "বিদেশী-বিদ্বেষী",
+    "examples": [
+      {
+        "en": "His xenophobic remarks offended many.",
+        "bn": "তার বিদেশী-বিদ্বেষী মন্তব্য অনেককে আহত করল।"
+      },
+      {
+        "en": "She challenged xenophobic attitudes.",
+        "bn": "সে বিদেশী-বিদ্বেষী মনোভাব চ্যালেঞ্জ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xenophobic behavior is unacceptable.",
+        "bn": "বিদেশী-বিদ্বেষী আচরণ গ্রহণযোগ্য নয়।"
+      },
+      {
+        "en": "He held xenophobic views.",
+        "bn": "তার বিদেশী-বিদ্বেষী মত ছিল।"
+      },
+      {
+        "en": "She was labeled xenophobic unfairly.",
+        "bn": "তাকে অন্যায়ভাবে বিদেশী-বিদ্বেষী বলা হল।"
+      },
+      {
+        "en": "Xenophobic policies harm immigrants.",
+        "bn": "বিদেশী-বিদ্বেষী নীতি অভিবাসীদের ক্ষতি করে।"
+      },
+      {
+        "en": "He rejected xenophobic ideology.",
+        "bn": "সে বিদেশী-বিদ্বেষী মতাদর্শ প্রত্যাখ্যান করল।"
+      },
+      {
+        "en": "She spoke out against xenophobic laws.",
+        "bn": "সে বিদেশী-বিদ্বেষী আইনের বিরুদ্ধে কথা বলল।"
+      },
+      {
+        "en": "Xenophobic violence must be stopped.",
+        "bn": "বিদেশী-বিদ্বেষী সহিংসতা বন্ধ করতে হবে।"
+      },
+      {
+        "en": "He grew up in a xenophobic environment.",
+        "bn": "সে বিদেশী-বিদ্বেষী পরিবেশে বড় হয়েছিল।"
+      },
+      {
+        "en": "Xenophobic language is harmful.",
+        "bn": "বিদেশী-বিদ্বেষী ভাষা ক্ষতিকর।"
+      },
+      {
+        "en": "She educated others about xenophobic thinking.",
+        "bn": "সে অন্যদের বিদেশী-বিদ্বেষী চিন্তা সম্পর্কে শিক্ষিত করল।"
+      }
+    ],
+    "synonyms": [
+      "bigoted",
+      "intolerant",
+      "racist",
+      "prejudiced",
+      "narrow-minded"
+    ]
+  },
+  {
+    "base": "xerox",
+    "phonetic": "ˈzɪərɒks",
+    "meaning": "ফটোকপি করা / জেরক্স",
+    "examples": [
+      { "en": "Please xerox this document.", "bn": "এই নথিটির ফটোকপি করুন।" },
+      {
+        "en": "She made a xerox of the form.",
+        "bn": "সে ফর্মের একটি জেরক্স কপি করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He xeroxed the report for everyone.",
+        "bn": "সে সবার জন্য রিপোর্টের জেরক্স করল।"
+      },
+      {
+        "en": "The xerox machine was broken.",
+        "bn": "জেরক্স মেশিনটি নষ্ট ছিল।"
+      },
+      {
+        "en": "She needed a xerox of her passport.",
+        "bn": "তার পাসপোর্টের একটি জেরক্স দরকার ছিল।"
+      },
+      {
+        "en": "He went to xerox his certificates.",
+        "bn": "সে সার্টিফিকেটের জেরক্স করতে গেল।"
+      },
+      {
+        "en": "The office ran out of xerox paper.",
+        "bn": "অফিসে জেরক্স কাগজ শেষ হয়ে গেল।"
+      },
+      {
+        "en": "She xeroxed ten copies of the letter.",
+        "bn": "সে চিঠির দশটি জেরক্স কপি করল।"
+      },
+      {
+        "en": "He submitted a xerox instead of the original.",
+        "bn": "সে আসলের বদলে জেরক্স জমা দিল।"
+      },
+      {
+        "en": "The xerox quality was very poor.",
+        "bn": "জেরক্সের মান অনেক খারাপ ছিল।"
+      },
+      {
+        "en": "She used the xerox machine daily.",
+        "bn": "সে প্রতিদিন জেরক্স মেশিন ব্যবহার করত।"
+      },
+      {
+        "en": "He collected all the xeroxed papers.",
+        "bn": "সে সমস্ত জেরক্স করা কাগজ সংগ্রহ করল।"
+      }
+    ],
+    "synonyms": ["photocopy", "duplicate", "copy", "reproduce", "print"]
+  },
+  {
+    "base": "xenial",
+    "phonetic": "ˈziːniəl",
+    "meaning": "অতিথিপরায়ণ / অতিথিসেবী",
+    "examples": [
+      {
+        "en": "She was known for her xenial nature.",
+        "bn": "তার অতিথিপরায়ণ স্বভাবের জন্য সে পরিচিত ছিল।"
+      },
+      {
+        "en": "He welcomed guests with xenial warmth.",
+        "bn": "সে অতিথিসেবী উষ্ণতায় অতিথিদের স্বাগত জানাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The xenial host made everyone comfortable.",
+        "bn": "অতিথিপরায়ণ আয়োজক সবাইকে স্বাচ্ছন্দ্যে রাখলেন।"
+      },
+      {
+        "en": "She has a xenial personality.",
+        "bn": "তার একটি অতিথিপরায়ণ ব্যক্তিত্ব আছে।"
+      },
+      {
+        "en": "He showed xenial behavior to strangers.",
+        "bn": "সে অপরিচিতদের প্রতি অতিথিসেবী আচরণ দেখাল।"
+      },
+      {
+        "en": "The culture is known for being xenial.",
+        "bn": "সংস্কৃতিটি অতিথিপরায়ণ হওয়ার জন্য পরিচিত।"
+      },
+      {
+        "en": "She gave a xenial greeting.",
+        "bn": "সে অতিথিসেবী অভিনন্দন জানাল।"
+      },
+      {
+        "en": "His xenial attitude made guests feel at home.",
+        "bn": "তার অতিথিপরায়ণ মনোভাব অতিথিদের ঘরে থাকার মতো অনুভব করাল।"
+      },
+      {
+        "en": "The xenial family offered food and shelter.",
+        "bn": "অতিথিপরায়ণ পরিবার খাবার ও আশ্রয় দিল।"
+      },
+      {
+        "en": "She practiced a xenial lifestyle.",
+        "bn": "সে অতিথিসেবী জীবনধারা চর্চা করত।"
+      },
+      {
+        "en": "He was praised for his xenial spirit.",
+        "bn": "অতিথিপরায়ণ মনোভাবের জন্য সে প্রশংসিত হল।"
+      },
+      {
+        "en": "A xenial community welcomes everyone.",
+        "bn": "একটি অতিথিপরায়ণ সমাজ সবাইকে স্বাগত জানায়।"
+      }
+    ],
+    "synonyms": ["hospitable", "welcoming", "friendly", "generous", "warm"]
+  },
+  {
+    "base": "xeric",
+    "phonetic": "ˈzɪərɪk",
+    "meaning": "শুষ্ক / কম আর্দ্র",
+    "examples": [
+      {
+        "en": "The xeric climate supports few plants.",
+        "bn": "শুষ্ক জলবায়ুতে কম গাছপালা জন্মে।"
+      },
+      {
+        "en": "She studied xeric ecosystems.",
+        "bn": "সে শুষ্ক বাস্তুতন্ত্র অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Cacti thrive in xeric conditions.",
+        "bn": "ক্যাকটাস শুষ্ক পরিবেশে সমৃদ্ধ হয়।"
+      },
+      {
+        "en": "He researched xeric habitats.",
+        "bn": "সে শুষ্ক আবাসস্থল গবেষণা করল।"
+      },
+      {
+        "en": "Xeric plants need very little water.",
+        "bn": "শুষ্ক পরিবেশের গাছপালার অল্প পানি লাগে।"
+      },
+      {
+        "en": "The xeric region gets little rainfall.",
+        "bn": "শুষ্ক অঞ্চলে সামান্য বৃষ্টিপাত হয়।"
+      },
+      {
+        "en": "She adapted her garden to xeric conditions.",
+        "bn": "সে তার বাগান শুষ্ক পরিবেশে মানিয়ে নিল।"
+      },
+      {
+        "en": "Xeric landscapes are often barren.",
+        "bn": "শুষ্ক ভূদৃশ্য প্রায়ই অনুর্বর।"
+      },
+      {
+        "en": "He studied the xeric soil composition.",
+        "bn": "সে শুষ্ক মাটির গঠন অধ্যয়ন করল।"
+      },
+      {
+        "en": "Animals in xeric zones are adapted.",
+        "bn": "শুষ্ক অঞ্চলের প্রাণী অভিযোজিত।"
+      },
+      {
+        "en": "The xeric biome is fascinating.",
+        "bn": "শুষ্ক জীবমণ্ডল আকর্ষণীয়।"
+      },
+      {
+        "en": "She preferred xeric plants for her home.",
+        "bn": "বাড়ির জন্য সে শুষ্ক পরিবেশের গাছ পছন্দ করল।"
+      }
+    ],
+    "synonyms": ["dry", "arid", "drought-resistant", "parched", "desiccated"]
+  },
+  {
+    "base": "xenon",
+    "phonetic": "ˈzenɒn",
+    "meaning": "জেনন / একটি রাসায়নিক মৌল",
+    "examples": [
+      { "en": "Xenon is a noble gas.", "bn": "জেনন একটি নিষ্ক্রিয় গ্যাস।" },
+      {
+        "en": "Xenon is used in car headlights.",
+        "bn": "গাড়ির হেডলাইটে জেনন ব্যবহার করা হয়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xenon lamps produce bright light.",
+        "bn": "জেনন বাতি উজ্জ্বল আলো উৎপন্ন করে।"
+      },
+      {
+        "en": "The scientist studied xenon's properties.",
+        "bn": "বিজ্ঞানী জেননের বৈশিষ্ট্য অধ্যয়ন করলেন।"
+      },
+      {
+        "en": "Xenon is rare in the atmosphere.",
+        "bn": "বায়ুমণ্ডলে জেনন বিরল।"
+      },
+      {
+        "en": "She learned about xenon in chemistry.",
+        "bn": "সে রসায়নে জেনন সম্পর্কে শিখল।"
+      },
+      {
+        "en": "Xenon has the atomic number 54.",
+        "bn": "জেননের পারমাণবিক সংখ্যা ৫৪।"
+      },
+      {
+        "en": "He used xenon in his experiment.",
+        "bn": "সে পরীক্ষায় জেনন ব্যবহার করল।"
+      },
+      {
+        "en": "Xenon is odorless and colorless.",
+        "bn": "জেনন গন্ধহীন ও বর্ণহীন।"
+      },
+      { "en": "The symbol for xenon is Xe.", "bn": "জেননের প্রতীক Xe।" },
+      {
+        "en": "She wrote a report about xenon.",
+        "bn": "সে জেনন সম্পর্কে একটি প্রতিবেদন লিখল।"
+      },
+      {
+        "en": "Xenon is used in medical imaging.",
+        "bn": "চিকিৎসা চিত্রায়নে জেনন ব্যবহার করা হয়।"
+      }
+    ],
+    "synonyms": ["noble gas", "inert gas", "element 54", "Xe", "rare gas"]
+  },
+  {
+    "base": "xanthic",
+    "phonetic": "ˈzænθɪk",
+    "meaning": "হলুদাভ / হলুদ রঙের",
+    "examples": [
+      { "en": "The flower had a xanthic hue.", "bn": "ফুলটির হলুদাভ আভা ছিল।" },
+      {
+        "en": "He painted the wall with a xanthic tone.",
+        "bn": "সে হলুদাভ রঙে দেয়াল রং করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The xanthic leaves turned gold in autumn.",
+        "bn": "হলুদাভ পাতা শরতে সোনালি হয়ে গেল।"
+      },
+      { "en": "She wore a xanthic dress.", "bn": "সে একটি হলুদাভ পোশাক পরল।" },
+      {
+        "en": "The xanthic light filled the room.",
+        "bn": "হলুদাভ আলো ঘর ভরিয়ে তুলল।"
+      },
+      {
+        "en": "He noticed a xanthic tint in the painting.",
+        "bn": "সে চিত্রকর্মে হলুদাভ আভা লক্ষ্য করল।"
+      },
+      {
+        "en": "The xanthic sunset was breathtaking.",
+        "bn": "হলুদাভ সূর্যাস্ত অপূর্ব ছিল।"
+      },
+      {
+        "en": "She described the xanthic color accurately.",
+        "bn": "সে হলুদাভ রঙ সঠিকভাবে বর্ণনা করল।"
+      },
+      {
+        "en": "The xanthic butterfly was rare.",
+        "bn": "হলুদাভ প্রজাপতিটি বিরল ছিল।"
+      },
+      {
+        "en": "He used xanthic shades in his art.",
+        "bn": "সে শিল্পে হলুদাভ ছায়া ব্যবহার করল।"
+      },
+      {
+        "en": "The xanthic sky was beautiful.",
+        "bn": "হলুদাভ আকাশ সুন্দর ছিল।"
+      },
+      {
+        "en": "She was drawn to xanthic colors.",
+        "bn": "হলুদাভ রঙের প্রতি সে আকর্ষিত ছিল।"
+      }
+    ],
+    "synonyms": ["yellowish", "golden", "amber", "saffron", "tawny"]
+  },
+  {
+    "base": "xanadu",
+    "phonetic": "ˈzænəduː",
+    "meaning": "স্বপ্নের জায়গা / কল্পিত স্বর্গ",
+    "examples": [
+      {
+        "en": "The resort was like a xanadu.",
+        "bn": "রিসোর্টটি একটি স্বপ্নের জায়গার মতো ছিল।"
+      },
+      {
+        "en": "She dreamed of finding her xanadu.",
+        "bn": "সে তার কল্পিত স্বর্গ খুঁজে পাওয়ার স্বপ্ন দেখল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The garden felt like a xanadu.",
+        "bn": "বাগানটি স্বপ্নের জায়গার মতো মনে হল।"
+      },
+      {
+        "en": "He created his own xanadu at home.",
+        "bn": "সে বাড়িতে নিজের কল্পিত স্বর্গ তৈরি করল।"
+      },
+      {
+        "en": "The island was their xanadu.",
+        "bn": "দ্বীপটি ছিল তাদের স্বপ্নের জায়গা।"
+      },
+      {
+        "en": "She found her xanadu in the mountains.",
+        "bn": "সে পাহাড়ে তার কল্পিত স্বর্গ খুঁজে পেল।"
+      },
+      {
+        "en": "The poem described a magical xanadu.",
+        "bn": "কবিতাটি একটি যাদুকরী স্বপ্নের জায়গা বর্ণনা করল।"
+      },
+      {
+        "en": "He wrote about his personal xanadu.",
+        "bn": "সে তার ব্যক্তিগত কল্পিত স্বর্গ সম্পর্কে লিখল।"
+      },
+      {
+        "en": "The city was a xanadu of culture.",
+        "bn": "শহরটি সংস্কৃতির স্বপ্নের জায়গা ছিল।"
+      },
+      {
+        "en": "She described the place as a xanadu.",
+        "bn": "সে জায়গাটিকে স্বপ্নের জায়গা বলে বর্ণনা করল।"
+      },
+      {
+        "en": "The village was a hidden xanadu.",
+        "bn": "গ্রামটি ছিল একটি লুকানো কল্পিত স্বর্গ।"
+      },
+      {
+        "en": "He always searched for his xanadu.",
+        "bn": "সে সবসময় তার স্বপ্নের জায়গা খুঁজত।"
+      }
+    ],
+    "synonyms": ["paradise", "utopia", "dreamland", "heaven", "sanctuary"]
+  },
+  {
+    "base": "xerography",
+    "phonetic": "zɪˈrɒɡrəfi",
+    "meaning": "শুষ্ক মুদ্রণ পদ্ধতি / জেরোগ্রাফি",
+    "examples": [
+      {
+        "en": "Xerography is used in modern printers.",
+        "bn": "আধুনিক প্রিন্টারে জেরোগ্রাফি ব্যবহার করা হয়।"
+      },
+      {
+        "en": "He studied the history of xerography.",
+        "bn": "সে জেরোগ্রাফির ইতিহাস অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xerography was invented in the 1930s.",
+        "bn": "জেরোগ্রাফি ১৯৩০-এর দশকে উদ্ভাবিত হয়েছিল।"
+      },
+      {
+        "en": "She learned about xerography in class.",
+        "bn": "সে ক্লাসে জেরোগ্রাফি সম্পর্কে শিখল।"
+      },
+      {
+        "en": "Xerography changed the printing industry.",
+        "bn": "জেরোগ্রাফি মুদ্রণ শিল্প পরিবর্তন করল।"
+      },
+      {
+        "en": "He explained how xerography works.",
+        "bn": "সে জেরোগ্রাফি কীভাবে কাজ করে তা ব্যাখ্যা করল।"
+      },
+      {
+        "en": "Xerography uses electrostatic charge.",
+        "bn": "জেরোগ্রাফি ইলেক্ট্রোস্ট্যাটিক চার্জ ব্যবহার করে।"
+      },
+      {
+        "en": "Modern copiers use xerography.",
+        "bn": "আধুনিক কপি মেশিন জেরোগ্রাফি ব্যবহার করে।"
+      },
+      {
+        "en": "She was amazed by xerography technology.",
+        "bn": "জেরোগ্রাফি প্রযুক্তিতে সে অবাক হয়ে গেল।"
+      },
+      {
+        "en": "Xerography made document copying easy.",
+        "bn": "জেরোগ্রাফি নথি কপি করা সহজ করল।"
+      },
+      {
+        "en": "He researched the impact of xerography.",
+        "bn": "সে জেরোগ্রাফির প্রভাব গবেষণা করল।"
+      },
+      {
+        "en": "Xerography remains widely used today.",
+        "bn": "জেরোগ্রাফি আজও ব্যাপকভাবে ব্যবহৃত হয়।"
+      }
+    ],
+    "synonyms": [
+      "photocopying",
+      "dry printing",
+      "electrophotography",
+      "copying",
+      "duplicating"
+    ]
+  },
+  {
+    "base": "xylem",
+    "phonetic": "ˈzaɪləm",
+    "meaning": "জাইলেম / গাছের পানি পরিবহন কলা",
+    "examples": [
+      {
+        "en": "Xylem carries water from roots to leaves.",
+        "bn": "জাইলেম শিকড় থেকে পাতায় পানি বহন করে।"
+      },
+      {
+        "en": "She studied xylem in biology class.",
+        "bn": "সে জীববিজ্ঞান ক্লাসে জাইলেম অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xylem tissue is essential for plants.",
+        "bn": "জাইলেম কলা গাছের জন্য অপরিহার্য।"
+      },
+      {
+        "en": "He explained xylem to the students.",
+        "bn": "সে শিক্ষার্থীদের জাইলেম ব্যাখ্যা করল।"
+      },
+      {
+        "en": "Water moves through xylem upward.",
+        "bn": "পানি জাইলেমের মাধ্যমে উপরের দিকে চলে।"
+      },
+      {
+        "en": "The xylem vessels were examined under a microscope.",
+        "bn": "জাইলেম নালী মাইক্রোস্কোপের নিচে পরীক্ষা করা হল।"
+      },
+      {
+        "en": "Xylem and phloem are plant transport systems.",
+        "bn": "জাইলেম ও ফ্লোয়েম গাছের পরিবহন ব্যবস্থা।"
+      },
+      {
+        "en": "She drew a diagram of xylem.",
+        "bn": "সে জাইলেমের একটি ডায়াগ্রাম আঁকল।"
+      },
+      {
+        "en": "Dead xylem cells form wood.",
+        "bn": "মৃত জাইলেম কোষ কাঠ তৈরি করে।"
+      },
+      {
+        "en": "He noted the structure of xylem.",
+        "bn": "সে জাইলেমের গঠন লক্ষ্য করল।"
+      },
+      {
+        "en": "Xylem is found in all vascular plants.",
+        "bn": "সমস্ত ভাস্কুলার গাছে জাইলেম পাওয়া যায়।"
+      },
+      {
+        "en": "She presented her findings on xylem.",
+        "bn": "সে জাইলেম সম্পর্কে তার ফলাফল উপস্থাপন করল।"
+      }
+    ],
+    "synonyms": [
+      "vascular tissue",
+      "water-conducting tissue",
+      "wood tissue",
+      "plant vessel",
+      "transport tissue"
+    ]
+  },
+  {
+    "base": "xenophile",
+    "phonetic": "ˈzenəfaɪl",
+    "meaning": "বিদেশী-প্রেমী / ভিনদেশী সংস্কৃতিতে আগ্রহী",
+    "examples": [
+      {
+        "en": "She is a xenophile who loves foreign cultures.",
+        "bn": "সে একজন বিদেশী-প্রেমী যে বিদেশী সংস্কৃতি ভালোবাসে।"
+      },
+      {
+        "en": "As a xenophile, he traveled widely.",
+        "bn": "একজন বিদেশী-প্রেমী হিসেবে সে ব্যাপকভাবে ভ্রমণ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A xenophile embraces diversity.",
+        "bn": "একজন বিদেশী-প্রেমী বৈচিত্র্যকে আলিঙ্গন করে।"
+      },
+      {
+        "en": "She became a xenophile through her studies.",
+        "bn": "পড়াশোনার মাধ্যমে সে বিদেশী-প্রেমী হয়ে উঠল।"
+      },
+      {
+        "en": "He was a true xenophile.",
+        "bn": "সে একজন সত্যিকারের বিদেশী-প্রেমী ছিল।"
+      },
+      {
+        "en": "A xenophile enjoys learning new languages.",
+        "bn": "একজন বিদেশী-প্রেমী নতুন ভাষা শিখতে উপভোগ করে।"
+      },
+      {
+        "en": "She was a xenophile at heart.",
+        "bn": "সে মনে মনে একজন বিদেশী-প্রেমী ছিল।"
+      },
+      {
+        "en": "As a xenophile, she tried every foreign cuisine.",
+        "bn": "বিদেশী-প্রেমী হিসেবে সে প্রতিটি বিদেশী খাবার চেষ্টা করল।"
+      },
+      {
+        "en": "He is a known xenophile in his community.",
+        "bn": "তার সমাজে সে একজন পরিচিত বিদেশী-প্রেমী।"
+      },
+      {
+        "en": "A xenophile sees strangers as friends.",
+        "bn": "একজন বিদেশী-প্রেমী অপরিচিতদের বন্ধু হিসেবে দেখে।"
+      },
+      {
+        "en": "She surrounded herself with xenophile friends.",
+        "bn": "সে নিজেকে বিদেশী-প্রেমী বন্ধুদের দিয়ে ঘিরে রাখল।"
+      },
+      {
+        "en": "Being a xenophile enriched his life.",
+        "bn": "বিদেশী-প্রেমী হওয়া তার জীবনকে সমৃদ্ধ করল।"
+      }
+    ],
+    "synonyms": [
+      "cosmopolitan",
+      "open-minded",
+      "culture-lover",
+      "globalist",
+      "multiculturalist"
+    ]
+  },
+  {
+    "base": "xylography",
+    "phonetic": "zaɪˈlɒɡrəfi",
+    "meaning": "কাঠ খোদাই মুদ্রণ",
+    "examples": [
+      {
+        "en": "Xylography is an ancient printing method.",
+        "bn": "জাইলোগ্রাফি একটি প্রাচীন মুদ্রণ পদ্ধতি।"
+      },
+      {
+        "en": "She studied xylography at art school.",
+        "bn": "সে শিল্প বিদ্যালয়ে জাইলোগ্রাফি অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xylography originated in ancient China.",
+        "bn": "জাইলোগ্রাফির উৎপত্তি প্রাচীন চীনে।"
+      },
+      {
+        "en": "He practiced xylography for years.",
+        "bn": "সে বছরের পর বছর জাইলোগ্রাফি চর্চা করল।"
+      },
+      {
+        "en": "Xylography uses carved wooden blocks.",
+        "bn": "জাইলোগ্রাফিতে খোদাই করা কাঠের ব্লক ব্যবহার করা হয়।"
+      },
+      {
+        "en": "She created beautiful xylography prints.",
+        "bn": "সে সুন্দর জাইলোগ্রাফি ছাপ তৈরি করল।"
+      },
+      {
+        "en": "He learned xylography from his grandfather.",
+        "bn": "সে দাদার কাছ থেকে জাইলোগ্রাফি শিখল।"
+      },
+      {
+        "en": "Xylography was used before metal printing.",
+        "bn": "ধাতব মুদ্রণের আগে জাইলোগ্রাফি ব্যবহার হত।"
+      },
+      {
+        "en": "The museum displayed ancient xylography works.",
+        "bn": "জাদুঘরে প্রাচীন জাইলোগ্রাফি কাজ প্রদর্শিত হল।"
+      },
+      {
+        "en": "She explained xylography to the class.",
+        "bn": "সে ক্লাসে জাইলোগ্রাফি ব্যাখ্যা করল।"
+      },
+      {
+        "en": "Xylography requires great skill.",
+        "bn": "জাইলোগ্রাফিতে অনেক দক্ষতা দরকার।"
+      },
+      {
+        "en": "He was an expert in xylography.",
+        "bn": "সে জাইলোগ্রাফিতে বিশেষজ্ঞ ছিল।"
+      }
+    ],
+    "synonyms": [
+      "woodblock printing",
+      "wood engraving",
+      "woodcut",
+      "block printing",
+      "relief printing"
+    ]
+  },
+  {
+    "base": "xenobiotic",
+    "phonetic": "ˌzenəʊbaɪˈɒtɪk",
+    "meaning": "বাইরের রাসায়নিক পদার্থ / পরিবেশ-বিদেশী",
+    "examples": [
+      {
+        "en": "Xenobiotics can harm the environment.",
+        "bn": "বাইরের রাসায়নিক পদার্থ পরিবেশের ক্ষতি করতে পারে।"
+      },
+      {
+        "en": "She studied xenobiotic compounds.",
+        "bn": "সে বাইরের রাসায়নিক যৌগ অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xenobiotics are foreign substances to organisms.",
+        "bn": "জীবের কাছে পরিবেশ-বিদেশী পদার্থ হলো বাইরের পদার্থ।"
+      },
+      {
+        "en": "He researched how xenobiotics affect health.",
+        "bn": "সে বাইরের রাসায়নিক কীভাবে স্বাস্থ্যকে প্রভাবিত করে তা গবেষণা করল।"
+      },
+      {
+        "en": "Pesticides are common xenobiotics.",
+        "bn": "কীটনাশক সাধারণ বাইরের রাসায়নিক পদার্থ।"
+      },
+      {
+        "en": "The liver processes xenobiotic substances.",
+        "bn": "যকৃত বাইরের রাসায়নিক পদার্থ প্রক্রিয়া করে।"
+      },
+      {
+        "en": "She measured xenobiotic levels in water.",
+        "bn": "সে পানিতে বাইরের রাসায়নিকের মাত্রা পরিমাপ করল।"
+      },
+      {
+        "en": "Xenobiotic pollution is a growing concern.",
+        "bn": "পরিবেশ-বিদেশী দূষণ ক্রমবর্ধমান উদ্বেগের বিষয়।"
+      },
+      {
+        "en": "He studied xenobiotic metabolism.",
+        "bn": "সে বাইরের রাসায়নিকের বিপাক অধ্যয়ন করল।"
+      },
+      {
+        "en": "Xenobiotics can accumulate in the food chain.",
+        "bn": "বাইরের রাসায়নিক খাদ্য শৃঙ্খলে জমতে পারে।"
+      },
+      {
+        "en": "She tested for xenobiotic contamination.",
+        "bn": "সে পরিবেশ-বিদেশী দূষণের পরীক্ষা করল।"
+      },
+      {
+        "en": "Xenobiotics include drugs and pollutants.",
+        "bn": "বাইরের রাসায়নিকের মধ্যে ওষুধ ও দূষণকারী পদার্থ অন্তর্ভুক্ত।"
+      }
+    ],
+    "synonyms": [
+      "foreign substance",
+      "chemical pollutant",
+      "non-natural compound",
+      "environmental chemical",
+      "exogenous substance"
+    ]
+  },
+  {
+    "base": "xeric",
+    "phonetic": "ˈzɪərɪk",
+    "meaning": "মরুভূমি-সদৃশ",
+    "examples": [
+      {
+        "en": "The xeric desert had few living things.",
+        "bn": "মরুভূমি-সদৃশ মরুভূমিতে কম প্রাণী ছিল।"
+      },
+      {
+        "en": "He adapted to the xeric environment.",
+        "bn": "সে মরুভূমি-সদৃশ পরিবেশে মানিয়ে নিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xeric zones receive minimal rainfall.",
+        "bn": "মরুভূমি-সদৃশ অঞ্চলে সামান্য বৃষ্টিপাত হয়।"
+      },
+      {
+        "en": "She gardened using xeric plants.",
+        "bn": "সে মরুভূমি-সদৃশ গাছ ব্যবহার করে বাগান করল।"
+      },
+      {
+        "en": "The xeric biome supports unique wildlife.",
+        "bn": "মরুভূমি-সদৃশ জীবমণ্ডল অনন্য বন্যপ্রাণী ধারণ করে।"
+      },
+      {
+        "en": "He designed a xeric landscaping plan.",
+        "bn": "সে মরুভূমি-সদৃশ ভূদৃশ্য পরিকল্পনা তৈরি করল।"
+      },
+      {
+        "en": "Xeric areas have high evaporation rates.",
+        "bn": "মরুভূমি-সদৃশ এলাকায় উচ্চ বাষ্পীভবন হার থাকে।"
+      },
+      {
+        "en": "She studied xeric organisms.",
+        "bn": "সে মরুভূমি-সদৃশ পরিবেশের জীব অধ্যয়ন করল।"
+      },
+      {
+        "en": "Xeric conditions challenge most plants.",
+        "bn": "মরুভূমি-সদৃশ পরিস্থিতি অধিকাংশ গাছকে চ্যালেঞ্জ করে।"
+      },
+      {
+        "en": "He documented xeric vegetation.",
+        "bn": "সে মরুভূমি-সদৃশ গাছপালা নথিভুক্ত করল।"
+      },
+      {
+        "en": "Xeric shrubs dotted the hillside.",
+        "bn": "মরুভূমি-সদৃশ ঝোপঝাড় পাহাড়ের ঢালে ছড়িয়ে ছিল।"
+      },
+      {
+        "en": "She photographed the xeric landscape.",
+        "bn": "সে মরুভূমি-সদৃশ ভূদৃশ্যের ছবি তুলল।"
+      }
+    ],
+    "synonyms": ["arid", "desert-like", "dry", "waterless", "barren"]
+  },
+  {
+    "base": "xyster",
+    "phonetic": "ˈzɪstər",
+    "meaning": "হাড় ঘষার শল্যচিকিৎসা যন্ত্র",
+    "examples": [
+      {
+        "en": "The surgeon used a xyster carefully.",
+        "bn": "শল্যচিকিৎসক সাবধানে জাইস্টার ব্যবহার করলেন।"
+      },
+      {
+        "en": "A xyster is used in bone surgery.",
+        "bn": "হাড়ের অস্ত্রোপচারে জাইস্টার ব্যবহার করা হয়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She learned about the xyster in medical school.",
+        "bn": "সে মেডিকেল স্কুলে জাইস্টার সম্পর্কে শিখল।"
+      },
+      {
+        "en": "The xyster scraped the bone surface.",
+        "bn": "জাইস্টারটি হাড়ের পৃষ্ঠ ঘষল।"
+      },
+      {
+        "en": "He sterilized the xyster before surgery.",
+        "bn": "অস্ত্রোপচারের আগে সে জাইস্টার জীবাণুমুক্ত করল।"
+      },
+      {
+        "en": "The xyster is an ancient surgical tool.",
+        "bn": "জাইস্টার একটি প্রাচীন শল্যচিকিৎসা যন্ত্র।"
+      },
+      {
+        "en": "She described how a xyster works.",
+        "bn": "সে বর্ণনা করল কীভাবে জাইস্টার কাজ করে।"
+      },
+      {
+        "en": "He studied the history of the xyster.",
+        "bn": "সে জাইস্টারের ইতিহাস অধ্যয়ন করল।"
+      },
+      {
+        "en": "The xyster helped smooth the damaged bone.",
+        "bn": "জাইস্টারটি ক্ষতিগ্রস্ত হাড় মসৃণ করতে সাহায্য করল।"
+      },
+      {
+        "en": "She placed the xyster with other instruments.",
+        "bn": "সে জাইস্টারটি অন্যান্য যন্ত্রপাতির সাথে রাখল।"
+      },
+      {
+        "en": "The xyster was made of stainless steel.",
+        "bn": "জাইস্টারটি স্টেইনলেস স্টিলের তৈরি ছিল।"
+      },
+      {
+        "en": "He demonstrated the use of a xyster.",
+        "bn": "সে জাইস্টারের ব্যবহার প্রদর্শন করল।"
+      }
+    ],
+    "synonyms": [
+      "bone scraper",
+      "surgical instrument",
+      "raspatory",
+      "bone file",
+      "medical tool"
+    ]
+  },
+  {
+    "base": "xerophyte",
+    "phonetic": "ˈzɪərəfaɪt",
+    "meaning": "শুষ্ক পরিবেশের গাছপালা",
+    "examples": [
+      {
+        "en": "Cacti are well-known xerophytes.",
+        "bn": "ক্যাকটাস সুপরিচিত শুষ্ক পরিবেশের গাছ।"
+      },
+      {
+        "en": "She studied xerophytes in botany.",
+        "bn": "সে উদ্ভিদবিজ্ঞানে শুষ্ক পরিবেশের গাছপালা অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xerophytes store water in their tissues.",
+        "bn": "শুষ্ক পরিবেশের গাছপালা তাদের কলায় পানি জমা রাখে।"
+      },
+      {
+        "en": "He identified several xerophytes in the desert.",
+        "bn": "সে মরুভূমিতে কয়েকটি শুষ্ক পরিবেশের গাছ চিহ্নিত করল।"
+      },
+      {
+        "en": "Xerophytes have thick waxy leaves.",
+        "bn": "শুষ্ক পরিবেশের গাছের মোটা মোমযুক্ত পাতা থাকে।"
+      },
+      {
+        "en": "She planted xerophytes in her dry garden.",
+        "bn": "সে শুষ্ক বাগানে শুষ্ক পরিবেশের গাছ লাগাল।"
+      },
+      {
+        "en": "Aloe vera is a common xerophyte.",
+        "bn": "অ্যালোভেরা একটি সাধারণ শুষ্ক পরিবেশের গাছ।"
+      },
+      {
+        "en": "He photographed xerophytes in the wild.",
+        "bn": "সে বনে শুষ্ক পরিবেশের গাছের ছবি তুলল।"
+      },
+      {
+        "en": "Xerophytes survive droughts easily.",
+        "bn": "শুষ্ক পরিবেশের গাছ সহজেই খরা সহ্য করে।"
+      },
+      {
+        "en": "She wrote about xerophytes and climate.",
+        "bn": "সে শুষ্ক পরিবেশের গাছ ও জলবায়ু সম্পর্কে লিখল।"
+      },
+      {
+        "en": "Xerophytes are adapted to low water.",
+        "bn": "শুষ্ক পরিবেশের গাছ কম পানিতে অভিযোজিত।"
+      },
+      {
+        "en": "He grew xerophytes in his collection.",
+        "bn": "সে তার সংগ্রহে শুষ্ক পরিবেশের গাছ জন্মাল।"
+      }
+    ],
+    "synonyms": [
+      "desert plant",
+      "drought-tolerant plant",
+      "succulent",
+      "arid plant",
+      "dry-adapted plant"
+    ]
+  },
+  {
+    "base": "xenomania",
+    "phonetic": "ˌzenəˈmeɪniə",
+    "meaning": "বিদেশী জিনিসের প্রতি অতিরিক্ত আগ্রহ",
+    "examples": [
+      {
+        "en": "His xenomania drove him to collect foreign art.",
+        "bn": "বিদেশী জিনিসের প্রতি অতিরিক্ত আগ্রহ তাকে বিদেশী শিল্প সংগ্রহ করতে চালিত করল।"
+      },
+      {
+        "en": "She was teased for her xenomania.",
+        "bn": "বিদেশী জিনিসের প্রতি অতিরিক্ত আগ্রহের জন্য তাকে ঠাট্টা করা হল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xenomania can lead to neglecting local culture.",
+        "bn": "বিদেশী জিনিসের প্রতি অতিরিক্ত আগ্রহ স্থানীয় সংস্কৃতি অবহেলার দিকে নিয়ে যেতে পারে।"
+      },
+      {
+        "en": "He was known for his xenomania.",
+        "bn": "বিদেশী জিনিসের প্রতি অতিরিক্ত আগ্রহের জন্য সে পরিচিত ছিল।"
+      },
+      {
+        "en": "Xenomania made her buy only imported goods.",
+        "bn": "বিদেশী জিনিসের প্রতি অতিরিক্ত আগ্রহ তাকে শুধুমাত্র আমদানি পণ্য কিনতে বাধ্য করল।"
+      },
+      {
+        "en": "His xenomania was evident in his home decor.",
+        "bn": "তার বাড়ির সাজসজ্জায় বিদেশী জিনিসের প্রতি অতিরিক্ত আগ্রহ স্পষ্ট ছিল।"
+      },
+      {
+        "en": "She overcame her xenomania over time.",
+        "bn": "সময়ের সাথে সাথে সে বিদেশী জিনিসের প্রতি অতিরিক্ত আগ্রহ কাটিয়ে উঠল।"
+      },
+      {
+        "en": "Xenomania is more common in young people.",
+        "bn": "তরুণদের মধ্যে বিদেশী জিনিসের প্রতি অতিরিক্ত আগ্রহ বেশি।"
+      },
+      {
+        "en": "He balanced his xenomania with local pride.",
+        "bn": "সে স্থানীয় গর্বের সাথে বিদেশী জিনিসের প্রতি অতিরিক্ত আগ্রহ সামলাল।"
+      },
+      {
+        "en": "Her xenomania led to learning five languages.",
+        "bn": "বিদেশী জিনিসের প্রতি অতিরিক্ত আগ্রহ তাকে পাঁচটি ভাষা শিখতে পরিচালিত করল।"
+      },
+      {
+        "en": "Xenomania is not always negative.",
+        "bn": "বিদেশী জিনিসের প্রতি অতিরিক্ত আগ্রহ সবসময় নেতিবাচক নয়।"
+      },
+      {
+        "en": "He wrote a paper on xenomania.",
+        "bn": "সে বিদেশী জিনিসের প্রতি অতিরিক্ত আগ্রহ নিয়ে একটি প্রবন্ধ লিখল।"
+      }
+    ],
+    "synonyms": [
+      "foreign obsession",
+      "cultural craze",
+      "exoticism",
+      "foreign fascination",
+      "outside-world fixation"
+    ]
+  },
+  {
+    "base": "xylitol",
+    "phonetic": "ˈzaɪlɪtɒl",
+    "meaning": "জাইলিটল / একটি প্রাকৃতিক মিষ্টি",
+    "examples": [
+      {
+        "en": "Xylitol is used as a sugar substitute.",
+        "bn": "জাইলিটল চিনির বিকল্প হিসেবে ব্যবহার করা হয়।"
+      },
+      {
+        "en": "She bought chewing gum with xylitol.",
+        "bn": "সে জাইলিটলযুক্ত চিউইং গাম কিনল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xylitol is good for dental health.",
+        "bn": "জাইলিটল দাঁতের স্বাস্থ্যের জন্য ভালো।"
+      },
+      {
+        "en": "He avoided sugar and used xylitol.",
+        "bn": "সে চিনি এড়িয়ে জাইলিটল ব্যবহার করল।"
+      },
+      {
+        "en": "Xylitol is found naturally in some fruits.",
+        "bn": "কিছু ফলে প্রাকৃতিকভাবে জাইলিটল পাওয়া যায়।"
+      },
+      {
+        "en": "She baked cookies using xylitol.",
+        "bn": "সে জাইলিটল ব্যবহার করে কুকি বেক করল।"
+      },
+      {
+        "en": "Xylitol has fewer calories than sugar.",
+        "bn": "জাইলিটলে চিনির চেয়ে কম ক্যালোরি আছে।"
+      },
+      {
+        "en": "He learned about xylitol's benefits.",
+        "bn": "সে জাইলিটলের উপকারিতা সম্পর্কে শিখল।"
+      },
+      {
+        "en": "Xylitol is harmful to dogs.",
+        "bn": "জাইলিটল কুকুরের জন্য ক্ষতিকর।"
+      },
+      {
+        "en": "She added xylitol to her coffee.",
+        "bn": "সে কফিতে জাইলিটল যোগ করল।"
+      },
+      {
+        "en": "Xylitol helps prevent tooth decay.",
+        "bn": "জাইলিটল দাঁত ক্ষয় প্রতিরোধ করতে সাহায্য করে।"
+      },
+      {
+        "en": "He recommended xylitol for diabetic patients.",
+        "bn": "সে ডায়াবেটিক রোগীদের জন্য জাইলিটল সুপারিশ করল।"
+      }
+    ],
+    "synonyms": [
+      "sugar alcohol",
+      "natural sweetener",
+      "sugar substitute",
+      "low-calorie sweetener",
+      "dental-safe sweetener"
+    ]
+  },
+  {
+    "base": "xenarthran",
+    "phonetic": "zenˈɑːθrən",
+    "meaning": "জেনার্থরা প্রাণী / যেমন আর্মাডিলো বা স্লথ",
+    "examples": [
+      {
+        "en": "The armadillo is a xenarthran.",
+        "bn": "আর্মাডিলো একটি জেনার্থরা প্রাণী।"
+      },
+      {
+        "en": "She studied xenarthran mammals.",
+        "bn": "সে জেনার্থরা স্তন্যপায়ী প্রাণী অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xenarthrans are found only in the Americas.",
+        "bn": "জেনার্থরা প্রাণী শুধুমাত্র আমেরিকায় পাওয়া যায়।"
+      },
+      {
+        "en": "He photographed a xenarthran in the jungle.",
+        "bn": "সে জঙ্গলে একটি জেনার্থরা প্রাণীর ছবি তুলল।"
+      },
+      {
+        "en": "The sloth is a well-known xenarthran.",
+        "bn": "স্লথ একটি সুপরিচিত জেনার্থরা প্রাণী।"
+      },
+      {
+        "en": "She wrote a report on xenarthrans.",
+        "bn": "সে জেনার্থরা প্রাণীদের উপর একটি প্রতিবেদন লিখল।"
+      },
+      {
+        "en": "Xenarthrans have unique joint structures.",
+        "bn": "জেনার্থরা প্রাণীদের অনন্য সন্ধি গঠন আছে।"
+      },
+      {
+        "en": "He saw a xenarthran at the zoo.",
+        "bn": "সে চিড়িয়াখানায় একটি জেনার্থরা প্রাণী দেখল।"
+      },
+      {
+        "en": "Xenarthrans have a low body temperature.",
+        "bn": "জেনার্থরা প্রাণীদের কম শরীরের তাপমাত্রা থাকে।"
+      },
+      {
+        "en": "She admired the xenarthran's armor.",
+        "bn": "সে জেনার্থরা প্রাণীর বর্মের প্রশংসা করল।"
+      },
+      {
+        "en": "Xenarthrans are fascinating creatures.",
+        "bn": "জেনার্থরা প্রাণী আকর্ষণীয় প্রাণী।"
+      },
+      {
+        "en": "He identified a xenarthran's track.",
+        "bn": "সে জেনার্থরা প্রাণীর পায়ের ছাপ শনাক্ত করল।"
+      }
+    ],
+    "synonyms": [
+      "edentate",
+      "armadillo",
+      "sloth",
+      "anteater",
+      "superorder mammal"
+    ]
+  },
+  {
+    "base": "xerophilous",
+    "phonetic": "zɪˈrɒfɪləs",
+    "meaning": "শুষ্ক পরিবেশ প্রিয়",
+    "examples": [
+      {
+        "en": "Xerophilous plants love dry soil.",
+        "bn": "শুষ্ক পরিবেশ প্রিয় গাছ শুষ্ক মাটি পছন্দ করে।"
+      },
+      {
+        "en": "She grew xerophilous herbs in her garden.",
+        "bn": "সে বাগানে শুষ্ক পরিবেশ প্রিয় ভেষজ উদ্ভিদ জন্মাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xerophilous organisms thrive with little water.",
+        "bn": "শুষ্ক পরিবেশ প্রিয় জীব অল্প পানিতে সমৃদ্ধ হয়।"
+      },
+      {
+        "en": "He studied xerophilous animals.",
+        "bn": "সে শুষ্ক পরিবেশ প্রিয় প্রাণী অধ্যয়ন করল।"
+      },
+      {
+        "en": "The xerophilous shrub survived the drought.",
+        "bn": "শুষ্ক পরিবেশ প্রিয় ঝোপটি খরায় টিকে থাকল।"
+      },
+      {
+        "en": "She identified xerophilous vegetation.",
+        "bn": "সে শুষ্ক পরিবেশ প্রিয় উদ্ভিদ চিহ্নিত করল।"
+      },
+      {
+        "en": "Xerophilous fungi live in desert sand.",
+        "bn": "শুষ্ক পরিবেশ প্রিয় ছত্রাক মরুভূমির বালিতে বাস করে।"
+      },
+      {
+        "en": "He planted xerophilous species.",
+        "bn": "সে শুষ্ক পরিবেশ প্রিয় প্রজাতি লাগাল।"
+      },
+      {
+        "en": "Xerophilous plants require minimal care.",
+        "bn": "শুষ্ক পরিবেশ প্রিয় গাছের ন্যূনতম যত্ন দরকার।"
+      },
+      {
+        "en": "She documented xerophilous ecosystems.",
+        "bn": "সে শুষ্ক পরিবেশ প্রিয় বাস্তুতন্ত্র নথিভুক্ত করল।"
+      },
+      {
+        "en": "Xerophilous plants reduce landscaping costs.",
+        "bn": "শুষ্ক পরিবেশ প্রিয় গাছ ভূদৃশ্যের খরচ কমায়।"
+      },
+      {
+        "en": "He grew a xerophilous garden.",
+        "bn": "সে একটি শুষ্ক পরিবেশ প্রিয় বাগান গড়ে তুলল।"
+      }
+    ],
+    "synonyms": [
+      "drought-loving",
+      "arid-adapted",
+      "dry-tolerant",
+      "desert-adapted",
+      "low-water-loving"
+    ]
+  },
+  {
+    "base": "xenograft",
+    "phonetic": "ˈzenəɡrɑːft",
+    "meaning": "ভিন্ন প্রজাতির অঙ্গ প্রতিস্থাপন",
+    "examples": [
+      {
+        "en": "Xenograft surgery uses animal tissues.",
+        "bn": "জেনোগ্রাফট অস্ত্রোপচারে প্রাণীর কলা ব্যবহার করা হয়।"
+      },
+      {
+        "en": "She researched xenograft procedures.",
+        "bn": "সে জেনোগ্রাফট পদ্ধতি গবেষণা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A xenograft uses tissue from a different species.",
+        "bn": "জেনোগ্রাফটে ভিন্ন প্রজাতির কলা ব্যবহার করা হয়।"
+      },
+      {
+        "en": "He received a xenograft skin graft.",
+        "bn": "সে জেনোগ্রাফট ত্বক গ্রাফট পেল।"
+      },
+      {
+        "en": "Xenograft research is advancing rapidly.",
+        "bn": "জেনোগ্রাফট গবেষণা দ্রুত অগ্রসর হচ্ছে।"
+      },
+      {
+        "en": "She studied the rejection of xenografts.",
+        "bn": "সে জেনোগ্রাফট প্রত্যাখ্যান অধ্যয়ন করল।"
+      },
+      {
+        "en": "Pig tissue is often used in xenografts.",
+        "bn": "জেনোগ্রাফটে প্রায়ই শূকরের কলা ব্যবহার হয়।"
+      },
+      {
+        "en": "He questioned the ethics of xenografts.",
+        "bn": "সে জেনোগ্রাফটের নৈতিকতা নিয়ে প্রশ্ন তুলল।"
+      },
+      {
+        "en": "Xenograft transplants could save many lives.",
+        "bn": "জেনোগ্রাফট প্রতিস্থাপন অনেক জীবন বাঁচাতে পারে।"
+      },
+      {
+        "en": "She attended a seminar on xenograft.",
+        "bn": "সে জেনোগ্রাফট বিষয়ক একটি সেমিনারে অংশ নিল।"
+      },
+      {
+        "en": "Xenograft technology is still developing.",
+        "bn": "জেনোগ্রাফট প্রযুক্তি এখনও উন্নয়নের পর্যায়ে।"
+      },
+      {
+        "en": "He wrote a paper on xenograft applications.",
+        "bn": "সে জেনোগ্রাফটের প্রয়োগ নিয়ে একটি প্রবন্ধ লিখল।"
+      }
+    ],
+    "synonyms": [
+      "cross-species transplant",
+      "animal tissue graft",
+      "interspecies graft",
+      "heterograft",
+      "biological graft"
+    ]
+  },
+  {
+    "base": "xyloid",
+    "phonetic": "ˈzaɪlɔɪd",
+    "meaning": "কাঠের মতো / কাঠসদৃশ",
+    "examples": [
+      {
+        "en": "The material had a xyloid texture.",
+        "bn": "উপাদানটির কাঠের মতো গঠন ছিল।"
+      },
+      {
+        "en": "She used a xyloid surface for her project.",
+        "bn": "সে তার প্রকল্পে কাঠসদৃশ পৃষ্ঠ ব্যবহার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The xyloid material was strong.",
+        "bn": "কাঠের মতো উপাদানটি মজবুত ছিল।"
+      },
+      {
+        "en": "He carved the xyloid substance.",
+        "bn": "সে কাঠসদৃশ পদার্থ খোদাই করল।"
+      },
+      {
+        "en": "The xyloid fiber was used in construction.",
+        "bn": "নির্মাণে কাঠসদৃশ আঁশ ব্যবহার করা হল।"
+      },
+      {
+        "en": "She studied xyloid plant cells.",
+        "bn": "সে কাঠসদৃশ উদ্ভিদ কোষ অধ্যয়ন করল।"
+      },
+      {
+        "en": "The xyloid bark protected the tree.",
+        "bn": "কাঠের মতো বাকল গাছটিকে রক্ষা করল।"
+      },
+      {
+        "en": "He noted the xyloid characteristics.",
+        "bn": "সে কাঠসদৃশ বৈশিষ্ট্যগুলো লক্ষ্য করল।"
+      },
+      {
+        "en": "The xyloid tissue formed the tree trunk.",
+        "bn": "কাঠসদৃশ কলা গাছের কাণ্ড তৈরি করল।"
+      },
+      {
+        "en": "She identified the xyloid layers.",
+        "bn": "সে কাঠসদৃশ স্তর চিহ্নিত করল।"
+      },
+      {
+        "en": "The xyloid product was long-lasting.",
+        "bn": "কাঠসদৃশ পণ্যটি দীর্ঘস্থায়ী ছিল।"
+      },
+      {
+        "en": "He used xyloid material for the sculpture.",
+        "bn": "সে ভাস্কর্যের জন্য কাঠসদৃশ উপাদান ব্যবহার করল।"
+      }
+    ],
+    "synonyms": ["wood-like", "ligneous", "woody", "timber-like", "wooden"]
+  },
+  {
+    "base": "xenobiosis",
+    "phonetic": "ˌzenəʊbaɪˈəʊsɪs",
+    "meaning": "ভিন্ন প্রজাতির সাথে বসবাস",
+    "examples": [
+      {
+        "en": "Xenobiosis is a form of symbiosis.",
+        "bn": "জেনোবায়োসিস সহজীবিতার একটি রূপ।"
+      },
+      {
+        "en": "She studied xenobiosis in ants.",
+        "bn": "সে পিঁপড়ায় জেনোবায়োসিস অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xenobiosis involves living near another species.",
+        "bn": "জেনোবায়োসিসে অন্য প্রজাতির কাছাকাছি বসবাস করা হয়।"
+      },
+      {
+        "en": "He observed xenobiosis in insects.",
+        "bn": "সে পোকামাকড়ে জেনোবায়োসিস পর্যবেক্ষণ করল।"
+      },
+      {
+        "en": "Xenobiosis can benefit both species.",
+        "bn": "জেনোবায়োসিস উভয় প্রজাতির উপকার করতে পারে।"
+      },
+      {
+        "en": "She documented cases of xenobiosis.",
+        "bn": "সে জেনোবায়োসিসের ঘটনা নথিভুক্ত করল।"
+      },
+      {
+        "en": "Xenobiosis is rare in the animal kingdom.",
+        "bn": "প্রাণীজগতে জেনোবায়োসিস বিরল।"
+      },
+      {
+        "en": "He wrote a paper on xenobiosis.",
+        "bn": "সে জেনোবায়োসিস নিয়ে একটি প্রবন্ধ লিখল।"
+      },
+      {
+        "en": "Xenobiosis occurs in some ant colonies.",
+        "bn": "কিছু পিঁপড়া উপনিবেশে জেনোবায়োসিস ঘটে।"
+      },
+      {
+        "en": "She observed xenobiosis in the lab.",
+        "bn": "সে ল্যাবে জেনোবায়োসিস পর্যবেক্ষণ করল।"
+      },
+      {
+        "en": "Xenobiosis is an interesting ecological phenomenon.",
+        "bn": "জেনোবায়োসিস একটি আকর্ষণীয় পরিবেশগত ঘটনা।"
+      },
+      {
+        "en": "He explained xenobiosis to his students.",
+        "bn": "সে শিক্ষার্থীদের জেনোবায়োসিস ব্যাখ্যা করল।"
+      }
+    ],
+    "synonyms": [
+      "cross-species cohabitation",
+      "inter-species living",
+      "symbiosis",
+      "commensal living",
+      "ecological coexistence"
+    ]
+  },
+  {
+    "base": "xerography",
+    "phonetic": "zɪˈrɒɡrəfi",
+    "meaning": "ইলেক্ট্রোস্ট্যাটিক মুদ্রণ",
+    "examples": [
+      {
+        "en": "Laser printers use xerography.",
+        "bn": "লেজার প্রিন্টার ইলেক্ট্রোস্ট্যাটিক মুদ্রণ ব্যবহার করে।"
+      },
+      {
+        "en": "She explained xerography to the class.",
+        "bn": "সে ক্লাসে ইলেক্ট্রোস্ট্যাটিক মুদ্রণ ব্যাখ্যা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Chester Carlson invented xerography.",
+        "bn": "চেস্টার কার্লসন ইলেক্ট্রোস্ট্যাটিক মুদ্রণ আবিষ্কার করেছিলেন।"
+      },
+      {
+        "en": "Xerography uses static electricity.",
+        "bn": "ইলেক্ট্রোস্ট্যাটিক মুদ্রণ স্থির বিদ্যুৎ ব্যবহার করে।"
+      },
+      {
+        "en": "He studied the process of xerography.",
+        "bn": "সে ইলেক্ট্রোস্ট্যাটিক মুদ্রণের প্রক্রিয়া অধ্যয়ন করল।"
+      },
+      {
+        "en": "Xerography is the basis of photocopiers.",
+        "bn": "ইলেক্ট্রোস্ট্যাটিক মুদ্রণ ফটোকপি মেশিনের ভিত্তি।"
+      },
+      {
+        "en": "She demonstrated xerography in the lab.",
+        "bn": "সে ল্যাবে ইলেক্ট্রোস্ট্যাটিক মুদ্রণ প্রদর্শন করল।"
+      },
+      {
+        "en": "Xerography changed office work forever.",
+        "bn": "ইলেক্ট্রোস্ট্যাটিক মুদ্রণ অফিসের কাজ চিরতরে বদলে দিল।"
+      },
+      {
+        "en": "He learned about the patents for xerography.",
+        "bn": "সে ইলেক্ট্রোস্ট্যাটিক মুদ্রণের পেটেন্ট সম্পর্কে শিখল।"
+      },
+      {
+        "en": "Xerography produces fast and clear copies.",
+        "bn": "ইলেক্ট্রোস্ট্যাটিক মুদ্রণ দ্রুত ও স্পষ্ট কপি তৈরি করে।"
+      },
+      {
+        "en": "She read about the discovery of xerography.",
+        "bn": "সে ইলেক্ট্রোস্ট্যাটিক মুদ্রণের আবিষ্কার সম্পর্কে পড়ল।"
+      },
+      {
+        "en": "Xerography is still widely used today.",
+        "bn": "ইলেক্ট্রোস্ট্যাটিক মুদ্রণ আজও ব্যাপকভাবে ব্যবহৃত হয়।"
+      }
+    ],
+    "synonyms": [
+      "electrophotography",
+      "dry copying",
+      "toner printing",
+      "laser printing",
+      "photocopying"
+    ]
+  },
+  {
+    "base": "xylophagous",
+    "phonetic": "zaɪˈlɒfəɡəs",
+    "meaning": "কাঠ-ভক্ষণকারী",
+    "examples": [
+      {
+        "en": "Termites are xylophagous insects.",
+        "bn": "উইপোকা কাঠ-ভক্ষণকারী পোকা।"
+      },
+      {
+        "en": "She studied xylophagous beetles.",
+        "bn": "সে কাঠ-ভক্ষণকারী গুবরে পোকা অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xylophagous organisms damage wooden structures.",
+        "bn": "কাঠ-ভক্ষণকারী জীব কাঠের কাঠামো ক্ষতিগ্রস্ত করে।"
+      },
+      {
+        "en": "He identified a xylophagous fungus.",
+        "bn": "সে একটি কাঠ-ভক্ষণকারী ছত্রাক চিহ্নিত করল।"
+      },
+      {
+        "en": "Xylophagous activity weakens trees.",
+        "bn": "কাঠ-ভক্ষণকারী কার্যকলাপ গাছ দুর্বল করে।"
+      },
+      {
+        "en": "She researched xylophagous marine organisms.",
+        "bn": "সে কাঠ-ভক্ষণকারী সামুদ্রিক জীব গবেষণা করল।"
+      },
+      {
+        "en": "Xylophagous pests destroy furniture.",
+        "bn": "কাঠ-ভক্ষণকারী কীটপতঙ্গ আসবাবপত্র ধ্বংস করে।"
+      },
+      {
+        "en": "He treated the wood against xylophagous insects.",
+        "bn": "সে কাঠ-ভক্ষণকারী পোকার বিরুদ্ধে কাঠ চিকিৎসা করল।"
+      },
+      {
+        "en": "Xylophagous woodpeckers eat wood-boring insects.",
+        "bn": "কাঠঠোকরা কাঠ-ভক্ষণকারী হয়ে কাঠে ছিদ্রকারী পোকা খায়।"
+      },
+      {
+        "en": "She warned about xylophagous damage.",
+        "bn": "সে কাঠ-ভক্ষণকারী ক্ষতির বিষয়ে সতর্ক করল।"
+      },
+      {
+        "en": "Xylophagous larvae bore into timber.",
+        "bn": "কাঠ-ভক্ষণকারী লার্ভা কাঠে ছিদ্র করে।"
+      },
+      {
+        "en": "He studied xylophagous behavior.",
+        "bn": "সে কাঠ-ভক্ষণকারী আচরণ অধ্যয়ন করল।"
+      }
+    ],
+    "synonyms": [
+      "wood-eating",
+      "wood-boring",
+      "wood-feeding",
+      "lignicolous",
+      "wood-destroying"
+    ]
+  },
+  {
+    "base": "xylocarp",
+    "phonetic": "ˈzaɪləkɑːp",
+    "meaning": "শক্ত খোলওয়ালা ফল",
+    "examples": [
+      {
+        "en": "Coconut is a type of xylocarp.",
+        "bn": "নারকেল এক ধরনের শক্ত খোলওয়ালা ফল।"
+      },
+      {
+        "en": "She identified the xylocarp tree.",
+        "bn": "সে শক্ত খোলওয়ালা ফলের গাছটি চিহ্নিত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xylcarps have a hard woody covering.",
+        "bn": "শক্ত খোলওয়ালা ফলের কাঠের মতো আবরণ থাকে।"
+      },
+      {
+        "en": "He studied xylocarp fruits in botany.",
+        "bn": "সে উদ্ভিদবিজ্ঞানে শক্ত খোলওয়ালা ফল অধ্যয়ন করল।"
+      },
+      {
+        "en": "The xylocarp was heavy and round.",
+        "bn": "শক্ত খোলওয়ালা ফলটি ভারী ও গোলাকার ছিল।"
+      },
+      {
+        "en": "She described the structure of a xylocarp.",
+        "bn": "সে শক্ত খোলওয়ালা ফলের গঠন বর্ণনা করল।"
+      },
+      {
+        "en": "Xylcarps are found in tropical regions.",
+        "bn": "শক্ত খোলওয়ালা ফল ক্রান্তীয় অঞ্চলে পাওয়া যায়।"
+      },
+      {
+        "en": "He cracked open the xylocarp.",
+        "bn": "সে শক্ত খোলওয়ালা ফলটি ভেঙে খুলল।"
+      },
+      {
+        "en": "The xylocarp fell from the tall tree.",
+        "bn": "শক্ত খোলওয়ালা ফলটি লম্বা গাছ থেকে পড়ল।"
+      },
+      {
+        "en": "She used xylocarp shells for decoration.",
+        "bn": "সে সাজসজ্জার জন্য শক্ত খোলওয়ালা ফলের খোল ব্যবহার করল।"
+      },
+      {
+        "en": "Xylcarps are used in traditional crafts.",
+        "bn": "শক্ত খোলওয়ালা ফল ঐতিহ্যবাহী হস্তশিল্পে ব্যবহার হয়।"
+      },
+      {
+        "en": "He included xylocarp in his research.",
+        "bn": "সে তার গবেষণায় শক্ত খোলওয়ালা ফল অন্তর্ভুক্ত করল।"
+      }
+    ],
+    "synonyms": [
+      "hard-shelled fruit",
+      "woody fruit",
+      "lignified fruit",
+      "tropical fruit",
+      "stone fruit"
+    ]
+  },
+  {
+    "base": "xenodiagnosis",
+    "phonetic": "ˌzenəʊdaɪəɡˈnəʊsɪs",
+    "meaning": "পরজীবী দিয়ে রোগ নির্ণয়",
+    "examples": [
+      {
+        "en": "Xenodiagnosis is used to detect Chagas disease.",
+        "bn": "চাগাস রোগ শনাক্ত করতে জেনোডায়াগনোসিস ব্যবহার করা হয়।"
+      },
+      {
+        "en": "She researched xenodiagnosis techniques.",
+        "bn": "সে জেনোডায়াগনোসিস কৌশল গবেষণা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xenodiagnosis involves using insects as diagnostic tools.",
+        "bn": "জেনোডায়াগনোসিসে পোকামাকড়কে রোগ নির্ণয়ের হাতিয়ার হিসেবে ব্যবহার করা হয়।"
+      },
+      {
+        "en": "He learned about xenodiagnosis in parasitology.",
+        "bn": "সে পরজীববিজ্ঞানে জেনোডায়াগনোসিস সম্পর্কে শিখল।"
+      },
+      {
+        "en": "Xenodiagnosis is a specialized medical test.",
+        "bn": "জেনোডায়াগনোসিস একটি বিশেষায়িত চিকিৎসা পরীক্ষা।"
+      },
+      {
+        "en": "She described how xenodiagnosis works.",
+        "bn": "সে বর্ণনা করল কীভাবে জেনোডায়াগনোসিস কাজ করে।"
+      },
+      {
+        "en": "Xenodiagnosis is used in tropical medicine.",
+        "bn": "ক্রান্তীয় চিকিৎসায় জেনোডায়াগনোসিস ব্যবহার হয়।"
+      },
+      {
+        "en": "He studied xenodiagnosis methods.",
+        "bn": "সে জেনোডায়াগনোসিস পদ্ধতি অধ্যয়ন করল।"
+      },
+      {
+        "en": "Xenodiagnosis confirmed the diagnosis.",
+        "bn": "জেনোডায়াগনোসিস রোগ নির্ণয় নিশ্চিত করল।"
+      },
+      {
+        "en": "She wrote a report on xenodiagnosis.",
+        "bn": "সে জেনোডায়াগনোসিস বিষয়ে একটি প্রতিবেদন লিখল।"
+      },
+      {
+        "en": "Xenodiagnosis requires laboratory conditions.",
+        "bn": "জেনোডায়াগনোসিসের জন্য ল্যাবরেটরি পরিবেশ দরকার।"
+      },
+      {
+        "en": "He observed a xenodiagnosis procedure.",
+        "bn": "সে একটি জেনোডায়াগনোসিস পদ্ধতি পর্যবেক্ষণ করল।"
+      }
+    ],
+    "synonyms": [
+      "parasite-based diagnosis",
+      "biologic diagnosis",
+      "vector diagnosis",
+      "insect-mediated testing",
+      "parasitological test"
+    ]
+  },
+  {
+    "base": "xylenes",
+    "phonetic": "ˈzaɪliːnz",
+    "meaning": "জাইলিন / একটি রাসায়নিক দ্রাবক",
+    "examples": [
+      {
+        "en": "Xylene is used as a solvent in labs.",
+        "bn": "ল্যাবে দ্রাবক হিসেবে জাইলিন ব্যবহার করা হয়।"
+      },
+      {
+        "en": "She handled xylene with care.",
+        "bn": "সে সাবধানে জাইলিন পরিচালনা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xylene can be toxic if inhaled.",
+        "bn": "শ্বাসে নিলে জাইলিন বিষাক্ত হতে পারে।"
+      },
+      {
+        "en": "He studied the properties of xylene.",
+        "bn": "সে জাইলিনের বৈশিষ্ট্য অধ্যয়ন করল।"
+      },
+      {
+        "en": "Xylene is used in histology labs.",
+        "bn": "হিস্টোলজি ল্যাবে জাইলিন ব্যবহার করা হয়।"
+      },
+      {
+        "en": "She wore gloves while using xylene.",
+        "bn": "জাইলিন ব্যবহার করার সময় সে গ্লাভস পরল।"
+      },
+      {
+        "en": "Xylene evaporates quickly.",
+        "bn": "জাইলিন দ্রুত বাষ্পীভূত হয়।"
+      },
+      {
+        "en": "He measured the xylene concentration.",
+        "bn": "সে জাইলিনের ঘনত্ব পরিমাপ করল।"
+      },
+      {
+        "en": "Xylene is derived from petroleum.",
+        "bn": "জাইলিন পেট্রোলিয়াম থেকে পাওয়া যায়।"
+      },
+      {
+        "en": "She diluted the xylene safely.",
+        "bn": "সে নিরাপদে জাইলিন পাতলা করল।"
+      },
+      {
+        "en": "Xylene is used in paint manufacturing.",
+        "bn": "রং তৈরিতে জাইলিন ব্যবহার করা হয়।"
+      },
+      {
+        "en": "He tested the sample with xylene.",
+        "bn": "সে জাইলিন দিয়ে নমুনা পরীক্ষা করল।"
+      }
+    ],
+    "synonyms": [
+      "solvent",
+      "aromatic hydrocarbon",
+      "chemical compound",
+      "organic solvent",
+      "dimethylbenzene"
+    ]
+  },
+  {
+    "base": "xanthophyll",
+    "phonetic": "ˈzænθəfɪl",
+    "meaning": "জ্যান্থোফিল / পাতার হলুদ রঙের পদার্থ",
+    "examples": [
+      {
+        "en": "Xanthophyll gives leaves their yellow color.",
+        "bn": "জ্যান্থোফিল পাতাকে হলুদ রঙ দেয়।"
+      },
+      {
+        "en": "She studied xanthophyll in biology.",
+        "bn": "সে জীববিজ্ঞানে জ্যান্থোফিল অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xanthophyll is visible when chlorophyll breaks down.",
+        "bn": "ক্লোরোফিল ভাঙলে জ্যান্থোফিল দৃশ্যমান হয়।"
+      },
+      {
+        "en": "He extracted xanthophyll from leaves.",
+        "bn": "সে পাতা থেকে জ্যান্থোফিল বের করল।"
+      },
+      {
+        "en": "Xanthophyll is a type of carotenoid.",
+        "bn": "জ্যান্থোফিল ক্যারোটিনয়েডের একটি প্রকার।"
+      },
+      {
+        "en": "She observed xanthophyll under a microscope.",
+        "bn": "সে মাইক্রোস্কোপের নিচে জ্যান্থোফিল পর্যবেক্ষণ করল।"
+      },
+      {
+        "en": "Xanthophyll protects plants from light damage.",
+        "bn": "জ্যান্থোফিল গাছকে আলোর ক্ষতি থেকে রক্ষা করে।"
+      },
+      {
+        "en": "He mentioned xanthophyll in his report.",
+        "bn": "সে প্রতিবেদনে জ্যান্থোফিলের উল্লেখ করল।"
+      },
+      {
+        "en": "Xanthophyll is also found in egg yolks.",
+        "bn": "ডিমের কুসুমেও জ্যান্থোফিল পাওয়া যায়।"
+      },
+      {
+        "en": "She explained the role of xanthophyll.",
+        "bn": "সে জ্যান্থোফিলের ভূমিকা ব্যাখ্যা করল।"
+      },
+      {
+        "en": "Xanthophyll contributes to autumn colors.",
+        "bn": "শরতের রঙে জ্যান্থোফিলের অবদান আছে।"
+      },
+      {
+        "en": "He identified xanthophyll in the sample.",
+        "bn": "সে নমুনায় জ্যান্থোফিল চিহ্নিত করল।"
+      }
+    ],
+    "synonyms": [
+      "yellow pigment",
+      "carotenoid",
+      "leaf pigment",
+      "plant pigment",
+      "lutein"
+    ]
+  },
+  {
+    "base": "xenolith",
+    "phonetic": "ˈzenəlɪθ",
+    "meaning": "আগুয়া পাথরের মধ্যে ভিন্ন পাথর / জেনোলিথ",
+    "examples": [
+      {
+        "en": "A xenolith is a rock fragment inside another rock.",
+        "bn": "জেনোলিথ হলো অন্য একটি পাথরের ভেতরে পাথরের টুকরো।"
+      },
+      {
+        "en": "The geologist found a xenolith in the lava.",
+        "bn": "ভূতত্ত্ববিদ লাভার মধ্যে একটি জেনোলিথ খুঁজে পেলেন।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xenoliths tell us about deep rock layers.",
+        "bn": "জেনোলিথ আমাদের গভীর পাথরের স্তর সম্পর্কে বলে।"
+      },
+      {
+        "en": "She identified a xenolith in the granite.",
+        "bn": "সে গ্রানাইটে একটি জেনোলিথ চিহ্নিত করল।"
+      },
+      {
+        "en": "He studied the xenolith carefully.",
+        "bn": "সে সাবধানে জেনোলিথ অধ্যয়ন করল।"
+      },
+      {
+        "en": "Xenoliths are carried up by volcanic eruptions.",
+        "bn": "আগ্নেয়গিরির অগ্ন্যুৎপাত জেনোলিথ উপরে তুলে আনে।"
+      },
+      {
+        "en": "She collected xenoliths from the field.",
+        "bn": "সে মাঠ থেকে জেনোলিথ সংগ্রহ করল।"
+      },
+      {
+        "en": "The xenolith revealed Earth's mantle composition.",
+        "bn": "জেনোলিথ পৃথিবীর ম্যান্টেলের গঠন প্রকাশ করল।"
+      },
+      { "en": "He photographed the xenolith.", "bn": "সে জেনোলিথের ছবি তুলল।" },
+      {
+        "en": "Xenoliths are important in geology.",
+        "bn": "ভূতত্ত্বে জেনোলিথ গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She wrote about xenolith samples.",
+        "bn": "সে জেনোলিথ নমুনা সম্পর্কে লিখল।"
+      },
+      {
+        "en": "He analyzed the xenolith minerals.",
+        "bn": "সে জেনোলিথের খনিজ বিশ্লেষণ করল।"
+      }
+    ],
+    "synonyms": [
+      "rock inclusion",
+      "foreign rock fragment",
+      "rock enclosure",
+      "mineral inclusion",
+      "geological fragment"
+    ]
+  },
+  {
+    "base": "xylenes",
+    "phonetic": "ˈzaɪliːnz",
+    "meaning": "জৈব রাসায়নিক পদার্থ",
+    "examples": [
+      {
+        "en": "Xylenes are found in paint thinners.",
+        "bn": "পেইন্ট থিনারে জাইলিন পাওয়া যায়।"
+      },
+      {
+        "en": "She tested air samples for xylenes.",
+        "bn": "সে বায়ু নমুনায় জাইলিনের পরীক্ষা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xylenes are used in rubber production.",
+        "bn": "রাবার উৎপাদনে জাইলিন ব্যবহার করা হয়।"
+      },
+      {
+        "en": "He monitored xylene levels in the workplace.",
+        "bn": "সে কর্মক্ষেত্রে জাইলিনের মাত্রা পর্যবেক্ষণ করল।"
+      },
+      {
+        "en": "Xylenes cause dizziness in high concentrations.",
+        "bn": "উচ্চ ঘনত্বে জাইলিন মাথাঘোরার কারণ হয়।"
+      },
+      {
+        "en": "She researched the effects of xylenes.",
+        "bn": "সে জাইলিনের প্রভাব গবেষণা করল।"
+      },
+      {
+        "en": "Xylenes are released during fuel combustion.",
+        "bn": "জ্বালানি দহনের সময় জাইলিন নির্গত হয়।"
+      },
+      {
+        "en": "He reduced exposure to xylenes.",
+        "bn": "সে জাইলিনের সংস্পর্শ কমাল।"
+      },
+      {
+        "en": "Xylenes are environmental pollutants.",
+        "bn": "জাইলিন পরিবেশ দূষণকারী।"
+      },
+      {
+        "en": "She measured xylene contamination.",
+        "bn": "সে জাইলিন দূষণ পরিমাপ করল।"
+      },
+      {
+        "en": "Xylenes are derived from coal tar.",
+        "bn": "কয়লা আলকাতরা থেকে জাইলিন পাওয়া যায়।"
+      },
+      {
+        "en": "He treated xylene exposure in the hospital.",
+        "bn": "সে হাসপাতালে জাইলিনের সংস্পর্শের চিকিৎসা করল।"
+      }
+    ],
+    "synonyms": [
+      "hydrocarbon",
+      "industrial solvent",
+      "chemical compound",
+      "volatile organic compound",
+      "aromatic compound"
+    ]
+  },
+  {
+    "base": "xerophthalmia",
+    "phonetic": "ˌzɪərɒfˈθælmiə",
+    "meaning": "চোখের শুষ্ক রোগ",
+    "examples": [
+      {
+        "en": "Xerophthalmia is caused by vitamin A deficiency.",
+        "bn": "ভিটামিন এ অভাব থেকে চোখের শুষ্ক রোগ হয়।"
+      },
+      {
+        "en": "She was treated for xerophthalmia.",
+        "bn": "চোখের শুষ্ক রোগের জন্য তার চিকিৎসা করা হল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Xerophthalmia can lead to blindness.",
+        "bn": "চোখের শুষ্ক রোগ অন্ধত্বের দিকে নিয়ে যেতে পারে।"
+      },
+      {
+        "en": "He learned about xerophthalmia in medical school.",
+        "bn": "সে মেডিকেল স্কুলে চোখের শুষ্ক রোগ সম্পর্কে শিখল।"
+      },
+      {
+        "en": "Xerophthalmia is common in malnourished children.",
+        "bn": "অপুষ্টিগ্রস্ত শিশুদের মধ্যে চোখের শুষ্ক রোগ সাধারণ।"
+      },
+      {
+        "en": "She diagnosed a patient with xerophthalmia.",
+        "bn": "সে একজন রোগীকে চোখের শুষ্ক রোগে আক্রান্ত বলে শনাক্ত করল।"
+      },
+      {
+        "en": "Vitamin A supplements prevent xerophthalmia.",
+        "bn": "ভিটামিন এ সম্পূরক চোখের শুষ্ক রোগ প্রতিরোধ করে।"
+      },
+      {
+        "en": "He researched xerophthalmia in developing countries.",
+        "bn": "সে উন্নয়নশীল দেশে চোখের শুষ্ক রোগ গবেষণা করল।"
+      },
+      {
+        "en": "Xerophthalmia causes dry and cloudy eyes.",
+        "bn": "চোখের শুষ্ক রোগ চোখ শুষ্ক ও ঘোলা করে।"
+      },
+      {
+        "en": "She educated communities about xerophthalmia.",
+        "bn": "সে সম্প্রদায়কে চোখের শুষ্ক রোগ সম্পর্কে শিক্ষিত করল।"
+      },
+      {
+        "en": "Xerophthalmia is preventable with good nutrition.",
+        "bn": "ভালো পুষ্টির মাধ্যমে চোখের শুষ্ক রোগ প্রতিরোধযোগ্য।"
+      },
+      {
+        "en": "He treated xerophthalmia in rural clinics.",
+        "bn": "সে গ্রামীণ ক্লিনিকে চোখের শুষ্ক রোগের চিকিৎসা করল।"
+      }
+    ],
+    "synonyms": [
+      "dry eye disease",
+      "vitamin A deficiency eye condition",
+      "eye dryness",
+      "corneal dryness",
+      "night blindness precursor"
+    ]
+  },
+  {
+    "base": "xiphoid",
+    "phonetic": "ˈzɪfɔɪd",
+    "meaning": "তলোয়ার-আকৃতির / জিফয়েড",
+    "examples": [
+      {
+        "en": "The xiphoid process is at the base of the sternum.",
+        "bn": "জিফয়েড প্রক্রিয়াটি স্টার্নামের নিচে থাকে।"
+      },
+      {
+        "en": "She learned about the xiphoid in anatomy.",
+        "bn": "সে শারীরস্থানে জিফয়েড সম্পর্কে শিখল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The xiphoid cartilage is flexible.",
+        "bn": "জিফয়েড তরুণাস্থি নমনীয়।"
+      },
+      {
+        "en": "He identified the xiphoid bone.",
+        "bn": "সে জিফয়েড হাড় চিহ্নিত করল।"
+      },
+      {
+        "en": "The xiphoid process can be felt in some people.",
+        "bn": "কিছু মানুষের মধ্যে জিফয়েড প্রক্রিয়া অনুভব করা যায়।"
+      },
+      {
+        "en": "She drew a diagram of the xiphoid.",
+        "bn": "সে জিফয়েডের একটি ডায়াগ্রাম আঁকল।"
+      },
+      {
+        "en": "Xiphoid pain can indicate digestive issues.",
+        "bn": "জিফয়েড ব্যথা হজমের সমস্যা নির্দেশ করতে পারে।"
+      },
+      {
+        "en": "He pointed to the xiphoid on a model.",
+        "bn": "সে একটি মডেলে জিফয়েড দেখাল।"
+      },
+      {
+        "en": "The xiphoid is a small triangular bone.",
+        "bn": "জিফয়েড একটি ছোট ত্রিকোণাকার হাড়।"
+      },
+      {
+        "en": "She studied xiphoid anatomy.",
+        "bn": "সে জিফয়েডের শারীরস্থান অধ্যয়ন করল।"
+      },
+      { "en": "Xiphoid injuries are rare.", "bn": "জিফয়েড আঘাত বিরল।" },
+      {
+        "en": "He explained the xiphoid process clearly.",
+        "bn": "সে জিফয়েড প্রক্রিয়া স্পষ্টভাবে ব্যাখ্যা করল।"
+      }
+    ],
+    "synonyms": [
+      "sword-shaped",
+      "xiphoid process",
+      "sternum tip",
+      "cartilage bone",
+      "lower sternum"
+    ]
+  },
+  {
+    "base": "xenoglossy",
+    "phonetic": "ˌzenəˈɡlɒsi",
+    "meaning": "অজানা ভাষায় কথা বলার ক্ষমতা",
+    "examples": [
+      {
+        "en": "Xenoglossy is a rare and debated phenomenon.",
+        "bn": "জেনোগ্লোসি একটি বিরল ও বিতর্কিত ঘটনা।"
+      },
+      {
+        "en": "She read about xenoglossy in parapsychology.",
+        "bn": "সে প্যারাসাইকোলজিতে জেনোগ্লোসি সম্পর্কে পড়ল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Claims of xenoglossy are rarely verified.",
+        "bn": "জেনোগ্লোসির দাবি খুব কমই যাচাই হয়।"
+      },
+      {
+        "en": "He researched cases of xenoglossy.",
+        "bn": "সে জেনোগ্লোসির ঘটনা গবেষণা করল।"
+      },
+      {
+        "en": "Xenoglossy is sometimes linked to past lives.",
+        "bn": "জেনোগ্লোসি কখনো কখনো পূর্বজন্মের সাথে যুক্ত।"
+      },
+      {
+        "en": "She was skeptical about xenoglossy.",
+        "bn": "সে জেনোগ্লোসি নিয়ে সন্দিহান ছিল।"
+      },
+      {
+        "en": "Xenoglossy cases have been reported worldwide.",
+        "bn": "জেনোগ্লোসির ঘটনা বিশ্বজুড়ে রিপোর্ট হয়েছে।"
+      },
+      {
+        "en": "He wrote a book on xenoglossy.",
+        "bn": "সে জেনোগ্লোসি নিয়ে একটি বই লিখল।"
+      },
+      {
+        "en": "Xenoglossy involves speaking an unlearned language.",
+        "bn": "জেনোগ্লোসিতে না শিখে ভাষায় কথা বলা হয়।"
+      },
+      {
+        "en": "She discussed xenoglossy with experts.",
+        "bn": "সে বিশেষজ্ঞদের সাথে জেনোগ্লোসি নিয়ে আলোচনা করল।"
+      },
+      {
+        "en": "Xenoglossy remains a mystery to science.",
+        "bn": "জেনোগ্লোসি বিজ্ঞানের কাছে এখনও রহস্য।"
+      },
+      {
+        "en": "He questioned the evidence for xenoglossy.",
+        "bn": "সে জেনোগ্লোসির প্রমাণ নিয়ে প্রশ্ন তুলল।"
+      }
+    ],
+    "synonyms": [
+      "language phenomenon",
+      "unknown language speaking",
+      "glossolalia variant",
+      "paranormal language",
+      "past-life language recall"
+    ]
   }
 ]

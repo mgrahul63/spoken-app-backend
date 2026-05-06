@@ -2177,5 +2177,52 @@
       }
     ],
     "synonyms": ["life fluid", "plasma"]
+  },
+
+  {
+    "base": "beat",
+    "phonetic": "biːt",
+    "meaning": "হারানো / আঘাত করা / তাল বা ছন্দ",
+    "examples": [
+      { "en": "He beat his opponent.", "bn": "সে তার প্রতিপক্ষকে হারিয়েছে।" },
+      {
+        "en": "My heart is beating fast.",
+        "bn": "আমার হৃদয় দ্রুত ধড়ফড় করছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She beat the drum.", "bn": "সে ড্রাম বাজিয়েছে।" },
+      {
+        "en": "They beat the team easily.",
+        "bn": "তারা সহজেই দলটিকে হারিয়েছে।"
+      },
+      {
+        "en": "The rain beat against the window.",
+        "bn": "বৃষ্টি জানালায় আঘাত করছিল।"
+      },
+      {
+        "en": "I can’t beat him in chess.",
+        "bn": "আমি তাকে দাবায় হারাতে পারি না।"
+      },
+      { "en": "His heart beat loudly.", "bn": "তার হৃদয় জোরে ধড়ফড় করছিল।" },
+      {
+        "en": "The music has a strong beat.",
+        "bn": "গানটির শক্তিশালী ছন্দ আছে।"
+      },
+      {
+        "en": "She beat everyone in the race.",
+        "bn": "সে দৌড়ে সবাইকে হারিয়েছে।"
+      },
+      { "en": "He beat the eggs.", "bn": "সে ডিম ফেটিয়েছে।" },
+      {
+        "en": "We were beaten in the final.",
+        "bn": "আমরা ফাইনালে হেরে গিয়েছিলাম।"
+      },
+      {
+        "en": "The clock is beating every second.",
+        "bn": "ঘড়ি প্রতি সেকেন্ডে টিক টিক করছে।"
+      }
+    ],
+    "synonyms": ["defeat", "hit", "strike", "pulse"]
   }
 ]

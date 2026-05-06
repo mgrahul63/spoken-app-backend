@@ -1,0 +1,3268 @@
+[
+  {
+    "base": "accept",
+    "phonetic": "əkˈsept",
+    "v2": "accepted",
+    "v3": "accepted",
+    "meaning": "গ্রহণ করা",
+    "examples": [
+      { "en": "I accept the offer.", "bn": "আমি প্রস্তাবটি গ্রহণ করি" },
+      { "en": "She accepts help.", "bn": "সে সাহায্য গ্রহণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He accepted the job.", "bn": "সে চাকরিটি গ্রহণ করেছিল" },
+      { "en": "They accept the rules.", "bn": "তারা নিয়ম মেনে নেয়" },
+      { "en": "I am accepting it.", "bn": "আমি এটি গ্রহণ করছি" },
+      { "en": "She accepted the gift.", "bn": "সে উপহারটি গ্রহণ করেছিল" },
+      { "en": "We accept changes.", "bn": "আমরা পরিবর্তন গ্রহণ করি" },
+      { "en": "They have accepted it.", "bn": "তারা এটি গ্রহণ করেছে" },
+      { "en": "I accepted the truth.", "bn": "আমি সত্যটি মেনে নিয়েছি" },
+      { "en": "He is accepting the offer.", "bn": "সে প্রস্তাবটি গ্রহণ করছে" },
+      { "en": "She accepts criticism.", "bn": "সে সমালোচনা গ্রহণ করে" },
+      {
+        "en": "They accepted the decision.",
+        "bn": "তারা সিদ্ধান্ত গ্রহণ করেছিল"
+      }
+    ],
+    "synonyms": ["agree", "receive", "approve"]
+  },
+  {
+    "base": "access",
+    "phonetic": "ˈækses",
+    "v2": "accessed",
+    "v3": "accessed",
+    "meaning": "প্রবেশ করা / ব্যবহার করা",
+    "examples": [
+      { "en": "I access the system.", "bn": "আমি সিস্টেমে প্রবেশ করি" },
+      { "en": "She accesses data.", "bn": "সে ডেটা ব্যবহার করে" }
+    ],
+    "moreexample": [
+      { "en": "He accessed the file.", "bn": "সে ফাইলটি ব্যবহার করেছিল" },
+      { "en": "They access the server.", "bn": "তারা সার্ভারে প্রবেশ করে" },
+      { "en": "I am accessing it now.", "bn": "আমি এখন এটি ব্যবহার করছি" },
+      {
+        "en": "She accessed the account.",
+        "bn": "সে অ্যাকাউন্টে প্রবেশ করেছিল"
+      },
+      { "en": "We access information.", "bn": "আমরা তথ্য ব্যবহার করি" },
+      { "en": "They have accessed it.", "bn": "তারা এটি ব্যবহার করেছে" },
+      {
+        "en": "I accessed the system yesterday.",
+        "bn": "আমি গতকাল সিস্টেম ব্যবহার করেছি"
+      },
+      { "en": "He is accessing data.", "bn": "সে ডেটা ব্যবহার করছে" },
+      {
+        "en": "She accesses files daily.",
+        "bn": "সে প্রতিদিন ফাইল ব্যবহার করে"
+      },
+      {
+        "en": "They accessed the network.",
+        "bn": "তারা নেটওয়ার্কে প্রবেশ করেছিল"
+      }
+    ],
+    "synonyms": ["enter", "use", "reach"]
+  },
+  {
+    "base": "accompany",
+    "phonetic": "əˈkʌmpəni",
+    "v2": "accompanied",
+    "v3": "accompanied",
+    "meaning": "সঙ্গে থাকা",
+    "examples": [
+      { "en": "I accompany my friend.", "bn": "আমি আমার বন্ধুর সাথে থাকি" },
+      { "en": "She accompanies him.", "bn": "সে তার সাথে থাকে" }
+    ],
+    "moreexample": [
+      { "en": "He accompanied her home.", "bn": "সে তাকে বাসায় পৌঁছে দিল" },
+      { "en": "They accompany the teacher.", "bn": "তারা শিক্ষকের সাথে থাকে" },
+      { "en": "I am accompanying you.", "bn": "আমি তোমার সাথে যাচ্ছি" },
+      { "en": "She accompanied the team.", "bn": "সে দলের সাথে ছিল" },
+      { "en": "We accompany guests.", "bn": "আমরা অতিথিদের সাথে থাকি" },
+      { "en": "They have accompanied us.", "bn": "তারা আমাদের সাথে ছিল" },
+      {
+        "en": "I accompanied him yesterday.",
+        "bn": "আমি তাকে গতকাল সাথে গিয়েছিলাম"
+      },
+      { "en": "He is accompanying them.", "bn": "সে তাদের সাথে যাচ্ছে" },
+      { "en": "She accompanies her mother.", "bn": "সে তার মায়ের সাথে থাকে" },
+      {
+        "en": "They accompanied the visitors.",
+        "bn": "তারা দর্শনার্থীদের সাথে ছিল"
+      }
+    ],
+    "synonyms": ["join", "escort", "attend"]
+  },
+  {
+    "base": "accomplish",
+    "phonetic": "əˈkʌmplɪʃ",
+    "v2": "accomplished",
+    "v3": "accomplished",
+    "meaning": "সম্পন্ন করা",
+    "examples": [
+      { "en": "I accomplish my goal.", "bn": "আমি আমার লক্ষ্য অর্জন করি" },
+      { "en": "She accomplishes tasks.", "bn": "সে কাজ সম্পন্ন করে" }
+    ],
+    "moreexample": [
+      { "en": "He accomplished the mission.", "bn": "সে মিশন সম্পন্ন করেছিল" },
+      { "en": "They accomplish work.", "bn": "তারা কাজ সম্পন্ন করে" },
+      { "en": "I am accomplishing it.", "bn": "আমি এটি সম্পন্ন করছি" },
+      { "en": "She accomplished success.", "bn": "সে সাফল্য অর্জন করেছিল" },
+      { "en": "We accomplish goals.", "bn": "আমরা লক্ষ্য অর্জন করি" },
+      { "en": "They have accomplished it.", "bn": "তারা এটি সম্পন্ন করেছে" },
+      { "en": "I accomplished the task.", "bn": "আমি কাজটি সম্পন্ন করেছি" },
+      { "en": "He is accomplishing work.", "bn": "সে কাজ সম্পন্ন করছে" },
+      { "en": "She accomplishes everything.", "bn": "সে সবকিছু সম্পন্ন করে" },
+      { "en": "They accomplished success.", "bn": "তারা সাফল্য অর্জন করেছিল" }
+    ],
+    "synonyms": ["achieve", "complete", "fulfill"]
+  },
+  {
+    "base": "account",
+    "phonetic": "əˈkaʊnt",
+    "v2": "accounted",
+    "v3": "accounted",
+    "meaning": "হিসাব করা / ব্যাখ্যা করা",
+    "examples": [
+      { "en": "I account the money.", "bn": "আমি টাকার হিসাব করি" },
+      { "en": "She accounts everything.", "bn": "সে সবকিছুর হিসাব করে" }
+    ],
+    "moreexample": [
+      { "en": "He accounted the expenses.", "bn": "সে খরচের হিসাব করেছিল" },
+      { "en": "They account details.", "bn": "তারা বিস্তারিত হিসাব করে" },
+      { "en": "I am accounting now.", "bn": "আমি এখন হিসাব করছি" },
+      { "en": "She accounted the loss.", "bn": "সে ক্ষতির হিসাব করেছিল" },
+      { "en": "We account properly.", "bn": "আমরা সঠিকভাবে হিসাব করি" },
+      { "en": "They have accounted it.", "bn": "তারা এটি হিসাব করেছে" },
+      { "en": "I accounted everything.", "bn": "আমি সবকিছুর হিসাব করেছি" },
+      { "en": "He is accounting data.", "bn": "সে ডেটার হিসাব করছে" },
+      { "en": "She accounts carefully.", "bn": "সে সাবধানে হিসাব করে" },
+      {
+        "en": "They accounted the report.",
+        "bn": "তারা রিপোর্টের হিসাব করেছিল"
+      }
+    ],
+    "synonyms": ["calculate", "explain", "consider"]
+  },
+  {
+    "base": "accumulate",
+    "phonetic": "əˈkjuːmjəleɪt",
+    "v2": "accumulated",
+    "v3": "accumulated",
+    "meaning": "জমা করা",
+    "examples": [
+      { "en": "I accumulate money.", "bn": "আমি টাকা জমা করি" },
+      { "en": "She accumulates knowledge.", "bn": "সে জ্ঞান জমা করে" }
+    ],
+    "moreexample": [
+      { "en": "He accumulated wealth.", "bn": "সে সম্পদ জমা করেছিল" },
+      { "en": "They accumulate data.", "bn": "তারা ডেটা জমা করে" },
+      { "en": "I am accumulating points.", "bn": "আমি পয়েন্ট জমা করছি" },
+      { "en": "She accumulated experience.", "bn": "সে অভিজ্ঞতা জমা করেছিল" },
+      { "en": "We accumulate resources.", "bn": "আমরা সম্পদ জমা করি" },
+      { "en": "They have accumulated it.", "bn": "তারা এটি জমা করেছে" },
+      { "en": "I accumulated books.", "bn": "আমি বই জমা করেছিলাম" },
+      { "en": "He is accumulating skills.", "bn": "সে দক্ষতা জমা করছে" },
+      {
+        "en": "She accumulates knowledge daily.",
+        "bn": "সে প্রতিদিন জ্ঞান জমা করে"
+      },
+      { "en": "They accumulated money.", "bn": "তারা টাকা জমা করেছিল" }
+    ],
+    "synonyms": ["collect", "gather", "pile"]
+  },
+  {
+    "base": "accuse",
+    "phonetic": "əˈkjuːz",
+    "v2": "accused",
+    "v3": "accused",
+    "meaning": "অভিযোগ করা",
+    "examples": [
+      { "en": "I accuse him.", "bn": "আমি তার বিরুদ্ধে অভিযোগ করি" },
+      { "en": "She accuses them.", "bn": "সে তাদের অভিযোগ করে" }
+    ],
+    "moreexample": [
+      { "en": "He accused me.", "bn": "সে আমাকে অভিযুক্ত করেছিল" },
+      { "en": "They accuse him.", "bn": "তারা তাকে অভিযুক্ত করে" },
+      { "en": "I am accusing now.", "bn": "আমি এখন অভিযোগ করছি" },
+      { "en": "She accused the boy.", "bn": "সে ছেলেটিকে অভিযুক্ত করেছিল" },
+      { "en": "We accuse carefully.", "bn": "আমরা সাবধানে অভিযোগ করি" },
+      { "en": "They have accused him.", "bn": "তারা তাকে অভিযুক্ত করেছে" },
+      { "en": "I accused wrongly.", "bn": "আমি ভুলভাবে অভিযুক্ত করেছিলাম" },
+      { "en": "He is accusing her.", "bn": "সে তাকে অভিযুক্ত করছে" },
+      { "en": "She accuses daily.", "bn": "সে প্রতিদিন অভিযোগ করে" },
+      { "en": "They accused the man.", "bn": "তারা লোকটিকে অভিযুক্ত করেছিল" }
+    ],
+    "synonyms": ["blame", "charge", "allege"]
+  },
+  {
+    "base": "achieve",
+    "phonetic": "əˈtʃiːv",
+    "v2": "achieved",
+    "v3": "achieved",
+    "meaning": "অর্জন করা",
+    "examples": [
+      { "en": "I achieve success.", "bn": "আমি সাফল্য অর্জন করি" },
+      { "en": "She achieves goals.", "bn": "সে লক্ষ্য অর্জন করে" }
+    ],
+    "moreexample": [
+      { "en": "He achieved victory.", "bn": "সে বিজয় অর্জন করেছিল" },
+      { "en": "They achieve results.", "bn": "তারা ফলাফল অর্জন করে" },
+      { "en": "I am achieving now.", "bn": "আমি এখন অর্জন করছি" },
+      { "en": "She achieved her dream.", "bn": "সে তার স্বপ্ন অর্জন করেছিল" },
+      { "en": "We achieve targets.", "bn": "আমরা লক্ষ্য অর্জন করি" },
+      { "en": "They have achieved it.", "bn": "তারা এটি অর্জন করেছে" },
+      { "en": "I achieved success.", "bn": "আমি সাফল্য অর্জন করেছি" },
+      { "en": "He is achieving progress.", "bn": "সে অগ্রগতি অর্জন করছে" },
+      { "en": "She achieves everything.", "bn": "সে সবকিছু অর্জন করে" },
+      { "en": "They achieved goals.", "bn": "তারা লক্ষ্য অর্জন করেছিল" }
+    ],
+    "synonyms": ["gain", "reach", "obtain"]
+  },
+  {
+    "base": "acknowledge",
+    "phonetic": "əkˈnɒlɪdʒ",
+    "v2": "acknowledged",
+    "v3": "acknowledged",
+    "meaning": "স্বীকার করা",
+    "examples": [
+      { "en": "I acknowledge the truth.", "bn": "আমি সত্যটি স্বীকার করি" },
+      { "en": "She acknowledges mistake.", "bn": "সে ভুল স্বীকার করে" }
+    ],
+    "moreexample": [
+      { "en": "He acknowledged the error.", "bn": "সে ভুল স্বীকার করেছিল" },
+      { "en": "They acknowledge help.", "bn": "তারা সাহায্য স্বীকার করে" },
+      { "en": "I am acknowledging it.", "bn": "আমি এটি স্বীকার করছি" },
+      { "en": "She acknowledged success.", "bn": "সে সাফল্য স্বীকার করেছিল" },
+      { "en": "We acknowledge facts.", "bn": "আমরা তথ্য স্বীকার করি" },
+      { "en": "They have acknowledged it.", "bn": "তারা এটি স্বীকার করেছে" },
+      { "en": "I acknowledged him.", "bn": "আমি তাকে স্বীকার করেছি" },
+      { "en": "He is acknowledging now.", "bn": "সে এখন স্বীকার করছে" },
+      { "en": "She acknowledges reality.", "bn": "সে বাস্তবতা স্বীকার করে" },
+      { "en": "They acknowledged mistake.", "bn": "তারা ভুল স্বীকার করেছিল" }
+    ],
+    "synonyms": ["admit", "recognize", "accept"]
+  },
+  {
+    "base": "acquire",
+    "phonetic": "əˈkwaɪə",
+    "v2": "acquired",
+    "v3": "acquired",
+    "meaning": "অর্জন/প্রাপ্ত করা",
+    "examples": [
+      { "en": "I acquire skills.", "bn": "আমি দক্ষতা অর্জন করি" },
+      { "en": "She acquires knowledge.", "bn": "সে জ্ঞান অর্জন করে" }
+    ],
+    "moreexample": [
+      { "en": "He acquired a house.", "bn": "সে একটি বাড়ি অর্জন করেছিল" },
+      { "en": "They acquire data.", "bn": "তারা ডেটা অর্জন করে" },
+      { "en": "I am acquiring it.", "bn": "আমি এটি অর্জন করছি" },
+      { "en": "She acquired experience.", "bn": "সে অভিজ্ঞতা অর্জন করেছিল" },
+      { "en": "We acquire resources.", "bn": "আমরা সম্পদ অর্জন করি" },
+      { "en": "They have acquired it.", "bn": "তারা এটি অর্জন করেছে" },
+      { "en": "I acquired knowledge.", "bn": "আমি জ্ঞান অর্জন করেছি" },
+      { "en": "He is acquiring skills.", "bn": "সে দক্ষতা অর্জন করছে" },
+      {
+        "en": "She acquires daily experience.",
+        "bn": "সে প্রতিদিন অভিজ্ঞতা অর্জন করে"
+      },
+      { "en": "They acquired success.", "bn": "তারা সাফল্য অর্জন করেছিল" }
+    ],
+    "synonyms": ["obtain", "gain", "get"]
+  },
+  {
+    "base": "act",
+    "phonetic": "ækt",
+    "v2": "acted",
+    "v3": "acted",
+    "meaning": "কাজ করা / অভিনয় করা",
+    "examples": [
+      { "en": "I act fast.", "bn": "আমি দ্রুত কাজ করি" },
+      { "en": "She acts in movies.", "bn": "সে সিনেমায় অভিনয় করে" }
+    ],
+    "moreexample": [
+      { "en": "He acted well.", "bn": "সে ভালো অভিনয় করেছিল" },
+      { "en": "They act quickly.", "bn": "তারা দ্রুত কাজ করে" },
+      { "en": "I am acting now.", "bn": "আমি এখন কাজ করছি" },
+      { "en": "She acted in drama.", "bn": "সে নাটকে অভিনয় করেছিল" },
+      { "en": "We act together.", "bn": "আমরা একসাথে কাজ করি" },
+      { "en": "They have acted.", "bn": "তারা কাজ করেছে" },
+      { "en": "I acted yesterday.", "bn": "আমি গতকাল কাজ করেছি" },
+      { "en": "He is acting now.", "bn": "সে এখন কাজ করছে" },
+      { "en": "She acts naturally.", "bn": "সে স্বাভাবিকভাবে কাজ করে" },
+      { "en": "They acted in play.", "bn": "তারা নাটকে অভিনয় করেছিল" }
+    ],
+    "synonyms": ["perform", "do", "behave"]
+  },
+  {
+    "base": "activate",
+    "phonetic": "ˈæktɪveɪt",
+    "v2": "activated",
+    "v3": "activated",
+    "meaning": "সক্রিয় করা",
+    "examples": [
+      { "en": "I activate the system.", "bn": "আমি সিস্টেম চালু করি" },
+      { "en": "She activates alarm.", "bn": "সে অ্যালার্ম চালু করে" }
+    ],
+    "moreexample": [
+      { "en": "He activated the device.", "bn": "সে ডিভাইস চালু করেছিল" },
+      { "en": "They activate service.", "bn": "তারা সার্ভিস চালু করে" },
+      { "en": "I am activating it.", "bn": "আমি এটি চালু করছি" },
+      { "en": "She activated account.", "bn": "সে অ্যাকাউন্ট চালু করেছিল" },
+      { "en": "We activate system.", "bn": "আমরা সিস্টেম চালু করি" },
+      { "en": "They have activated it.", "bn": "তারা এটি চালু করেছে" },
+      { "en": "I activated phone.", "bn": "আমি ফোন চালু করেছি" },
+      { "en": "He is activating now.", "bn": "সে এখন চালু করছে" },
+      { "en": "She activates security.", "bn": "সে নিরাপত্তা চালু করে" },
+      { "en": "They activated mode.", "bn": "তারা মোড চালু করেছিল" }
+    ],
+    "synonyms": ["start", "enable", "turn on"]
+  },
+  {
+    "base": "adapt",
+    "phonetic": "əˈdæpt",
+    "v2": "adapted",
+    "v3": "adapted",
+    "meaning": "খাপ খাওয়ানো",
+    "examples": [
+      { "en": "I adapt quickly.", "bn": "আমি দ্রুত খাপ খাইয়ে নিই" },
+      { "en": "She adapts to change.", "bn": "সে পরিবর্তনের সাথে খাপ খায়" }
+    ],
+    "moreexample": [
+      { "en": "He adapted well.", "bn": "সে ভালোভাবে খাপ খাইয়েছিল" },
+      { "en": "They adapt easily.", "bn": "তারা সহজে খাপ খায়" },
+      { "en": "I am adapting now.", "bn": "আমি এখন খাপ খাচ্ছি" },
+      { "en": "She adapted to life.", "bn": "সে জীবনের সাথে খাপ খাইয়েছিল" },
+      { "en": "We adapt together.", "bn": "আমরা একসাথে খাপ খাই" },
+      { "en": "They have adapted.", "bn": "তারা খাপ খাইয়েছে" },
+      { "en": "I adapted quickly.", "bn": "আমি দ্রুত খাপ খাইয়েছিলাম" },
+      { "en": "He is adapting now.", "bn": "সে এখন খাপ খাচ্ছে" },
+      { "en": "She adapts fast.", "bn": "সে দ্রুত খাপ খায়" },
+      {
+        "en": "They adapted environment.",
+        "bn": "তারা পরিবেশের সাথে খাপ খাইয়েছিল"
+      }
+    ],
+    "synonyms": ["adjust", "fit", "modify"]
+  },
+  {
+    "base": "add",
+    "phonetic": "æd",
+    "v2": "added",
+    "v3": "added",
+    "meaning": "যোগ করা",
+    "examples": [
+      { "en": "I add sugar.", "bn": "আমি চিনি যোগ করি" },
+      { "en": "She adds salt.", "bn": "সে লবণ যোগ করে" }
+    ],
+    "moreexample": [
+      { "en": "He added water.", "bn": "সে পানি যোগ করেছিল" },
+      { "en": "They add numbers.", "bn": "তারা সংখ্যা যোগ করে" },
+      { "en": "I am adding it.", "bn": "আমি এটি যোগ করছি" },
+      { "en": "She added oil.", "bn": "সে তেল যোগ করেছিল" },
+      { "en": "We add values.", "bn": "আমরা মান যোগ করি" },
+      { "en": "They have added it.", "bn": "তারা এটি যোগ করেছে" },
+      { "en": "I added a note.", "bn": "আমি একটি নোট যোগ করেছি" },
+      { "en": "He is adding details.", "bn": "সে বিস্তারিত যোগ করছে" },
+      { "en": "She adds color.", "bn": "সে রঙ যোগ করে" },
+      { "en": "They added time.", "bn": "তারা সময় যোগ করেছিল" }
+    ],
+    "synonyms": ["include", "increase", "combine"]
+  },
+  {
+    "base": "address",
+    "phonetic": "əˈdres",
+    "v2": "addressed",
+    "v3": "addressed",
+    "meaning": "সমাধান করা / সম্বোধন করা",
+    "examples": [
+      { "en": "I address the issue.", "bn": "আমি সমস্যাটি সমাধান করি" },
+      { "en": "She addresses him.", "bn": "সে তাকে সম্বোধন করে" }
+    ],
+    "moreexample": [
+      { "en": "He addressed the problem.", "bn": "সে সমস্যাটি সমাধান করেছিল" },
+      { "en": "They address concerns.", "bn": "তারা উদ্বেগ সমাধান করে" },
+      { "en": "I am addressing it.", "bn": "আমি এটি সমাধান করছি" },
+      { "en": "She addressed the crowd.", "bn": "সে জনতাকে সম্বোধন করেছিল" },
+      { "en": "We address issues.", "bn": "আমরা সমস্যা সমাধান করি" },
+      { "en": "They have addressed it.", "bn": "তারা এটি সমাধান করেছে" },
+      { "en": "I addressed the matter.", "bn": "আমি বিষয়টি সমাধান করেছি" },
+      { "en": "He is addressing now.", "bn": "সে এখন সমাধান করছে" },
+      { "en": "She addresses politely.", "bn": "সে ভদ্রভাবে সম্বোধন করে" },
+      {
+        "en": "They addressed the complaint.",
+        "bn": "তারা অভিযোগ সমাধান করেছিল"
+      }
+    ],
+    "synonyms": ["handle", "solve", "speak to"]
+  },
+  {
+    "base": "adjust",
+    "phonetic": "əˈdʒʌst",
+    "v2": "adjusted",
+    "v3": "adjusted",
+    "meaning": "সমন্বয় করা",
+    "examples": [
+      { "en": "I adjust the chair.", "bn": "আমি চেয়ার ঠিক করি" },
+      { "en": "She adjusts settings.", "bn": "সে সেটিংস ঠিক করে" }
+    ],
+    "moreexample": [
+      { "en": "He adjusted the mirror.", "bn": "সে আয়না ঠিক করেছিল" },
+      { "en": "They adjust plans.", "bn": "তারা পরিকল্পনা ঠিক করে" },
+      { "en": "I am adjusting it.", "bn": "আমি এটি ঠিক করছি" },
+      { "en": "She adjusted lights.", "bn": "সে আলো ঠিক করেছিল" },
+      { "en": "We adjust rules.", "bn": "আমরা নিয়ম ঠিক করি" },
+      { "en": "They have adjusted it.", "bn": "তারা এটি ঠিক করেছে" },
+      { "en": "I adjusted position.", "bn": "আমি অবস্থান ঠিক করেছি" },
+      { "en": "He is adjusting now.", "bn": "সে এখন ঠিক করছে" },
+      { "en": "She adjusts quickly.", "bn": "সে দ্রুত মানিয়ে নেয়" },
+      { "en": "They adjusted system.", "bn": "তারা সিস্টেম ঠিক করেছিল" }
+    ],
+    "synonyms": ["modify", "fix", "change"]
+  },
+  {
+    "base": "admire",
+    "phonetic": "ədˈmaɪə",
+    "v2": "admired",
+    "v3": "admired",
+    "meaning": "প্রশংসা করা",
+    "examples": [
+      { "en": "I admire her talent.", "bn": "আমি তার প্রতিভা প্রশংসা করি" },
+      { "en": "She admires him.", "bn": "সে তাকে প্রশংসা করে" }
+    ],
+    "moreexample": [
+      { "en": "He admired the view.", "bn": "সে দৃশ্যটি প্রশংসা করেছিল" },
+      { "en": "They admire nature.", "bn": "তারা প্রকৃতিকে প্রশংসা করে" },
+      { "en": "I am admiring it.", "bn": "আমি এটি প্রশংসা করছি" },
+      { "en": "She admired beauty.", "bn": "সে সৌন্দর্য প্রশংসা করেছিল" },
+      { "en": "We admire courage.", "bn": "আমরা সাহস প্রশংসা করি" },
+      { "en": "They have admired it.", "bn": "তারা এটি প্রশংসা করেছে" },
+      { "en": "I admired his work.", "bn": "আমি তার কাজ প্রশংসা করেছি" },
+      { "en": "He is admiring now.", "bn": "সে এখন প্রশংসা করছে" },
+      { "en": "She admires honesty.", "bn": "সে সততা প্রশংসা করে" },
+      { "en": "They admired the leader.", "bn": "তারা নেতাকে প্রশংসা করেছিল" }
+    ],
+    "synonyms": ["respect", "praise", "appreciate"]
+  },
+  {
+    "base": "admit",
+    "phonetic": "ədˈmɪt",
+    "v2": "admitted",
+    "v3": "admitted",
+    "meaning": "স্বীকার করা / প্রবেশ করতে দেওয়া",
+    "examples": [
+      { "en": "I admit my mistake.", "bn": "আমি আমার ভুল স্বীকার করি" },
+      { "en": "She admits the truth.", "bn": "সে সত্য স্বীকার করে" }
+    ],
+    "moreexample": [
+      { "en": "He admitted guilt.", "bn": "সে অপরাধ স্বীকার করেছিল" },
+      { "en": "They admit students.", "bn": "তারা ছাত্রদের প্রবেশ দেয়" },
+      { "en": "I am admitting it.", "bn": "আমি এটি স্বীকার করছি" },
+      { "en": "She admitted error.", "bn": "সে ভুল স্বীকার করেছিল" },
+      { "en": "We admit guests.", "bn": "আমরা অতিথিদের প্রবেশ দিই" },
+      { "en": "They have admitted it.", "bn": "তারা এটি স্বীকার করেছে" },
+      { "en": "I admitted fault.", "bn": "আমি দোষ স্বীকার করেছি" },
+      { "en": "He is admitting now.", "bn": "সে এখন স্বীকার করছে" },
+      { "en": "She admits everything.", "bn": "সে সবকিছু স্বীকার করে" },
+      { "en": "They admitted mistake.", "bn": "তারা ভুল স্বীকার করেছিল" }
+    ],
+    "synonyms": ["accept", "confess", "allow"]
+  },
+  {
+    "base": "adopt",
+    "phonetic": "əˈdɒpt",
+    "v2": "adopted",
+    "v3": "adopted",
+    "meaning": "গ্রহণ করা / দত্তক নেওয়া",
+    "examples": [
+      { "en": "I adopt a child.", "bn": "আমি একটি শিশু দত্তক নেই" },
+      { "en": "She adopts ideas.", "bn": "সে ধারণা গ্রহণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He adopted a policy.", "bn": "সে একটি নীতি গ্রহণ করেছিল" },
+      { "en": "They adopt new rules.", "bn": "তারা নতুন নিয়ম গ্রহণ করে" },
+      { "en": "I am adopting it.", "bn": "আমি এটি গ্রহণ করছি" },
+      { "en": "She adopted a cat.", "bn": "সে একটি বিড়াল দত্তক নিয়েছিল" },
+      { "en": "We adopt changes.", "bn": "আমরা পরিবর্তন গ্রহণ করি" },
+      { "en": "They have adopted it.", "bn": "তারা এটি গ্রহণ করেছে" },
+      { "en": "I adopted the plan.", "bn": "আমি পরিকল্পনাটি গ্রহণ করেছি" },
+      { "en": "He is adopting now.", "bn": "সে এখন গ্রহণ করছে" },
+      { "en": "She adopts habits.", "bn": "সে অভ্যাস গ্রহণ করে" },
+      { "en": "They adopted strategy.", "bn": "তারা কৌশল গ্রহণ করেছিল" }
+    ],
+    "synonyms": ["take", "accept", "choose"]
+  },
+  {
+    "base": "adore",
+    "phonetic": "əˈdɔː",
+    "v2": "adored",
+    "v3": "adored",
+    "meaning": "ভালোবাসা / শ্রদ্ধা করা",
+    "examples": [
+      { "en": "I adore my mother.", "bn": "আমি আমার মাকে ভালোবাসি" },
+      { "en": "She adores him.", "bn": "সে তাকে ভালোবাসে" }
+    ],
+    "moreexample": [
+      { "en": "He adored the baby.", "bn": "সে শিশুটিকে ভালোবাসত" },
+      { "en": "They adore music.", "bn": "তারা সংগীত ভালোবাসে" },
+      { "en": "I am adoring it.", "bn": "আমি এটি ভালোবাসছি" },
+      { "en": "She adored flowers.", "bn": "সে ফুল ভালোবাসত" },
+      { "en": "We adore nature.", "bn": "আমরা প্রকৃতি ভালোবাসি" },
+      { "en": "They have adored it.", "bn": "তারা এটি ভালোবাসেছে" },
+      { "en": "I adored the movie.", "bn": "আমি সিনেমাটি ভালোবেসেছিলাম" },
+      { "en": "He is adoring now.", "bn": "সে এখন ভালোবাসছে" },
+      { "en": "She adores kids.", "bn": "সে শিশুদের ভালোবাসে" },
+      { "en": "They adored the place.", "bn": "তারা জায়গাটি ভালোবেসেছিল" }
+    ],
+    "synonyms": ["love", "like", "admire"]
+  },
+
+  {
+    "base": "affect",
+    "phonetic": "əˈfekt",
+    "v2": "affected",
+    "v3": "affected",
+    "meaning": "প্রভাবিত করা",
+    "examples": [
+      { "en": "Weather affects mood.", "bn": "আবহাওয়া মেজাজকে প্রভাবিত করে" },
+      { "en": "It affects health.", "bn": "এটি স্বাস্থ্যে প্রভাব ফেলে" }
+    ],
+    "moreexample": [
+      { "en": "The news affected him.", "bn": "খবরটি তাকে প্রভাবিত করেছিল" },
+      { "en": "They affect decisions.", "bn": "তারা সিদ্ধান্তে প্রভাব ফেলে" },
+      { "en": "It is affecting results.", "bn": "এটি ফলাফলকে প্রভাবিত করছে" },
+      { "en": "The smell affected me.", "bn": "গন্ধটি আমাকে প্রভাবিত করেছিল" },
+      { "en": "Policies affect people.", "bn": "নীতি মানুষকে প্রভাবিত করে" },
+      {
+        "en": "It affected performance.",
+        "bn": "এটি পারফরম্যান্সকে প্রভাবিত করেছিল"
+      },
+      { "en": "She affects the team.", "bn": "সে দলকে প্রভাবিত করে" },
+      { "en": "They have affected change.", "bn": "তারা পরিবর্তন এনেছে" },
+      { "en": "I was affected by it.", "bn": "আমি এতে প্রভাবিত হয়েছিলাম" },
+      { "en": "It affects everyone.", "bn": "এটি সবাইকে প্রভাবিত করে" }
+    ],
+    "synonyms": ["influence", "impact", "change"]
+  },
+  {
+    "base": "afford",
+    "phonetic": "əˈfɔːd",
+    "v2": "afforded",
+    "v3": "afforded",
+    "meaning": "সামর্থ্য থাকা",
+    "examples": [
+      { "en": "I can afford it.", "bn": "আমি এটি কিনতে পারি" },
+      { "en": "She affords a car.", "bn": "সে গাড়ি কিনতে পারে" }
+    ],
+    "moreexample": [
+      { "en": "He cannot afford it.", "bn": "সে এটি কিনতে পারে না" },
+      { "en": "They afford luxury.", "bn": "তারা বিলাসিতা বহন করতে পারে" },
+      { "en": "I am affording it.", "bn": "আমি এটি বহন করছি" },
+      { "en": "She afforded a house.", "bn": "সে একটি বাড়ি কিনেছিল" },
+      { "en": "We afford expenses.", "bn": "আমরা খরচ বহন করি" },
+      { "en": "They have afforded it.", "bn": "তারা এটি বহন করেছে" },
+      { "en": "I afforded a phone.", "bn": "আমি একটি ফোন কিনেছিলাম" },
+      { "en": "He is affording now.", "bn": "সে এখন কিনতে পারছে" },
+      { "en": "She affords comfort.", "bn": "সে আরাম দিতে পারে" },
+      { "en": "They afforded travel.", "bn": "তারা ভ্রমণ করতে পেরেছিল" }
+    ],
+    "synonyms": ["manage", "bear", "pay"]
+  },
+  {
+    "base": "agree",
+    "phonetic": "əˈɡriː",
+    "v2": "agreed",
+    "v3": "agreed",
+    "meaning": "সম্মত হওয়া",
+    "examples": [
+      { "en": "I agree with you.", "bn": "আমি তোমার সাথে একমত" },
+      { "en": "She agrees quickly.", "bn": "সে দ্রুত সম্মত হয়" }
+    ],
+    "moreexample": [
+      { "en": "He agreed to help.", "bn": "সে সাহায্য করতে সম্মত হয়েছিল" },
+      { "en": "They agree on plan.", "bn": "তারা পরিকল্পনায় একমত" },
+      { "en": "I am agreeing now.", "bn": "আমি এখন সম্মত হচ্ছি" },
+      { "en": "She agreed yesterday.", "bn": "সে গতকাল সম্মত হয়েছিল" },
+      { "en": "We agree fully.", "bn": "আমরা পুরোপুরি একমত" },
+      { "en": "They have agreed.", "bn": "তারা সম্মত হয়েছে" },
+      { "en": "I agreed instantly.", "bn": "আমি সঙ্গে সঙ্গে সম্মত হয়েছিলাম" },
+      { "en": "He is agreeing now.", "bn": "সে এখন সম্মত হচ্ছে" },
+      { "en": "She agrees always.", "bn": "সে সবসময় সম্মত হয়" },
+      { "en": "They agreed together.", "bn": "তারা একসাথে সম্মত হয়েছিল" }
+    ],
+    "synonyms": ["accept", "approve", "consent"]
+  },
+  {
+    "base": "alert",
+    "phonetic": "əˈlɜːt",
+    "v2": "alerted",
+    "v3": "alerted",
+    "meaning": "সতর্ক করা",
+    "examples": [
+      { "en": "I alert him.", "bn": "আমি তাকে সতর্ক করি" },
+      { "en": "She alerts us.", "bn": "সে আমাদের সতর্ক করে" }
+    ],
+    "moreexample": [
+      { "en": "He alerted the team.", "bn": "সে দলকে সতর্ক করেছিল" },
+      { "en": "They alert people.", "bn": "তারা মানুষকে সতর্ক করে" },
+      { "en": "I am alerting now.", "bn": "আমি এখন সতর্ক করছি" },
+      { "en": "She alerted police.", "bn": "সে পুলিশকে সতর্ক করেছিল" },
+      { "en": "We alert users.", "bn": "আমরা ব্যবহারকারীদের সতর্ক করি" },
+      { "en": "They have alerted it.", "bn": "তারা এটি সতর্ক করেছে" },
+      { "en": "I alerted danger.", "bn": "আমি বিপদ সম্পর্কে সতর্ক করেছি" },
+      { "en": "He is alerting now.", "bn": "সে এখন সতর্ক করছে" },
+      { "en": "She alerts fast.", "bn": "সে দ্রুত সতর্ক করে" },
+      { "en": "They alerted everyone.", "bn": "তারা সবাইকে সতর্ক করেছিল" }
+    ],
+    "synonyms": ["warn", "notify", "inform"]
+  },
+  {
+    "base": "allow",
+    "phonetic": "əˈlaʊ",
+    "v2": "allowed",
+    "v3": "allowed",
+    "meaning": "অনুমতি দেওয়া",
+    "examples": [
+      { "en": "I allow him.", "bn": "আমি তাকে অনুমতি দিই" },
+      { "en": "She allows entry.", "bn": "সে প্রবেশের অনুমতি দেয়" }
+    ],
+    "moreexample": [
+      { "en": "He allowed access.", "bn": "সে প্রবেশের অনুমতি দিয়েছিল" },
+      { "en": "They allow students.", "bn": "তারা ছাত্রদের অনুমতি দেয়" },
+      { "en": "I am allowing it.", "bn": "আমি এটি অনুমতি দিচ্ছি" },
+      { "en": "She allowed time.", "bn": "সে সময় দিয়েছিল" },
+      { "en": "We allow freedom.", "bn": "আমরা স্বাধীনতা দিই" },
+      { "en": "They have allowed it.", "bn": "তারা এটি অনুমতি দিয়েছে" },
+      { "en": "I allowed him.", "bn": "আমি তাকে অনুমতি দিয়েছিলাম" },
+      { "en": "He is allowing now.", "bn": "সে এখন অনুমতি দিচ্ছে" },
+      { "en": "She allows change.", "bn": "সে পরিবর্তন অনুমতি দেয়" },
+      { "en": "They allowed entry.", "bn": "তারা প্রবেশের অনুমতি দিয়েছিল" }
+    ],
+    "synonyms": ["permit", "let", "authorize"]
+  },
+  {
+    "base": "amaze",
+    "phonetic": "əˈmeɪz",
+    "v2": "amazed",
+    "v3": "amazed",
+    "meaning": "অবাক করা",
+    "examples": [
+      { "en": "I amaze him.", "bn": "আমি তাকে অবাক করি" },
+      { "en": "She amazes me.", "bn": "সে আমাকে অবাক করে" }
+    ],
+    "moreexample": [
+      { "en": "He amazed everyone.", "bn": "সে সবাইকে অবাক করেছিল" },
+      { "en": "They amaze people.", "bn": "তারা মানুষকে অবাক করে" },
+      { "en": "I am amazing them.", "bn": "আমি তাদের অবাক করছি" },
+      { "en": "She amazed us.", "bn": "সে আমাদের অবাক করেছিল" },
+      { "en": "We amaze guests.", "bn": "আমরা অতিথিদের অবাক করি" },
+      { "en": "They have amazed it.", "bn": "তারা এটি অবাক করেছে" },
+      { "en": "I amazed crowd.", "bn": "আমি জনতাকে অবাক করেছি" },
+      { "en": "He is amazing now.", "bn": "সে এখন অবাক করছে" },
+      { "en": "She amazes daily.", "bn": "সে প্রতিদিন অবাক করে" },
+      { "en": "They amazed audience.", "bn": "তারা দর্শকদের অবাক করেছিল" }
+    ],
+    "synonyms": ["astonish", "surprise", "shock"]
+  },
+  {
+    "base": "analyze",
+    "phonetic": "ˈænəlaɪz",
+    "v2": "analyzed",
+    "v3": "analyzed",
+    "meaning": "বিশ্লেষণ করা",
+    "examples": [
+      { "en": "I analyze data.", "bn": "আমি ডেটা বিশ্লেষণ করি" },
+      { "en": "She analyzes results.", "bn": "সে ফলাফল বিশ্লেষণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He analyzed report.", "bn": "সে রিপোর্ট বিশ্লেষণ করেছিল" },
+      { "en": "They analyze systems.", "bn": "তারা সিস্টেম বিশ্লেষণ করে" },
+      { "en": "I am analyzing now.", "bn": "আমি এখন বিশ্লেষণ করছি" },
+      { "en": "She analyzed problem.", "bn": "সে সমস্যা বিশ্লেষণ করেছিল" },
+      { "en": "We analyze trends.", "bn": "আমরা প্রবণতা বিশ্লেষণ করি" },
+      { "en": "They have analyzed it.", "bn": "তারা এটি বিশ্লেষণ করেছে" },
+      { "en": "I analyzed data.", "bn": "আমি ডেটা বিশ্লেষণ করেছি" },
+      { "en": "He is analyzing now.", "bn": "সে এখন বিশ্লেষণ করছে" },
+      { "en": "She analyzes deeply.", "bn": "সে গভীরভাবে বিশ্লেষণ করে" },
+      {
+        "en": "They analyzed situation.",
+        "bn": "তারা পরিস্থিতি বিশ্লেষণ করেছিল"
+      }
+    ],
+    "synonyms": ["examine", "study", "inspect"]
+  },
+  {
+    "base": "announce",
+    "phonetic": "əˈnaʊns",
+    "v2": "announced",
+    "v3": "announced",
+    "meaning": "ঘোষণা করা",
+    "examples": [
+      { "en": "I announce results.", "bn": "আমি ফলাফল ঘোষণা করি" },
+      { "en": "She announces news.", "bn": "সে খবর ঘোষণা করে" }
+    ],
+    "moreexample": [
+      { "en": "He announced victory.", "bn": "সে বিজয় ঘোষণা করেছিল" },
+      { "en": "They announce plan.", "bn": "তারা পরিকল্পনা ঘোষণা করে" },
+      { "en": "I am announcing now.", "bn": "আমি এখন ঘোষণা করছি" },
+      { "en": "She announced event.", "bn": "সে অনুষ্ঠান ঘোষণা করেছিল" },
+      { "en": "We announce changes.", "bn": "আমরা পরিবর্তন ঘোষণা করি" },
+      { "en": "They have announced it.", "bn": "তারা এটি ঘোষণা করেছে" },
+      { "en": "I announced decision.", "bn": "আমি সিদ্ধান্ত ঘোষণা করেছি" },
+      { "en": "He is announcing now.", "bn": "সে এখন ঘোষণা করছে" },
+      { "en": "She announces clearly.", "bn": "সে পরিষ্কারভাবে ঘোষণা করে" },
+      { "en": "They announced results.", "bn": "তারা ফলাফল ঘোষণা করেছিল" }
+    ],
+    "synonyms": ["declare", "inform", "publish"]
+  },
+  {
+    "base": "apologize",
+    "phonetic": "əˈpɒlədʒaɪz",
+    "v2": "apologized",
+    "v3": "apologized",
+    "meaning": "ক্ষমা চাওয়া",
+    "examples": [
+      { "en": "I apologize to him.", "bn": "আমি তার কাছে ক্ষমা চাই" },
+      { "en": "She apologizes quickly.", "bn": "সে দ্রুত ক্ষমা চায়" }
+    ],
+    "moreexample": [
+      {
+        "en": "He apologized for mistake.",
+        "bn": "সে ভুলের জন্য ক্ষমা চেয়েছিল"
+      },
+      {
+        "en": "They apologize sincerely.",
+        "bn": "তারা আন্তরিকভাবে ক্ষমা চায়"
+      },
+      { "en": "I am apologizing now.", "bn": "আমি এখন ক্ষমা চাইছি" },
+      { "en": "She apologized yesterday.", "bn": "সে গতকাল ক্ষমা চেয়েছিল" },
+      { "en": "We apologize deeply.", "bn": "আমরা গভীরভাবে ক্ষমা চাই" },
+      { "en": "They have apologized.", "bn": "তারা ক্ষমা চেয়েছে" },
+      { "en": "I apologized already.", "bn": "আমি ইতিমধ্যে ক্ষমা চেয়েছি" },
+      { "en": "He is apologizing now.", "bn": "সে এখন ক্ষমা চাইছে" },
+      { "en": "She apologizes often.", "bn": "সে প্রায়ই ক্ষমা চায়" },
+      {
+        "en": "They apologized publicly.",
+        "bn": "তারা প্রকাশ্যে ক্ষমা চেয়েছিল"
+      }
+    ],
+    "synonyms": ["regret", "excuse", "pardon"]
+  },
+  {
+    "base": "apply",
+    "phonetic": "əˈplaɪ",
+    "v2": "applied",
+    "v3": "applied",
+    "meaning": "আবেদন করা / প্রয়োগ করা",
+    "examples": [
+      { "en": "I apply for job.", "bn": "আমি চাকরির জন্য আবেদন করি" },
+      { "en": "She applies cream.", "bn": "সে ক্রিম ব্যবহার করে" }
+    ],
+    "moreexample": [
+      { "en": "He applied for visa.", "bn": "সে ভিসার জন্য আবেদন করেছিল" },
+      { "en": "They apply rules.", "bn": "তারা নিয়ম প্রয়োগ করে" },
+      { "en": "I am applying now.", "bn": "আমি এখন আবেদন করছি" },
+      { "en": "She applied knowledge.", "bn": "সে জ্ঞান প্রয়োগ করেছিল" },
+      { "en": "We apply methods.", "bn": "আমরা পদ্ধতি প্রয়োগ করি" },
+      { "en": "They have applied it.", "bn": "তারা এটি প্রয়োগ করেছে" },
+      { "en": "I applied pressure.", "bn": "আমি চাপ প্রয়োগ করেছি" },
+      { "en": "He is applying now.", "bn": "সে এখন আবেদন করছে" },
+      { "en": "She applies skills.", "bn": "সে দক্ষতা প্রয়োগ করে" },
+      { "en": "They applied technique.", "bn": "তারা কৌশল প্রয়োগ করেছিল" }
+    ],
+    "synonyms": ["use", "submit", "utilize"]
+  },
+  {
+    "base": "approach",
+    "phonetic": "əˈprəʊtʃ",
+    "v2": "approached",
+    "v3": "approached",
+    "meaning": "কাছে যাওয়া / পদ্ধতি গ্রহণ করা",
+    "examples": [
+      { "en": "I approach him.", "bn": "আমি তার কাছে যাই" },
+      { "en": "She approaches problem.", "bn": "সে সমস্যা সমাধান করে" }
+    ],
+    "moreexample": [
+      { "en": "He approached slowly.", "bn": "সে ধীরে কাছে গিয়েছিল" },
+      { "en": "They approach goal.", "bn": "তারা লক্ষ্যের দিকে এগিয়ে যায়" },
+      { "en": "I am approaching now.", "bn": "আমি এখন এগিয়ে যাচ্ছি" },
+      { "en": "She approached teacher.", "bn": "সে শিক্ষকের কাছে গিয়েছিল" },
+      { "en": "We approach situation.", "bn": "আমরা পরিস্থিতি মোকাবিলা করি" },
+      { "en": "They have approached it.", "bn": "তারা এটি মোকাবিলা করেছে" },
+      {
+        "en": "I approached him yesterday.",
+        "bn": "আমি তাকে গতকাল কাছে গিয়েছিলাম"
+      },
+      { "en": "He is approaching now.", "bn": "সে এখন এগিয়ে আসছে" },
+      { "en": "She approaches calmly.", "bn": "সে শান্তভাবে এগিয়ে যায়" },
+      { "en": "They approached city.", "bn": "তারা শহরের কাছে গিয়েছিল" }
+    ],
+    "synonyms": ["come near", "contact", "handle"]
+  },
+  {
+    "base": "approve",
+    "phonetic": "əˈpruːv",
+    "v2": "approved",
+    "v3": "approved",
+    "meaning": "অনুমোদন করা",
+    "examples": [
+      { "en": "I approve plan.", "bn": "আমি পরিকল্পনা অনুমোদন করি" },
+      { "en": "She approves request.", "bn": "সে অনুরোধ অনুমোদন করে" }
+    ],
+    "moreexample": [
+      { "en": "He approved budget.", "bn": "সে বাজেট অনুমোদন করেছিল" },
+      { "en": "They approve changes.", "bn": "তারা পরিবর্তন অনুমোদন করে" },
+      { "en": "I am approving now.", "bn": "আমি এখন অনুমোদন করছি" },
+      { "en": "She approved idea.", "bn": "সে ধারণা অনুমোদন করেছিল" },
+      { "en": "We approve work.", "bn": "আমরা কাজ অনুমোদন করি" },
+      { "en": "They have approved it.", "bn": "তারা এটি অনুমোদন করেছে" },
+      { "en": "I approved system.", "bn": "আমি সিস্টেম অনুমোদন করেছি" },
+      { "en": "He is approving now.", "bn": "সে এখন অনুমোদন করছে" },
+      { "en": "She approves quickly.", "bn": "সে দ্রুত অনুমোদন করে" },
+      { "en": "They approved project.", "bn": "তারা প্রকল্প অনুমোদন করেছিল" }
+    ],
+    "synonyms": ["accept", "authorize", "confirm"]
+  },
+  {
+    "base": "argue",
+    "phonetic": "ˈɑːɡjuː",
+    "v2": "argued",
+    "v3": "argued",
+    "meaning": "তর্ক করা",
+    "examples": [
+      { "en": "I argue with him.", "bn": "আমি তার সাথে তর্ক করি" },
+      { "en": "She argues clearly.", "bn": "সে পরিষ্কারভাবে তর্ক করে" }
+    ],
+    "moreexample": [
+      { "en": "He argued strongly.", "bn": "সে জোরালোভাবে তর্ক করেছিল" },
+      { "en": "They argue often.", "bn": "তারা প্রায়ই তর্ক করে" },
+      { "en": "I am arguing now.", "bn": "আমি এখন তর্ক করছি" },
+      { "en": "She argued yesterday.", "bn": "সে গতকাল তর্ক করেছিল" },
+      { "en": "We argue less.", "bn": "আমরা কম তর্ক করি" },
+      { "en": "They have argued.", "bn": "তারা তর্ক করেছে" },
+      { "en": "I argued my point.", "bn": "আমি আমার যুক্তি দিয়েছিলাম" },
+      { "en": "He is arguing now.", "bn": "সে এখন তর্ক করছে" },
+      { "en": "She argues politely.", "bn": "সে ভদ্রভাবে তর্ক করে" },
+      { "en": "They argued together.", "bn": "তারা একসাথে তর্ক করেছিল" }
+    ],
+    "synonyms": ["debate", "discuss", "quarrel"]
+  },
+  {
+    "base": "arrange",
+    "phonetic": "əˈreɪndʒ",
+    "v2": "arranged",
+    "v3": "arranged",
+    "meaning": "গুছানো / ব্যবস্থা করা",
+    "examples": [
+      { "en": "I arrange books.", "bn": "আমি বই গুছাই" },
+      { "en": "She arranges meeting.", "bn": "সে মিটিং ব্যবস্থা করে" }
+    ],
+    "moreexample": [
+      { "en": "He arranged chairs.", "bn": "সে চেয়ার গুছিয়েছিল" },
+      { "en": "They arrange events.", "bn": "তারা অনুষ্ঠান ব্যবস্থা করে" },
+      { "en": "I am arranging now.", "bn": "আমি এখন গুছাচ্ছি" },
+      { "en": "She arranged party.", "bn": "সে পার্টি ব্যবস্থা করেছিল" },
+      { "en": "We arrange schedule.", "bn": "আমরা সময়সূচি ঠিক করি" },
+      { "en": "They have arranged it.", "bn": "তারা এটি ব্যবস্থা করেছে" },
+      { "en": "I arranged table.", "bn": "আমি টেবিল গুছিয়েছি" },
+      { "en": "He is arranging now.", "bn": "সে এখন গুছাচ্ছে" },
+      { "en": "She arranges files.", "bn": "সে ফাইল গুছায়" },
+      { "en": "They arranged meeting.", "bn": "তারা মিটিং ব্যবস্থা করেছিল" }
+    ],
+    "synonyms": ["organize", "set", "plan"]
+  },
+  {
+    "base": "arrest",
+    "phonetic": "əˈrest",
+    "v2": "arrested",
+    "v3": "arrested",
+    "meaning": "গ্রেপ্তার করা",
+    "examples": [
+      { "en": "I arrest him.", "bn": "আমি তাকে গ্রেপ্তার করি" },
+      { "en": "Police arrests thief.", "bn": "পুলিশ চোরকে গ্রেপ্তার করে" }
+    ],
+    "moreexample": [
+      { "en": "He was arrested.", "bn": "সে গ্রেপ্তার হয়েছিল" },
+      { "en": "They arrest criminals.", "bn": "তারা অপরাধীদের গ্রেপ্তার করে" },
+      { "en": "I am arresting now.", "bn": "আমি এখন গ্রেপ্তার করছি" },
+      {
+        "en": "She arrested suspect.",
+        "bn": "সে সন্দেহভাজনকে গ্রেপ্তার করেছিল"
+      },
+      { "en": "We arrest offenders.", "bn": "আমরা অপরাধীদের গ্রেপ্তার করি" },
+      { "en": "They have arrested him.", "bn": "তারা তাকে গ্রেপ্তার করেছে" },
+      { "en": "I arrested thief.", "bn": "আমি চোরকে গ্রেপ্তার করেছি" },
+      { "en": "He is arresting now.", "bn": "সে এখন গ্রেপ্তার করছে" },
+      { "en": "Police arrest daily.", "bn": "পুলিশ প্রতিদিন গ্রেপ্তার করে" },
+      { "en": "They arrested gang.", "bn": "তারা গ্যাংকে গ্রেপ্তার করেছিল" }
+    ],
+    "synonyms": ["capture", "detain", "catch"]
+  },
+  {
+    "base": "arrive",
+    "phonetic": "əˈraɪv",
+    "v2": "arrived",
+    "v3": "arrived",
+    "meaning": "পৌঁছানো",
+    "examples": [
+      { "en": "I arrive home.", "bn": "আমি বাড়িতে পৌঁছাই" },
+      { "en": "She arrives early.", "bn": "সে আগে পৌঁছায়" }
+    ],
+    "moreexample": [
+      { "en": "He arrived late.", "bn": "সে দেরিতে পৌঁছেছিল" },
+      { "en": "They arrive together.", "bn": "তারা একসাথে পৌঁছায়" },
+      { "en": "I am arriving now.", "bn": "আমি এখন পৌঁছাচ্ছি" },
+      { "en": "She arrived safely.", "bn": "সে নিরাপদে পৌঁছেছিল" },
+      { "en": "We arrive at night.", "bn": "আমরা রাতে পৌঁছাই" },
+      { "en": "They have arrived.", "bn": "তারা পৌঁছেছে" },
+      { "en": "I arrived yesterday.", "bn": "আমি গতকাল পৌঁছেছিলাম" },
+      { "en": "He is arriving now.", "bn": "সে এখন পৌঁছাচ্ছে" },
+      { "en": "She arrives daily.", "bn": "সে প্রতিদিন পৌঁছায়" },
+      { "en": "They arrived station.", "bn": "তারা স্টেশনে পৌঁছেছিল" }
+    ],
+    "synonyms": ["reach", "come", "enter"]
+  },
+
+  {
+    "base": "arise",
+    "phonetic": "əˈraɪz",
+    "v2": "arose",
+    "v3": "arisen",
+    "meaning": "উত্থিত হওয়া / ঘটতে থাকা",
+    "examples": [
+      { "en": "A problem arises.", "bn": "একটি সমস্যা দেখা দেয়" },
+      { "en": "Doubts arise quickly.", "bn": "সন্দেহ দ্রুত সৃষ্টি হয়" }
+    ],
+    "moreexample": [
+      { "en": "Issues arose yesterday.", "bn": "গতকাল সমস্যা দেখা দিয়েছিল" },
+      {
+        "en": "New problems arise daily.",
+        "bn": "প্রতিদিন নতুন সমস্যা দেখা দেয়"
+      },
+      { "en": "It is arising now.", "bn": "এটি এখন দেখা দিচ্ছে" },
+      {
+        "en": "A situation arose suddenly.",
+        "bn": "একটি পরিস্থিতি হঠাৎ তৈরি হয়েছিল"
+      },
+      { "en": "Conflicts arise often.", "bn": "দ্বন্দ্ব প্রায়ই সৃষ্টি হয়" },
+      { "en": "It has arisen before.", "bn": "এটি আগে ঘটেছে" },
+      { "en": "Problems arose at work.", "bn": "কাজে সমস্যা দেখা দিয়েছিল" },
+      {
+        "en": "Difficulties arise sometimes.",
+        "bn": "কখনো কখনো সমস্যা দেখা দেয়"
+      },
+      { "en": "A question arises.", "bn": "একটি প্রশ্ন উঠে আসে" },
+      { "en": "The issue arose again.", "bn": "সমস্যাটি আবার দেখা দিয়েছে" }
+    ],
+    "synonyms": ["occur", "happen", "emerge"]
+  },
+  {
+    "base": "arm",
+    "phonetic": "ɑːm",
+    "v2": "armed",
+    "v3": "armed",
+    "meaning": "সজ্জিত করা / অস্ত্র দেওয়া",
+    "examples": [
+      { "en": "He arms himself.", "bn": "সে নিজেকে সজ্জিত করে" },
+      { "en": "They arm soldiers.", "bn": "তারা সৈন্যদের অস্ত্র দেয়" }
+    ],
+    "moreexample": [
+      { "en": "He armed the guards.", "bn": "সে প্রহরীদের অস্ত্র দিয়েছিল" },
+      { "en": "They arm the team.", "bn": "তারা দলকে সজ্জিত করে" },
+      { "en": "I am arming now.", "bn": "আমি এখন সজ্জিত করছি" },
+      {
+        "en": "The police armed themselves.",
+        "bn": "পুলিশ নিজেদের সজ্জিত করেছিল"
+      },
+      {
+        "en": "We arm security forces.",
+        "bn": "আমরা নিরাপত্তা বাহিনীকে সজ্জিত করি"
+      },
+      { "en": "They have armed it.", "bn": "তারা এটি সজ্জিত করেছে" },
+      { "en": "He armed the unit.", "bn": "সে ইউনিটকে সজ্জিত করেছিল" },
+      { "en": "She is arming now.", "bn": "সে এখন সজ্জিত করছে" },
+      {
+        "en": "They arm protection.",
+        "bn": "তারা সুরক্ষা ব্যবস্থা সজ্জিত করে"
+      },
+      {
+        "en": "He armed himself quickly.",
+        "bn": "সে দ্রুত নিজেকে সজ্জিত করেছিল"
+      }
+    ],
+    "synonyms": ["equip", "prepare", "supply"]
+  },
+  {
+    "base": "arouse",
+    "phonetic": "əˈraʊz",
+    "v2": "aroused",
+    "v3": "aroused",
+    "meaning": "উদ্দীপিত করা / জাগানো",
+    "examples": [
+      { "en": "It arouses curiosity.", "bn": "এটি কৌতূহল জাগায়" },
+      { "en": "She arouses interest.", "bn": "সে আগ্রহ জাগায়" }
+    ],
+    "moreexample": [
+      { "en": "He aroused attention.", "bn": "সে মনোযোগ জাগিয়েছিল" },
+      { "en": "They arouse emotions.", "bn": "তারা আবেগ জাগায়" },
+      { "en": "I am arousing interest.", "bn": "আমি আগ্রহ জাগাচ্ছি" },
+      { "en": "The news aroused fear.", "bn": "খবরটি ভয় জাগিয়েছিল" },
+      { "en": "We arouse awareness.", "bn": "আমরা সচেতনতা জাগাই" },
+      { "en": "They have aroused it.", "bn": "তারা এটি জাগিয়েছে" },
+      { "en": "She aroused hope.", "bn": "সে আশা জাগিয়েছিল" },
+      { "en": "He is arousing now.", "bn": "সে এখন জাগাচ্ছে" },
+      { "en": "It arouses interest daily.", "bn": "এটি প্রতিদিন আগ্রহ জাগায়" },
+      { "en": "They aroused suspicion.", "bn": "তারা সন্দেহ জাগিয়েছিল" }
+    ],
+    "synonyms": ["stimulate", "excite", "awake"]
+  },
+  {
+    "base": "arrive",
+    "phonetic": "əˈraɪv",
+    "v2": "arrived",
+    "v3": "arrived",
+    "meaning": "পৌঁছানো",
+    "examples": [
+      { "en": "I arrive safely.", "bn": "আমি নিরাপদে পৌঁছাই" },
+      { "en": "She arrives late.", "bn": "সে দেরিতে পৌঁছায়" }
+    ],
+    "moreexample": [
+      { "en": "He arrived early.", "bn": "সে আগে পৌঁছেছিল" },
+      { "en": "They arrive together.", "bn": "তারা একসাথে পৌঁছায়" },
+      { "en": "I am arriving now.", "bn": "আমি এখন পৌঁছাচ্ছি" },
+      { "en": "She arrived home.", "bn": "সে বাড়িতে পৌঁছেছিল" },
+      { "en": "We arrive daily.", "bn": "আমরা প্রতিদিন পৌঁছাই" },
+      { "en": "They have arrived.", "bn": "তারা পৌঁছেছে" },
+      { "en": "I arrived yesterday.", "bn": "আমি গতকাল পৌঁছেছিলাম" },
+      { "en": "He is arriving soon.", "bn": "সে শীঘ্রই পৌঁছাচ্ছে" },
+      { "en": "She arrives early morning.", "bn": "সে ভোরে পৌঁছায়" },
+      { "en": "They arrived station.", "bn": "তারা স্টেশনে পৌঁছেছিল" }
+    ],
+    "synonyms": ["reach", "come", "enter"]
+  },
+  {
+    "base": "articulate",
+    "phonetic": "ɑːˈtɪkjʊleɪt",
+    "v2": "articulated",
+    "v3": "articulated",
+    "meaning": "স্পষ্টভাবে প্রকাশ করা",
+    "examples": [
+      { "en": "I articulate ideas.", "bn": "আমি ধারণা স্পষ্টভাবে প্রকাশ করি" },
+      { "en": "She articulates well.", "bn": "সে ভালোভাবে প্রকাশ করে" }
+    ],
+    "moreexample": [
+      {
+        "en": "He articulated his thoughts.",
+        "bn": "সে তার চিন্তা প্রকাশ করেছিল"
+      },
+      { "en": "They articulate opinions.", "bn": "তারা মতামত প্রকাশ করে" },
+      { "en": "I am articulating now.", "bn": "আমি এখন প্রকাশ করছি" },
+      { "en": "She articulated clearly.", "bn": "সে স্পষ্টভাবে প্রকাশ করেছিল" },
+      { "en": "We articulate ideas.", "bn": "আমরা ধারণা প্রকাশ করি" },
+      { "en": "They have articulated it.", "bn": "তারা এটি প্রকাশ করেছে" },
+      { "en": "I articulated message.", "bn": "আমি বার্তা প্রকাশ করেছি" },
+      { "en": "He is articulating now.", "bn": "সে এখন প্রকাশ করছে" },
+      { "en": "She articulates thoughts.", "bn": "সে চিন্তা প্রকাশ করে" },
+      { "en": "They articulated vision.", "bn": "তারা দৃষ্টি প্রকাশ করেছিল" }
+    ],
+    "synonyms": ["express", "speak", "state"]
+  },
+  {
+    "base": "ascend",
+    "phonetic": "əˈsend",
+    "v2": "ascended",
+    "v3": "ascended",
+    "meaning": "উপরে ওঠা",
+    "examples": [
+      { "en": "I ascend stairs.", "bn": "আমি সিঁড়ি উঠি" },
+      { "en": "She ascends quickly.", "bn": "সে দ্রুত ওঠে" }
+    ],
+    "moreexample": [
+      { "en": "He ascended the hill.", "bn": "সে পাহাড়ে উঠেছিল" },
+      { "en": "They ascend high.", "bn": "তারা উঁচুতে ওঠে" },
+      { "en": "I am ascending now.", "bn": "আমি এখন উঠছি" },
+      { "en": "She ascended tower.", "bn": "সে টাওয়ারে উঠেছিল" },
+      { "en": "We ascend together.", "bn": "আমরা একসাথে উঠি" },
+      { "en": "They have ascended.", "bn": "তারা উঠে গেছে" },
+      { "en": "I ascended mountain.", "bn": "আমি পাহাড়ে উঠেছিলাম" },
+      { "en": "He is ascending now.", "bn": "সে এখন উঠছে" },
+      { "en": "She ascends daily.", "bn": "সে প্রতিদিন ওঠে" },
+      { "en": "They ascended stairs.", "bn": "তারা সিঁড়ি উঠেছিল" }
+    ],
+    "synonyms": ["rise", "climb", "go up"]
+  },
+  {
+    "base": "ask",
+    "phonetic": "æsk",
+    "v2": "asked",
+    "v3": "asked",
+    "meaning": "জিজ্ঞাসা করা",
+    "examples": [
+      { "en": "I ask question.", "bn": "আমি প্রশ্ন করি" },
+      { "en": "She asks help.", "bn": "সে সাহায্য চায়" }
+    ],
+    "moreexample": [
+      { "en": "He asked me.", "bn": "সে আমাকে জিজ্ঞাসা করেছিল" },
+      { "en": "They ask daily.", "bn": "তারা প্রতিদিন জিজ্ঞাসা করে" },
+      { "en": "I am asking now.", "bn": "আমি এখন জিজ্ঞাসা করছি" },
+      { "en": "She asked politely.", "bn": "সে ভদ্রভাবে জিজ্ঞাসা করেছিল" },
+      { "en": "We ask questions.", "bn": "আমরা প্রশ্ন করি" },
+      { "en": "They have asked.", "bn": "তারা জিজ্ঞাসা করেছে" },
+      { "en": "I asked yesterday.", "bn": "আমি গতকাল জিজ্ঞাসা করেছিলাম" },
+      { "en": "He is asking now.", "bn": "সে এখন জিজ্ঞাসা করছে" },
+      { "en": "She asks clearly.", "bn": "সে স্পষ্টভাবে জিজ্ঞাসা করে" },
+      { "en": "They asked again.", "bn": "তারা আবার জিজ্ঞাসা করেছিল" }
+    ],
+    "synonyms": ["inquire", "question", "request"]
+  },
+
+  {
+    "base": "assist",
+    "phonetic": "əˈsɪst",
+    "v2": "assisted",
+    "v3": "assisted",
+    "meaning": "সাহায্য করা",
+    "examples": [
+      { "en": "I assist him.", "bn": "আমি তাকে সাহায্য করি" },
+      { "en": "She assists students.", "bn": "সে ছাত্রদের সাহায্য করে" }
+    ],
+    "moreexample": [
+      { "en": "He assisted me.", "bn": "সে আমাকে সাহায্য করেছিল" },
+      { "en": "They assist teachers.", "bn": "তারা শিক্ষকদের সাহায্য করে" },
+      { "en": "I am assisting now.", "bn": "আমি এখন সাহায্য করছি" },
+      { "en": "She assisted the doctor.", "bn": "সে ডাক্তারকে সাহায্য করেছিল" },
+      { "en": "We assist people.", "bn": "আমরা মানুষকে সাহায্য করি" },
+      { "en": "They have assisted us.", "bn": "তারা আমাদের সাহায্য করেছে" },
+      { "en": "I assisted yesterday.", "bn": "আমি গতকাল সাহায্য করেছিলাম" },
+      { "en": "He is assisting now.", "bn": "সে এখন সাহায্য করছে" },
+      { "en": "She assists daily.", "bn": "সে প্রতিদিন সাহায্য করে" },
+      { "en": "They assisted team.", "bn": "তারা দলকে সাহায্য করেছিল" }
+    ],
+    "synonyms": ["help", "support", "aid"]
+  },
+  {
+    "base": "assume",
+    "phonetic": "əˈsjuːm",
+    "v2": "assumed",
+    "v3": "assumed",
+    "meaning": "ধরে নেওয়া",
+    "examples": [
+      { "en": "I assume it is true.", "bn": "আমি ধরে নিই এটি সত্য" },
+      { "en": "She assumes risk.", "bn": "সে ঝুঁকি ধরে নেয়" }
+    ],
+    "moreexample": [
+      { "en": "He assumed responsibility.", "bn": "সে দায়িত্ব নিয়েছিল" },
+      { "en": "They assume facts.", "bn": "তারা তথ্য ধরে নেয়" },
+      { "en": "I am assuming now.", "bn": "আমি এখন ধরে নিচ্ছি" },
+      { "en": "She assumed control.", "bn": "সে নিয়ন্ত্রণ নিয়েছিল" },
+      { "en": "We assume results.", "bn": "আমরা ফলাফল ধরে নিই" },
+      { "en": "They have assumed it.", "bn": "তারা এটি ধরে নিয়েছে" },
+      { "en": "I assumed wrong.", "bn": "আমি ভুল ধরে নিয়েছিলাম" },
+      { "en": "He is assuming now.", "bn": "সে এখন ধরে নিচ্ছে" },
+      { "en": "She assumes position.", "bn": "সে পদ গ্রহণ করে" },
+      { "en": "They assumed truth.", "bn": "তারা সত্য ধরে নিয়েছিল" }
+    ],
+    "synonyms": ["suppose", "believe", "think"]
+  },
+  {
+    "base": "assure",
+    "phonetic": "əˈʃʊə",
+    "v2": "assured",
+    "v3": "assured",
+    "meaning": "নিশ্চিত করা / আশ্বস্ত করা",
+    "examples": [
+      { "en": "I assure you.", "bn": "আমি তোমাকে নিশ্চিত করি" },
+      { "en": "She assures safety.", "bn": "সে নিরাপত্তা নিশ্চিত করে" }
+    ],
+    "moreexample": [
+      { "en": "He assured me.", "bn": "সে আমাকে আশ্বস্ত করেছিল" },
+      { "en": "They assure quality.", "bn": "তারা গুণমান নিশ্চিত করে" },
+      { "en": "I am assuring now.", "bn": "আমি এখন আশ্বস্ত করছি" },
+      { "en": "She assured success.", "bn": "সে সাফল্য নিশ্চিত করেছিল" },
+      { "en": "We assure results.", "bn": "আমরা ফলাফল নিশ্চিত করি" },
+      { "en": "They have assured it.", "bn": "তারা এটি নিশ্চিত করেছে" },
+      { "en": "I assured him.", "bn": "আমি তাকে আশ্বস্ত করেছি" },
+      { "en": "He is assuring now.", "bn": "সে এখন আশ্বস্ত করছে" },
+      { "en": "She assures daily.", "bn": "সে প্রতিদিন আশ্বস্ত করে" },
+      { "en": "They assured safety.", "bn": "তারা নিরাপত্তা নিশ্চিত করেছিল" }
+    ],
+    "synonyms": ["confirm", "guarantee", "reassure"]
+  },
+  {
+    "base": "attach",
+    "phonetic": "əˈtætʃ",
+    "v2": "attached",
+    "v3": "attached",
+    "meaning": "সংযুক্ত করা",
+    "examples": [
+      { "en": "I attach file.", "bn": "আমি ফাইল সংযুক্ত করি" },
+      { "en": "She attaches photo.", "bn": "সে ছবি সংযুক্ত করে" }
+    ],
+    "moreexample": [
+      { "en": "He attached document.", "bn": "সে ডকুমেন্ট সংযুক্ত করেছিল" },
+      { "en": "They attach labels.", "bn": "তারা লেবেল সংযুক্ত করে" },
+      { "en": "I am attaching now.", "bn": "আমি এখন সংযুক্ত করছি" },
+      { "en": "She attached report.", "bn": "সে রিপোর্ট সংযুক্ত করেছিল" },
+      { "en": "We attach files.", "bn": "আমরা ফাইল সংযুক্ত করি" },
+      { "en": "They have attached it.", "bn": "তারা এটি সংযুক্ত করেছে" },
+      { "en": "I attached image.", "bn": "আমি ছবি সংযুক্ত করেছি" },
+      { "en": "He is attaching now.", "bn": "সে এখন সংযুক্ত করছে" },
+      { "en": "She attaches notes.", "bn": "সে নোট সংযুক্ত করে" },
+      { "en": "They attached data.", "bn": "তারা ডেটা সংযুক্ত করেছিল" }
+    ],
+    "synonyms": ["join", "connect", "link"]
+  },
+  {
+    "base": "attack",
+    "phonetic": "əˈtæk",
+    "v2": "attacked",
+    "v3": "attacked",
+    "meaning": "আক্রমণ করা",
+    "examples": [
+      { "en": "I attack problem.", "bn": "আমি সমস্যার মোকাবিলা করি" },
+      { "en": "They attack enemy.", "bn": "তারা শত্রুকে আক্রমণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He attacked first.", "bn": "সে প্রথম আক্রমণ করেছিল" },
+      { "en": "They attack city.", "bn": "তারা শহর আক্রমণ করে" },
+      { "en": "I am attacking now.", "bn": "আমি এখন আক্রমণ করছি" },
+      { "en": "She attacked system.", "bn": "সে সিস্টেম আক্রমণ করেছিল" },
+      { "en": "We attack issues.", "bn": "আমরা সমস্যার মোকাবিলা করি" },
+      { "en": "They have attacked it.", "bn": "তারা এটি আক্রমণ করেছে" },
+      { "en": "I attacked problem.", "bn": "আমি সমস্যার মোকাবিলা করেছি" },
+      { "en": "He is attacking now.", "bn": "সে এখন আক্রমণ করছে" },
+      { "en": "She attacks hard.", "bn": "সে কঠোরভাবে আক্রমণ করে" },
+      { "en": "They attacked base.", "bn": "তারা ঘাঁটি আক্রমণ করেছিল" }
+    ],
+    "synonyms": ["strike", "assault", "hit"]
+  },
+  {
+    "base": "attempt",
+    "phonetic": "əˈtempt",
+    "v2": "attempted",
+    "v3": "attempted",
+    "meaning": "চেষ্টা করা",
+    "examples": [
+      { "en": "I attempt exam.", "bn": "আমি পরীক্ষায় চেষ্টা করি" },
+      { "en": "She attempts task.", "bn": "সে কাজের চেষ্টা করে" }
+    ],
+    "moreexample": [
+      { "en": "He attempted question.", "bn": "সে প্রশ্নের চেষ্টা করেছিল" },
+      { "en": "They attempt challenge.", "bn": "তারা চ্যালেঞ্জের চেষ্টা করে" },
+      { "en": "I am attempting now.", "bn": "আমি এখন চেষ্টা করছি" },
+      { "en": "She attempted test.", "bn": "সে পরীক্ষা চেষ্টা করেছিল" },
+      { "en": "We attempt work.", "bn": "আমরা কাজ চেষ্টা করি" },
+      { "en": "They have attempted it.", "bn": "তারা এটি চেষ্টা করেছে" },
+      { "en": "I attempted hard.", "bn": "আমি কঠোর চেষ্টা করেছি" },
+      { "en": "He is attempting now.", "bn": "সে এখন চেষ্টা করছে" },
+      { "en": "She attempts daily.", "bn": "সে প্রতিদিন চেষ্টা করে" },
+      { "en": "They attempted success.", "bn": "তারা সাফল্যের চেষ্টা করেছিল" }
+    ],
+    "synonyms": ["try", "endeavor", "strive"]
+  },
+  {
+    "base": "attend",
+    "phonetic": "əˈtend",
+    "v2": "attended",
+    "v3": "attended",
+    "meaning": "উপস্থিত থাকা",
+    "examples": [
+      { "en": "I attend class.", "bn": "আমি ক্লাসে উপস্থিত থাকি" },
+      { "en": "She attends meeting.", "bn": "সে মিটিংয়ে উপস্থিত থাকে" }
+    ],
+    "moreexample": [
+      { "en": "He attended school.", "bn": "সে স্কুলে উপস্থিত ছিল" },
+      { "en": "They attend event.", "bn": "তারা অনুষ্ঠানে উপস্থিত থাকে" },
+      { "en": "I am attending now.", "bn": "আমি এখন উপস্থিত হচ্ছি" },
+      { "en": "She attended lecture.", "bn": "সে লেকচারে উপস্থিত ছিল" },
+      { "en": "We attend daily.", "bn": "আমরা প্রতিদিন উপস্থিত থাকি" },
+      { "en": "They have attended it.", "bn": "তারা এতে উপস্থিত হয়েছে" },
+      { "en": "I attended yesterday.", "bn": "আমি গতকাল উপস্থিত ছিলাম" },
+      { "en": "He is attending now.", "bn": "সে এখন উপস্থিত হচ্ছে" },
+      { "en": "She attends regularly.", "bn": "সে নিয়মিত উপস্থিত থাকে" },
+      { "en": "They attended class.", "bn": "তারা ক্লাসে উপস্থিত ছিল" }
+    ],
+    "synonyms": ["join", "go to", "be present"]
+  },
+  {
+    "base": "attract",
+    "phonetic": "əˈtrækt",
+    "v2": "attracted",
+    "v3": "attracted",
+    "meaning": "আকর্ষণ করা",
+    "examples": [
+      { "en": "It attracts people.", "bn": "এটি মানুষকে আকর্ষণ করে" },
+      { "en": "She attracts attention.", "bn": "সে মনোযোগ আকর্ষণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He attracted crowd.", "bn": "সে জনতা আকর্ষণ করেছিল" },
+      { "en": "They attract customers.", "bn": "তারা গ্রাহক আকর্ষণ করে" },
+      { "en": "I am attracting now.", "bn": "আমি এখন আকর্ষণ করছি" },
+      { "en": "She attracted him.", "bn": "সে তাকে আকর্ষণ করেছিল" },
+      { "en": "We attract users.", "bn": "আমরা ব্যবহারকারী আকর্ষণ করি" },
+      { "en": "They have attracted it.", "bn": "তারা এটি আকর্ষণ করেছে" },
+      { "en": "I attracted attention.", "bn": "আমি মনোযোগ আকর্ষণ করেছি" },
+      { "en": "He is attracting now.", "bn": "সে এখন আকর্ষণ করছে" },
+      { "en": "She attracts daily.", "bn": "সে প্রতিদিন আকর্ষণ করে" },
+      { "en": "They attracted audience.", "bn": "তারা দর্শক আকর্ষণ করেছিল" }
+    ],
+    "synonyms": ["draw", "lure", "pull"]
+  },
+  {
+    "base": "attribute",
+    "phonetic": "əˈtrɪbjuːt",
+    "v2": "attributed",
+    "v3": "attributed",
+    "meaning": "কারণ হিসেবে ধরা",
+    "examples": [
+      {
+        "en": "I attribute success to hard work.",
+        "bn": "আমি সাফল্যকে কঠোর পরিশ্রমের ফল মনে করি"
+      },
+      {
+        "en": "She attributes it to luck.",
+        "bn": "সে এটিকে ভাগ্যের ফল বলে মনে করে"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He attributed failure to mistakes.",
+        "bn": "সে ব্যর্থতাকে ভুলের কারণে বলেছিল"
+      },
+      {
+        "en": "They attribute success to teamwork.",
+        "bn": "তারা সাফল্যকে দলগত কাজের ফল মনে করে"
+      },
+      { "en": "I am attributing cause.", "bn": "আমি কারণ নির্ধারণ করছি" },
+      { "en": "She attributed result.", "bn": "সে ফলাফলকে কারণ হিসেবে ধরেছিল" },
+      {
+        "en": "We attribute changes.",
+        "bn": "আমরা পরিবর্তনকে কারণ হিসেবে ধরি"
+      },
+      { "en": "They have attributed it.", "bn": "তারা এটি কারণ হিসেবে ধরেছে" },
+      { "en": "I attributed it wrongly.", "bn": "আমি ভুলভাবে কারণ ধরেছিলাম" },
+      { "en": "He is attributing now.", "bn": "সে এখন কারণ নির্ধারণ করছে" },
+      { "en": "She attributes success.", "bn": "সে সাফল্যকে কারণ হিসেবে ধরে" },
+      { "en": "They attributed loss.", "bn": "তারা ক্ষতিকে কারণ হিসেবে ধরেছিল" }
+    ],
+    "synonyms": ["credit", "assign", "link"]
+  },
+  {
+    "base": "audit",
+    "phonetic": "ˈɔːdɪt",
+    "v2": "audited",
+    "v3": "audited",
+    "meaning": "নিরীক্ষা করা",
+    "examples": [
+      { "en": "I audit accounts.", "bn": "আমি হিসাব নিরীক্ষা করি" },
+      { "en": "She audits books.", "bn": "সে বই নিরীক্ষা করে" }
+    ],
+    "moreexample": [
+      { "en": "He audited report.", "bn": "সে রিপোর্ট নিরীক্ষা করেছিল" },
+      { "en": "They audit system.", "bn": "তারা সিস্টেম নিরীক্ষা করে" },
+      { "en": "I am auditing now.", "bn": "আমি এখন নিরীক্ষা করছি" },
+      { "en": "She audited files.", "bn": "সে ফাইল নিরীক্ষা করেছিল" },
+      { "en": "We audit finances.", "bn": "আমরা অর্থ নিরীক্ষা করি" },
+      { "en": "They have audited it.", "bn": "তারা এটি নিরীক্ষা করেছে" },
+      { "en": "I audited company.", "bn": "আমি কোম্পানি নিরীক্ষা করেছি" },
+      { "en": "He is auditing now.", "bn": "সে এখন নিরীক্ষা করছে" },
+      { "en": "She audits daily.", "bn": "সে প্রতিদিন নিরীক্ষা করে" },
+      { "en": "They audited records.", "bn": "তারা রেকর্ড নিরীক্ষা করেছিল" }
+    ],
+    "synonyms": ["inspect", "examine", "review"]
+  },
+  {
+    "base": "augment",
+    "phonetic": "ɔːɡˈment",
+    "v2": "augmented",
+    "v3": "augmented",
+    "meaning": "বৃদ্ধি করা",
+    "examples": [
+      { "en": "I augment skills.", "bn": "আমি দক্ষতা বৃদ্ধি করি" },
+      { "en": "She augments income.", "bn": "সে আয় বৃদ্ধি করে" }
+    ],
+    "moreexample": [
+      { "en": "He augmented resources.", "bn": "সে সম্পদ বৃদ্ধি করেছিল" },
+      { "en": "They augment power.", "bn": "তারা শক্তি বৃদ্ধি করে" },
+      { "en": "I am augmenting now.", "bn": "আমি এখন বৃদ্ধি করছি" },
+      { "en": "She augmented knowledge.", "bn": "সে জ্ঞান বৃদ্ধি করেছিল" },
+      { "en": "We augment capacity.", "bn": "আমরা ক্ষমতা বৃদ্ধি করি" },
+      { "en": "They have augmented it.", "bn": "তারা এটি বৃদ্ধি করেছে" },
+      { "en": "I augmented system.", "bn": "আমি সিস্টেম বৃদ্ধি করেছি" },
+      { "en": "He is augmenting now.", "bn": "সে এখন বৃদ্ধি করছে" },
+      { "en": "She augments strength.", "bn": "সে শক্তি বৃদ্ধি করে" },
+      { "en": "They augmented funds.", "bn": "তারা তহবিল বৃদ্ধি করেছিল" }
+    ],
+    "synonyms": ["increase", "enhance", "boost"]
+  },
+  {
+    "base": "avoid",
+    "phonetic": "əˈvɔɪd",
+    "v2": "avoided",
+    "v3": "avoided",
+    "meaning": "এড়ানো",
+    "examples": [
+      { "en": "I avoid trouble.", "bn": "আমি সমস্যা এড়াই" },
+      { "en": "She avoids mistakes.", "bn": "সে ভুল এড়ায়" }
+    ],
+    "moreexample": [
+      { "en": "He avoided accident.", "bn": "সে দুর্ঘটনা এড়িয়েছিল" },
+      { "en": "They avoid risks.", "bn": "তারা ঝুঁকি এড়ায়" },
+      { "en": "I am avoiding now.", "bn": "আমি এখন এড়াচ্ছি" },
+      { "en": "She avoided error.", "bn": "সে ভুল এড়িয়েছিল" },
+      { "en": "We avoid danger.", "bn": "আমরা বিপদ এড়াই" },
+      { "en": "They have avoided it.", "bn": "তারা এটি এড়িয়েছে" },
+      { "en": "I avoided problem.", "bn": "আমি সমস্যা এড়িয়েছি" },
+      { "en": "He is avoiding now.", "bn": "সে এখন এড়াচ্ছে" },
+      { "en": "She avoids conflict.", "bn": "সে দ্বন্দ্ব এড়ায়" },
+      { "en": "They avoided mistake.", "bn": "তারা ভুল এড়িয়েছিল" }
+    ],
+    "synonyms": ["escape", "prevent", "dodge"]
+  },
+  {
+    "base": "awake",
+    "phonetic": "əˈweɪk",
+    "v2": "awoke",
+    "v3": "awoken",
+    "meaning": "জেগে ওঠা",
+    "examples": [
+      { "en": "I awake early.", "bn": "আমি সকালে জাগি" },
+      { "en": "She awakes quickly.", "bn": "সে দ্রুত জেগে ওঠে" }
+    ],
+    "moreexample": [
+      { "en": "He awoke late.", "bn": "সে দেরিতে জেগেছিল" },
+      { "en": "They awake daily.", "bn": "তারা প্রতিদিন জাগে" },
+      { "en": "I am awaking now.", "bn": "আমি এখন জেগে উঠছি" },
+      { "en": "She awoke suddenly.", "bn": "সে হঠাৎ জেগেছিল" },
+      { "en": "We awake early.", "bn": "আমরা সকালে জাগি" },
+      { "en": "They have awoken.", "bn": "তারা জেগে উঠেছে" },
+      { "en": "I awoke yesterday.", "bn": "আমি গতকাল জেগেছিলাম" },
+      { "en": "He is awaking now.", "bn": "সে এখন জেগে উঠছে" },
+      { "en": "She awakes fast.", "bn": "সে দ্রুত জাগে" },
+      { "en": "They awoke early morning.", "bn": "তারা ভোরে জেগেছিল" }
+    ],
+    "synonyms": ["wake", "rise", "stir"]
+  },
+  {
+    "base": "award",
+    "phonetic": "əˈwɔːd",
+    "v2": "awarded",
+    "v3": "awarded",
+    "meaning": "পুরস্কার দেওয়া",
+    "examples": [
+      { "en": "I award him prize.", "bn": "আমি তাকে পুরস্কার দিই" },
+      { "en": "She awards students.", "bn": "সে ছাত্রদের পুরস্কার দেয়" }
+    ],
+    "moreexample": [
+      { "en": "He awarded medal.", "bn": "সে পদক দিয়েছিল" },
+      { "en": "They award winners.", "bn": "তারা বিজয়ীদের পুরস্কার দেয়" },
+      { "en": "I am awarding now.", "bn": "আমি এখন পুরস্কার দিচ্ছি" },
+      { "en": "She awarded trophy.", "bn": "সে ট্রফি দিয়েছিল" },
+      { "en": "We award success.", "bn": "আমরা সাফল্য পুরস্কার দিই" },
+      { "en": "They have awarded it.", "bn": "তারা এটি পুরস্কার দিয়েছে" },
+      { "en": "I awarded him.", "bn": "আমি তাকে পুরস্কার দিয়েছি" },
+      { "en": "He is awarding now.", "bn": "সে এখন পুরস্কার দিচ্ছে" },
+      { "en": "She awards daily.", "bn": "সে প্রতিদিন পুরস্কার দেয়" },
+      { "en": "They awarded prize.", "bn": "তারা পুরস্কার দিয়েছিল" }
+    ],
+    "synonyms": ["give", "grant", "honor"]
+  },
+  {
+    "base": "aware",
+    "phonetic": "əˈweə",
+    "v2": "awared (rare form)",
+    "v3": "awared (rare form)",
+    "meaning": "সচেতন করা (rare usage)",
+    "examples": [
+      { "en": "I make him aware.", "bn": "আমি তাকে সচেতন করি" },
+      { "en": "She is aware now.", "bn": "সে এখন সচেতন" }
+    ],
+    "moreexample": [
+      { "en": "He became aware.", "bn": "সে সচেতন হয়েছিল" },
+      { "en": "They are aware.", "bn": "তারা সচেতন" },
+      { "en": "I am making aware.", "bn": "আমি সচেতন করছি" },
+      { "en": "She made him aware.", "bn": "সে তাকে সচেতন করেছিল" },
+      { "en": "We stay aware.", "bn": "আমরা সচেতন থাকি" },
+      { "en": "They have become aware.", "bn": "তারা সচেতন হয়েছে" },
+      { "en": "I was aware.", "bn": "আমি সচেতন ছিলাম" },
+      { "en": "He is aware now.", "bn": "সে এখন সচেতন" },
+      { "en": "She keeps aware.", "bn": "সে সচেতন থাকে" },
+      { "en": "They were aware.", "bn": "তারা সচেতন ছিল" }
+    ],
+    "synonyms": ["conscious", "alert", "mindful"]
+  },
+
+  {
+    "base": "awaken",
+    "phonetic": "əˈweɪkən",
+    "v2": "awakened",
+    "v3": "awakened",
+    "meaning": "জাগানো / সচেতন করা",
+    "examples": [
+      { "en": "I awaken early.", "bn": "আমি সকালে জাগি" },
+      { "en": "She awakens hope.", "bn": "সে আশা জাগায়" }
+    ],
+    "moreexample": [
+      { "en": "He awakened interest.", "bn": "সে আগ্রহ জাগিয়েছিল" },
+      { "en": "They awaken feelings.", "bn": "তারা অনুভূতি জাগায়" },
+      { "en": "I am awakening now.", "bn": "আমি এখন জেগে উঠছি" },
+      { "en": "She awakened memory.", "bn": "সে স্মৃতি জাগিয়েছিল" },
+      { "en": "We awaken awareness.", "bn": "আমরা সচেতনতা জাগাই" },
+      { "en": "They have awakened it.", "bn": "তারা এটি জাগিয়েছে" },
+      { "en": "I awakened strength.", "bn": "আমি শক্তি জাগিয়েছি" },
+      { "en": "He is awakening now.", "bn": "সে এখন জাগছে" },
+      { "en": "She awakens minds.", "bn": "সে মন জাগায়" },
+      { "en": "They awakened people.", "bn": "তারা মানুষকে জাগিয়েছিল" }
+    ],
+    "synonyms": ["wake", "rouse", "stir"]
+  },
+  {
+    "base": "abandon",
+    "phonetic": "əˈbændən",
+    "v2": "abandoned",
+    "v3": "abandoned",
+    "meaning": "পরিত্যাগ করা",
+    "examples": [
+      { "en": "I abandon idea.", "bn": "আমি ধারণা ত্যাগ করি" },
+      { "en": "She abandons plan.", "bn": "সে পরিকল্পনা ত্যাগ করে" }
+    ],
+    "moreexample": [
+      { "en": "He abandoned hope.", "bn": "সে আশা ত্যাগ করেছিল" },
+      { "en": "They abandon project.", "bn": "তারা প্রকল্প ত্যাগ করে" },
+      { "en": "I am abandoning now.", "bn": "আমি এখন ত্যাগ করছি" },
+      { "en": "She abandoned task.", "bn": "সে কাজ ত্যাগ করেছিল" },
+      { "en": "We abandon fear.", "bn": "আমরা ভয় ত্যাগ করি" },
+      { "en": "They have abandoned it.", "bn": "তারা এটি ত্যাগ করেছে" },
+      { "en": "I abandoned plan.", "bn": "আমি পরিকল্পনা ত্যাগ করেছি" },
+      { "en": "He is abandoning now.", "bn": "সে এখন ত্যাগ করছে" },
+      { "en": "She abandons worry.", "bn": "সে দুশ্চিন্তা ত্যাগ করে" },
+      { "en": "They abandoned house.", "bn": "তারা বাড়ি ত্যাগ করেছিল" }
+    ],
+    "synonyms": ["leave", "quit", "forsake"]
+  },
+  {
+    "base": "absorb",
+    "phonetic": "əbˈzɔːb",
+    "v2": "absorbed",
+    "v3": "absorbed",
+    "meaning": "শোষণ করা / মগ্ন হওয়া",
+    "examples": [
+      { "en": "I absorb water.", "bn": "আমি পানি শোষণ করি" },
+      { "en": "She absorbs knowledge.", "bn": "সে জ্ঞান শোষণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He absorbed lesson.", "bn": "সে পাঠ শোষণ করেছিল" },
+      { "en": "They absorb energy.", "bn": "তারা শক্তি শোষণ করে" },
+      { "en": "I am absorbing now.", "bn": "আমি এখন শোষণ করছি" },
+      { "en": "She absorbed idea.", "bn": "সে ধারণা গ্রহণ করেছিল" },
+      { "en": "We absorb data.", "bn": "আমরা ডেটা শোষণ করি" },
+      { "en": "They have absorbed it.", "bn": "তারা এটি শোষণ করেছে" },
+      { "en": "I absorbed content.", "bn": "আমি বিষয়বস্তু শোষণ করেছি" },
+      { "en": "He is absorbing now.", "bn": "সে এখন শোষণ করছে" },
+      { "en": "She absorbs quickly.", "bn": "সে দ্রুত শোষণ করে" },
+      { "en": "They absorbed heat.", "bn": "তারা তাপ শোষণ করেছিল" }
+    ],
+    "synonyms": ["soak", "take in", "consume"]
+  },
+  {
+    "base": "abuse",
+    "phonetic": "əˈbjuːz",
+    "v2": "abused",
+    "v3": "abused",
+    "meaning": "দুর্ব্যবহার করা",
+    "examples": [
+      { "en": "I abuse no one.", "bn": "আমি কাউকে অপব্যবহার করি না" },
+      { "en": "She abuses power.", "bn": "সে ক্ষমতার অপব্যবহার করে" }
+    ],
+    "moreexample": [
+      { "en": "He abused authority.", "bn": "সে ক্ষমতার অপব্যবহার করেছিল" },
+      { "en": "They abuse system.", "bn": "তারা সিস্টেমের অপব্যবহার করে" },
+      { "en": "I am abusing now.", "bn": "আমি এখন অপব্যবহার করছি" },
+      { "en": "She abused trust.", "bn": "সে বিশ্বাসের অপব্যবহার করেছিল" },
+      { "en": "We abuse nothing.", "bn": "আমরা কিছুই অপব্যবহার করি না" },
+      { "en": "They have abused it.", "bn": "তারা এটি অপব্যবহার করেছে" },
+      { "en": "I abused rule.", "bn": "আমি নিয়মের অপব্যবহার করেছি" },
+      { "en": "He is abusing now.", "bn": "সে এখন অপব্যবহার করছে" },
+      { "en": "She abuses language.", "bn": "সে ভাষার অপব্যবহার করে" },
+      { "en": "They abused system.", "bn": "তারা সিস্টেম অপব্যবহার করেছিল" }
+    ],
+    "synonyms": ["mistreat", "misuse", "violate"]
+  },
+  {
+    "base": "accelerate",
+    "phonetic": "əkˈseləreɪt",
+    "v2": "accelerated",
+    "v3": "accelerated",
+    "meaning": "গতি বাড়ানো",
+    "examples": [
+      { "en": "I accelerate car.", "bn": "আমি গাড়ির গতি বাড়াই" },
+      { "en": "She accelerates growth.", "bn": "সে বৃদ্ধি ত্বরান্বিত করে" }
+    ],
+    "moreexample": [
+      { "en": "He accelerated speed.", "bn": "সে গতি বাড়িয়েছিল" },
+      {
+        "en": "They accelerate process.",
+        "bn": "তারা প্রক্রিয়া ত্বরান্বিত করে"
+      },
+      { "en": "I am accelerating now.", "bn": "আমি এখন গতি বাড়াচ্ছি" },
+      { "en": "She accelerated car.", "bn": "সে গাড়ির গতি বাড়িয়েছিল" },
+      { "en": "We accelerate learning.", "bn": "আমরা শেখা দ্রুত করি" },
+      { "en": "They have accelerated it.", "bn": "তারা এটি ত্বরান্বিত করেছে" },
+      { "en": "I accelerated work.", "bn": "আমি কাজ দ্রুত করেছি" },
+      { "en": "He is accelerating now.", "bn": "সে এখন গতি বাড়াচ্ছে" },
+      { "en": "She accelerates change.", "bn": "সে পরিবর্তন দ্রুত করে" },
+      { "en": "They accelerated system.", "bn": "তারা সিস্টেম দ্রুত করেছিল" }
+    ],
+    "synonyms": ["speed up", "hasten", "boost"]
+  },
+  {
+    "base": "accommodate",
+    "phonetic": "əˈkɒmədeɪt",
+    "v2": "accommodated",
+    "v3": "accommodated",
+    "meaning": "স্থান দেওয়া / মানিয়ে নেওয়া",
+    "examples": [
+      {
+        "en": "I accommodate guests.",
+        "bn": "আমি অতিথিদের থাকার ব্যবস্থা করি"
+      },
+      {
+        "en": "She accommodates needs.",
+        "bn": "সে প্রয়োজন অনুযায়ী মানিয়ে নেয়"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He accommodated friends.",
+        "bn": "সে বন্ধুদের থাকার ব্যবস্থা করেছিল"
+      },
+      { "en": "They accommodate people.", "bn": "তারা মানুষকে স্থান দেয়" },
+      { "en": "I am accommodating now.", "bn": "আমি এখন ব্যবস্থা করছি" },
+      {
+        "en": "She accommodated changes.",
+        "bn": "সে পরিবর্তনের সাথে মানিয়ে নিয়েছিল"
+      },
+      { "en": "We accommodate guests.", "bn": "আমরা অতিথিদের স্থান দিই" },
+      { "en": "They have accommodated it.", "bn": "তারা এটি মানিয়ে নিয়েছে" },
+      { "en": "I accommodated them.", "bn": "আমি তাদের ব্যবস্থা করেছি" },
+      { "en": "He is accommodating now.", "bn": "সে এখন ব্যবস্থা করছে" },
+      { "en": "She accommodates all.", "bn": "সে সবাইকে মানিয়ে নেয়" },
+      {
+        "en": "They accommodated students.",
+        "bn": "তারা ছাত্রদের ব্যবস্থা করেছিল"
+      }
+    ],
+    "synonyms": ["adjust", "fit", "house"]
+  },
+  {
+    "base": "accompany",
+    "phonetic": "əˈkʌmpəni",
+    "v2": "accompanied",
+    "v3": "accompanied",
+    "meaning": "সাথে থাকা",
+    "examples": [
+      { "en": "I accompany him.", "bn": "আমি তার সাথে যাই" },
+      { "en": "She accompanies me.", "bn": "সে আমার সাথে থাকে" }
+    ],
+    "moreexample": [
+      { "en": "He accompanied her.", "bn": "সে তার সাথে ছিল" },
+      { "en": "They accompany guests.", "bn": "তারা অতিথিদের সাথে থাকে" },
+      { "en": "I am accompanying now.", "bn": "আমি এখন সাথে যাচ্ছি" },
+      { "en": "She accompanied team.", "bn": "সে দলের সাথে ছিল" },
+      { "en": "We accompany friends.", "bn": "আমরা বন্ধুদের সাথে থাকি" },
+      { "en": "They have accompanied us.", "bn": "তারা আমাদের সাথে ছিল" },
+      { "en": "I accompanied him.", "bn": "আমি তার সাথে গিয়েছিলাম" },
+      { "en": "He is accompanying now.", "bn": "সে এখন সাথে যাচ্ছে" },
+      { "en": "She accompanies daily.", "bn": "সে প্রতিদিন সাথে থাকে" },
+      { "en": "They accompanied trip.", "bn": "তারা ভ্রমণে সাথে ছিল" }
+    ],
+    "synonyms": ["join", "escort", "go with"]
+  },
+  {
+    "base": "accuse",
+    "phonetic": "əˈkjuːz",
+    "v2": "accused",
+    "v3": "accused",
+    "meaning": "অভিযোগ করা",
+    "examples": [
+      { "en": "I accuse him.", "bn": "আমি তার বিরুদ্ধে অভিযোগ করি" },
+      { "en": "She accuses wrong.", "bn": "সে ভুল অভিযোগ করে" }
+    ],
+    "moreexample": [
+      { "en": "He accused me.", "bn": "সে আমাকে অভিযুক্ত করেছিল" },
+      { "en": "They accuse people.", "bn": "তারা মানুষকে অভিযুক্ত করে" },
+      { "en": "I am accusing now.", "bn": "আমি এখন অভিযোগ করছি" },
+      { "en": "She accused thief.", "bn": "সে চোরকে অভিযুক্ত করেছিল" },
+      { "en": "We accuse criminals.", "bn": "আমরা অপরাধীদের অভিযুক্ত করি" },
+      { "en": "They have accused him.", "bn": "তারা তাকে অভিযুক্ত করেছে" },
+      { "en": "I accused wrongly.", "bn": "আমি ভুলভাবে অভিযোগ করেছি" },
+      { "en": "He is accusing now.", "bn": "সে এখন অভিযোগ করছে" },
+      { "en": "She accuses daily.", "bn": "সে প্রতিদিন অভিযোগ করে" },
+      {
+        "en": "They accused suspect.",
+        "bn": "তারা সন্দেহভাজনকে অভিযুক্ত করেছিল"
+      }
+    ],
+    "synonyms": ["blame", "charge", "allege"]
+  },
+  {
+    "base": "acknowledge",
+    "phonetic": "əkˈnɒlɪdʒ",
+    "v2": "acknowledged",
+    "v3": "acknowledged",
+    "meaning": "স্বীকার করা",
+    "examples": [
+      { "en": "I acknowledge mistake.", "bn": "আমি ভুল স্বীকার করি" },
+      { "en": "She acknowledges truth.", "bn": "সে সত্য স্বীকার করে" }
+    ],
+    "moreexample": [
+      { "en": "He acknowledged error.", "bn": "সে ভুল স্বীকার করেছিল" },
+      { "en": "They acknowledge success.", "bn": "তারা সাফল্য স্বীকার করে" },
+      { "en": "I am acknowledging now.", "bn": "আমি এখন স্বীকার করছি" },
+      { "en": "She acknowledged help.", "bn": "সে সাহায্য স্বীকার করেছিল" },
+      { "en": "We acknowledge effort.", "bn": "আমরা প্রচেষ্টা স্বীকার করি" },
+      { "en": "They have acknowledged it.", "bn": "তারা এটি স্বীকার করেছে" },
+      { "en": "I acknowledged facts.", "bn": "আমি তথ্য স্বীকার করেছি" },
+      { "en": "He is acknowledging now.", "bn": "সে এখন স্বীকার করছে" },
+      { "en": "She acknowledges support.", "bn": "সে সহায়তা স্বীকার করে" },
+      { "en": "They acknowledged truth.", "bn": "তারা সত্য স্বীকার করেছিল" }
+    ],
+    "synonyms": ["admit", "recognize", "accept"]
+  },
+  {
+    "base": "acquire",
+    "phonetic": "əˈkwaɪə",
+    "v2": "acquired",
+    "v3": "acquired",
+    "meaning": "অর্জন করা",
+    "examples": [
+      { "en": "I acquire skill.", "bn": "আমি দক্ষতা অর্জন করি" },
+      { "en": "She acquires knowledge.", "bn": "সে জ্ঞান অর্জন করে" }
+    ],
+    "moreexample": [
+      { "en": "He acquired property.", "bn": "সে সম্পত্তি অর্জন করেছিল" },
+      { "en": "They acquire experience.", "bn": "তারা অভিজ্ঞতা অর্জন করে" },
+      { "en": "I am acquiring now.", "bn": "আমি এখন অর্জন করছি" },
+      { "en": "She acquired fame.", "bn": "সে খ্যাতি অর্জন করেছিল" },
+      { "en": "We acquire assets.", "bn": "আমরা সম্পদ অর্জন করি" },
+      { "en": "They have acquired it.", "bn": "তারা এটি অর্জন করেছে" },
+      { "en": "I acquired skill.", "bn": "আমি দক্ষতা অর্জন করেছি" },
+      { "en": "He is acquiring now.", "bn": "সে এখন অর্জন করছে" },
+      { "en": "She acquires talent.", "bn": "সে প্রতিভা অর্জন করে" },
+      { "en": "They acquired success.", "bn": "তারা সাফল্য অর্জন করেছিল" }
+    ],
+    "synonyms": ["gain", "obtain", "get"]
+  },
+  {
+    "base": "activate",
+    "phonetic": "ˈæktɪveɪt",
+    "v2": "activated",
+    "v3": "activated",
+    "meaning": "সক্রিয় করা",
+    "examples": [
+      { "en": "I activate system.", "bn": "আমি সিস্টেম সক্রিয় করি" },
+      { "en": "She activates phone.", "bn": "সে ফোন সক্রিয় করে" }
+    ],
+    "moreexample": [
+      { "en": "He activated mode.", "bn": "সে মোড সক্রিয় করেছিল" },
+      { "en": "They activate device.", "bn": "তারা ডিভাইস সক্রিয় করে" },
+      { "en": "I am activating now.", "bn": "আমি এখন সক্রিয় করছি" },
+      { "en": "She activated account.", "bn": "সে অ্যাকাউন্ট সক্রিয় করেছিল" },
+      { "en": "We activate system.", "bn": "আমরা সিস্টেম সক্রিয় করি" },
+      { "en": "They have activated it.", "bn": "তারা এটি সক্রিয় করেছে" },
+      { "en": "I activated app.", "bn": "আমি অ্যাপ সক্রিয় করেছি" },
+      { "en": "He is activating now.", "bn": "সে এখন সক্রিয় করছে" },
+      { "en": "She activates device.", "bn": "সে ডিভাইস সক্রিয় করে" },
+      { "en": "They activated feature.", "bn": "তারা ফিচার সক্রিয় করেছিল" }
+    ],
+    "synonyms": ["enable", "start", "turn on"]
+  },
+  {
+    "base": "adapt",
+    "phonetic": "əˈdæpt",
+    "v2": "adapted",
+    "v3": "adapted",
+    "meaning": "খাপ খাওয়ানো",
+    "examples": [
+      { "en": "I adapt quickly.", "bn": "আমি দ্রুত খাপ খাইয়ে নিই" },
+      { "en": "She adapts to change.", "bn": "সে পরিবর্তনের সাথে খাপ খায়" }
+    ],
+    "moreexample": [
+      { "en": "He adapted system.", "bn": "সে সিস্টেম খাপ খাইয়ে নিয়েছিল" },
+      { "en": "They adapt easily.", "bn": "তারা সহজে খাপ খায়" },
+      { "en": "I am adapting now.", "bn": "আমি এখন খাপ খাচ্ছি" },
+      { "en": "She adapted life.", "bn": "সে জীবন খাপ খাইয়ে নিয়েছিল" },
+      { "en": "We adapt changes.", "bn": "আমরা পরিবর্তনের সাথে খাপ খাই" },
+      { "en": "They have adapted it.", "bn": "তারা এটি খাপ খাইয়ে নিয়েছে" },
+      { "en": "I adapted quickly.", "bn": "আমি দ্রুত খাপ খাইয়েছিলাম" },
+      { "en": "He is adapting now.", "bn": "সে এখন খাপ খাচ্ছে" },
+      { "en": "She adapts well.", "bn": "সে ভালোভাবে খাপ খায়" },
+      { "en": "They adapted rules.", "bn": "তারা নিয়ম খাপ খাইয়েছিল" }
+    ],
+    "synonyms": ["adjust", "fit", "modify"]
+  },
+  {
+    "base": "administer",
+    "phonetic": "ədˈmɪnɪstə",
+    "v2": "administered",
+    "v3": "administered",
+    "meaning": "পরিচালনা করা / প্রয়োগ করা",
+    "examples": [
+      { "en": "I administer exam.", "bn": "আমি পরীক্ষা পরিচালনা করি" },
+      { "en": "She administers medicine.", "bn": "সে ওষুধ দেয়" }
+    ],
+    "moreexample": [
+      { "en": "He administered test.", "bn": "সে পরীক্ষা পরিচালনা করেছিল" },
+      { "en": "They administer system.", "bn": "তারা সিস্টেম পরিচালনা করে" },
+      { "en": "I am administering now.", "bn": "আমি এখন পরিচালনা করছি" },
+      { "en": "She administered vaccine.", "bn": "সে টিকা দিয়েছিল" },
+      { "en": "We administer rules.", "bn": "আমরা নিয়ম পরিচালনা করি" },
+      { "en": "They have administered it.", "bn": "তারা এটি পরিচালনা করেছে" },
+      { "en": "I administered medicine.", "bn": "আমি ওষুধ দিয়েছি" },
+      { "en": "He is administering now.", "bn": "সে এখন পরিচালনা করছে" },
+      { "en": "She administers care.", "bn": "সে যত্ন দেয়" },
+      { "en": "They administered exam.", "bn": "তারা পরীক্ষা পরিচালনা করেছিল" }
+    ],
+    "synonyms": ["manage", "conduct", "apply"]
+  },
+  {
+    "base": "admit",
+    "phonetic": "ədˈmɪt",
+    "v2": "admitted",
+    "v3": "admitted",
+    "meaning": "স্বীকার করা / ভর্তি করা",
+    "examples": [
+      { "en": "I admit mistake.", "bn": "আমি ভুল স্বীকার করি" },
+      { "en": "She admits truth.", "bn": "সে সত্য স্বীকার করে" }
+    ],
+    "moreexample": [
+      { "en": "He admitted guilt.", "bn": "সে অপরাধ স্বীকার করেছিল" },
+      { "en": "They admit students.", "bn": "তারা ছাত্রদের ভর্তি করে" },
+      { "en": "I am admitting now.", "bn": "আমি এখন স্বীকার করছি" },
+      { "en": "She admitted error.", "bn": "সে ভুল স্বীকার করেছিল" },
+      { "en": "We admit patients.", "bn": "আমরা রোগী ভর্তি করি" },
+      { "en": "They have admitted it.", "bn": "তারা এটি স্বীকার করেছে" },
+      { "en": "I admitted fault.", "bn": "আমি দোষ স্বীকার করেছি" },
+      { "en": "He is admitting now.", "bn": "সে এখন স্বীকার করছে" },
+      { "en": "She admits clearly.", "bn": "সে স্পষ্টভাবে স্বীকার করে" },
+      { "en": "They admitted case.", "bn": "তারা মামলা স্বীকার করেছিল" }
+    ],
+    "synonyms": ["confess", "accept", "allow"]
+  },
+
+  {
+    "base": "advise",
+    "phonetic": "ədˈvaɪz",
+    "v2": "advised",
+    "v3": "advised",
+    "meaning": "পরামর্শ দেওয়া",
+    "examples": [
+      { "en": "I advise him.", "bn": "আমি তাকে পরামর্শ দিই" },
+      { "en": "She advises students.", "bn": "সে ছাত্রদের পরামর্শ দেয়" }
+    ],
+    "moreexample": [
+      { "en": "He advised me well.", "bn": "সে আমাকে ভালো পরামর্শ দিয়েছিল" },
+      { "en": "They advise caution.", "bn": "তারা সতর্কতা পরামর্শ দেয়" },
+      { "en": "I am advising now.", "bn": "আমি এখন পরামর্শ দিচ্ছি" },
+      { "en": "She advised action.", "bn": "সে পদক্ষেপ নিতে পরামর্শ দিয়েছিল" },
+      { "en": "We advise users.", "bn": "আমরা ব্যবহারকারীদের পরামর্শ দিই" },
+      { "en": "They have advised it.", "bn": "তারা এটি পরামর্শ দিয়েছে" },
+      {
+        "en": "I advised him yesterday.",
+        "bn": "আমি তাকে গতকাল পরামর্শ দিয়েছিলাম"
+      },
+      { "en": "He is advising now.", "bn": "সে এখন পরামর্শ দিচ্ছে" },
+      { "en": "She advises daily.", "bn": "সে প্রতিদিন পরামর্শ দেয়" },
+      { "en": "They advised change.", "bn": "তারা পরিবর্তনের পরামর্শ দিয়েছিল" }
+    ],
+    "synonyms": ["suggest", "recommend", "guide"]
+  },
+  {
+    "base": "admire",
+    "phonetic": "ədˈmaɪə",
+    "v2": "admired",
+    "v3": "admired",
+    "meaning": "প্রশংসা করা",
+    "examples": [
+      { "en": "I admire him.", "bn": "আমি তাকে প্রশংসা করি" },
+      { "en": "She admires talent.", "bn": "সে প্রতিভার প্রশংসা করে" }
+    ],
+    "moreexample": [
+      { "en": "He admired her work.", "bn": "সে তার কাজের প্রশংসা করেছিল" },
+      { "en": "They admire nature.", "bn": "তারা প্রকৃতির প্রশংসা করে" },
+      { "en": "I am admiring now.", "bn": "আমি এখন প্রশংসা করছি" },
+      { "en": "She admired painting.", "bn": "সে চিত্রের প্রশংসা করেছিল" },
+      { "en": "We admire courage.", "bn": "আমরা সাহসের প্রশংসা করি" },
+      { "en": "They have admired it.", "bn": "তারা এটি প্রশংসা করেছে" },
+      { "en": "I admired him.", "bn": "আমি তাকে প্রশংসা করেছি" },
+      { "en": "He is admiring now.", "bn": "সে এখন প্রশংসা করছে" },
+      { "en": "She admires beauty.", "bn": "সে সৌন্দর্যের প্রশংসা করে" },
+      { "en": "They admired view.", "bn": "তারা দৃশ্যের প্রশংসা করেছিল" }
+    ],
+    "synonyms": ["appreciate", "praise", "respect"]
+  },
+  {
+    "base": "advance",
+    "phonetic": "ədˈvɑːns",
+    "v2": "advanced",
+    "v3": "advanced",
+    "meaning": "এগিয়ে যাওয়া / উন্নতি করা",
+    "examples": [
+      { "en": "I advance plan.", "bn": "আমি পরিকল্পনা এগিয়ে নিই" },
+      { "en": "She advances quickly.", "bn": "সে দ্রুত উন্নতি করে" }
+    ],
+    "moreexample": [
+      { "en": "He advanced career.", "bn": "সে ক্যারিয়ারে উন্নতি করেছিল" },
+      { "en": "They advance technology.", "bn": "তারা প্রযুক্তি উন্নত করে" },
+      { "en": "I am advancing now.", "bn": "আমি এখন এগিয়ে যাচ্ছি" },
+      { "en": "She advanced idea.", "bn": "সে ধারণা উন্নত করেছিল" },
+      { "en": "We advance society.", "bn": "আমরা সমাজ উন্নত করি" },
+      { "en": "They have advanced it.", "bn": "তারা এটি উন্নত করেছে" },
+      { "en": "I advanced step.", "bn": "আমি পদক্ষেপ এগিয়ে নিয়েছি" },
+      { "en": "He is advancing now.", "bn": "সে এখন এগিয়ে যাচ্ছে" },
+      { "en": "She advances learning.", "bn": "সে শেখাকে উন্নত করে" },
+      { "en": "They advanced system.", "bn": "তারা সিস্টেম উন্নত করেছিল" }
+    ],
+    "synonyms": ["progress", "move forward", "develop"]
+  },
+  {
+    "base": "advertise",
+    "phonetic": "ˈædvətaɪz",
+    "v2": "advertised",
+    "v3": "advertised",
+    "meaning": "বিজ্ঞাপন করা",
+    "examples": [
+      { "en": "I advertise product.", "bn": "আমি পণ্যের বিজ্ঞাপন করি" },
+      { "en": "She advertises online.", "bn": "সে অনলাইনে বিজ্ঞাপন দেয়" }
+    ],
+    "moreexample": [
+      { "en": "He advertised job.", "bn": "সে চাকরির বিজ্ঞাপন দিয়েছিল" },
+      { "en": "They advertise business.", "bn": "তারা ব্যবসার বিজ্ঞাপন দেয়" },
+      { "en": "I am advertising now.", "bn": "আমি এখন বিজ্ঞাপন দিচ্ছি" },
+      { "en": "She advertised service.", "bn": "সে সেবার বিজ্ঞাপন দিয়েছিল" },
+      { "en": "We advertise brand.", "bn": "আমরা ব্র্যান্ডের বিজ্ঞাপন করি" },
+      { "en": "They have advertised it.", "bn": "তারা এটি বিজ্ঞাপন করেছে" },
+      { "en": "I advertised sale.", "bn": "আমি বিক্রির বিজ্ঞাপন দিয়েছি" },
+      { "en": "He is advertising now.", "bn": "সে এখন বিজ্ঞাপন দিচ্ছে" },
+      { "en": "She advertises daily.", "bn": "সে প্রতিদিন বিজ্ঞাপন দেয়" },
+      {
+        "en": "They advertised product.",
+        "bn": "তারা পণ্যের বিজ্ঞাপন দিয়েছিল"
+      }
+    ],
+    "synonyms": ["promote", "publicize", "announce"]
+  },
+  {
+    "base": "affect",
+    "phonetic": "əˈfekt",
+    "v2": "affected",
+    "v3": "affected",
+    "meaning": "প্রভাবিত করা",
+    "examples": [
+      { "en": "Rain affects mood.", "bn": "বৃষ্টি মেজাজকে প্রভাবিত করে" },
+      { "en": "It affects health.", "bn": "এটি স্বাস্থ্যে প্রভাব ফেলে" }
+    ],
+    "moreexample": [
+      { "en": "He affected change.", "bn": "সে পরিবর্তন প্রভাবিত করেছিল" },
+      { "en": "They affect results.", "bn": "তারা ফলাফল প্রভাবিত করে" },
+      { "en": "I am affecting now.", "bn": "আমি এখন প্রভাবিত করছি" },
+      { "en": "She affected decision.", "bn": "সে সিদ্ধান্ত প্রভাবিত করেছিল" },
+      { "en": "We affect system.", "bn": "আমরা সিস্টেম প্রভাবিত করি" },
+      { "en": "They have affected it.", "bn": "তারা এটি প্রভাবিত করেছে" },
+      { "en": "I affected outcome.", "bn": "আমি ফলাফল প্রভাবিত করেছি" },
+      { "en": "He is affecting now.", "bn": "সে এখন প্রভাবিত করছে" },
+      { "en": "She affects behavior.", "bn": "সে আচরণ প্রভাবিত করে" },
+      { "en": "They affected growth.", "bn": "তারা বৃদ্ধি প্রভাবিত করেছিল" }
+    ],
+    "synonyms": ["influence", "impact", "change"]
+  },
+  {
+    "base": "align",
+    "phonetic": "əˈlaɪn",
+    "v2": "aligned",
+    "v3": "aligned",
+    "meaning": "সারিবদ্ধ করা / মিলানো",
+    "examples": [
+      { "en": "I align goals.", "bn": "আমি লক্ষ্য মিলাই" },
+      { "en": "She aligns ideas.", "bn": "সে ধারণা মিলায়" }
+    ],
+    "moreexample": [
+      { "en": "He aligned system.", "bn": "সে সিস্টেম মিলিয়েছিল" },
+      { "en": "They align strategy.", "bn": "তারা কৌশল মিলায়" },
+      { "en": "I am aligning now.", "bn": "আমি এখন মিলাচ্ছি" },
+      { "en": "She aligned vision.", "bn": "সে দৃষ্টি মিলিয়েছিল" },
+      { "en": "We align work.", "bn": "আমরা কাজ মিলাই" },
+      { "en": "They have aligned it.", "bn": "তারা এটি মিলিয়েছে" },
+      { "en": "I aligned tasks.", "bn": "আমি কাজ মিলিয়েছি" },
+      { "en": "He is aligning now.", "bn": "সে এখন মিলাচ্ছে" },
+      { "en": "She aligns team.", "bn": "সে দল মিলায়" },
+      { "en": "They aligned process.", "bn": "তারা প্রক্রিয়া মিলিয়েছিল" }
+    ],
+    "synonyms": ["adjust", "match", "coordinate"]
+  },
+  {
+    "base": "allocate",
+    "phonetic": "ˈæləkeɪt",
+    "v2": "allocated",
+    "v3": "allocated",
+    "meaning": "বরাদ্দ করা",
+    "examples": [
+      { "en": "I allocate budget.", "bn": "আমি বাজেট বরাদ্দ করি" },
+      { "en": "She allocates time.", "bn": "সে সময় বরাদ্দ করে" }
+    ],
+    "moreexample": [
+      { "en": "He allocated funds.", "bn": "সে তহবিল বরাদ্দ করেছিল" },
+      { "en": "They allocate resources.", "bn": "তারা সম্পদ বরাদ্দ করে" },
+      { "en": "I am allocating now.", "bn": "আমি এখন বরাদ্দ করছি" },
+      { "en": "She allocated work.", "bn": "সে কাজ বরাদ্দ করেছিল" },
+      { "en": "We allocate tasks.", "bn": "আমরা কাজ বরাদ্দ করি" },
+      { "en": "They have allocated it.", "bn": "তারা এটি বরাদ্দ করেছে" },
+      { "en": "I allocated money.", "bn": "আমি টাকা বরাদ্দ করেছি" },
+      { "en": "He is allocating now.", "bn": "সে এখন বরাদ্দ করছে" },
+      { "en": "She allocates space.", "bn": "সে স্থান বরাদ্দ করে" },
+      { "en": "They allocated budget.", "bn": "তারা বাজেট বরাদ্দ করেছিল" }
+    ],
+    "synonyms": ["assign", "distribute", "divide"]
+  },
+  {
+    "base": "amend",
+    "phonetic": "əˈmend",
+    "v2": "amended",
+    "v3": "amended",
+    "meaning": "সংশোধন করা",
+    "examples": [
+      { "en": "I amend rules.", "bn": "আমি নিয়ম সংশোধন করি" },
+      { "en": "She amends document.", "bn": "সে ডকুমেন্ট সংশোধন করে" }
+    ],
+    "moreexample": [
+      { "en": "He amended law.", "bn": "সে আইন সংশোধন করেছিল" },
+      { "en": "They amend policy.", "bn": "তারা নীতি সংশোধন করে" },
+      { "en": "I am amending now.", "bn": "আমি এখন সংশোধন করছি" },
+      { "en": "She amended report.", "bn": "সে রিপোর্ট সংশোধন করেছিল" },
+      { "en": "We amend text.", "bn": "আমরা লেখা সংশোধন করি" },
+      { "en": "They have amended it.", "bn": "তারা এটি সংশোধন করেছে" },
+      { "en": "I amended file.", "bn": "আমি ফাইল সংশোধন করেছি" },
+      { "en": "He is amending now.", "bn": "সে এখন সংশোধন করছে" },
+      { "en": "She amends errors.", "bn": "সে ভুল সংশোধন করে" },
+      { "en": "They amended system.", "bn": "তারা সিস্টেম সংশোধন করেছিল" }
+    ],
+    "synonyms": ["correct", "revise", "edit"]
+  },
+  {
+    "base": "analyze",
+    "phonetic": "ˈænəlaɪz",
+    "v2": "analyzed",
+    "v3": "analyzed",
+    "meaning": "বিশ্লেষণ করা",
+    "examples": [
+      { "en": "I analyze data.", "bn": "আমি ডেটা বিশ্লেষণ করি" },
+      { "en": "She analyzes results.", "bn": "সে ফলাফল বিশ্লেষণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He analyzed problem.", "bn": "সে সমস্যা বিশ্লেষণ করেছিল" },
+      { "en": "They analyze system.", "bn": "তারা সিস্টেম বিশ্লেষণ করে" },
+      { "en": "I am analyzing now.", "bn": "আমি এখন বিশ্লেষণ করছি" },
+      { "en": "She analyzed report.", "bn": "সে রিপোর্ট বিশ্লেষণ করেছিল" },
+      { "en": "We analyze trends.", "bn": "আমরা প্রবণতা বিশ্লেষণ করি" },
+      { "en": "They have analyzed it.", "bn": "তারা এটি বিশ্লেষণ করেছে" },
+      { "en": "I analyzed data.", "bn": "আমি ডেটা বিশ্লেষণ করেছি" },
+      { "en": "He is analyzing now.", "bn": "সে এখন বিশ্লেষণ করছে" },
+      { "en": "She analyzes daily.", "bn": "সে প্রতিদিন বিশ্লেষণ করে" },
+      { "en": "They analyzed case.", "bn": "তারা কেস বিশ্লেষণ করেছিল" }
+    ],
+    "synonyms": ["examine", "study", "inspect"]
+  },
+  {
+    "base": "annoy",
+    "phonetic": "əˈnɔɪ",
+    "v2": "annoyed",
+    "v3": "annoyed",
+    "meaning": "বিরক্ত করা",
+    "examples": [
+      { "en": "I annoy him.", "bn": "আমি তাকে বিরক্ত করি" },
+      { "en": "She annoys me.", "bn": "সে আমাকে বিরক্ত করে" }
+    ],
+    "moreexample": [
+      { "en": "He annoyed teacher.", "bn": "সে শিক্ষককে বিরক্ত করেছিল" },
+      { "en": "They annoy people.", "bn": "তারা মানুষকে বিরক্ত করে" },
+      { "en": "I am annoying now.", "bn": "আমি এখন বিরক্ত করছি" },
+      { "en": "She annoyed friend.", "bn": "সে বন্ধুকে বিরক্ত করেছিল" },
+      { "en": "We annoy no one.", "bn": "আমরা কাউকে বিরক্ত করি না" },
+      { "en": "They have annoyed it.", "bn": "তারা এটি বিরক্ত করেছে" },
+      { "en": "I annoyed him.", "bn": "আমি তাকে বিরক্ত করেছি" },
+      { "en": "He is annoying now.", "bn": "সে এখন বিরক্ত করছে" },
+      { "en": "She annoys daily.", "bn": "সে প্রতিদিন বিরক্ত করে" },
+      { "en": "They annoyed group.", "bn": "তারা দলকে বিরক্ত করেছিল" }
+    ],
+    "synonyms": ["irritate", "bother", "disturb"]
+  },
+  {
+    "base": "anticipate",
+    "phonetic": "ænˈtɪsɪpeɪt",
+    "v2": "anticipated",
+    "v3": "anticipated",
+    "meaning": "আগাম ধারণা করা",
+    "examples": [
+      { "en": "I anticipate success.", "bn": "আমি সাফল্য আশা করি" },
+      { "en": "She anticipates change.", "bn": "সে পরিবর্তন অনুমান করে" }
+    ],
+    "moreexample": [
+      { "en": "He anticipated problem.", "bn": "সে সমস্যা অনুমান করেছিল" },
+      { "en": "They anticipate demand.", "bn": "তারা চাহিদা অনুমান করে" },
+      { "en": "I am anticipating now.", "bn": "আমি এখন অনুমান করছি" },
+      { "en": "She anticipated result.", "bn": "সে ফলাফল অনুমান করেছিল" },
+      { "en": "We anticipate growth.", "bn": "আমরা বৃদ্ধি অনুমান করি" },
+      { "en": "They have anticipated it.", "bn": "তারা এটি অনুমান করেছে" },
+      { "en": "I anticipated issue.", "bn": "আমি সমস্যা অনুমান করেছি" },
+      { "en": "He is anticipating now.", "bn": "সে এখন অনুমান করছে" },
+      { "en": "She anticipates market.", "bn": "সে বাজার অনুমান করে" },
+      { "en": "They anticipated risk.", "bn": "তারা ঝুঁকি অনুমান করেছিল" }
+    ],
+    "synonyms": ["expect", "predict", "foresee"]
+  },
+  {
+    "base": "appeal",
+    "phonetic": "əˈpiːl",
+    "v2": "appealed",
+    "v3": "appealed",
+    "meaning": "আবেদন করা / আকর্ষণ করা",
+    "examples": [
+      { "en": "I appeal to court.", "bn": "আমি আদালতে আবেদন করি" },
+      { "en": "She appeals audience.", "bn": "সে দর্শকদের আকর্ষণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He appealed case.", "bn": "সে মামলা আপিল করেছিল" },
+      {
+        "en": "They appeal decision.",
+        "bn": "তারা সিদ্ধান্তের বিরুদ্ধে আবেদন করে"
+      },
+      { "en": "I am appealing now.", "bn": "আমি এখন আবেদন করছি" },
+      { "en": "She appealed judge.", "bn": "সে বিচারকের কাছে আবেদন করেছিল" },
+      { "en": "We appeal justice.", "bn": "আমরা ন্যায়বিচারের আবেদন করি" },
+      { "en": "They have appealed it.", "bn": "তারা এটি আপিল করেছে" },
+      { "en": "I appealed order.", "bn": "আমি আদেশের বিরুদ্ধে আবেদন করেছি" },
+      { "en": "He is appealing now.", "bn": "সে এখন আবেদন করছে" },
+      { "en": "She appeals emotion.", "bn": "সে আবেগ আকর্ষণ করে" },
+      { "en": "They appealed court.", "bn": "তারা আদালতে আবেদন করেছিল" }
+    ],
+    "synonyms": ["request", "attract", "petition"]
+  },
+  {
+    "base": "appreciate",
+    "phonetic": "əˈpriːʃieɪt",
+    "v2": "appreciated",
+    "v3": "appreciated",
+    "meaning": "প্রশংসা করা / মূল্যায়ন করা",
+    "examples": [
+      { "en": "I appreciate help.", "bn": "আমি সাহায্যের প্রশংসা করি" },
+      { "en": "She appreciates effort.", "bn": "সে প্রচেষ্টার প্রশংসা করে" }
+    ],
+    "moreexample": [
+      { "en": "He appreciated work.", "bn": "সে কাজের প্রশংসা করেছিল" },
+      { "en": "They appreciate support.", "bn": "তারা সহায়তার প্রশংসা করে" },
+      { "en": "I am appreciating now.", "bn": "আমি এখন প্রশংসা করছি" },
+      { "en": "She appreciated gift.", "bn": "সে উপহারের প্রশংসা করেছিল" },
+      { "en": "We appreciate honesty.", "bn": "আমরা সততার প্রশংসা করি" },
+      { "en": "They have appreciated it.", "bn": "তারা এটি প্রশংসা করেছে" },
+      { "en": "I appreciated value.", "bn": "আমি মূল্য বুঝেছি" },
+      { "en": "He is appreciating now.", "bn": "সে এখন প্রশংসা করছে" },
+      { "en": "She appreciates kindness.", "bn": "সে দয়ার প্রশংসা করে" },
+      {
+        "en": "They appreciated effort.",
+        "bn": "তারা প্রচেষ্টার প্রশংসা করেছিল"
+      }
+    ],
+    "synonyms": ["value", "praise", "recognize"]
+  },
+  {
+    "base": "approach",
+    "phonetic": "əˈprəʊtʃ",
+    "v2": "approached",
+    "v3": "approached",
+    "meaning": "কাছে যাওয়া / পদ্ধতি গ্রহণ করা",
+    "examples": [
+      { "en": "I approach problem.", "bn": "আমি সমস্যার কাছে যাই" },
+      { "en": "She approaches goal.", "bn": "সে লক্ষ্য অর্জনের দিকে যায়" }
+    ],
+    "moreexample": [
+      { "en": "He approached teacher.", "bn": "সে শিক্ষকের কাছে গিয়েছিল" },
+      { "en": "They approach issue.", "bn": "তারা সমস্যার দিকে যায়" },
+      { "en": "I am approaching now.", "bn": "আমি এখন এগিয়ে যাচ্ছি" },
+      { "en": "She approached team.", "bn": "সে দলের কাছে গিয়েছিল" },
+      { "en": "We approach solution.", "bn": "আমরা সমাধানের দিকে যাই" },
+      { "en": "They have approached it.", "bn": "তারা এটি মোকাবিলা করেছে" },
+      { "en": "I approached situation.", "bn": "আমি পরিস্থিতির কাছে গিয়েছি" },
+      { "en": "He is approaching now.", "bn": "সে এখন এগিয়ে যাচ্ছে" },
+      { "en": "She approaches calmly.", "bn": "সে শান্তভাবে এগিয়ে যায়" },
+      { "en": "They approached case.", "bn": "তারা কেসের কাছে গিয়েছিল" }
+    ],
+    "synonyms": ["move toward", "deal with", "contact"]
+  },
+  {
+    "base": "approve",
+    "phonetic": "əˈpruːv",
+    "v2": "approved",
+    "v3": "approved",
+    "meaning": "অনুমোদন করা",
+    "examples": [
+      { "en": "I approve plan.", "bn": "আমি পরিকল্পনা অনুমোদন করি" },
+      { "en": "She approves request.", "bn": "সে অনুরোধ অনুমোদন করে" }
+    ],
+    "moreexample": [
+      { "en": "He approved idea.", "bn": "সে ধারণা অনুমোদন করেছিল" },
+      { "en": "They approve system.", "bn": "তারা সিস্টেম অনুমোদন করে" },
+      { "en": "I am approving now.", "bn": "আমি এখন অনুমোদন করছি" },
+      { "en": "She approved budget.", "bn": "সে বাজেট অনুমোদন করেছিল" },
+      { "en": "We approve changes.", "bn": "আমরা পরিবর্তন অনুমোদন করি" },
+      { "en": "They have approved it.", "bn": "তারা এটি অনুমোদন করেছে" },
+      { "en": "I approved file.", "bn": "আমি ফাইল অনুমোদন করেছি" },
+      { "en": "He is approving now.", "bn": "সে এখন অনুমোদন করছে" },
+      { "en": "She approves daily.", "bn": "সে প্রতিদিন অনুমোদন করে" },
+      { "en": "They approved project.", "bn": "তারা প্রকল্প অনুমোদন করেছিল" }
+    ],
+    "synonyms": ["accept", "authorize", "confirm"]
+  },
+  {
+    "base": "arrange",
+    "phonetic": "əˈreɪndʒ",
+    "v2": "arranged",
+    "v3": "arranged",
+    "meaning": "গুছানো / ব্যবস্থা করা",
+    "examples": [
+      { "en": "I arrange meeting.", "bn": "আমি মিটিং ব্যবস্থা করি" },
+      { "en": "She arranges files.", "bn": "সে ফাইল গুছায়" }
+    ],
+    "moreexample": [
+      { "en": "He arranged chairs.", "bn": "সে চেয়ার গুছিয়েছিল" },
+      { "en": "They arrange event.", "bn": "তারা অনুষ্ঠান ব্যবস্থা করে" },
+      { "en": "I am arranging now.", "bn": "আমি এখন গুছাচ্ছি" },
+      { "en": "She arranged party.", "bn": "সে পার্টি ব্যবস্থা করেছিল" },
+      { "en": "We arrange work.", "bn": "আমরা কাজ গুছাই" },
+      { "en": "They have arranged it.", "bn": "তারা এটি ব্যবস্থা করেছে" },
+      { "en": "I arranged plan.", "bn": "আমি পরিকল্পনা গুছিয়েছি" },
+      { "en": "He is arranging now.", "bn": "সে এখন গুছাচ্ছে" },
+      { "en": "She arranges schedule.", "bn": "সে সময়সূচি গুছায়" },
+      { "en": "They arranged meeting.", "bn": "তারা মিটিং ব্যবস্থা করেছিল" }
+    ],
+    "synonyms": ["organize", "set", "plan"]
+  },
+
+  {
+    "base": "assess",
+    "phonetic": "əˈses",
+    "v2": "assessed",
+    "v3": "assessed",
+    "meaning": "মূল্যায়ন করা",
+    "examples": [
+      { "en": "I assess risk.", "bn": "আমি ঝুঁকি মূল্যায়ন করি" },
+      { "en": "She assesses work.", "bn": "সে কাজ মূল্যায়ন করে" }
+    ],
+    "moreexample": [
+      { "en": "He assessed damage.", "bn": "সে ক্ষতি মূল্যায়ন করেছিল" },
+      { "en": "They assess students.", "bn": "তারা ছাত্রদের মূল্যায়ন করে" },
+      { "en": "I am assessing now.", "bn": "আমি এখন মূল্যায়ন করছি" },
+      { "en": "She assessed report.", "bn": "সে রিপোর্ট মূল্যায়ন করেছিল" },
+      { "en": "We assess situation.", "bn": "আমরা পরিস্থিতি মূল্যায়ন করি" },
+      { "en": "They have assessed it.", "bn": "তারা এটি মূল্যায়ন করেছে" },
+      { "en": "I assessed data.", "bn": "আমি ডেটা মূল্যায়ন করেছি" },
+      { "en": "He is assessing now.", "bn": "সে এখন মূল্যায়ন করছে" },
+      {
+        "en": "She assesses performance.",
+        "bn": "সে পারফরম্যান্স মূল্যায়ন করে"
+      },
+      { "en": "They assessed case.", "bn": "তারা কেস মূল্যায়ন করেছিল" }
+    ],
+    "synonyms": ["evaluate", "judge", "measure"]
+  },
+  {
+    "base": "assign",
+    "phonetic": "əˈsaɪn",
+    "v2": "assigned",
+    "v3": "assigned",
+    "meaning": "নির্ধারণ করা / বরাদ্দ করা",
+    "examples": [
+      { "en": "I assign task.", "bn": "আমি কাজ বরাদ্দ করি" },
+      { "en": "She assigns roles.", "bn": "সে ভূমিকা নির্ধারণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He assigned work.", "bn": "সে কাজ বরাদ্দ করেছিল" },
+      { "en": "They assign duty.", "bn": "তারা দায়িত্ব নির্ধারণ করে" },
+      { "en": "I am assigning now.", "bn": "আমি এখন বরাদ্দ করছি" },
+      { "en": "She assigned job.", "bn": "সে কাজ নির্ধারণ করেছিল" },
+      { "en": "We assign students.", "bn": "আমরা ছাত্রদের বরাদ্দ করি" },
+      { "en": "They have assigned it.", "bn": "তারা এটি বরাদ্দ করেছে" },
+      { "en": "I assigned team.", "bn": "আমি দল নির্ধারণ করেছি" },
+      { "en": "He is assigning now.", "bn": "সে এখন বরাদ্দ করছে" },
+      { "en": "She assigns duties.", "bn": "সে দায়িত্ব নির্ধারণ করে" },
+      { "en": "They assigned project.", "bn": "তারা প্রকল্প বরাদ্দ করেছিল" }
+    ],
+    "synonyms": ["allocate", "appoint", "designate"]
+  },
+  {
+    "base": "assist",
+    "phonetic": "əˈsɪst",
+    "v2": "assisted",
+    "v3": "assisted",
+    "meaning": "সহায়তা করা",
+    "examples": [
+      { "en": "I assist him.", "bn": "আমি তাকে সাহায্য করি" },
+      { "en": "She assists students.", "bn": "সে ছাত্রদের সাহায্য করে" }
+    ],
+    "moreexample": [
+      { "en": "He assisted me.", "bn": "সে আমাকে সাহায্য করেছিল" },
+      { "en": "They assist people.", "bn": "তারা মানুষকে সাহায্য করে" },
+      { "en": "I am assisting now.", "bn": "আমি এখন সাহায্য করছি" },
+      { "en": "She assisted team.", "bn": "সে দলকে সাহায্য করেছিল" },
+      { "en": "We assist users.", "bn": "আমরা ব্যবহারকারীদের সাহায্য করি" },
+      { "en": "They have assisted it.", "bn": "তারা এটি সাহায্য করেছে" },
+      { "en": "I assisted friend.", "bn": "আমি বন্ধুকে সাহায্য করেছি" },
+      { "en": "He is assisting now.", "bn": "সে এখন সাহায্য করছে" },
+      { "en": "She assists daily.", "bn": "সে প্রতিদিন সাহায্য করে" },
+      { "en": "They assisted work.", "bn": "তারা কাজে সাহায্য করেছিল" }
+    ],
+    "synonyms": ["help", "support", "aid"]
+  },
+  {
+    "base": "assume",
+    "phonetic": "əˈsjuːm",
+    "v2": "assumed",
+    "v3": "assumed",
+    "meaning": "ধরা / অনুমান করা",
+    "examples": [
+      { "en": "I assume truth.", "bn": "আমি সত্য ধরে নিই" },
+      { "en": "She assumes risk.", "bn": "সে ঝুঁকি ধরে নেয়" }
+    ],
+    "moreexample": [
+      { "en": "He assumed wrong.", "bn": "সে ভুল ধরে নিয়েছিল" },
+      { "en": "They assume result.", "bn": "তারা ফলাফল অনুমান করে" },
+      { "en": "I am assuming now.", "bn": "আমি এখন অনুমান করছি" },
+      { "en": "She assumed role.", "bn": "সে ভূমিকা গ্রহণ করেছিল" },
+      { "en": "We assume facts.", "bn": "আমরা তথ্য ধরে নিই" },
+      { "en": "They have assumed it.", "bn": "তারা এটি ধরে নিয়েছে" },
+      { "en": "I assumed answer.", "bn": "আমি উত্তর ধরে নিয়েছি" },
+      { "en": "He is assuming now.", "bn": "সে এখন অনুমান করছে" },
+      { "en": "She assumes logic.", "bn": "সে যুক্তি ধরে নেয়" },
+      { "en": "They assumed case.", "bn": "তারা কেস ধরে নিয়েছিল" }
+    ],
+    "synonyms": ["suppose", "believe", "consider"]
+  },
+  {
+    "base": "assure",
+    "phonetic": "əˈʃʊə",
+    "v2": "assured",
+    "v3": "assured",
+    "meaning": "আশ্বস্ত করা",
+    "examples": [
+      { "en": "I assure him.", "bn": "আমি তাকে আশ্বস্ত করি" },
+      { "en": "She assures safety.", "bn": "সে নিরাপত্তা নিশ্চিত করে" }
+    ],
+    "moreexample": [
+      { "en": "He assured me.", "bn": "সে আমাকে আশ্বস্ত করেছিল" },
+      { "en": "They assure success.", "bn": "তারা সাফল্য নিশ্চিত করে" },
+      { "en": "I am assuring now.", "bn": "আমি এখন আশ্বস্ত করছি" },
+      { "en": "She assured promise.", "bn": "সে প্রতিশ্রুতি দিয়েছিল" },
+      { "en": "We assure quality.", "bn": "আমরা গুণমান নিশ্চিত করি" },
+      { "en": "They have assured it.", "bn": "তারা এটি নিশ্চিত করেছে" },
+      { "en": "I assured friend.", "bn": "আমি বন্ধুকে আশ্বস্ত করেছি" },
+      { "en": "He is assuring now.", "bn": "সে এখন আশ্বস্ত করছে" },
+      { "en": "She assures peace.", "bn": "সে শান্তি নিশ্চিত করে" },
+      { "en": "They assured support.", "bn": "তারা সহায়তা নিশ্চিত করেছিল" }
+    ],
+    "synonyms": ["guarantee", "confirm", "reassure"]
+  },
+  {
+    "base": "astonish",
+    "phonetic": "əˈstɒnɪʃ",
+    "v2": "astonished",
+    "v3": "astonished",
+    "meaning": "আশ্চর্য করা",
+    "examples": [
+      { "en": "I astonish him.", "bn": "আমি তাকে অবাক করি" },
+      { "en": "She astonishes everyone.", "bn": "সে সবাইকে অবাক করে" }
+    ],
+    "moreexample": [
+      { "en": "He astonished crowd.", "bn": "সে ভিড়কে অবাক করেছিল" },
+      { "en": "They astonish audience.", "bn": "তারা দর্শকদের অবাক করে" },
+      { "en": "I am astonishing now.", "bn": "আমি এখন অবাক করছি" },
+      { "en": "She astonished team.", "bn": "সে দলকে অবাক করেছিল" },
+      { "en": "We astonish people.", "bn": "আমরা মানুষকে অবাক করি" },
+      { "en": "They have astonished it.", "bn": "তারা এটি অবাক করেছে" },
+      { "en": "I astonished friends.", "bn": "আমি বন্ধুদের অবাক করেছি" },
+      { "en": "He is astonishing now.", "bn": "সে এখন অবাক করছে" },
+      { "en": "She astonishes daily.", "bn": "সে প্রতিদিন অবাক করে" },
+      { "en": "They astonished group.", "bn": "তারা দলকে অবাক করেছিল" }
+    ],
+    "synonyms": ["amaze", "surprise", "shock"]
+  },
+  {
+    "base": "attach",
+    "phonetic": "əˈtætʃ",
+    "v2": "attached",
+    "v3": "attached",
+    "meaning": "সংযুক্ত করা",
+    "examples": [
+      { "en": "I attach file.", "bn": "আমি ফাইল সংযুক্ত করি" },
+      { "en": "She attaches document.", "bn": "সে ডকুমেন্ট সংযুক্ত করে" }
+    ],
+    "moreexample": [
+      { "en": "He attached image.", "bn": "সে ছবি সংযুক্ত করেছিল" },
+      { "en": "They attach data.", "bn": "তারা ডেটা সংযুক্ত করে" },
+      { "en": "I am attaching now.", "bn": "আমি এখন সংযুক্ত করছি" },
+      { "en": "She attached note.", "bn": "সে নোট সংযুক্ত করেছিল" },
+      { "en": "We attach files.", "bn": "আমরা ফাইল সংযুক্ত করি" },
+      { "en": "They have attached it.", "bn": "তারা এটি সংযুক্ত করেছে" },
+      { "en": "I attached report.", "bn": "আমি রিপোর্ট সংযুক্ত করেছি" },
+      { "en": "He is attaching now.", "bn": "সে এখন সংযুক্ত করছে" },
+      { "en": "She attaches email.", "bn": "সে ইমেইল সংযুক্ত করে" },
+      { "en": "They attached photo.", "bn": "তারা ছবি সংযুক্ত করেছিল" }
+    ],
+    "synonyms": ["connect", "join", "link"]
+  },
+  {
+    "base": "attain",
+    "phonetic": "əˈteɪn",
+    "v2": "attained",
+    "v3": "attained",
+    "meaning": "অর্জন করা",
+    "examples": [
+      { "en": "I attain goal.", "bn": "আমি লক্ষ্য অর্জন করি" },
+      { "en": "She attains success.", "bn": "সে সাফল্য অর্জন করে" }
+    ],
+    "moreexample": [
+      { "en": "He attained rank.", "bn": "সে পদ অর্জন করেছিল" },
+      { "en": "They attain level.", "bn": "তারা স্তর অর্জন করে" },
+      { "en": "I am attaining now.", "bn": "আমি এখন অর্জন করছি" },
+      { "en": "She attained skill.", "bn": "সে দক্ষতা অর্জন করেছিল" },
+      { "en": "We attain growth.", "bn": "আমরা বৃদ্ধি অর্জন করি" },
+      { "en": "They have attained it.", "bn": "তারা এটি অর্জন করেছে" },
+      { "en": "I attained result.", "bn": "আমি ফলাফল অর্জন করেছি" },
+      { "en": "He is attaining now.", "bn": "সে এখন অর্জন করছে" },
+      { "en": "She attains progress.", "bn": "সে অগ্রগতি অর্জন করে" },
+      { "en": "They attained target.", "bn": "তারা লক্ষ্য অর্জন করেছিল" }
+    ],
+    "synonyms": ["achieve", "gain", "reach"]
+  },
+  {
+    "base": "attract",
+    "phonetic": "əˈtrækt",
+    "v2": "attracted",
+    "v3": "attracted",
+    "meaning": "আকর্ষণ করা",
+    "examples": [
+      { "en": "I attract attention.", "bn": "আমি মনোযোগ আকর্ষণ করি" },
+      { "en": "She attracts people.", "bn": "সে মানুষকে আকর্ষণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He attracted crowd.", "bn": "সে ভিড় আকর্ষণ করেছিল" },
+      { "en": "They attract customers.", "bn": "তারা গ্রাহক আকর্ষণ করে" },
+      { "en": "I am attracting now.", "bn": "আমি এখন আকর্ষণ করছি" },
+      { "en": "She attracted interest.", "bn": "সে আগ্রহ আকর্ষণ করেছিল" },
+      { "en": "We attract users.", "bn": "আমরা ব্যবহারকারী আকর্ষণ করি" },
+      { "en": "They have attracted it.", "bn": "তারা এটি আকর্ষণ করেছে" },
+      { "en": "I attracted audience.", "bn": "আমি দর্শক আকর্ষণ করেছি" },
+      { "en": "He is attracting now.", "bn": "সে এখন আকর্ষণ করছে" },
+      { "en": "She attracts love.", "bn": "সে ভালোবাসা আকর্ষণ করে" },
+      { "en": "They attracted market.", "bn": "তারা বাজার আকর্ষণ করেছিল" }
+    ],
+    "synonyms": ["draw", "pull", "interest"]
+  },
+  {
+    "base": "attribute",
+    "phonetic": "əˈtrɪbjuːt",
+    "v2": "attributed",
+    "v3": "attributed",
+    "meaning": "কারণ হিসেবে ধরা",
+    "examples": [
+      { "en": "I attribute success.", "bn": "আমি সাফল্যের কারণ ধরি" },
+      { "en": "She attributes luck.", "bn": "সে ভাগ্যকে কারণ হিসেবে ধরে" }
+    ],
+    "moreexample": [
+      { "en": "He attributed failure.", "bn": "সে ব্যর্থতার কারণ ধরেছিল" },
+      { "en": "They attribute result.", "bn": "তারা ফলাফলের কারণ ধরে" },
+      { "en": "I am attributing now.", "bn": "আমি এখন কারণ দিচ্ছি" },
+      { "en": "She attributed growth.", "bn": "সে বৃদ্ধির কারণ ধরেছিল" },
+      { "en": "We attribute success.", "bn": "আমরা সাফল্যের কারণ ধরি" },
+      { "en": "They have attributed it.", "bn": "তারা এটি কারণ হিসেবে ধরেছে" },
+      { "en": "I attributed error.", "bn": "আমি ভুলের কারণ ধরেছি" },
+      { "en": "He is attributing now.", "bn": "সে এখন কারণ দিচ্ছে" },
+      { "en": "She attributes change.", "bn": "সে পরিবর্তনের কারণ ধরে" },
+      { "en": "They attributed issue.", "bn": "তারা সমস্যার কারণ ধরেছিল" }
+    ],
+    "synonyms": ["ascribe", "credit", "assign"]
+  },
+  {
+    "base": "authorize",
+    "phonetic": "ˈɔːθəraɪz",
+    "v2": "authorized",
+    "v3": "authorized",
+    "meaning": "অনুমোদন দেওয়া",
+    "examples": [
+      { "en": "I authorize payment.", "bn": "আমি পেমেন্ট অনুমোদন করি" },
+      { "en": "She authorizes access.", "bn": "সে প্রবেশ অনুমোদন করে" }
+    ],
+    "moreexample": [
+      { "en": "He authorized action.", "bn": "সে পদক্ষেপ অনুমোদন করেছিল" },
+      { "en": "They authorize system.", "bn": "তারা সিস্টেম অনুমোদন করে" },
+      { "en": "I am authorizing now.", "bn": "আমি এখন অনুমোদন করছি" },
+      { "en": "She authorized user.", "bn": "সে ব্যবহারকারী অনুমোদন করেছিল" },
+      { "en": "We authorize entry.", "bn": "আমরা প্রবেশ অনুমোদন করি" },
+      { "en": "They have authorized it.", "bn": "তারা এটি অনুমোদন করেছে" },
+      { "en": "I authorized request.", "bn": "আমি অনুরোধ অনুমোদন করেছি" },
+      { "en": "He is authorizing now.", "bn": "সে এখন অনুমোদন করছে" },
+      { "en": "She authorizes system.", "bn": "সে সিস্টেম অনুমোদন করে" },
+      { "en": "They authorized funds.", "bn": "তারা তহবিল অনুমোদন করেছিল" }
+    ],
+    "synonyms": ["permit", "approve", "sanction"]
+  },
+  {
+    "base": "automate",
+    "phonetic": "ˈɔːtəmeɪt",
+    "v2": "automated",
+    "v3": "automated",
+    "meaning": "স্বয়ংক্রিয় করা",
+    "examples": [
+      { "en": "I automate task.", "bn": "আমি কাজ স্বয়ংক্রিয় করি" },
+      { "en": "She automates system.", "bn": "সে সিস্টেম স্বয়ংক্রিয় করে" }
+    ],
+    "moreexample": [
+      {
+        "en": "He automated process.",
+        "bn": "সে প্রক্রিয়া স্বয়ংক্রিয় করেছিল"
+      },
+      { "en": "They automate work.", "bn": "তারা কাজ স্বয়ংক্রিয় করে" },
+      { "en": "I am automating now.", "bn": "আমি এখন স্বয়ংক্রিয় করছি" },
+      { "en": "She automated system.", "bn": "সে সিস্টেম স্বয়ংক্রিয় করেছিল" },
+      { "en": "We automate tasks.", "bn": "আমরা কাজ স্বয়ংক্রিয় করি" },
+      { "en": "They have automated it.", "bn": "তারা এটি স্বয়ংক্রিয় করেছে" },
+      {
+        "en": "I automated workflow.",
+        "bn": "আমি ওয়ার্কফ্লো স্বয়ংক্রিয় করেছি"
+      },
+      { "en": "He is automating now.", "bn": "সে এখন স্বয়ংক্রিয় করছে" },
+      { "en": "She automates daily.", "bn": "সে প্রতিদিন স্বয়ংক্রিয় করে" },
+      {
+        "en": "They automated system.",
+        "bn": "তারা সিস্টেম স্বয়ংক্রিয় করেছিল"
+      }
+    ],
+    "synonyms": ["mechanize", "systematize", "robotize"]
+  },
+  {
+    "base": "awfulize",
+    "phonetic": "ˈɔːfʊlaɪz",
+    "v2": "awfulized",
+    "v3": "awfulized",
+    "meaning": "খারাপভাবে ভাবা (কমন নয় কিন্তু ব্যবহার হয়)",
+    "examples": [
+      { "en": "I awfulize situation.", "bn": "আমি পরিস্থিতি খারাপভাবে ভাবি" },
+      { "en": "She awfulizes problem.", "bn": "সে সমস্যা খারাপভাবে ভাবে" }
+    ],
+    "moreexample": [
+      { "en": "He awfulized outcome.", "bn": "সে ফলাফল খারাপভাবে ভেবেছিল" },
+      { "en": "They awfulize events.", "bn": "তারা ঘটনাকে খারাপভাবে ভাবে" },
+      { "en": "I am awfulizing now.", "bn": "আমি এখন খারাপভাবে ভাবছি" },
+      { "en": "She awfulized risk.", "bn": "সে ঝুঁকি খারাপভাবে ভেবেছিল" },
+      { "en": "We awfulize future.", "bn": "আমরা ভবিষ্যৎ খারাপভাবে ভাবি" },
+      { "en": "They have awfulized it.", "bn": "তারা এটি খারাপভাবে ভেবেছে" },
+      { "en": "I awfulized fear.", "bn": "আমি ভয় খারাপভাবে ভেবেছি" },
+      { "en": "He is awfulizing now.", "bn": "সে এখন খারাপভাবে ভাবছে" },
+      { "en": "She awfulizes daily.", "bn": "সে প্রতিদিন খারাপভাবে ভাবে" },
+      { "en": "They awfulized idea.", "bn": "তারা ধারণাকে খারাপভাবে ভেবেছিল" }
+    ],
+    "synonyms": ["magnify negativity", "worry", "overthink"]
+  },
+
+  {
+    "base": "avoid",
+    "phonetic": "əˈvɔɪd",
+    "v2": "avoided",
+    "v3": "avoided",
+    "meaning": "এড়িয়ে যাওয়া",
+    "examples": [
+      { "en": "I avoid noise.", "bn": "আমি শব্দ এড়াই" },
+      { "en": "She avoids sugar.", "bn": "সে চিনি এড়ায়" }
+    ],
+    "moreexample": [
+      { "en": "He avoided mistake.", "bn": "সে ভুল এড়িয়েছিল" },
+      { "en": "They avoid conflict.", "bn": "তারা সংঘর্ষ এড়ায়" },
+      { "en": "I am avoiding now.", "bn": "আমি এখন এড়াচ্ছি" },
+      { "en": "She avoided danger.", "bn": "সে বিপদ এড়িয়েছিল" },
+      { "en": "We avoid risk.", "bn": "আমরা ঝুঁকি এড়াই" },
+      { "en": "They have avoided it.", "bn": "তারা এটি এড়িয়েছে" },
+      { "en": "I avoided problem.", "bn": "আমি সমস্যা এড়িয়েছি" },
+      { "en": "He is avoiding now.", "bn": "সে এখন এড়াচ্ছে" },
+      { "en": "She avoids junk food.", "bn": "সে জাঙ্ক ফুড এড়ায়" },
+      { "en": "They avoided issue.", "bn": "তারা সমস্যা এড়িয়েছিল" }
+    ],
+    "synonyms": ["escape", "dodge", "evade"]
+  },
+  {
+    "base": "await",
+    "phonetic": "əˈweɪt",
+    "v2": "awaited",
+    "v3": "awaited",
+    "meaning": "অপেক্ষা করা",
+    "examples": [
+      { "en": "I await result.", "bn": "আমি ফলাফলের অপেক্ষা করি" },
+      { "en": "She awaits reply.", "bn": "সে উত্তরের অপেক্ষা করে" }
+    ],
+    "moreexample": [
+      { "en": "He awaited news.", "bn": "সে খবরের অপেক্ষা করেছিল" },
+      { "en": "They await decision.", "bn": "তারা সিদ্ধান্তের অপেক্ষা করে" },
+      { "en": "I am awaiting now.", "bn": "আমি এখন অপেক্ষা করছি" },
+      { "en": "She awaited answer.", "bn": "সে উত্তরের অপেক্ষা করেছিল" },
+      { "en": "We await update.", "bn": "আমরা আপডেটের অপেক্ষা করি" },
+      { "en": "They have awaited it.", "bn": "তারা এটি অপেক্ষা করেছে" },
+      { "en": "I awaited call.", "bn": "আমি কলের অপেক্ষা করেছি" },
+      { "en": "He is awaiting now.", "bn": "সে এখন অপেক্ষা করছে" },
+      { "en": "She awaits message.", "bn": "সে মেসেজের অপেক্ষা করে" },
+      { "en": "They awaited result.", "bn": "তারা ফলাফলের অপেক্ষা করেছিল" }
+    ],
+    "synonyms": ["wait", "expect", "anticipate"]
+  },
+  {
+    "base": "awake",
+    "phonetic": "əˈweɪk",
+    "v2": "awoke",
+    "v3": "awoken",
+    "meaning": "জাগা / জাগানো",
+    "examples": [
+      { "en": "I awake early.", "bn": "আমি সকালে জাগি" },
+      { "en": "She awakes late.", "bn": "সে দেরিতে জাগে" }
+    ],
+    "moreexample": [
+      { "en": "He awoke suddenly.", "bn": "সে হঠাৎ জেগে উঠল" },
+      { "en": "They awake now.", "bn": "তারা এখন জেগে আছে" },
+      { "en": "I am awaking now.", "bn": "আমি এখন জাগছি" },
+      { "en": "She awoke early.", "bn": "সে সকালে জেগেছিল" },
+      { "en": "We awake daily.", "bn": "আমরা প্রতিদিন জাগি" },
+      { "en": "They have awoken.", "bn": "তারা জেগে উঠেছে" },
+      { "en": "I awoke fast.", "bn": "আমি দ্রুত জেগেছিলাম" },
+      { "en": "He is awaking now.", "bn": "সে এখন জাগছে" },
+      { "en": "She awakes early.", "bn": "সে সকালে জাগে" },
+      { "en": "They awoke late.", "bn": "তারা দেরিতে জেগেছিল" }
+    ],
+    "synonyms": ["wake", "arouse", "stir"]
+  },
+  {
+    "base": "award",
+    "phonetic": "əˈwɔːd",
+    "v2": "awarded",
+    "v3": "awarded",
+    "meaning": "পুরস্কার দেওয়া",
+    "examples": [
+      { "en": "I award prize.", "bn": "আমি পুরস্কার দিই" },
+      { "en": "She awards medal.", "bn": "সে মেডেল দেয়" }
+    ],
+    "moreexample": [
+      { "en": "He awarded trophy.", "bn": "সে ট্রফি দিয়েছিল" },
+      { "en": "They award students.", "bn": "তারা ছাত্রদের পুরস্কার দেয়" },
+      { "en": "I am awarding now.", "bn": "আমি এখন পুরস্কার দিচ্ছি" },
+      { "en": "She awarded honor.", "bn": "সে সম্মান দিয়েছিল" },
+      { "en": "We award winners.", "bn": "আমরা বিজয়ীদের পুরস্কার দিই" },
+      { "en": "They have awarded it.", "bn": "তারা এটি পুরস্কার দিয়েছে" },
+      { "en": "I awarded certificate.", "bn": "আমি সার্টিফিকেট দিয়েছি" },
+      { "en": "He is awarding now.", "bn": "সে এখন পুরস্কার দিচ্ছে" },
+      { "en": "She awards prize.", "bn": "সে পুরস্কার দেয়" },
+      { "en": "They awarded team.", "bn": "তারা দলকে পুরস্কার দিয়েছিল" }
+    ],
+    "synonyms": ["reward", "honor", "grant"]
+  },
+  {
+    "base": "adapt",
+    "phonetic": "əˈdæpt",
+    "v2": "adapted",
+    "v3": "adapted",
+    "meaning": "মানিয়ে নেওয়া",
+    "examples": [
+      { "en": "I adapt quickly.", "bn": "আমি দ্রুত মানিয়ে নিই" },
+      { "en": "She adapts change.", "bn": "সে পরিবর্তনের সাথে মানিয়ে নেয়" }
+    ],
+    "moreexample": [
+      { "en": "He adapted system.", "bn": "সে সিস্টেম মানিয়ে নিয়েছিল" },
+      { "en": "They adapt rules.", "bn": "তারা নিয়ম মানিয়ে নেয়" },
+      { "en": "I am adapting now.", "bn": "আমি এখন মানিয়ে নিচ্ছি" },
+      { "en": "She adapted life.", "bn": "সে জীবন মানিয়ে নিয়েছিল" },
+      { "en": "We adapt environment.", "bn": "আমরা পরিবেশ মানিয়ে নিই" },
+      { "en": "They have adapted it.", "bn": "তারা এটি মানিয়ে নিয়েছে" },
+      { "en": "I adapted plan.", "bn": "আমি পরিকল্পনা মানিয়ে নিয়েছি" },
+      { "en": "He is adapting now.", "bn": "সে এখন মানিয়ে নিচ্ছে" },
+      { "en": "She adapts well.", "bn": "সে ভালোভাবে মানিয়ে নেয়" },
+      { "en": "They adapted method.", "bn": "তারা পদ্ধতি মানিয়ে নিয়েছিল" }
+    ],
+    "synonyms": ["adjust", "modify", "fit"]
+  },
+  {
+    "base": "add",
+    "phonetic": "æd",
+    "v2": "added",
+    "v3": "added",
+    "meaning": "যোগ করা",
+    "examples": [
+      { "en": "I add sugar.", "bn": "আমি চিনি যোগ করি" },
+      { "en": "She adds salt.", "bn": "সে লবণ যোগ করে" }
+    ],
+    "moreexample": [
+      { "en": "He added water.", "bn": "সে পানি যোগ করেছিল" },
+      { "en": "They add value.", "bn": "তারা মূল্য যোগ করে" },
+      { "en": "I am adding now.", "bn": "আমি এখন যোগ করছি" },
+      { "en": "She added milk.", "bn": "সে দুধ যোগ করেছিল" },
+      { "en": "We add numbers.", "bn": "আমরা সংখ্যা যোগ করি" },
+      { "en": "They have added it.", "bn": "তারা এটি যোগ করেছে" },
+      { "en": "I added item.", "bn": "আমি আইটেম যোগ করেছি" },
+      { "en": "He is adding now.", "bn": "সে এখন যোগ করছে" },
+      { "en": "She adds spice.", "bn": "সে মসলা যোগ করে" },
+      { "en": "They added data.", "bn": "তারা ডেটা যোগ করেছিল" }
+    ],
+    "synonyms": ["include", "insert", "attach"]
+  },
+  {
+    "base": "address",
+    "phonetic": "əˈdres",
+    "v2": "addressed",
+    "v3": "addressed",
+    "meaning": "সমাধান করা / উদ্দেশ্যে বলা",
+    "examples": [
+      { "en": "I address issue.", "bn": "আমি সমস্যা সমাধান করি" },
+      { "en": "She addresses audience.", "bn": "সে দর্শকদের উদ্দেশ্যে বলে" }
+    ],
+    "moreexample": [
+      { "en": "He addressed problem.", "bn": "সে সমস্যা সমাধান করেছিল" },
+      { "en": "They address concern.", "bn": "তারা উদ্বেগ সমাধান করে" },
+      { "en": "I am addressing now.", "bn": "আমি এখন সমাধান করছি" },
+      { "en": "She addressed crowd.", "bn": "সে ভিড়ের উদ্দেশ্যে বলেছিল" },
+      { "en": "We address topic.", "bn": "আমরা বিষয় সমাধান করি" },
+      { "en": "They have addressed it.", "bn": "তারা এটি সমাধান করেছে" },
+      { "en": "I addressed error.", "bn": "আমি ভুল সমাধান করেছি" },
+      { "en": "He is addressing now.", "bn": "সে এখন সমাধান করছে" },
+      { "en": "She addresses group.", "bn": "সে দলের উদ্দেশ্যে বলে" },
+      { "en": "They addressed issue.", "bn": "তারা সমস্যা সমাধান করেছিল" }
+    ],
+    "synonyms": ["handle", "deal with", "speak to"]
+  },
+  {
+    "base": "adjust",
+    "phonetic": "əˈdʒʌst",
+    "v2": "adjusted",
+    "v3": "adjusted",
+    "meaning": "সমন্বয় করা",
+    "examples": [
+      { "en": "I adjust settings.", "bn": "আমি সেটিংস সমন্বয় করি" },
+      { "en": "She adjusts plan.", "bn": "সে পরিকল্পনা সমন্বয় করে" }
+    ],
+    "moreexample": [
+      { "en": "He adjusted chair.", "bn": "সে চেয়ার সমন্বয় করেছিল" },
+      { "en": "They adjust system.", "bn": "তারা সিস্টেম সমন্বয় করে" },
+      { "en": "I am adjusting now.", "bn": "আমি এখন সমন্বয় করছি" },
+      { "en": "She adjusted focus.", "bn": "সে ফোকাস সমন্বয় করেছিল" },
+      { "en": "We adjust speed.", "bn": "আমরা গতি সমন্বয় করি" },
+      { "en": "They have adjusted it.", "bn": "তারা এটি সমন্বয় করেছে" },
+      { "en": "I adjusted screen.", "bn": "আমি স্ক্রিন সমন্বয় করেছি" },
+      { "en": "He is adjusting now.", "bn": "সে এখন সমন্বয় করছে" },
+      { "en": "She adjusts habit.", "bn": "সে অভ্যাস সমন্বয় করে" },
+      { "en": "They adjusted system.", "bn": "তারা সিস্টেম সমন্বয় করেছিল" }
+    ],
+    "synonyms": ["modify", "tune", "adapt"]
+  },
+  {
+    "base": "admire",
+    "phonetic": "ədˈmaɪə",
+    "v2": "admired",
+    "v3": "admired",
+    "meaning": "প্রশংসা করা",
+    "examples": [
+      { "en": "I admire teacher.", "bn": "আমি শিক্ষকের প্রশংসা করি" },
+      { "en": "She admires talent.", "bn": "সে প্রতিভার প্রশংসা করে" }
+    ],
+    "moreexample": [
+      { "en": "He admired hero.", "bn": "সে নায়কের প্রশংসা করেছিল" },
+      { "en": "They admire work.", "bn": "তারা কাজের প্রশংসা করে" },
+      { "en": "I am admiring now.", "bn": "আমি এখন প্রশংসা করছি" },
+      { "en": "She admired skill.", "bn": "সে দক্ষতার প্রশংসা করেছিল" },
+      { "en": "We admire effort.", "bn": "আমরা প্রচেষ্টার প্রশংসা করি" },
+      { "en": "They have admired it.", "bn": "তারা এটি প্রশংসা করেছে" },
+      { "en": "I admired art.", "bn": "আমি শিল্পের প্রশংসা করেছি" },
+      { "en": "He is admiring now.", "bn": "সে এখন প্রশংসা করছে" },
+      { "en": "She admires nature.", "bn": "সে প্রকৃতির প্রশংসা করে" },
+      { "en": "They admired view.", "bn": "তারা দৃশ্যের প্রশংসা করেছিল" }
+    ],
+    "synonyms": ["praise", "respect", "value"]
+  },
+  {
+    "base": "adopt",
+    "phonetic": "əˈdɒpt",
+    "v2": "adopted",
+    "v3": "adopted",
+    "meaning": "গ্রহণ করা / দত্তক নেওয়া",
+    "examples": [
+      { "en": "I adopt idea.", "bn": "আমি ধারণা গ্রহণ করি" },
+      { "en": "She adopts child.", "bn": "সে শিশুকে দত্তক নেয়" }
+    ],
+    "moreexample": [
+      { "en": "He adopted method.", "bn": "সে পদ্ধতি গ্রহণ করেছিল" },
+      { "en": "They adopt strategy.", "bn": "তারা কৌশল গ্রহণ করে" },
+      { "en": "I am adopting now.", "bn": "আমি এখন গ্রহণ করছি" },
+      { "en": "She adopted rule.", "bn": "সে নিয়ম গ্রহণ করেছিল" },
+      { "en": "We adopt system.", "bn": "আমরা সিস্টেম গ্রহণ করি" },
+      { "en": "They have adopted it.", "bn": "তারা এটি গ্রহণ করেছে" },
+      { "en": "I adopted habit.", "bn": "আমি অভ্যাস গ্রহণ করেছি" },
+      { "en": "He is adopting now.", "bn": "সে এখন গ্রহণ করছে" },
+      { "en": "She adopts policy.", "bn": "সে নীতি গ্রহণ করে" },
+      { "en": "They adopted plan.", "bn": "তারা পরিকল্পনা গ্রহণ করেছিল" }
+    ],
+    "synonyms": ["accept", "take", "embrace"]
+  },
+  {
+    "base": "advertise",
+    "phonetic": "ˈædvətaɪz",
+    "v2": "advertised",
+    "v3": "advertised",
+    "meaning": "বিজ্ঞাপন করা",
+    "examples": [
+      { "en": "I advertise shop.", "bn": "আমি দোকানের বিজ্ঞাপন করি" },
+      { "en": "She advertises brand.", "bn": "সে ব্র্যান্ডের বিজ্ঞাপন দেয়" }
+    ],
+    "moreexample": [
+      { "en": "He advertised service.", "bn": "সে সেবার বিজ্ঞাপন দিয়েছিল" },
+      { "en": "They advertise product.", "bn": "তারা পণ্যের বিজ্ঞাপন করে" },
+      { "en": "I am advertising now.", "bn": "আমি এখন বিজ্ঞাপন দিচ্ছি" },
+      { "en": "She advertised event.", "bn": "সে ইভেন্টের বিজ্ঞাপন দিয়েছিল" },
+      { "en": "We advertise online.", "bn": "আমরা অনলাইনে বিজ্ঞাপন করি" },
+      { "en": "They have advertised it.", "bn": "তারা এটি বিজ্ঞাপন করেছে" },
+      { "en": "I advertised offer.", "bn": "আমি অফারের বিজ্ঞাপন দিয়েছি" },
+      { "en": "He is advertising now.", "bn": "সে এখন বিজ্ঞাপন দিচ্ছে" },
+      { "en": "She advertises daily.", "bn": "সে প্রতিদিন বিজ্ঞাপন দেয়" },
+      { "en": "They advertised job.", "bn": "তারা চাকরির বিজ্ঞাপন দিয়েছিল" }
+    ],
+    "synonyms": ["promote", "market", "publicize"]
+  },
+  {
+    "base": "advocate",
+    "phonetic": "ˈædvəkət",
+    "v2": "advocated",
+    "v3": "advocated",
+    "meaning": "সমর্থন করা / পক্ষে কথা বলা",
+    "examples": [
+      { "en": "I advocate change.", "bn": "আমি পরিবর্তনের পক্ষে কথা বলি" },
+      { "en": "She advocates rights.", "bn": "সে অধিকারের সমর্থন করে" }
+    ],
+    "moreexample": [
+      { "en": "He advocated policy.", "bn": "সে নীতির সমর্থন করেছিল" },
+      { "en": "They advocate education.", "bn": "তারা শিক্ষার সমর্থন করে" },
+      { "en": "I am advocating now.", "bn": "আমি এখন সমর্থন করছি" },
+      { "en": "She advocated reform.", "bn": "সে সংস্কারের সমর্থন করেছিল" },
+      { "en": "We advocate justice.", "bn": "আমরা ন্যায়বিচারের সমর্থন করি" },
+      { "en": "They have advocated it.", "bn": "তারা এটি সমর্থন করেছে" },
+      { "en": "I advocated system.", "bn": "আমি সিস্টেমের সমর্থন করেছি" },
+      { "en": "He is advocating now.", "bn": "সে এখন সমর্থন করছে" },
+      { "en": "She advocates equality.", "bn": "সে সমতার সমর্থন করে" },
+      { "en": "They advocated law.", "bn": "তারা আইনের সমর্থন করেছিল" }
+    ],
+    "synonyms": ["support", "promote", "endorse"]
+  },
+  {
+    "base": "analyse",
+    "phonetic": "ˈænəlaɪz",
+    "v2": "analysed",
+    "v3": "analysed",
+    "meaning": "বিশ্লেষণ করা",
+    "examples": [
+      { "en": "I analyse data.", "bn": "আমি ডেটা বিশ্লেষণ করি" },
+      { "en": "She analyses report.", "bn": "সে রিপোর্ট বিশ্লেষণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He analysed result.", "bn": "সে ফলাফল বিশ্লেষণ করেছিল" },
+      { "en": "They analyse system.", "bn": "তারা সিস্টেম বিশ্লেষণ করে" },
+      { "en": "I am analysing now.", "bn": "আমি এখন বিশ্লেষণ করছি" },
+      { "en": "She analysed case.", "bn": "সে কেস বিশ্লেষণ করেছিল" },
+      { "en": "We analyse trends.", "bn": "আমরা প্রবণতা বিশ্লেষণ করি" },
+      { "en": "They have analysed it.", "bn": "তারা এটি বিশ্লেষণ করেছে" },
+      { "en": "I analysed data.", "bn": "আমি ডেটা বিশ্লেষণ করেছি" },
+      { "en": "He is analysing now.", "bn": "সে এখন বিশ্লেষণ করছে" },
+      { "en": "She analyses daily.", "bn": "সে প্রতিদিন বিশ্লেষণ করে" },
+      { "en": "They analysed issue.", "bn": "তারা সমস্যা বিশ্লেষণ করেছিল" }
+    ],
+    "synonyms": ["examine", "study", "evaluate"]
+  },
+  {
+    "base": "annex",
+    "phonetic": "ˈæneks",
+    "v2": "annexed",
+    "v3": "annexed",
+    "meaning": "সংযুক্ত করা (ভূমি/অংশ)",
+    "examples": [
+      { "en": "I annex land.", "bn": "আমি জমি সংযুক্ত করি" },
+      { "en": "They annex territory.", "bn": "তারা এলাকা সংযুক্ত করে" }
+    ],
+    "moreexample": [
+      { "en": "He annexed region.", "bn": "সে অঞ্চল সংযুক্ত করেছিল" },
+      { "en": "They annex city.", "bn": "তারা শহর সংযুক্ত করে" },
+      { "en": "I am annexing now.", "bn": "আমি এখন সংযুক্ত করছি" },
+      { "en": "She annexed area.", "bn": "সে এলাকা সংযুক্ত করেছিল" },
+      { "en": "We annex zone.", "bn": "আমরা অঞ্চল সংযুক্ত করি" },
+      { "en": "They have annexed it.", "bn": "তারা এটি সংযুক্ত করেছে" },
+      { "en": "I annexed property.", "bn": "আমি সম্পত্তি সংযুক্ত করেছি" },
+      { "en": "He is annexing now.", "bn": "সে এখন সংযুক্ত করছে" },
+      { "en": "She annexes land.", "bn": "সে জমি সংযুক্ত করে" },
+      { "en": "They annexed area.", "bn": "তারা এলাকা সংযুক্ত করেছিল" }
+    ],
+    "synonyms": ["attach", "merge", "incorporate"]
+  },
+
+  {
+    "base": "arise",
+    "phonetic": "əˈraɪz",
+    "v2": "arose",
+    "v3": "arisen",
+    "meaning": "উঠে আসা / ঘটতে থাকা",
+    "examples": [
+      { "en": "Problems arise.", "bn": "সমস্যা দেখা দেয়" },
+      { "en": "A question arises.", "bn": "একটি প্রশ্ন উঠে আসে" }
+    ],
+    "moreexample": [
+      { "en": "A conflict arose.", "bn": "একটি সংঘর্ষ সৃষ্টি হয়েছিল" },
+      { "en": "Issues arise often.", "bn": "সমস্যা প্রায়ই দেখা দেয়" },
+      { "en": "A need arises.", "bn": "একটি প্রয়োজন দেখা দেয়" },
+      { "en": "Doubts arose quickly.", "bn": "সন্দেহ দ্রুত উঠে এসেছিল" },
+      { "en": "A situation arose.", "bn": "একটি পরিস্থিতি সৃষ্টি হয়েছিল" },
+      { "en": "Risks arise here.", "bn": "এখানে ঝুঁকি দেখা দেয়" },
+      { "en": "A challenge arises.", "bn": "একটি চ্যালেঞ্জ উঠে আসে" },
+      { "en": "A question arose.", "bn": "একটি প্রশ্ন উঠেছিল" },
+      { "en": "Problems arise daily.", "bn": "প্রতিদিন সমস্যা দেখা দেয়" },
+      { "en": "A concern arose.", "bn": "একটি উদ্বেগ সৃষ্টি হয়েছিল" }
+    ],
+    "synonyms": ["emerge", "occur", "appear"]
+  },
+  {
+    "base": "articulate",
+    "phonetic": "ɑːˈtɪkjʊleɪt",
+    "v2": "articulated",
+    "v3": "articulated",
+    "meaning": "স্পষ্টভাবে প্রকাশ করা",
+    "examples": [
+      { "en": "I articulate ideas.", "bn": "আমি ধারণা স্পষ্টভাবে প্রকাশ করি" },
+      {
+        "en": "She articulates thoughts.",
+        "bn": "সে চিন্তা স্পষ্টভাবে প্রকাশ করে"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He articulated view.",
+        "bn": "সে মতামত স্পষ্টভাবে প্রকাশ করেছিল"
+      },
+      {
+        "en": "They articulate goals.",
+        "bn": "তারা লক্ষ্য স্পষ্টভাবে প্রকাশ করে"
+      },
+      { "en": "I am articulating now.", "bn": "আমি এখন প্রকাশ করছি" },
+      { "en": "She articulated plan.", "bn": "সে পরিকল্পনা স্পষ্টভাবে বলেছিল" },
+      {
+        "en": "We articulate message.",
+        "bn": "আমরা বার্তা স্পষ্টভাবে প্রকাশ করি"
+      },
+      {
+        "en": "They have articulated it.",
+        "bn": "তারা এটি স্পষ্টভাবে প্রকাশ করেছে"
+      },
+      { "en": "I articulated concern.", "bn": "আমি উদ্বেগ প্রকাশ করেছি" },
+      { "en": "He is articulating now.", "bn": "সে এখন প্রকাশ করছে" },
+      { "en": "She articulates well.", "bn": "সে ভালোভাবে প্রকাশ করে" },
+      { "en": "They articulated issue.", "bn": "তারা সমস্যা স্পষ্টভাবে বলেছিল" }
+    ],
+    "synonyms": ["express", "state", "communicate"]
+  },
+  {
+    "base": "ascribe",
+    "phonetic": "əˈskraɪb",
+    "v2": "ascribed",
+    "v3": "ascribed",
+    "meaning": "কারণ হিসেবে ধরা",
+    "examples": [
+      {
+        "en": "I ascribe success to hard work.",
+        "bn": "আমি সাফল্যকে পরিশ্রমের ফল মনে করি"
+      },
+      {
+        "en": "She ascribes result to luck.",
+        "bn": "সে ফলাফলকে ভাগ্যের কারণে ধরে"
+      }
+    ],
+    "moreexample": [
+      { "en": "He ascribed failure.", "bn": "সে ব্যর্থতার কারণ ধরেছিল" },
+      { "en": "They ascribe power.", "bn": "তারা শক্তির কারণ ধরে" },
+      { "en": "I am ascribing now.", "bn": "আমি এখন কারণ দিচ্ছি" },
+      { "en": "She ascribed reason.", "bn": "সে কারণ ধরেছিল" },
+      { "en": "We ascribe meaning.", "bn": "আমরা অর্থ আরোপ করি" },
+      { "en": "They have ascribed it.", "bn": "তারা এটি কারণ হিসেবে ধরেছে" },
+      { "en": "I ascribed result.", "bn": "আমি ফলাফলের কারণ ধরেছি" },
+      { "en": "He is ascribing now.", "bn": "সে এখন কারণ দিচ্ছে" },
+      { "en": "She ascribes success.", "bn": "সে সাফল্যের কারণ ধরে" },
+      { "en": "They ascribed issue.", "bn": "তারা সমস্যার কারণ ধরেছিল" }
+    ],
+    "synonyms": ["attribute", "credit", "assign"]
+  },
+  {
+    "base": "assemble",
+    "phonetic": "əˈsembl",
+    "v2": "assembled",
+    "v3": "assembled",
+    "meaning": "জড়ো করা / একত্র করা",
+    "examples": [
+      { "en": "I assemble parts.", "bn": "আমি অংশ জড়ো করি" },
+      { "en": "She assembles team.", "bn": "সে দল একত্র করে" }
+    ],
+    "moreexample": [
+      { "en": "He assembled machine.", "bn": "সে যন্ত্র জড়ো করেছিল" },
+      { "en": "They assemble group.", "bn": "তারা দল একত্র করে" },
+      { "en": "I am assembling now.", "bn": "আমি এখন জড়ো করছি" },
+      { "en": "She assembled data.", "bn": "সে ডেটা একত্র করেছিল" },
+      { "en": "We assemble people.", "bn": "আমরা মানুষ জড়ো করি" },
+      { "en": "They have assembled it.", "bn": "তারা এটি জড়ো করেছে" },
+      { "en": "I assembled kit.", "bn": "আমি কিট জড়ো করেছি" },
+      { "en": "He is assembling now.", "bn": "সে এখন জড়ো করছে" },
+      { "en": "She assembles tools.", "bn": "সে সরঞ্জাম জড়ো করে" },
+      { "en": "They assembled project.", "bn": "তারা প্রকল্প একত্র করেছিল" }
+    ],
+    "synonyms": ["gather", "collect", "put together"]
+  },
+  {
+    "base": "assert",
+    "phonetic": "əˈsɜːt",
+    "v2": "asserted",
+    "v3": "asserted",
+    "meaning": "দৃঢ়ভাবে বলা",
+    "examples": [
+      { "en": "I assert truth.", "bn": "আমি সত্য দৃঢ়ভাবে বলি" },
+      { "en": "She asserts rights.", "bn": "সে অধিকার দৃঢ়ভাবে বলে" }
+    ],
+    "moreexample": [
+      { "en": "He asserted claim.", "bn": "সে দাবি দৃঢ়ভাবে করেছিল" },
+      { "en": "They assert power.", "bn": "তারা শক্তি দৃঢ়ভাবে প্রকাশ করে" },
+      { "en": "I am asserting now.", "bn": "আমি এখন দৃঢ়ভাবে বলছি" },
+      { "en": "She asserted opinion.", "bn": "সে মতামত দৃঢ়ভাবে বলেছিল" },
+      { "en": "We assert control.", "bn": "আমরা নিয়ন্ত্রণ দৃঢ়ভাবে বলি" },
+      { "en": "They have asserted it.", "bn": "তারা এটি দৃঢ়ভাবে বলেছে" },
+      { "en": "I asserted fact.", "bn": "আমি সত্য দৃঢ়ভাবে বলেছি" },
+      { "en": "He is asserting now.", "bn": "সে এখন দৃঢ়ভাবে বলছে" },
+      { "en": "She asserts belief.", "bn": "সে বিশ্বাস দৃঢ়ভাবে বলে" },
+      { "en": "They asserted demand.", "bn": "তারা দাবি দৃঢ়ভাবে করেছিল" }
+    ],
+    "synonyms": ["state", "declare", "insist"]
+  },
+  {
+    "base": "assimilate",
+    "phonetic": "əˈsɪmɪleɪt",
+    "v2": "assimilated",
+    "v3": "assimilated",
+    "meaning": "আত্মস্থ করা / গ্রহণ করা",
+    "examples": [
+      { "en": "I assimilate knowledge.", "bn": "আমি জ্ঞান আত্মস্থ করি" },
+      { "en": "She assimilates culture.", "bn": "সে সংস্কৃতি গ্রহণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He assimilated ideas.", "bn": "সে ধারণা আত্মস্থ করেছিল" },
+      { "en": "They assimilate info.", "bn": "তারা তথ্য গ্রহণ করে" },
+      { "en": "I am assimilating now.", "bn": "আমি এখন আত্মস্থ করছি" },
+      { "en": "She assimilated system.", "bn": "সে সিস্টেম গ্রহণ করেছিল" },
+      { "en": "We assimilate learning.", "bn": "আমরা শেখা আত্মস্থ করি" },
+      { "en": "They have assimilated it.", "bn": "তারা এটি গ্রহণ করেছে" },
+      { "en": "I assimilated concept.", "bn": "আমি ধারণা আত্মস্থ করেছি" },
+      { "en": "He is assimilating now.", "bn": "সে এখন আত্মস্থ করছে" },
+      { "en": "She assimilates ideas.", "bn": "সে ধারণা গ্রহণ করে" },
+      { "en": "They assimilated culture.", "bn": "তারা সংস্কৃতি গ্রহণ করেছিল" }
+    ],
+    "synonyms": ["absorb", "integrate", "learn"]
+  },
+  {
+    "base": "assort",
+    "phonetic": "əˈsɔːt",
+    "v2": "assorted",
+    "v3": "assorted",
+    "meaning": "বাছাই করা / সাজানো",
+    "examples": [
+      { "en": "I assort items.", "bn": "আমি জিনিস বাছাই করি" },
+      { "en": "She assorts colors.", "bn": "সে রঙ সাজায়" }
+    ],
+    "moreexample": [
+      { "en": "He assorted files.", "bn": "সে ফাইল বাছাই করেছিল" },
+      { "en": "They assort goods.", "bn": "তারা পণ্য সাজায়" },
+      { "en": "I am assorting now.", "bn": "আমি এখন বাছাই করছি" },
+      { "en": "She assorted data.", "bn": "সে ডেটা সাজিয়েছিল" },
+      { "en": "We assort products.", "bn": "আমরা পণ্য সাজাই" },
+      { "en": "They have assorted it.", "bn": "তারা এটি সাজিয়েছে" },
+      { "en": "I assorted items.", "bn": "আমি জিনিস সাজিয়েছি" },
+      { "en": "He is assorting now.", "bn": "সে এখন সাজাচ্ছে" },
+      { "en": "She assorts categories.", "bn": "সে ক্যাটাগরি সাজায়" },
+      { "en": "They assorted tools.", "bn": "তারা সরঞ্জাম সাজিয়েছিল" }
+    ],
+    "synonyms": ["sort", "classify", "organize"]
+  },
+  {
+    "base": "assure",
+    "phonetic": "əˈʃʊə",
+    "v2": "assured",
+    "v3": "assured",
+    "meaning": "আশ্বস্ত করা",
+    "examples": [
+      { "en": "I assure safety.", "bn": "আমি নিরাপত্তা নিশ্চিত করি" },
+      { "en": "She assures success.", "bn": "সে সাফল্য নিশ্চিত করে" }
+    ],
+    "moreexample": [
+      { "en": "He assured result.", "bn": "সে ফলাফল নিশ্চিত করেছিল" },
+      { "en": "They assure quality.", "bn": "তারা গুণমান নিশ্চিত করে" },
+      { "en": "I am assuring now.", "bn": "আমি এখন আশ্বস্ত করছি" },
+      { "en": "She assured help.", "bn": "সে সাহায্য নিশ্চিত করেছিল" },
+      { "en": "We assure trust.", "bn": "আমরা বিশ্বাস নিশ্চিত করি" },
+      { "en": "They have assured it.", "bn": "তারা এটি নিশ্চিত করেছে" },
+      { "en": "I assured friend.", "bn": "আমি বন্ধুকে আশ্বস্ত করেছি" },
+      { "en": "He is assuring now.", "bn": "সে এখন আশ্বস্ত করছে" },
+      { "en": "She assures peace.", "bn": "সে শান্তি নিশ্চিত করে" },
+      { "en": "They assured support.", "bn": "তারা সহায়তা নিশ্চিত করেছিল" }
+    ],
+    "synonyms": ["guarantee", "confirm", "reassure"]
+  },
+  {
+    "base": "assure",
+    "phonetic": "əˈʃʊə",
+    "v2": "assured",
+    "v3": "assured",
+    "meaning": "আশ্বস্ত করা",
+    "examples": [
+      { "en": "I assure safety.", "bn": "আমি নিরাপত্তা নিশ্চিত করি" },
+      { "en": "She assures success.", "bn": "সে সাফল্য নিশ্চিত করে" }
+    ],
+    "moreexample": [
+      { "en": "He assured result.", "bn": "সে ফলাফল নিশ্চিত করেছিল" },
+      { "en": "They assure quality.", "bn": "তারা গুণমান নিশ্চিত করে" },
+      { "en": "I am assuring now.", "bn": "আমি এখন আশ্বস্ত করছি" },
+      { "en": "She assured help.", "bn": "সে সাহায্য নিশ্চিত করেছিল" },
+      { "en": "We assure trust.", "bn": "আমরা বিশ্বাস নিশ্চিত করি" },
+      { "en": "They have assured it.", "bn": "তারা এটি নিশ্চিত করেছে" },
+      { "en": "I assured friend.", "bn": "আমি বন্ধুকে আশ্বস্ত করেছি" },
+      { "en": "He is assuring now.", "bn": "সে এখন আশ্বস্ত করছে" },
+      { "en": "She assures peace.", "bn": "সে শান্তি নিশ্চিত করে" },
+      { "en": "They assured support.", "bn": "তারা সহায়তা নিশ্চিত করেছিল" }
+    ],
+    "synonyms": ["guarantee", "confirm", "reassure"]
+  },
+  {
+    "base": "attack",
+    "phonetic": "əˈtæk",
+    "v2": "attacked",
+    "v3": "attacked",
+    "meaning": "আক্রমণ করা",
+    "examples": [
+      { "en": "I attack enemy.", "bn": "আমি শত্রুকে আক্রমণ করি" },
+      { "en": "She attacks problem.", "bn": "সে সমস্যা মোকাবিলা করে" }
+    ],
+    "moreexample": [
+      { "en": "He attacked system.", "bn": "সে সিস্টেম আক্রমণ করেছিল" },
+      { "en": "They attack issue.", "bn": "তারা সমস্যা আক্রমণ করে" },
+      { "en": "I am attacking now.", "bn": "আমি এখন আক্রমণ করছি" },
+      { "en": "She attacked error.", "bn": "সে ভুল আক্রমণ করেছিল" },
+      { "en": "We attack challenge.", "bn": "আমরা চ্যালেঞ্জ মোকাবিলা করি" },
+      { "en": "They have attacked it.", "bn": "তারা এটি আক্রমণ করেছে" },
+      { "en": "I attacked goal.", "bn": "আমি লক্ষ্য আক্রমণ করেছি" },
+      { "en": "He is attacking now.", "bn": "সে এখন আক্রমণ করছে" },
+      { "en": "She attacks weakness.", "bn": "সে দুর্বলতা আক্রমণ করে" },
+      { "en": "They attacked team.", "bn": "তারা দলকে আক্রমণ করেছিল" }
+    ],
+    "synonyms": ["strike", "assault", "hit"]
+  },
+  {
+    "base": "attend",
+    "phonetic": "əˈtend",
+    "v2": "attended",
+    "v3": "attended",
+    "meaning": "উপস্থিত থাকা",
+    "examples": [
+      { "en": "I attend class.", "bn": "আমি ক্লাসে উপস্থিত থাকি" },
+      { "en": "She attends meeting.", "bn": "সে মিটিংয়ে উপস্থিত থাকে" }
+    ],
+    "moreexample": [
+      { "en": "He attended school.", "bn": "সে স্কুলে উপস্থিত ছিল" },
+      { "en": "They attend event.", "bn": "তারা অনুষ্ঠানে যায়" },
+      { "en": "I am attending now.", "bn": "আমি এখন উপস্থিত আছি" },
+      { "en": "She attended lecture.", "bn": "সে লেকচারে ছিল" },
+      { "en": "We attend program.", "bn": "আমরা প্রোগ্রামে যাই" },
+      { "en": "They have attended it.", "bn": "তারা এতে উপস্থিত ছিল" },
+      { "en": "I attended class.", "bn": "আমি ক্লাসে ছিলাম" },
+      { "en": "He is attending now.", "bn": "সে এখন উপস্থিত আছে" },
+      { "en": "She attends regularly.", "bn": "সে নিয়মিত উপস্থিত থাকে" },
+      { "en": "They attended seminar.", "bn": "তারা সেমিনারে উপস্থিত ছিল" }
+    ],
+    "synonyms": ["join", "be present", "go to"]
+  },
+  {
+    "base": "attract",
+    "phonetic": "əˈtrækt",
+    "v2": "attracted",
+    "v3": "attracted",
+    "meaning": "আকর্ষণ করা",
+    "examples": [
+      { "en": "I attract people.", "bn": "আমি মানুষকে আকর্ষণ করি" },
+      { "en": "She attracts attention.", "bn": "সে মনোযোগ আকর্ষণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He attracted crowd.", "bn": "সে ভিড় আকর্ষণ করেছিল" },
+      { "en": "They attract users.", "bn": "তারা ব্যবহারকারী আকর্ষণ করে" },
+      { "en": "I am attracting now.", "bn": "আমি এখন আকর্ষণ করছি" },
+      { "en": "She attracted interest.", "bn": "সে আগ্রহ আকর্ষণ করেছিল" },
+      { "en": "We attract clients.", "bn": "আমরা ক্লায়েন্ট আকর্ষণ করি" },
+      { "en": "They have attracted it.", "bn": "তারা এটি আকর্ষণ করেছে" },
+      { "en": "I attracted audience.", "bn": "আমি দর্শক আকর্ষণ করেছি" },
+      { "en": "He is attracting now.", "bn": "সে এখন আকর্ষণ করছে" },
+      { "en": "She attracts love.", "bn": "সে ভালোবাসা আকর্ষণ করে" },
+      { "en": "They attracted market.", "bn": "তারা বাজার আকর্ষণ করেছিল" }
+    ],
+    "synonyms": ["draw", "pull", "interest"]
+  },
+  {
+    "base": "attribute",
+    "phonetic": "əˈtrɪbjuːt",
+    "v2": "attributed",
+    "v3": "attributed",
+    "meaning": "কারণ হিসেবে ধরা",
+    "examples": [
+      { "en": "I attribute success.", "bn": "আমি সাফল্যকে কারণ ধরি" },
+      { "en": "She attributes luck.", "bn": "সে ভাগ্যকে কারণ ধরে" }
+    ],
+    "moreexample": [
+      { "en": "He attributed failure.", "bn": "সে ব্যর্থতার কারণ ধরেছিল" },
+      { "en": "They attribute result.", "bn": "তারা ফলাফলকে কারণ ধরে" },
+      { "en": "I am attributing now.", "bn": "আমি এখন কারণ দিচ্ছি" },
+      { "en": "She attributed growth.", "bn": "সে বৃদ্ধির কারণ ধরেছিল" },
+      { "en": "We attribute cause.", "bn": "আমরা কারণ ধরি" },
+      { "en": "They have attributed it.", "bn": "তারা এটি কারণ হিসেবে ধরেছে" },
+      { "en": "I attributed error.", "bn": "আমি ভুলের কারণ ধরেছি" },
+      { "en": "He is attributing now.", "bn": "সে এখন কারণ দিচ্ছে" },
+      { "en": "She attributes success.", "bn": "সে সাফল্যের কারণ ধরে" },
+      { "en": "They attributed issue.", "bn": "তারা সমস্যার কারণ ধরেছিল" }
+    ],
+    "synonyms": ["credit", "assign", "ascribe"]
+  },
+  {
+    "base": "authorize",
+    "phonetic": "ˈɔːθəraɪz",
+    "v2": "authorized",
+    "v3": "authorized",
+    "meaning": "অনুমোদন করা",
+    "examples": [
+      { "en": "I authorize access.", "bn": "আমি প্রবেশ অনুমোদন করি" },
+      { "en": "She authorizes payment.", "bn": "সে পেমেন্ট অনুমোদন করে" }
+    ],
+    "moreexample": [
+      { "en": "He authorized entry.", "bn": "সে প্রবেশ অনুমোদন করেছিল" },
+      { "en": "They authorize system.", "bn": "তারা সিস্টেম অনুমোদন করে" },
+      { "en": "I am authorizing now.", "bn": "আমি এখন অনুমোদন করছি" },
+      { "en": "She authorized file.", "bn": "সে ফাইল অনুমোদন করেছিল" },
+      { "en": "We authorize action.", "bn": "আমরা পদক্ষেপ অনুমোদন করি" },
+      { "en": "They have authorized it.", "bn": "তারা এটি অনুমোদন করেছে" },
+      { "en": "I authorized request.", "bn": "আমি অনুরোধ অনুমোদন করেছি" },
+      { "en": "He is authorizing now.", "bn": "সে এখন অনুমোদন করছে" },
+      { "en": "She authorizes work.", "bn": "সে কাজ অনুমোদন করে" },
+      { "en": "They authorized funds.", "bn": "তারা তহবিল অনুমোদন করেছিল" }
+    ],
+    "synonyms": ["approve", "permit", "sanction"]
+  }
+]

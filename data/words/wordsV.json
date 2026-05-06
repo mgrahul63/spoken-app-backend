@@ -71,5 +71,3429 @@
       { "en": "The effect is visible now.", "bn": "প্রভাবটি এখন দৃশ্যমান।" }
     ],
     "synonyms": ["clear", "noticeable", "observable"]
+  },
+
+  {
+    "base": "value",
+    "phonetic": "ˈvæljuː",
+    "meaning": "মূল্য / মূল্যায়ন করা",
+    "examples": [
+      {
+        "en": "She values her family above everything.",
+        "bn": "সে সবকিছুর উপরে পরিবারকে মূল্য দেয়।"
+      },
+      {
+        "en": "He placed great value on education.",
+        "bn": "শিক্ষায় সে অনেক মূল্য দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The value of the house increased.",
+        "bn": "বাড়িটির মূল্য বেড়েছে।"
+      },
+      {
+        "en": "She values honesty in a friend.",
+        "bn": "বন্ধুর মধ্যে সে সততাকে মূল্য দেয়।"
+      },
+      {
+        "en": "He added value to the project.",
+        "bn": "সে প্রকল্পে মূল্য যোগ করল।"
+      },
+      {
+        "en": "The painting has great artistic value.",
+        "bn": "চিত্রকর্মটির অনেক শৈল্পিক মূল্য আছে।"
+      },
+      {
+        "en": "She values hard work and dedication.",
+        "bn": "সে পরিশ্রম ও নিষ্ঠাকে মূল্য দেয়।"
+      },
+      {
+        "en": "Good values guide our decisions.",
+        "bn": "ভালো মূল্যবোধ আমাদের সিদ্ধান্ত পরিচালনা করে।"
+      },
+      {
+        "en": "He valued her opinion greatly.",
+        "bn": "তার মতামতকে সে অনেক মূল্য দিল।"
+      },
+      {
+        "en": "Every life has equal value.",
+        "bn": "প্রতিটি জীবনের সমান মূল্য আছে।"
+      },
+      {
+        "en": "She taught her children good values.",
+        "bn": "সে সন্তানদের ভালো মূল্যবোধ শেখাল।"
+      },
+      {
+        "en": "The value of time cannot be measured.",
+        "bn": "সময়ের মূল্য পরিমাপ করা যায় না।"
+      }
+    ],
+    "synonyms": ["worth", "importance", "price", "merit", "significance"]
+  },
+  {
+    "base": "vast",
+    "phonetic": "vɑːst",
+    "meaning": "বিশাল / প্রকাণ্ড",
+    "examples": [
+      { "en": "The ocean is vast and deep.", "bn": "সমুদ্র বিশাল ও গভীর।" },
+      {
+        "en": "She has a vast knowledge of history.",
+        "bn": "ইতিহাসে তার বিশাল জ্ঞান আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The vast sky was full of stars.",
+        "bn": "বিশাল আকাশ তারায় পূর্ণ ছিল।"
+      },
+      {
+        "en": "He explored vast stretches of land.",
+        "bn": "সে বিশাল ভূখণ্ড অন্বেষণ করল।"
+      },
+      {
+        "en": "The library holds a vast collection.",
+        "bn": "লাইব্রেরিটিতে বিশাল সংগ্রহ আছে।"
+      },
+      {
+        "en": "She had a vast network of friends.",
+        "bn": "তার বিশাল বন্ধু নেটওয়ার্ক ছিল।"
+      },
+      {
+        "en": "The vast forest was mysterious.",
+        "bn": "বিশাল বনটি রহস্যময় ছিল।"
+      },
+      {
+        "en": "He had a vast imagination.",
+        "bn": "তার বিশাল কল্পনাশক্তি ছিল।"
+      },
+      {
+        "en": "The vast crowd cheered loudly.",
+        "bn": "বিশাল ভিড় জোরে চিৎকার করল।"
+      },
+      {
+        "en": "She had a vast experience in medicine.",
+        "bn": "চিকিৎসায় তার বিশাল অভিজ্ঞতা ছিল।"
+      },
+      {
+        "en": "The vast universe amazes scientists.",
+        "bn": "বিশাল মহাবিশ্ব বিজ্ঞানীদের অবাক করে।"
+      },
+      {
+        "en": "He traveled vast distances.",
+        "bn": "সে বিশাল দূরত্ব ভ্রমণ করল।"
+      }
+    ],
+    "synonyms": ["enormous", "immense", "huge", "expansive", "boundless"]
+  },
+  {
+    "base": "venture",
+    "phonetic": "ˈventʃər",
+    "meaning": "উদ্যোগ / ঝুঁকি নেওয়া",
+    "examples": [
+      {
+        "en": "She ventured into a new business.",
+        "bn": "সে একটি নতুন ব্যবসায় উদ্যোগ নিল।"
+      },
+      {
+        "en": "He started a joint venture.",
+        "bn": "সে একটি যৌথ উদ্যোগ শুরু করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She ventured into the unknown.", "bn": "সে অজানায় পা রাখল।" },
+      {
+        "en": "He ventured to ask the question.",
+        "bn": "সে সাহস করে প্রশ্নটি করল।"
+      },
+      {
+        "en": "The new venture was risky.",
+        "bn": "নতুন উদ্যোগটি ঝুঁকিপূর্ণ ছিল।"
+      },
+      {
+        "en": "She ventured outside her comfort zone.",
+        "bn": "সে তার স্বাচ্ছন্দ্য অঞ্চলের বাইরে পা রাখল।"
+      },
+      {
+        "en": "He ventured into the forest alone.",
+        "bn": "সে একা বনে প্রবেশ করল।"
+      },
+      {
+        "en": "The startup was her first venture.",
+        "bn": "স্টার্টআপটি ছিল তার প্রথম উদ্যোগ।"
+      },
+      { "en": "She ventured a guess.", "bn": "সে একটি অনুমান করল।" },
+      {
+        "en": "He supported her venture fully.",
+        "bn": "সে তার উদ্যোগকে সম্পূর্ণ সমর্থন করল।"
+      },
+      {
+        "en": "The venture failed but taught lessons.",
+        "bn": "উদ্যোগটি ব্যর্থ হয়েছিল কিন্তু শিক্ষা দিয়েছিল।"
+      },
+      {
+        "en": "She ventured into unknown territory.",
+        "bn": "সে অজানা এলাকায় পা রাখল।"
+      }
+    ],
+    "synonyms": ["enterprise", "undertaking", "attempt", "risk", "initiative"]
+  },
+  {
+    "base": "verify",
+    "phonetic": "ˈverɪfaɪ",
+    "meaning": "যাচাই করা / নিশ্চিত করা",
+    "examples": [
+      {
+        "en": "Please verify your email address.",
+        "bn": "আপনার ইমেইল ঠিকানা যাচাই করুন।"
+      },
+      {
+        "en": "She verified the information before sharing.",
+        "bn": "শেয়ার করার আগে সে তথ্য যাচাই করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He verified his identity at the bank.",
+        "bn": "সে ব্যাংকে তার পরিচয় যাচাই করল।"
+      },
+      {
+        "en": "She verified the facts in the report.",
+        "bn": "সে প্রতিবেদনের তথ্য যাচাই করল।"
+      },
+      { "en": "Please verify your booking.", "bn": "আপনার বুকিং যাচাই করুন।" },
+      {
+        "en": "He could not verify the claim.",
+        "bn": "সে দাবিটি যাচাই করতে পারল না।"
+      },
+      {
+        "en": "She verified the document is genuine.",
+        "bn": "সে যাচাই করল নথিটি আসল।"
+      },
+      {
+        "en": "They verified the results twice.",
+        "bn": "তারা ফলাফল দুইবার যাচাই করল।"
+      },
+      {
+        "en": "He verified the address before leaving.",
+        "bn": "বের হওয়ার আগে সে ঠিকানা যাচাই করল।"
+      },
+      {
+        "en": "She verified the passenger list.",
+        "bn": "সে যাত্রীর তালিকা যাচাই করল।"
+      },
+      {
+        "en": "It is important to verify sources.",
+        "bn": "উৎস যাচাই করা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "He verified the account number.",
+        "bn": "সে অ্যাকাউন্ট নম্বর যাচাই করল।"
+      }
+    ],
+    "synonyms": ["confirm", "check", "validate", "authenticate", "prove"]
+  },
+  {
+    "base": "vibrant",
+    "phonetic": "ˈvaɪbrənt",
+    "meaning": "প্রাণবন্ত / উজ্জ্বল",
+    "examples": [
+      {
+        "en": "She has a vibrant personality.",
+        "bn": "তার একটি প্রাণবন্ত ব্যক্তিত্ব আছে।"
+      },
+      {
+        "en": "The city has a vibrant culture.",
+        "bn": "শহরটির একটি প্রাণবন্ত সংস্কৃতি আছে।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He wore vibrant colors.", "bn": "সে উজ্জ্বল রঙ পরল।" },
+      {
+        "en": "The market was vibrant and noisy.",
+        "bn": "বাজারটি প্রাণবন্ত ও কোলাহলময় ছিল।"
+      },
+      {
+        "en": "She painted with vibrant shades.",
+        "bn": "সে উজ্জ্বল ছায়ায় আঁকল।"
+      },
+      {
+        "en": "The vibrant music filled the room.",
+        "bn": "প্রাণবন্ত সঙ্গীত ঘর ভরিয়ে তুলল।"
+      },
+      { "en": "He had a vibrant energy.", "bn": "তার প্রাণবন্ত শক্তি ছিল।" },
+      {
+        "en": "The festival was vibrant and colorful.",
+        "bn": "উৎসবটি প্রাণবন্ত ও রঙিন ছিল।"
+      },
+      {
+        "en": "She created a vibrant community.",
+        "bn": "সে একটি প্রাণবন্ত সম্প্রদায় গড়ে তুলল।"
+      },
+      {
+        "en": "The vibrant flowers attracted bees.",
+        "bn": "প্রাণবন্ত ফুলগুলো মৌমাছিকে আকর্ষণ করল।"
+      },
+      {
+        "en": "He gave a vibrant performance.",
+        "bn": "সে একটি প্রাণবন্ত পারফরম্যান্স দিল।"
+      },
+      {
+        "en": "The vibrant discussion energized everyone.",
+        "bn": "প্রাণবন্ত আলোচনা সবাইকে উৎসাহিত করল।"
+      }
+    ],
+    "synonyms": ["lively", "vivid", "energetic", "bright", "dynamic"]
+  },
+  {
+    "base": "victory",
+    "phonetic": "ˈvɪktəri",
+    "meaning": "বিজয় / জয়",
+    "examples": [
+      { "en": "She celebrated her victory.", "bn": "সে তার বিজয় উদযাপন করল।" },
+      {
+        "en": "The team achieved a great victory.",
+        "bn": "দলটি একটি দুর্দান্ত বিজয় অর্জন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He tasted victory for the first time.",
+        "bn": "সে প্রথমবার বিজয়ের স্বাদ পেল।"
+      },
+      {
+        "en": "Victory belongs to the persistent.",
+        "bn": "বিজয় অধ্যবসায়ীদের।"
+      },
+      {
+        "en": "She accepted victory with grace.",
+        "bn": "সে সৌজন্যের সাথে বিজয় স্বীকার করল।"
+      },
+      {
+        "en": "Victory requires hard work.",
+        "bn": "বিজয়ের জন্য পরিশ্রম দরকার।"
+      },
+      {
+        "en": "He raised the trophy in victory.",
+        "bn": "বিজয়ে সে ট্রফি উঁচিয়ে ধরল।"
+      },
+      {
+        "en": "Their victory surprised everyone.",
+        "bn": "তাদের বিজয় সবাইকে অবাক করল।"
+      },
+      {
+        "en": "She worked hard for her victory.",
+        "bn": "বিজয়ের জন্য সে কঠোর পরিশ্রম করল।"
+      },
+      {
+        "en": "The victory was well-deserved.",
+        "bn": "বিজয়টি সুপ্রাপ্য ছিল।"
+      },
+      {
+        "en": "He shared his victory speech.",
+        "bn": "সে তার বিজয় বক্তৃতা শেয়ার করল।"
+      },
+      {
+        "en": "She savored the sweet taste of victory.",
+        "bn": "সে বিজয়ের মিষ্টি স্বাদ উপভোগ করল।"
+      }
+    ],
+    "synonyms": ["win", "triumph", "success", "conquest", "achievement"]
+  },
+  {
+    "base": "visible",
+    "phonetic": "ˈvɪzɪbl",
+    "meaning": "দৃশ্যমান / স্পষ্ট",
+    "examples": [
+      {
+        "en": "The stars are visible at night.",
+        "bn": "রাতে তারাগুলো দৃশ্যমান।"
+      },
+      {
+        "en": "She made the problem visible.",
+        "bn": "সে সমস্যাটি দৃশ্যমান করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He wore a visible badge.", "bn": "সে একটি দৃশ্যমান ব্যাজ পরল।" },
+      {
+        "en": "The damage was clearly visible.",
+        "bn": "ক্ষয়ক্ষতি স্পষ্টভাবে দৃশ্যমান ছিল।"
+      },
+      {
+        "en": "She became more visible in her career.",
+        "bn": "ক্যারিয়ারে সে আরও দৃশ্যমান হয়ে উঠল।"
+      },
+      {
+        "en": "The tower is visible from miles away.",
+        "bn": "টাওয়ারটি মাইল দূর থেকে দৃশ্যমান।"
+      },
+      { "en": "He was a visible leader.", "bn": "সে একজন দৃশ্যমান নেতা ছিল।" },
+      { "en": "The scar was still visible.", "bn": "দাগটি এখনও দৃশ্যমান ছিল।" },
+      {
+        "en": "She wore visible protective gear.",
+        "bn": "সে দৃশ্যমান সুরক্ষামূলক সরঞ্জাম পরল।"
+      },
+      {
+        "en": "The results were visible quickly.",
+        "bn": "ফলাফলগুলো দ্রুত দৃশ্যমান ছিল।"
+      },
+      {
+        "en": "He made his intentions clearly visible.",
+        "bn": "সে তার উদ্দেশ্য স্পষ্টভাবে দৃশ্যমান করল।"
+      },
+      {
+        "en": "The error was visible to everyone.",
+        "bn": "ভুলটি সবার কাছে দৃশ্যমান ছিল।"
+      }
+    ],
+    "synonyms": ["noticeable", "clear", "apparent", "observable", "evident"]
+  },
+  {
+    "base": "vital",
+    "phonetic": "ˈvaɪtl",
+    "meaning": "অত্যাবশ্যক / গুরুত্বপূর্ণ",
+    "examples": [
+      {
+        "en": "Water is vital for life.",
+        "bn": "পানি জীবনের জন্য অত্যাবশ্যক।"
+      },
+      {
+        "en": "She plays a vital role in the team.",
+        "bn": "দলে সে একটি গুরুত্বপূর্ণ ভূমিকা পালন করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Good sleep is vital for health.",
+        "bn": "ভালো ঘুম স্বাস্থ্যের জন্য অত্যাবশ্যক।"
+      },
+      {
+        "en": "He provided vital information.",
+        "bn": "সে গুরুত্বপূর্ণ তথ্য সরবরাহ করল।"
+      },
+      {
+        "en": "Oxygen is vital to survive.",
+        "bn": "বেঁচে থাকার জন্য অক্সিজেন অত্যাবশ্যক।"
+      },
+      {
+        "en": "She made a vital decision.",
+        "bn": "সে একটি গুরুত্বপূর্ণ সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "The doctor checked his vital signs.",
+        "bn": "ডাক্তার তার গুরুত্বপূর্ণ লক্ষণগুলো পরীক্ষা করলেন।"
+      },
+      {
+        "en": "He had vital skills for the job.",
+        "bn": "কাজের জন্য তার অত্যাবশ্যক দক্ষতা ছিল।"
+      },
+      {
+        "en": "She is a vital member of the family.",
+        "bn": "সে পরিবারের একজন গুরুত্বপূর্ণ সদস্য।"
+      },
+      {
+        "en": "Communication is vital in a crisis.",
+        "bn": "সংকটে যোগাযোগ অত্যাবশ্যক।"
+      },
+      {
+        "en": "He maintained his vital energy.",
+        "bn": "সে তার প্রাণশক্তি বজায় রাখল।"
+      },
+      {
+        "en": "The information proved vital.",
+        "bn": "তথ্যটি গুরুত্বপূর্ণ প্রমাণিত হল।"
+      }
+    ],
+    "synonyms": ["essential", "critical", "necessary", "crucial", "important"]
+  },
+  {
+    "base": "vivid",
+    "phonetic": "ˈvɪvɪd",
+    "meaning": "স্পষ্ট / প্রাণবন্ত",
+    "examples": [
+      {
+        "en": "She has a vivid memory of the event.",
+        "bn": "ঘটনাটির তার স্পষ্ট স্মৃতি আছে।"
+      },
+      {
+        "en": "He used vivid colors in his painting.",
+        "bn": "সে চিত্রকর্মে প্রাণবন্ত রঙ ব্যবহার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She gave a vivid description.",
+        "bn": "সে একটি প্রাণবন্ত বর্ণনা দিল।"
+      },
+      { "en": "He had vivid dreams.", "bn": "তার প্রাণবন্ত স্বপ্ন ছিল।" },
+      {
+        "en": "The vivid sunset amazed everyone.",
+        "bn": "প্রাণবন্ত সূর্যাস্ত সবাইকে মুগ্ধ করল।"
+      },
+      { "en": "She wrote in a vivid style.", "bn": "সে প্রাণবন্ত ধরনে লিখল।" },
+      {
+        "en": "His vivid imagination created great stories.",
+        "bn": "তার প্রাণবন্ত কল্পনা দারুণ গল্প তৈরি করল।"
+      },
+      {
+        "en": "The vivid flowers brightened the room.",
+        "bn": "প্রাণবন্ত ফুলগুলো ঘর উজ্জ্বল করল।"
+      },
+      { "en": "She had a vivid recollection.", "bn": "তার স্পষ্ট স্মৃতি ছিল।" },
+      {
+        "en": "He painted vivid landscapes.",
+        "bn": "সে প্রাণবন্ত প্রাকৃতিক দৃশ্য আঁকল।"
+      },
+      {
+        "en": "The vivid imagery in the poem was powerful.",
+        "bn": "কবিতার প্রাণবন্ত চিত্রকল্প শক্তিশালী ছিল।"
+      },
+      { "en": "She saw a vivid vision.", "bn": "সে একটি স্পষ্ট দর্শন দেখল।" }
+    ],
+    "synonyms": ["bright", "clear", "striking", "intense", "lively"]
+  },
+  {
+    "base": "vocal",
+    "phonetic": "ˈvəʊkl",
+    "meaning": "কণ্ঠস্বর সম্পর্কিত / মুখর",
+    "examples": [
+      {
+        "en": "She is very vocal about her opinions.",
+        "bn": "তার মতামত সম্পর্কে সে অনেক মুখর।"
+      },
+      {
+        "en": "He has strong vocal skills.",
+        "bn": "তার শক্তিশালী কণ্ঠশিল্পের দক্ষতা আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She trained her vocal cords.",
+        "bn": "সে তার কণ্ঠরজ্জু প্রশিক্ষণ দিল।"
+      },
+      {
+        "en": "He was vocal in his criticism.",
+        "bn": "সমালোচনায় সে মুখর ছিল।"
+      },
+      {
+        "en": "The vocal group performed beautifully.",
+        "bn": "কণ্ঠ দলটি সুন্দরভাবে পরিবেশন করল।"
+      },
+      {
+        "en": "She became a vocal supporter.",
+        "bn": "সে একজন মুখর সমর্থক হয়ে উঠল।"
+      },
+      {
+        "en": "He gave a vocal performance.",
+        "bn": "সে একটি কণ্ঠসংগীত পারফরম্যান্স দিল।"
+      },
+      {
+        "en": "She was vocal about her rights.",
+        "bn": "তার অধিকার সম্পর্কে সে মুখর ছিল।"
+      },
+      {
+        "en": "His vocal tone was commanding.",
+        "bn": "তার কণ্ঠস্বরের ভাব কর্তৃত্বপূর্ণ ছিল।"
+      },
+      {
+        "en": "She joined the vocal ensemble.",
+        "bn": "সে কণ্ঠসংগীত দলে যোগ দিল।"
+      },
+      { "en": "He was vocal in the meeting.", "bn": "সভায় সে মুখর ছিল।" },
+      {
+        "en": "She is a vocal advocate for change.",
+        "bn": "সে পরিবর্তনের একজন মুখর সমর্থক।"
+      }
+    ],
+    "synonyms": ["outspoken", "expressive", "oral", "spoken", "articulate"]
+  },
+  {
+    "base": "volunteer",
+    "phonetic": "ˌvɒlənˈtɪər",
+    "meaning": "স্বেচ্ছাসেবক / স্বেচ্ছায় কাজ করা",
+    "examples": [
+      {
+        "en": "She volunteered at the hospital.",
+        "bn": "সে হাসপাতালে স্বেচ্ছাসেবক হিসেবে কাজ করল।"
+      },
+      {
+        "en": "He is a dedicated volunteer.",
+        "bn": "সে একজন নিবেদিতপ্রাণ স্বেচ্ছাসেবক।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She volunteered to help clean the park.",
+        "bn": "সে পার্ক পরিষ্কার করতে স্বেচ্ছায় এগিয়ে এল।"
+      },
+      {
+        "en": "He volunteers every weekend.",
+        "bn": "সে প্রতি সপ্তাহান্তে স্বেচ্ছাসেবক কাজ করে।"
+      },
+      {
+        "en": "Volunteers helped rebuild the community.",
+        "bn": "স্বেচ্ছাসেবকরা সম্প্রদায় পুনর্নির্মাণে সাহায্য করল।"
+      },
+      {
+        "en": "She volunteered information freely.",
+        "bn": "সে স্বেচ্ছায় তথ্য প্রদান করল।"
+      },
+      {
+        "en": "He volunteered to lead the project.",
+        "bn": "সে প্রকল্প নেতৃত্ব দিতে স্বেচ্ছায় এগিয়ে এল।"
+      },
+      {
+        "en": "Volunteers are the backbone of charity.",
+        "bn": "স্বেচ্ছাসেবকরা দাতব্য কাজের মেরুদণ্ড।"
+      },
+      {
+        "en": "She organized a team of volunteers.",
+        "bn": "সে স্বেচ্ছাসেবকদের একটি দল সংগঠিত করল।"
+      },
+      {
+        "en": "He volunteered abroad for a year.",
+        "bn": "সে এক বছর বিদেশে স্বেচ্ছাসেবক কাজ করল।"
+      },
+      {
+        "en": "Volunteering builds strong communities.",
+        "bn": "স্বেচ্ছাসেবক কাজ শক্তিশালী সমাজ গড়ে।"
+      },
+      {
+        "en": "She became a volunteer teacher.",
+        "bn": "সে একজন স্বেচ্ছাসেবক শিক্ষক হয়ে উঠল।"
+      }
+    ],
+    "synonyms": ["offer", "donate time", "serve", "contribute", "help freely"]
+  },
+  {
+    "base": "vulnerable",
+    "phonetic": "ˈvʌlnərəbl",
+    "meaning": "দুর্বল / ঝুঁকিপূর্ণ",
+    "examples": [
+      {
+        "en": "Children are vulnerable to illness.",
+        "bn": "শিশুরা অসুস্থতার ঝুঁকিতে থাকে।"
+      },
+      {
+        "en": "She felt vulnerable after the breakup.",
+        "bn": "বিচ্ছেদের পরে সে দুর্বল অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was vulnerable to criticism.",
+        "bn": "সমালোচনার প্রতি সে দুর্বল ছিল।"
+      },
+      {
+        "en": "The elderly are vulnerable in winter.",
+        "bn": "শীতকালে বয়স্করা ঝুঁকিপূর্ণ থাকেন।"
+      },
+      {
+        "en": "She protected the vulnerable.",
+        "bn": "সে দুর্বলদের রক্ষা করল।"
+      },
+      {
+        "en": "Being vulnerable takes courage.",
+        "bn": "দুর্বল হওয়া সাহসের কাজ।"
+      },
+      {
+        "en": "The community is vulnerable to floods.",
+        "bn": "সম্প্রদায়টি বন্যার ঝুঁকিতে আছে।"
+      },
+      {
+        "en": "He opened up and felt vulnerable.",
+        "bn": "সে মন খুলে দিল এবং দুর্বল অনুভব করল।"
+      },
+      {
+        "en": "Vulnerable people need extra support.",
+        "bn": "দুর্বল মানুষদের অতিরিক্ত সহায়তা দরকার।"
+      },
+      {
+        "en": "She was vulnerable but resilient.",
+        "bn": "সে দুর্বল কিন্তু স্থিতিস্থাপক ছিল।"
+      },
+      {
+        "en": "The system has vulnerable points.",
+        "bn": "সিস্টেমে দুর্বল পয়েন্ট আছে।"
+      },
+      {
+        "en": "He helped the vulnerable in society.",
+        "bn": "সে সমাজের দুর্বলদের সাহায্য করল।"
+      }
+    ],
+    "synonyms": ["weak", "fragile", "exposed", "susceptible", "defenseless"]
+  },
+  {
+    "base": "valid",
+    "phonetic": "ˈvælɪd",
+    "meaning": "বৈধ / গ্রহণযোগ্য",
+    "examples": [
+      {
+        "en": "Your ticket is valid for one year.",
+        "bn": "আপনার টিকেট এক বছরের জন্য বৈধ।"
+      },
+      {
+        "en": "She made a valid point.",
+        "bn": "সে একটি গ্রহণযোগ্য বক্তব্য রাখল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He had a valid reason for being late.",
+        "bn": "দেরি হওয়ার তার একটি বৈধ কারণ ছিল।"
+      },
+      {
+        "en": "The passport is no longer valid.",
+        "bn": "পাসপোর্টটি আর বৈধ নয়।"
+      },
+      {
+        "en": "She gave a valid explanation.",
+        "bn": "সে একটি গ্রহণযোগ্য ব্যাখ্যা দিল।"
+      },
+      { "en": "Is this coupon still valid?", "bn": "এই কুপনটি কি এখনও বৈধ?" },
+      {
+        "en": "He raised a valid concern.",
+        "bn": "সে একটি গ্রহণযোগ্য উদ্বেগ উত্থাপন করল।"
+      },
+      { "en": "Her argument was valid.", "bn": "তার যুক্তি গ্রহণযোগ্য ছিল।" },
+      {
+        "en": "He presented valid evidence.",
+        "bn": "সে বৈধ প্রমাণ উপস্থাপন করল।"
+      },
+      {
+        "en": "The contract is valid for two years.",
+        "bn": "চুক্তিটি দুই বছরের জন্য বৈধ।"
+      },
+      {
+        "en": "She checked if the data was valid.",
+        "bn": "সে তথ্য বৈধ কিনা পরীক্ষা করল।"
+      },
+      {
+        "en": "Only valid IDs are accepted.",
+        "bn": "শুধুমাত্র বৈধ পরিচয়পত্র গৃহীত হবে।"
+      }
+    ],
+    "synonyms": ["legal", "legitimate", "acceptable", "sound", "justified"]
+  },
+  {
+    "base": "vanish",
+    "phonetic": "ˈvænɪʃ",
+    "meaning": "অদৃশ্য হওয়া / মিলিয়ে যাওয়া",
+    "examples": [
+      {
+        "en": "The mist vanished by morning.",
+        "bn": "সকালের মধ্যে কুয়াশা মিলিয়ে গেল।"
+      },
+      {
+        "en": "He seemed to vanish into thin air.",
+        "bn": "সে যেন হাওয়ায় মিলিয়ে গেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The pain slowly vanished.",
+        "bn": "ব্যথাটি ধীরে ধীরে মিলিয়ে গেল।"
+      },
+      {
+        "en": "She vanished from the party.",
+        "bn": "সে পার্টি থেকে অদৃশ্য হয়ে গেল।"
+      },
+      {
+        "en": "His smile vanished suddenly.",
+        "bn": "তার হাসি হঠাৎ মিলিয়ে গেল।"
+      },
+      {
+        "en": "The money vanished overnight.",
+        "bn": "রাতারাতি টাকা অদৃশ্য হয়ে গেল।"
+      },
+      {
+        "en": "He watched the ship vanish on the horizon.",
+        "bn": "সে দেখল জাহাজটি দিগন্তে মিলিয়ে গেল।"
+      },
+      {
+        "en": "The dream vanished when she woke up.",
+        "bn": "জেগে উঠলে স্বপ্নটি মিলিয়ে গেল।"
+      },
+      {
+        "en": "His fear vanished with experience.",
+        "bn": "অভিজ্ঞতার সাথে তার ভয় মিলিয়ে গেল।"
+      },
+      {
+        "en": "She vanished from public life.",
+        "bn": "সে সার্বজনীন জীবন থেকে অদৃশ্য হল।"
+      },
+      {
+        "en": "The clouds vanished after rain.",
+        "bn": "বৃষ্টির পরে মেঘ মিলিয়ে গেল।"
+      },
+      {
+        "en": "He vanished without a trace.",
+        "bn": "সে কোনো চিহ্ন না রেখে অদৃশ্য হল।"
+      }
+    ],
+    "synonyms": ["disappear", "fade", "evaporate", "dissolve", "melt away"]
+  },
+  {
+    "base": "versatile",
+    "phonetic": "ˈvɜːsətaɪl",
+    "meaning": "বহুমুখী / বহু কাজে দক্ষ",
+    "examples": [
+      {
+        "en": "She is a versatile actress.",
+        "bn": "সে একজন বহুমুখী অভিনেত্রী।"
+      },
+      {
+        "en": "He is versatile in many fields.",
+        "bn": "সে অনেক ক্ষেত্রে বহুমুখী।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A versatile tool saves time.",
+        "bn": "একটি বহুমুখী সরঞ্জাম সময় বাঁচায়।"
+      },
+      {
+        "en": "She is a versatile musician.",
+        "bn": "সে একজন বহুমুখী সংগীতশিল্পী।"
+      },
+      {
+        "en": "He proved himself versatile.",
+        "bn": "সে নিজেকে বহুমুখী প্রমাণ করল।"
+      },
+      {
+        "en": "Versatile employees are highly valued.",
+        "bn": "বহুমুখী কর্মচারীরা অনেক মূল্যবান।"
+      },
+      {
+        "en": "She has a versatile cooking style.",
+        "bn": "তার বহুমুখী রান্নার ধরন আছে।"
+      },
+      {
+        "en": "He adapted and showed versatility.",
+        "bn": "সে মানিয়ে নিল এবং বহুমুখিতা দেখাল।"
+      },
+      {
+        "en": "The versatile fabric suits any occasion.",
+        "bn": "বহুমুখী কাপড় যেকোনো অনুষ্ঠানের উপযোগী।"
+      },
+      {
+        "en": "She developed a versatile skill set.",
+        "bn": "সে বহুমুখী দক্ষতার সেট গড়ে তুলল।"
+      },
+      {
+        "en": "He is a versatile athlete.",
+        "bn": "সে একজন বহুমুখী খেলোয়াড়।"
+      },
+      {
+        "en": "Versatile thinking solves problems.",
+        "bn": "বহুমুখী চিন্তা সমস্যা সমাধান করে।"
+      }
+    ],
+    "synonyms": [
+      "adaptable",
+      "flexible",
+      "all-around",
+      "multitalented",
+      "resourceful"
+    ]
+  },
+  {
+    "base": "vague",
+    "phonetic": "veɪɡ",
+    "meaning": "অস্পষ্ট / অনির্দিষ্ট",
+    "examples": [
+      { "en": "His answer was vague.", "bn": "তার উত্তর অস্পষ্ট ছিল।" },
+      {
+        "en": "She gave a vague description.",
+        "bn": "সে একটি অস্পষ্ট বর্ণনা দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He had a vague idea of the plan.",
+        "bn": "পরিকল্পনার তার অস্পষ্ট ধারণা ছিল।"
+      },
+      {
+        "en": "The instructions were vague.",
+        "bn": "নির্দেশনাগুলো অস্পষ্ট ছিল।"
+      },
+      {
+        "en": "She felt a vague sense of unease.",
+        "bn": "সে অস্পষ্ট অস্বস্তির অনুভূতি পেল।"
+      },
+      { "en": "He gave a vague response.", "bn": "সে একটি অস্পষ্ট উত্তর দিল।" },
+      {
+        "en": "The law was vague and confusing.",
+        "bn": "আইনটি অস্পষ্ট এবং বিভ্রান্তিকর ছিল।"
+      },
+      {
+        "en": "She had only a vague memory.",
+        "bn": "তার শুধু অস্পষ্ট স্মৃতি ছিল।"
+      },
+      {
+        "en": "His promises were vague.",
+        "bn": "তার প্রতিশ্রুতিগুলো অস্পষ্ট ছিল।"
+      },
+      {
+        "en": "The vague outline needed details.",
+        "bn": "অস্পষ্ট রূপরেখার বিবরণ দরকার ছিল।"
+      },
+      { "en": "She gave a vague nod.", "bn": "সে একটি অস্পষ্ট মাথা নাড়াল।" },
+      {
+        "en": "He was vague about his intentions.",
+        "bn": "তার উদ্দেশ্য সম্পর্কে সে অস্পষ্ট ছিল।"
+      }
+    ],
+    "synonyms": ["unclear", "fuzzy", "ambiguous", "indefinite", "imprecise"]
+  },
+  {
+    "base": "valiant",
+    "phonetic": "ˈvæliənt",
+    "meaning": "সাহসী / বীর",
+    "examples": [
+      {
+        "en": "She made a valiant effort.",
+        "bn": "সে একটি সাহসী প্রচেষ্টা করল।"
+      },
+      { "en": "He was a valiant soldier.", "bn": "সে একজন সাহসী সৈনিক ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The valiant knight protected the village.",
+        "bn": "সাহসী নাইট গ্রাম রক্ষা করল।"
+      },
+      {
+        "en": "She gave a valiant performance.",
+        "bn": "সে একটি সাহসী পারফরম্যান্স দিল।"
+      },
+      { "en": "He showed valiant courage.", "bn": "সে সাহসী মনোবল দেখাল।" },
+      {
+        "en": "She fought a valiant battle.",
+        "bn": "সে একটি বীরত্বপূর্ণ যুদ্ধ করল।"
+      },
+      {
+        "en": "His valiant deeds were remembered.",
+        "bn": "তার সাহসী কর্মকাণ্ড মনে রাখা হল।"
+      },
+      {
+        "en": "She stood valiant in the face of danger.",
+        "bn": "বিপদের মুখে সে সাহসীভাবে দাঁড়াল।"
+      },
+      {
+        "en": "He made a valiant attempt to save him.",
+        "bn": "তাকে বাঁচাতে সে সাহসী প্রচেষ্টা করল।"
+      },
+      {
+        "en": "The team made a valiant comeback.",
+        "bn": "দলটি একটি সাহসী প্রত্যাবর্তন করল।"
+      },
+      {
+        "en": "She remained valiant throughout.",
+        "bn": "সে সর্বক্ষণ সাহসী থাকল।"
+      },
+      {
+        "en": "He was known for his valiant spirit.",
+        "bn": "সাহসী মনোভাবের জন্য সে পরিচিত ছিল।"
+      }
+    ],
+    "synonyms": ["brave", "courageous", "heroic", "bold", "fearless"]
+  },
+  {
+    "base": "variety",
+    "phonetic": "vəˈraɪəti",
+    "meaning": "বৈচিত্র্য / বিভিন্নতা",
+    "examples": [
+      { "en": "Variety is the spice of life.", "bn": "বৈচিত্র্যই জীবনের মজা।" },
+      {
+        "en": "She enjoys a variety of foods.",
+        "bn": "সে বিভিন্ন ধরনের খাবার উপভোগ করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He has a wide variety of interests.",
+        "bn": "তার বিস্তৃত বৈচিত্র্যময় আগ্রহ আছে।"
+      },
+      {
+        "en": "The store offers a variety of products.",
+        "bn": "দোকানটি বিভিন্ন ধরনের পণ্য অফার করে।"
+      },
+      {
+        "en": "She chose a variety of colors.",
+        "bn": "সে বিভিন্ন রঙ বেছে নিল।"
+      },
+      {
+        "en": "A variety of people attended the event.",
+        "bn": "বিভিন্ন ধরনের মানুষ অনুষ্ঠানে অংশ নিল।"
+      },
+      {
+        "en": "He studied a variety of subjects.",
+        "bn": "সে বিভিন্ন বিষয় অধ্যয়ন করল।"
+      },
+      {
+        "en": "The variety of options confused her.",
+        "bn": "বিকল্পের বৈচিত্র্য তাকে বিভ্রান্ত করল।"
+      },
+      {
+        "en": "She added variety to her routine.",
+        "bn": "সে তার রুটিনে বৈচিত্র্য যোগ করল।"
+      },
+      {
+        "en": "A variety of skills is needed.",
+        "bn": "বৈচিত্র্যময় দক্ষতা দরকার।"
+      },
+      {
+        "en": "He appreciates variety in music.",
+        "bn": "সঙ্গীতে বৈচিত্র্যকে সে প্রশংসা করে।"
+      },
+      {
+        "en": "The festival showcased a variety of talent.",
+        "bn": "উৎসবটিতে বৈচিত্র্যময় প্রতিভা প্রদর্শিত হল।"
+      }
+    ],
+    "synonyms": ["diversity", "range", "assortment", "mixture", "collection"]
+  },
+  {
+    "base": "venture",
+    "phonetic": "ˈventʃər",
+    "meaning": "সাহসী পদক্ষেপ",
+    "examples": [
+      {
+        "en": "She ventured a bold opinion.",
+        "bn": "সে একটি সাহসী মতামত দিল।"
+      },
+      {
+        "en": "He ventured out in the storm.",
+        "bn": "সে ঝড়ে বের হওয়ার সাহস করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She ventured to climb the mountain.",
+        "bn": "সে পাহাড়ে ওঠার সাহস করল।"
+      },
+      { "en": "He ventured a smile.", "bn": "সে সাহস করে একটু হাসল।" },
+      {
+        "en": "She ventured far from home.",
+        "bn": "সে বাড়ি থেকে অনেক দূরে গেল।"
+      },
+      {
+        "en": "He ventured into the cave.",
+        "bn": "সে গুহায় প্রবেশ করার সাহস করল।"
+      },
+      {
+        "en": "She ventured a prediction.",
+        "bn": "সে একটি পূর্বাভাস করার সাহস করল।"
+      },
+      {
+        "en": "He ventured into a new career.",
+        "bn": "সে নতুন ক্যারিয়ারে পদক্ষেপ নিল।"
+      },
+      { "en": "She ventured to disagree.", "bn": "সে দ্বিমত পোষণের সাহস করল।" },
+      {
+        "en": "He ventured deep into the jungle.",
+        "bn": "সে জঙ্গলের গভীরে যাওয়ার সাহস করল।"
+      },
+      {
+        "en": "She ventured to speak first.",
+        "bn": "সে প্রথমে কথা বলার সাহস করল।"
+      },
+      {
+        "en": "He ventured a suggestion.",
+        "bn": "সে একটি পরামর্শ দেওয়ার সাহস করল।"
+      }
+    ],
+    "synonyms": ["dare", "risk", "try", "attempt", "brave"]
+  },
+  {
+    "base": "verdict",
+    "phonetic": "ˈvɜːdɪkt",
+    "meaning": "রায় / সিদ্ধান্ত",
+    "examples": [
+      { "en": "The jury delivered its verdict.", "bn": "জুরি তার রায় দিল।" },
+      {
+        "en": "She waited for the final verdict.",
+        "bn": "সে চূড়ান্ত রায়ের জন্য অপেক্ষা করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The verdict was not guilty.", "bn": "রায়টি ছিল নির্দোষ।" },
+      {
+        "en": "He accepted the verdict calmly.",
+        "bn": "সে শান্তভাবে রায় স্বীকার করল।"
+      },
+      {
+        "en": "She disagreed with the verdict.",
+        "bn": "সে রায়ের সাথে একমত হল না।"
+      },
+      {
+        "en": "The verdict surprised everyone.",
+        "bn": "রায়টি সবাইকে অবাক করল।"
+      },
+      {
+        "en": "He delivered a fair verdict.",
+        "bn": "সে একটি ন্যায্য রায় দিল।"
+      },
+      {
+        "en": "She appealed against the verdict.",
+        "bn": "সে রায়ের বিরুদ্ধে আপিল করল।"
+      },
+      {
+        "en": "The public awaited the verdict.",
+        "bn": "জনগণ রায়ের জন্য অপেক্ষা করল।"
+      },
+      {
+        "en": "The verdict ended the long trial.",
+        "bn": "রায়টি দীর্ঘ বিচারের সমাপ্তি ঘটাল।"
+      },
+      {
+        "en": "He shared his personal verdict.",
+        "bn": "সে তার ব্যক্তিগত মত শেয়ার করল।"
+      },
+      {
+        "en": "The food critic gave her verdict.",
+        "bn": "খাদ্য সমালোচক তার রায় দিলেন।"
+      }
+    ],
+    "synonyms": ["judgment", "decision", "ruling", "finding", "conclusion"]
+  },
+  {
+    "base": "vow",
+    "phonetic": "vaʊ",
+    "meaning": "শপথ করা / প্রতিজ্ঞা করা",
+    "examples": [
+      {
+        "en": "She vowed to never give up.",
+        "bn": "সে কখনো না হার মানার শপথ করল।"
+      },
+      { "en": "He made a solemn vow.", "bn": "সে একটি গুরুগম্ভীর শপথ নিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They exchanged wedding vows.",
+        "bn": "তারা বিয়ের শপথ বিনিময় করল।"
+      },
+      {
+        "en": "She vowed to help the poor.",
+        "bn": "সে গরিবদের সাহায্য করার শপথ নিল।"
+      },
+      { "en": "He vowed to return.", "bn": "সে ফিরে আসার প্রতিজ্ঞা করল।" },
+      { "en": "She kept her vow.", "bn": "সে তার শপথ রাখল।" },
+      { "en": "He broke his vow.", "bn": "সে তার শপথ ভাঙল।" },
+      {
+        "en": "She vowed to be more careful.",
+        "bn": "সে আরও সতর্ক হওয়ার শপথ নিল।"
+      },
+      { "en": "He vowed silence.", "bn": "সে নীরবতার শপথ নিল।" },
+      { "en": "She took a vow of dedication.", "bn": "সে নিষ্ঠার শপথ নিল।" },
+      {
+        "en": "He vowed to protect his family.",
+        "bn": "সে পরিবার রক্ষার শপথ নিল।"
+      },
+      {
+        "en": "She vowed never to lie again.",
+        "bn": "সে আর কখনো মিথ্যা না বলার শপথ নিল।"
+      }
+    ],
+    "synonyms": ["pledge", "promise", "swear", "commit", "oath"]
+  },
+  {
+    "base": "vigorous",
+    "phonetic": "ˈvɪɡərəs",
+    "meaning": "তীব্র / শক্তিশালী",
+    "examples": [
+      { "en": "She did a vigorous workout.", "bn": "সে তীব্র ব্যায়াম করল।" },
+      {
+        "en": "He gave a vigorous defense.",
+        "bn": "সে একটি শক্তিশালী প্রতিরক্ষা দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The vigorous debate lasted hours.",
+        "bn": "তীব্র বিতর্কটি ঘণ্টার পর ঘণ্টা চলল।"
+      },
+      {
+        "en": "She had a vigorous personality.",
+        "bn": "তার একটি শক্তিশালী ব্যক্তিত্ব ছিল।"
+      },
+      {
+        "en": "He made a vigorous protest.",
+        "bn": "সে একটি তীব্র প্রতিবাদ করল।"
+      },
+      {
+        "en": "The vigorous campaign gained support.",
+        "bn": "তীব্র প্রচারণা সমর্থন পেল।"
+      },
+      {
+        "en": "She led a vigorous life.",
+        "bn": "সে একটি শক্তিশালী জীবন যাপন করল।"
+      },
+      {
+        "en": "He engaged in vigorous exercise.",
+        "bn": "সে তীব্র ব্যায়ামে নিযুক্ত হল।"
+      },
+      {
+        "en": "The vigorous wind shook the trees.",
+        "bn": "তীব্র বাতাসে গাছ কাঁপল।"
+      },
+      {
+        "en": "She gave a vigorous speech.",
+        "bn": "সে একটি শক্তিশালী বক্তৃতা দিল।"
+      },
+      { "en": "He had vigorous health.", "bn": "তার শক্তিশালী স্বাস্থ্য ছিল।" },
+      {
+        "en": "A vigorous discussion helped solve it.",
+        "bn": "তীব্র আলোচনা সমাধান করতে সাহায্য করল।"
+      }
+    ],
+    "synonyms": ["energetic", "strong", "intense", "active", "forceful"]
+  },
+  {
+    "base": "vision",
+    "phonetic": "ˈvɪʒn",
+    "meaning": "দৃষ্টিভঙ্গি / লক্ষ্য / দৃষ্টিশক্তি",
+    "examples": [
+      {
+        "en": "She has a clear vision for the future.",
+        "bn": "ভবিষ্যতের জন্য তার একটি স্পষ্ট দৃষ্টিভঙ্গি আছে।"
+      },
+      { "en": "He had poor vision.", "bn": "তার দুর্বল দৃষ্টিশক্তি ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The leader had a bold vision.",
+        "bn": "নেতার একটি সাহসী দৃষ্টিভঙ্গি ছিল।"
+      },
+      {
+        "en": "She turned her vision into reality.",
+        "bn": "সে তার দৃষ্টিভঙ্গি বাস্তবে রূপ দিল।"
+      },
+      {
+        "en": "His vision for the company inspired all.",
+        "bn": "কোম্পানির জন্য তার দৃষ্টিভঙ্গি সবাইকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "She saw a vision in her dream.",
+        "bn": "স্বপ্নে সে একটি দর্শন দেখল।"
+      },
+      {
+        "en": "Good vision helps success.",
+        "bn": "ভালো দৃষ্টিভঙ্গি সাফল্যে সাহায্য করে।"
+      },
+      {
+        "en": "He wore glasses to correct his vision.",
+        "bn": "দৃষ্টি সংশোধন করতে সে চশমা পরল।"
+      },
+      {
+        "en": "She had a vision of peace.",
+        "bn": "তার শান্তির একটি দৃষ্টিভঙ্গি ছিল।"
+      },
+      {
+        "en": "His creative vision amazed everyone.",
+        "bn": "তার সৃজনশীল দৃষ্টিভঙ্গি সবাইকে অবাক করল।"
+      },
+      {
+        "en": "The company shared its vision.",
+        "bn": "কোম্পানি তার দৃষ্টিভঙ্গি শেয়ার করল।"
+      },
+      {
+        "en": "She pursued her vision relentlessly.",
+        "bn": "সে অক্লান্তভাবে তার দৃষ্টিভঙ্গি অনুসরণ করল।"
+      }
+    ],
+    "synonyms": ["goal", "dream", "sight", "perspective", "foresight"]
+  },
+  {
+    "base": "validate",
+    "phonetic": "ˈvælɪdeɪt",
+    "meaning": "বৈধতা দেওয়া / নিশ্চিত করা",
+    "examples": [
+      {
+        "en": "She needed someone to validate her feelings.",
+        "bn": "তার অনুভূতিকে স্বীকার করার জন্য কাউকে দরকার ছিল।"
+      },
+      {
+        "en": "He validated the parking ticket.",
+        "bn": "সে পার্কিং টিকেটের বৈধতা দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She validated her research findings.",
+        "bn": "সে তার গবেষণার ফলাফল নিশ্চিত করল।"
+      },
+      {
+        "en": "He validated her decision.",
+        "bn": "সে তার সিদ্ধান্তকে সমর্থন করল।"
+      },
+      {
+        "en": "The teacher validated his answer.",
+        "bn": "শিক্ষক তার উত্তর সঠিক বলে স্বীকার করলেন।"
+      },
+      {
+        "en": "She validated her entry pass.",
+        "bn": "সে তার প্রবেশ পাসের বৈধতা দিল।"
+      },
+      {
+        "en": "He validated the software license.",
+        "bn": "সে সফটওয়্যার লাইসেন্স যাচাই করল।"
+      },
+      {
+        "en": "Validation from others matters.",
+        "bn": "অন্যদের থেকে স্বীকৃতি গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She validated the form correctly.",
+        "bn": "সে ফর্মটি সঠিকভাবে বৈধ করল।"
+      },
+      {
+        "en": "He needed validation for his ideas.",
+        "bn": "তার ধারণার জন্য স্বীকৃতি দরকার ছিল।"
+      },
+      {
+        "en": "She validated the experiment results.",
+        "bn": "সে পরীক্ষার ফলাফল নিশ্চিত করল।"
+      },
+      {
+        "en": "He validated his credentials.",
+        "bn": "সে তার যোগ্যতাপত্র যাচাই করল।"
+      }
+    ],
+    "synonyms": ["confirm", "verify", "authenticate", "approve", "endorse"]
+  },
+  {
+    "base": "vanquish",
+    "phonetic": "ˈvæŋkwɪʃ",
+    "meaning": "পরাজিত করা / বিজয়ী হওয়া",
+    "examples": [
+      { "en": "She vanquished her fear.", "bn": "সে তার ভয়কে পরাজিত করল।" },
+      { "en": "He vanquished the enemy.", "bn": "সে শত্রুকে পরাজিত করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The hero vanquished the villain.",
+        "bn": "নায়ক খলনায়ককে পরাজিত করল।"
+      },
+      { "en": "She vanquished all doubts.", "bn": "সে সমস্ত সন্দেহ দূর করল।" },
+      {
+        "en": "He vanquished competitors in the race.",
+        "bn": "সে দৌড়ে প্রতিযোগীদের পরাজিত করল।"
+      },
+      {
+        "en": "She vanquished obstacles one by one.",
+        "bn": "সে একে একে বাধা দূর করল।"
+      },
+      {
+        "en": "He vanquished the opposing team.",
+        "bn": "সে বিরোধী দলকে পরাজিত করল।"
+      },
+      {
+        "en": "She vanquished poverty through hard work.",
+        "bn": "পরিশ্রমের মাধ্যমে সে দারিদ্র্য দূর করল।"
+      },
+      {
+        "en": "He vanquished his weaknesses.",
+        "bn": "সে তার দুর্বলতাগুলো দূর করল।"
+      },
+      {
+        "en": "She vanquished the competition.",
+        "bn": "সে প্রতিযোগিতায় জয়ী হল।"
+      },
+      { "en": "He vanquished negativity.", "bn": "সে নেতিবাচকতা দূর করল।" },
+      {
+        "en": "She vanquished every challenge.",
+        "bn": "সে প্রতিটি চ্যালেঞ্জ জয় করল।"
+      }
+    ],
+    "synonyms": ["defeat", "conquer", "overcome", "subdue", "beat"]
+  },
+  {
+    "base": "vivacious",
+    "phonetic": "vɪˈveɪʃəs",
+    "meaning": "প্রাণচঞ্চল / উচ্ছল",
+    "examples": [
+      { "en": "She is a vivacious girl.", "bn": "সে একটি প্রাণচঞ্চল মেয়ে।" },
+      {
+        "en": "His vivacious personality lit up the room.",
+        "bn": "তার প্রাণচঞ্চল ব্যক্তিত্ব ঘর আলোকিত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She gave a vivacious performance.",
+        "bn": "সে একটি প্রাণচঞ্চল পারফরম্যান্স দিল।"
+      },
+      {
+        "en": "He admired her vivacious spirit.",
+        "bn": "সে তার প্রাণচঞ্চল মনোভাব প্রশংসা করল।"
+      },
+      {
+        "en": "The vivacious child laughed constantly.",
+        "bn": "প্রাণচঞ্চল শিশুটি অনবরত হাসল।"
+      },
+      { "en": "She had a vivacious laugh.", "bn": "তার উচ্ছল হাসি ছিল।" },
+      {
+        "en": "He was vivacious at the party.",
+        "bn": "পার্টিতে সে প্রাণচঞ্চল ছিল।"
+      },
+      {
+        "en": "Her vivacious nature attracted many.",
+        "bn": "তার প্রাণচঞ্চল স্বভাব অনেককে আকর্ষণ করল।"
+      },
+      {
+        "en": "She remained vivacious despite hardship.",
+        "bn": "কষ্টের পরেও সে প্রাণচঞ্চল থাকল।"
+      },
+      {
+        "en": "He enjoyed her vivacious humor.",
+        "bn": "সে তার উচ্ছল রসিকতা উপভোগ করল।"
+      },
+      {
+        "en": "The vivacious crowd cheered loudly.",
+        "bn": "প্রাণচঞ্চল ভিড় জোরে চিৎকার করল।"
+      },
+      {
+        "en": "She was vivacious and full of energy.",
+        "bn": "সে প্রাণচঞ্চল এবং শক্তিতে ভরপুর ছিল।"
+      }
+    ],
+    "synonyms": ["lively", "cheerful", "spirited", "bubbly", "animated"]
+  },
+  {
+    "base": "vicious",
+    "phonetic": "ˈvɪʃəs",
+    "meaning": "হিংস্র / ক্ষতিকর",
+    "examples": [
+      {
+        "en": "The dog had a vicious bite.",
+        "bn": "কুকুরটির হিংস্র কামড় ছিল।"
+      },
+      {
+        "en": "She made a vicious comment.",
+        "bn": "সে একটি ক্ষতিকর মন্তব্য করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He fought a vicious battle.",
+        "bn": "সে একটি হিংস্র যুদ্ধ করল।"
+      },
+      {
+        "en": "The vicious rumor spread quickly.",
+        "bn": "ক্ষতিকর গুজব দ্রুত ছড়িয়ে পড়ল।"
+      },
+      {
+        "en": "She avoided the vicious argument.",
+        "bn": "সে হিংস্র তর্ক এড়িয়ে গেল।"
+      },
+      {
+        "en": "He was caught in a vicious cycle.",
+        "bn": "সে একটি ক্ষতিকর চক্রে আটকে পড়ল।"
+      },
+      {
+        "en": "The vicious wind tore down trees.",
+        "bn": "হিংস্র বাতাস গাছ উপড়ে ফেলল।"
+      },
+      {
+        "en": "She escaped the vicious attack.",
+        "bn": "সে হিংস্র আক্রমণ থেকে বাঁচল।"
+      },
+      {
+        "en": "He received vicious criticism.",
+        "bn": "সে ক্ষতিকর সমালোচনা পেল।"
+      },
+      {
+        "en": "The vicious predator hunted at night.",
+        "bn": "হিংস্র শিকারি রাতে শিকার করল।"
+      },
+      { "en": "She broke the vicious habit.", "bn": "সে ক্ষতিকর অভ্যাস ভাঙল।" },
+      {
+        "en": "He dealt with a vicious competitor.",
+        "bn": "সে একজন হিংস্র প্রতিযোগীর সাথে মোকাবেলা করল।"
+      }
+    ],
+    "synonyms": ["savage", "brutal", "cruel", "fierce", "malicious"]
+  },
+  {
+    "base": "vigilant",
+    "phonetic": "ˈvɪdʒɪlənt",
+    "meaning": "সজাগ / সতর্ক",
+    "examples": [
+      {
+        "en": "She remained vigilant throughout.",
+        "bn": "সে সর্বক্ষণ সজাগ থাকল।"
+      },
+      {
+        "en": "Be vigilant about your surroundings.",
+        "bn": "আশেপাশের বিষয়ে সতর্ক থাকুন।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was vigilant about security.",
+        "bn": "নিরাপত্তার বিষয়ে সে সতর্ক ছিল।"
+      },
+      { "en": "She kept a vigilant eye.", "bn": "সে সজাগ দৃষ্টি রাখল।" },
+      {
+        "en": "The guard was always vigilant.",
+        "bn": "রক্ষী সবসময় সজাগ ছিল।"
+      },
+      {
+        "en": "He was vigilant against fraud.",
+        "bn": "প্রতারণার বিরুদ্ধে সে সতর্ক ছিল।"
+      },
+      {
+        "en": "Stay vigilant during travel.",
+        "bn": "ভ্রমণের সময় সতর্ক থাকুন।"
+      },
+      { "en": "She was vigilant in her work.", "bn": "কাজে সে সজাগ ছিল।" },
+      {
+        "en": "He maintained vigilant monitoring.",
+        "bn": "সে সজাগ নজরদারি বজায় রাখল।"
+      },
+      {
+        "en": "She stayed vigilant against danger.",
+        "bn": "বিপদের বিরুদ্ধে সে সতর্ক থাকল।"
+      },
+      {
+        "en": "Vigilant parents protect their children.",
+        "bn": "সজাগ বাবা-মা তাদের সন্তানদের রক্ষা করেন।"
+      },
+      {
+        "en": "He was always vigilant and prepared.",
+        "bn": "সে সবসময় সজাগ এবং প্রস্তুত ছিল।"
+      }
+    ],
+    "synonyms": ["watchful", "alert", "cautious", "careful", "attentive"]
+  },
+  {
+    "base": "volunteer",
+    "phonetic": "ˌvɒlənˈtɪər",
+    "meaning": "স্বেচ্ছায় এগিয়ে আসা",
+    "examples": [
+      {
+        "en": "She volunteered to lead the team.",
+        "bn": "সে স্বেচ্ছায় দল নেতৃত্ব দিতে এগিয়ে এল।"
+      },
+      {
+        "en": "He volunteered his services.",
+        "bn": "সে স্বেচ্ছায় তার সেবা দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She volunteered to stay late.",
+        "bn": "সে স্বেচ্ছায় দেরি করে থাকল।"
+      },
+      {
+        "en": "He volunteered his expertise.",
+        "bn": "সে স্বেচ্ছায় তার দক্ষতা দিল।"
+      },
+      {
+        "en": "She volunteered at the food bank.",
+        "bn": "সে ফুড ব্যাংকে স্বেচ্ছাসেবক হিসেবে কাজ করল।"
+      },
+      {
+        "en": "He volunteered for the mission.",
+        "bn": "সে স্বেচ্ছায় মিশনের জন্য এগিয়ে এল।"
+      },
+      {
+        "en": "She volunteered to read aloud.",
+        "bn": "সে স্বেচ্ছায় জোরে পড়তে এগিয়ে এল।"
+      },
+      {
+        "en": "He volunteers at the shelter weekly.",
+        "bn": "সে সাপ্তাহিকভাবে আশ্রয়কেন্দ্রে স্বেচ্ছাসেবক কাজ করে।"
+      },
+      {
+        "en": "She volunteered to answer first.",
+        "bn": "সে স্বেচ্ছায় প্রথমে উত্তর দিতে এগিয়ে এল।"
+      },
+      {
+        "en": "He volunteered to train newcomers.",
+        "bn": "সে স্বেচ্ছায় নবাগতদের প্রশিক্ষণ দিতে এগিয়ে এল।"
+      },
+      {
+        "en": "She volunteered time to the cause.",
+        "bn": "সে স্বেচ্ছায় কারণটির জন্য সময় দিল।"
+      },
+      {
+        "en": "He volunteered without hesitation.",
+        "bn": "সে দ্বিধা ছাড়াই স্বেচ্ছায় এগিয়ে এল।"
+      }
+    ],
+    "synonyms": ["offer", "step up", "propose", "donate", "come forward"]
+  },
+  {
+    "base": "victorious",
+    "phonetic": "vɪkˈtɔːriəs",
+    "meaning": "বিজয়ী",
+    "examples": [
+      {
+        "en": "She was victorious in the election.",
+        "bn": "নির্বাচনে সে বিজয়ী হল।"
+      },
+      {
+        "en": "He returned victorious from battle.",
+        "bn": "সে যুদ্ধ থেকে বিজয়ী হয়ে ফিরল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The victorious team celebrated.",
+        "bn": "বিজয়ী দল উদযাপন করল।"
+      },
+      {
+        "en": "She felt victorious after the race.",
+        "bn": "দৌড়ের পরে সে বিজয়ী অনুভব করল।"
+      },
+      {
+        "en": "He was victorious over adversity.",
+        "bn": "প্রতিকূলতার বিরুদ্ধে সে বিজয়ী হল।"
+      },
+      {
+        "en": "The victorious general was honored.",
+        "bn": "বিজয়ী সেনাপতিকে সম্মানিত করা হল।"
+      },
+      { "en": "She emerged victorious.", "bn": "সে বিজয়ী হয়ে আবির্ভূত হল।" },
+      {
+        "en": "He was victorious in the debate.",
+        "bn": "বিতর্কে সে বিজয়ী হল।"
+      },
+      {
+        "en": "The victorious spirit drove her.",
+        "bn": "বিজয়ী মনোভাব তাকে চালিত করল।"
+      },
+      {
+        "en": "She stood victorious at the summit.",
+        "bn": "সে শীর্ষে বিজয়ী হয়ে দাঁড়াল।"
+      },
+      {
+        "en": "He was victorious despite the odds.",
+        "bn": "প্রতিকূলতা সত্ত্বেও সে বিজয়ী হল।"
+      },
+      {
+        "en": "The victorious team lifted the cup.",
+        "bn": "বিজয়ী দল কাপ উঁচিয়ে ধরল।"
+      }
+    ],
+    "synonyms": [
+      "winning",
+      "triumphant",
+      "successful",
+      "conquering",
+      "champion"
+    ]
+  },
+  {
+    "base": "virtue",
+    "phonetic": "ˈvɜːtʃuː",
+    "meaning": "গুণ / সদ্গুণ",
+    "examples": [
+      { "en": "Patience is a great virtue.", "bn": "ধৈর্য একটি মহান গুণ।" },
+      {
+        "en": "She admired his many virtues.",
+        "bn": "সে তার অনেক সদ্গুণ প্রশংসা করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Honesty is a key virtue.", "bn": "সততা একটি মূল গুণ।" },
+      {
+        "en": "He practiced the virtue of kindness.",
+        "bn": "সে দয়ার গুণ চর্চা করল।"
+      },
+      {
+        "en": "She believed in moral virtues.",
+        "bn": "সে নৈতিক গুণে বিশ্বাস করত।"
+      },
+      { "en": "Virtue is its own reward.", "bn": "গুণই নিজের পুরস্কার।" },
+      {
+        "en": "He was praised for his virtues.",
+        "bn": "তার গুণের জন্য তাকে প্রশংসা করা হল।"
+      },
+      {
+        "en": "She taught her children virtue.",
+        "bn": "সে সন্তানদের সদ্গুণ শেখাল।"
+      },
+      {
+        "en": "Courage is considered a virtue.",
+        "bn": "সাহসকে গুণ বলে মনে করা হয়।"
+      },
+      {
+        "en": "He lived by virtue and principle.",
+        "bn": "সে গুণ ও নীতির মাধ্যমে জীবন যাপন করল।"
+      },
+      {
+        "en": "She valued virtue over wealth.",
+        "bn": "সম্পদের চেয়ে গুণকে সে মূল্য দিল।"
+      },
+      {
+        "en": "Every culture honors certain virtues.",
+        "bn": "প্রতিটি সংস্কৃতি নির্দিষ্ট গুণকে সম্মান করে।"
+      }
+    ],
+    "synonyms": ["goodness", "morality", "merit", "quality", "integrity"]
+  },
+  {
+    "base": "vow",
+    "phonetic": "vaʊ",
+    "meaning": "দৃঢ় সংকল্প",
+    "examples": [
+      {
+        "en": "She made a vow to succeed.",
+        "bn": "সে সফল হওয়ার দৃঢ় সংকল্প করল।"
+      },
+      {
+        "en": "He kept his vow of silence.",
+        "bn": "সে তার নীরবতার সংকল্প রাখল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She vowed to finish the project.",
+        "bn": "সে প্রকল্পটি শেষ করার সংকল্প করল।"
+      },
+      { "en": "He took a vow of dedication.", "bn": "সে নিষ্ঠার সংকল্প নিল।" },
+      {
+        "en": "She renewed her vow each year.",
+        "bn": "সে প্রতি বছর তার সংকল্প নবায়ন করত।"
+      },
+      {
+        "en": "His vow inspired the team.",
+        "bn": "তার সংকল্প দলকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "She stood by her vow firmly.",
+        "bn": "সে দৃঢ়ভাবে তার সংকল্পে অবিচল রইল।"
+      },
+      {
+        "en": "He broke his vow of loyalty.",
+        "bn": "সে তার আনুগত্যের সংকল্প ভাঙল।"
+      },
+      {
+        "en": "She made a vow to protect others.",
+        "bn": "সে অন্যদের রক্ষার সংকল্প করল।"
+      },
+      {
+        "en": "His vow was sacred to him.",
+        "bn": "তার সংকল্প তার কাছে পবিত্র ছিল।"
+      },
+      { "en": "She fulfilled her vow.", "bn": "সে তার সংকল্প পূরণ করল।" },
+      { "en": "He never forgot his vow.", "bn": "সে কখনো তার সংকল্প ভুলল না।" }
+    ],
+    "synonyms": ["resolve", "determination", "commitment", "pledge", "oath"]
+  },
+  {
+    "base": "vacancy",
+    "phonetic": "ˈveɪkənsi",
+    "meaning": "শূন্য পদ / ফাঁকা জায়গা",
+    "examples": [
+      {
+        "en": "There is a vacancy in the office.",
+        "bn": "অফিসে একটি শূন্য পদ আছে।"
+      },
+      {
+        "en": "She applied for the job vacancy.",
+        "bn": "সে চাকরির শূন্য পদে আবেদন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The hotel had no vacancy.",
+        "bn": "হোটেলে কোনো ফাঁকা ঘর ছিল না।"
+      },
+      {
+        "en": "He filled the vacancy quickly.",
+        "bn": "সে দ্রুত শূন্য পদ পূরণ করল।"
+      },
+      {
+        "en": "The vacancy was advertised online.",
+        "bn": "শূন্য পদটি অনলাইনে বিজ্ঞাপিত হল।"
+      },
+      {
+        "en": "She noticed the vacancy in the team.",
+        "bn": "সে দলে শূন্য পদ লক্ষ্য করল।"
+      },
+      {
+        "en": "He was hired to fill the vacancy.",
+        "bn": "শূন্য পদ পূরণ করতে তাকে নিয়োগ দেওয়া হল।"
+      },
+      {
+        "en": "The vacancy was for a senior role.",
+        "bn": "শূন্য পদটি ছিল সিনিয়র ভূমিকার জন্য।"
+      },
+      {
+        "en": "She checked for hotel vacancies.",
+        "bn": "সে হোটেলে ফাঁকা ঘর পরীক্ষা করল।"
+      },
+      {
+        "en": "The job vacancy attracted many candidates.",
+        "bn": "চাকরির শূন্য পদটি অনেক প্রার্থীকে আকর্ষণ করল।"
+      },
+      {
+        "en": "He left a vacancy when he resigned.",
+        "bn": "পদত্যাগ করে সে একটি শূন্য পদ রেখে গেল।"
+      },
+      {
+        "en": "There was emotional vacancy in his eyes.",
+        "bn": "তার চোখে মানসিক শূন্যতা ছিল।"
+      }
+    ],
+    "synonyms": ["opening", "position", "gap", "space", "void"]
+  },
+  {
+    "base": "vigilance",
+    "phonetic": "ˈvɪdʒɪləns",
+    "meaning": "সজাগতা / সতর্কতা",
+    "examples": [
+      {
+        "en": "Vigilance is required at all times.",
+        "bn": "সর্বক্ষণ সতর্কতা প্রয়োজন।"
+      },
+      {
+        "en": "She maintained constant vigilance.",
+        "bn": "সে সর্বদা সজাগতা বজায় রাখল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He praised the team's vigilance.",
+        "bn": "সে দলের সজাগতার প্রশংসা করল।"
+      },
+      {
+        "en": "Vigilance helps prevent crime.",
+        "bn": "সজাগতা অপরাধ প্রতিরোধে সাহায্য করে।"
+      },
+      {
+        "en": "She showed vigilance during the crisis.",
+        "bn": "সংকটে সে সতর্কতা দেখাল।"
+      },
+      {
+        "en": "His vigilance saved the situation.",
+        "bn": "তার সজাগতা পরিস্থিতি বাঁচাল।"
+      },
+      {
+        "en": "Cyber vigilance is important today.",
+        "bn": "আজকে সাইবার সতর্কতা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She kept vigilance over the children.",
+        "bn": "সে শিশুদের উপর নজর রাখল।"
+      },
+      {
+        "en": "He ensured vigilance at the border.",
+        "bn": "সে সীমান্তে সজাগতা নিশ্চিত করল।"
+      },
+      {
+        "en": "Vigilance and caution go together.",
+        "bn": "সজাগতা ও সাবধানতা একসাথে চলে।"
+      },
+      {
+        "en": "She appreciated the team's vigilance.",
+        "bn": "সে দলের সজাগতার প্রশংসা করল।"
+      },
+      {
+        "en": "He maintained vigilance all night.",
+        "bn": "সে সারারাত সজাগতা বজায় রাখল।"
+      }
+    ],
+    "synonyms": [
+      "alertness",
+      "watchfulness",
+      "caution",
+      "attentiveness",
+      "care"
+    ]
+  },
+  {
+    "base": "verbal",
+    "phonetic": "ˈvɜːbl",
+    "meaning": "মৌখিক / শাব্দিক",
+    "examples": [
+      {
+        "en": "She gave a verbal warning.",
+        "bn": "সে একটি মৌখিক সতর্কতা দিল।"
+      },
+      {
+        "en": "He has strong verbal skills.",
+        "bn": "তার শক্তিশালী মৌখিক দক্ষতা আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The agreement was verbal only.",
+        "bn": "চুক্তিটি শুধুমাত্র মৌখিক ছিল।"
+      },
+      {
+        "en": "She faced verbal abuse.",
+        "bn": "সে মৌখিক নির্যাতনের শিকার হল।"
+      },
+      { "en": "He gave verbal instructions.", "bn": "সে মৌখিক নির্দেশনা দিল।" },
+      {
+        "en": "The verbal exam was difficult.",
+        "bn": "মৌখিক পরীক্ষাটি কঠিন ছিল।"
+      },
+      {
+        "en": "She expressed verbally her concern.",
+        "bn": "সে মৌখিকভাবে তার উদ্বেগ প্রকাশ করল।"
+      },
+      {
+        "en": "He has a rich verbal vocabulary.",
+        "bn": "তার সমৃদ্ধ মৌখিক শব্দভান্ডার আছে।"
+      },
+      {
+        "en": "Verbal communication is vital.",
+        "bn": "মৌখিক যোগাযোগ অত্যাবশ্যক।"
+      },
+      {
+        "en": "She made a verbal commitment.",
+        "bn": "সে একটি মৌখিক প্রতিশ্রুতি দিল।"
+      },
+      { "en": "He received verbal praise.", "bn": "সে মৌখিক প্রশংসা পেল।" },
+      {
+        "en": "She is skilled in verbal reasoning.",
+        "bn": "মৌখিক যুক্তিতে সে দক্ষ।"
+      }
+    ],
+    "synonyms": ["oral", "spoken", "vocal", "said", "expressed"]
+  },
+  {
+    "base": "vibrate",
+    "phonetic": "vaɪˈbreɪt",
+    "meaning": "কম্পন করা / কাঁপানো",
+    "examples": [
+      {
+        "en": "Her phone vibrated in her pocket.",
+        "bn": "তার পকেটে ফোন কম্পন করল।"
+      },
+      {
+        "en": "The floor vibrated with the music.",
+        "bn": "সঙ্গীতে মেঝে কেঁপে উঠল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He felt the ground vibrate.", "bn": "সে মাটি কম্পন অনুভব করল।" },
+      { "en": "She vibrated with excitement.", "bn": "উত্তেজনায় সে কাঁপছিল।" },
+      {
+        "en": "The strings vibrated beautifully.",
+        "bn": "তারগুলো সুন্দরভাবে কম্পিত হল।"
+      },
+      {
+        "en": "His voice vibrated with emotion.",
+        "bn": "আবেগে তার কণ্ঠস্বর কম্পিত হল।"
+      },
+      { "en": "The engine vibrated loudly.", "bn": "ইঞ্জিনটি জোরে কম্পন করল।" },
+      { "en": "She set her phone to vibrate.", "bn": "সে ফোন কম্পনে সেট করল।" },
+      {
+        "en": "The loudspeakers vibrated the walls.",
+        "bn": "লাউডস্পিকার দেয়াল কাঁপাল।"
+      },
+      {
+        "en": "He vibrated with nervous energy.",
+        "bn": "নার্ভাস শক্তিতে সে কম্পিত হল।"
+      },
+      {
+        "en": "The bridge vibrated during the storm.",
+        "bn": "ঝড়ের সময় সেতু কেঁপে উঠল।"
+      },
+      {
+        "en": "She felt the music vibrate within her.",
+        "bn": "সে ভেতর থেকে সঙ্গীতের কম্পন অনুভব করল।"
+      }
+    ],
+    "synonyms": ["shake", "quiver", "tremble", "oscillate", "pulse"]
+  },
+  {
+    "base": "vocation",
+    "phonetic": "vəʊˈkeɪʃn",
+    "meaning": "পেশা / ডাক / আহ্বান",
+    "examples": [
+      {
+        "en": "Teaching is her true vocation.",
+        "bn": "শিক্ষকতা তার সত্যিকারের পেশা।"
+      },
+      {
+        "en": "He found his vocation in art.",
+        "bn": "সে শিল্পে তার আহ্বান খুঁজে পেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She followed her vocation with passion.",
+        "bn": "সে আবেগ নিয়ে তার পেশা অনুসরণ করল।"
+      },
+      {
+        "en": "He discovered his vocation late.",
+        "bn": "সে দেরিতে তার পেশা আবিষ্কার করল।"
+      },
+      { "en": "Nursing is a noble vocation.", "bn": "নার্সিং একটি মহৎ পেশা।" },
+      {
+        "en": "She dedicated herself to her vocation.",
+        "bn": "সে তার পেশায় নিজেকে উৎসর্গ করল।"
+      },
+      {
+        "en": "His vocation was to serve others.",
+        "bn": "অন্যদের সেবা করা ছিল তার আহ্বান।"
+      },
+      {
+        "en": "She found meaning in her vocation.",
+        "bn": "সে তার পেশায় অর্থ খুঁজে পেল।"
+      },
+      {
+        "en": "He pursued his vocation despite obstacles.",
+        "bn": "বাধা সত্ত্বেও সে তার পেশা অনুসরণ করল।"
+      },
+      {
+        "en": "The vocation of a soldier is demanding.",
+        "bn": "একজন সৈনিকের পেশা চাহিদাপূর্ণ।"
+      },
+      {
+        "en": "She trained for her vocation for years.",
+        "bn": "সে বছরের পর বছর তার পেশার জন্য প্রশিক্ষণ নিল।"
+      },
+      {
+        "en": "His vocation brought him joy.",
+        "bn": "তার পেশা তাকে আনন্দ দিয়েছিল।"
+      }
+    ],
+    "synonyms": ["calling", "career", "profession", "occupation", "purpose"]
+  },
+  {
+    "base": "valuation",
+    "phonetic": "ˌvæljuˈeɪʃn",
+    "meaning": "মূল্যায়ন / মূল্যনির্ধারণ",
+    "examples": [
+      {
+        "en": "The property valuation was high.",
+        "bn": "সম্পত্তির মূল্যায়ন বেশি ছিল।"
+      },
+      {
+        "en": "She asked for a business valuation.",
+        "bn": "সে একটি ব্যবসার মূল্যায়ন চাইল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The art piece had a high valuation.",
+        "bn": "শিল্পকর্মটির উচ্চ মূল্যায়ন ছিল।"
+      },
+      {
+        "en": "He conducted a fair valuation.",
+        "bn": "সে একটি ন্যায্য মূল্যায়ন করল।"
+      },
+      {
+        "en": "Valuation helps determine market price.",
+        "bn": "মূল্যায়ন বাজার মূল্য নির্ধারণে সাহায্য করে।"
+      },
+      {
+        "en": "She reviewed the asset valuation.",
+        "bn": "সে সম্পদের মূল্যায়ন পর্যালোচনা করল।"
+      },
+      {
+        "en": "He accepted the low valuation.",
+        "bn": "সে কম মূল্যায়ন মেনে নিল।"
+      },
+      {
+        "en": "The startup received a high valuation.",
+        "bn": "স্টার্টআপটি উচ্চ মূল্যায়ন পেল।"
+      },
+      {
+        "en": "She disagreed with the valuation.",
+        "bn": "সে মূল্যায়নের সাথে একমত হল না।"
+      },
+      {
+        "en": "He completed the insurance valuation.",
+        "bn": "সে বিমার মূল্যায়ন সম্পন্ন করল।"
+      },
+      {
+        "en": "The company valuation doubled.",
+        "bn": "কোম্পানির মূল্যায়ন দ্বিগুণ হল।"
+      },
+      {
+        "en": "She sought an independent valuation.",
+        "bn": "সে একটি স্বাধীন মূল্যায়ন চাইল।"
+      }
+    ],
+    "synonyms": [
+      "assessment",
+      "appraisal",
+      "estimation",
+      "evaluation",
+      "pricing"
+    ]
+  },
+  {
+    "base": "vandalism",
+    "phonetic": "ˈvændəlɪzəm",
+    "meaning": "ভাঙচুর / ধ্বংসলীলা",
+    "examples": [
+      {
+        "en": "Vandalism damaged the park.",
+        "bn": "ভাঙচুর পার্কটির ক্ষতি করল।"
+      },
+      {
+        "en": "She reported the vandalism to police.",
+        "bn": "সে পুলিশকে ভাঙচুরের কথা জানাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was arrested for vandalism.",
+        "bn": "ভাঙচুরের জন্য তাকে গ্রেফতার করা হল।"
+      },
+      {
+        "en": "Vandalism ruins public property.",
+        "bn": "ভাঙচুর সর্বজনীন সম্পত্তি নষ্ট করে।"
+      },
+      {
+        "en": "The school wall was defaced by vandalism.",
+        "bn": "স্কুলের দেয়াল ভাঙচুরে নষ্ট হয়েছিল।"
+      },
+      {
+        "en": "She worked to stop vandalism.",
+        "bn": "সে ভাঙচুর বন্ধে কাজ করল।"
+      },
+      {
+        "en": "Vandalism costs taxpayers money.",
+        "bn": "ভাঙচুর করদাতাদের অর্থ নষ্ট করে।"
+      },
+      {
+        "en": "He was charged with vandalism.",
+        "bn": "তার বিরুদ্ধে ভাঙচুরের অভিযোগ আনা হল।"
+      },
+      {
+        "en": "The historic building suffered from vandalism.",
+        "bn": "ঐতিহাসিক ভবনটি ভাঙচুরের শিকার হল।"
+      },
+      {
+        "en": "Cameras helped reduce vandalism.",
+        "bn": "ক্যামেরা ভাঙচুর কমাতে সাহায্য করল।"
+      },
+      {
+        "en": "She painted over the vandalism.",
+        "bn": "সে ভাঙচুরের উপরে রং করল।"
+      },
+      {
+        "en": "Vandalism is a criminal offense.",
+        "bn": "ভাঙচুর একটি অপরাধমূলক কাজ।"
+      }
+    ],
+    "synonyms": ["destruction", "sabotage", "defacement", "damage", "wrecking"]
+  },
+  {
+    "base": "vain",
+    "phonetic": "veɪn",
+    "meaning": "অহংকারী / ব্যর্থ / নিষ্ফল",
+    "examples": [
+      {
+        "en": "She was vain about her appearance.",
+        "bn": "চেহারা নিয়ে সে অহংকারী ছিল।"
+      },
+      { "en": "His efforts were in vain.", "bn": "তার প্রচেষ্টা নিষ্ফল ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She tried in vain to stop him.",
+        "bn": "সে তাকে থামাতে ব্যর্থ চেষ্টা করল।"
+      },
+      {
+        "en": "He was vain about his success.",
+        "bn": "সাফল্য নিয়ে সে অহংকারী ছিল।"
+      },
+      {
+        "en": "All her attempts were in vain.",
+        "bn": "তার সমস্ত প্রচেষ্টা নিষ্ফল ছিল।"
+      },
+      {
+        "en": "He searched in vain for the key.",
+        "bn": "সে চাবির জন্য বৃথা খুঁজল।"
+      },
+      {
+        "en": "She was too vain to admit mistakes.",
+        "bn": "ভুল স্বীকার করার জন্য সে অনেক বেশি অহংকারী ছিল।"
+      },
+      {
+        "en": "His vain attempt failed.",
+        "bn": "তার নিষ্ফল প্রচেষ্টা ব্যর্থ হল।"
+      },
+      {
+        "en": "Don't take God's name in vain.",
+        "bn": "ঈশ্বরের নাম অযথা নেবেন না।"
+      },
+      { "en": "She called out in vain.", "bn": "সে বৃথা ডাক দিল।" },
+      {
+        "en": "He was vain about his looks.",
+        "bn": "চেহারা নিয়ে সে অহংকারী ছিল।"
+      },
+      {
+        "en": "Their sacrifice was not in vain.",
+        "bn": "তাদের আত্মত্যাগ নিষ্ফল ছিল না।"
+      }
+    ],
+    "synonyms": ["conceited", "arrogant", "fruitless", "futile", "useless"]
+  },
+  {
+    "base": "vengeance",
+    "phonetic": "ˈvendʒəns",
+    "meaning": "প্রতিশোধ / প্রতিহিংসা",
+    "examples": [
+      {
+        "en": "She sought vengeance for the wrong.",
+        "bn": "অন্যায়ের জন্য সে প্রতিশোধ চাইল।"
+      },
+      {
+        "en": "He vowed to take vengeance.",
+        "bn": "সে প্রতিশোধ নেওয়ার শপথ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Vengeance only leads to more pain.",
+        "bn": "প্রতিশোধ শুধু আরও কষ্টের দিকে নিয়ে যায়।"
+      },
+      { "en": "She swore vengeance.", "bn": "সে প্রতিশোধের শপথ নিল।" },
+      {
+        "en": "He sought vengeance blindly.",
+        "bn": "সে অন্ধভাবে প্রতিশোধ খুঁজল।"
+      },
+      {
+        "en": "The villain returned with a vengeance.",
+        "bn": "খলনায়ক প্রতিহিংসা নিয়ে ফিরে এল।"
+      },
+      {
+        "en": "She gave up thoughts of vengeance.",
+        "bn": "সে প্রতিশোধের চিন্তা ছেড়ে দিল।"
+      },
+      {
+        "en": "Vengeance never solves problems.",
+        "bn": "প্রতিশোধ কখনো সমস্যার সমাধান করে না।"
+      },
+      {
+        "en": "He carried out his vengeance.",
+        "bn": "সে তার প্রতিশোধ কার্যকর করল।"
+      },
+      {
+        "en": "She chose forgiveness over vengeance.",
+        "bn": "প্রতিশোধের বদলে সে ক্ষমা বেছে নিল।"
+      },
+      {
+        "en": "The novel is about vengeance.",
+        "bn": "উপন্যাসটি প্রতিশোধ নিয়ে।"
+      },
+      {
+        "en": "He carried out his vengeance silently.",
+        "bn": "সে নীরবে তার প্রতিশোধ কার্যকর করল।"
+      }
+    ],
+    "synonyms": ["revenge", "retaliation", "retribution", "reprisal", "payback"]
+  },
+  {
+    "base": "verify",
+    "phonetic": "ˈverɪfaɪ",
+    "meaning": "সত্যতা নিশ্চিত করা",
+    "examples": [
+      {
+        "en": "Verify the source before trusting it.",
+        "bn": "বিশ্বাস করার আগে উৎস যাচাই করুন।"
+      },
+      {
+        "en": "She verified his story.",
+        "bn": "সে তার গল্পের সত্যতা যাচাই করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He verified the claim with evidence.",
+        "bn": "সে প্রমাণ দিয়ে দাবিটির সত্যতা যাচাই করল।"
+      },
+      { "en": "Please verify the information.", "bn": "তথ্যটি যাচাই করুন।" },
+      {
+        "en": "She verified her phone number.",
+        "bn": "সে তার ফোন নম্বর যাচাই করল।"
+      },
+      {
+        "en": "He verified the work was done.",
+        "bn": "সে কাজ শেষ হয়েছে কিনা যাচাই করল।"
+      },
+      {
+        "en": "They verified the results together.",
+        "bn": "তারা একসাথে ফলাফল যাচাই করল।"
+      },
+      {
+        "en": "She asked him to verify the details.",
+        "bn": "সে তাকে বিবরণ যাচাই করতে বলল।"
+      },
+      { "en": "He verified the authenticity.", "bn": "সে সত্যতা যাচাই করল।" },
+      {
+        "en": "The company verifies all claims.",
+        "bn": "কোম্পানি সমস্ত দাবি যাচাই করে।"
+      },
+      {
+        "en": "She verified the contract terms.",
+        "bn": "সে চুক্তির শর্তগুলো যাচাই করল।"
+      },
+      {
+        "en": "He could not verify the statement.",
+        "bn": "সে বিবৃতিটি যাচাই করতে পারল না।"
+      }
+    ],
+    "synonyms": ["confirm", "substantiate", "prove", "check", "validate"]
+  },
+  {
+    "base": "vigor",
+    "phonetic": "ˈvɪɡər",
+    "meaning": "শক্তি / প্রাণশক্তি",
+    "examples": [
+      {
+        "en": "She attacked the task with vigor.",
+        "bn": "সে শক্তি দিয়ে কাজটিতে ঝাঁপিয়ে পড়ল।"
+      },
+      {
+        "en": "He was full of youthful vigor.",
+        "bn": "সে যৌবনের প্রাণশক্তিতে পূর্ণ ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She worked with great vigor.",
+        "bn": "সে অনেক শক্তি নিয়ে কাজ করল।"
+      },
+      {
+        "en": "His vigor surprised everyone.",
+        "bn": "তার প্রাণশক্তি সবাইকে অবাক করল।"
+      },
+      {
+        "en": "The team competed with vigor.",
+        "bn": "দলটি শক্তি নিয়ে প্রতিযোগিতা করল।"
+      },
+      {
+        "en": "She regained her vigor after rest.",
+        "bn": "বিশ্রামের পরে সে তার শক্তি ফিরে পেল।"
+      },
+      {
+        "en": "He defended his position with vigor.",
+        "bn": "সে শক্তি নিয়ে তার অবস্থান রক্ষা করল।"
+      },
+      {
+        "en": "She brought new vigor to the project.",
+        "bn": "সে প্রকল্পে নতুন প্রাণশক্তি আনল।"
+      },
+      {
+        "en": "He acted with the vigor of youth.",
+        "bn": "সে যৌবনের শক্তি নিয়ে কাজ করল।"
+      },
+      {
+        "en": "Her vigor motivated the team.",
+        "bn": "তার প্রাণশক্তি দলকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "He approached problems with vigor.",
+        "bn": "সে শক্তি নিয়ে সমস্যায় এগিয়ে গেল।"
+      },
+      {
+        "en": "The athlete displayed great vigor.",
+        "bn": "খেলোয়াড়টি অনেক শক্তি প্রদর্শন করল।"
+      }
+    ],
+    "synonyms": ["energy", "vitality", "strength", "zeal", "stamina"]
+  },
+  {
+    "base": "vindicate",
+    "phonetic": "ˈvɪndɪkeɪt",
+    "meaning": "ন্যায্যতা প্রমাণ করা / মুক্ত করা",
+    "examples": [
+      {
+        "en": "She was vindicated by the court.",
+        "bn": "আদালত তাকে ন্যায্যতা দিল।"
+      },
+      {
+        "en": "He was vindicated after years.",
+        "bn": "বছরের পর বছর পরে তার ন্যায্যতা প্রমাণিত হল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The evidence vindicated him.",
+        "bn": "প্রমাণ তার ন্যায্যতা প্রমাণ করল।"
+      },
+      {
+        "en": "She felt vindicated at last.",
+        "bn": "অবশেষে সে ন্যায্যতা অনুভব করল।"
+      },
+      {
+        "en": "He was fully vindicated.",
+        "bn": "সে সম্পূর্ণভাবে নির্দোষ প্রমাণিত হল।"
+      },
+      {
+        "en": "The truth vindicated her.",
+        "bn": "সত্য তার ন্যায্যতা প্রমাণ করল।"
+      },
+      {
+        "en": "She vindicated her decision.",
+        "bn": "সে তার সিদ্ধান্তের ন্যায্যতা প্রমাণ করল।"
+      },
+      {
+        "en": "He sought to vindicate his name.",
+        "bn": "সে তার নামের ন্যায্যতা প্রমাণ করতে চাইল।"
+      },
+      {
+        "en": "She vindicated herself through action.",
+        "bn": "সে কাজের মাধ্যমে নিজের ন্যায্যতা প্রমাণ করল।"
+      },
+      {
+        "en": "History vindicated his theory.",
+        "bn": "ইতিহাস তার তত্ত্বের ন্যায্যতা দিল।"
+      },
+      {
+        "en": "He was vindicated in the eyes of many.",
+        "bn": "অনেকের চোখে তার ন্যায্যতা প্রমাণিত হল।"
+      },
+      {
+        "en": "She worked to vindicate the truth.",
+        "bn": "সে সত্যের ন্যায্যতা প্রমাণে কাজ করল।"
+      }
+    ],
+    "synonyms": ["justify", "clear", "absolve", "exonerate", "defend"]
+  },
+  {
+    "base": "voracious",
+    "phonetic": "vəˈreɪʃəs",
+    "meaning": "অতৃপ্ত / লোলুপ",
+    "examples": [
+      { "en": "She is a voracious reader.", "bn": "সে একজন অতৃপ্ত পাঠক।" },
+      { "en": "He had a voracious appetite.", "bn": "তার লোলুপ ক্ষুধা ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She had a voracious thirst for knowledge.",
+        "bn": "তার জ্ঞানের অতৃপ্ত তৃষ্ণা ছিল।"
+      },
+      {
+        "en": "He was voracious in learning.",
+        "bn": "শেখার ব্যাপারে সে অতৃপ্ত ছিল।"
+      },
+      {
+        "en": "The voracious animal ate everything.",
+        "bn": "লোলুপ প্রাণীটি সব খেয়ে ফেলল।"
+      },
+      {
+        "en": "She was voracious about new information.",
+        "bn": "নতুন তথ্যের ব্যাপারে সে অতৃপ্ত ছিল।"
+      },
+      { "en": "He had a voracious curiosity.", "bn": "তার অতৃপ্ত কৌতূহল ছিল।" },
+      {
+        "en": "She read books with voracious hunger.",
+        "bn": "সে অতৃপ্ত ক্ষুধায় বই পড়ল।"
+      },
+      {
+        "en": "His voracious work ethic paid off.",
+        "bn": "তার অতৃপ্ত কর্মনীতি সফল হল।"
+      },
+      {
+        "en": "She had a voracious appetite for success.",
+        "bn": "সাফল্যের প্রতি তার অতৃপ্ত ক্ষুধা ছিল।"
+      },
+      {
+        "en": "He consumed ideas with voracious speed.",
+        "bn": "সে অতৃপ্ত গতিতে ধারণা গ্রহণ করল।"
+      },
+      {
+        "en": "She remained voracious throughout life.",
+        "bn": "সারাজীবন সে অতৃপ্ত থাকল।"
+      }
+    ],
+    "synonyms": ["insatiable", "greedy", "hungry", "eager", "ravenous"]
+  },
+  {
+    "base": "vindictive",
+    "phonetic": "vɪnˈdɪktɪv",
+    "meaning": "প্রতিহিংসাপরায়ণ",
+    "examples": [
+      {
+        "en": "She was vindictive toward her enemy.",
+        "bn": "শত্রুর প্রতি সে প্রতিহিংসাপরায়ণ ছিল।"
+      },
+      {
+        "en": "He made a vindictive remark.",
+        "bn": "সে একটি প্রতিহিংসামূলক মন্তব্য করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The vindictive act shocked everyone.",
+        "bn": "প্রতিহিংসামূলক কাজটি সবাইকে হতবাক করল।"
+      },
+      {
+        "en": "She avoided being vindictive.",
+        "bn": "সে প্রতিহিংসাপরায়ণ হওয়া এড়িয়ে চলল।"
+      },
+      {
+        "en": "He was vindictive in his criticism.",
+        "bn": "সমালোচনায় সে প্রতিহিংসাপরায়ণ ছিল।"
+      },
+      {
+        "en": "Her vindictive behavior hurt others.",
+        "bn": "তার প্রতিহিংসাপরায়ণ আচরণ অন্যদের কষ্ট দিল।"
+      },
+      {
+        "en": "He grew vindictive after the betrayal.",
+        "bn": "বিশ্বাসঘাতকতার পরে সে প্রতিহিংসাপরায়ণ হয়ে উঠল।"
+      },
+      {
+        "en": "She sought vindictive measures.",
+        "bn": "সে প্রতিহিংসামূলক পদক্ষেপ খুঁজল।"
+      },
+      {
+        "en": "He was warned against being vindictive.",
+        "bn": "তাকে প্রতিহিংসাপরায়ণ হওয়ার বিরুদ্ধে সতর্ক করা হল।"
+      },
+      {
+        "en": "Her vindictive plan backfired.",
+        "bn": "তার প্রতিহিংসামূলক পরিকল্পনা উল্টো হল।"
+      },
+      {
+        "en": "He chose not to be vindictive.",
+        "bn": "সে প্রতিহিংসাপরায়ণ না হওয়া বেছে নিল।"
+      },
+      {
+        "en": "She forgave instead of being vindictive.",
+        "bn": "প্রতিহিংসাপরায়ণ না হয়ে সে ক্ষমা করল।"
+      }
+    ],
+    "synonyms": ["spiteful", "revengeful", "malicious", "resentful", "bitter"]
+  },
+  {
+    "base": "vanity",
+    "phonetic": "ˈvænɪti",
+    "meaning": "অহংকার / অহমিকা",
+    "examples": [
+      {
+        "en": "Vanity led to his downfall.",
+        "bn": "অহংকার তার পতনের কারণ হল।"
+      },
+      {
+        "en": "She was criticized for her vanity.",
+        "bn": "অহমিকার জন্য সে সমালোচিত হল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He spent hours on his vanity.",
+        "bn": "সে ঘণ্টার পর ঘণ্টা অহংকারে ব্যয় করল।"
+      },
+      {
+        "en": "Vanity prevented her from learning.",
+        "bn": "অহমিকা তাকে শিখতে বাধা দিল।"
+      },
+      { "en": "She overcame her vanity.", "bn": "সে তার অহংকার কাটিয়ে উঠল।" },
+      { "en": "His vanity was well known.", "bn": "তার অহমিকা সুপরিচিত ছিল।" },
+      { "en": "Vanity is an empty quality.", "bn": "অহংকার একটি ফাঁকা গুণ।" },
+      {
+        "en": "She stared at her reflection with vanity.",
+        "bn": "সে অহংকারে নিজের প্রতিফলন দেখল।"
+      },
+      {
+        "en": "He was blinded by his own vanity.",
+        "bn": "সে তার নিজের অহংকারে অন্ধ ছিল।"
+      },
+      {
+        "en": "She placed the mirror on the vanity.",
+        "bn": "সে আয়না সাজানোর টেবিলে রাখল।"
+      },
+      {
+        "en": "His vanity irritated his friends.",
+        "bn": "তার অহমিকা বন্ধুদের বিরক্ত করল।"
+      },
+      {
+        "en": "She learned that vanity is meaningless.",
+        "bn": "সে শিখল অহংকার অর্থহীন।"
+      }
+    ],
+    "synonyms": ["arrogance", "conceit", "egotism", "pride", "self-love"]
+  },
+  {
+    "base": "venerate",
+    "phonetic": "ˈvenəreɪt",
+    "meaning": "শ্রদ্ধা করা / সম্মান করা",
+    "examples": [
+      { "en": "She venerated her elders.", "bn": "সে তার বড়দের শ্রদ্ধা করল।" },
+      {
+        "en": "He is venerated by his community.",
+        "bn": "তার সমাজে সে শ্রদ্ধেয়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They venerated the memory of the founder.",
+        "bn": "তারা প্রতিষ্ঠাতার স্মৃতিকে শ্রদ্ধা জানাল।"
+      },
+      {
+        "en": "She venerated her teacher deeply.",
+        "bn": "সে তার শিক্ষককে গভীরভাবে শ্রদ্ধা করল।"
+      },
+      {
+        "en": "The shrine is venerated by many.",
+        "bn": "তীর্থস্থানটি অনেকে শ্রদ্ধা করেন।"
+      },
+      {
+        "en": "He venerated tradition and culture.",
+        "bn": "সে ঐতিহ্য ও সংস্কৃতিকে শ্রদ্ধা করল।"
+      },
+      {
+        "en": "She was venerated as a saint.",
+        "bn": "তাকে সাধু হিসেবে শ্রদ্ধা করা হত।"
+      },
+      {
+        "en": "He venerated knowledge above all.",
+        "bn": "সে সবকিছুর উপরে জ্ঞানকে শ্রদ্ধা করত।"
+      },
+      {
+        "en": "The people venerated their ancestors.",
+        "bn": "মানুষেরা তাদের পূর্বপুরুষদের শ্রদ্ধা করত।"
+      },
+      {
+        "en": "She venerated his dedication.",
+        "bn": "সে তার নিষ্ঠাকে শ্রদ্ধা করল।"
+      },
+      {
+        "en": "He was venerated for his wisdom.",
+        "bn": "তার জ্ঞানের জন্য সে শ্রদ্ধেয় ছিল।"
+      },
+      {
+        "en": "The elderly are venerated in this culture.",
+        "bn": "এই সংস্কৃতিতে বৃদ্ধদের শ্রদ্ধা করা হয়।"
+      }
+    ],
+    "synonyms": ["revere", "respect", "honor", "worship", "esteem"]
+  },
+  {
+    "base": "vivify",
+    "phonetic": "ˈvɪvɪfaɪ",
+    "meaning": "প্রাণবন্ত করা / জীবন দেওয়া",
+    "examples": [
+      {
+        "en": "Music can vivify the soul.",
+        "bn": "সঙ্গীত আত্মাকে প্রাণবন্ত করতে পারে।"
+      },
+      {
+        "en": "She vivified the dull story.",
+        "bn": "সে নিরস গল্পটিকে প্রাণবন্ত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He vivified the classroom discussion.",
+        "bn": "সে শ্রেণিকক্ষের আলোচনাকে প্রাণবন্ত করল।"
+      },
+      {
+        "en": "She vivified the presentation with examples.",
+        "bn": "উদাহরণ দিয়ে সে উপস্থাপনাকে প্রাণবন্ত করল।"
+      },
+      {
+        "en": "Color can vivify a painting.",
+        "bn": "রঙ একটি চিত্রকর্মকে প্রাণবন্ত করতে পারে।"
+      },
+      {
+        "en": "He vivified the team with his speech.",
+        "bn": "বক্তৃতা দিয়ে সে দলকে প্রাণবন্ত করল।"
+      },
+      {
+        "en": "She vivified the old tradition.",
+        "bn": "সে পুরনো ঐতিহ্যকে প্রাণবন্ত করল।"
+      },
+      {
+        "en": "He vivified the narrative with details.",
+        "bn": "বিবরণ দিয়ে সে আখ্যানকে প্রাণবন্ত করল।"
+      },
+      {
+        "en": "Nature vivified her creativity.",
+        "bn": "প্রকৃতি তার সৃজনশীলতাকে প্রাণবন্ত করল।"
+      },
+      {
+        "en": "She vivified the event with energy.",
+        "bn": "শক্তি দিয়ে সে অনুষ্ঠানকে প্রাণবন্ত করল।"
+      },
+      {
+        "en": "He vivified the character brilliantly.",
+        "bn": "সে চরিত্রটিকে দারুণভাবে প্রাণবন্ত করল।"
+      },
+      {
+        "en": "Passion vivifies any work.",
+        "bn": "আবেগ যেকোনো কাজকে প্রাণবন্ত করে।"
+      }
+    ],
+    "synonyms": ["enliven", "animate", "invigorate", "inspire", "energize"]
+  },
+  {
+    "base": "venture",
+    "phonetic": "ˈventʃər",
+    "meaning": "নতুন কিছু করার চেষ্টা",
+    "examples": [
+      {
+        "en": "He ventured a new approach.",
+        "bn": "সে একটি নতুন পদ্ধতির চেষ্টা করল।"
+      },
+      {
+        "en": "She ventured to change careers.",
+        "bn": "সে ক্যারিয়ার পরিবর্তনের চেষ্টা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He ventured to learn coding.",
+        "bn": "সে কোডিং শেখার চেষ্টা করল।"
+      },
+      {
+        "en": "She ventured into photography.",
+        "bn": "সে ফটোগ্রাফিতে পদক্ষেপ নিল।"
+      },
+      {
+        "en": "He ventured to open a bakery.",
+        "bn": "সে বেকারি খোলার চেষ্টা করল।"
+      },
+      {
+        "en": "She ventured to start her blog.",
+        "bn": "সে ব্লগ শুরু করার চেষ্টা করল।"
+      },
+      {
+        "en": "He ventured into online business.",
+        "bn": "সে অনলাইন ব্যবসায় পদক্ষেপ নিল।"
+      },
+      { "en": "She ventured into farming.", "bn": "সে কৃষিকাজে পদক্ষেপ নিল।" },
+      {
+        "en": "He ventured to speak a new language.",
+        "bn": "সে নতুন ভাষায় কথা বলার চেষ্টা করল।"
+      },
+      {
+        "en": "She ventured into the world of design.",
+        "bn": "সে ডিজাইনের জগতে পদক্ষেপ নিল।"
+      },
+      {
+        "en": "He ventured to publish his work.",
+        "bn": "সে তার কাজ প্রকাশ করার চেষ্টা করল।"
+      },
+      {
+        "en": "She ventured to make a change.",
+        "bn": "সে পরিবর্তন আনার চেষ্টা করল।"
+      }
+    ],
+    "synonyms": ["try", "attempt", "explore", "embark", "pioneer"]
+  },
+  {
+    "base": "vexing",
+    "phonetic": "ˈveksɪŋ",
+    "meaning": "বিরক্তিকর / উদ্বেগজনক",
+    "examples": [
+      { "en": "The problem was vexing.", "bn": "সমস্যাটি বিরক্তিকর ছিল।" },
+      {
+        "en": "She found his behavior vexing.",
+        "bn": "তার আচরণ সে বিরক্তিকর মনে করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He faced a vexing challenge.",
+        "bn": "সে একটি উদ্বেগজনক চ্যালেঞ্জের মুখে পড়ল।"
+      },
+      {
+        "en": "The vexing issue remained unresolved.",
+        "bn": "বিরক্তিকর বিষয়টি অমীমাংসিত থাকল।"
+      },
+      {
+        "en": "She found the wait vexing.",
+        "bn": "অপেক্ষাটি সে বিরক্তিকর মনে করল।"
+      },
+      {
+        "en": "The vexing question haunted him.",
+        "bn": "বিরক্তিকর প্রশ্নটি তাকে তাড়া করল।"
+      },
+      {
+        "en": "It was a vexing situation.",
+        "bn": "এটি একটি উদ্বেগজনক পরিস্থিতি ছিল।"
+      },
+      {
+        "en": "She dealt with the vexing task calmly.",
+        "bn": "সে শান্তভাবে বিরক্তিকর কাজটি সামলাল।"
+      },
+      {
+        "en": "The vexing noise kept her awake.",
+        "bn": "বিরক্তিকর শব্দটি তাকে জাগিয়ে রাখল।"
+      },
+      {
+        "en": "He found the delay vexing.",
+        "bn": "বিলম্বটি সে বিরক্তিকর মনে করল।"
+      },
+      {
+        "en": "She was frustrated by the vexing process.",
+        "bn": "বিরক্তিকর প্রক্রিয়ায় সে হতাশ হল।"
+      },
+      {
+        "en": "The vexing problem needed a fresh approach.",
+        "bn": "বিরক্তিকর সমস্যার নতুন পদ্ধতি দরকার ছিল।"
+      }
+    ],
+    "synonyms": [
+      "annoying",
+      "frustrating",
+      "troublesome",
+      "irritating",
+      "worrying"
+    ]
+  },
+  {
+    "base": "validate",
+    "phonetic": "ˈvælɪdeɪt",
+    "meaning": "সমর্থন করা / স্বীকার করা",
+    "examples": [
+      {
+        "en": "She validated his concerns.",
+        "bn": "সে তার উদ্বেগকে সমর্থন করল।"
+      },
+      {
+        "en": "He needed someone to validate his effort.",
+        "bn": "তার প্রচেষ্টাকে স্বীকার করার জন্য কাউকে দরকার ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The teacher validated her work.",
+        "bn": "শিক্ষক তার কাজকে স্বীকৃতি দিলেন।"
+      },
+      {
+        "en": "She validated her colleague's idea.",
+        "bn": "সে সহকর্মীর ধারণাকে সমর্থন করল।"
+      },
+      {
+        "en": "He validated the results carefully.",
+        "bn": "সে সাবধানে ফলাফল নিশ্চিত করল।"
+      },
+      {
+        "en": "She felt validated by his words.",
+        "bn": "তার কথায় সে স্বীকৃত অনুভব করল।"
+      },
+      {
+        "en": "He validated the importance of self-care.",
+        "bn": "সে আত্মযত্নের গুরুত্ব স্বীকার করল।"
+      },
+      {
+        "en": "She validated his point in the meeting.",
+        "bn": "সভায় সে তার বক্তব্য সমর্থন করল।"
+      },
+      {
+        "en": "They validated each other's efforts.",
+        "bn": "তারা একে অপরের প্রচেষ্টা স্বীকার করল।"
+      },
+      {
+        "en": "He validated her perspective.",
+        "bn": "সে তার দৃষ্টিভঙ্গি সমর্থন করল।"
+      },
+      {
+        "en": "She validated her team's contribution.",
+        "bn": "সে তার দলের অবদান স্বীকার করল।"
+      },
+      {
+        "en": "He validated the theory with experiments.",
+        "bn": "সে পরীক্ষা দিয়ে তত্ত্বটি নিশ্চিত করল।"
+      }
+    ],
+    "synonyms": ["support", "acknowledge", "affirm", "recognize", "back"]
+  },
+  {
+    "base": "virtuous",
+    "phonetic": "ˈvɜːtʃuəs",
+    "meaning": "সদাচারী / নৈতিক",
+    "examples": [
+      { "en": "She is a virtuous person.", "bn": "সে একজন সদাচারী মানুষ।" },
+      { "en": "He led a virtuous life.", "bn": "সে একটি নৈতিক জীবন যাপন করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "A virtuous leader inspires respect.",
+        "bn": "একজন সদাচারী নেতা সম্মান অনুপ্রাণিত করেন।"
+      },
+      {
+        "en": "She was virtuous in all her ways.",
+        "bn": "তার সব দিক থেকে সে সদাচারী ছিল।"
+      },
+      {
+        "en": "He raised his children to be virtuous.",
+        "bn": "সে সন্তানদের সদাচারী হয়ে উঠতে মানুষ করল।"
+      },
+      {
+        "en": "A virtuous act brings inner peace.",
+        "bn": "একটি সদাচারী কাজ অভ্যন্তরীণ শান্তি আনে।"
+      },
+      { "en": "She was virtuous and kind.", "bn": "সে সদাচারী ও দয়ালু ছিল।" },
+      {
+        "en": "He admired virtuous people.",
+        "bn": "সে সদাচারী মানুষদের প্রশংসা করত।"
+      },
+      {
+        "en": "Virtuous living requires discipline.",
+        "bn": "সদাচারী জীবনে শৃঙ্খলা দরকার।"
+      },
+      {
+        "en": "She believed in being virtuous.",
+        "bn": "সদাচারী হওয়ায় সে বিশ্বাস করত।"
+      },
+      {
+        "en": "He remained virtuous under pressure.",
+        "bn": "চাপের মধ্যেও সে সদাচারী থাকল।"
+      },
+      {
+        "en": "Virtuous behavior builds trust.",
+        "bn": "সদাচারী আচরণ বিশ্বাস গড়ে।"
+      }
+    ],
+    "synonyms": ["moral", "ethical", "righteous", "good", "honorable"]
+  },
+  {
+    "base": "vow",
+    "phonetic": "vaʊ",
+    "meaning": "অঙ্গীকার / প্রতিশ্রুতি",
+    "examples": [
+      {
+        "en": "She made a vow to help others.",
+        "bn": "সে অন্যদের সাহায্য করার অঙ্গীকার করল।"
+      },
+      { "en": "He fulfilled his vow.", "bn": "সে তার অঙ্গীকার পূরণ করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She kept her vow faithfully.",
+        "bn": "সে বিশ্বস্তভাবে তার অঙ্গীকার রাখল।"
+      },
+      { "en": "He broke his vow.", "bn": "সে তার অঙ্গীকার ভাঙল।" },
+      {
+        "en": "They took their vows at the altar.",
+        "bn": "তারা বেদিতে তাদের বিয়ের শপথ নিল।"
+      },
+      {
+        "en": "She made a vow of loyalty.",
+        "bn": "সে আনুগত্যের অঙ্গীকার করল।"
+      },
+      { "en": "He took a vow of patience.", "bn": "সে ধৈর্যের অঙ্গীকার নিল।" },
+      {
+        "en": "She made a solemn vow.",
+        "bn": "সে একটি গুরুগম্ভীর অঙ্গীকার করল।"
+      },
+      {
+        "en": "He renewed his vow every year.",
+        "bn": "সে প্রতি বছর তার অঙ্গীকার নবায়ন করত।"
+      },
+      {
+        "en": "She felt bound by her vow.",
+        "bn": "সে তার অঙ্গীকারে আবদ্ধ অনুভব করল।"
+      },
+      { "en": "He stood by his vow.", "bn": "সে তার অঙ্গীকারে অবিচল রইল।" },
+      { "en": "She made a vow of simplicity.", "bn": "সে সরলতার অঙ্গীকার করল।" }
+    ],
+    "synonyms": ["oath", "promise", "commitment", "pledge", "word"]
+  },
+  {
+    "base": "vibrant",
+    "phonetic": "ˈvaɪbrənt",
+    "meaning": "সজীব / উদ্যমী",
+    "examples": [
+      { "en": "She has a vibrant spirit.", "bn": "তার সজীব মনোভাব আছে।" },
+      {
+        "en": "The vibrant economy attracted investment.",
+        "bn": "সজীব অর্থনীতি বিনিয়োগ আকর্ষণ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was vibrant and full of ideas.",
+        "bn": "সে সজীব এবং ধারণায় পূর্ণ ছিল।"
+      },
+      {
+        "en": "The vibrant city never slept.",
+        "bn": "সজীব শহরটি কখনো ঘুমাত না।"
+      },
+      {
+        "en": "She maintained her vibrant energy.",
+        "bn": "সে তার সজীব শক্তি বজায় রাখল।"
+      },
+      {
+        "en": "A vibrant community thrives together.",
+        "bn": "একটি সজীব সমাজ একসাথে সমৃদ্ধ হয়।"
+      },
+      {
+        "en": "He had a vibrant career.",
+        "bn": "তার একটি সজীব ক্যারিয়ার ছিল।"
+      },
+      { "en": "She gave a vibrant speech.", "bn": "সে একটি সজীব বক্তৃতা দিল।" },
+      {
+        "en": "The vibrant neighborhood was full of life.",
+        "bn": "সজীব পাড়াটি জীবনে পরিপূর্ণ ছিল।"
+      },
+      {
+        "en": "He inspired vibrant discussion.",
+        "bn": "সে সজীব আলোচনা অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "She led a vibrant team.",
+        "bn": "সে একটি সজীব দলের নেতৃত্ব দিল।"
+      },
+      {
+        "en": "The vibrant art scene attracted tourists.",
+        "bn": "সজীব শিল্প দৃশ্য পর্যটকদের আকর্ষণ করল।"
+      }
+    ],
+    "synonyms": ["lively", "active", "vigorous", "spirited", "flourishing"]
+  },
+  {
+    "base": "veil",
+    "phonetic": "veɪl",
+    "meaning": "পর্দা / আবরণ / ঢাকা",
+    "examples": [
+      { "en": "She wore a delicate veil.", "bn": "সে একটি সূক্ষ্ম পর্দা পরল।" },
+      {
+        "en": "A veil of mystery surrounded the event.",
+        "bn": "একটি রহস্যের পর্দা অনুষ্ঠানকে ঘিরে রেখেছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He veiled his true intentions.",
+        "bn": "সে তার প্রকৃত উদ্দেশ্য ঢেকে রাখল।"
+      },
+      { "en": "The bride lifted her veil.", "bn": "বধূ তার পর্দা তুলল।" },
+      {
+        "en": "Fog veiled the mountain top.",
+        "bn": "কুয়াশা পাহাড়ের চূড়া ঢেকে রাখল।"
+      },
+      {
+        "en": "She veiled her sadness with a smile.",
+        "bn": "সে হাসি দিয়ে তার দুঃখ ঢাকল।"
+      },
+      {
+        "en": "The truth was veiled in mystery.",
+        "bn": "সত্য রহস্যে ঢাকা ছিল।"
+      },
+      { "en": "He wore a thin veil.", "bn": "সে একটি পাতলা পর্দা পরল।" },
+      { "en": "She veiled her emotions.", "bn": "সে তার আবেগ ঢেকে রাখল।" },
+      {
+        "en": "The plan was veiled in secrecy.",
+        "bn": "পরিকল্পনাটি গোপনীয়তায় ঢাকা ছিল।"
+      },
+      {
+        "en": "He lifted the veil of deception.",
+        "bn": "সে প্রতারণার পর্দা সরিয়ে দিল।"
+      },
+      {
+        "en": "The festival involves wearing colorful veils.",
+        "bn": "উৎসবে রঙিন পর্দা পরা হয়।"
+      }
+    ],
+    "synonyms": ["cover", "screen", "mask", "curtain", "shroud"]
+  },
+  {
+    "base": "venerable",
+    "phonetic": "ˈvenərəbl",
+    "meaning": "শ্রদ্ধেয় / পূজনীয়",
+    "examples": [
+      { "en": "She is a venerable elder.", "bn": "তিনি একজন শ্রদ্ধেয় বড়জন।" },
+      {
+        "en": "The venerable institution has a long history.",
+        "bn": "শ্রদ্ধেয় প্রতিষ্ঠানটির দীর্ঘ ইতিহাস আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He is a venerable scholar.",
+        "bn": "তিনি একজন শ্রদ্ধেয় পণ্ডিত।"
+      },
+      {
+        "en": "The venerable monk taught wisdom.",
+        "bn": "শ্রদ্ধেয় সন্ন্যাসী জ্ঞান শিক্ষা দিলেন।"
+      },
+      {
+        "en": "She was a venerable figure.",
+        "bn": "তিনি একজন শ্রদ্ধেয় ব্যক্তিত্ব ছিলেন।"
+      },
+      {
+        "en": "The venerable tradition was preserved.",
+        "bn": "শ্রদ্ধেয় ঐতিহ্য সংরক্ষিত হল।"
+      },
+      {
+        "en": "He was a venerable teacher.",
+        "bn": "তিনি একজন শ্রদ্ধেয় শিক্ষক ছিলেন।"
+      },
+      {
+        "en": "The venerable building stood for centuries.",
+        "bn": "শ্রদ্ধেয় ভবনটি শতাব্দী ধরে দাঁড়িয়ে আছে।"
+      },
+      {
+        "en": "She sought guidance from a venerable elder.",
+        "bn": "সে একজন শ্রদ্ধেয় বড়জনের কাছে পথনির্দেশ চাইল।"
+      },
+      {
+        "en": "The venerable leader was celebrated.",
+        "bn": "শ্রদ্ধেয় নেতাকে সম্মানিত করা হল।"
+      },
+      {
+        "en": "He had a venerable reputation.",
+        "bn": "তার একটি শ্রদ্ধেয় সুনাম ছিল।"
+      },
+      {
+        "en": "She admired the venerable professor.",
+        "bn": "সে শ্রদ্ধেয় অধ্যাপককে প্রশংসা করল।"
+      }
+    ],
+    "synonyms": ["respected", "revered", "esteemed", "honored", "distinguished"]
+  },
+  {
+    "base": "verbose",
+    "phonetic": "vɜːˈbəʊs",
+    "meaning": "বাগবহুল / অতিরিক্ত কথাবলা",
+    "examples": [
+      { "en": "His report was verbose.", "bn": "তার প্রতিবেদন বাগবহুল ছিল।" },
+      { "en": "She found him verbose.", "bn": "তাকে সে বাগবহুল মনে করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The verbose speech bored everyone.",
+        "bn": "বাগবহুল বক্তৃতা সবাইকে বিরক্ত করল।"
+      },
+      {
+        "en": "He was verbose in his answers.",
+        "bn": "উত্তরে সে বাগবহুল ছিল।"
+      },
+      {
+        "en": "A verbose writer can lose readers.",
+        "bn": "বাগবহুল লেখক পাঠক হারাতে পারেন।"
+      },
+      {
+        "en": "She preferred concise over verbose writing.",
+        "bn": "বাগবহুলের চেয়ে সংক্ষিপ্ত লেখা সে পছন্দ করল।"
+      },
+      {
+        "en": "He was verbose but entertaining.",
+        "bn": "সে বাগবহুল কিন্তু বিনোদনদায়ক ছিল।"
+      },
+      {
+        "en": "The verbose explanation confused students.",
+        "bn": "বাগবহুল ব্যাখ্যা শিক্ষার্থীদের বিভ্রান্ত করল।"
+      },
+      {
+        "en": "She kept her response short despite being verbose.",
+        "bn": "বাগবহুল হলেও সে উত্তর সংক্ষিপ্ত রাখল।"
+      },
+      {
+        "en": "He admitted to being verbose.",
+        "bn": "সে বাগবহুল হওয়া স্বীকার করল।"
+      },
+      {
+        "en": "The verbose email took an hour to read.",
+        "bn": "বাগবহুল ইমেইল পড়তে এক ঘণ্টা লাগল।"
+      },
+      {
+        "en": "She tried to reduce her verbose tendency.",
+        "bn": "সে তার বাগবহুল প্রবণতা কমানোর চেষ্টা করল।"
+      }
+    ],
+    "synonyms": ["wordy", "long-winded", "talkative", "rambling", "garrulous"]
+  },
+  {
+    "base": "versatility",
+    "phonetic": "ˌvɜːsəˈtɪlɪti",
+    "meaning": "বহুমুখিতা / নানাদিক দক্ষতা",
+    "examples": [
+      {
+        "en": "Her versatility impressed everyone.",
+        "bn": "তার বহুমুখিতা সবাইকে মুগ্ধ করল।"
+      },
+      {
+        "en": "He is known for his versatility.",
+        "bn": "বহুমুখিতার জন্য সে পরিচিত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Versatility makes you a better candidate.",
+        "bn": "বহুমুখিতা তোমাকে আরও ভালো প্রার্থী করে।"
+      },
+      {
+        "en": "She showed versatility in the competition.",
+        "bn": "প্রতিযোগিতায় সে বহুমুখিতা দেখাল।"
+      },
+      {
+        "en": "His versatility helped him adapt quickly.",
+        "bn": "বহুমুখিতা তাকে দ্রুত মানিয়ে নিতে সাহায্য করল।"
+      },
+      {
+        "en": "The tool's versatility made it popular.",
+        "bn": "সরঞ্জামের বহুমুখিতা এটিকে জনপ্রিয় করল।"
+      },
+      {
+        "en": "She developed versatility through practice.",
+        "bn": "অনুশীলনের মাধ্যমে সে বহুমুখিতা গড়ে তুলল।"
+      },
+      {
+        "en": "He praised her versatility.",
+        "bn": "সে তার বহুমুখিতার প্রশংসা করল।"
+      },
+      {
+        "en": "Versatility is valued in the job market.",
+        "bn": "কাজের বাজারে বহুমুখিতা মূল্যবান।"
+      },
+      {
+        "en": "She uses her versatility to solve problems.",
+        "bn": "সমস্যা সমাধানে সে বহুমুখিতা ব্যবহার করে।"
+      },
+      {
+        "en": "His versatility made him irreplaceable.",
+        "bn": "তার বহুমুখিতা তাকে অপরিহার্য করল।"
+      },
+      {
+        "en": "She demonstrated great versatility.",
+        "bn": "সে অনেক বহুমুখিতা দেখাল।"
+      }
+    ],
+    "synonyms": [
+      "flexibility",
+      "adaptability",
+      "range",
+      "diversity",
+      "all-roundness"
+    ]
+  },
+  {
+    "base": "vital",
+    "phonetic": "ˈvaɪtl",
+    "meaning": "প্রাণশক্তিপূর্ণ",
+    "examples": [
+      {
+        "en": "She had a vital presence.",
+        "bn": "তার একটি প্রাণশক্তিপূর্ণ উপস্থিতি ছিল।"
+      },
+      {
+        "en": "He felt vital and energized.",
+        "bn": "সে প্রাণশক্তিপূর্ণ ও উদ্যমী অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Exercise keeps you vital.",
+        "bn": "ব্যায়াম তোমাকে প্রাণশক্তিপূর্ণ রাখে।"
+      },
+      {
+        "en": "She remained vital into old age.",
+        "bn": "বৃদ্ধ বয়সেও সে প্রাণশক্তিপূর্ণ থাকল।"
+      },
+      {
+        "en": "He had a vital and active mind.",
+        "bn": "তার প্রাণশক্তিপূর্ণ ও সক্রিয় মন ছিল।"
+      },
+      {
+        "en": "She carried herself with vital confidence.",
+        "bn": "সে প্রাণশক্তিপূর্ণ আত্মবিশ্বাসে নিজেকে বহন করল।"
+      },
+      {
+        "en": "The organization needs vital leadership.",
+        "bn": "সংগঠনের প্রাণশক্তিপূর্ণ নেতৃত্ব দরকার।"
+      },
+      {
+        "en": "He had a vital enthusiasm.",
+        "bn": "তার প্রাণশক্তিপূর্ণ উৎসাহ ছিল।"
+      },
+      {
+        "en": "She stayed vital through good habits.",
+        "bn": "ভালো অভ্যাসের মাধ্যমে সে প্রাণশক্তিপূর্ণ থাকল।"
+      },
+      {
+        "en": "A vital team completes tasks efficiently.",
+        "bn": "প্রাণশক্তিপূর্ণ দল দক্ষতার সাথে কাজ শেষ করে।"
+      },
+      {
+        "en": "He showed a vital interest in learning.",
+        "bn": "সে শেখার প্রতি প্রাণশক্তিপূর্ণ আগ্রহ দেখাল।"
+      },
+      {
+        "en": "She inspired a vital sense of purpose.",
+        "bn": "সে একটি প্রাণশক্তিপূর্ণ উদ্দেশ্যবোধ অনুপ্রাণিত করল।"
+      }
+    ],
+    "synonyms": ["energetic", "lively", "dynamic", "vibrant", "spirited"]
+  },
+  {
+    "base": "variance",
+    "phonetic": "ˈveəriəns",
+    "meaning": "পার্থক্য / ভিন্নতা",
+    "examples": [
+      { "en": "There is a variance in the data.", "bn": "তথ্যে পার্থক্য আছে।" },
+      {
+        "en": "She noticed the variance in results.",
+        "bn": "সে ফলাফলে পার্থক্য লক্ষ্য করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The variance in prices was significant.",
+        "bn": "দামে পার্থক্য উল্লেখযোগ্য ছিল।"
+      },
+      {
+        "en": "He analyzed the variance carefully.",
+        "bn": "সে সাবধানে পার্থক্য বিশ্লেষণ করল।"
+      },
+      {
+        "en": "The two groups showed high variance.",
+        "bn": "দুটি দল উচ্চ পার্থক্য দেখাল।"
+      },
+      {
+        "en": "She reported the variance in her study.",
+        "bn": "সে গবেষণায় পার্থক্য রিপোর্ট করল।"
+      },
+      {
+        "en": "Statistical variance helps understand data.",
+        "bn": "পরিসংখ্যানগত পার্থক্য তথ্য বুঝতে সাহায্য করে।"
+      },
+      {
+        "en": "He explained the variance clearly.",
+        "bn": "সে পার্থক্য স্পষ্টভাবে ব্যাখ্যা করল।"
+      },
+      {
+        "en": "The variance between teams was notable.",
+        "bn": "দলগুলোর মধ্যে পার্থক্য উল্লেখযোগ্য ছিল।"
+      },
+      { "en": "She minimized the variance.", "bn": "সে পার্থক্য কমিয়ে আনল।" },
+      {
+        "en": "They were at variance over the decision.",
+        "bn": "সিদ্ধান্ত নিয়ে তারা ভিন্নমতে ছিল।"
+      },
+      {
+        "en": "The variance affected the experiment.",
+        "bn": "পার্থক্যটি পরীক্ষাকে প্রভাবিত করল।"
+      }
+    ],
+    "synonyms": [
+      "difference",
+      "discrepancy",
+      "variation",
+      "divergence",
+      "deviation"
+    ]
+  },
+  {
+    "base": "vindication",
+    "phonetic": "ˌvɪndɪˈkeɪʃn",
+    "meaning": "নির্দোষতা প্রমাণ / ন্যায্যতা",
+    "examples": [
+      {
+        "en": "The verdict was her vindication.",
+        "bn": "রায়টি ছিল তার নির্দোষতার প্রমাণ।"
+      },
+      {
+        "en": "He felt complete vindication.",
+        "bn": "সে সম্পূর্ণ ন্যায্যতার অনুভূতি পেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The investigation led to her vindication.",
+        "bn": "তদন্ত তার নির্দোষতা প্রমাণে নিয়ে গেল।"
+      },
+      {
+        "en": "He sought vindication for years.",
+        "bn": "সে বছরের পর বছর ন্যায্যতা খুঁজল।"
+      },
+      {
+        "en": "Vindication brought her peace.",
+        "bn": "ন্যায্যতা তাকে শান্তি দিল।"
+      },
+      {
+        "en": "She cried tears of vindication.",
+        "bn": "ন্যায্যতায় সে কেঁদে ফেলল।"
+      },
+      {
+        "en": "The evidence provided final vindication.",
+        "bn": "প্রমাণ চূড়ান্ত ন্যায্যতা দিল।"
+      },
+      {
+        "en": "His vindication came after long struggle.",
+        "bn": "দীর্ঘ সংগ্রামের পরে তার ন্যায্যতা এল।"
+      },
+      {
+        "en": "She felt vindication when the truth emerged.",
+        "bn": "সত্য প্রকাশ পেলে সে ন্যায্যতা অনুভব করল।"
+      },
+      {
+        "en": "He sought vindication through the courts.",
+        "bn": "সে আদালতের মাধ্যমে ন্যায্যতা খুঁজল।"
+      },
+      {
+        "en": "Vindication restored her reputation.",
+        "bn": "ন্যায্যতা তার সুনাম পুনরুদ্ধার করল।"
+      },
+      {
+        "en": "She deserved her vindication.",
+        "bn": "সে তার ন্যায্যতার যোগ্য ছিল।"
+      }
+    ],
+    "synonyms": [
+      "exoneration",
+      "clearance",
+      "justification",
+      "absolution",
+      "proof"
+    ]
+  },
+  {
+    "base": "venture",
+    "phonetic": "ˈventʃər",
+    "meaning": "উদ্যম / সাহসী কার্য",
+    "examples": [
+      {
+        "en": "Her venture into art was successful.",
+        "bn": "শিল্পে তার উদ্যম সফল হল।"
+      },
+      {
+        "en": "He admired her venture.",
+        "bn": "সে তার সাহসী কার্যের প্রশংসা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She embarked on a bold venture.",
+        "bn": "সে একটি সাহসী উদ্যমে নামল।"
+      },
+      {
+        "en": "His venture challenged the industry.",
+        "bn": "তার উদ্যম শিল্পকে চ্যালেঞ্জ করল।"
+      },
+      {
+        "en": "She supported his risky venture.",
+        "bn": "সে তার ঝুঁকিপূর্ণ উদ্যমকে সমর্থন করল।"
+      },
+      {
+        "en": "The venture required courage.",
+        "bn": "উদ্যমটির জন্য সাহস দরকার ছিল।"
+      },
+      {
+        "en": "He described his venture excitedly.",
+        "bn": "সে উৎসাহের সাথে তার উদ্যম বর্ণনা করল।"
+      },
+      {
+        "en": "She invested in a new venture.",
+        "bn": "সে একটি নতুন উদ্যমে বিনিয়োগ করল।"
+      },
+      {
+        "en": "The venture succeeded beyond expectations.",
+        "bn": "উদ্যমটি প্রত্যাশার চেয়ে বেশি সফল হল।"
+      },
+      { "en": "He scaled up his venture.", "bn": "সে তার উদ্যম বড় করল।" },
+      {
+        "en": "She closed the failed venture gracefully.",
+        "bn": "সে ব্যর্থ উদ্যমটি সৌজন্যের সাথে বন্ধ করল।"
+      },
+      {
+        "en": "His creative venture earned praise.",
+        "bn": "তার সৃজনশীল উদ্যম প্রশংসা অর্জন করল।"
+      }
+    ],
+    "synonyms": ["endeavor", "project", "mission", "operation", "pursuit"]
   }
 ]

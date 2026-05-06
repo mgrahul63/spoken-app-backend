@@ -336,5 +336,3468 @@
       { "en": "She stays youthful forever.", "bn": "সে সবসময় তরুণ থাকে।" }
     ],
     "synonyms": ["young", "fresh", "energetic"]
+  },
+
+  {
+    "base": "yearn",
+    "phonetic": "jɜːn",
+    "meaning": "আকাঙ্ক্ষা করা / তীব্র ইচ্ছা করা",
+    "examples": [
+      {
+        "en": "She yearned to travel the world.",
+        "bn": "সে বিশ্ব ভ্রমণের আকাঙ্ক্ষা করল।"
+      },
+      {
+        "en": "He yearned for a peaceful life.",
+        "bn": "সে শান্তিপূর্ণ জীবনের জন্য তীব্র ইচ্ছা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She yearned to see her family.",
+        "bn": "সে পরিবার দেখার আকাঙ্ক্ষা করল।"
+      },
+      {
+        "en": "He yearned for success.",
+        "bn": "সে সাফল্যের জন্য তীব্র আকাঙ্ক্ষা করল।"
+      },
+      {
+        "en": "They yearned for freedom.",
+        "bn": "তারা স্বাধীনতার জন্য আকাঙ্ক্ষা করল।"
+      },
+      {
+        "en": "She yearned to return home.",
+        "bn": "সে বাড়ি ফেরার তীব্র ইচ্ছা করল।"
+      },
+      {
+        "en": "He yearned for love and acceptance.",
+        "bn": "সে ভালোবাসা ও গ্রহণযোগ্যতার জন্য আকাঙ্ক্ষা করল।"
+      },
+      {
+        "en": "She yearned to learn new things.",
+        "bn": "সে নতুন জিনিস শেখার আকাঙ্ক্ষা করল।"
+      },
+      {
+        "en": "He yearned for justice.",
+        "bn": "সে ন্যায়বিচারের জন্য তীব্র ইচ্ছা করল।"
+      },
+      {
+        "en": "She yearned for simpler days.",
+        "bn": "সে সহজ দিনের জন্য আকাঙ্ক্ষা করল।"
+      },
+      {
+        "en": "He always yearned for knowledge.",
+        "bn": "সে সবসময় জ্ঞানের জন্য আকাঙ্ক্ষা করত।"
+      },
+      {
+        "en": "She yearned to make a difference.",
+        "bn": "সে পার্থক্য আনার তীব্র ইচ্ছা করল।"
+      }
+    ],
+    "synonyms": ["long for", "crave", "desire", "pine", "wish"]
+  },
+  {
+    "base": "yield",
+    "phonetic": "jiːld",
+    "meaning": "ফলন দেওয়া / নত হওয়া / উৎপাদন করা",
+    "examples": [
+      {
+        "en": "The farm yielded a good harvest.",
+        "bn": "খামারটি ভালো ফসল দিল।"
+      },
+      {
+        "en": "She refused to yield to pressure.",
+        "bn": "সে চাপের কাছে নত হতে অস্বীকার করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The tree yielded sweet fruit.", "bn": "গাছটি মিষ্টি ফল দিল।" },
+      {
+        "en": "He yielded the floor to her.",
+        "bn": "সে তাকে কথা বলার সুযোগ ছেড়ে দিল।"
+      },
+      {
+        "en": "The investment yielded high returns.",
+        "bn": "বিনিয়োগটি উচ্চ আয় দিল।"
+      },
+      { "en": "She yielded to his request.", "bn": "সে তার অনুরোধে সম্মত হল।" },
+      {
+        "en": "The research yielded surprising results.",
+        "bn": "গবেষণাটি আশ্চর্যজনক ফলাফল দিল।"
+      },
+      {
+        "en": "He refused to yield his position.",
+        "bn": "সে তার অবস্থান ছাড়তে অস্বীকার করল।"
+      },
+      {
+        "en": "The land yielded little this year.",
+        "bn": "এ বছর জমিটি সামান্য ফসল দিল।"
+      },
+      {
+        "en": "She yielded the right of way.",
+        "bn": "সে পথের অধিকার ছেড়ে দিল।"
+      },
+      {
+        "en": "The experiment yielded new data.",
+        "bn": "পরীক্ষাটি নতুন তথ্য দিল।"
+      },
+      { "en": "He yielded under pressure.", "bn": "চাপের মধ্যে সে নত হল।" }
+    ],
+    "synonyms": ["produce", "generate", "surrender", "submit", "harvest"]
+  },
+  {
+    "base": "youthful",
+    "phonetic": "ˈjuːθfl",
+    "meaning": "যৌবনময় / তরুণ মনের",
+    "examples": [
+      {
+        "en": "She had a youthful appearance.",
+        "bn": "তার যৌবনময় চেহারা ছিল।"
+      },
+      {
+        "en": "He maintained a youthful energy.",
+        "bn": "সে যৌবনময় শক্তি বজায় রাখল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Her youthful smile charmed everyone.",
+        "bn": "তার যৌবনময় হাসি সবাইকে মুগ্ধ করল।"
+      },
+      { "en": "He had a youthful spirit.", "bn": "তার তরুণ মনের মনোভাব ছিল।" },
+      {
+        "en": "She looked youthful despite her age.",
+        "bn": "বয়স সত্ত্বেও সে যৌবনময় দেখাচ্ছিল।"
+      },
+      {
+        "en": "The youthful crowd was full of energy.",
+        "bn": "তরুণ ভিড়টি শক্তিতে পরিপূর্ণ ছিল।"
+      },
+      { "en": "He had youthful enthusiasm.", "bn": "তার যৌবনময় উৎসাহ ছিল।" },
+      {
+        "en": "She was youthful in her approach.",
+        "bn": "তার পদ্ধতিতে সে যৌবনময় ছিল।"
+      },
+      {
+        "en": "The youthful leader inspired the nation.",
+        "bn": "তরুণ নেতা জাতিকে অনুপ্রাণিত করলেন।"
+      },
+      {
+        "en": "He felt youthful after exercising.",
+        "bn": "ব্যায়ামের পরে সে যৌবনময় অনুভব করল।"
+      },
+      {
+        "en": "Her youthful curiosity never faded.",
+        "bn": "তার যৌবনময় কৌতূহল কখনো মিলিয়ে যায়নি।"
+      },
+      { "en": "He had a youthful glow.", "bn": "তার যৌবনময় দীপ্তি ছিল।" }
+    ],
+    "synonyms": ["young", "vibrant", "energetic", "fresh", "lively"]
+  },
+  {
+    "base": "zeal",
+    "phonetic": "ziːl",
+    "meaning": "উৎসাহ / আগ্রহ / জোশ",
+    "examples": [
+      {
+        "en": "She worked with great zeal.",
+        "bn": "সে অনেক উৎসাহ নিয়ে কাজ করল।"
+      },
+      {
+        "en": "His zeal for learning was admirable.",
+        "bn": "শেখার প্রতি তার উৎসাহ প্রশংসনীয় ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He showed zeal in every task.",
+        "bn": "প্রতিটি কাজে সে উৎসাহ দেখাল।"
+      },
+      {
+        "en": "She approached the project with zeal.",
+        "bn": "সে উৎসাহ নিয়ে প্রকল্পটিতে এগিয়ে এল।"
+      },
+      {
+        "en": "His religious zeal was well known.",
+        "bn": "তার ধর্মীয় উৎসাহ সুপরিচিত ছিল।"
+      },
+      {
+        "en": "She volunteered with zeal.",
+        "bn": "সে উৎসাহ নিয়ে স্বেচ্ছাসেবক কাজ করল।"
+      },
+      {
+        "en": "He pursued his goals with zeal.",
+        "bn": "সে উৎসাহ নিয়ে তার লক্ষ্য অনুসরণ করল।"
+      },
+      {
+        "en": "Her zeal motivated others.",
+        "bn": "তার উৎসাহ অন্যদের অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "He brought zeal to the cause.",
+        "bn": "সে কারণে উৎসাহ নিয়ে এল।"
+      },
+      {
+        "en": "She had zeal for social change.",
+        "bn": "সামাজিক পরিবর্তনের প্রতি তার উৎসাহ ছিল।"
+      },
+      { "en": "His zeal never diminished.", "bn": "তার উৎসাহ কখনো কমেনি।" },
+      {
+        "en": "She completed the task with zeal.",
+        "bn": "সে উৎসাহ নিয়ে কাজটি সম্পন্ন করল।"
+      }
+    ],
+    "synonyms": ["enthusiasm", "passion", "eagerness", "fervor", "dedication"]
+  },
+  {
+    "base": "yarn",
+    "phonetic": "jɑːn",
+    "meaning": "সুতা / গল্প বলা",
+    "examples": [
+      {
+        "en": "She knitted with colorful yarn.",
+        "bn": "সে রঙিন সুতা দিয়ে বুনল।"
+      },
+      {
+        "en": "He spun a yarn about his adventures.",
+        "bn": "সে তার অ্যাডভেঞ্চারের গল্প বলল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She bought a ball of yarn.", "bn": "সে এক গোলা সুতা কিনল।" },
+      {
+        "en": "He told a long yarn by the fire.",
+        "bn": "সে আগুনের পাশে দীর্ঘ গল্প বলল।"
+      },
+      { "en": "The yarn was soft and warm.", "bn": "সুতাটি নরম ও উষ্ণ ছিল।" },
+      {
+        "en": "She untangled the yarn carefully.",
+        "bn": "সে সাবধানে সুতার জট ছাড়াল।"
+      },
+      {
+        "en": "He spun yarn from sheep wool.",
+        "bn": "সে ভেড়ার পশম থেকে সুতা কাটল।"
+      },
+      {
+        "en": "She enjoyed listening to his yarns.",
+        "bn": "সে তার গল্পগুলো শুনতে উপভোগ করত।"
+      },
+      {
+        "en": "The yarn snapped during knitting.",
+        "bn": "বোনার সময় সুতা ছিঁড়ে গেল।"
+      },
+      {
+        "en": "He had a yarn for every occasion.",
+        "bn": "প্রতিটি উপলক্ষের জন্য তার একটি গল্প ছিল।"
+      },
+      { "en": "She dyed the yarn red.", "bn": "সে সুতা লাল রং করল।" },
+      { "en": "He wove stories like yarn.", "bn": "সে সুতার মতো গল্প বুনল।" }
+    ],
+    "synonyms": ["thread", "wool", "fiber", "tale", "story"]
+  },
+  {
+    "base": "yell",
+    "phonetic": "jel",
+    "meaning": "চিৎকার করা / জোরে বলা",
+    "examples": [
+      { "en": "She yelled for help.", "bn": "সে সাহায্যের জন্য চিৎকার করল।" },
+      { "en": "He yelled in excitement.", "bn": "উত্তেজনায় সে চিৎকার করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She yelled at the top of her voice.",
+        "bn": "সে গলা ফাটিয়ে চিৎকার করল।"
+      },
+      {
+        "en": "He yelled across the field.",
+        "bn": "সে মাঠ পেরিয়ে চিৎকার করল।"
+      },
+      { "en": "The crowd yelled with joy.", "bn": "ভিড় আনন্দে চিৎকার করল।" },
+      { "en": "She yelled his name.", "bn": "সে তার নাম ধরে চিৎকার করল।" },
+      { "en": "He yelled at the driver.", "bn": "সে চালকের দিকে চিৎকার করল।" },
+      {
+        "en": "She yelled warnings to the others.",
+        "bn": "সে অন্যদের সতর্কতা দিয়ে চিৎকার করল।"
+      },
+      { "en": "He yelled with frustration.", "bn": "হতাশায় সে চিৎকার করল।" },
+      {
+        "en": "The child yelled and ran away.",
+        "bn": "শিশুটি চিৎকার করে দৌড়িয়ে গেল।"
+      },
+      { "en": "She tried not to yell.", "bn": "সে চিৎকার না করার চেষ্টা করল।" },
+      {
+        "en": "He yelled instructions from afar.",
+        "bn": "সে দূর থেকে নির্দেশ চিৎকার করল।"
+      }
+    ],
+    "synonyms": ["shout", "scream", "holler", "cry out", "bellow"]
+  },
+  {
+    "base": "yeomanry",
+    "phonetic": "ˈjəʊmənri",
+    "meaning": "কৃষক শ্রেণী / স্বেচ্ছাসেবী অশ্বারোহী বাহিনী",
+    "examples": [
+      {
+        "en": "The yeomanry defended the village.",
+        "bn": "কৃষক বাহিনী গ্রাম রক্ষা করল।"
+      },
+      {
+        "en": "He came from a yeomanry family.",
+        "bn": "সে কৃষক শ্রেণীর পরিবার থেকে এসেছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The yeomanry was formed in the 18th century.",
+        "bn": "স্বেচ্ছাসেবী অশ্বারোহী বাহিনী ১৮শ শতাব্দীতে গঠিত হয়েছিল।"
+      },
+      {
+        "en": "She read about the English yeomanry.",
+        "bn": "সে ইংরেজ কৃষক শ্রেণী সম্পর্কে পড়ল।"
+      },
+      {
+        "en": "The yeomanry played a key role.",
+        "bn": "কৃষক শ্রেণী মূল ভূমিকা পালন করল।"
+      },
+      {
+        "en": "He studied the history of yeomanry.",
+        "bn": "সে কৃষক শ্রেণীর ইতিহাস অধ্যয়ন করল।"
+      },
+      {
+        "en": "The yeomanry supported the army.",
+        "bn": "স্বেচ্ছাসেবী বাহিনী সেনাবাহিনীকে সহায়তা করল।"
+      },
+      {
+        "en": "She wrote about yeomanry traditions.",
+        "bn": "সে কৃষক শ্রেণীর ঐতিহ্য সম্পর্কে লিখল।"
+      },
+      {
+        "en": "The yeomanry owned small plots of land.",
+        "bn": "কৃষক শ্রেণী ছোট জমির টুকরো মালিক ছিল।"
+      },
+      { "en": "He came from yeomanry stock.", "bn": "সে কৃষক বংশ থেকে এসেছে।" },
+      {
+        "en": "The yeomanry was known for loyalty.",
+        "bn": "স্বেচ্ছাসেবী বাহিনী বিশ্বস্ততার জন্য পরিচিত ছিল।"
+      },
+      {
+        "en": "She admired the yeomanry's courage.",
+        "bn": "সে কৃষক বাহিনীর সাহসের প্রশংসা করল।"
+      }
+    ],
+    "synonyms": [
+      "farmers",
+      "landowners",
+      "cavalry",
+      "rural class",
+      "volunteers"
+    ]
+  },
+  {
+    "base": "yoke",
+    "phonetic": "jəʊk",
+    "meaning": "জোয়াল / বোঝা / জুড়ে দেওয়া",
+    "examples": [
+      {
+        "en": "The oxen wore a heavy yoke.",
+        "bn": "বলদগুলো ভারী জোয়াল পরেছিল।"
+      },
+      {
+        "en": "She threw off the yoke of oppression.",
+        "bn": "সে নিপীড়নের বোঝা ছুঁড়ে ফেলল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The farmer used a wooden yoke.",
+        "bn": "কৃষক কাঠের জোয়াল ব্যবহার করল।"
+      },
+      {
+        "en": "He was yoked to a life of duty.",
+        "bn": "সে দায়িত্বের জীবনে আবদ্ধ ছিল।"
+      },
+      {
+        "en": "The yoke of poverty weighed them down.",
+        "bn": "দারিদ্র্যের বোঝা তাদের নিচে চাপা দিল।"
+      },
+      {
+        "en": "She helped lift the yoke from his shoulders.",
+        "bn": "সে তার কাঁধ থেকে বোঝা তুলতে সাহায্য করল।"
+      },
+      {
+        "en": "He broke free from the yoke.",
+        "bn": "সে জোয়াল থেকে মুক্ত হল।"
+      },
+      {
+        "en": "The two animals were yoked together.",
+        "bn": "দুটি প্রাণী একসাথে জুড়ে দেওয়া হয়েছিল।"
+      },
+      {
+        "en": "She carried the yoke across the field.",
+        "bn": "সে মাঠ পেরিয়ে জোয়াল বহন করল।"
+      },
+      {
+        "en": "The yoke of tradition held them back.",
+        "bn": "ঐতিহ্যের বোঝা তাদের পিছিয়ে রাখল।"
+      },
+      {
+        "en": "He designed a new type of yoke.",
+        "bn": "সে একটি নতুন ধরনের জোয়াল ডিজাইন করল।"
+      },
+      {
+        "en": "She was unyoked and free at last.",
+        "bn": "সে শেষ পর্যন্ত মুক্ত হল।"
+      }
+    ],
+    "synonyms": ["burden", "harness", "bond", "constraint", "coupling"]
+  },
+  {
+    "base": "yeoman",
+    "phonetic": "ˈjəʊmən",
+    "meaning": "কৃষক / সহকারী / নির্ভরযোগ্য কর্মী",
+    "examples": [
+      {
+        "en": "He served as a yeoman in the navy.",
+        "bn": "সে নৌবাহিনীতে সহকারী হিসেবে কাজ করল।"
+      },
+      {
+        "en": "The yeoman worked the land faithfully.",
+        "bn": "কৃষক বিশ্বস্তভাবে জমি চাষ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She did yeoman service for the team.",
+        "bn": "সে দলের জন্য অসামান্য সেবা করল।"
+      },
+      {
+        "en": "He was a yeoman of the guard.",
+        "bn": "সে রক্ষী বাহিনীর একজন সদস্য ছিল।"
+      },
+      {
+        "en": "The yeoman owned his own farm.",
+        "bn": "কৃষকের নিজস্ব খামার ছিল।"
+      },
+      {
+        "en": "She admired the yeoman's hard work.",
+        "bn": "সে কৃষকের পরিশ্রমের প্রশংসা করল।"
+      },
+      {
+        "en": "He performed yeoman duty.",
+        "bn": "সে অসামান্য দায়িত্ব পালন করল।"
+      },
+      {
+        "en": "The yeoman supported the community.",
+        "bn": "কৃষক সম্প্রদায়কে সহায়তা করল।"
+      },
+      {
+        "en": "She described the life of a yeoman.",
+        "bn": "সে কৃষকের জীবন বর্ণনা করল।"
+      },
+      {
+        "en": "He stood like a yeoman, strong and loyal.",
+        "bn": "সে কৃষকের মতো, শক্ত এবং বিশ্বস্ত দাঁড়াল।"
+      },
+      {
+        "en": "The yeoman defended his homeland.",
+        "bn": "কৃষক তার মাতৃভূমি রক্ষা করল।"
+      },
+      {
+        "en": "She wrote a poem about a yeoman.",
+        "bn": "সে একজন কৃষক সম্পর্কে একটি কবিতা লিখল।"
+      }
+    ],
+    "synonyms": ["farmer", "assistant", "worker", "guard", "servant"]
+  },
+  {
+    "base": "yonder",
+    "phonetic": "ˈjɒndər",
+    "meaning": "ওই দিকে / দূরে / ওখানে",
+    "examples": [
+      {
+        "en": "Look at yonder mountain.",
+        "bn": "ওই দূরের পাহাড়টির দিকে তাকাও।"
+      },
+      {
+        "en": "He pointed yonder and smiled.",
+        "bn": "সে দূরে ইঙ্গিত করে হাসল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The village lies yonder.", "bn": "গ্রামটি ওই দিকে অবস্থিত।" },
+      {
+        "en": "She looked toward yonder hill.",
+        "bn": "সে ওই দূরের পাহাড়ের দিকে তাকাল।"
+      },
+      {
+        "en": "Beyond yonder trees lies the river.",
+        "bn": "ওই গাছগুলোর ওপারে নদী আছে।"
+      },
+      {
+        "en": "He rode off into yonder sunset.",
+        "bn": "সে ওই দূরের সূর্যাস্তের দিকে ঘোড়ায় চলে গেল।"
+      },
+      {
+        "en": "She heard music from yonder valley.",
+        "bn": "সে ওই দূরের উপত্যকা থেকে সঙ্গীত শুনল।"
+      },
+      {
+        "en": "He disappeared into yonder forest.",
+        "bn": "সে ওই দূরের বনে মিলিয়ে গেল।"
+      },
+      {
+        "en": "Yonder lies the ancient ruins.",
+        "bn": "ওই দিকে প্রাচীন ধ্বংসাবশেষ আছে।"
+      },
+      {
+        "en": "She gazed at yonder stars.",
+        "bn": "সে ওই দূরের তারার দিকে তাকিয়ে রইল।"
+      },
+      {
+        "en": "He called out to the man yonder.",
+        "bn": "সে ওই দিকের লোকটাকে ডাক দিল।"
+      },
+      {
+        "en": "Yonder road leads to the city.",
+        "bn": "ওই পথটি শহরের দিকে যায়।"
+      }
+    ],
+    "synonyms": ["over there", "far away", "distant", "beyond", "afar"]
+  },
+  {
+    "base": "zealous",
+    "phonetic": "ˈzeləs",
+    "meaning": "উৎসাহী / আগ্রহী / নিষ্ঠাবান",
+    "examples": [
+      { "en": "She was zealous in her work.", "bn": "কাজে সে উৎসাহী ছিল।" },
+      {
+        "en": "He was a zealous supporter.",
+        "bn": "সে একজন নিষ্ঠাবান সমর্থক ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She was zealous about justice.",
+        "bn": "ন্যায়বিচার সম্পর্কে সে উৎসাহী ছিল।"
+      },
+      {
+        "en": "He was a zealous student.",
+        "bn": "সে একজন উৎসাহী শিক্ষার্থী ছিল।"
+      },
+      {
+        "en": "She showed zealous dedication.",
+        "bn": "সে নিষ্ঠাবান উৎসর্গ দেখাল।"
+      },
+      {
+        "en": "He was zealous in defending his beliefs.",
+        "bn": "তার বিশ্বাস রক্ষায় সে উৎসাহী ছিল।"
+      },
+      {
+        "en": "A zealous worker finishes early.",
+        "bn": "একজন উৎসাহী কর্মী আগে শেষ করেন।"
+      },
+      {
+        "en": "She was zealous about health.",
+        "bn": "স্বাস্থ্য সম্পর্কে সে উৎসাহী ছিল।"
+      },
+      {
+        "en": "He approached the task zealously.",
+        "bn": "সে উৎসাহের সাথে কাজটিতে এগিয়ে এল।"
+      },
+      {
+        "en": "She was known as a zealous advocate.",
+        "bn": "সে উৎসাহী সমর্থক হিসেবে পরিচিত ছিল।"
+      },
+      {
+        "en": "His zealous nature inspired the team.",
+        "bn": "তার উৎসাহী স্বভাব দলকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "She was zealous but sometimes too forceful.",
+        "bn": "সে উৎসাহী ছিল কিন্তু কখনো অনেক জোরালো হয়ে যেত।"
+      }
+    ],
+    "synonyms": ["enthusiastic", "passionate", "eager", "devoted", "fervent"]
+  },
+  {
+    "base": "yawn",
+    "phonetic": "jɔːn",
+    "meaning": "হাই তোলা / হাঁ করা",
+    "examples": [
+      {
+        "en": "She yawned after a long day.",
+        "bn": "দীর্ঘ দিনের পরে সে হাই তুলল।"
+      },
+      {
+        "en": "He tried to hide his yawn.",
+        "bn": "সে তার হাই লুকানোর চেষ্টা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She yawned and stretched.",
+        "bn": "সে হাই তুলল এবং শরীর প্রসারিত করল।"
+      },
+      { "en": "He yawned during the meeting.", "bn": "সভার সময় সে হাই তুলল।" },
+      {
+        "en": "The child yawned and fell asleep.",
+        "bn": "শিশুটি হাই তুলল এবং ঘুমিয়ে পড়ল।"
+      },
+      {
+        "en": "She covered her mouth while yawning.",
+        "bn": "হাই তোলার সময় সে মুখ ঢাকল।"
+      },
+      {
+        "en": "A yawn of boredom escaped him.",
+        "bn": "বিরক্তিতে তার হাই বেরিয়ে গেল।"
+      },
+      { "en": "He gave a big yawn.", "bn": "সে একটি বড় হাই তুলল।" },
+      { "en": "Yawning is contagious.", "bn": "হাই তোলা সংক্রামক।" },
+      { "en": "She yawned silently.", "bn": "সে চুপচাপ হাই তুলল।" },
+      {
+        "en": "He yawned because he was tired.",
+        "bn": "ক্লান্ত থাকায় সে হাই তুলল।"
+      },
+      {
+        "en": "The gap yawned wide before them.",
+        "bn": "তাদের সামনে ফাঁকটি বড় হয়ে উঠল।"
+      }
+    ],
+    "synonyms": ["gape", "open wide", "stretch", "drowse", "gap"]
+  },
+  {
+    "base": "yore",
+    "phonetic": "jɔːr",
+    "meaning": "অতীত / বহু আগে",
+    "examples": [
+      {
+        "en": "In days of yore, knights roamed the land.",
+        "bn": "অতীতে নাইটরা ভূমিতে ঘুরে বেড়াত।"
+      },
+      {
+        "en": "She reminisced about the days of yore.",
+        "bn": "সে অতীতের দিনগুলো স্মরণ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He spoke of yore with nostalgia.",
+        "bn": "সে নস্টালজিয়া নিয়ে অতীতের কথা বলল।"
+      },
+      {
+        "en": "The customs of yore were different.",
+        "bn": "অতীতের রীতিনীতি ভিন্ন ছিল।"
+      },
+      {
+        "en": "Stories of yore passed down through generations.",
+        "bn": "অতীতের গল্প প্রজন্ম থেকে প্রজন্মে চলে এসেছে।"
+      },
+      {
+        "en": "She longed for the simplicity of yore.",
+        "bn": "সে অতীতের সরলতার জন্য আকাঙ্ক্ষা করল।"
+      },
+      {
+        "en": "He described the heroes of yore.",
+        "bn": "সে অতীতের নায়কদের বর্ণনা করল।"
+      },
+      {
+        "en": "The traditions of yore were honored.",
+        "bn": "অতীতের ঐতিহ্যকে সম্মান করা হল।"
+      },
+      {
+        "en": "Life in days of yore was simpler.",
+        "bn": "অতীতের দিনগুলোতে জীবন সহজ ছিল।"
+      },
+      {
+        "en": "She wrote poems about days of yore.",
+        "bn": "সে অতীতের দিনগুলো নিয়ে কবিতা লিখল।"
+      },
+      { "en": "He missed the ways of yore.", "bn": "সে অতীতের ধরন মিস করল।" },
+      {
+        "en": "The tales of yore lived on.",
+        "bn": "অতীতের গল্পগুলো বেঁচে থাকল।"
+      }
+    ],
+    "synonyms": ["past", "olden days", "antiquity", "long ago", "former times"]
+  },
+  {
+    "base": "youthfulness",
+    "phonetic": "ˈjuːθflnəs",
+    "meaning": "যৌবন / তারুণ্য",
+    "examples": [
+      {
+        "en": "Her youthfulness was remarkable.",
+        "bn": "তার তারুণ্য লক্ষণীয় ছিল।"
+      },
+      {
+        "en": "He maintained his youthfulness through exercise.",
+        "bn": "ব্যায়ামের মাধ্যমে সে তার যৌবন বজায় রাখল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She radiated youthfulness.", "bn": "সে তারুণ্য বিচ্ছুরিত করল।" },
+      {
+        "en": "His youthfulness surprised everyone.",
+        "bn": "তার তারুণ্য সবাইকে অবাক করল।"
+      },
+      {
+        "en": "Youthfulness is a state of mind.",
+        "bn": "তারুণ্য মনের একটি অবস্থা।"
+      },
+      {
+        "en": "She preserved her youthfulness well.",
+        "bn": "সে তার তারুণ্য ভালোভাবে ধরে রাখল।"
+      },
+      {
+        "en": "His youthfulness inspired the young.",
+        "bn": "তার তারুণ্য তরুণদের অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "She valued her youthfulness.",
+        "bn": "সে তার তারুণ্যকে মূল্য দিল।"
+      },
+      {
+        "en": "The youthfulness of the team was clear.",
+        "bn": "দলের তারুণ্য স্পষ্ট ছিল।"
+      },
+      {
+        "en": "He exuded youthfulness in everything.",
+        "bn": "সে সবকিছুতে তারুণ্য ঝরাল।"
+      },
+      {
+        "en": "She admired his lasting youthfulness.",
+        "bn": "সে তার স্থায়ী তারুণ্যের প্রশংসা করল।"
+      },
+      {
+        "en": "Youthfulness fades but memories remain.",
+        "bn": "তারুণ্য মিলিয়ে যায় কিন্তু স্মৃতি থাকে।"
+      }
+    ],
+    "synonyms": ["youth", "vigor", "freshness", "vitality", "liveliness"]
+  },
+  {
+    "base": "yelp",
+    "phonetic": "jelp",
+    "meaning": "চিৎকার করা / কান ফাটানো শব্দ করা",
+    "examples": [
+      { "en": "The dog yelped in pain.", "bn": "কুকুরটি ব্যথায় চিৎকার করল।" },
+      {
+        "en": "She yelped when she saw the spider.",
+        "bn": "মাকড়সা দেখে সে চিৎকার করে উঠল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He yelped with surprise.", "bn": "আশ্চর্যে সে চিৎকার করল।" },
+      {
+        "en": "The puppy yelped loudly.",
+        "bn": "কুকুরছানাটি জোরে চিৎকার করল।"
+      },
+      {
+        "en": "She yelped when the water was too hot.",
+        "bn": "পানি অনেক গরম থাকায় সে চিৎকার করল।"
+      },
+      {
+        "en": "He yelped and jumped back.",
+        "bn": "সে চিৎকার করে পিছিয়ে গেল।"
+      },
+      {
+        "en": "The child yelped with delight.",
+        "bn": "শিশুটি আনন্দে চিৎকার করল।"
+      },
+      {
+        "en": "She heard a yelp from the corner.",
+        "bn": "সে কোণ থেকে একটি চিৎকার শুনল।"
+      },
+      { "en": "He yelped in fright.", "bn": "ভয়ে সে চিৎকার করল।" },
+      {
+        "en": "The dog gave a sharp yelp.",
+        "bn": "কুকুরটি তীক্ষ্ণ চিৎকার করল।"
+      },
+      {
+        "en": "She could not help but yelp.",
+        "bn": "সে না চিৎকার করে পারল না।"
+      },
+      {
+        "en": "He yelped as the needle touched his arm.",
+        "bn": "সুই হাতে লাগতেই সে চিৎকার করল।"
+      }
+    ],
+    "synonyms": ["cry", "squeal", "shriek", "bark", "screech"]
+  },
+  {
+    "base": "yoga",
+    "phonetic": "ˈjəʊɡə",
+    "meaning": "যোগব্যায়াম",
+    "examples": [
+      {
+        "en": "She practices yoga every morning.",
+        "bn": "সে প্রতি সকালে যোগব্যায়াম করে।"
+      },
+      {
+        "en": "Yoga improves both body and mind.",
+        "bn": "যোগব্যায়াম শরীর ও মন উভয়ের উন্নতি করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He joined a yoga class.",
+        "bn": "সে একটি যোগব্যায়াম ক্লাসে যোগ দিল।"
+      },
+      {
+        "en": "She found peace through yoga.",
+        "bn": "যোগব্যায়ামের মাধ্যমে সে শান্তি খুঁজে পেল।"
+      },
+      {
+        "en": "Yoga originated in ancient India.",
+        "bn": "যোগব্যায়ামের উৎপত্তি প্রাচীন ভারতে।"
+      },
+      {
+        "en": "He practiced yoga for stress relief.",
+        "bn": "সে মানসিক চাপ মুক্তির জন্য যোগব্যায়াম করল।"
+      },
+      {
+        "en": "She taught yoga at the community center.",
+        "bn": "সে কমিউনিটি সেন্টারে যোগব্যায়াম শেখাল।"
+      },
+      {
+        "en": "Yoga helps improve flexibility.",
+        "bn": "যোগব্যায়াম নমনীয়তা উন্নত করতে সাহায্য করে।"
+      },
+      {
+        "en": "He started yoga to relax.",
+        "bn": "সে শিথিল হতে যোগব্যায়াম শুরু করল।"
+      },
+      {
+        "en": "She attended a weekend yoga retreat.",
+        "bn": "সে একটি সপ্তাহান্তের যোগব্যায়াম শিবিরে অংশ নিল।"
+      },
+      {
+        "en": "Yoga connects the body and soul.",
+        "bn": "যোগব্যায়াম শরীর ও আত্মাকে সংযুক্ত করে।"
+      },
+      {
+        "en": "He meditated after yoga.",
+        "bn": "যোগব্যায়ামের পরে সে ধ্যান করল।"
+      }
+    ],
+    "synonyms": [
+      "exercise",
+      "meditation",
+      "mindfulness",
+      "stretching",
+      "wellness practice"
+    ]
+  },
+  {
+    "base": "yearbook",
+    "phonetic": "ˈjɪəbʊk",
+    "meaning": "বার্ষিকী / বার্ষিক পুস্তক",
+    "examples": [
+      {
+        "en": "She signed everyone's yearbook.",
+        "bn": "সে সবার বার্ষিকীতে সই করল।"
+      },
+      {
+        "en": "He looked through the old yearbook.",
+        "bn": "সে পুরনো বার্ষিকীটি দেখল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The yearbook captured all the memories.",
+        "bn": "বার্ষিকীটি সমস্ত স্মৃতি ধরে রাখল।"
+      },
+      {
+        "en": "She designed the school yearbook.",
+        "bn": "সে স্কুলের বার্ষিকী ডিজাইন করল।"
+      },
+      {
+        "en": "He smiled at his yearbook photo.",
+        "bn": "সে তার বার্ষিকীর ছবিতে হাসল।"
+      },
+      {
+        "en": "She collected signatures in her yearbook.",
+        "bn": "সে বার্ষিকীতে সই সংগ্রহ করল।"
+      },
+      {
+        "en": "The yearbook was distributed on the last day.",
+        "bn": "শেষ দিনে বার্ষিকী বিতরণ করা হল।"
+      },
+      {
+        "en": "He found his childhood yearbook.",
+        "bn": "সে তার শৈশবের বার্ষিকী খুঁজে পেল।"
+      },
+      {
+        "en": "She wrote messages in her friends' yearbooks.",
+        "bn": "সে বন্ধুদের বার্ষিকীতে বার্তা লিখল।"
+      },
+      {
+        "en": "The yearbook editor worked hard.",
+        "bn": "বার্ষিকীর সম্পাদক কঠোর পরিশ্রম করল।"
+      },
+      {
+        "en": "He treasured his yearbook.",
+        "bn": "সে তার বার্ষিকীকে মূল্যবান মনে করত।"
+      },
+      {
+        "en": "She contributed to the yearbook committee.",
+        "bn": "সে বার্ষিকী কমিটিতে অবদান রাখল।"
+      }
+    ],
+    "synonyms": [
+      "annual",
+      "record book",
+      "school album",
+      "graduation book",
+      "annual publication"
+    ]
+  },
+  {
+    "base": "zest",
+    "phonetic": "zest",
+    "meaning": "উৎসাহ / আগ্রহ / লেবুর খোসা",
+    "examples": [
+      {
+        "en": "She approached life with zest.",
+        "bn": "সে উৎসাহ নিয়ে জীবনে এগিয়ে গেল।"
+      },
+      {
+        "en": "He added lemon zest to the cake.",
+        "bn": "সে কেকে লেবুর খোসা যোগ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She had a zest for learning.",
+        "bn": "শেখার প্রতি তার উৎসাহ ছিল।"
+      },
+      {
+        "en": "He brought zest to the project.",
+        "bn": "সে প্রকল্পে উৎসাহ নিয়ে এল।"
+      },
+      {
+        "en": "Her zest for life was contagious.",
+        "bn": "জীবনের প্রতি তার উৎসাহ সংক্রামক ছিল।"
+      },
+      {
+        "en": "He cooked with zest and creativity.",
+        "bn": "সে উৎসাহ ও সৃজনশীলতায় রান্না করল।"
+      },
+      {
+        "en": "The orange zest gave flavor to the dish.",
+        "bn": "কমলার খোসা খাবারে স্বাদ দিল।"
+      },
+      {
+        "en": "She lived life with zest.",
+        "bn": "সে উৎসাহের সাথে জীবন যাপন করল।"
+      },
+      {
+        "en": "His zest for adventure knew no bounds.",
+        "bn": "অ্যাডভেঞ্চারের প্রতি তার উৎসাহের কোনো সীমা ছিল না।"
+      },
+      {
+        "en": "She added zest to every occasion.",
+        "bn": "সে প্রতিটি উপলক্ষে উৎসাহ যোগ করল।"
+      },
+      {
+        "en": "He tackled challenges with zest.",
+        "bn": "সে উৎসাহ নিয়ে চ্যালেঞ্জ মোকাবেলা করল।"
+      },
+      {
+        "en": "Zest for work makes you productive.",
+        "bn": "কাজের প্রতি উৎসাহ আপনাকে উৎপাদনশীল করে।"
+      }
+    ],
+    "synonyms": ["enthusiasm", "energy", "gusto", "passion", "flavor"]
+  },
+  {
+    "base": "yore",
+    "phonetic": "jɔːr",
+    "meaning": "পুরনো দিন",
+    "examples": [
+      {
+        "en": "The music of yore was soulful.",
+        "bn": "পুরনো দিনের সঙ্গীত আত্মার গভীরে স্পর্শ করত।"
+      },
+      {
+        "en": "She remembered friends of yore.",
+        "bn": "সে পুরনো দিনের বন্ধুদের মনে করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He missed the food of yore.",
+        "bn": "সে পুরনো দিনের খাবার মিস করল।"
+      },
+      {
+        "en": "The games of yore were simpler.",
+        "bn": "পুরনো দিনের খেলাধুলা সহজ ছিল।"
+      },
+      {
+        "en": "She longed for the warmth of yore.",
+        "bn": "সে পুরনো দিনের উষ্ণতার জন্য আকাঙ্ক্ষা করল।"
+      },
+      {
+        "en": "He recalled the heroes of yore.",
+        "bn": "সে পুরনো দিনের নায়কদের মনে করল।"
+      },
+      {
+        "en": "The festivals of yore were grand.",
+        "bn": "পুরনো দিনের উৎসবগুলো জাঁকজমকপূর্ণ ছিল।"
+      },
+      {
+        "en": "She wrote about teachers of yore.",
+        "bn": "সে পুরনো দিনের শিক্ষকদের সম্পর্কে লিখল।"
+      },
+      {
+        "en": "The wisdom of yore still applies today.",
+        "bn": "পুরনো দিনের জ্ঞান আজও প্রযোজ্য।"
+      },
+      {
+        "en": "He treasured the memories of yore.",
+        "bn": "সে পুরনো দিনের স্মৃতিগুলো মূল্যবান মনে করত।"
+      },
+      {
+        "en": "The crafts of yore are nearly forgotten.",
+        "bn": "পুরনো দিনের শিল্পগুলো প্রায় ভুলে গেছে।"
+      },
+      {
+        "en": "She loved the simplicity of yore.",
+        "bn": "সে পুরনো দিনের সরলতা পছন্দ করত।"
+      }
+    ],
+    "synonyms": [
+      "former days",
+      "old times",
+      "bygone era",
+      "ancient times",
+      "the past"
+    ]
+  },
+  {
+    "base": "yield",
+    "phonetic": "jiːld",
+    "meaning": "ছেড়ে দেওয়া / মেনে নেওয়া",
+    "examples": [
+      {
+        "en": "She had to yield her seat.",
+        "bn": "তাকে তার আসন ছেড়ে দিতে হল।"
+      },
+      {
+        "en": "He refused to yield to demands.",
+        "bn": "সে দাবির কাছে মাথা নত করতে অস্বীকার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She yielded to his argument.",
+        "bn": "সে তার যুক্তির কাছে মেনে নিল।"
+      },
+      {
+        "en": "He yielded the road to the ambulance.",
+        "bn": "সে অ্যাম্বুলেন্সকে পথ ছেড়ে দিল।"
+      },
+      {
+        "en": "She yielded her position to her successor.",
+        "bn": "সে তার উত্তরসূরিকে পদ ছেড়ে দিল।"
+      },
+      {
+        "en": "He chose not to yield.",
+        "bn": "সে মাথা না নত করার সিদ্ধান্ত নিল।"
+      },
+      { "en": "The door yielded under pressure.", "bn": "চাপে দরজা খুলে গেল।" },
+      {
+        "en": "She yielded to peer pressure.",
+        "bn": "সে সহকর্মীর চাপের কাছে মেনে নিল।"
+      },
+      {
+        "en": "He yielded his rights voluntarily.",
+        "bn": "সে স্বেচ্ছায় তার অধিকার ছেড়ে দিল।"
+      },
+      {
+        "en": "She would not yield under any circumstance.",
+        "bn": "সে কোনো পরিস্থিতিতে মাথা নত করবে না।"
+      },
+      {
+        "en": "He yielded the argument gracefully.",
+        "bn": "সে সৌজন্যের সাথে যুক্তি ছেড়ে দিল।"
+      },
+      {
+        "en": "The enemy yielded at dawn.",
+        "bn": "ভোরে শত্রুপক্ষ আত্মসমর্পণ করল।"
+      }
+    ],
+    "synonyms": ["concede", "give in", "surrender", "submit", "relent"]
+  },
+  {
+    "base": "yearning",
+    "phonetic": "ˈjɜːnɪŋ",
+    "meaning": "তীব্র আকাঙ্ক্ষা / গভীর ইচ্ছা",
+    "examples": [
+      {
+        "en": "She felt a deep yearning for home.",
+        "bn": "তার ঘরের জন্য গভীর আকাঙ্ক্ষা ছিল।"
+      },
+      {
+        "en": "He had a yearning for adventure.",
+        "bn": "তার অ্যাডভেঞ্চারের তীব্র ইচ্ছা ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The yearning in her eyes was clear.",
+        "bn": "তার চোখের আকাঙ্ক্ষা স্পষ্ট ছিল।"
+      },
+      {
+        "en": "He expressed his yearning through music.",
+        "bn": "সে সঙ্গীতের মাধ্যমে তার আকাঙ্ক্ষা প্রকাশ করল।"
+      },
+      {
+        "en": "She had a yearning for peace.",
+        "bn": "তার শান্তির জন্য গভীর ইচ্ছা ছিল।"
+      },
+      {
+        "en": "His yearning grew stronger.",
+        "bn": "তার আকাঙ্ক্ষা আরও শক্তিশালী হল।"
+      },
+      {
+        "en": "A yearning for knowledge drove her.",
+        "bn": "জ্ঞানের তীব্র আকাঙ্ক্ষা তাকে চালিত করল।"
+      },
+      {
+        "en": "She wrote poems about her yearning.",
+        "bn": "সে তার আকাঙ্ক্ষা নিয়ে কবিতা লিখল।"
+      },
+      {
+        "en": "His yearning for change was evident.",
+        "bn": "পরিবর্তনের জন্য তার তীব্র ইচ্ছা স্পষ্ট ছিল।"
+      },
+      {
+        "en": "She satisfied her yearning to travel.",
+        "bn": "সে ভ্রমণের আকাঙ্ক্ষা পূরণ করল।"
+      },
+      {
+        "en": "The yearning never left him.",
+        "bn": "আকাঙ্ক্ষাটি কখনো তাকে ছেড়ে যায়নি।"
+      },
+      {
+        "en": "She followed her yearning to create art.",
+        "bn": "সে শিল্প তৈরির তীব্র ইচ্ছা অনুসরণ করল।"
+      }
+    ],
+    "synonyms": ["longing", "desire", "craving", "wish", "aspiration"]
+  },
+  {
+    "base": "zeal",
+    "phonetic": "ziːl",
+    "meaning": "জোশ / তীব্র ইচ্ছাশক্তি",
+    "examples": [
+      {
+        "en": "She tackled the problem with zeal.",
+        "bn": "সে জোশ নিয়ে সমস্যার মোকাবেলা করল।"
+      },
+      {
+        "en": "His zeal for reform was unstoppable.",
+        "bn": "সংস্কারের প্রতি তার জোশ অপ্রতিরোধ্য ছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She showed remarkable zeal.", "bn": "সে অসাধারণ জোশ দেখাল।" },
+      {
+        "en": "His zeal inspired the whole team.",
+        "bn": "তার জোশ পুরো দলকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "She applied zeal to every challenge.",
+        "bn": "সে প্রতিটি চ্যালেঞ্জে জোশ প্রয়োগ করল।"
+      },
+      {
+        "en": "He carried out his duties with zeal.",
+        "bn": "সে জোশ নিয়ে তার দায়িত্ব পালন করল।"
+      },
+      {
+        "en": "Her zeal was admired by many.",
+        "bn": "তার জোশ অনেকে প্রশংসা করল।"
+      },
+      {
+        "en": "He brought fresh zeal to the cause.",
+        "bn": "সে কারণে নতুন জোশ নিয়ে এল।"
+      },
+      {
+        "en": "She worked with boundless zeal.",
+        "bn": "সে অসীম জোশ নিয়ে কাজ করল।"
+      },
+      {
+        "en": "His zeal was matched by his skill.",
+        "bn": "তার জোশ দক্ষতার সাথে মিলে গেল।"
+      },
+      {
+        "en": "She pursued justice with zeal.",
+        "bn": "সে জোশ নিয়ে ন্যায়বিচার অনুসরণ করল।"
+      },
+      {
+        "en": "Zeal without direction leads nowhere.",
+        "bn": "দিক ছাড়া জোশ কোথাও যায় না।"
+      }
+    ],
+    "synonyms": ["fervor", "drive", "intensity", "motivation", "fire"]
+  },
+  {
+    "base": "yesteryear",
+    "phonetic": "ˈjestəjɪər",
+    "meaning": "গতবছর / অতীতের বছর",
+    "examples": [
+      {
+        "en": "The heroes of yesteryear are remembered.",
+        "bn": "অতীতের বছরের নায়কদের মনে রাখা হয়।"
+      },
+      {
+        "en": "She longed for the music of yesteryear.",
+        "bn": "সে অতীতের বছরের সঙ্গীতের জন্য আকাঙ্ক্ষা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He recalled the games of yesteryear.",
+        "bn": "সে অতীতের বছরের খেলাগুলো মনে করল।"
+      },
+      {
+        "en": "The fashions of yesteryear are back.",
+        "bn": "অতীতের বছরের ফ্যাশন ফিরে এসেছে।"
+      },
+      {
+        "en": "She watched movies from yesteryear.",
+        "bn": "সে অতীতের বছরের চলচ্চিত্র দেখল।"
+      },
+      {
+        "en": "The stars of yesteryear inspired many.",
+        "bn": "অতীতের বছরের তারকারা অনেককে অনুপ্রাণিত করেছিল।"
+      },
+      {
+        "en": "He preserved the songs of yesteryear.",
+        "bn": "সে অতীতের বছরের গান সংরক্ষণ করল।"
+      },
+      {
+        "en": "The technology of yesteryear seems slow today.",
+        "bn": "অতীতের বছরের প্রযুক্তি আজ ধীর মনে হয়।"
+      },
+      {
+        "en": "She treasured memories of yesteryear.",
+        "bn": "সে অতীতের বছরের স্মৃতিগুলো মূল্যবান মনে করত।"
+      },
+      {
+        "en": "He spoke fondly of yesteryear.",
+        "bn": "সে স্নেহের সাথে অতীতের বছরের কথা বলল।"
+      },
+      {
+        "en": "The recipes of yesteryear taste amazing.",
+        "bn": "অতীতের বছরের রেসিপিগুলো দারুণ স্বাদের।"
+      },
+      {
+        "en": "She compared today with yesteryear.",
+        "bn": "সে আজকের দিনকে অতীতের বছরের সাথে তুলনা করল।"
+      }
+    ],
+    "synonyms": [
+      "last year",
+      "the past",
+      "former times",
+      "days gone by",
+      "old times"
+    ]
+  },
+  {
+    "base": "yeoman",
+    "phonetic": "ˈjəʊmən",
+    "meaning": "বিশ্বস্ত সহায়ক",
+    "examples": [
+      {
+        "en": "She did yeoman work on the project.",
+        "bn": "সে প্রকল্পে বিশ্বস্ত সহায়কের মতো কাজ করল।"
+      },
+      {
+        "en": "He gave yeoman service to the organization.",
+        "bn": "সে সংগঠনকে বিশ্বস্ত সেবা দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They performed yeoman duty.",
+        "bn": "তারা বিশ্বস্তভাবে দায়িত্ব পালন করল।"
+      },
+      {
+        "en": "She was a yeoman supporter of the cause.",
+        "bn": "সে কারণের একজন বিশ্বস্ত সমর্থক ছিল।"
+      },
+      {
+        "en": "He carried out yeoman tasks.",
+        "bn": "সে বিশ্বস্তভাবে কাজ সম্পাদন করল।"
+      },
+      {
+        "en": "She did yeoman work behind the scenes.",
+        "bn": "সে পর্দার পেছনে বিশ্বস্তভাবে কাজ করল।"
+      },
+      {
+        "en": "He offered yeoman assistance.",
+        "bn": "সে বিশ্বস্ত সহায়তা দিল।"
+      },
+      {
+        "en": "She rendered yeoman service to her country.",
+        "bn": "সে দেশকে বিশ্বস্ত সেবা দিল।"
+      },
+      {
+        "en": "His yeoman effort paid off.",
+        "bn": "তার বিশ্বস্ত প্রচেষ্টা সফল হল।"
+      },
+      {
+        "en": "She was praised for yeoman service.",
+        "bn": "বিশ্বস্ত সেবার জন্য তাকে প্রশংসা করা হল।"
+      },
+      { "en": "He showed yeoman loyalty.", "bn": "সে বিশ্বস্ত আনুগত্য দেখাল।" },
+      {
+        "en": "She contributed yeoman effort.",
+        "bn": "সে বিশ্বস্ত প্রচেষ্টা দিল।"
+      }
+    ],
+    "synonyms": [
+      "reliable helper",
+      "loyal worker",
+      "faithful servant",
+      "dependable assistant",
+      "steady supporter"
+    ]
+  },
+  {
+    "base": "yoke",
+    "phonetic": "jəʊk",
+    "meaning": "নিয়ন্ত্রণে রাখা",
+    "examples": [
+      {
+        "en": "The ruler yoked the people with taxes.",
+        "bn": "শাসক কর দিয়ে জনগণকে নিয়ন্ত্রণে রাখল।"
+      },
+      {
+        "en": "She was yoked by responsibility.",
+        "bn": "সে দায়িত্বে আবদ্ধ ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He struggled against being yoked.",
+        "bn": "সে নিয়ন্ত্রণের বিরুদ্ধে সংগ্রাম করল।"
+      },
+      {
+        "en": "She freed herself from the yoke of debt.",
+        "bn": "সে ঋণের বন্ধন থেকে মুক্তি পেল।"
+      },
+      {
+        "en": "He was yoked to the same routine.",
+        "bn": "সে একই রুটিনে আবদ্ধ ছিল।"
+      },
+      {
+        "en": "She shook off the yoke of tradition.",
+        "bn": "সে ঐতিহ্যের বন্ধন ঝেড়ে ফেলল।"
+      },
+      {
+        "en": "The country was yoked by foreign rule.",
+        "bn": "দেশটি বিদেশী শাসনে আবদ্ধ ছিল।"
+      },
+      {
+        "en": "He helped others break their yoke.",
+        "bn": "সে অন্যদের বন্ধন ভাঙতে সাহায্য করল।"
+      },
+      {
+        "en": "She was yoked to a difficult life.",
+        "bn": "সে কঠিন জীবনে আবদ্ধ ছিল।"
+      },
+      {
+        "en": "The yoke of expectation was heavy.",
+        "bn": "প্রত্যাশার বোঝা ভারী ছিল।"
+      },
+      {
+        "en": "He refused to be yoked by others.",
+        "bn": "সে অন্যদের দ্বারা নিয়ন্ত্রিত হতে অস্বীকার করল।"
+      },
+      {
+        "en": "She worked to remove the yoke of poverty.",
+        "bn": "সে দারিদ্র্যের বোঝা দূর করতে কাজ করল।"
+      }
+    ],
+    "synonyms": ["control", "bind", "constrain", "restrain", "burden"]
+  },
+  {
+    "base": "yen",
+    "phonetic": "jen",
+    "meaning": "তীব্র ইচ্ছা / জাপানি মুদ্রা",
+    "examples": [
+      {
+        "en": "She had a yen for travel.",
+        "bn": "ভ্রমণের প্রতি তার তীব্র ইচ্ছা ছিল।"
+      },
+      {
+        "en": "He exchanged dollars for yen.",
+        "bn": "সে ডলার ইয়েনে পরিবর্তন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She always had a yen for music.",
+        "bn": "সঙ্গীতের প্রতি তার সবসময় তীব্র ইচ্ছা ছিল।"
+      },
+      {
+        "en": "He had a yen for adventure.",
+        "bn": "অ্যাডভেঞ্চারের প্রতি তার তীব্র ইচ্ছা ছিল।"
+      },
+      {
+        "en": "The yen weakened against the dollar.",
+        "bn": "ডলারের বিপরীতে ইয়েন দুর্বল হল।"
+      },
+      {
+        "en": "She had a yen to learn painting.",
+        "bn": "চিত্রকলা শেখার তীব্র ইচ্ছা তার ছিল।"
+      },
+      {
+        "en": "He satisfied his yen for cooking.",
+        "bn": "সে রান্নার তীব্র ইচ্ছা পূরণ করল।"
+      },
+      {
+        "en": "She had a yen for Japanese food.",
+        "bn": "জাপানি খাবারের প্রতি তার তীব্র ইচ্ছা ছিল।"
+      },
+      {
+        "en": "He always had a yen for the sea.",
+        "bn": "সমুদ্রের প্রতি তার সবসময় তীব্র ইচ্ছা ছিল।"
+      },
+      {
+        "en": "The yen is Japan's official currency.",
+        "bn": "ইয়েন জাপানের সরকারি মুদ্রা।"
+      },
+      {
+        "en": "She felt a yen for simpler times.",
+        "bn": "সহজ সময়ের জন্য তার তীব্র ইচ্ছা ছিল।"
+      },
+      {
+        "en": "He had a yen to write a novel.",
+        "bn": "উপন্যাস লেখার তীব্র ইচ্ছা তার ছিল।"
+      }
+    ],
+    "synonyms": ["desire", "craving", "longing", "wish", "Japanese currency"]
+  },
+  {
+    "base": "youngster",
+    "phonetic": "ˈjʌŋstər",
+    "meaning": "কিশোর / তরুণ ব্যক্তি",
+    "examples": [
+      { "en": "The youngster learned quickly.", "bn": "কিশোরটি দ্রুত শিখল।" },
+      {
+        "en": "She mentored many youngsters.",
+        "bn": "সে অনেক তরুণকে পথ দেখাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was a talented youngster.",
+        "bn": "সে একজন প্রতিভাবান কিশোর ছিল।"
+      },
+      {
+        "en": "The youngsters played in the park.",
+        "bn": "কিশোররা পার্কে খেলল।"
+      },
+      {
+        "en": "She helped youngsters find jobs.",
+        "bn": "সে তরুণদের চাকরি খুঁজে পেতে সাহায্য করল।"
+      },
+      {
+        "en": "He was the youngest youngster on the team.",
+        "bn": "সে দলের সবচেয়ে কম বয়সী কিশোর ছিল।"
+      },
+      {
+        "en": "The youngster showed promise.",
+        "bn": "কিশোরটি সম্ভাবনা দেখাল।"
+      },
+      {
+        "en": "She guided the youngsters patiently.",
+        "bn": "সে ধৈর্য সহকারে তরুণদের পথ দেখাল।"
+      },
+      {
+        "en": "The youngster became a champion.",
+        "bn": "কিশোরটি চ্যাম্পিয়ন হয়ে উঠল।"
+      },
+      {
+        "en": "He inspired youngsters to dream big.",
+        "bn": "সে তরুণদের বড় স্বপ্ন দেখতে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "The youngsters worked as a team.",
+        "bn": "কিশোররা দল হিসেবে কাজ করল।"
+      },
+      {
+        "en": "She gave the youngsters a chance.",
+        "bn": "সে তরুণদের সুযোগ দিল।"
+      }
+    ],
+    "synonyms": ["youth", "teenager", "adolescent", "young person", "junior"]
+  },
+  {
+    "base": "yelp",
+    "phonetic": "jelp",
+    "meaning": "তীক্ষ্ণ শব্দ করা",
+    "examples": [
+      {
+        "en": "The fox gave a sharp yelp.",
+        "bn": "শেয়ালটি তীক্ষ্ণ শব্দ করল।"
+      },
+      {
+        "en": "She let out a yelp of surprise.",
+        "bn": "সে আশ্চর্যে তীক্ষ্ণ শব্দ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He yelped when his foot was stepped on.",
+        "bn": "পায়ে পা দেওয়া হলে সে তীক্ষ্ণ শব্দ করল।"
+      },
+      {
+        "en": "The animals yelped in the night.",
+        "bn": "রাতে প্রাণীরা তীক্ষ্ণ শব্দ করল।"
+      },
+      {
+        "en": "She yelped with excitement.",
+        "bn": "উত্তেজনায় সে তীক্ষ্ণ শব্দ করল।"
+      },
+      {
+        "en": "He heard a yelp in the distance.",
+        "bn": "সে দূর থেকে তীক্ষ্ণ শব্দ শুনল।"
+      },
+      {
+        "en": "The puppy gave a tiny yelp.",
+        "bn": "কুকুরছানাটি ছোট তীক্ষ্ণ শব্দ করল।"
+      },
+      {
+        "en": "She yelped as the cold water hit her.",
+        "bn": "ঠান্ডা পানি লাগতেই সে তীক্ষ্ণ শব্দ করল।"
+      },
+      {
+        "en": "He yelped and dropped the cup.",
+        "bn": "তীক্ষ্ণ শব্দ করে সে কাপ ফেলে দিল।"
+      },
+      {
+        "en": "The fox yelped in the dark forest.",
+        "bn": "শেয়ালটি অন্ধকার বনে তীক্ষ্ণ শব্দ করল।"
+      },
+      {
+        "en": "She tried to muffle her yelp.",
+        "bn": "সে তার তীক্ষ্ণ শব্দ দমানোর চেষ্টা করল।"
+      },
+      {
+        "en": "He gave a startled yelp.",
+        "bn": "সে চমকিত হয়ে তীক্ষ্ণ শব্দ করল।"
+      }
+    ],
+    "synonyms": ["squeal", "shriek", "cry", "bark", "whimper"]
+  },
+  {
+    "base": "youthful",
+    "phonetic": "ˈjuːθfl",
+    "meaning": "কিশোরের মতো",
+    "examples": [
+      {
+        "en": "He had a youthful excitement about learning.",
+        "bn": "শেখার প্রতি তার কিশোরের মতো উত্তেজনা ছিল।"
+      },
+      {
+        "en": "Her youthful curiosity impressed the teacher.",
+        "bn": "তার কিশোরের মতো কৌতূহল শিক্ষককে মুগ্ধ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She maintained a youthful outlook.",
+        "bn": "সে কিশোরের মতো দৃষ্টিভঙ্গি বজায় রাখল।"
+      },
+      {
+        "en": "His youthful dreams never faded.",
+        "bn": "তার কিশোরের স্বপ্নগুলো কখনো মিলিয়ে যায়নি।"
+      },
+      {
+        "en": "She had youthful idealism.",
+        "bn": "তার কিশোরের মতো আদর্শবাদ ছিল।"
+      },
+      {
+        "en": "He brought youthful energy to the role.",
+        "bn": "সে ভূমিকায় কিশোরের মতো শক্তি নিয়ে এল।"
+      },
+      {
+        "en": "The youthful athlete trained hard.",
+        "bn": "কিশোর খেলোয়াড়টি কঠোর প্রশিক্ষণ নিল।"
+      },
+      {
+        "en": "She had youthful confidence.",
+        "bn": "তার কিশোরের মতো আত্মবিশ্বাস ছিল।"
+      },
+      {
+        "en": "His youthful laughter filled the room.",
+        "bn": "তার কিশোরের মতো হাসি ঘর ভরিয়ে তুলল।"
+      },
+      {
+        "en": "She retained her youthful wonder.",
+        "bn": "সে তার কিশোরের মতো বিস্ময় ধরে রাখল।"
+      },
+      {
+        "en": "He showed youthful ambition.",
+        "bn": "সে কিশোরের মতো উচ্চাকাঙ্ক্ষা দেখাল।"
+      },
+      {
+        "en": "Youthful mistakes help us grow.",
+        "bn": "কিশোরের মতো ভুলগুলো আমাদের বড় হতে সাহায্য করে।"
+      }
+    ],
+    "synonyms": ["juvenile", "adolescent", "immature", "teenage", "boyish"]
+  },
+  {
+    "base": "zeal",
+    "phonetic": "ziːl",
+    "meaning": "ধর্মীয় উৎসাহ",
+    "examples": [
+      {
+        "en": "She prayed with religious zeal.",
+        "bn": "সে ধর্মীয় উৎসাহে প্রার্থনা করল।"
+      },
+      {
+        "en": "His zeal for his faith was strong.",
+        "bn": "তার বিশ্বাসের প্রতি ধর্মীয় উৎসাহ শক্তিশালী ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She showed zeal in her spiritual life.",
+        "bn": "আধ্যাত্মিক জীবনে সে ধর্মীয় উৎসাহ দেখাল।"
+      },
+      {
+        "en": "He practiced his religion with zeal.",
+        "bn": "সে ধর্মীয় উৎসাহের সাথে ধর্মচর্চা করল।"
+      },
+      {
+        "en": "Her zeal for the faith inspired others.",
+        "bn": "বিশ্বাসের প্রতি তার ধর্মীয় উৎসাহ অন্যদের অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "He served his community with zeal.",
+        "bn": "সে ধর্মীয় উৎসাহের সাথে সমাজকে সেবা করল।"
+      },
+      {
+        "en": "Zeal without wisdom can mislead.",
+        "bn": "জ্ঞান ছাড়া ধর্মীয় উৎসাহ বিপথে নিয়ে যেতে পারে।"
+      },
+      {
+        "en": "She gave her zeal to charitable work.",
+        "bn": "সে দাতব্য কাজে ধর্মীয় উৎসাহ দিল।"
+      },
+      {
+        "en": "He approached worship with great zeal.",
+        "bn": "সে অনেক ধর্মীয় উৎসাহের সাথে উপাসনায় এগিয়ে এল।"
+      },
+      {
+        "en": "Her zeal for prayer was daily.",
+        "bn": "প্রার্থনার প্রতি তার ধর্মীয় উৎসাহ ছিল প্রতিদিনের।"
+      },
+      {
+        "en": "He carried out his religious duties with zeal.",
+        "bn": "সে ধর্মীয় উৎসাহের সাথে তার ধর্মীয় দায়িত্ব পালন করল।"
+      },
+      {
+        "en": "She combined zeal with humility.",
+        "bn": "সে ধর্মীয় উৎসাহকে বিনয়ের সাথে মেলাল।"
+      }
+    ],
+    "synonyms": ["piety", "devotion", "religious fervor", "faith", "reverence"]
+  },
+  {
+    "base": "yore",
+    "phonetic": "jɔːr",
+    "meaning": "স্মরণীয় অতীত",
+    "examples": [
+      {
+        "en": "The legends of yore live on.",
+        "bn": "স্মরণীয় অতীতের কিংবদন্তি বেঁচে আছে।"
+      },
+      {
+        "en": "She loved the architecture of yore.",
+        "bn": "সে স্মরণীয় অতীতের স্থাপত্য পছন্দ করত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He collected artifacts from yore.",
+        "bn": "সে স্মরণীয় অতীতের নিদর্শন সংগ্রহ করল।"
+      },
+      {
+        "en": "The poetry of yore still moves people.",
+        "bn": "স্মরণীয় অতীতের কবিতা এখনও মানুষকে আলোড়িত করে।"
+      },
+      {
+        "en": "She preserved recipes from yore.",
+        "bn": "সে স্মরণীয় অতীতের রেসিপি সংরক্ষণ করল।"
+      },
+      {
+        "en": "The clothing of yore was elaborate.",
+        "bn": "স্মরণীয় অতীতের পোশাক বিস্তারিত ছিল।"
+      },
+      {
+        "en": "He told stories of yore.",
+        "bn": "সে স্মরণীয় অতীতের গল্প বলল।"
+      },
+      {
+        "en": "The culture of yore was rich.",
+        "bn": "স্মরণীয় অতীতের সংস্কৃতি সমৃদ্ধ ছিল।"
+      },
+      {
+        "en": "She remembered the kings of yore.",
+        "bn": "সে স্মরণীয় অতীতের রাজাদের মনে করল।"
+      },
+      {
+        "en": "His grandfather spoke of yore fondly.",
+        "bn": "তার দাদা স্নেহের সাথে স্মরণীয় অতীতের কথা বললেন।"
+      },
+      {
+        "en": "The marketplace of yore was vibrant.",
+        "bn": "স্মরণীয় অতীতের বাজার প্রাণবন্ত ছিল।"
+      },
+      {
+        "en": "She treasured the wisdom of yore.",
+        "bn": "সে স্মরণীয় অতীতের জ্ঞান মূল্যবান মনে করত।"
+      }
+    ],
+    "synonyms": [
+      "memorable past",
+      "golden age",
+      "olden days",
+      "history",
+      "bygone era"
+    ]
+  },
+  {
+    "base": "yardstick",
+    "phonetic": "ˈjɑːdstɪk",
+    "meaning": "মানদণ্ড / পরিমাপের কাঠি",
+    "examples": [
+      {
+        "en": "Success is not the only yardstick.",
+        "bn": "সাফল্যই একমাত্র মানদণ্ড নয়।"
+      },
+      {
+        "en": "She used kindness as a yardstick.",
+        "bn": "সে দয়াকে মানদণ্ড হিসেবে ব্যবহার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He measured progress by a clear yardstick.",
+        "bn": "সে স্পষ্ট মানদণ্ড দিয়ে অগ্রগতি পরিমাপ করল।"
+      },
+      {
+        "en": "She set a yardstick for quality.",
+        "bn": "সে গুণমানের মানদণ্ড স্থাপন করল।"
+      },
+      {
+        "en": "The company used performance as a yardstick.",
+        "bn": "কোম্পানি পারফরম্যান্সকে মানদণ্ড হিসেবে ব্যবহার করল।"
+      },
+      {
+        "en": "He applied a yardstick to every decision.",
+        "bn": "সে প্রতিটি সিদ্ধান্তে মানদণ্ড প্রয়োগ করল।"
+      },
+      {
+        "en": "Honesty was the yardstick she lived by.",
+        "bn": "সততা ছিল তার জীবনের মানদণ্ড।"
+      },
+      {
+        "en": "The teacher used effort as a yardstick.",
+        "bn": "শিক্ষক প্রচেষ্টাকে মানদণ্ড হিসেবে ব্যবহার করলেন।"
+      },
+      {
+        "en": "A yardstick helps compare standards.",
+        "bn": "মানদণ্ড মান তুলনা করতে সাহায্য করে।"
+      },
+      {
+        "en": "She held others to her yardstick.",
+        "bn": "সে অন্যদের তার মানদণ্ডে ধরল।"
+      },
+      {
+        "en": "He used the law as a yardstick.",
+        "bn": "সে আইনকে মানদণ্ড হিসেবে ব্যবহার করল।"
+      },
+      {
+        "en": "The yardstick of success varies.",
+        "bn": "সাফল্যের মানদণ্ড ভিন্ন হয়।"
+      }
+    ],
+    "synonyms": ["standard", "benchmark", "criterion", "measure", "scale"]
+  },
+  {
+    "base": "yokel",
+    "phonetic": "ˈjəʊkl",
+    "meaning": "গ্রাম্য লোক / সরলমতি মানুষ",
+    "examples": [
+      {
+        "en": "He was called a yokel by city folks.",
+        "bn": "শহরের মানুষেরা তাকে গ্রাম্য লোক বলল।"
+      },
+      {
+        "en": "She played the role of a yokel.",
+        "bn": "সে গ্রাম্য লোকের ভূমিকায় অভিনয় করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The yokel was amazed by the city lights.",
+        "bn": "গ্রাম্য লোকটি শহরের আলোয় অবাক হয়ে গেল।"
+      },
+      {
+        "en": "He was no yokel despite his simple manner.",
+        "bn": "সহজ আচরণ সত্ত্বেও সে কোনো গ্রাম্য লোক ছিল না।"
+      },
+      {
+        "en": "The yokel asked innocent questions.",
+        "bn": "গ্রাম্য লোকটি সরল প্রশ্ন করল।"
+      },
+      {
+        "en": "She felt like a yokel in the big city.",
+        "bn": "বড় শহরে সে গ্রাম্য মানুষের মতো অনুভব করল।"
+      },
+      {
+        "en": "He was treated like a yokel.",
+        "bn": "তাকে গ্রাম্য লোকের মতো আচরণ করা হল।"
+      },
+      {
+        "en": "The character was portrayed as a yokel.",
+        "bn": "চরিত্রটিকে গ্রাম্য লোক হিসেবে উপস্থাপন করা হল।"
+      },
+      {
+        "en": "She did not want to seem like a yokel.",
+        "bn": "সে গ্রাম্য লোকের মতো দেখাতে চাইনি।"
+      },
+      {
+        "en": "He spoke with yokel simplicity.",
+        "bn": "সে গ্রাম্য সরলতায় কথা বলল।"
+      },
+      {
+        "en": "The yokel surprised everyone with his wisdom.",
+        "bn": "গ্রাম্য লোকটি তার জ্ঞানে সবাইকে অবাক করল।"
+      },
+      {
+        "en": "She wrote a story about a clever yokel.",
+        "bn": "সে একজন চতুর গ্রাম্য লোক নিয়ে গল্প লিখল।"
+      }
+    ],
+    "synonyms": ["rustic", "country person", "bumpkin", "hayseed", "villager"]
+  },
+  {
+    "base": "yearlong",
+    "phonetic": "ˈjɪərˌlɒŋ",
+    "meaning": "বছরব্যাপী / সারা বছর ধরে",
+    "examples": [
+      {
+        "en": "She did a yearlong project.",
+        "bn": "সে একটি বছরব্যাপী প্রকল্প করল।"
+      },
+      {
+        "en": "He completed a yearlong training.",
+        "bn": "সে একটি বছরব্যাপী প্রশিক্ষণ সম্পন্ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The yearlong drought hurt farmers.",
+        "bn": "বছরব্যাপী খরা কৃষকদের ক্ষতি করল।"
+      },
+      {
+        "en": "She undertook a yearlong journey.",
+        "bn": "সে একটি বছরব্যাপী যাত্রা করল।"
+      },
+      {
+        "en": "He attended a yearlong course.",
+        "bn": "সে একটি বছরব্যাপী কোর্সে অংশ নিল।"
+      },
+      {
+        "en": "The yearlong effort finally paid off.",
+        "bn": "বছরব্যাপী প্রচেষ্টা অবশেষে সফল হল।"
+      },
+      {
+        "en": "She made a yearlong commitment.",
+        "bn": "সে একটি বছরব্যাপী প্রতিশ্রুতি করল।"
+      },
+      {
+        "en": "The yearlong celebration was amazing.",
+        "bn": "বছরব্যাপী উদযাপন অসাধারণ ছিল।"
+      },
+      {
+        "en": "He worked on a yearlong research.",
+        "bn": "সে বছরব্যাপী গবেষণায় কাজ করল।"
+      },
+      {
+        "en": "She experienced a yearlong adventure.",
+        "bn": "সে একটি বছরব্যাপী অ্যাডভেঞ্চার অনুভব করল।"
+      },
+      {
+        "en": "The yearlong project improved the city.",
+        "bn": "বছরব্যাপী প্রকল্পটি শহর উন্নত করল।"
+      },
+      {
+        "en": "He dedicated a yearlong effort.",
+        "bn": "সে বছরব্যাপী প্রচেষ্টা নিবেদন করল।"
+      }
+    ],
+    "synonyms": [
+      "year-round",
+      "annual",
+      "twelve-month",
+      "all-year",
+      "continuous"
+    ]
+  },
+  {
+    "base": "yogi",
+    "phonetic": "ˈjəʊɡi",
+    "meaning": "যোগী / যোগব্যায়াম অনুশীলনকারী",
+    "examples": [
+      {
+        "en": "She became a dedicated yogi.",
+        "bn": "সে একজন নিবেদিত যোগী হয়ে উঠল।"
+      },
+      {
+        "en": "The yogi meditated in silence.",
+        "bn": "যোগী নীরবে ধ্যান করলেন।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He trained under a wise yogi.",
+        "bn": "সে একজন জ্ঞানী যোগীর অধীনে প্রশিক্ষণ নিল।"
+      },
+      {
+        "en": "The yogi taught breathing techniques.",
+        "bn": "যোগী শ্বাসক্রিয়ার কৌশল শেখালেন।"
+      },
+      {
+        "en": "She aspired to be a yogi.",
+        "bn": "সে যোগী হওয়ার আকাঙ্ক্ষা করল।"
+      },
+      {
+        "en": "The yogi lived a simple life.",
+        "bn": "যোগী সরল জীবন যাপন করলেন।"
+      },
+      {
+        "en": "He became a yogi after retirement.",
+        "bn": "অবসরের পরে সে যোগী হয়ে উঠল।"
+      },
+      {
+        "en": "The yogi shared wisdom with everyone.",
+        "bn": "যোগী সবার সাথে জ্ঞান ভাগ করলেন।"
+      },
+      {
+        "en": "She learned balance from a yogi.",
+        "bn": "সে একজন যোগীর কাছ থেকে ভারসাম্য শিখল।"
+      },
+      {
+        "en": "The yogi practiced daily without fail.",
+        "bn": "যোগী প্রতিদিন বিনা ব্যর্থতায় অনুশীলন করলেন।"
+      },
+      {
+        "en": "He admired the yogi's discipline.",
+        "bn": "সে যোগীর শৃঙ্খলার প্রশংসা করল।"
+      },
+      {
+        "en": "She wrote about the life of a yogi.",
+        "bn": "সে একজন যোগীর জীবন নিয়ে লিখল।"
+      }
+    ],
+    "synonyms": [
+      "meditator",
+      "guru",
+      "sage",
+      "ascetic",
+      "wellness practitioner"
+    ]
+  },
+  {
+    "base": "yore",
+    "phonetic": "jɔːr",
+    "meaning": "ঐতিহাসিক সময়",
+    "examples": [
+      {
+        "en": "The battles of yore shaped history.",
+        "bn": "ঐতিহাসিক সময়ের যুদ্ধগুলো ইতিহাস গড়েছে।"
+      },
+      {
+        "en": "She studied the language of yore.",
+        "bn": "সে ঐতিহাসিক সময়ের ভাষা অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The maps of yore are fascinating.",
+        "bn": "ঐতিহাসিক সময়ের মানচিত্রগুলো আকর্ষণীয়।"
+      },
+      {
+        "en": "He read the writings of yore.",
+        "bn": "সে ঐতিহাসিক সময়ের লেখা পড়ল।"
+      },
+      {
+        "en": "The empires of yore once dominated.",
+        "bn": "ঐতিহাসিক সময়ের সাম্রাজ্যগুলো একসময় প্রভাব বিস্তার করেছিল।"
+      },
+      {
+        "en": "She studied rulers of yore.",
+        "bn": "সে ঐতিহাসিক সময়ের শাসকদের অধ্যয়ন করল।"
+      },
+      {
+        "en": "The discoveries of yore changed science.",
+        "bn": "ঐতিহাসিক সময়ের আবিষ্কারগুলো বিজ্ঞান পরিবর্তন করল।"
+      },
+      {
+        "en": "He retraced the journeys of yore.",
+        "bn": "সে ঐতিহাসিক সময়ের যাত্রাগুলো পুনরায় অনুসরণ করল।"
+      },
+      {
+        "en": "The philosophers of yore inspire today.",
+        "bn": "ঐতিহাসিক সময়ের দার্শনিকরা আজও অনুপ্রাণিত করেন।"
+      },
+      {
+        "en": "She admired the craftsmanship of yore.",
+        "bn": "সে ঐতিহাসিক সময়ের কারুশিল্পের প্রশংসা করল।"
+      },
+      {
+        "en": "The traditions of yore still continue.",
+        "bn": "ঐতিহাসিক সময়ের ঐতিহ্যগুলো এখনও অব্যাহত আছে।"
+      },
+      {
+        "en": "He honored the sacrifices of yore.",
+        "bn": "সে ঐতিহাসিক সময়ের ত্যাগকে সম্মান করল।"
+      }
+    ],
+    "synonyms": [
+      "historical era",
+      "ancient time",
+      "former age",
+      "distant past",
+      "antiquity"
+    ]
+  },
+  {
+    "base": "youthful",
+    "phonetic": "ˈjuːθfl",
+    "meaning": "উদ্যমী",
+    "examples": [
+      {
+        "en": "She had a youthful drive.",
+        "bn": "তার উদ্যমী চালিকাশক্তি ছিল।"
+      },
+      {
+        "en": "He was youthful in his thinking.",
+        "bn": "চিন্তাভাবনায় সে উদ্যমী ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She tackled problems with youthful energy.",
+        "bn": "সে উদ্যমী শক্তি নিয়ে সমস্যার মোকাবেলা করল।"
+      },
+      {
+        "en": "His youthful creativity amazed everyone.",
+        "bn": "তার উদ্যমী সৃজনশীলতা সবাইকে অবাক করল।"
+      },
+      {
+        "en": "She maintained her youthful passion.",
+        "bn": "সে তার উদ্যমী আবেগ বজায় রাখল।"
+      },
+      {
+        "en": "He brought youthful optimism.",
+        "bn": "সে উদ্যমী আশাবাদ নিয়ে এল।"
+      },
+      {
+        "en": "Youthful thinking breaks barriers.",
+        "bn": "উদ্যমী চিন্তা বাধা ভাঙে।"
+      },
+      {
+        "en": "She possessed youthful determination.",
+        "bn": "তার উদ্যমী সংকল্প ছিল।"
+      },
+      {
+        "en": "He showed youthful resilience.",
+        "bn": "সে উদ্যমী স্থিতিস্থাপকতা দেখাল।"
+      },
+      {
+        "en": "She had a youthful attitude toward change.",
+        "bn": "পরিবর্তনের প্রতি তার উদ্যমী মনোভাব ছিল।"
+      },
+      {
+        "en": "His youthful daring impressed the team.",
+        "bn": "তার উদ্যমী সাহস দলকে মুগ্ধ করল।"
+      },
+      {
+        "en": "She pursued goals with youthful fire.",
+        "bn": "সে উদ্যমী আগুন নিয়ে লক্ষ্য অনুসরণ করল।"
+      }
+    ],
+    "synonyms": ["spirited", "ambitious", "bold", "driven", "dynamic"]
+  },
+  {
+    "base": "yearn",
+    "phonetic": "jɜːn",
+    "meaning": "মন টানা / আকর্ষণ অনুভব করা",
+    "examples": [
+      {
+        "en": "She yearned for the mountains.",
+        "bn": "পাহাড়ের জন্য তার মন টানছিল।"
+      },
+      {
+        "en": "He yearned for a quiet place.",
+        "bn": "শান্ত জায়গার জন্য তার মন টানছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She yearned for the sea.",
+        "bn": "সমুদ্রের জন্য তার মন টানছিল।"
+      },
+      {
+        "en": "He yearned for his childhood home.",
+        "bn": "শৈশবের বাড়ির জন্য তার মন টানছিল।"
+      },
+      {
+        "en": "She yearned for warmth and comfort.",
+        "bn": "উষ্ণতা ও আরামের জন্য তার মন টানছিল।"
+      },
+      {
+        "en": "He yearned to reconnect with nature.",
+        "bn": "প্রকৃতির সাথে পুনরায় সংযুক্ত হতে তার মন টানছিল।"
+      },
+      {
+        "en": "She yearned for genuine friendship.",
+        "bn": "সত্যিকারের বন্ধুত্বের জন্য তার মন টানছিল।"
+      },
+      {
+        "en": "He yearned for the old neighborhood.",
+        "bn": "পুরনো পাড়ার জন্য তার মন টানছিল।"
+      },
+      {
+        "en": "She yearned for the taste of home cooking.",
+        "bn": "ঘরের রান্নার স্বাদের জন্য তার মন টানছিল।"
+      },
+      {
+        "en": "He yearned for a sense of belonging.",
+        "bn": "অন্তর্ভুক্তির অনুভূতির জন্য তার মন টানছিল।"
+      },
+      {
+        "en": "She yearned for lost relationships.",
+        "bn": "হারানো সম্পর্কের জন্য তার মন টানছিল।"
+      },
+      {
+        "en": "He yearned for music from his homeland.",
+        "bn": "মাতৃভূমির সঙ্গীতের জন্য তার মন টানছিল।"
+      }
+    ],
+    "synonyms": ["long for", "miss", "pine for", "hunger for", "feel drawn to"]
+  },
+  {
+    "base": "youngish",
+    "phonetic": "ˈjʌŋɪʃ",
+    "meaning": "মোটামুটি তরুণ",
+    "examples": [
+      {
+        "en": "She looked youngish for her age.",
+        "bn": "বয়সের তুলনায় সে মোটামুটি তরুণ দেখাচ্ছিল।"
+      },
+      { "en": "He had a youngish face.", "bn": "তার মোটামুটি তরুণ চেহারা ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The teacher was youngish and energetic.",
+        "bn": "শিক্ষক মোটামুটি তরুণ ও উদ্যমী ছিলেন।"
+      },
+      {
+        "en": "She appeared youngish in the photo.",
+        "bn": "ছবিতে সে মোটামুটি তরুণ দেখাচ্ছিল।"
+      },
+      {
+        "en": "He had a youngish perspective.",
+        "bn": "তার মোটামুটি তরুণ দৃষ্টিভঙ্গি ছিল।"
+      },
+      {
+        "en": "She joined the youngish crowd.",
+        "bn": "সে মোটামুটি তরুণ ভিড়ে যোগ দিল।"
+      },
+      {
+        "en": "His youngish attitude surprised people.",
+        "bn": "তার মোটামুটি তরুণ মনোভাব মানুষকে অবাক করল।"
+      },
+      {
+        "en": "She maintained a youngish appearance.",
+        "bn": "সে মোটামুটি তরুণ চেহারা বজায় রাখল।"
+      },
+      { "en": "He had youngish energy.", "bn": "তার মোটামুটি তরুণ শক্তি ছিল।" },
+      {
+        "en": "The youngish manager led well.",
+        "bn": "মোটামুটি তরুণ ম্যানেজার ভালো নেতৃত্ব দিলেন।"
+      },
+      {
+        "en": "She kept a youngish mindset.",
+        "bn": "সে মোটামুটি তরুণ মানসিকতা বজায় রাখল।"
+      },
+      {
+        "en": "He seemed youngish for his experience.",
+        "bn": "অভিজ্ঞতার তুলনায় সে মোটামুটি তরুণ মনে হল।"
+      }
+    ],
+    "synonyms": [
+      "fairly young",
+      "relatively young",
+      "youthful-looking",
+      "not old",
+      "moderately young"
+    ]
+  },
+  {
+    "base": "yore",
+    "phonetic": "jɔːr",
+    "meaning": "প্রাচীন যুগ",
+    "examples": [
+      {
+        "en": "The warriors of yore were legendary.",
+        "bn": "প্রাচীন যুগের যোদ্ধারা কিংবদন্তি ছিল।"
+      },
+      {
+        "en": "She studied the medicine of yore.",
+        "bn": "সে প্রাচীন যুগের চিকিৎসা অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The temples of yore still stand.",
+        "bn": "প্রাচীন যুগের মন্দিরগুলো এখনও দাঁড়িয়ে আছে।"
+      },
+      {
+        "en": "He studied the science of yore.",
+        "bn": "সে প্রাচীন যুগের বিজ্ঞান অধ্যয়ন করল।"
+      },
+      {
+        "en": "She admired the art of yore.",
+        "bn": "সে প্রাচীন যুগের শিল্পের প্রশংসা করল।"
+      },
+      {
+        "en": "The laws of yore were strict.",
+        "bn": "প্রাচীন যুগের আইনগুলো কঠোর ছিল।"
+      },
+      {
+        "en": "He collected coins from yore.",
+        "bn": "সে প্রাচীন যুগের মুদ্রা সংগ্রহ করল।"
+      },
+      {
+        "en": "The beliefs of yore shaped culture.",
+        "bn": "প্রাচীন যুগের বিশ্বাসগুলো সংস্কৃতি গড়েছে।"
+      },
+      {
+        "en": "She translated texts from yore.",
+        "bn": "সে প্রাচীন যুগের গ্রন্থ অনুবাদ করল।"
+      },
+      {
+        "en": "The cities of yore were well-planned.",
+        "bn": "প্রাচীন যুগের শহরগুলো সুপরিকল্পিত ছিল।"
+      },
+      {
+        "en": "He restored paintings from yore.",
+        "bn": "সে প্রাচীন যুগের চিত্রকর্ম পুনরুদ্ধার করল।"
+      },
+      {
+        "en": "She honored the scholars of yore.",
+        "bn": "সে প্রাচীন যুগের পণ্ডিতদের সম্মান জানাল।"
+      }
+    ],
+    "synonyms": [
+      "ancient era",
+      "classical age",
+      "prehistoric time",
+      "olden era",
+      "historical period"
+    ]
+  },
+  {
+    "base": "yearning",
+    "phonetic": "ˈjɜːnɪŋ",
+    "meaning": "মনের টান",
+    "examples": [
+      {
+        "en": "The yearning in his voice was clear.",
+        "bn": "তার কণ্ঠে মনের টান স্পষ্ট ছিল।"
+      },
+      {
+        "en": "She felt a yearning for her hometown.",
+        "bn": "নিজ শহরের জন্য তার মনের টান ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He had an undeniable yearning.",
+        "bn": "তার অনস্বীকার্য মনের টান ছিল।"
+      },
+      {
+        "en": "She expressed her yearning through art.",
+        "bn": "সে শিল্পের মাধ্যমে মনের টান প্রকাশ করল।"
+      },
+      {
+        "en": "His yearning led him back home.",
+        "bn": "মনের টান তাকে বাড়িতে ফিরিয়ে আনল।"
+      },
+      {
+        "en": "She felt a yearning for childhood.",
+        "bn": "শৈশবের জন্য তার মনের টান ছিল।"
+      },
+      {
+        "en": "The yearning grew stronger over time.",
+        "bn": "সময়ের সাথে মনের টান শক্তিশালী হল।"
+      },
+      {
+        "en": "He wrote letters full of yearning.",
+        "bn": "সে মনের টানে পরিপূর্ণ চিঠি লিখল।"
+      },
+      {
+        "en": "She had a yearning to belong.",
+        "bn": "তার আপন হওয়ার মনের টান ছিল।"
+      },
+      {
+        "en": "His eyes showed yearning.",
+        "bn": "তার চোখে মনের টান দেখা গেল।"
+      },
+      {
+        "en": "She satisfied her yearning for change.",
+        "bn": "সে পরিবর্তনের মনের টান পূরণ করল।"
+      },
+      {
+        "en": "The yearning for peace is universal.",
+        "bn": "শান্তির জন্য মনের টান সর্বজনীন।"
+      }
+    ],
+    "synonyms": [
+      "longing",
+      "nostalgia",
+      "homesickness",
+      "heartache",
+      "inner pull"
+    ]
+  },
+  {
+    "base": "yell",
+    "phonetic": "jel",
+    "meaning": "রাগে চিৎকার করা",
+    "examples": [
+      {
+        "en": "She yelled at him in anger.",
+        "bn": "সে রাগে তার দিকে চিৎকার করল।"
+      },
+      {
+        "en": "He yelled when he was frustrated.",
+        "bn": "সে হতাশ হলে রাগে চিৎকার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She yelled to be heard above the noise.",
+        "bn": "শোরগোলের মধ্যে শোনাতে সে চিৎকার করল।"
+      },
+      {
+        "en": "He yelled at the referee.",
+        "bn": "সে রেফারির দিকে রাগে চিৎকার করল।"
+      },
+      {
+        "en": "She yelled and slammed the door.",
+        "bn": "সে চিৎকার করে দরজা বন্ধ করল।"
+      },
+      {
+        "en": "He regretted yelling at his friend.",
+        "bn": "বন্ধুর দিকে রাগে চিৎকার করার জন্য সে অনুতাপ করল।"
+      },
+      {
+        "en": "She was told not to yell.",
+        "bn": "তাকে চিৎকার না করতে বলা হল।"
+      },
+      {
+        "en": "He yelled instructions during the drill.",
+        "bn": "ড্রিলের সময় সে নির্দেশ চিৎকার করল।"
+      },
+      { "en": "She yelled in disbelief.", "bn": "অবিশ্বাসে সে চিৎকার করল।" },
+      {
+        "en": "He yelled across the loud stadium.",
+        "bn": "সে জোরালো স্টেডিয়ামে চিৎকার করল।"
+      },
+      {
+        "en": "She tried to calm him instead of yelling.",
+        "bn": "চিৎকার করার বদলে সে তাকে শান্ত করার চেষ্টা করল।"
+      },
+      { "en": "He yelled for attention.", "bn": "মনোযোগের জন্য সে চিৎকার করল।" }
+    ],
+    "synonyms": ["shout angrily", "bawl", "roar", "thunder", "bark"]
+  },
+  {
+    "base": "yoke",
+    "phonetic": "jəʊk",
+    "meaning": "দায়িত্বের ভার",
+    "examples": [
+      {
+        "en": "The yoke of leadership was heavy.",
+        "bn": "নেতৃত্বের দায়িত্বের ভার ছিল ভারী।"
+      },
+      {
+        "en": "She bore the yoke with grace.",
+        "bn": "সে সৌজন্যের সাথে দায়িত্বের ভার বহন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He took on the yoke of family duties.",
+        "bn": "সে পারিবারিক দায়িত্বের ভার গ্রহণ করল।"
+      },
+      {
+        "en": "The yoke of expectation weighed on her.",
+        "bn": "প্রত্যাশার দায়িত্বের ভার তার উপর চাপল।"
+      },
+      {
+        "en": "She felt the yoke of responsibility.",
+        "bn": "সে দায়িত্বের ভার অনুভব করল।"
+      },
+      {
+        "en": "He shared the yoke with his partner.",
+        "bn": "সে সঙ্গীর সাথে দায়িত্বের ভার ভাগ করে নিল।"
+      },
+      {
+        "en": "The yoke of caring for others is noble.",
+        "bn": "অন্যদের যত্নের দায়িত্বের ভার মহৎ।"
+      },
+      {
+        "en": "She accepted the yoke willingly.",
+        "bn": "সে স্বেচ্ছায় দায়িত্বের ভার গ্রহণ করল।"
+      },
+      {
+        "en": "He struggled under the yoke of debt.",
+        "bn": "সে ঋণের দায়িত্বের ভারে সংগ্রাম করল।"
+      },
+      {
+        "en": "She lifted the yoke from her family.",
+        "bn": "সে পরিবার থেকে দায়িত্বের ভার তুলল।"
+      },
+      {
+        "en": "The yoke of poverty is hard to escape.",
+        "bn": "দারিদ্র্যের দায়িত্বের ভার থেকে মুক্তি পাওয়া কঠিন।"
+      },
+      {
+        "en": "He carried the yoke with dignity.",
+        "bn": "সে মর্যাদার সাথে দায়িত্বের ভার বহন করল।"
+      }
+    ],
+    "synonyms": ["burden", "responsibility", "obligation", "weight", "duty"]
+  },
+  {
+    "base": "yen",
+    "phonetic": "jen",
+    "meaning": "আকর্ষণ / প্রবল ইচ্ছা",
+    "examples": [
+      {
+        "en": "She had a yen for painting.",
+        "bn": "চিত্রকলার প্রতি তার প্রবল ইচ্ছা ছিল।"
+      },
+      {
+        "en": "He had a yen to explore the jungle.",
+        "bn": "জঙ্গল অন্বেষণের প্রবল ইচ্ছা তার ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She had a yen for old movies.",
+        "bn": "পুরনো চলচ্চিত্রের প্রতি তার প্রবল ইচ্ছা ছিল।"
+      },
+      {
+        "en": "He had a yen for mountain climbing.",
+        "bn": "পাহাড় চড়ার প্রবল ইচ্ছা তার ছিল।"
+      },
+      {
+        "en": "She had a yen for traditional crafts.",
+        "bn": "ঐতিহ্যবাহী শিল্পের প্রতি তার প্রবল ইচ্ছা ছিল।"
+      },
+      {
+        "en": "He had a yen for reading philosophy.",
+        "bn": "দর্শন পড়ার প্রবল ইচ্ছা তার ছিল।"
+      },
+      {
+        "en": "She followed her yen for writing.",
+        "bn": "সে লেখার প্রবল ইচ্ছা অনুসরণ করল।"
+      },
+      {
+        "en": "He had a yen for late-night conversations.",
+        "bn": "রাতের আলোচনার প্রতি তার প্রবল ইচ্ছা ছিল।"
+      },
+      {
+        "en": "She had a yen for baking bread.",
+        "bn": "রুটি বেক করার প্রবল ইচ্ছা তার ছিল।"
+      },
+      {
+        "en": "His yen for knowledge drove him forward.",
+        "bn": "জ্ঞানের প্রবল ইচ্ছা তাকে এগিয়ে নিয়ে গেল।"
+      },
+      {
+        "en": "She developed a yen for languages.",
+        "bn": "ভাষার প্রতি তার প্রবল ইচ্ছা তৈরি হল।"
+      },
+      {
+        "en": "He always had a yen for challenges.",
+        "bn": "চ্যালেঞ্জের প্রতি তার সবসময় প্রবল ইচ্ছা ছিল।"
+      }
+    ],
+    "synonyms": ["urge", "attraction", "inclination", "pull", "hunger"]
+  },
+  {
+    "base": "yield",
+    "phonetic": "jiːld",
+    "meaning": "ফলাফল দেওয়া",
+    "examples": [
+      {
+        "en": "Hard work yields success.",
+        "bn": "পরিশ্রম সাফল্যের ফলাফল দেয়।"
+      },
+      {
+        "en": "The study yielded important findings.",
+        "bn": "গবেষণাটি গুরুত্বপূর্ণ ফলাফল দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The experiment yielded new knowledge.",
+        "bn": "পরীক্ষাটি নতুন জ্ঞানের ফলাফল দিল।"
+      },
+      { "en": "She yielded impressive results.", "bn": "সে চমৎকার ফলাফল দিল।" },
+      {
+        "en": "The effort yielded measurable change.",
+        "bn": "প্রচেষ্টা পরিমাপযোগ্য পরিবর্তনের ফলাফল দিল।"
+      },
+      {
+        "en": "He waited to see what the analysis would yield.",
+        "bn": "সে অপেক্ষা করল বিশ্লেষণ কী ফলাফল দেবে তা দেখতে।"
+      },
+      {
+        "en": "The plan yielded positive outcomes.",
+        "bn": "পরিকল্পনাটি ইতিবাচক ফলাফল দিল।"
+      },
+      {
+        "en": "She was surprised by what the search yielded.",
+        "bn": "অনুসন্ধান যা ফলাফল দিল তাতে সে অবাক হল।"
+      },
+      {
+        "en": "His dedication yielded recognition.",
+        "bn": "তার নিষ্ঠা স্বীকৃতির ফলাফল দিল।"
+      },
+      {
+        "en": "The garden yielded flowers all season.",
+        "bn": "সারা মৌসুম বাগান ফুলের ফলাফল দিল।"
+      },
+      {
+        "en": "She discovered what persistence could yield.",
+        "bn": "সে আবিষ্কার করল অধ্যবসায় কী ফলাফল দিতে পারে।"
+      },
+      {
+        "en": "The project yielded beyond expectations.",
+        "bn": "প্রকল্পটি প্রত্যাশার চেয়ে বেশি ফলাফল দিল।"
+      }
+    ],
+    "synonyms": ["produce", "result in", "bring", "generate", "offer"]
+  },
+  {
+    "base": "yell",
+    "phonetic": "jel",
+    "meaning": "উৎসাহে চিৎকার করা",
+    "examples": [
+      {
+        "en": "Fans yelled for their team.",
+        "bn": "ভক্তরা তাদের দলের জন্য উৎসাহে চিৎকার করল।"
+      },
+      {
+        "en": "She yelled with joy at the news.",
+        "bn": "সংবাদে সে উৎসাহে চিৎকার করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He yelled in triumph.", "bn": "বিজয়ে সে উৎসাহে চিৎকার করল।" },
+      {
+        "en": "She yelled encouragement to the runners.",
+        "bn": "সে দৌড়বিদদের উৎসাহে চিৎকার দিল।"
+      },
+      {
+        "en": "The children yelled and laughed.",
+        "bn": "শিশুরা উৎসাহে চিৎকার করে হাসল।"
+      },
+      {
+        "en": "He yelled his congratulations.",
+        "bn": "সে উৎসাহে অভিনন্দন জানাল।"
+      },
+      {
+        "en": "She yelled hurrah at the finish line.",
+        "bn": "শেষ রেখায় সে উৎসাহে হুররা চিৎকার করল।"
+      },
+      {
+        "en": "He yelled yes when he won.",
+        "bn": "জেতার সময় সে উৎসাহে হ্যাঁ চিৎকার করল।"
+      },
+      {
+        "en": "She yelled at the top of her lungs.",
+        "bn": "সে গলার সর্বোচ্চ শক্তিতে উৎসাহে চিৎকার করল।"
+      },
+      {
+        "en": "They all yelled together.",
+        "bn": "তারা সবাই একসাথে উৎসাহে চিৎকার করল।"
+      },
+      { "en": "He yelled for more.", "bn": "সে আরও চেয়ে উৎসাহে চিৎকার করল।" },
+      {
+        "en": "She yelled with pure happiness.",
+        "bn": "সে বিশুদ্ধ সুখে উৎসাহে চিৎকার করল।"
+      }
+    ],
+    "synonyms": ["cheer", "exclaim", "shout for joy", "cry out", "whoop"]
+  },
+  {
+    "base": "zeal",
+    "phonetic": "ziːl",
+    "meaning": "দৃঢ়তা / সংকল্প",
+    "examples": [
+      {
+        "en": "She pursued her goals with zeal.",
+        "bn": "সে দৃঢ়তার সাথে তার লক্ষ্য অনুসরণ করল।"
+      },
+      {
+        "en": "He applied zeal to every challenge.",
+        "bn": "সে প্রতিটি চ্যালেঞ্জে দৃঢ়তা প্রয়োগ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She showed zeal in overcoming obstacles.",
+        "bn": "বাধা কাটিয়ে উঠতে সে দৃঢ়তা দেখাল।"
+      },
+      {
+        "en": "His zeal for excellence was admirable.",
+        "bn": "উৎকর্ষের প্রতি তার দৃঢ়তা প্রশংসনীয় ছিল।"
+      },
+      {
+        "en": "She fought for her rights with zeal.",
+        "bn": "সে দৃঢ়তার সাথে তার অধিকারের জন্য লড়াই করল।"
+      },
+      {
+        "en": "He showed zeal in the face of failure.",
+        "bn": "ব্যর্থতার মুখে সে দৃঢ়তা দেখাল।"
+      },
+      {
+        "en": "Zeal drives people to succeed.",
+        "bn": "দৃঢ়তা মানুষকে সফল হতে চালিত করে।"
+      },
+      {
+        "en": "She brought zeal to her new role.",
+        "bn": "সে নতুন ভূমিকায় দৃঢ়তা নিয়ে এল।"
+      },
+      {
+        "en": "His zeal was respected by all.",
+        "bn": "তার দৃঢ়তা সবার দ্বারা সম্মানিত ছিল।"
+      },
+      {
+        "en": "She demonstrated zeal under pressure.",
+        "bn": "চাপের মধ্যে সে দৃঢ়তা প্রদর্শন করল।"
+      },
+      {
+        "en": "He was known for his zeal and focus.",
+        "bn": "তার দৃঢ়তা ও মনোযোগের জন্য সে পরিচিত ছিল।"
+      },
+      {
+        "en": "Zeal without direction is wasted energy.",
+        "bn": "দিক ছাড়া দৃঢ়তা নষ্ট শক্তি।"
+      }
+    ],
+    "synonyms": [
+      "determination",
+      "resolve",
+      "persistence",
+      "commitment",
+      "tenacity"
+    ]
+  },
+  {
+    "base": "youth",
+    "phonetic": "juːθ",
+    "meaning": "যৌবন / তরুণ প্রজন্ম",
+    "examples": [
+      { "en": "Youth is the time to learn.", "bn": "যৌবন হলো শেখার সময়।" },
+      {
+        "en": "She dedicated her life to youth development.",
+        "bn": "সে তরুণ প্রজন্মের উন্নয়নে জীবন উৎসর্গ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The youth of today will lead tomorrow.",
+        "bn": "আজকের তরুণ প্রজন্ম আগামীকাল নেতৃত্ব দেবে।"
+      },
+      {
+        "en": "He spent his youth studying hard.",
+        "bn": "সে তার যৌবন কঠোর অধ্যয়নে কাটাল।"
+      },
+      {
+        "en": "She ran a youth program.",
+        "bn": "সে একটি তরুণ প্রজন্মের কার্যক্রম পরিচালনা করল।"
+      },
+      {
+        "en": "The government invested in the youth.",
+        "bn": "সরকার তরুণ প্রজন্মে বিনিয়োগ করল।"
+      },
+      {
+        "en": "Youth unemployment is a serious issue.",
+        "bn": "তরুণদের বেকারত্ব একটি গুরুতর সমস্যা।"
+      },
+      {
+        "en": "He missed the freedom of youth.",
+        "bn": "সে যৌবনের স্বাধীনতা মিস করল।"
+      },
+      {
+        "en": "She cherished the memories of her youth.",
+        "bn": "সে যৌবনের স্মৃতিগুলো মূল্যবান মনে করত।"
+      },
+      {
+        "en": "Youth brings energy and innovation.",
+        "bn": "যৌবন শক্তি ও উদ্ভাবন নিয়ে আসে।"
+      },
+      {
+        "en": "He worked with underprivileged youth.",
+        "bn": "সে সুবিধাবঞ্চিত তরুণদের সাথে কাজ করল।"
+      },
+      {
+        "en": "Youth is wasted on the young.",
+        "bn": "যৌবন তরুণদের উপর নষ্ট হয়।"
+      }
+    ],
+    "synonyms": [
+      "young people",
+      "teens",
+      "adolescence",
+      "generation",
+      "youngsters"
+    ]
+  },
+  {
+    "base": "yardstick",
+    "phonetic": "ˈjɑːdstɪk",
+    "meaning": "তুলনার মান",
+    "examples": [
+      {
+        "en": "She used her mentor as a yardstick.",
+        "bn": "সে তার পরামর্শদাতাকে তুলনার মান হিসেবে ব্যবহার করল।"
+      },
+      {
+        "en": "He set a new yardstick for excellence.",
+        "bn": "সে উৎকর্ষের একটি নতুন তুলনার মান স্থাপন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The yardstick for success changed.",
+        "bn": "সাফল্যের তুলনার মান পরিবর্তন হল।"
+      },
+      {
+        "en": "She measured her progress against a yardstick.",
+        "bn": "সে একটি তুলনার মান দিয়ে অগ্রগতি পরিমাপ করল।"
+      },
+      {
+        "en": "He used a moral yardstick.",
+        "bn": "সে নৈতিক তুলনার মান ব্যবহার করল।"
+      },
+      {
+        "en": "The yardstick of education is knowledge.",
+        "bn": "শিক্ষার তুলনার মান হলো জ্ঞান।"
+      },
+      {
+        "en": "She held everyone to the same yardstick.",
+        "bn": "সে সবাইকে একই তুলনার মানে ধরল।"
+      },
+      {
+        "en": "He compared results against a yardstick.",
+        "bn": "সে একটি তুলনার মান দিয়ে ফলাফল তুলনা করল।"
+      },
+      {
+        "en": "A clear yardstick reduces confusion.",
+        "bn": "স্পষ্ট তুলনার মান বিভ্রান্তি কমায়।"
+      },
+      {
+        "en": "She applied a strict yardstick.",
+        "bn": "সে কঠোর তুলনার মান প্রয়োগ করল।"
+      },
+      {
+        "en": "He questioned the yardstick used.",
+        "bn": "সে ব্যবহৃত তুলনার মান নিয়ে প্রশ্ন তুলল।"
+      },
+      {
+        "en": "Different fields use different yardsticks.",
+        "bn": "বিভিন্ন ক্ষেত্র বিভিন্ন তুলনার মান ব্যবহার করে।"
+      }
+    ],
+    "synonyms": [
+      "comparison point",
+      "reference point",
+      "measure",
+      "touchstone",
+      "gauge"
+    ]
+  },
+  {
+    "base": "yore",
+    "phonetic": "jɔːr",
+    "meaning": "ঐতিহ্যবাহী সময়",
+    "examples": [
+      {
+        "en": "The crafts of yore were handmade.",
+        "bn": "ঐতিহ্যবাহী সময়ের শিল্পগুলো হাতে তৈরি ছিল।"
+      },
+      {
+        "en": "She followed the ways of yore.",
+        "bn": "সে ঐতিহ্যবাহী সময়ের পথ অনুসরণ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The dances of yore are still performed.",
+        "bn": "ঐতিহ্যবাহী সময়ের নৃত্য এখনও পরিবেশিত হয়।"
+      },
+      {
+        "en": "He preserved the songs of yore.",
+        "bn": "সে ঐতিহ্যবাহী সময়ের গান সংরক্ষণ করল।"
+      },
+      {
+        "en": "The wisdom of yore guides elders.",
+        "bn": "ঐতিহ্যবাহী সময়ের জ্ঞান বড়জনদের পথ দেখায়।"
+      },
+      {
+        "en": "She taught children the stories of yore.",
+        "bn": "সে শিশুদের ঐতিহ্যবাহী সময়ের গল্প শেখাল।"
+      },
+      {
+        "en": "The tools of yore were simple but effective.",
+        "bn": "ঐতিহ্যবাহী সময়ের হাতিয়ার সহজ কিন্তু কার্যকর ছিল।"
+      },
+      {
+        "en": "He learned from the masters of yore.",
+        "bn": "সে ঐতিহ্যবাহী সময়ের ওস্তাদদের কাছ থেকে শিখল।"
+      },
+      {
+        "en": "The healing methods of yore are valued.",
+        "bn": "ঐতিহ্যবাহী সময়ের নিরাময় পদ্ধতিগুলো মূল্যবান।"
+      },
+      {
+        "en": "She admired the leadership of yore.",
+        "bn": "সে ঐতিহ্যবাহী সময়ের নেতৃত্বের প্রশংসা করল।"
+      },
+      {
+        "en": "The festivals of yore bound communities.",
+        "bn": "ঐতিহ্যবাহী সময়ের উৎসবগুলো সম্প্রদায় বেঁধেছিল।"
+      },
+      {
+        "en": "He honored the customs of yore.",
+        "bn": "সে ঐতিহ্যবাহী সময়ের রীতিনীতি সম্মান করল।"
+      }
+    ],
+    "synonyms": [
+      "traditional times",
+      "heritage era",
+      "ancestral period",
+      "old custom days",
+      "cultural past"
+    ]
+  },
+  {
+    "base": "youthful",
+    "phonetic": "ˈjuːθfl",
+    "meaning": "প্রাণবন্ত / উজ্জীবিত",
+    "examples": [
+      {
+        "en": "She had a youthful glow after her rest.",
+        "bn": "বিশ্রামের পরে তার প্রাণবন্ত দীপ্তি ছিল।"
+      },
+      {
+        "en": "He kept a youthful spirit throughout life.",
+        "bn": "সে সারাজীবন প্রাণবন্ত মনোভাব বজায় রাখল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She had a youthful and active lifestyle.",
+        "bn": "তার প্রাণবন্ত ও সক্রিয় জীবনধারা ছিল।"
+      },
+      {
+        "en": "His youthful enthusiasm was infectious.",
+        "bn": "তার প্রাণবন্ত উৎসাহ সংক্রামক ছিল।"
+      },
+      {
+        "en": "She brought a youthful perspective.",
+        "bn": "সে প্রাণবন্ত দৃষ্টিভঙ্গি নিয়ে এল।"
+      },
+      {
+        "en": "He looked youthful and refreshed.",
+        "bn": "সে প্রাণবন্ত ও সতেজ দেখাচ্ছিল।"
+      },
+      {
+        "en": "A youthful mindset helps adapt.",
+        "bn": "প্রাণবন্ত মানসিকতা মানিয়ে নিতে সাহায্য করে।"
+      },
+      {
+        "en": "She felt youthful in nature.",
+        "bn": "প্রকৃতিতে সে প্রাণবন্ত অনুভব করল।"
+      },
+      {
+        "en": "He maintained a youthful social life.",
+        "bn": "সে প্রাণবন্ত সামাজিক জীবন বজায় রাখল।"
+      },
+      {
+        "en": "Her youthful beauty was natural.",
+        "bn": "তার প্রাণবন্ত সৌন্দর্য ছিল স্বাভাবিক।"
+      },
+      {
+        "en": "He exuded a youthful confidence.",
+        "bn": "সে প্রাণবন্ত আত্মবিশ্বাস ঝরাল।"
+      },
+      { "en": "She wore youthful fashion.", "bn": "সে প্রাণবন্ত ফ্যাশন পরল।" }
+    ],
+    "synonyms": ["vivacious", "radiant", "sprightly", "buoyant", "glowing"]
+  },
+  {
+    "base": "yeoman",
+    "phonetic": "ˈjəʊmən",
+    "meaning": "দক্ষ সৈনিক",
+    "examples": [
+      {
+        "en": "The yeoman fought with great skill.",
+        "bn": "দক্ষ সৈনিক অনেক দক্ষতায় যুদ্ধ করল।"
+      },
+      {
+        "en": "She admired the yeoman's bravery.",
+        "bn": "সে দক্ষ সৈনিকের সাহসের প্রশংসা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He served as a yeoman in the fleet.",
+        "bn": "সে নৌবহরে দক্ষ সৈনিক হিসেবে সেবা করল।"
+      },
+      {
+        "en": "The yeoman stood guard faithfully.",
+        "bn": "দক্ষ সৈনিক বিশ্বস্তভাবে পাহারা দিল।"
+      },
+      {
+        "en": "She read about the role of yeomen.",
+        "bn": "সে দক্ষ সৈনিকদের ভূমিকা সম্পর্কে পড়ল।"
+      },
+      {
+        "en": "The yeoman carried out orders precisely.",
+        "bn": "দক্ষ সৈনিক আদেশ সঠিকভাবে পালন করল।"
+      },
+      {
+        "en": "He trained to become a yeoman.",
+        "bn": "সে দক্ষ সৈনিক হতে প্রশিক্ষণ নিল।"
+      },
+      {
+        "en": "The yeoman was loyal and disciplined.",
+        "bn": "দক্ষ সৈনিক বিশ্বস্ত ও শৃঙ্খলাবদ্ধ ছিল।"
+      },
+      {
+        "en": "She wrote about historic yeomen.",
+        "bn": "সে ঐতিহাসিক দক্ষ সৈনিকদের সম্পর্কে লিখল।"
+      },
+      {
+        "en": "The yeoman upheld his oath.",
+        "bn": "দক্ষ সৈনিক তার শপথ রক্ষা করল।"
+      },
+      {
+        "en": "He respected the yeoman's sacrifice.",
+        "bn": "সে দক্ষ সৈনিকের ত্যাগকে সম্মান করল।"
+      },
+      {
+        "en": "The yeoman defended the king's castle.",
+        "bn": "দক্ষ সৈনিক রাজার দুর্গ রক্ষা করল।"
+      }
+    ],
+    "synonyms": ["soldier", "guard", "fighter", "defender", "militiaman"]
+  },
+  {
+    "base": "yawn",
+    "phonetic": "jɔːn",
+    "meaning": "একঘেয়ে বিষয়",
+    "examples": [
+      {
+        "en": "The lecture was a complete yawn.",
+        "bn": "বক্তৃতাটি সম্পূর্ণ একঘেয়ে ছিল।"
+      },
+      {
+        "en": "She found the meeting a yawn.",
+        "bn": "সভাটিকে সে একঘেয়ে মনে করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The film turned out to be a yawn.",
+        "bn": "চলচ্চিত্রটি একঘেয়ে বলে প্রমাণিত হল।"
+      },
+      {
+        "en": "He described the event as a yawn.",
+        "bn": "সে অনুষ্ঠানটিকে একঘেয়ে বলে বর্ণনা করল।"
+      },
+      {
+        "en": "She avoided yawn-inducing topics.",
+        "bn": "সে একঘেয়ে বিষয় এড়িয়ে চলল।"
+      },
+      {
+        "en": "The presentation was a big yawn.",
+        "bn": "উপস্থাপনাটি অনেক একঘেয়ে ছিল।"
+      },
+      {
+        "en": "He tried to avoid making it a yawn.",
+        "bn": "সে এটিকে একঘেয়ে না করার চেষ্টা করল।"
+      },
+      { "en": "The class was a yawn today.", "bn": "আজ ক্লাসটি একঘেয়ে ছিল।" },
+      {
+        "en": "She made the topic interesting to avoid a yawn.",
+        "bn": "সে একঘেয়েমি এড়াতে বিষয়টি আকর্ষণীয় করল।"
+      },
+      {
+        "en": "He spiced up what could have been a yawn.",
+        "bn": "সে যা একঘেয়ে হতে পারত তা মজাদার করল।"
+      },
+      {
+        "en": "The report was a literary yawn.",
+        "bn": "প্রতিবেদনটি একটি সাহিত্যিক একঘেয়ে ছিল।"
+      },
+      {
+        "en": "She kept it fun so it was not a yawn.",
+        "bn": "সে এটি মজাদার রাখল যাতে একঘেয়ে না হয়।"
+      }
+    ],
+    "synonyms": ["bore", "dull moment", "tedium", "monotony", "drag"]
+  },
+  {
+    "base": "yokel",
+    "phonetic": "ˈjəʊkl",
+    "meaning": "অনভিজ্ঞ ব্যক্তি",
+    "examples": [
+      {
+        "en": "He felt like a yokel in a new city.",
+        "bn": "নতুন শহরে সে অনভিজ্ঞ ব্যক্তির মতো অনুভব করল।"
+      },
+      {
+        "en": "She was treated like a yokel.",
+        "bn": "তাকে অনভিজ্ঞ ব্যক্তির মতো আচরণ করা হল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The character played a lovable yokel.",
+        "bn": "চরিত্রটি একজন প্রিয় অনভিজ্ঞ ব্যক্তি অভিনয় করল।"
+      },
+      {
+        "en": "He was not as much a yokel as he seemed.",
+        "bn": "সে যতটা অনভিজ্ঞ মনে হচ্ছিল ততটা ছিল না।"
+      },
+      {
+        "en": "She avoided looking like a yokel.",
+        "bn": "সে অনভিজ্ঞ ব্যক্তির মতো না দেখানোর চেষ্টা করল।"
+      },
+      {
+        "en": "The yokel quickly adapted to city life.",
+        "bn": "অনভিজ্ঞ ব্যক্তি দ্রুত শহুরে জীবনে মানিয়ে নিল।"
+      },
+      {
+        "en": "He was called a yokel but proved himself.",
+        "bn": "তাকে অনভিজ্ঞ বলা হল কিন্তু সে নিজেকে প্রমাণ করল।"
+      },
+      {
+        "en": "She began as a yokel but grew wiser.",
+        "bn": "সে অনভিজ্ঞ হিসেবে শুরু করল কিন্তু আরও বুদ্ধিমান হল।"
+      },
+      {
+        "en": "The yokel surprised the experts.",
+        "bn": "অনভিজ্ঞ ব্যক্তি বিশেষজ্ঞদের অবাক করল।"
+      },
+      {
+        "en": "He was once a yokel but now a leader.",
+        "bn": "সে একসময় অনভিজ্ঞ ছিল কিন্তু এখন নেতা।"
+      },
+      {
+        "en": "She felt like a yokel among professionals.",
+        "bn": "পেশাদারদের মধ্যে সে অনভিজ্ঞ অনুভব করল।"
+      },
+      {
+        "en": "Even a yokel can become wise with time.",
+        "bn": "একজন অনভিজ্ঞ ব্যক্তিও সময়ের সাথে জ্ঞানী হতে পারে।"
+      }
+    ],
+    "synonyms": [
+      "novice",
+      "inexperienced person",
+      "greenhorn",
+      "newcomer",
+      "amateur"
+    ]
+  },
+  {
+    "base": "yesteryear",
+    "phonetic": "ˈjestəjɪər",
+    "meaning": "স্মরণীয় বছর",
+    "examples": [
+      {
+        "en": "The champions of yesteryear are honored.",
+        "bn": "স্মরণীয় বছরের চ্যাম্পিয়নদের সম্মানিত করা হয়।"
+      },
+      {
+        "en": "She treasured photos from yesteryear.",
+        "bn": "সে স্মরণীয় বছরের ছবিগুলো মূল্যবান মনে করত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The movies of yesteryear were classic.",
+        "bn": "স্মরণীয় বছরের চলচ্চিত্রগুলো ক্লাসিক ছিল।"
+      },
+      {
+        "en": "He replayed memories of yesteryear.",
+        "bn": "সে স্মরণীয় বছরের স্মৃতি পুনরায় অনুভব করল।"
+      },
+      {
+        "en": "The songs of yesteryear are timeless.",
+        "bn": "স্মরণীয় বছরের গানগুলো চিরন্তন।"
+      },
+      {
+        "en": "She compared the prices of yesteryear.",
+        "bn": "সে স্মরণীয় বছরের দাম তুলনা করল।"
+      },
+      {
+        "en": "The players of yesteryear were legends.",
+        "bn": "স্মরণীয় বছরের খেলোয়াড়রা কিংবদন্তি ছিল।"
+      },
+      {
+        "en": "He revisited the places of yesteryear.",
+        "bn": "সে স্মরণীয় বছরের জায়গাগুলো পুনরায় পরিদর্শন করল।"
+      },
+      {
+        "en": "She preserved art from yesteryear.",
+        "bn": "সে স্মরণীয় বছরের শিল্প সংরক্ষণ করল।"
+      },
+      {
+        "en": "The fashions of yesteryear returned.",
+        "bn": "স্মরণীয় বছরের ফ্যাশন ফিরে এল।"
+      },
+      {
+        "en": "He wrote about childhood heroes of yesteryear.",
+        "bn": "সে স্মরণীয় বছরের শৈশবের নায়কদের সম্পর্কে লিখল।"
+      },
+      {
+        "en": "She smiled at photos from yesteryear.",
+        "bn": "সে স্মরণীয় বছরের ছবিতে হাসল।"
+      }
+    ],
+    "synonyms": [
+      "memorable year",
+      "glorious past",
+      "notable era",
+      "renowned period",
+      "significant former time"
+    ]
+  },
+  {
+    "base": "youth",
+    "phonetic": "juːθ",
+    "meaning": "প্রাণশক্তি / সজীবতা",
+    "examples": [
+      {
+        "en": "She had the youth to take risks.",
+        "bn": "ঝুঁকি নেওয়ার প্রাণশক্তি তার ছিল।"
+      },
+      {
+        "en": "His youth gave him courage.",
+        "bn": "তার প্রাণশক্তি তাকে সাহস দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She channeled her youth into work.",
+        "bn": "সে কাজে তার প্রাণশক্তি ঢেলে দিল।"
+      },
+      {
+        "en": "He used his youth wisely.",
+        "bn": "সে তার প্রাণশক্তি বুদ্ধিমত্তার সাথে ব্যবহার করল।"
+      },
+      {
+        "en": "Youth is a gift not to be wasted.",
+        "bn": "প্রাণশক্তি একটি উপহার যা নষ্ট করা উচিত নয়।"
+      },
+      { "en": "She had unlimited youth.", "bn": "তার সীমাহীন প্রাণশক্তি ছিল।" },
+      {
+        "en": "He brought youth to the aging team.",
+        "bn": "সে বৃদ্ধ দলে প্রাণশক্তি নিয়ে এল।"
+      },
+      {
+        "en": "Youth fades if not nurtured.",
+        "bn": "যত্ন না করলে প্রাণশক্তি কমে যায়।"
+      },
+      {
+        "en": "She preserved her youth through healthy habits.",
+        "bn": "সুস্বাস্থ্যের অভ্যাসের মাধ্যমে সে প্রাণশক্তি ধরে রাখল।"
+      },
+      {
+        "en": "He admired her eternal youth.",
+        "bn": "সে তার চিরন্তন প্রাণশক্তির প্রশংসা করল।"
+      },
+      {
+        "en": "Youth gives the strength to dream.",
+        "bn": "প্রাণশক্তি স্বপ্ন দেখার শক্তি দেয়।"
+      },
+      {
+        "en": "She radiated youth and confidence.",
+        "bn": "সে প্রাণশক্তি ও আত্মবিশ্বাস বিচ্ছুরিত করল।"
+      }
+    ],
+    "synonyms": ["vitality", "energy", "vigor", "zest", "liveliness"]
+  },
+  {
+    "base": "yore",
+    "phonetic": "jɔːr",
+    "meaning": "পূর্বপুরুষের সময়",
+    "examples": [
+      {
+        "en": "The traditions of yore were sacred.",
+        "bn": "পূর্বপুরুষের সময়ের ঐতিহ্য পবিত্র ছিল।"
+      },
+      {
+        "en": "She honored the values of yore.",
+        "bn": "সে পূর্বপুরুষের সময়ের মূল্যবোধ সম্মান করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He carried on the work of yore.",
+        "bn": "সে পূর্বপুরুষের সময়ের কাজ অব্যাহত রাখল।"
+      },
+      {
+        "en": "The prayers of yore still comfort us.",
+        "bn": "পূর্বপুরুষের সময়ের প্রার্থনা এখনও আমাদের সান্ত্বনা দেয়।"
+      },
+      {
+        "en": "She learned from the elders of yore.",
+        "bn": "সে পূর্বপুরুষের সময়ের বড়জনদের কাছ থেকে শিখল।"
+      },
+      {
+        "en": "The stories of yore guided their lives.",
+        "bn": "পূর্বপুরুষের সময়ের গল্পগুলো তাদের জীবন পথ দেখাল।"
+      },
+      {
+        "en": "He respected the decisions of yore.",
+        "bn": "সে পূর্বপুরুষের সময়ের সিদ্ধান্তগুলো সম্মান করল।"
+      },
+      {
+        "en": "The music of yore was deeply spiritual.",
+        "bn": "পূর্বপুরুষের সময়ের সঙ্গীত গভীরভাবে আধ্যাত্মিক ছিল।"
+      },
+      {
+        "en": "She revived the gardens of yore.",
+        "bn": "সে পূর্বপুরুষের সময়ের বাগান পুনরুজ্জীবিত করল।"
+      },
+      {
+        "en": "He built on the legacy of yore.",
+        "bn": "সে পূর্বপুরুষের সময়ের উত্তরাধিকারের উপর ভিত্তি করল।"
+      },
+      {
+        "en": "The recipes of yore are still followed.",
+        "bn": "পূর্বপুরুষের সময়ের রেসিপিগুলো এখনও অনুসরণ করা হয়।"
+      },
+      {
+        "en": "She passed down wisdom from yore.",
+        "bn": "সে পূর্বপুরুষের সময়ের জ্ঞান পরবর্তী প্রজন্মে দিল।"
+      }
+    ],
+    "synonyms": [
+      "ancestral time",
+      "forefathers' era",
+      "genealogical past",
+      "heritage time",
+      "ancestral age"
+    ]
+  },
+  {
+    "base": "yearning",
+    "phonetic": "ˈjɜːnɪŋ",
+    "meaning": "ব্যাকুলতা / উদ্বেগ",
+    "examples": [
+      {
+        "en": "Her yearning was evident in her words.",
+        "bn": "তার কথায় ব্যাকুলতা স্পষ্ট ছিল।"
+      },
+      {
+        "en": "He felt a yearning he could not explain.",
+        "bn": "সে একটি অব্যক্ত ব্যাকুলতা অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She had a deep yearning in her heart.",
+        "bn": "তার হৃদয়ে গভীর ব্যাকুলতা ছিল।"
+      },
+      { "en": "The yearning consumed him.", "bn": "ব্যাকুলতা তাকে গ্রাস করল।" },
+      {
+        "en": "She expressed her yearning through tears.",
+        "bn": "সে কান্নার মাধ্যমে ব্যাকুলতা প্রকাশ করল।"
+      },
+      {
+        "en": "His yearning for purpose was evident.",
+        "bn": "উদ্দেশ্যের জন্য তার ব্যাকুলতা স্পষ্ট ছিল।"
+      },
+      {
+        "en": "She channeled her yearning into action.",
+        "bn": "সে ব্যাকুলতাকে কাজে রূপ দিল।"
+      },
+      { "en": "The yearning faded slowly.", "bn": "ব্যাকুলতা ধীরে ধীরে কমল।" },
+      {
+        "en": "He managed his yearning with patience.",
+        "bn": "সে ধৈর্য দিয়ে ব্যাকুলতা সামলাল।"
+      },
+      {
+        "en": "She felt a yearning she could not satisfy.",
+        "bn": "সে একটি অতৃপ্ত ব্যাকুলতা অনুভব করল।"
+      },
+      {
+        "en": "His yearning grew with each passing day.",
+        "bn": "প্রতিদিনের সাথে তার ব্যাকুলতা বাড়তে থাকল।"
+      },
+      {
+        "en": "She lived with a constant yearning.",
+        "bn": "সে ক্রমাগত ব্যাকুলতা নিয়ে জীবন যাপন করল।"
+      }
+    ],
+    "synonyms": ["ache", "longing", "restlessness", "heartache", "pining"]
+  },
+  {
+    "base": "yield",
+    "phonetic": "jiːld",
+    "meaning": "আয় / মুনাফা",
+    "examples": [
+      {
+        "en": "The bond yield increased this year.",
+        "bn": "এ বছর বন্ডের আয় বেড়েছে।"
+      },
+      {
+        "en": "She calculated the investment yield.",
+        "bn": "সে বিনিয়োগের আয় হিসাব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He tracked the yield of his savings.",
+        "bn": "সে তার সঞ্চয়ের আয় ট্র্যাক করল।"
+      },
+      {
+        "en": "The yield on the stock was impressive.",
+        "bn": "শেয়ারের আয় চিত্তাকর্ষক ছিল।"
+      },
+      {
+        "en": "She compared the yields of different funds.",
+        "bn": "সে বিভিন্ন তহবিলের আয় তুলনা করল।"
+      },
+      {
+        "en": "He aimed for a higher yield.",
+        "bn": "সে উচ্চতর আয়ের লক্ষ্য রাখল।"
+      },
+      { "en": "The crop yield was excellent.", "bn": "ফসলের আয় চমৎকার ছিল।" },
+      {
+        "en": "She diversified to increase yield.",
+        "bn": "আয় বাড়াতে সে বৈচিত্র্য আনল।"
+      },
+      {
+        "en": "He reinvested the yield.",
+        "bn": "সে আয় পুনরায় বিনিয়োগ করল।"
+      },
+      {
+        "en": "The yield from the field doubled.",
+        "bn": "মাঠের আয় দ্বিগুণ হল।"
+      },
+      {
+        "en": "She monitored the quarterly yield.",
+        "bn": "সে প্রান্তিক আয় পর্যবেক্ষণ করল।"
+      },
+      {
+        "en": "High yield comes with higher risk.",
+        "bn": "উচ্চ আয়ের সাথে বেশি ঝুঁকি আসে।"
+      }
+    ],
+    "synonyms": ["return", "profit", "output", "revenue", "earnings"]
+  },
+  {
+    "base": "yogi",
+    "phonetic": "ˈjəʊɡi",
+    "meaning": "আধ্যাত্মিক সাধক",
+    "examples": [
+      {
+        "en": "The yogi found peace through meditation.",
+        "bn": "আধ্যাত্মিক সাধক ধ্যানের মাধ্যমে শান্তি পেলেন।"
+      },
+      {
+        "en": "She followed the teachings of a yogi.",
+        "bn": "সে একজন আধ্যাত্মিক সাধকের শিক্ষা অনুসরণ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He became a dedicated yogi.",
+        "bn": "সে একজন নিবেদিত আধ্যাত্মিক সাধক হয়ে উঠল।"
+      },
+      {
+        "en": "The yogi shared his spiritual wisdom.",
+        "bn": "আধ্যাত্মিক সাধক তার আধ্যাত্মিক জ্ঞান ভাগ করলেন।"
+      },
+      {
+        "en": "She sought guidance from an ancient yogi.",
+        "bn": "সে একজন প্রাচীন আধ্যাত্মিক সাধকের কাছে পথনির্দেশ চাইল।"
+      },
+      {
+        "en": "The yogi lived in the mountains.",
+        "bn": "আধ্যাত্মিক সাধক পাহাড়ে বাস করতেন।"
+      },
+      {
+        "en": "He aspired to live like a yogi.",
+        "bn": "সে আধ্যাত্মিক সাধকের মতো জীবন যাপনের আকাঙ্ক্ষা করল।"
+      },
+      {
+        "en": "The yogi taught them inner peace.",
+        "bn": "আধ্যাত্মিক সাধক তাদের অভ্যন্তরীণ শান্তি শেখালেন।"
+      },
+      {
+        "en": "She admired the yogi's simplicity.",
+        "bn": "সে আধ্যাত্মিক সাধকের সরলতার প্রশংসা করল।"
+      },
+      {
+        "en": "The yogi meditated for hours daily.",
+        "bn": "আধ্যাত্মিক সাধক প্রতিদিন ঘণ্টার পর ঘণ্টা ধ্যান করতেন।"
+      },
+      {
+        "en": "He followed the path of a yogi.",
+        "bn": "সে আধ্যাত্মিক সাধকের পথ অনুসরণ করল।"
+      },
+      {
+        "en": "The yogi's wisdom changed her life.",
+        "bn": "আধ্যাত্মিক সাধকের জ্ঞান তার জীবন পরিবর্তন করল।"
+      }
+    ],
+    "synonyms": [
+      "spiritual seeker",
+      "ascetic",
+      "holy person",
+      "meditator",
+      "mystic"
+    ]
   }
 ]

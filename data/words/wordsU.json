@@ -154,5 +154,4578 @@
       }
     ],
     "synonyms": ["higher", "top", "above"]
+  },
+
+  {
+    "base": "understand",
+    "phonetic": "ˌʌndəˈstænd",
+    "meaning": "বোঝা / অনুধাবন করা",
+    "examples": [
+      {
+        "en": "I understand your problem.",
+        "bn": "আমি তোমার সমস্যা বুঝতে পারছি।"
+      },
+      { "en": "She understood the lesson.", "bn": "সে পাঠটি বুঝল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He tried to understand her feelings.",
+        "bn": "সে তার অনুভূতি বোঝার চেষ্টা করল।"
+      },
+      {
+        "en": "Do you understand the question?",
+        "bn": "তুমি কি প্রশ্নটি বুঝতে পারছ?"
+      },
+      {
+        "en": "She understood him completely.",
+        "bn": "সে তাকে সম্পূর্ণরূপে বুঝল।"
+      },
+      {
+        "en": "He could not understand the text.",
+        "bn": "সে লেখাটি বুঝতে পারল না।"
+      },
+      {
+        "en": "Understand before you judge.",
+        "bn": "বিচার করার আগে বোঝার চেষ্টা করো।"
+      },
+      {
+        "en": "They understood each other well.",
+        "bn": "তারা একে অপরকে ভালোভাবে বুঝত।"
+      },
+      {
+        "en": "She understood the instructions.",
+        "bn": "সে নির্দেশনাগুলো বুঝল।"
+      },
+      {
+        "en": "He finally understood the truth.",
+        "bn": "সে অবশেষে সত্যটি বুঝল।"
+      },
+      { "en": "Understand the rules first.", "bn": "প্রথমে নিয়মগুলো বোঝো।" },
+      { "en": "She understood the importance.", "bn": "সে গুরুত্বটি বুঝল।" }
+    ],
+    "synonyms": ["comprehend", "grasp", "realize"]
+  },
+  {
+    "base": "upgrade",
+    "phonetic": "ˈʌpɡreɪd",
+    "meaning": "উন্নত করা / আপগ্রেড করা",
+    "examples": [
+      { "en": "He upgraded his phone.", "bn": "সে তার ফোন আপগ্রেড করল।" },
+      { "en": "She upgraded her skills.", "bn": "সে তার দক্ষতা উন্নত করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Upgrade your software regularly.",
+        "bn": "নিয়মিত তোমার সফটওয়্যার আপগ্রেড করো।"
+      },
+      {
+        "en": "He upgraded his computer.",
+        "bn": "সে তার কম্পিউটার আপগ্রেড করল।"
+      },
+      {
+        "en": "She upgraded her lifestyle.",
+        "bn": "সে তার জীবনযাত্রার মান উন্নত করল।"
+      },
+      {
+        "en": "They upgraded the system.",
+        "bn": "তারা সিস্টেমটি আপগ্রেড করল।"
+      },
+      { "en": "He upgraded his knowledge.", "bn": "সে তার জ্ঞান উন্নত করল।" },
+      {
+        "en": "Upgrade your habits daily.",
+        "bn": "প্রতিদিন তোমার অভ্যাস উন্নত করো।"
+      },
+      {
+        "en": "She upgraded to a better plan.",
+        "bn": "সে একটি ভালো পরিকল্পনায় আপগ্রেড করল।"
+      },
+      {
+        "en": "He upgraded the equipment.",
+        "bn": "সে সরঞ্জামগুলো আপগ্রেড করল।"
+      },
+      { "en": "They upgraded the office.", "bn": "তারা অফিসটি উন্নত করল।" },
+      {
+        "en": "Upgrade your mindset today.",
+        "bn": "আজই তোমার মানসিকতা উন্নত করো।"
+      }
+    ],
+    "synonyms": ["improve", "enhance", "update"]
+  },
+  {
+    "base": "upload",
+    "phonetic": "ˈʌploʊd",
+    "meaning": "আপলোড করা / তথ্য পাঠানো",
+    "examples": [
+      { "en": "She uploaded her photo.", "bn": "সে তার ছবি আপলোড করল।" },
+      { "en": "He uploaded the document.", "bn": "সে নথিটি আপলোড করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Upload the file to the server.",
+        "bn": "সার্ভারে ফাইলটি আপলোড করো।"
+      },
+      {
+        "en": "She uploaded her video online.",
+        "bn": "সে তার ভিডিও অনলাইনে আপলোড করল।"
+      },
+      {
+        "en": "He uploaded the assignment.",
+        "bn": "সে অ্যাসাইনমেন্টটি আপলোড করল।"
+      },
+      {
+        "en": "Upload your resume here.",
+        "bn": "এখানে তোমার জীবনবৃত্তান্ত আপলোড করো।"
+      },
+      {
+        "en": "She uploaded the presentation.",
+        "bn": "সে উপস্থাপনাটি আপলোড করল।"
+      },
+      {
+        "en": "He uploaded daily content.",
+        "bn": "সে প্রতিদিন কন্টেন্ট আপলোড করল।"
+      },
+      { "en": "They uploaded the project.", "bn": "তারা প্রকল্পটি আপলোড করল।" },
+      {
+        "en": "Upload your work on time.",
+        "bn": "সময়মতো তোমার কাজ আপলোড করো।"
+      },
+      {
+        "en": "She uploaded her portfolio.",
+        "bn": "সে তার পোর্টফোলিও আপলোড করল।"
+      },
+      {
+        "en": "He failed to upload the file.",
+        "bn": "সে ফাইলটি আপলোড করতে ব্যর্থ হলো।"
+      }
+    ],
+    "synonyms": ["post", "submit", "transfer"]
+  },
+  {
+    "base": "update",
+    "phonetic": "ˈʌpdeɪt",
+    "meaning": "আপডেট করা / সর্বশেষ তথ্য দেওয়া",
+    "examples": [
+      {
+        "en": "Please update your profile.",
+        "bn": "অনুগ্রহ করে তোমার প্রোফাইল আপডেট করো।"
+      },
+      { "en": "She updated the report.", "bn": "সে প্রতিবেদনটি আপডেট করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He updated his contact details.",
+        "bn": "সে তার যোগাযোগের তথ্য আপডেট করল।"
+      },
+      { "en": "Update the software now.", "bn": "এখনই সফটওয়্যার আপডেট করো।" },
+      { "en": "She updated the team.", "bn": "সে দলকে আপডেট করল।" },
+      {
+        "en": "He updated his resume.",
+        "bn": "সে তার জীবনবৃত্তান্ত আপডেট করল।"
+      },
+      { "en": "They updated the database.", "bn": "তারা ডেটাবেস আপডেট করল।" },
+      {
+        "en": "Update your password regularly.",
+        "bn": "নিয়মিত তোমার পাসওয়ার্ড আপডেট করো।"
+      },
+      { "en": "She updated her knowledge.", "bn": "সে তার জ্ঞান আপডেট করল।" },
+      { "en": "He updated the records.", "bn": "সে রেকর্ডগুলো আপডেট করল।" },
+      { "en": "They updated the policy.", "bn": "তারা নীতিটি আপডেট করল।" },
+      {
+        "en": "Update me when you arrive.",
+        "bn": "তুমি পৌঁছালে আমাকে আপডেট করো।"
+      }
+    ],
+    "synonyms": ["revise", "refresh", "modernize"]
+  },
+  {
+    "base": "upset",
+    "phonetic": "ʌpˈset",
+    "meaning": "বিচলিত করা / মন খারাপ করা",
+    "examples": [
+      { "en": "She was upset about the news.", "bn": "খবরে সে বিচলিত হলো।" },
+      {
+        "en": "Do not upset your parents.",
+        "bn": "তোমার বাবা-মাকে মন খারাপ করিও না।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He was upset about the result.", "bn": "ফলাফলে সে বিচলিত হলো।" },
+      {
+        "en": "She tried not to get upset.",
+        "bn": "সে বিচলিত না হওয়ার চেষ্টা করল।"
+      },
+      { "en": "He upset the whole plan.", "bn": "সে পুরো পরিকল্পনা নষ্ট করল।" },
+      { "en": "The news upset everyone.", "bn": "খবরটি সবাইকে বিচলিত করল।" },
+      { "en": "She was deeply upset.", "bn": "সে গভীরভাবে বিচলিত ছিল।" },
+      {
+        "en": "Do not let small things upset you.",
+        "bn": "ছোট বিষয়গুলোকে তোমাকে বিচলিত করতে দিও না।"
+      },
+      {
+        "en": "He upset her with his words.",
+        "bn": "সে তার কথায় তাকে মন খারাপ করল।"
+      },
+      { "en": "She was upset and crying.", "bn": "সে বিচলিত ছিল এবং কাঁদছিল।" },
+      { "en": "He upset the balance.", "bn": "সে ভারসাম্য নষ্ট করল।" },
+      {
+        "en": "Try not to upset others.",
+        "bn": "অন্যদের মন খারাপ না করার চেষ্টা করো।"
+      }
+    ],
+    "synonyms": ["disturb", "distress", "trouble"]
+  },
+  {
+    "base": "urge",
+    "phonetic": "ɜːrdʒ",
+    "meaning": "তাগিদ দেওয়া / অনুরোধ করা",
+    "examples": [
+      {
+        "en": "She urged him to study.",
+        "bn": "সে তাকে পড়াশোনা করতে তাগিদ দিল।"
+      },
+      {
+        "en": "He felt an urge to help.",
+        "bn": "সে সাহায্য করার তাগিদ অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They urged her to speak.",
+        "bn": "তারা তাকে কথা বলতে তাগিদ দিল।"
+      },
+      {
+        "en": "She urged the team forward.",
+        "bn": "সে দলকে এগিয়ে যেতে তাগিদ দিল।"
+      },
+      {
+        "en": "He urges everyone to be kind.",
+        "bn": "সে সবাইকে দয়ালু হতে অনুরোধ করে।"
+      },
+      { "en": "Urge your friends to read.", "bn": "বন্ধুদের পড়তে তাগিদ দাও।" },
+      {
+        "en": "She felt a strong urge.",
+        "bn": "সে একটি শক্তিশালী তাগিদ অনুভব করল।"
+      },
+      {
+        "en": "He urged her to be careful.",
+        "bn": "সে তাকে সাবধান থাকতে অনুরোধ করল।"
+      },
+      {
+        "en": "They urged him to reconsider.",
+        "bn": "তারা তাকে পুনর্বিবেচনা করতে তাগিদ দিল।"
+      },
+      { "en": "She urged caution.", "bn": "সে সতর্কতার তাগিদ দিল।" },
+      {
+        "en": "He urged her not to give up.",
+        "bn": "সে তাকে হাল না ছাড়তে অনুরোধ করল।"
+      },
+      {
+        "en": "Urge yourself to do better.",
+        "bn": "ভালো করতে নিজেকে তাগিদ দাও।"
+      }
+    ],
+    "synonyms": ["encourage", "push", "persuade"]
+  },
+  {
+    "base": "use",
+    "phonetic": "juːz",
+    "meaning": "ব্যবহার করা",
+    "examples": [
+      {
+        "en": "Use your time wisely.",
+        "bn": "তোমার সময় বুদ্ধিমানের সাথে ব্যবহার করো।"
+      },
+      { "en": "She used the pen.", "bn": "সে কলমটি ব্যবহার করল।" }
+    ],
+    "moreexample": [
+      { "en": "He used the dictionary.", "bn": "সে অভিধানটি ব্যবহার করল।" },
+      {
+        "en": "Use your skills properly.",
+        "bn": "তোমার দক্ষতা সঠিকভাবে ব্যবহার করো।"
+      },
+      { "en": "She used the computer.", "bn": "সে কম্পিউটারটি ব্যবহার করল।" },
+      {
+        "en": "He used his phone for work.",
+        "bn": "সে কাজের জন্য ফোন ব্যবহার করল।"
+      },
+      { "en": "Use water carefully.", "bn": "সাবধানে পানি ব্যবহার করো।" },
+      { "en": "She used the opportunity.", "bn": "সে সুযোগটি ব্যবহার করল।" },
+      {
+        "en": "They used the wrong method.",
+        "bn": "তারা ভুল পদ্ধতি ব্যবহার করল।"
+      },
+      { "en": "He used kind words.", "bn": "সে দয়ালু কথা ব্যবহার করল।" },
+      {
+        "en": "Use your brain always.",
+        "bn": "সবসময় তোমার মাথা ব্যবহার করো।"
+      },
+      {
+        "en": "She used her talent well.",
+        "bn": "সে তার প্রতিভা ভালোভাবে ব্যবহার করল।"
+      }
+    ],
+    "synonyms": ["utilize", "employ", "apply"]
+  },
+  {
+    "base": "unite",
+    "phonetic": "juːˈnaɪt",
+    "meaning": "একত্রিত করা / ঐক্যবদ্ধ করা",
+    "examples": [
+      { "en": "We must unite as one.", "bn": "আমাদের একত্রিত হতে হবে।" },
+      { "en": "She united the team.", "bn": "সে দলকে ঐক্যবদ্ধ করল।" }
+    ],
+    "moreexample": [
+      { "en": "He united people together.", "bn": "সে মানুষদের একত্রিত করল।" },
+      {
+        "en": "Unite against injustice.",
+        "bn": "অন্যায়ের বিরুদ্ধে ঐক্যবদ্ধ হও।"
+      },
+      {
+        "en": "They united for a cause.",
+        "bn": "তারা একটি উদ্দেশ্যে ঐক্যবদ্ধ হলো।"
+      },
+      { "en": "She united the family.", "bn": "সে পরিবারকে একত্রিত করল।" },
+      { "en": "Unite your efforts.", "bn": "তোমার প্রচেষ্টা একত্রিত করো।" },
+      {
+        "en": "He united the community.",
+        "bn": "সে সম্প্রদায়কে ঐক্যবদ্ধ করল।"
+      },
+      { "en": "They united in prayer.", "bn": "তারা প্রার্থনায় একত্রিত হলো।" },
+      { "en": "United we stand strong.", "bn": "ঐক্যবদ্ধ হলে আমরা শক্তিশালী।" },
+      {
+        "en": "She united different groups.",
+        "bn": "সে বিভিন্ন দলকে একত্রিত করল।"
+      },
+      { "en": "He united the nation.", "bn": "সে জাতিকে ঐক্যবদ্ধ করল।" }
+    ],
+    "synonyms": ["join", "combine", "merge"]
+  },
+  {
+    "base": "unlock",
+    "phonetic": "ˌʌnˈlɒk",
+    "meaning": "খুলে দেওয়া / মুক্ত করা",
+    "examples": [
+      { "en": "She unlocked the door.", "bn": "সে দরজাটি খুলল।" },
+      { "en": "He unlocked his potential.", "bn": "সে তার সম্ভাবনা মুক্ত করল।" }
+    ],
+    "moreexample": [
+      { "en": "Unlock your phone first.", "bn": "প্রথমে তোমার ফোন আনলক করো।" },
+      {
+        "en": "She unlocked the treasure chest.",
+        "bn": "সে ধনের বাক্সটি খুলল।"
+      },
+      { "en": "He unlocked the secret.", "bn": "সে গোপনটি উন্মোচন করল।" },
+      {
+        "en": "Unlock your true abilities.",
+        "bn": "তোমার প্রকৃত সক্ষমতা মুক্ত করো।"
+      },
+      { "en": "She unlocked the car.", "bn": "সে গাড়িটি আনলক করল।" },
+      { "en": "He unlocked the mystery.", "bn": "সে রহস্যটি উন্মোচন করল।" },
+      { "en": "They unlocked the gate.", "bn": "তারা গেটটি খুলল।" },
+      { "en": "Unlock your creativity.", "bn": "তোমার সৃজনশীলতা মুক্ত করো।" },
+      {
+        "en": "She unlocked new opportunities.",
+        "bn": "সে নতুন সুযোগ উন্মোচন করল।"
+      },
+      { "en": "He unlocked the safe.", "bn": "সে সিন্দুকটি খুলল।" }
+    ],
+    "synonyms": ["open", "release", "free"]
+  },
+  {
+    "base": "uncover",
+    "phonetic": "ˌʌnˈkʌvər",
+    "meaning": "উন্মোচন করা / আবিষ্কার করা",
+    "examples": [
+      { "en": "She uncovered the truth.", "bn": "সে সত্যটি উন্মোচন করল।" },
+      { "en": "He uncovered a secret.", "bn": "সে একটি গোপন তথ্য উন্মোচন করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They uncovered the evidence.",
+        "bn": "তারা প্রমাণটি উন্মোচন করল।"
+      },
+      {
+        "en": "She uncovered the hidden plan.",
+        "bn": "সে লুকানো পরিকল্পনা উন্মোচন করল।"
+      },
+      { "en": "He uncovered the fraud.", "bn": "সে প্রতারণাটি উন্মোচন করল।" },
+      {
+        "en": "Uncover the facts carefully.",
+        "bn": "সাবধানে তথ্যগুলো উন্মোচন করো।"
+      },
+      {
+        "en": "She uncovered new information.",
+        "bn": "সে নতুন তথ্য উন্মোচন করল।"
+      },
+      {
+        "en": "He uncovered old records.",
+        "bn": "সে পুরানো রেকর্ড উন্মোচন করল।"
+      },
+      {
+        "en": "They uncovered the corruption.",
+        "bn": "তারা দুর্নীতিটি উন্মোচন করল।"
+      },
+      { "en": "She uncovered his lies.", "bn": "সে তার মিথ্যা উন্মোচন করল।" },
+      { "en": "He uncovered the painting.", "bn": "সে চিত্রটি উন্মোচন করল।" },
+      {
+        "en": "Uncover the mystery step by step.",
+        "bn": "ধাপে ধাপে রহস্য উন্মোচন করো।"
+      }
+    ],
+    "synonyms": ["reveal", "expose", "discover"]
+  },
+  {
+    "base": "undo",
+    "phonetic": "ˌʌnˈduː",
+    "meaning": "পূর্বাবস্থায় ফেরানো / বাতিল করা",
+    "examples": [
+      {
+        "en": "He tried to undo his mistake.",
+        "bn": "সে তার ভুল পূর্বাবস্থায় ফেরানোর চেষ্টা করল।"
+      },
+      {
+        "en": "She pressed undo to fix it.",
+        "bn": "সে এটি ঠিক করতে আনডু চাপল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Undo the changes you made.",
+        "bn": "তুমি যে পরিবর্তন করেছ তা পূর্বাবস্থায় ফেরাও।"
+      },
+      {
+        "en": "He could not undo the damage.",
+        "bn": "সে ক্ষতি পূর্বাবস্থায় ফেরাতে পারল না।"
+      },
+      { "en": "She undid the knot.", "bn": "সে গিঁটটি খুলল।" },
+      {
+        "en": "He undid his shirt buttons.",
+        "bn": "সে তার শার্টের বোতাম খুলল।"
+      },
+      { "en": "Undo the last action.", "bn": "শেষ কাজটি পূর্বাবস্থায় ফেরাও।" },
+      {
+        "en": "She tried to undo the harm.",
+        "bn": "সে ক্ষতি পূর্বাবস্থায় ফেরানোর চেষ্টা করল।"
+      },
+      { "en": "He undid the package.", "bn": "সে প্যাকেজটি খুলল।" },
+      {
+        "en": "You cannot undo the past.",
+        "bn": "তুমি অতীত পূর্বাবস্থায় ফেরাতে পারবে না।"
+      },
+      { "en": "She undid the zipper.", "bn": "সে জিপারটি খুলল।" },
+      {
+        "en": "He undid all his progress.",
+        "bn": "সে তার সমস্ত অগ্রগতি নষ্ট করল।"
+      }
+    ],
+    "synonyms": ["reverse", "cancel", "nullify"]
+  },
+  {
+    "base": "unfold",
+    "phonetic": "ˌʌnˈfoʊld",
+    "meaning": "উন্মোচিত হওয়া / খুলে ধরা",
+    "examples": [
+      { "en": "She unfolded the map.", "bn": "সে মানচিত্রটি খুলল।" },
+      {
+        "en": "The story unfolded slowly.",
+        "bn": "গল্পটি ধীরে ধীরে উন্মোচিত হলো।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He unfolded the letter.", "bn": "সে চিঠিটি খুলল।" },
+      {
+        "en": "The truth began to unfold.",
+        "bn": "সত্যটি উন্মোচিত হতে শুরু করল।"
+      },
+      { "en": "She unfolded her plan.", "bn": "সে তার পরিকল্পনা উন্মোচন করল।" },
+      { "en": "He unfolded the blanket.", "bn": "সে কম্বলটি খুলল।" },
+      {
+        "en": "The events unfolded quickly.",
+        "bn": "ঘটনাগুলো দ্রুত উন্মোচিত হলো।"
+      },
+      { "en": "She unfolded her wings.", "bn": "সে তার ডানা মেলল।" },
+      {
+        "en": "The mystery unfolded gradually.",
+        "bn": "রহস্যটি ধীরে ধীরে উন্মোচিত হলো।"
+      },
+      { "en": "He unfolded his arms.", "bn": "সে তার বাহু মেলল।" },
+      { "en": "Unfold the paper carefully.", "bn": "সাবধানে কাগজটি খোলো।" },
+      {
+        "en": "The future unfolds before us.",
+        "bn": "ভবিষ্যৎ আমাদের সামনে উন্মোচিত হচ্ছে।"
+      }
+    ],
+    "synonyms": ["open", "reveal", "develop"]
+  },
+  {
+    "base": "unique",
+    "phonetic": "juːˈniːk",
+    "meaning": "অনন্য / অতুলনীয়",
+    "examples": [
+      { "en": "She has a unique style.", "bn": "তার একটি অনন্য স্টাইল আছে।" },
+      { "en": "His idea was unique.", "bn": "তার ধারণাটি অনন্য ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Everyone is unique in their way.",
+        "bn": "প্রত্যেকে তাদের নিজস্ব উপায়ে অনন্য।"
+      },
+      { "en": "She wore a unique dress.", "bn": "সে একটি অনন্য পোশাক পরল।" },
+      { "en": "He had a unique talent.", "bn": "তার একটি অনন্য প্রতিভা ছিল।" },
+      { "en": "The painting was unique.", "bn": "চিত্রটি অনন্য ছিল।" },
+      { "en": "Be unique in your approach.", "bn": "তোমার পদ্ধতিতে অনন্য হও।" },
+      { "en": "She had a unique voice.", "bn": "তার একটি অনন্য কণ্ঠস্বর ছিল।" },
+      { "en": "He created something unique.", "bn": "সে কিছু অনন্য তৈরি করল।" },
+      {
+        "en": "Their friendship was unique.",
+        "bn": "তাদের বন্ধুত্ব অনন্য ছিল।"
+      },
+      {
+        "en": "She gave a unique performance.",
+        "bn": "সে একটি অনন্য পারফরম্যান্স দিল।"
+      },
+      {
+        "en": "The flower had a unique smell.",
+        "bn": "ফুলটির একটি অনন্য গন্ধ ছিল।"
+      }
+    ],
+    "synonyms": ["special", "rare", "distinctive"]
+  },
+  {
+    "base": "usual",
+    "phonetic": "ˈjuːʒuəl",
+    "meaning": "সাধারণ / স্বাভাবিক",
+    "examples": [
+      {
+        "en": "She woke up at her usual time.",
+        "bn": "সে তার স্বাভাবিক সময়ে উঠল।"
+      },
+      {
+        "en": "He followed his usual routine.",
+        "bn": "সে তার স্বাভাবিক রুটিন অনুসরণ করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "It was just the usual day.", "bn": "এটি সাধারণ একটি দিন ছিল।" },
+      {
+        "en": "She ordered her usual meal.",
+        "bn": "সে তার স্বাভাবিক খাবার অর্ডার করল।"
+      },
+      { "en": "He wore his usual clothes.", "bn": "সে তার সাধারণ পোশাক পরল।" },
+      { "en": "The usual crowd was there.", "bn": "স্বাভাবিক ভিড় ছিল।" },
+      { "en": "She gave her usual smile.", "bn": "সে তার স্বাভাবিক হাসি দিল।" },
+      { "en": "He took his usual route.", "bn": "সে তার স্বাভাবিক পথ নিল।" },
+      {
+        "en": "Things were back to usual.",
+        "bn": "জিনিসগুলো স্বাভাবিক হয়ে গেল।"
+      },
+      { "en": "She did her usual work.", "bn": "সে তার সাধারণ কাজ করল।" },
+      {
+        "en": "He arrived at the usual time.",
+        "bn": "সে স্বাভাবিক সময়ে পৌঁছাল।"
+      },
+      {
+        "en": "The usual rules apply here.",
+        "bn": "এখানে সাধারণ নিয়মগুলো প্রযোজ্য।"
+      }
+    ],
+    "synonyms": ["normal", "regular", "common"]
+  },
+  {
+    "base": "urgent",
+    "phonetic": "ˈɜːrdʒənt",
+    "meaning": "জরুরি / তাৎক্ষণিক",
+    "examples": [
+      { "en": "This is an urgent matter.", "bn": "এটি একটি জরুরি বিষয়।" },
+      {
+        "en": "She sent an urgent message.",
+        "bn": "সে একটি জরুরি বার্তা পাঠাল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He made an urgent call.", "bn": "সে একটি জরুরি ফোন করল।" },
+      { "en": "The situation was urgent.", "bn": "পরিস্থিতি জরুরি ছিল।" },
+      { "en": "She needed urgent help.", "bn": "তার জরুরি সাহায্য দরকার ছিল।" },
+      {
+        "en": "Handle urgent tasks first.",
+        "bn": "প্রথমে জরুরি কাজগুলো সামলাও।"
+      },
+      { "en": "He had an urgent request.", "bn": "তার একটি জরুরি অনুরোধ ছিল।" },
+      {
+        "en": "The doctor gave an urgent warning.",
+        "bn": "ডাক্তার একটি জরুরি সতর্কতা দিলেন।"
+      },
+      {
+        "en": "She responded to the urgent need.",
+        "bn": "সে জরুরি প্রয়োজনে সাড়া দিল।"
+      },
+      { "en": "This issue is very urgent.", "bn": "এই বিষয়টি খুব জরুরি।" },
+      {
+        "en": "He left on an urgent mission.",
+        "bn": "সে একটি জরুরি অভিযানে গেল।"
+      },
+      { "en": "The urgent repair was done.", "bn": "জরুরি মেরামত করা হলো।" }
+    ],
+    "synonyms": ["immediate", "pressing", "critical"]
+  },
+  {
+    "base": "useful",
+    "phonetic": "ˈjuːsfl",
+    "meaning": "উপকারী / কার্যকর",
+    "examples": [
+      { "en": "This tool is very useful.", "bn": "এই সরঞ্জামটি খুব উপকারী।" },
+      { "en": "She gave useful advice.", "bn": "সে উপকারী পরামর্শ দিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He shared useful information.",
+        "bn": "সে উপকারী তথ্য শেয়ার করল।"
+      },
+      { "en": "Be useful to others.", "bn": "অন্যদের জন্য উপকারী হও।" },
+      { "en": "She learned useful skills.", "bn": "সে উপকারী দক্ষতা শিখল।" },
+      { "en": "The book was very useful.", "bn": "বইটি খুব উপকারী ছিল।" },
+      { "en": "He made himself useful.", "bn": "সে নিজেকে উপকারী করে তুলল।" },
+      {
+        "en": "Useful habits change your life.",
+        "bn": "উপকারী অভ্যাস তোমার জীবন বদলায়।"
+      },
+      { "en": "She found the app useful.", "bn": "সে অ্যাপটি উপকারী মনে করল।" },
+      {
+        "en": "He gave a useful suggestion.",
+        "bn": "সে একটি উপকারী পরামর্শ দিল।"
+      },
+      { "en": "The map was very useful.", "bn": "মানচিত্রটি খুব উপকারী ছিল।" },
+      {
+        "en": "Useful people are respected.",
+        "bn": "উপকারী মানুষদের সম্মান করা হয়।"
+      }
+    ],
+    "synonyms": ["helpful", "practical", "beneficial"]
+  },
+  {
+    "base": "useless",
+    "phonetic": "ˈjuːsləs",
+    "meaning": "অকেজো / নিরর্থক",
+    "examples": [
+      { "en": "This machine is useless.", "bn": "এই যন্ত্রটি অকেজো।" },
+      {
+        "en": "She felt useless at times.",
+        "bn": "সে কখনো কখনো অকেজো অনুভব করত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He threw away the useless items.",
+        "bn": "সে অকেজো জিনিসগুলো ফেলে দিল।"
+      },
+      { "en": "The advice was useless.", "bn": "পরামর্শটি নিরর্থক ছিল।" },
+      {
+        "en": "She felt useless without work.",
+        "bn": "কাজ ছাড়া সে অকেজো অনুভব করল।"
+      },
+      { "en": "The broken phone was useless.", "bn": "ভাঙা ফোনটি অকেজো ছিল।" },
+      {
+        "en": "He considered the plan useless.",
+        "bn": "সে পরিকল্পনাটি নিরর্থক মনে করল।"
+      },
+      {
+        "en": "Do not waste time on useless things.",
+        "bn": "অকেজো বিষয়ে সময় নষ্ট করো না।"
+      },
+      {
+        "en": "She found the tool useless.",
+        "bn": "সে সরঞ্জামটি অকেজো মনে করল।"
+      },
+      { "en": "His efforts were useless.", "bn": "তার প্রচেষ্টা নিরর্থক ছিল।" },
+      {
+        "en": "The old method became useless.",
+        "bn": "পুরানো পদ্ধতিটি অকেজো হয়ে গেল।"
+      },
+      {
+        "en": "She discarded the useless paper.",
+        "bn": "সে অকেজো কাগজটি ফেলে দিল।"
+      }
+    ],
+    "synonyms": ["worthless", "ineffective", "futile"]
+  },
+  {
+    "base": "ultimate",
+    "phonetic": "ˈʌltɪmət",
+    "meaning": "চূড়ান্ত / সর্বোচ্চ",
+    "examples": [
+      { "en": "This is the ultimate goal.", "bn": "এটি চূড়ান্ত লক্ষ্য।" },
+      {
+        "en": "She gave her ultimate effort.",
+        "bn": "সে তার সর্বোচ্চ প্রচেষ্টা দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He reached the ultimate level.",
+        "bn": "সে চূড়ান্ত স্তরে পৌঁছাল।"
+      },
+      {
+        "en": "The ultimate decision is yours.",
+        "bn": "চূড়ান্ত সিদ্ধান্ত তোমার।"
+      },
+      {
+        "en": "She achieved ultimate success.",
+        "bn": "সে চূড়ান্ত সাফল্য অর্জন করল।"
+      },
+      {
+        "en": "He wanted the ultimate victory.",
+        "bn": "সে চূড়ান্ত বিজয় চেয়েছিল।"
+      },
+      {
+        "en": "The ultimate challenge awaits.",
+        "bn": "চূড়ান্ত চ্যালেঞ্জ অপেক্ষা করছে।"
+      },
+      { "en": "She had the ultimate power.", "bn": "তার চূড়ান্ত ক্ষমতা ছিল।" },
+      { "en": "This is the ultimate truth.", "bn": "এটি চূড়ান্ত সত্য।" },
+      {
+        "en": "He made the ultimate sacrifice.",
+        "bn": "সে চূড়ান্ত আত্মত্যাগ করল।"
+      },
+      {
+        "en": "She found the ultimate answer.",
+        "bn": "সে চূড়ান্ত উত্তর খুঁজে পেল।"
+      },
+      {
+        "en": "The ultimate test of strength.",
+        "bn": "শক্তির চূড়ান্ত পরীক্ষা।"
+      }
+    ],
+    "synonyms": ["final", "supreme", "greatest"]
+  },
+  {
+    "base": "unable",
+    "phonetic": "ˌʌnˈeɪbl",
+    "meaning": "অক্ষম / অসমর্থ",
+    "examples": [
+      { "en": "He was unable to attend.", "bn": "সে উপস্থিত হতে অক্ষম ছিল।" },
+      { "en": "She was unable to speak.", "bn": "সে কথা বলতে অসমর্থ ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "He was unable to walk.", "bn": "সে হাঁটতে অক্ষম ছিল।" },
+      { "en": "She was unable to finish.", "bn": "সে শেষ করতে অসমর্থ ছিল।" },
+      { "en": "He was unable to help.", "bn": "সে সাহায্য করতে অক্ষম ছিল।" },
+      { "en": "She was unable to sleep.", "bn": "সে ঘুমাতে অসমর্থ ছিল।" },
+      {
+        "en": "He was unable to decide.",
+        "bn": "সে সিদ্ধান্ত নিতে অক্ষম ছিল।"
+      },
+      { "en": "She was unable to eat.", "bn": "সে খেতে অসমর্থ ছিল।" },
+      { "en": "He was unable to focus.", "bn": "সে মনোযোগ দিতে অক্ষম ছিল।" },
+      { "en": "She was unable to forgive.", "bn": "সে ক্ষমা করতে অসমর্থ ছিল।" },
+      {
+        "en": "He was unable to continue.",
+        "bn": "সে চালিয়ে যেতে অক্ষম ছিল।"
+      },
+      { "en": "She was unable to understand.", "bn": "সে বুঝতে অসমর্থ ছিল।" }
+    ],
+    "synonyms": ["incapable", "powerless", "helpless"]
+  },
+  {
+    "base": "uncertain",
+    "phonetic": "ˌʌnˈsɜːrtn",
+    "meaning": "অনিশ্চিত / সন্দেহজনক",
+    "examples": [
+      { "en": "The future is uncertain.", "bn": "ভবিষ্যৎ অনিশ্চিত।" },
+      {
+        "en": "She was uncertain about her choice.",
+        "bn": "সে তার পছন্দ সম্পর্কে অনিশ্চিত ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was uncertain about the plan.",
+        "bn": "সে পরিকল্পনা সম্পর্কে অনিশ্চিত ছিল।"
+      },
+      {
+        "en": "The weather is uncertain today.",
+        "bn": "আজ আবহাওয়া অনিশ্চিত।"
+      },
+      {
+        "en": "She felt uncertain and confused.",
+        "bn": "সে অনিশ্চিত ও বিভ্রান্ত অনুভব করল।"
+      },
+      {
+        "en": "He was uncertain of the answer.",
+        "bn": "সে উত্তর সম্পর্কে অনিশ্চিত ছিল।"
+      },
+      { "en": "The outcome is still uncertain.", "bn": "ফলাফল এখনো অনিশ্চিত।" },
+      {
+        "en": "She made an uncertain decision.",
+        "bn": "সে একটি অনিশ্চিত সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "He was uncertain about his future.",
+        "bn": "সে তার ভবিষ্যৎ সম্পর্কে অনিশ্চিত ছিল।"
+      },
+      {
+        "en": "Uncertain times need courage.",
+        "bn": "অনিশ্চিত সময়ে সাহস দরকার।"
+      },
+      {
+        "en": "She was uncertain about joining.",
+        "bn": "সে যোগদান সম্পর্কে অনিশ্চিত ছিল।"
+      },
+      {
+        "en": "He spoke in an uncertain tone.",
+        "bn": "সে অনিশ্চিত সুরে কথা বলল।"
+      }
+    ],
+    "synonyms": ["unsure", "doubtful", "unclear"]
+  },
+
+  {
+    "base": "unclear",
+    "phonetic": "ˌʌnˈklɪər",
+    "meaning": "অস্পষ্ট / বোধগম্য নয়",
+    "examples": [
+      {
+        "en": "The instructions were unclear.",
+        "bn": "নির্দেশনাগুলো অস্পষ্ট ছিল।"
+      },
+      {
+        "en": "She was unclear about the plan.",
+        "bn": "সে পরিকল্পনা সম্পর্কে অস্পষ্ট ছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "His message was unclear.", "bn": "তার বার্তা অস্পষ্ট ছিল।" },
+      { "en": "The photo was unclear.", "bn": "ছবিটি অস্পষ্ট ছিল।" },
+      {
+        "en": "She gave an unclear answer.",
+        "bn": "সে একটি অস্পষ্ট উত্তর দিল।"
+      },
+      {
+        "en": "The road signs were unclear.",
+        "bn": "রাস্তার চিহ্নগুলো অস্পষ্ট ছিল।"
+      },
+      {
+        "en": "He was unclear about the rules.",
+        "bn": "সে নিয়মগুলো সম্পর্কে অস্পষ্ট ছিল।"
+      },
+      { "en": "The writing was unclear.", "bn": "লেখাটি অস্পষ্ট ছিল।" },
+      {
+        "en": "She felt unclear about her goal.",
+        "bn": "সে তার লক্ষ্য সম্পর্কে অস্পষ্ট অনুভব করল।"
+      },
+      { "en": "The explanation was unclear.", "bn": "ব্যাখ্যাটি অস্পষ্ট ছিল।" },
+      {
+        "en": "He gave unclear directions.",
+        "bn": "সে অস্পষ্ট দিকনির্দেশনা দিল।"
+      },
+      {
+        "en": "The purpose remained unclear.",
+        "bn": "উদ্দেশ্যটি অস্পষ্ট থাকল।"
+      }
+    ],
+    "synonyms": ["vague", "ambiguous", "confusing"]
+  },
+  {
+    "base": "uncomfortable",
+    "phonetic": "ˌʌnˈkʌmftəbl",
+    "meaning": "অস্বস্তিকর / অসুবিধাজনক",
+    "examples": [
+      {
+        "en": "The chair was uncomfortable.",
+        "bn": "চেয়ারটি অস্বস্তিকর ছিল।"
+      },
+      {
+        "en": "She felt uncomfortable in the crowd.",
+        "bn": "ভিড়ে সে অস্বস্তি অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was uncomfortable with the topic.",
+        "bn": "সে বিষয়টি নিয়ে অস্বস্তি অনুভব করল।"
+      },
+      {
+        "en": "The shoes were uncomfortable.",
+        "bn": "জুতোগুলো অস্বস্তিকর ছিল।"
+      },
+      {
+        "en": "She felt uncomfortable speaking.",
+        "bn": "কথা বলতে সে অস্বস্তি অনুভব করল।"
+      },
+      {
+        "en": "He sat in an uncomfortable position.",
+        "bn": "সে অস্বস্তিকর অবস্থানে বসল।"
+      },
+      {
+        "en": "The silence was uncomfortable.",
+        "bn": "নীরবতা অস্বস্তিকর ছিল।"
+      },
+      {
+        "en": "She wore uncomfortable clothes.",
+        "bn": "সে অস্বস্তিকর কাপড় পরল।"
+      },
+      {
+        "en": "He felt uncomfortable around strangers.",
+        "bn": "অপরিচিতদের কাছে সে অস্বস্তি অনুভব করল।"
+      },
+      { "en": "The bed was uncomfortable.", "bn": "বিছানাটি অস্বস্তিকর ছিল।" },
+      {
+        "en": "She avoided uncomfortable situations.",
+        "bn": "সে অস্বস্তিকর পরিস্থিতি এড়াল।"
+      },
+      {
+        "en": "He gave an uncomfortable smile.",
+        "bn": "সে একটি অস্বস্তিকর হাসি দিল।"
+      }
+    ],
+    "synonyms": ["uneasy", "awkward", "restless"]
+  },
+  {
+    "base": "underground",
+    "phonetic": "ˈʌndəɡraʊnd",
+    "meaning": "ভূগর্ভস্থ / গোপন",
+    "examples": [
+      { "en": "The train runs underground.", "bn": "ট্রেনটি ভূগর্ভে চলে।" },
+      {
+        "en": "They held an underground meeting.",
+        "bn": "তারা একটি গোপন সভা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He built an underground bunker.",
+        "bn": "সে একটি ভূগর্ভস্থ বাঙ্কার তৈরি করল।"
+      },
+      {
+        "en": "She found an underground tunnel.",
+        "bn": "সে একটি ভূগর্ভস্থ সুড়ঙ্গ খুঁজে পেল।"
+      },
+      {
+        "en": "The underground water was pure.",
+        "bn": "ভূগর্ভস্থ পানি বিশুদ্ধ ছিল।"
+      },
+      {
+        "en": "He worked in an underground mine.",
+        "bn": "সে একটি ভূগর্ভস্থ খনিতে কাজ করল।"
+      },
+      {
+        "en": "The underground market was busy.",
+        "bn": "ভূগর্ভস্থ বাজারটি ব্যস্ত ছিল।"
+      },
+      {
+        "en": "She took the underground train.",
+        "bn": "সে ভূগর্ভস্থ ট্রেনে উঠল।"
+      },
+      {
+        "en": "They discovered underground caves.",
+        "bn": "তারা ভূগর্ভস্থ গুহা আবিষ্কার করল।"
+      },
+      {
+        "en": "He went underground to hide.",
+        "bn": "সে লুকানোর জন্য গোপনে চলে গেল।"
+      },
+      {
+        "en": "The underground pipes leaked.",
+        "bn": "ভূগর্ভস্থ পাইপ লিক করল।"
+      },
+      {
+        "en": "She explored the underground city.",
+        "bn": "সে ভূগর্ভস্থ শহর অন্বেষণ করল।"
+      }
+    ],
+    "synonyms": ["subterranean", "hidden", "secret"]
+  },
+  {
+    "base": "underline",
+    "phonetic": "ˌʌndəˈlaɪn",
+    "meaning": "আন্ডারলাইন করা / জোর দেওয়া",
+    "examples": [
+      {
+        "en": "Please underline the key words.",
+        "bn": "অনুগ্রহ করে মূল শব্দগুলো আন্ডারলাইন করো।"
+      },
+      {
+        "en": "She underlined the important parts.",
+        "bn": "সে গুরুত্বপূর্ণ অংশগুলো আন্ডারলাইন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He underlined the main points.",
+        "bn": "সে মূল বিষয়গুলো আন্ডারলাইন করল।"
+      },
+      {
+        "en": "Underline the answers in the text.",
+        "bn": "লেখায় উত্তরগুলো আন্ডারলাইন করো।"
+      },
+      {
+        "en": "She underlined her argument.",
+        "bn": "সে তার যুক্তি জোর দিয়ে বলল।"
+      },
+      {
+        "en": "He underlined the mistakes.",
+        "bn": "সে ভুলগুলো আন্ডারলাইন করল।"
+      },
+      {
+        "en": "The teacher underlined the rules.",
+        "bn": "শিক্ষক নিয়মগুলো আন্ডারলাইন করলেন।"
+      },
+      {
+        "en": "She underlined his importance.",
+        "bn": "সে তার গুরুত্ব জোর দিয়ে বলল।"
+      },
+      {
+        "en": "He underlined every sentence.",
+        "bn": "সে প্রতিটি বাক্য আন্ডারলাইন করল।"
+      },
+      {
+        "en": "Underline the topic sentence.",
+        "bn": "বিষয় বাক্যটি আন্ডারলাইন করো।"
+      },
+      {
+        "en": "She underlined her point clearly.",
+        "bn": "সে তার বক্তব্য স্পষ্টভাবে জোর দিয়ে বলল।"
+      },
+      {
+        "en": "He underlined the key facts.",
+        "bn": "সে মূল তথ্যগুলো আন্ডারলাইন করল।"
+      }
+    ],
+    "synonyms": ["emphasize", "highlight", "stress"]
+  },
+  {
+    "base": "undermine",
+    "phonetic": "ˌʌndəˈmaɪn",
+    "meaning": "দুর্বল করা / ক্ষতি করা",
+    "examples": [
+      { "en": "Do not undermine others.", "bn": "অন্যদের দুর্বল করো না।" },
+      {
+        "en": "She undermined his confidence.",
+        "bn": "সে তার আত্মবিশ্বাস দুর্বল করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He undermined the plan.", "bn": "সে পরিকল্পনাটি দুর্বল করল।" },
+      { "en": "She undermined the team.", "bn": "সে দলটিকে দুর্বল করল।" },
+      {
+        "en": "Negative words undermine progress.",
+        "bn": "নেতিবাচক কথা অগ্রগতি দুর্বল করে।"
+      },
+      {
+        "en": "He tried to undermine her work.",
+        "bn": "সে তার কাজ দুর্বল করার চেষ্টা করল।"
+      },
+      {
+        "en": "She undermined the authority.",
+        "bn": "সে কর্তৃত্বকে দুর্বল করল।"
+      },
+      {
+        "en": "Do not undermine your own efforts.",
+        "bn": "তোমার নিজের প্রচেষ্টা দুর্বল করো না।"
+      },
+      {
+        "en": "He undermined the decision.",
+        "bn": "সে সিদ্ধান্তটি দুর্বল করল।"
+      },
+      {
+        "en": "She undermined his reputation.",
+        "bn": "সে তার সুনাম দুর্বল করল।"
+      },
+      {
+        "en": "Jealousy undermines relationships.",
+        "bn": "ঈর্ষা সম্পর্ক দুর্বল করে।"
+      },
+      { "en": "He undermined the foundation.", "bn": "সে ভিত্তিটি দুর্বল করল।" }
+    ],
+    "synonyms": ["weaken", "sabotage", "damage"]
+  },
+  {
+    "base": "undertake",
+    "phonetic": "ˌʌndəˈteɪk",
+    "meaning": "গ্রহণ করা / দায়িত্ব নেওয়া",
+    "examples": [
+      { "en": "She undertook the project.", "bn": "সে প্রকল্পটি গ্রহণ করল।" },
+      { "en": "He undertook the responsibility.", "bn": "সে দায়িত্বটি নিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Undertake tasks with confidence.",
+        "bn": "আত্মবিশ্বাসের সাথে কাজ গ্রহণ করো।"
+      },
+      {
+        "en": "She undertook the challenge.",
+        "bn": "সে চ্যালেঞ্জটি গ্রহণ করল।"
+      },
+      { "en": "He undertook the mission.", "bn": "সে অভিযানটি গ্রহণ করল।" },
+      {
+        "en": "They undertook the construction.",
+        "bn": "তারা নির্মাণ কাজটি গ্রহণ করল।"
+      },
+      {
+        "en": "She undertook a new role.",
+        "bn": "সে একটি নতুন ভূমিকা গ্রহণ করল।"
+      },
+      { "en": "He undertook the research.", "bn": "সে গবেষণাটি গ্রহণ করল।" },
+      {
+        "en": "Undertake only what you can finish.",
+        "bn": "শুধু এটুকুই গ্রহণ করো যা তুমি শেষ করতে পারবে।"
+      },
+      {
+        "en": "She undertook a difficult task.",
+        "bn": "সে একটি কঠিন কাজ গ্রহণ করল।"
+      },
+      { "en": "He undertook the training.", "bn": "সে প্রশিক্ষণটি গ্রহণ করল।" },
+      { "en": "They undertook the journey.", "bn": "তারা যাত্রাটি গ্রহণ করল।" }
+    ],
+    "synonyms": ["attempt", "begin", "take on"]
+  },
+  {
+    "base": "unexpected",
+    "phonetic": "ˌʌnɪkˈspektɪd",
+    "meaning": "অপ্রত্যাশিত / হঠাৎ",
+    "examples": [
+      { "en": "The news was unexpected.", "bn": "খবরটি অপ্রত্যাশিত ছিল।" },
+      {
+        "en": "She had an unexpected visitor.",
+        "bn": "তার একজন অপ্রত্যাশিত অতিথি এল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He made an unexpected decision.",
+        "bn": "সে একটি অপ্রত্যাশিত সিদ্ধান্ত নিল।"
+      },
+      { "en": "The result was unexpected.", "bn": "ফলাফলটি অপ্রত্যাশিত ছিল।" },
+      {
+        "en": "She got an unexpected gift.",
+        "bn": "সে একটি অপ্রত্যাশিত উপহার পেল।"
+      },
+      {
+        "en": "He faced an unexpected challenge.",
+        "bn": "সে একটি অপ্রত্যাশিত চ্যালেঞ্জের মুখোমুখি হলো।"
+      },
+      { "en": "The storm was unexpected.", "bn": "ঝড়টি অপ্রত্যাশিত ছিল।" },
+      {
+        "en": "She made an unexpected move.",
+        "bn": "সে একটি অপ্রত্যাশিত পদক্ষেপ নিল।"
+      },
+      {
+        "en": "He had an unexpected success.",
+        "bn": "তার একটি অপ্রত্যাশিত সাফল্য হলো।"
+      },
+      { "en": "The meeting was unexpected.", "bn": "সভাটি অপ্রত্যাশিত ছিল।" },
+      {
+        "en": "She took an unexpected turn.",
+        "bn": "সে একটি অপ্রত্যাশিত মোড় নিল।"
+      },
+      {
+        "en": "He gave an unexpected answer.",
+        "bn": "সে একটি অপ্রত্যাশিত উত্তর দিল।"
+      }
+    ],
+    "synonyms": ["surprising", "sudden", "unforeseen"]
+  },
+  {
+    "base": "unfair",
+    "phonetic": "ˌʌnˈfeər",
+    "meaning": "অন্যায্য / পক্ষপাতমূলক",
+    "examples": [
+      { "en": "The decision was unfair.", "bn": "সিদ্ধান্তটি অন্যায্য ছিল।" },
+      {
+        "en": "She thought the rule was unfair.",
+        "bn": "সে মনে করল নিয়মটি অন্যায্য।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He complained about unfair treatment.",
+        "bn": "সে অন্যায্য আচরণের অভিযোগ করল।"
+      },
+      { "en": "The game was unfair.", "bn": "খেলাটি অন্যায্য ছিল।" },
+      {
+        "en": "She faced unfair criticism.",
+        "bn": "সে অন্যায্য সমালোচনার মুখোমুখি হলো।"
+      },
+      {
+        "en": "He protested the unfair law.",
+        "bn": "সে অন্যায্য আইনের প্রতিবাদ করল।"
+      },
+      {
+        "en": "The competition was unfair.",
+        "bn": "প্রতিযোগিতাটি অন্যায্য ছিল।"
+      },
+      {
+        "en": "She was given an unfair advantage.",
+        "bn": "তাকে একটি অন্যায্য সুবিধা দেওয়া হলো।"
+      },
+      { "en": "He thought it was unfair.", "bn": "সে মনে করল এটি অন্যায্য।" },
+      {
+        "en": "Unfair treatment hurts people.",
+        "bn": "অন্যায্য আচরণ মানুষকে কষ্ট দেয়।"
+      },
+      {
+        "en": "She stood against unfair rules.",
+        "bn": "সে অন্যায্য নিয়মের বিরুদ্ধে দাঁড়াল।"
+      },
+      {
+        "en": "He received an unfair punishment.",
+        "bn": "সে অন্যায্য শাস্তি পেল।"
+      }
+    ],
+    "synonyms": ["unjust", "biased", "inequitable"]
+  },
+  {
+    "base": "unfortunate",
+    "phonetic": "ˌʌnˈfɔːrtʃənət",
+    "meaning": "দুর্ভাগ্যজনক / হতভাগ্য",
+    "examples": [
+      {
+        "en": "It was an unfortunate accident.",
+        "bn": "এটি একটি দুর্ভাগ্যজনক দুর্ঘটনা ছিল।"
+      },
+      {
+        "en": "She had an unfortunate experience.",
+        "bn": "তার একটি দুর্ভাগ্যজনক অভিজ্ঞতা হলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He made an unfortunate mistake.",
+        "bn": "সে একটি দুর্ভাগ্যজনক ভুল করল।"
+      },
+      {
+        "en": "The outcome was unfortunate.",
+        "bn": "ফলাফলটি দুর্ভাগ্যজনক ছিল।"
+      },
+      {
+        "en": "She had an unfortunate childhood.",
+        "bn": "তার একটি দুর্ভাগ্যজনক শৈশব ছিল।"
+      },
+      {
+        "en": "He was in an unfortunate situation.",
+        "bn": "সে একটি দুর্ভাগ্যজনক পরিস্থিতিতে ছিল।"
+      },
+      { "en": "The timing was unfortunate.", "bn": "সময়টি দুর্ভাগ্যজনক ছিল।" },
+      {
+        "en": "She gave an unfortunate speech.",
+        "bn": "সে একটি দুর্ভাগ্যজনক বক্তৃতা দিল।"
+      },
+      {
+        "en": "He had an unfortunate ending.",
+        "bn": "তার একটি দুর্ভাগ্যজনক পরিসমাপ্তি হলো।"
+      },
+      {
+        "en": "The news was very unfortunate.",
+        "bn": "খবরটি খুব দুর্ভাগ্যজনক ছিল।"
+      },
+      {
+        "en": "She faced an unfortunate event.",
+        "bn": "সে একটি দুর্ভাগ্যজনক ঘটনার মুখোমুখি হলো।"
+      },
+      {
+        "en": "It was an unfortunate loss.",
+        "bn": "এটি একটি দুর্ভাগ্যজনক ক্ষতি ছিল।"
+      }
+    ],
+    "synonyms": ["unlucky", "regrettable", "sad"]
+  },
+  {
+    "base": "unhappy",
+    "phonetic": "ˌʌnˈhæpi",
+    "meaning": "অসুখী / দুঃখী",
+    "examples": [
+      {
+        "en": "She was unhappy about the result.",
+        "bn": "ফলাফলে সে অসুখী ছিল।"
+      },
+      { "en": "He looked unhappy.", "bn": "সে দুঃখী দেখাল।" }
+    ],
+    "moreexample": [
+      { "en": "She felt unhappy inside.", "bn": "সে ভেতরে অসুখী অনুভব করল।" },
+      {
+        "en": "He was unhappy with his job.",
+        "bn": "সে তার চাকরিতে অসুখী ছিল।"
+      },
+      {
+        "en": "She was unhappy about the change.",
+        "bn": "পরিবর্তনে সে অসুখী ছিল।"
+      },
+      { "en": "He was deeply unhappy.", "bn": "সে গভীরভাবে অসুখী ছিল।" },
+      {
+        "en": "She became unhappy over time.",
+        "bn": "সময়ের সাথে সে অসুখী হয়ে পড়ল।"
+      },
+      {
+        "en": "He was unhappy with the decision.",
+        "bn": "সিদ্ধান্তে সে অসুখী ছিল।"
+      },
+      {
+        "en": "She tried to hide her unhappiness.",
+        "bn": "সে তার অসুখী ভাব লুকানোর চেষ্টা করল।"
+      },
+      { "en": "He was unhappy and lonely.", "bn": "সে অসুখী ও একাকী ছিল।" },
+      { "en": "She was unhappy about the news.", "bn": "খবরে সে অসুখী ছিল।" },
+      {
+        "en": "Unhappy people need support.",
+        "bn": "অসুখী মানুষদের সহায়তা দরকার।"
+      }
+    ],
+    "synonyms": ["sad", "miserable", "dissatisfied"]
+  },
+  {
+    "base": "uniform",
+    "phonetic": "ˈjuːnɪfɔːrm",
+    "meaning": "পোশাক / একরূপ",
+    "examples": [
+      {
+        "en": "She wore her school uniform.",
+        "bn": "সে তার স্কুলের পোশাক পরল।"
+      },
+      { "en": "The soldiers wore uniforms.", "bn": "সৈনিকরা পোশাক পরল।" }
+    ],
+    "moreexample": [
+      { "en": "He ironed his uniform.", "bn": "সে তার পোশাক ইস্ত্রি করল।" },
+      {
+        "en": "The uniform was blue and white.",
+        "bn": "পোশাকটি নীল ও সাদা ছিল।"
+      },
+      { "en": "She lost her uniform.", "bn": "সে তার পোশাক হারাল।" },
+      {
+        "en": "The team wore matching uniforms.",
+        "bn": "দল মিলমিলে পোশাক পরল।"
+      },
+      { "en": "He bought a new uniform.", "bn": "সে একটি নতুন পোশাক কিনল।" },
+      {
+        "en": "The uniform was very clean.",
+        "bn": "পোশাকটি খুব পরিষ্কার ছিল।"
+      },
+      {
+        "en": "She wore her uniform proudly.",
+        "bn": "সে গর্বের সাথে পোশাক পরল।"
+      },
+      { "en": "The uniform rules are strict.", "bn": "পোশাকের নিয়ম কঠোর।" },
+      { "en": "He kept his uniform neat.", "bn": "সে তার পোশাক ঝকঝকে রাখল।" },
+      { "en": "Uniforms show team unity.", "bn": "পোশাক দলীয় ঐক্য দেখায়।" }
+    ],
+    "synonyms": ["outfit", "attire", "consistent"]
+  },
+  {
+    "base": "unify",
+    "phonetic": "ˈjuːnɪfaɪ",
+    "meaning": "একত্রিত করা / ঐক্যবদ্ধ করা",
+    "examples": [
+      {
+        "en": "We need to unify our efforts.",
+        "bn": "আমাদের প্রচেষ্টা একত্রিত করতে হবে।"
+      },
+      { "en": "She unified the group.", "bn": "সে গ্রুপটিকে ঐক্যবদ্ধ করল।" }
+    ],
+    "moreexample": [
+      { "en": "He unified the nation.", "bn": "সে জাতিকে ঐক্যবদ্ধ করল।" },
+      {
+        "en": "Unify your team for success.",
+        "bn": "সাফল্যের জন্য তোমার দল ঐক্যবদ্ধ করো।"
+      },
+      {
+        "en": "She unified different opinions.",
+        "bn": "সে বিভিন্ন মতামত একত্রিত করল।"
+      },
+      {
+        "en": "He tried to unify the party.",
+        "bn": "সে দলটিকে ঐক্যবদ্ধ করার চেষ্টা করল।"
+      },
+      {
+        "en": "They unified their resources.",
+        "bn": "তারা তাদের সম্পদ একত্রিত করল।"
+      },
+      {
+        "en": "Unify your goals and actions.",
+        "bn": "তোমার লক্ষ্য ও কাজ একত্রিত করো।"
+      },
+      {
+        "en": "She unified the communities.",
+        "bn": "সে সম্প্রদায়গুলো একত্রিত করল।"
+      },
+      {
+        "en": "He unified the departments.",
+        "bn": "সে বিভাগগুলো একত্রিত করল।"
+      },
+      {
+        "en": "They unified against the threat.",
+        "bn": "তারা হুমকির বিরুদ্ধে ঐক্যবদ্ধ হলো।"
+      },
+      {
+        "en": "Unifying people brings peace.",
+        "bn": "মানুষদের ঐক্যবদ্ধ করা শান্তি আনে।"
+      }
+    ],
+    "synonyms": ["unite", "consolidate", "merge"]
+  },
+  {
+    "base": "universe",
+    "phonetic": "ˈjuːnɪvɜːrs",
+    "meaning": "মহাবিশ্ব / জগৎ",
+    "examples": [
+      { "en": "The universe is vast.", "bn": "মহাবিশ্ব বিশাল।" },
+      { "en": "She studied the universe.", "bn": "সে মহাবিশ্ব অধ্যয়ন করল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He was amazed by the universe.",
+        "bn": "সে মহাবিশ্ব দেখে অবাক হলো।"
+      },
+      {
+        "en": "The universe has billions of stars.",
+        "bn": "মহাবিশ্বে কোটি কোটি তারা আছে।"
+      },
+      { "en": "She explored the universe.", "bn": "সে মহাবিশ্ব অন্বেষণ করল।" },
+      {
+        "en": "The universe is always expanding.",
+        "bn": "মহাবিশ্ব সবসময় প্রসারিত হচ্ছে।"
+      },
+      {
+        "en": "He dreamed of exploring the universe.",
+        "bn": "সে মহাবিশ্ব অন্বেষণের স্বপ্ন দেখল।"
+      },
+      {
+        "en": "The universe holds many secrets.",
+        "bn": "মহাবিশ্বে অনেক রহস্য আছে।"
+      },
+      {
+        "en": "She read about the universe.",
+        "bn": "সে মহাবিশ্ব সম্পর্কে পড়ল।"
+      },
+      {
+        "en": "The universe began with a big bang.",
+        "bn": "মহাবিশ্ব বিগ ব্যাং দিয়ে শুরু হয়েছিল।"
+      },
+      {
+        "en": "He was humbled by the universe.",
+        "bn": "মহাবিশ্ব তাকে বিনম্র করল।"
+      },
+      {
+        "en": "The universe is full of wonders.",
+        "bn": "মহাবিশ্ব বিস্ময়ে পূর্ণ।"
+      }
+    ],
+    "synonyms": ["cosmos", "galaxy", "world"]
+  },
+  {
+    "base": "unknown",
+    "phonetic": "ˌʌnˈnoʊn",
+    "meaning": "অজানা / অপরিচিত",
+    "examples": [
+      { "en": "The cause was unknown.", "bn": "কারণটি অজানা ছিল।" },
+      {
+        "en": "She traveled to unknown places.",
+        "bn": "সে অজানা জায়গায় ভ্রমণ করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He feared the unknown.", "bn": "সে অজানাকে ভয় পেত।" },
+      { "en": "The author was unknown.", "bn": "লেখক অজানা ছিল।" },
+      {
+        "en": "She ventured into unknown territory.",
+        "bn": "সে অজানা অঞ্চলে প্রবেশ করল।"
+      },
+      {
+        "en": "The name was unknown to him.",
+        "bn": "নামটি তার কাছে অজানা ছিল।"
+      },
+      { "en": "He explored the unknown.", "bn": "সে অজানা অন্বেষণ করল।" },
+      { "en": "The disease was unknown.", "bn": "রোগটি অজানা ছিল।" },
+      {
+        "en": "She faced the unknown bravely.",
+        "bn": "সে সাহসের সাথে অজানার মুখোমুখি হলো।"
+      },
+      { "en": "The outcome is unknown.", "bn": "ফলাফলটি অজানা।" },
+      {
+        "en": "He came from an unknown place.",
+        "bn": "সে একটি অজানা জায়গা থেকে এল।"
+      },
+      { "en": "The future remains unknown.", "bn": "ভবিষ্যৎ অজানাই থাকে।" }
+    ],
+    "synonyms": ["unfamiliar", "mysterious", "hidden"]
+  },
+  {
+    "base": "unlikely",
+    "phonetic": "ˌʌnˈlaɪkli",
+    "meaning": "অসম্ভব / অনুপযুক্ত",
+    "examples": [
+      {
+        "en": "It is unlikely to rain today.",
+        "bn": "আজ বৃষ্টির সম্ভাবনা নেই।"
+      },
+      { "en": "She thought it was unlikely.", "bn": "সে মনে করল এটি অসম্ভব।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He was an unlikely hero.",
+        "bn": "সে একজন অপ্রত্যাশিত নায়ক ছিল।"
+      },
+      {
+        "en": "The story had an unlikely ending.",
+        "bn": "গল্পটির একটি অপ্রত্যাশিত সমাপ্তি ছিল।"
+      },
+      {
+        "en": "She made an unlikely friend.",
+        "bn": "সে একজন অপ্রত্যাশিত বন্ধু বানাল।"
+      },
+      {
+        "en": "It is unlikely to succeed.",
+        "bn": "এটি সফল হওয়ার সম্ভাবনা নেই।"
+      },
+      {
+        "en": "He had an unlikely victory.",
+        "bn": "তার একটি অপ্রত্যাশিত বিজয় হলো।"
+      },
+      {
+        "en": "She found an unlikely solution.",
+        "bn": "সে একটি অপ্রত্যাশিত সমাধান খুঁজে পেল।"
+      },
+      {
+        "en": "The two made an unlikely pair.",
+        "bn": "দুজন মিলে একটি অপ্রত্যাশিত জুটি হলো।"
+      },
+      {
+        "en": "He was unlikely to agree.",
+        "bn": "তার রাজি হওয়ার সম্ভাবনা ছিল না।"
+      },
+      {
+        "en": "She was an unlikely candidate.",
+        "bn": "সে একজন অপ্রত্যাশিত প্রার্থী ছিল।"
+      },
+      {
+        "en": "The plan was unlikely to work.",
+        "bn": "পরিকল্পনাটি কাজ করার সম্ভাবনা ছিল না।"
+      }
+    ],
+    "synonyms": ["improbable", "doubtful", "remote"]
+  },
+  {
+    "base": "unnecessary",
+    "phonetic": "ˌʌnˈnesəseri",
+    "meaning": "অপ্রয়োজনীয় / বাহুল্য",
+    "examples": [
+      {
+        "en": "Avoid unnecessary expenses.",
+        "bn": "অপ্রয়োজনীয় খরচ এড়িয়ে চলো।"
+      },
+      {
+        "en": "She removed unnecessary details.",
+        "bn": "সে অপ্রয়োজনীয় বিবরণ সরিয়ে দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He avoided unnecessary arguments.",
+        "bn": "সে অপ্রয়োজনীয় তর্ক এড়াল।"
+      },
+      { "en": "The meeting was unnecessary.", "bn": "সভাটি অপ্রয়োজনীয় ছিল।" },
+      {
+        "en": "She skipped unnecessary steps.",
+        "bn": "সে অপ্রয়োজনীয় ধাপ বাদ দিল।"
+      },
+      {
+        "en": "He cut unnecessary parts.",
+        "bn": "সে অপ্রয়োজনীয় অংশ বাদ দিল।"
+      },
+      {
+        "en": "Unnecessary stress harms health.",
+        "bn": "অপ্রয়োজনীয় চাপ স্বাস্থ্যের ক্ষতি করে।"
+      },
+      {
+        "en": "She avoided unnecessary drama.",
+        "bn": "সে অপ্রয়োজনীয় নাটকীয়তা এড়াল।"
+      },
+      {
+        "en": "He deleted unnecessary files.",
+        "bn": "সে অপ্রয়োজনীয় ফাইল মুছে দিল।"
+      },
+      { "en": "The rule was unnecessary.", "bn": "নিয়মটি অপ্রয়োজনীয় ছিল।" },
+      {
+        "en": "She reduced unnecessary tasks.",
+        "bn": "সে অপ্রয়োজনীয় কাজ কমাল।"
+      },
+      {
+        "en": "He stopped unnecessary interruptions.",
+        "bn": "সে অপ্রয়োজনীয় বাধা বন্ধ করল।"
+      }
+    ],
+    "synonyms": ["needless", "redundant", "excess"]
+  },
+  {
+    "base": "unpleasant",
+    "phonetic": "ˌʌnˈpleznt",
+    "meaning": "অপ্রীতিকর / অসুখকর",
+    "examples": [
+      { "en": "The smell was unpleasant.", "bn": "গন্ধটি অপ্রীতিকর ছিল।" },
+      {
+        "en": "She had an unpleasant experience.",
+        "bn": "তার একটি অপ্রীতিকর অভিজ্ঞতা হলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He avoided unpleasant situations.",
+        "bn": "সে অপ্রীতিকর পরিস্থিতি এড়াল।"
+      },
+      { "en": "The weather was unpleasant.", "bn": "আবহাওয়া অপ্রীতিকর ছিল।" },
+      {
+        "en": "She had an unpleasant neighbor.",
+        "bn": "তার একজন অপ্রীতিকর প্রতিবেশী ছিল।"
+      },
+      {
+        "en": "He made an unpleasant comment.",
+        "bn": "সে একটি অপ্রীতিকর মন্তব্য করল।"
+      },
+      { "en": "The taste was unpleasant.", "bn": "স্বাদটি অপ্রীতিকর ছিল।" },
+      {
+        "en": "She dealt with an unpleasant truth.",
+        "bn": "সে একটি অপ্রীতিকর সত্যের মুখোমুখি হলো।"
+      },
+      {
+        "en": "He had an unpleasant dream.",
+        "bn": "তার একটি অপ্রীতিকর স্বপ্ন হলো।"
+      },
+      { "en": "The sound was unpleasant.", "bn": "শব্দটি অপ্রীতিকর ছিল।" },
+      {
+        "en": "She overcame the unpleasant moment.",
+        "bn": "সে অপ্রীতিকর মুহূর্ত কাটিয়ে উঠল।"
+      },
+      {
+        "en": "He gave an unpleasant reaction.",
+        "bn": "সে একটি অপ্রীতিকর প্রতিক্রিয়া দিল।"
+      }
+    ],
+    "synonyms": ["disagreeable", "nasty", "offensive"]
+  },
+  {
+    "base": "unstable",
+    "phonetic": "ˌʌnˈsteɪbl",
+    "meaning": "অস্থির / অনিশ্চিত",
+    "examples": [
+      { "en": "The bridge was unstable.", "bn": "সেতুটি অস্থির ছিল।" },
+      {
+        "en": "She was emotionally unstable.",
+        "bn": "সে আবেগিকভাবে অস্থির ছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He had an unstable income.", "bn": "তার আয় অস্থির ছিল।" },
+      { "en": "The government was unstable.", "bn": "সরকার অস্থির ছিল।" },
+      {
+        "en": "She felt mentally unstable.",
+        "bn": "সে মানসিকভাবে অস্থির অনুভব করল।"
+      },
+      { "en": "The structure was unstable.", "bn": "কাঠামোটি অস্থির ছিল।" },
+      {
+        "en": "He lived in an unstable environment.",
+        "bn": "সে একটি অস্থির পরিবেশে বাস করত।"
+      },
+      { "en": "The market was unstable.", "bn": "বাজার অস্থির ছিল।" },
+      {
+        "en": "She had an unstable relationship.",
+        "bn": "তার সম্পর্কটি অস্থির ছিল।"
+      },
+      {
+        "en": "He felt unstable after the loss.",
+        "bn": "ক্ষতির পর সে অস্থির অনুভব করল।"
+      },
+      { "en": "The weather was unstable.", "bn": "আবহাওয়া অস্থির ছিল।" },
+      {
+        "en": "Unstable conditions are dangerous.",
+        "bn": "অস্থির পরিস্থিতি বিপজ্জনক।"
+      }
+    ],
+    "synonyms": ["unsteady", "shaky", "volatile"]
+  },
+  {
+    "base": "unusual",
+    "phonetic": "ˌʌnˈjuːʒuəl",
+    "meaning": "অস্বাভাবিক / অদ্ভুত",
+    "examples": [
+      {
+        "en": "She had an unusual habit.",
+        "bn": "তার একটি অস্বাভাবিক অভ্যাস ছিল।"
+      },
+      {
+        "en": "The weather was unusual today.",
+        "bn": "আজ আবহাওয়া অস্বাভাবিক ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He made an unusual request.",
+        "bn": "সে একটি অস্বাভাবিক অনুরোধ করল।"
+      },
+      { "en": "She wore an unusual dress.", "bn": "সে একটি অদ্ভুত পোশাক পরল।" },
+      {
+        "en": "The situation was unusual.",
+        "bn": "পরিস্থিতিটি অস্বাভাবিক ছিল।"
+      },
+      {
+        "en": "He had an unusual talent.",
+        "bn": "তার একটি অস্বাভাবিক প্রতিভা ছিল।"
+      },
+      {
+        "en": "She found an unusual flower.",
+        "bn": "সে একটি অদ্ভুত ফুল খুঁজে পেল।"
+      },
+      {
+        "en": "The food had an unusual taste.",
+        "bn": "খাবারটির একটি অস্বাভাবিক স্বাদ ছিল।"
+      },
+      { "en": "He had an unusual name.", "bn": "তার একটি অস্বাভাবিক নাম ছিল।" },
+      {
+        "en": "She gave an unusual answer.",
+        "bn": "সে একটি অদ্ভুত উত্তর দিল।"
+      },
+      {
+        "en": "The bird made an unusual sound.",
+        "bn": "পাখিটি একটি অস্বাভাবিক শব্দ করল।"
+      },
+      {
+        "en": "He had an unusual way of thinking.",
+        "bn": "তার চিন্তার একটি অস্বাভাবিক ধরন ছিল।"
+      }
+    ],
+    "synonyms": ["strange", "odd", "uncommon"]
+  },
+
+  {
+    "base": "uphold",
+    "phonetic": "ˌʌpˈhoʊld",
+    "meaning": "সমর্থন করা / বজায় রাখা",
+    "examples": [
+      { "en": "She upheld the law.", "bn": "সে আইন বজায় রাখল।" },
+      { "en": "He upheld the tradition.", "bn": "সে ঐতিহ্য বজায় রাখল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Uphold your values always.",
+        "bn": "সবসময় তোমার মূল্যবোধ বজায় রাখো।"
+      },
+      { "en": "She upheld the decision.", "bn": "সে সিদ্ধান্তটি সমর্থন করল।" },
+      { "en": "He upheld justice.", "bn": "সে ন্যায়বিচার বজায় রাখল।" },
+      { "en": "They upheld the rules.", "bn": "তারা নিয়মগুলো বজায় রাখল।" },
+      {
+        "en": "She upheld her promise.",
+        "bn": "সে তার প্রতিশ্রুতি বজায় রাখল।"
+      },
+      { "en": "He upheld the constitution.", "bn": "সে সংবিধান বজায় রাখল।" },
+      {
+        "en": "Uphold the rights of others.",
+        "bn": "অন্যদের অধিকার সমর্থন করো।"
+      },
+      { "en": "She upheld her dignity.", "bn": "সে তার মর্যাদা বজায় রাখল।" },
+      { "en": "He upheld the honor.", "bn": "সে সম্মান বজায় রাখল।" },
+      { "en": "They upheld the standard.", "bn": "তারা মান বজায় রাখল।" }
+    ],
+    "synonyms": ["support", "maintain", "defend"]
+  },
+  {
+    "base": "upon",
+    "phonetic": "əˈpɒn",
+    "meaning": "উপর / উপরে",
+    "examples": [
+      { "en": "The book was upon the table.", "bn": "বইটি টেবিলের উপর ছিল।" },
+      {
+        "en": "She called upon him for help.",
+        "bn": "সে তার কাছে সাহায্য চাইল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He relied upon his friends.",
+        "bn": "সে বন্ধুদের উপর নির্ভর করল।"
+      },
+      {
+        "en": "Once upon a time there was a king.",
+        "bn": "একবার এক রাজা ছিলেন।"
+      },
+      {
+        "en": "She looked upon him kindly.",
+        "bn": "সে তার দিকে দয়ার দৃষ্টিতে তাকাল।"
+      },
+      {
+        "en": "He acted upon the advice.",
+        "bn": "সে পরামর্শ অনুযায়ী কাজ করল।"
+      },
+      {
+        "en": "They agreed upon a plan.",
+        "bn": "তারা একটি পরিকল্পনায় একমত হলো।"
+      },
+      {
+        "en": "She depended upon her skills.",
+        "bn": "সে তার দক্ষতার উপর নির্ভর করল।"
+      },
+      {
+        "en": "He came upon a surprise.",
+        "bn": "সে একটি বিস্ময়ের মুখোমুখি হলো।"
+      },
+      { "en": "Upon arrival she smiled.", "bn": "পৌঁছানোর পর সে হাসল।" },
+      {
+        "en": "She built upon her experience.",
+        "bn": "সে তার অভিজ্ঞতার উপর ভিত্তি করে এগিয়ে গেল।"
+      },
+      {
+        "en": "He took upon himself the task.",
+        "bn": "সে নিজেই কাজটি গ্রহণ করল।"
+      }
+    ],
+    "synonyms": ["on", "onto", "above"]
+  },
+  {
+    "base": "uproar",
+    "phonetic": "ˈʌprɔːr",
+    "meaning": "হইচই / হট্টগোল",
+    "examples": [
+      { "en": "There was uproar in the hall.", "bn": "হলে হইচই ছিল।" },
+      { "en": "The news caused an uproar.", "bn": "খবরটি হট্টগোল সৃষ্টি করল।" }
+    ],
+    "moreexample": [
+      { "en": "He caused an uproar.", "bn": "সে হইচই সৃষ্টি করল।" },
+      { "en": "She heard an uproar outside.", "bn": "সে বাইরে হট্টগোল শুনল।" },
+      {
+        "en": "The decision caused uproar.",
+        "bn": "সিদ্ধান্তটি হইচই সৃষ্টি করল।"
+      },
+      { "en": "There was uproar in the crowd.", "bn": "ভিড়ে হট্টগোল ছিল।" },
+      { "en": "He silenced the uproar.", "bn": "সে হইচই থামাল।" },
+      {
+        "en": "The uproar lasted for hours.",
+        "bn": "হট্টগোল ঘন্টার পর ঘন্টা স্থায়ী হলো।"
+      },
+      { "en": "She joined the uproar.", "bn": "সে হইচইয়ে যোগ দিল।" },
+      {
+        "en": "The uproar disturbed everyone.",
+        "bn": "হট্টগোল সবাইকে বিরক্ত করল।"
+      },
+      { "en": "He stood above the uproar.", "bn": "সে হইচইয়ের উপরে থাকল।" },
+      {
+        "en": "The uproar calmed down slowly.",
+        "bn": "হট্টগোল ধীরে ধীরে শান্ত হলো।"
+      }
+    ],
+    "synonyms": ["commotion", "chaos", "turmoil"]
+  },
+  {
+    "base": "upward",
+    "phonetic": "ˈʌpwərd",
+    "meaning": "উপরের দিকে / ঊর্ধ্বমুখী",
+    "examples": [
+      {
+        "en": "She looked upward at the sky.",
+        "bn": "সে আকাশের দিকে উপরে তাকাল।"
+      },
+      {
+        "en": "He moved upward in his career.",
+        "bn": "সে তার ক্যারিয়ারে উপরে উঠল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The balloon floated upward.", "bn": "বেলুনটি উপরের দিকে ভাসল।" },
+      { "en": "She climbed upward slowly.", "bn": "সে ধীরে ধীরে উপরে উঠল।" },
+      { "en": "He pointed upward.", "bn": "সে উপরের দিকে ইঙ্গিত করল।" },
+      { "en": "The prices moved upward.", "bn": "দাম উপরের দিকে গেল।" },
+      {
+        "en": "She grew upward like a tree.",
+        "bn": "সে গাছের মতো উপরে বাড়ল।"
+      },
+      {
+        "en": "He aimed upward always.",
+        "bn": "সে সবসময় উপরের দিকে লক্ষ্য রাখল।"
+      },
+      {
+        "en": "The trend is moving upward.",
+        "bn": "প্রবণতা উপরের দিকে যাচ্ছে।"
+      },
+      { "en": "She pushed herself upward.", "bn": "সে নিজেকে উপরে ঠেলল।" },
+      {
+        "en": "He walked upward on the hill.",
+        "bn": "সে পাহাড়ে উপরের দিকে হাঁটল।"
+      },
+      {
+        "en": "The road goes upward steeply.",
+        "bn": "রাস্তাটি খাড়াভাবে উপরে যায়।"
+      }
+    ],
+    "synonyms": ["higher", "ascending", "skyward"]
+  },
+  {
+    "base": "urban",
+    "phonetic": "ˈɜːrbən",
+    "meaning": "শহুরে / নগর সংক্রান্ত",
+    "examples": [
+      {
+        "en": "She lives in an urban area.",
+        "bn": "সে একটি শহুরে এলাকায় বাস করে।"
+      },
+      {
+        "en": "He studied urban development.",
+        "bn": "সে নগর উন্নয়ন অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Urban life is very busy.", "bn": "শহুরে জীবন খুব ব্যস্ত।" },
+      {
+        "en": "She enjoyed urban culture.",
+        "bn": "সে শহুরে সংস্কৃতি উপভোগ করল।"
+      },
+      { "en": "He moved to an urban city.", "bn": "সে একটি নগর শহরে চলে গেল।" },
+      {
+        "en": "Urban areas have more jobs.",
+        "bn": "শহুরে এলাকায় বেশি কাজ আছে।"
+      },
+      {
+        "en": "She preferred urban living.",
+        "bn": "সে শহুরে জীবনযাপন পছন্দ করল।"
+      },
+      {
+        "en": "He worked on urban planning.",
+        "bn": "সে নগর পরিকল্পনায় কাজ করল।"
+      },
+      {
+        "en": "Urban pollution is a big problem.",
+        "bn": "শহুরে দূষণ একটি বড় সমস্যা।"
+      },
+      {
+        "en": "She studied urban sociology.",
+        "bn": "সে নগর সমাজবিজ্ঞান অধ্যয়ন করল।"
+      },
+      {
+        "en": "He loved the urban lifestyle.",
+        "bn": "সে শহুরে জীবনধারা ভালোবাসত।"
+      },
+      {
+        "en": "Urban transport needs improvement.",
+        "bn": "শহুরে পরিবহন উন্নতি দরকার।"
+      }
+    ],
+    "synonyms": ["city", "metropolitan", "municipal"]
+  },
+  {
+    "base": "usage",
+    "phonetic": "ˈjuːsɪdʒ",
+    "meaning": "ব্যবহার / প্রয়োগ",
+    "examples": [
+      {
+        "en": "Water usage must be reduced.",
+        "bn": "পানির ব্যবহার কমাতে হবে।"
+      },
+      {
+        "en": "She checked the usage of the word.",
+        "bn": "সে শব্দটির ব্যবহার পরীক্ষা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He tracked his phone usage.",
+        "bn": "সে তার ফোনের ব্যবহার ট্র্যাক করল।"
+      },
+      { "en": "Energy usage is increasing.", "bn": "শক্তির ব্যবহার বাড়ছে।" },
+      {
+        "en": "She monitored the data usage.",
+        "bn": "সে ডেটার ব্যবহার পর্যবেক্ষণ করল।"
+      },
+      {
+        "en": "Correct usage improves writing.",
+        "bn": "সঠিক ব্যবহার লেখা উন্নত করে।"
+      },
+      {
+        "en": "He reduced his fuel usage.",
+        "bn": "সে তার জ্বালানির ব্যবহার কমাল।"
+      },
+      {
+        "en": "The usage of plastic is harmful.",
+        "bn": "প্লাস্টিকের ব্যবহার ক্ষতিকর।"
+      },
+      { "en": "She learned the proper usage.", "bn": "সে সঠিক ব্যবহার শিখল।" },
+      {
+        "en": "He studied the usage patterns.",
+        "bn": "সে ব্যবহারের ধরন অধ্যয়ন করল।"
+      },
+      {
+        "en": "Internet usage has grown.",
+        "bn": "ইন্টারনেটের ব্যবহার বেড়েছে।"
+      },
+      {
+        "en": "She checked the language usage.",
+        "bn": "সে ভাষার ব্যবহার পরীক্ষা করল।"
+      }
+    ],
+    "synonyms": ["use", "application", "practice"]
+  },
+  {
+    "base": "utmost",
+    "phonetic": "ˈʌtmoʊst",
+    "meaning": "সর্বোচ্চ / অত্যন্ত",
+    "examples": [
+      {
+        "en": "She gave her utmost effort.",
+        "bn": "সে তার সর্বোচ্চ প্রচেষ্টা দিল।"
+      },
+      {
+        "en": "He treated it with utmost care.",
+        "bn": "সে এটিকে সর্বোচ্চ যত্নে সামলাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Do your utmost to succeed.",
+        "bn": "সফল হতে তোমার সর্বোচ্চ চেষ্টা করো।"
+      },
+      { "en": "She showed utmost respect.", "bn": "সে সর্বোচ্চ সম্মান দেখাল।" },
+      { "en": "He gave utmost attention.", "bn": "সে সর্বোচ্চ মনোযোগ দিল।" },
+      {
+        "en": "She worked with utmost dedication.",
+        "bn": "সে সর্বোচ্চ নিষ্ঠার সাথে কাজ করল।"
+      },
+      {
+        "en": "He acted with utmost honesty.",
+        "bn": "সে সর্বোচ্চ সততার সাথে কাজ করল।"
+      },
+      {
+        "en": "She handled it with utmost care.",
+        "bn": "সে এটি সর্বোচ্চ যত্নে সামলাল।"
+      },
+      {
+        "en": "He spoke with utmost sincerity.",
+        "bn": "সে সর্বোচ্চ আন্তরিকতার সাথে কথা বলল।"
+      },
+      { "en": "She gave utmost importance.", "bn": "সে সর্বোচ্চ গুরুত্ব দিল।" },
+      { "en": "He tried his utmost.", "bn": "সে তার সর্বোচ্চ চেষ্টা করল।" },
+      { "en": "She showed utmost patience.", "bn": "সে সর্বোচ্চ ধৈর্য দেখাল।" }
+    ],
+    "synonyms": ["maximum", "greatest", "extreme"]
+  },
+  {
+    "base": "utter",
+    "phonetic": "ˈʌtər",
+    "meaning": "সম্পূর্ণ / উচ্চারণ করা",
+    "examples": [
+      { "en": "She uttered not a word.", "bn": "সে একটি কথাও উচ্চারণ করল না।" },
+      { "en": "It was utter chaos.", "bn": "এটি সম্পূর্ণ বিশৃঙ্খলা ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "He uttered a cry of pain.", "bn": "সে ব্যথায় চিৎকার করল।" },
+      {
+        "en": "She uttered the words softly.",
+        "bn": "সে কথাগুলো মৃদুভাবে উচ্চারণ করল।"
+      },
+      {
+        "en": "He was in utter disbelief.",
+        "bn": "সে সম্পূর্ণ অবিশ্বাসে ছিল।"
+      },
+      { "en": "She uttered a prayer.", "bn": "সে একটি প্রার্থনা উচ্চারণ করল।" },
+      { "en": "It was utter nonsense.", "bn": "এটি সম্পূর্ণ বাজে কথা ছিল।" },
+      {
+        "en": "He uttered a sigh of relief.",
+        "bn": "সে স্বস্তির নিঃশ্বাস ফেলল।"
+      },
+      { "en": "She was in utter shock.", "bn": "সে সম্পূর্ণ হতবাক ছিল।" },
+      { "en": "He uttered his feelings.", "bn": "সে তার অনুভূতি প্রকাশ করল।" },
+      { "en": "It was utter failure.", "bn": "এটি সম্পূর্ণ ব্যর্থতা ছিল।" },
+      { "en": "She uttered the truth.", "bn": "সে সত্য উচ্চারণ করল।" }
+    ],
+    "synonyms": ["complete", "speak", "express"]
+  },
+  {
+    "base": "utterly",
+    "phonetic": "ˈʌtərli",
+    "meaning": "সম্পূর্ণরূপে / একদম",
+    "examples": [
+      {
+        "en": "She was utterly exhausted.",
+        "bn": "সে সম্পূর্ণরূপে ক্লান্ত ছিল।"
+      },
+      { "en": "He was utterly wrong.", "bn": "সে একদম ভুল ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She utterly failed the test.",
+        "bn": "সে পরীক্ষায় সম্পূর্ণরূপে ব্যর্থ হলো।"
+      },
+      { "en": "He was utterly confused.", "bn": "সে একদম বিভ্রান্ত ছিল।" },
+      { "en": "She was utterly shocked.", "bn": "সে সম্পূর্ণরূপে হতবাক ছিল।" },
+      { "en": "He utterly ignored her.", "bn": "সে তাকে একদম উপেক্ষা করল।" },
+      { "en": "She was utterly happy.", "bn": "সে সম্পূর্ণরূপে খুশি ছিল।" },
+      { "en": "He utterly denied it.", "bn": "সে একদম অস্বীকার করল।" },
+      {
+        "en": "She was utterly speechless.",
+        "bn": "সে সম্পূর্ণরূপে নির্বাক ছিল।"
+      },
+      { "en": "He utterly lost hope.", "bn": "সে একদম আশা হারিয়ে ফেলল।" },
+      {
+        "en": "She was utterly devoted.",
+        "bn": "সে সম্পূর্ণরূপে নিবেদিত ছিল।"
+      },
+      {
+        "en": "He utterly changed his ways.",
+        "bn": "সে সম্পূর্ণরূপে তার আচরণ পরিবর্তন করল।"
+      }
+    ],
+    "synonyms": ["completely", "totally", "absolutely"]
+  },
+  {
+    "base": "utilize",
+    "phonetic": "ˈjuːtəlaɪz",
+    "meaning": "সদ্ব্যবহার করা / কাজে লাগানো",
+    "examples": [
+      { "en": "Utilize your time well.", "bn": "তোমার সময় সদ্ব্যবহার করো।" },
+      { "en": "She utilized her skills.", "bn": "সে তার দক্ষতা কাজে লাগাল।" }
+    ],
+    "moreexample": [
+      { "en": "He utilized the opportunity.", "bn": "সে সুযোগটি কাজে লাগাল।" },
+      {
+        "en": "Utilize every resource you have.",
+        "bn": "তোমার কাছে থাকা প্রতিটি সম্পদ কাজে লাগাও।"
+      },
+      { "en": "She utilized the tools.", "bn": "সে সরঞ্জামগুলো কাজে লাগাল।" },
+      { "en": "He utilized his knowledge.", "bn": "সে তার জ্ঞান কাজে লাগাল।" },
+      {
+        "en": "They utilized renewable energy.",
+        "bn": "তারা নবায়নযোগ্য শক্তি ব্যবহার করল।"
+      },
+      {
+        "en": "She utilized her free time.",
+        "bn": "সে তার অবসর সময় কাজে লাগাল।"
+      },
+      { "en": "He utilized the feedback.", "bn": "সে মতামত কাজে লাগাল।" },
+      {
+        "en": "Utilize technology for learning.",
+        "bn": "শেখার জন্য প্রযুক্তি কাজে লাগাও।"
+      },
+      {
+        "en": "She utilized her creativity.",
+        "bn": "সে তার সৃজনশীলতা কাজে লাগাল।"
+      },
+      {
+        "en": "He utilized the space well.",
+        "bn": "সে জায়গাটি ভালোভাবে কাজে লাগাল।"
+      }
+    ],
+    "synonyms": ["use", "employ", "apply"]
+  },
+  {
+    "base": "undergo",
+    "phonetic": "ˌʌndəˈɡoʊ",
+    "meaning": "অতিক্রম করা / সহ্য করা",
+    "examples": [
+      { "en": "She underwent surgery.", "bn": "সে অস্ত্রোপচার করাল।" },
+      { "en": "He underwent training.", "bn": "সে প্রশিক্ষণ নিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She underwent a big change.",
+        "bn": "সে একটি বড় পরিবর্তনের মধ্য দিয়ে গেল।"
+      },
+      { "en": "He underwent treatment.", "bn": "সে চিকিৎসা নিল।" },
+      { "en": "They underwent hardships.", "bn": "তারা কষ্ট সহ্য করল।" },
+      {
+        "en": "She underwent a transformation.",
+        "bn": "সে একটি রূপান্তরের মধ্য দিয়ে গেল।"
+      },
+      {
+        "en": "He underwent many challenges.",
+        "bn": "সে অনেক চ্যালেঞ্জের মধ্য দিয়ে গেল।"
+      },
+      {
+        "en": "Undergo difficulties with patience.",
+        "bn": "ধৈর্যের সাথে কষ্ট সহ্য করো।"
+      },
+      {
+        "en": "She underwent physical therapy.",
+        "bn": "সে শারীরিক থেরাপি নিল।"
+      },
+      {
+        "en": "He underwent a medical test.",
+        "bn": "সে একটি চিকিৎসা পরীক্ষা দিল।"
+      },
+      {
+        "en": "She underwent emotional healing.",
+        "bn": "সে আবেগিক নিরাময়ের মধ্য দিয়ে গেল।"
+      },
+      {
+        "en": "He underwent career changes.",
+        "bn": "সে ক্যারিয়ার পরিবর্তনের মধ্য দিয়ে গেল।"
+      }
+    ],
+    "synonyms": ["experience", "endure", "face"]
+  },
+  {
+    "base": "underestimate",
+    "phonetic": "ˌʌndərˈestɪmeɪt",
+    "meaning": "অবমূল্যায়ন করা / কম মূল্য দেওয়া",
+    "examples": [
+      {
+        "en": "Do not underestimate yourself.",
+        "bn": "নিজেকে অবমূল্যায়ন করো না।"
+      },
+      {
+        "en": "She underestimated the task.",
+        "bn": "সে কাজটিকে কম গুরুত্ব দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He underestimated her strength.",
+        "bn": "সে তার শক্তিকে অবমূল্যায়ন করল।"
+      },
+      {
+        "en": "Never underestimate your enemy.",
+        "bn": "কখনো শত্রুকে অবমূল্যায়ন করো না।"
+      },
+      {
+        "en": "She underestimated the problem.",
+        "bn": "সে সমস্যাটিকে কম গুরুত্ব দিল।"
+      },
+      {
+        "en": "He underestimated the cost.",
+        "bn": "সে খরচকে অবমূল্যায়ন করল।"
+      },
+      {
+        "en": "They underestimated the risk.",
+        "bn": "তারা ঝুঁকিকে কম গুরুত্ব দিল।"
+      },
+      {
+        "en": "She underestimated his talent.",
+        "bn": "সে তার প্রতিভাকে অবমূল্যায়ন করল।"
+      },
+      {
+        "en": "He underestimated the time needed.",
+        "bn": "সে প্রয়োজনীয় সময়কে কম মনে করল।"
+      },
+      {
+        "en": "Do not underestimate small steps.",
+        "bn": "ছোট পদক্ষেপগুলো অবমূল্যায়ন করো না।"
+      },
+      {
+        "en": "She underestimated her own worth.",
+        "bn": "সে নিজের মূল্যকে অবমূল্যায়ন করল।"
+      },
+      {
+        "en": "He always underestimated others.",
+        "bn": "সে সবসময় অন্যদের অবমূল্যায়ন করত।"
+      }
+    ],
+    "synonyms": ["undervalue", "misjudge", "belittle"]
+  },
+  {
+    "base": "undervalue",
+    "phonetic": "ˌʌndəˈvæljuː",
+    "meaning": "কম মূল্য দেওয়া / অবমূল্যায়ন করা",
+    "examples": [
+      {
+        "en": "Do not undervalue your work.",
+        "bn": "তোমার কাজকে কম মূল্য দিও না।"
+      },
+      {
+        "en": "She felt undervalued at work.",
+        "bn": "কাজে সে অবমূল্যায়িত অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He undervalued her efforts.",
+        "bn": "সে তার প্রচেষ্টাকে কম মূল্য দিল।"
+      },
+      {
+        "en": "They undervalued the property.",
+        "bn": "তারা সম্পত্তিকে কম মূল্য দিল।"
+      },
+      {
+        "en": "She undervalued her own talent.",
+        "bn": "সে নিজের প্রতিভাকে কম মূল্য দিল।"
+      },
+      {
+        "en": "He undervalued the experience.",
+        "bn": "সে অভিজ্ঞতাকে কম মূল্য দিল।"
+      },
+      { "en": "Do not undervalue kindness.", "bn": "দয়াকে কম মূল্য দিও না।" },
+      {
+        "en": "She undervalued his contribution.",
+        "bn": "সে তার অবদানকে কম মূল্য দিল।"
+      },
+      {
+        "en": "He undervalued the importance.",
+        "bn": "সে গুরুত্বকে কম মূল্য দিল।"
+      },
+      {
+        "en": "Undervaluing yourself is harmful.",
+        "bn": "নিজেকে কম মূল্য দেওয়া ক্ষতিকর।"
+      },
+      { "en": "She undervalued the risk.", "bn": "সে ঝুঁকিকে কম মূল্য দিল।" },
+      {
+        "en": "He was undervalued by his boss.",
+        "bn": "তার বস তাকে কম মূল্য দিল।"
+      }
+    ],
+    "synonyms": ["underestimate", "dismiss", "belittle"]
+  },
+  {
+    "base": "unload",
+    "phonetic": "ˌʌnˈloʊd",
+    "meaning": "খালি করা / নামিয়ে রাখা",
+    "examples": [
+      { "en": "He unloaded the truck.", "bn": "সে ট্রাকটি খালি করল।" },
+      { "en": "She unloaded her feelings.", "bn": "সে তার অনুভূতি বলে ফেলল।" }
+    ],
+    "moreexample": [
+      { "en": "Unload the boxes carefully.", "bn": "সাবধানে বাক্সগুলো নামাও।" },
+      { "en": "He unloaded the cargo.", "bn": "সে মালামাল নামাল।" },
+      {
+        "en": "She unloaded the dishwasher.",
+        "bn": "সে থালা বাসন ধোয়ার যন্ত্র খালি করল।"
+      },
+      { "en": "They unloaded the ship.", "bn": "তারা জাহাজটি খালি করল।" },
+      { "en": "He unloaded his stress.", "bn": "সে তার মানসিক চাপ কমাল।" },
+      {
+        "en": "She unloaded the groceries.",
+        "bn": "সে মুদিখানার জিনিস নামাল।"
+      },
+      {
+        "en": "Unload the bags from the car.",
+        "bn": "গাড়ি থেকে ব্যাগগুলো নামাও।"
+      },
+      { "en": "He unloaded his worries.", "bn": "সে তার চিন্তা বলে ফেলল।" },
+      { "en": "They unloaded the equipment.", "bn": "তারা সরঞ্জামগুলো নামাল।" },
+      { "en": "She unloaded her anger.", "bn": "সে তার রাগ প্রকাশ করল।" }
+    ],
+    "synonyms": ["empty", "offload", "discharge"]
+  },
+  {
+    "base": "unmask",
+    "phonetic": "ˌʌnˈmɑːsk",
+    "meaning": "মুখোশ খোলা / সত্য প্রকাশ করা",
+    "examples": [
+      { "en": "She unmasked the criminal.", "bn": "সে অপরাধীর মুখোশ খুলল।" },
+      { "en": "He unmasked the truth.", "bn": "সে সত্য প্রকাশ করল।" }
+    ],
+    "moreexample": [
+      { "en": "They unmasked the fraud.", "bn": "তারা প্রতারণার মুখোশ খুলল।" },
+      { "en": "She unmasked the liar.", "bn": "সে মিথ্যাবাদীর মুখোশ খুলল।" },
+      { "en": "He unmasked the deception.", "bn": "সে প্রতারণা প্রকাশ করল।" },
+      {
+        "en": "Unmask the hidden agenda.",
+        "bn": "লুকানো উদ্দেশ্য প্রকাশ করো।"
+      },
+      {
+        "en": "She unmasked the conspiracy.",
+        "bn": "সে ষড়যন্ত্র উন্মোচন করল।"
+      },
+      { "en": "He unmasked himself.", "bn": "সে নিজের মুখোশ খুলল।" },
+      {
+        "en": "They unmasked the villain.",
+        "bn": "তারা খলনায়কের মুখোশ খুলল।"
+      },
+      {
+        "en": "She unmasked the hidden truth.",
+        "bn": "সে লুকানো সত্য প্রকাশ করল।"
+      },
+      { "en": "He unmasked the hypocrite.", "bn": "সে ভণ্ডের মুখোশ খুলল।" },
+      { "en": "Unmask the real problem.", "bn": "প্রকৃত সমস্যা উন্মোচন করো।" }
+    ],
+    "synonyms": ["expose", "reveal", "uncover"]
+  },
+  {
+    "base": "unravel",
+    "phonetic": "ˌʌnˈrævl",
+    "meaning": "সুলঝানো / রহস্য উন্মোচন করা",
+    "examples": [
+      { "en": "She unraveled the mystery.", "bn": "সে রহস্য সুলঝাল।" },
+      { "en": "He unraveled the knot.", "bn": "সে গিঁট সুলঝাল।" }
+    ],
+    "moreexample": [
+      { "en": "The truth slowly unraveled.", "bn": "সত্যটি ধীরে ধীরে সুলঝাল।" },
+      {
+        "en": "She unraveled the complex plan.",
+        "bn": "সে জটিল পরিকল্পনা সুলঝাল।"
+      },
+      { "en": "He unraveled the wool.", "bn": "সে উলটি সুলঝাল।" },
+      { "en": "The story began to unravel.", "bn": "গল্পটি সুলঝাতে শুরু করল।" },
+      { "en": "She unraveled the confusion.", "bn": "সে বিভ্রান্তি সুলঝাল।" },
+      { "en": "He unraveled the code.", "bn": "সে কোডটি সুলঝাল।" },
+      { "en": "The case began to unravel.", "bn": "মামলাটি সুলঝাতে শুরু করল।" },
+      { "en": "She unraveled the secret.", "bn": "সে গোপন বিষয় সুলঝাল।" },
+      { "en": "He unraveled the thread.", "bn": "সে সুতাটি সুলঝাল।" },
+      {
+        "en": "Unravel the problem step by step.",
+        "bn": "ধাপে ধাপে সমস্যা সুলঝাও।"
+      }
+    ],
+    "synonyms": ["untangle", "solve", "decode"]
+  },
+  {
+    "base": "unsettle",
+    "phonetic": "ˌʌnˈsetl",
+    "meaning": "অস্থির করা / বিচলিত করা",
+    "examples": [
+      { "en": "The news unsettled her.", "bn": "খবরটি তাকে বিচলিত করল।" },
+      {
+        "en": "He was unsettled by the change.",
+        "bn": "পরিবর্তনটি তাকে অস্থির করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She was unsettled by the news.", "bn": "খবরে সে অস্থির হলো।" },
+      {
+        "en": "He unsettled the whole team.",
+        "bn": "সে পুরো দলকে বিচলিত করল।"
+      },
+      { "en": "The storm unsettled everyone.", "bn": "ঝড় সবাইকে অস্থির করল।" },
+      {
+        "en": "She felt unsettled inside.",
+        "bn": "সে ভেতরে অস্থির অনুভব করল।"
+      },
+      { "en": "His words unsettled her.", "bn": "তার কথা তাকে বিচলিত করল।" },
+      {
+        "en": "The situation unsettled him.",
+        "bn": "পরিস্থিতি তাকে অস্থির করল।"
+      },
+      {
+        "en": "She was unsettled and anxious.",
+        "bn": "সে অস্থির ও উদ্বিগ্ন ছিল।"
+      },
+      {
+        "en": "He was unsettled by the question.",
+        "bn": "প্রশ্নটি তাকে বিচলিত করল।"
+      },
+      {
+        "en": "The uncertainty unsettled them.",
+        "bn": "অনিশ্চয়তা তাদের অস্থির করল।"
+      },
+      {
+        "en": "She tried not to feel unsettled.",
+        "bn": "সে অস্থির না হওয়ার চেষ্টা করল।"
+      }
+    ],
+    "synonyms": ["disturb", "trouble", "destabilize"]
+  },
+  {
+    "base": "untangle",
+    "phonetic": "ˌʌnˈtæŋɡl",
+    "meaning": "জট ছাড়ানো / সুলঝানো",
+    "examples": [
+      { "en": "She untangled the wires.", "bn": "সে তারগুলো জট ছাড়াল।" },
+      { "en": "He untangled the mess.", "bn": "সে গোলমালটি সুলঝাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Untangle the rope carefully.",
+        "bn": "সাবধানে দড়িটি জট ছাড়াও।"
+      },
+      { "en": "She untangled the hair.", "bn": "সে চুলের জট ছাড়াল।" },
+      { "en": "He untangled the problem.", "bn": "সে সমস্যাটি সুলঝাল।" },
+      {
+        "en": "They untangled the confusion.",
+        "bn": "তারা বিভ্রান্তি সুলঝাল।"
+      },
+      { "en": "She untangled her feelings.", "bn": "সে তার অনুভূতি সুলঝাল।" },
+      { "en": "He untangled the chain.", "bn": "সে শিকলটি জট ছাড়াল।" },
+      {
+        "en": "Untangle the situation calmly.",
+        "bn": "শান্তভাবে পরিস্থিতি সুলঝাও।"
+      },
+      {
+        "en": "She untangled the misunderstanding.",
+        "bn": "সে ভুল বোঝাবুঝি সুলঝাল।"
+      },
+      { "en": "He untangled the string.", "bn": "সে সুতাটি জট ছাড়াল।" },
+      { "en": "They untangled the issue.", "bn": "তারা বিষয়টি সুলঝাল।" }
+    ],
+    "synonyms": ["unravel", "sort out", "resolve"]
+  },
+  {
+    "base": "unwrap",
+    "phonetic": "ˌʌnˈræp",
+    "meaning": "মোড়ক খোলা / প্যাকেট খোলা",
+    "examples": [
+      { "en": "She unwrapped the gift.", "bn": "সে উপহারের মোড়ক খুলল।" },
+      { "en": "He unwrapped the package.", "bn": "সে প্যাকেটটি খুলল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Unwrap the present carefully.",
+        "bn": "সাবধানে উপহারের মোড়ক খোলো।"
+      },
+      { "en": "She unwrapped the chocolate.", "bn": "সে চকোলেটের মোড়ক খুলল।" },
+      {
+        "en": "He unwrapped his birthday gift.",
+        "bn": "সে তার জন্মদিনের উপহার খুলল।"
+      },
+      { "en": "They unwrapped the boxes.", "bn": "তারা বাক্সগুলো খুলল।" },
+      { "en": "She unwrapped the surprise.", "bn": "সে বিস্ময়ের মোড়ক খুলল।" },
+      { "en": "He unwrapped the candy.", "bn": "সে ক্যান্ডির মোড়ক খুলল।" },
+      {
+        "en": "Unwrap the item gently.",
+        "bn": "আলতোভাবে জিনিসটির মোড়ক খোলো।"
+      },
+      { "en": "She unwrapped the flowers.", "bn": "সে ফুলের মোড়ক খুলল।" },
+      {
+        "en": "He unwrapped the new phone.",
+        "bn": "সে নতুন ফোনের মোড়ক খুলল।"
+      },
+      {
+        "en": "They unwrapped gifts happily.",
+        "bn": "তারা আনন্দের সাথে উপহার খুলল।"
+      }
+    ],
+    "synonyms": ["open", "unpack", "unfold"]
+  },
+
+  {
+    "base": "upbeat",
+    "phonetic": "ˈʌpbiːt",
+    "meaning": "আশাবাদী / প্রফুল্ল",
+    "examples": [
+      {
+        "en": "She was upbeat about the future.",
+        "bn": "সে ভবিষ্যৎ সম্পর্কে আশাবাদী ছিল।"
+      },
+      {
+        "en": "He had an upbeat attitude.",
+        "bn": "তার একটি প্রফুল্ল মনোভাব ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Stay upbeat even in hard times.",
+        "bn": "কঠিন সময়েও আশাবাদী থাকো।"
+      },
+      {
+        "en": "She gave an upbeat speech.",
+        "bn": "সে একটি প্রফুল্ল বক্তৃতা দিল।"
+      },
+      {
+        "en": "He was upbeat about his results.",
+        "bn": "সে তার ফলাফল সম্পর্কে আশাবাদী ছিল।"
+      },
+      {
+        "en": "The music had an upbeat tempo.",
+        "bn": "সংগীতটির একটি প্রফুল্ল তাল ছিল।"
+      },
+      {
+        "en": "She kept an upbeat mood.",
+        "bn": "সে একটি প্রফুল্ল মেজাজ বজায় রাখল।"
+      },
+      { "en": "He was always upbeat.", "bn": "সে সবসময় আশাবাদী ছিল।" },
+      {
+        "en": "The upbeat tone inspired everyone.",
+        "bn": "প্রফুল্ল সুর সবাইকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "She remained upbeat despite failure.",
+        "bn": "ব্যর্থতার পরেও সে আশাবাদী থাকল।"
+      },
+      { "en": "He shared upbeat news.", "bn": "সে আশাবাদী খবর শেয়ার করল।" },
+      {
+        "en": "Her upbeat energy lifted the team.",
+        "bn": "তার প্রফুল্ল শক্তি দলটিকে উৎসাহিত করল।"
+      }
+    ],
+    "synonyms": ["optimistic", "cheerful", "positive"]
+  },
+  {
+    "base": "upcoming",
+    "phonetic": "ˈʌpkʌmɪŋ",
+    "meaning": "আসন্ন / আগত",
+    "examples": [
+      {
+        "en": "The upcoming event is exciting.",
+        "bn": "আসন্ন অনুষ্ঠানটি উত্তেজনাপূর্ণ।"
+      },
+      {
+        "en": "She prepared for the upcoming exam.",
+        "bn": "সে আসন্ন পরীক্ষার প্রস্তুতি নিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He planned for the upcoming trip.",
+        "bn": "সে আসন্ন ভ্রমণের পরিকল্পনা করল।"
+      },
+      {
+        "en": "The upcoming match is important.",
+        "bn": "আসন্ন ম্যাচটি গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She was excited about the upcoming change.",
+        "bn": "সে আসন্ন পরিবর্তনে উত্তেজিত ছিল।"
+      },
+      {
+        "en": "He announced the upcoming project.",
+        "bn": "সে আসন্ন প্রকল্প ঘোষণা করল।"
+      },
+      {
+        "en": "Prepare for the upcoming challenges.",
+        "bn": "আসন্ন চ্যালেঞ্জের জন্য প্রস্তুত হও।"
+      },
+      {
+        "en": "The upcoming holiday was awaited.",
+        "bn": "আসন্ন ছুটির অপেক্ষা করা হচ্ছিল।"
+      },
+      {
+        "en": "She talked about the upcoming movie.",
+        "bn": "সে আসন্ন সিনেমা সম্পর্কে কথা বলল।"
+      },
+      {
+        "en": "He was ready for the upcoming season.",
+        "bn": "সে আসন্ন মৌসুমের জন্য প্রস্তুত ছিল।"
+      },
+      {
+        "en": "The upcoming election is crucial.",
+        "bn": "আসন্ন নির্বাচনটি গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She looked forward to the upcoming weekend.",
+        "bn": "সে আসন্ন সপ্তাহান্তের অপেক্ষায় ছিল।"
+      }
+    ],
+    "synonyms": ["forthcoming", "approaching", "imminent"]
+  },
+  {
+    "base": "uplift",
+    "phonetic": "ˌʌpˈlɪft",
+    "meaning": "উন্নতি করা / অনুপ্রাণিত করা",
+    "examples": [
+      { "en": "Her words uplifted him.", "bn": "তার কথা তাকে অনুপ্রাণিত করল।" },
+      {
+        "en": "The music uplifted her spirit.",
+        "bn": "সংগীতটি তার মনোবল উন্নত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He tried to uplift the poor.",
+        "bn": "সে দরিদ্রদের উন্নতি করার চেষ্টা করল।"
+      },
+      {
+        "en": "She uplifted everyone around her.",
+        "bn": "সে তার চারপাশের সবাইকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "Uplift your community.",
+        "bn": "তোমার সম্প্রদায়ের উন্নতি করো।"
+      },
+      {
+        "en": "He was uplifted by kind words.",
+        "bn": "দয়ালু কথায় সে অনুপ্রাণিত হলো।"
+      },
+      {
+        "en": "She uplifted the team's morale.",
+        "bn": "সে দলের মনোবল উন্নত করল।"
+      },
+      {
+        "en": "The story uplifted many people.",
+        "bn": "গল্পটি অনেক মানুষকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "He felt uplifted after the talk.",
+        "bn": "কথোপকথনের পর সে অনুপ্রাণিত অনুভব করল।"
+      },
+      {
+        "en": "Uplift others with your smile.",
+        "bn": "তোমার হাসি দিয়ে অন্যদের অনুপ্রাণিত করো।"
+      },
+      {
+        "en": "She uplifted the spirits of all.",
+        "bn": "সে সবার মনোবল উন্নত করল।"
+      },
+      {
+        "en": "The program uplifted the youth.",
+        "bn": "কর্মসূচিটি তরুণদের উন্নতি করল।"
+      }
+    ],
+    "synonyms": ["inspire", "elevate", "encourage"]
+  },
+  {
+    "base": "upright",
+    "phonetic": "ˈʌpraɪt",
+    "meaning": "সোজা / সৎ",
+    "examples": [
+      { "en": "Stand upright and tall.", "bn": "সোজা হয়ে দাঁড়াও।" },
+      { "en": "He was an upright citizen.", "bn": "সে একজন সৎ নাগরিক ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She sat upright in her chair.",
+        "bn": "সে চেয়ারে সোজা হয়ে বসল।"
+      },
+      { "en": "He had an upright character.", "bn": "তার একটি সৎ চরিত্র ছিল।" },
+      { "en": "Stay upright under pressure.", "bn": "চাপের মধ্যে সৎ থাকো।" },
+      {
+        "en": "She walked upright with confidence.",
+        "bn": "সে আত্মবিশ্বাসের সাথে সোজা হয়ে হাঁটল।"
+      },
+      { "en": "He kept himself upright.", "bn": "সে নিজেকে সোজা রাখল।" },
+      {
+        "en": "An upright person is respected.",
+        "bn": "একজন সৎ মানুষ সম্মানিত হয়।"
+      },
+      { "en": "She had an upright posture.", "bn": "তার একটি সোজা ভঙ্গি ছিল।" },
+      { "en": "He lived an upright life.", "bn": "সে একটি সৎ জীবন কাটাল।" },
+      {
+        "en": "The upright pole stood firm.",
+        "bn": "সোজা খুঁটিটি দৃঢ়ভাবে দাঁড়িয়ে ছিল।"
+      },
+      {
+        "en": "She admired his upright values.",
+        "bn": "সে তার সৎ মূল্যবোধের প্রশংসা করল।"
+      }
+    ],
+    "synonyms": ["straight", "honest", "vertical"]
+  },
+  {
+    "base": "upscale",
+    "phonetic": "ˈʌpskeɪl",
+    "meaning": "উচ্চমানের / বিলাসবহুল",
+    "examples": [
+      {
+        "en": "She dined at an upscale restaurant.",
+        "bn": "সে একটি উচ্চমানের রেস্তোরাঁয় খেল।"
+      },
+      {
+        "en": "He lived in an upscale area.",
+        "bn": "সে একটি উচ্চমানের এলাকায় বাস করত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The upscale hotel was beautiful.",
+        "bn": "উচ্চমানের হোটেলটি সুন্দর ছিল।"
+      },
+      {
+        "en": "She shopped at upscale stores.",
+        "bn": "সে উচ্চমানের দোকানে কেনাকাটা করল।"
+      },
+      {
+        "en": "He drove an upscale car.",
+        "bn": "সে একটি বিলাসবহুল গাড়ি চালাল।"
+      },
+      {
+        "en": "The upscale neighborhood was quiet.",
+        "bn": "উচ্চমানের পাড়াটি শান্ত ছিল।"
+      },
+      { "en": "She wore upscale clothing.", "bn": "সে উচ্চমানের পোশাক পরল।" },
+      {
+        "en": "He preferred upscale brands.",
+        "bn": "সে উচ্চমানের ব্র্যান্ড পছন্দ করত।"
+      },
+      {
+        "en": "The upscale event was well organized.",
+        "bn": "উচ্চমানের অনুষ্ঠানটি সুসংগঠিত ছিল।"
+      },
+      {
+        "en": "She attended an upscale party.",
+        "bn": "সে একটি বিলাসবহুল পার্টিতে যোগ দিল।"
+      },
+      {
+        "en": "He moved to an upscale apartment.",
+        "bn": "সে একটি উচ্চমানের অ্যাপার্টমেন্টে চলে গেল।"
+      },
+      {
+        "en": "The upscale product was costly.",
+        "bn": "উচ্চমানের পণ্যটি দামি ছিল।"
+      }
+    ],
+    "synonyms": ["luxurious", "high-end", "exclusive"]
+  },
+  {
+    "base": "upside",
+    "phonetic": "ˈʌpsaɪd",
+    "meaning": "উল্টো দিক / ইতিবাচক দিক",
+    "examples": [
+      {
+        "en": "Every problem has an upside.",
+        "bn": "প্রতিটি সমস্যার একটি ইতিবাচক দিক আছে।"
+      },
+      { "en": "She turned the box upside down.", "bn": "সে বাক্সটি উল্টো করল।" }
+    ],
+    "moreexample": [
+      { "en": "He looked for the upside.", "bn": "সে ইতিবাচক দিক খুঁজল।" },
+      {
+        "en": "The upside of the plan is clear.",
+        "bn": "পরিকল্পনার ইতিবাচক দিক স্পষ্ট।"
+      },
+      {
+        "en": "She found the upside quickly.",
+        "bn": "সে দ্রুত ইতিবাচক দিক খুঁজে পেল।"
+      },
+      {
+        "en": "He turned the situation upside down.",
+        "bn": "সে পরিস্থিতি উল্টে দিল।"
+      },
+      {
+        "en": "Look at the upside of things.",
+        "bn": "জিনিসের ইতিবাচক দিক দেখো।"
+      },
+      {
+        "en": "She saw the upside in every challenge.",
+        "bn": "সে প্রতিটি চ্যালেঞ্জে ইতিবাচক দিক দেখল।"
+      },
+      {
+        "en": "He explained the upside of the deal.",
+        "bn": "সে চুক্তির ইতিবাচক দিক ব্যাখ্যা করল।"
+      },
+      {
+        "en": "The upside outweighed the downside.",
+        "bn": "ইতিবাচক দিক নেতিবাচক দিকের চেয়ে বেশি ছিল।"
+      },
+      {
+        "en": "She always found an upside.",
+        "bn": "সে সবসময় ইতিবাচক দিক খুঁজে পেত।"
+      },
+      { "en": "He pointed out the upside.", "bn": "সে ইতিবাচক দিক উল্লেখ করল।" }
+    ],
+    "synonyms": ["positive side", "advantage", "benefit"]
+  },
+  {
+    "base": "upturn",
+    "phonetic": "ˈʌptɜːrn",
+    "meaning": "উন্নতি / ঊর্ধ্বমুখী পরিবর্তন",
+    "examples": [
+      {
+        "en": "There was an upturn in business.",
+        "bn": "ব্যবসায় উন্নতি হলো।"
+      },
+      {
+        "en": "She noticed an upturn in mood.",
+        "bn": "সে মেজাজে একটি উন্নতি লক্ষ্য করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He hoped for an economic upturn.",
+        "bn": "সে অর্থনৈতিক উন্নতির আশা রাখল।"
+      },
+      {
+        "en": "The market showed an upturn.",
+        "bn": "বাজার একটি উন্নতি দেখাল।"
+      },
+      {
+        "en": "She noticed an upturn in sales.",
+        "bn": "সে বিক্রয়ে উন্নতি লক্ষ্য করল।"
+      },
+      {
+        "en": "There was an upturn in progress.",
+        "bn": "অগ্রগতিতে উন্নতি হলো।"
+      },
+      { "en": "He welcomed the upturn.", "bn": "সে উন্নতিকে স্বাগত জানাল।" },
+      {
+        "en": "The upturn surprised everyone.",
+        "bn": "উন্নতিটি সবাইকে অবাক করল।"
+      },
+      { "en": "She worked for an upturn.", "bn": "সে উন্নতির জন্য কাজ করল।" },
+      {
+        "en": "The upturn came unexpectedly.",
+        "bn": "উন্নতিটি অপ্রত্যাশিতভাবে এল।"
+      },
+      {
+        "en": "He expected an upturn soon.",
+        "bn": "সে শীঘ্রই উন্নতির প্রত্যাশা করল।"
+      },
+      {
+        "en": "The upturn boosted confidence.",
+        "bn": "উন্নতিটি আত্মবিশ্বাস বাড়াল।"
+      }
+    ],
+    "synonyms": ["improvement", "recovery", "rise"]
+  },
+  {
+    "base": "urgency",
+    "phonetic": "ˈɜːrdʒənsi",
+    "meaning": "জরুরিতা / তাড়া",
+    "examples": [
+      {
+        "en": "She felt a sense of urgency.",
+        "bn": "সে জরুরিতার অনুভূতি পেল।"
+      },
+      { "en": "He handled it with urgency.", "bn": "সে এটি জরুরিভাবে সামলাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The urgency of the matter was clear.",
+        "bn": "বিষয়টির জরুরিতা স্পষ্ট ছিল।"
+      },
+      {
+        "en": "She acted with great urgency.",
+        "bn": "সে অত্যন্ত জরুরিভাবে কাজ করল।"
+      },
+      { "en": "He understood the urgency.", "bn": "সে জরুরিতা বুঝল।" },
+      {
+        "en": "The urgency required action.",
+        "bn": "জরুরিতায় পদক্ষেপ দরকার ছিল।"
+      },
+      { "en": "She communicated the urgency.", "bn": "সে জরুরিতা জানাল।" },
+      { "en": "He responded to the urgency.", "bn": "সে জরুরিতায় সাড়া দিল।" },
+      { "en": "The urgency was overwhelming.", "bn": "জরুরিতাটি অসহ্য ছিল।" },
+      {
+        "en": "She acted without urgency.",
+        "bn": "সে জরুরিতা ছাড়াই কাজ করল।"
+      },
+      {
+        "en": "He felt the urgency of the moment.",
+        "bn": "সে মুহূর্তের জরুরিতা অনুভব করল।"
+      },
+      {
+        "en": "Urgency drives quick decisions.",
+        "bn": "জরুরিতা দ্রুত সিদ্ধান্ত নেওয়ায় চালিত করে।"
+      }
+    ],
+    "synonyms": ["emergency", "priority", "necessity"]
+  },
+  {
+    "base": "usher",
+    "phonetic": "ˈʌʃər",
+    "meaning": "পথ দেখানো / স্বাগত জানানো",
+    "examples": [
+      { "en": "He ushered her inside.", "bn": "সে তাকে ভেতরে নিয়ে গেল।" },
+      {
+        "en": "She ushered in a new era.",
+        "bn": "সে একটি নতুন যুগের সূচনা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He ushered the guests to their seats.",
+        "bn": "সে অতিথিদের তাদের আসনে নিয়ে গেল।"
+      },
+      {
+        "en": "She ushered the visitors in.",
+        "bn": "সে দর্শনার্থীদের ভেতরে নিয়ে গেল।"
+      },
+      { "en": "He ushered in changes.", "bn": "সে পরিবর্তনের সূচনা করল।" },
+      {
+        "en": "The staff ushered everyone out.",
+        "bn": "কর্মীরা সবাইকে বাইরে নিয়ে গেল।"
+      },
+      {
+        "en": "She ushered him to the door.",
+        "bn": "সে তাকে দরজায় নিয়ে গেল।"
+      },
+      {
+        "en": "He ushered in a new policy.",
+        "bn": "সে একটি নতুন নীতির সূচনা করল।"
+      },
+      { "en": "She worked as an usher.", "bn": "সে একজন উশার হিসেবে কাজ করল।" },
+      {
+        "en": "He ushered them to safety.",
+        "bn": "সে তাদের নিরাপদে নিয়ে গেল।"
+      },
+      {
+        "en": "She ushered the children inside.",
+        "bn": "সে শিশুদের ভেতরে নিয়ে গেল।"
+      },
+      { "en": "He ushered the new season.", "bn": "সে নতুন মৌসুমের সূচনা করল।" }
+    ],
+    "synonyms": ["guide", "escort", "lead"]
+  },
+  {
+    "base": "utopia",
+    "phonetic": "juːˈtoʊpiə",
+    "meaning": "আদর্শ রাজ্য / স্বপ্নের জগৎ",
+    "examples": [
+      {
+        "en": "He dreamed of a utopia.",
+        "bn": "সে একটি আদর্শ রাজ্যের স্বপ্ন দেখল।"
+      },
+      {
+        "en": "She described a perfect utopia.",
+        "bn": "সে একটি নিখুঁত স্বপ্নের জগৎ বর্ণনা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Utopia is a perfect society.",
+        "bn": "উটোপিয়া একটি নিখুঁত সমাজ।"
+      },
+      {
+        "en": "He wrote about a utopia.",
+        "bn": "সে একটি আদর্শ রাজ্য সম্পর্কে লিখল।"
+      },
+      {
+        "en": "She imagined a utopia.",
+        "bn": "সে একটি স্বপ্নের জগৎ কল্পনা করল।"
+      },
+      {
+        "en": "A utopia has no suffering.",
+        "bn": "আদর্শ রাজ্যে কোনো কষ্ট নেই।"
+      },
+      {
+        "en": "He believed in a utopia.",
+        "bn": "সে আদর্শ রাজ্যে বিশ্বাস করল।"
+      },
+      {
+        "en": "She worked toward a utopia.",
+        "bn": "সে আদর্শ রাজ্যের দিকে কাজ করল।"
+      },
+      {
+        "en": "A utopia seems impossible.",
+        "bn": "আদর্শ রাজ্য অসম্ভব মনে হয়।"
+      },
+      {
+        "en": "He described his idea of utopia.",
+        "bn": "সে আদর্শ রাজ্য সম্পর্কে তার ধারণা বর্ণনা করল।"
+      },
+      { "en": "She read about utopia.", "bn": "সে আদর্শ রাজ্য সম্পর্কে পড়ল।" },
+      {
+        "en": "Utopia remains a dream.",
+        "bn": "আদর্শ রাজ্য একটি স্বপ্নই থাকে।"
+      }
+    ],
+    "synonyms": ["paradise", "ideal world", "dreamland"]
+  },
+  {
+    "base": "unity",
+    "phonetic": "ˈjuːnəti",
+    "meaning": "ঐক্য / একতা",
+    "examples": [
+      { "en": "Unity makes us strong.", "bn": "ঐক্য আমাদের শক্তিশালী করে।" },
+      {
+        "en": "She promoted unity in the team.",
+        "bn": "সে দলে ঐক্য প্রচার করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He spoke about national unity.",
+        "bn": "সে জাতীয় ঐক্য সম্পর্কে বলল।"
+      },
+      {
+        "en": "Unity is our greatest strength.",
+        "bn": "ঐক্য আমাদের সবচেয়ে বড় শক্তি।"
+      },
+      { "en": "She worked for unity.", "bn": "সে ঐক্যের জন্য কাজ করল।" },
+      { "en": "Unity brings success.", "bn": "ঐক্য সাফল্য আনে।" },
+      {
+        "en": "He valued unity above all.",
+        "bn": "সে সবার উপরে ঐক্যকে মূল্য দিল।"
+      },
+      { "en": "They showed great unity.", "bn": "তারা দারুণ ঐক্য দেখাল।" },
+      {
+        "en": "Unity is essential in tough times.",
+        "bn": "কঠিন সময়ে ঐক্য অপরিহার্য।"
+      },
+      { "en": "She believed in unity.", "bn": "সে ঐক্যে বিশ্বাস করল।" },
+      {
+        "en": "He promoted unity everywhere.",
+        "bn": "সে সর্বত্র ঐক্য প্রচার করল।"
+      },
+      {
+        "en": "Unity overcomes all challenges.",
+        "bn": "ঐক্য সব চ্যালেঞ্জ অতিক্রম করে।"
+      }
+    ],
+    "synonyms": ["togetherness", "solidarity", "harmony"]
+  },
+  {
+    "base": "unwind",
+    "phonetic": "ˌʌnˈwaɪnd",
+    "meaning": "শিথিল হওয়া / আরাম করা",
+    "examples": [
+      {
+        "en": "She unwound after a long day.",
+        "bn": "দীর্ঘ দিনের পর সে শিথিল হলো।"
+      },
+      { "en": "He unwound the rope.", "bn": "সে দড়িটি খুলল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Take time to unwind daily.",
+        "bn": "প্রতিদিন শিথিল হওয়ার সময় নাও।"
+      },
+      { "en": "She unwound with music.", "bn": "সে সংগীত দিয়ে শিথিল হলো।" },
+      { "en": "He unwound by reading.", "bn": "সে পড়ে শিথিল হলো।" },
+      { "en": "They unwound at the beach.", "bn": "তারা সৈকতে শিথিল হলো।" },
+      {
+        "en": "She unwound the thread slowly.",
+        "bn": "সে ধীরে ধীরে সুতাটি খুলল।"
+      },
+      {
+        "en": "He needed time to unwind.",
+        "bn": "তার শিথিল হওয়ার সময় দরকার ছিল।"
+      },
+      {
+        "en": "Unwind your mind before sleep.",
+        "bn": "ঘুমানোর আগে মন শিথিল করো।"
+      },
+      {
+        "en": "She unwound with a hot bath.",
+        "bn": "সে গরম গোসল দিয়ে শিথিল হলো।"
+      },
+      { "en": "He unwound at the park.", "bn": "সে পার্কে শিথিল হলো।" },
+      {
+        "en": "Unwinding reduces stress.",
+        "bn": "শিথিল হওয়া মানসিক চাপ কমায়।"
+      }
+    ],
+    "synonyms": ["relax", "rest", "decompress"]
+  },
+  {
+    "base": "upkeep",
+    "phonetic": "ˈʌpkiːp",
+    "meaning": "রক্ষণাবেক্ষণ / পরিচর্যা",
+    "examples": [
+      {
+        "en": "The upkeep of the garden is hard.",
+        "bn": "বাগানের রক্ষণাবেক্ষণ কঠিন।"
+      },
+      { "en": "She paid for the upkeep.", "bn": "সে রক্ষণাবেক্ষণের খরচ দিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He managed the upkeep of the house.",
+        "bn": "সে বাড়ির রক্ষণাবেক্ষণ পরিচালনা করল।"
+      },
+      {
+        "en": "The upkeep costs were high.",
+        "bn": "রক্ষণাবেক্ষণের খরচ বেশি ছিল।"
+      },
+      {
+        "en": "She handled the upkeep carefully.",
+        "bn": "সে সাবধানে রক্ষণাবেক্ষণ পরিচালনা করল।"
+      },
+      {
+        "en": "Upkeep of roads is necessary.",
+        "bn": "রাস্তার রক্ষণাবেক্ষণ প্রয়োজনীয়।"
+      },
+      {
+        "en": "He reduced the upkeep expenses.",
+        "bn": "সে রক্ষণাবেক্ষণের খরচ কমাল।"
+      },
+      {
+        "en": "The upkeep of the car was costly.",
+        "bn": "গাড়ির রক্ষণাবেক্ষণ ব্যয়বহুল ছিল।"
+      },
+      {
+        "en": "She improved the upkeep system.",
+        "bn": "সে রক্ষণাবেক্ষণ ব্যবস্থা উন্নত করল।"
+      },
+      {
+        "en": "He was responsible for upkeep.",
+        "bn": "সে রক্ষণাবেক্ষণের দায়িত্বে ছিল।"
+      },
+      {
+        "en": "Upkeep ensures long life.",
+        "bn": "রক্ষণাবেক্ষণ দীর্ঘস্থায়িত্ব নিশ্চিত করে।"
+      },
+      {
+        "en": "She scheduled regular upkeep.",
+        "bn": "সে নিয়মিত রক্ষণাবেক্ষণ নির্ধারণ করল।"
+      }
+    ],
+    "synonyms": ["maintenance", "care", "preservation"]
+  },
+  {
+    "base": "universal",
+    "phonetic": "ˌjuːnɪˈvɜːrsəl",
+    "meaning": "সার্বজনীন / বিশ্বব্যাপী",
+    "examples": [
+      {
+        "en": "Love is a universal language.",
+        "bn": "ভালোবাসা একটি সার্বজনীন ভাষা।"
+      },
+      {
+        "en": "She believed in universal rights.",
+        "bn": "সে সার্বজনীন অধিকারে বিশ্বাস করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He supported universal education.",
+        "bn": "সে সার্বজনীন শিক্ষা সমর্থন করল।"
+      },
+      {
+        "en": "Universal values unite people.",
+        "bn": "সার্বজনীন মূল্যবোধ মানুষকে একত্রিত করে।"
+      },
+      {
+        "en": "She promoted universal peace.",
+        "bn": "সে সার্বজনীন শান্তি প্রচার করল।"
+      },
+      {
+        "en": "He believed in universal truth.",
+        "bn": "সে সার্বজনীন সত্যে বিশ্বাস করল।"
+      },
+      {
+        "en": "Universal healthcare is important.",
+        "bn": "সার্বজনীন স্বাস্থ্যসেবা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She fought for universal justice.",
+        "bn": "সে সার্বজনীন ন্যায়বিচারের জন্য লড়াই করল।"
+      },
+      {
+        "en": "The universal rule applies to all.",
+        "bn": "সার্বজনীন নিয়ম সবার ক্ষেত্রে প্রযোজ্য।"
+      },
+      {
+        "en": "He studied universal laws.",
+        "bn": "সে সার্বজনীন আইন অধ্যয়ন করল।"
+      },
+      {
+        "en": "She had a universal appeal.",
+        "bn": "তার একটি সার্বজনীন আকর্ষণ ছিল।"
+      },
+      {
+        "en": "Universal kindness changes the world.",
+        "bn": "সার্বজনীন দয়া পৃথিবী বদলায়।"
+      }
+    ],
+    "synonyms": ["global", "worldwide", "general"]
+  },
+  {
+    "base": "underdog",
+    "phonetic": "ˈʌndədɒɡ",
+    "meaning": "দুর্বল পক্ষ / পিছিয়ে পড়া ব্যক্তি",
+    "examples": [
+      {
+        "en": "She was the underdog in the race.",
+        "bn": "সে রেসে দুর্বল পক্ষ ছিল।"
+      },
+      {
+        "en": "He was considered the underdog.",
+        "bn": "তাকে দুর্বল পক্ষ মনে করা হতো।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The underdog won the match.", "bn": "দুর্বল পক্ষ ম্যাচ জিতল।" },
+      {
+        "en": "She supported the underdog.",
+        "bn": "সে দুর্বল পক্ষকে সমর্থন করল।"
+      },
+      {
+        "en": "He was always the underdog.",
+        "bn": "সে সবসময় দুর্বল পক্ষ ছিল।"
+      },
+      {
+        "en": "The underdog surprised everyone.",
+        "bn": "দুর্বল পক্ষ সবাইকে অবাক করল।"
+      },
+      {
+        "en": "People love an underdog story.",
+        "bn": "মানুষ দুর্বল পক্ষের গল্প ভালোবাসে।"
+      },
+      {
+        "en": "She was rooting for the underdog.",
+        "bn": "সে দুর্বল পক্ষের জন্য সমর্থন করছিল।"
+      },
+      {
+        "en": "He proved the underdog can win.",
+        "bn": "সে প্রমাণ করল দুর্বল পক্ষ জিততে পারে।"
+      },
+      {
+        "en": "The underdog fought bravely.",
+        "bn": "দুর্বল পক্ষ সাহসের সাথে লড়াই করল।"
+      },
+      {
+        "en": "She cheered for the underdog.",
+        "bn": "সে দুর্বল পক্ষের জন্য উৎসাহ দিল।"
+      },
+      {
+        "en": "Being an underdog builds strength.",
+        "bn": "দুর্বল পক্ষ হওয়া শক্তি গড়ে তোলে।"
+      }
+    ],
+    "synonyms": ["loser", "outsider", "dark horse"]
+  },
+  {
+    "base": "underprivileged",
+    "phonetic": "ˌʌndəˈprɪvəlɪdʒd",
+    "meaning": "সুবিধাবঞ্চিত / দরিদ্র",
+    "examples": [
+      {
+        "en": "She helped underprivileged children.",
+        "bn": "সে সুবিধাবঞ্চিত শিশুদের সাহায্য করল।"
+      },
+      {
+        "en": "He worked for underprivileged families.",
+        "bn": "সে সুবিধাবঞ্চিত পরিবারের জন্য কাজ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Underprivileged students need support.",
+        "bn": "সুবিধাবঞ্চিত শিক্ষার্থীদের সহায়তা দরকার।"
+      },
+      {
+        "en": "She donated to underprivileged people.",
+        "bn": "সে সুবিধাবঞ্চিত মানুষদের দান করল।"
+      },
+      {
+        "en": "He taught underprivileged youth.",
+        "bn": "সে সুবিধাবঞ্চিত তরুণদের শেখাল।"
+      },
+      {
+        "en": "Underprivileged areas need resources.",
+        "bn": "সুবিধাবঞ্চিত এলাকায় সম্পদ দরকার।"
+      },
+      {
+        "en": "She volunteered for underprivileged.",
+        "bn": "সে সুবিধাবঞ্চিতদের জন্য স্বেচ্ছাসেবক হলো।"
+      },
+      {
+        "en": "He supported underprivileged communities.",
+        "bn": "সে সুবিধাবঞ্চিত সম্প্রদায়কে সমর্থন করল।"
+      },
+      {
+        "en": "Underprivileged people deserve dignity.",
+        "bn": "সুবিধাবঞ্চিত মানুষ মর্যাদা পাওয়ার যোগ্য।"
+      },
+      {
+        "en": "She raised funds for underprivileged.",
+        "bn": "সে সুবিধাবঞ্চিতদের জন্য তহবিল সংগ্রহ করল।"
+      },
+      {
+        "en": "He was once underprivileged.",
+        "bn": "সে একসময় সুবিধাবঞ্চিত ছিল।"
+      },
+      {
+        "en": "Underprivileged children need education.",
+        "bn": "সুবিধাবঞ্চিত শিশুদের শিক্ষা দরকার।"
+      }
+    ],
+    "synonyms": ["disadvantaged", "deprived", "poor"]
+  },
+  {
+    "base": "underscore",
+    "phonetic": "ˌʌndəˈskɔːr",
+    "meaning": "জোর দেওয়া / গুরুত্ব দেওয়া",
+    "examples": [
+      {
+        "en": "She underscored the importance.",
+        "bn": "সে গুরুত্বটি জোর দিয়ে বলল।"
+      },
+      {
+        "en": "He underscored the main point.",
+        "bn": "সে মূল বিষয়টি জোর দিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Underscore the key words.", "bn": "মূল শব্দগুলো জোর দাও।" },
+      {
+        "en": "She underscored the need for change.",
+        "bn": "সে পরিবর্তনের প্রয়োজনীয়তা জোর দিল।"
+      },
+      { "en": "He underscored his argument.", "bn": "সে তার যুক্তি জোর দিল।" },
+      { "en": "They underscored the risks.", "bn": "তারা ঝুঁকিগুলো জোর দিল।" },
+      { "en": "She underscored the facts.", "bn": "সে তথ্যগুলো জোর দিল।" },
+      {
+        "en": "He underscored the importance of unity.",
+        "bn": "সে ঐক্যের গুরুত্ব জোর দিল।"
+      },
+      {
+        "en": "Underscore the critical steps.",
+        "bn": "গুরুত্বপূর্ণ ধাপগুলো জোর দাও।"
+      },
+      {
+        "en": "She underscored her points.",
+        "bn": "সে তার বিষয়গুলো জোর দিল।"
+      },
+      {
+        "en": "He underscored the differences.",
+        "bn": "সে পার্থক্যগুলো জোর দিল।"
+      },
+      {
+        "en": "They underscored the significance.",
+        "bn": "তারা তাৎপর্যটি জোর দিল।"
+      }
+    ],
+    "synonyms": ["emphasize", "highlight", "stress"]
+  },
+  {
+    "base": "undertone",
+    "phonetic": "ˈʌndətəʊn",
+    "meaning": "অন্তর্নিহিত ভাব / চাপা স্বর",
+    "examples": [
+      {
+        "en": "There was an undertone of sadness.",
+        "bn": "সেখানে দুঃখের একটি অন্তর্নিহিত ভাব ছিল।"
+      },
+      { "en": "She spoke in a soft undertone.", "bn": "সে চাপা স্বরে কথা বলল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He noticed an undertone of anger.",
+        "bn": "সে রাগের একটি অন্তর্নিহিত ভাব লক্ষ্য করল।"
+      },
+      {
+        "en": "The message had an undertone.",
+        "bn": "বার্তাটিতে একটি অন্তর্নিহিত ভাব ছিল।"
+      },
+      {
+        "en": "She detected an undertone of fear.",
+        "bn": "সে ভয়ের একটি অন্তর্নিহিত ভাব শনাক্ত করল।"
+      },
+      {
+        "en": "His speech had an undertone.",
+        "bn": "তার বক্তৃতায় একটি অন্তর্নিহিত ভাব ছিল।"
+      },
+      {
+        "en": "The story carried an undertone.",
+        "bn": "গল্পটিতে একটি অন্তর্নিহিত ভাব ছিল।"
+      },
+      {
+        "en": "She spoke with an undertone.",
+        "bn": "সে অন্তর্নিহিত ভাব নিয়ে কথা বলল।"
+      },
+      {
+        "en": "He sensed an undertone of hope.",
+        "bn": "সে আশার একটি অন্তর্নিহিত ভাব অনুভব করল।"
+      },
+      {
+        "en": "The undertone was hard to miss.",
+        "bn": "অন্তর্নিহিত ভাবটি মিস করা কঠিন ছিল।"
+      },
+      {
+        "en": "She heard the undertone in his voice.",
+        "bn": "সে তার কণ্ঠে অন্তর্নিহিত ভাব শুনল।"
+      },
+      {
+        "en": "The undertone revealed his true feelings.",
+        "bn": "অন্তর্নিহিত ভাব তার প্রকৃত অনুভূতি প্রকাশ করল।"
+      }
+    ],
+    "synonyms": ["hint", "suggestion", "undercurrent"]
+  },
+
+  {
+    "base": "unethical",
+    "phonetic": "ˌʌnˈeθɪkl",
+    "meaning": "অনৈতিক / নীতিবিরুদ্ধ",
+    "examples": [
+      { "en": "His behavior was unethical.", "bn": "তার আচরণ অনৈতিক ছিল।" },
+      {
+        "en": "She refused the unethical offer.",
+        "bn": "সে অনৈতিক প্রস্তাব প্রত্যাখ্যান করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Unethical actions harm society.",
+        "bn": "অনৈতিক কাজ সমাজের ক্ষতি করে।"
+      },
+      {
+        "en": "He was punished for unethical conduct.",
+        "bn": "অনৈতিক আচরণের জন্য তাকে শাস্তি দেওয়া হলো।"
+      },
+      {
+        "en": "She reported the unethical practice.",
+        "bn": "সে অনৈতিক চর্চা রিপোর্ট করল।"
+      },
+      {
+        "en": "Unethical behavior destroys trust.",
+        "bn": "অনৈতিক আচরণ বিশ্বাস নষ্ট করে।"
+      },
+      {
+        "en": "He avoided unethical decisions.",
+        "bn": "সে অনৈতিক সিদ্ধান্ত এড়াল।"
+      },
+      {
+        "en": "She called out the unethical act.",
+        "bn": "সে অনৈতিক কাজটি প্রকাশ করল।"
+      },
+      {
+        "en": "Unethical leaders lose respect.",
+        "bn": "অনৈতিক নেতারা সম্মান হারায়।"
+      },
+      {
+        "en": "He was accused of unethical conduct.",
+        "bn": "তাকে অনৈতিক আচরণে অভিযুক্ত করা হলো।"
+      },
+      {
+        "en": "She stood against unethical practices.",
+        "bn": "সে অনৈতিক চর্চার বিরুদ্ধে দাঁড়াল।"
+      },
+      {
+        "en": "Unethical choices have consequences.",
+        "bn": "অনৈতিক পছন্দের পরিণতি আছে।"
+      }
+    ],
+    "synonyms": ["immoral", "dishonest", "corrupt"]
+  },
+  {
+    "base": "unforgettable",
+    "phonetic": "ˌʌnfəˈɡetəbl",
+    "meaning": "অবিস্মরণীয় / চিরস্মরণীয়",
+    "examples": [
+      {
+        "en": "It was an unforgettable moment.",
+        "bn": "এটি একটি অবিস্মরণীয় মুহূর্ত ছিল।"
+      },
+      {
+        "en": "She gave an unforgettable performance.",
+        "bn": "সে একটি অবিস্মরণীয় পারফরম্যান্স দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He had an unforgettable experience.",
+        "bn": "তার একটি অবিস্মরণীয় অভিজ্ঞতা হলো।"
+      },
+      { "en": "The trip was unforgettable.", "bn": "ভ্রমণটি অবিস্মরণীয় ছিল।" },
+      {
+        "en": "She made an unforgettable impression.",
+        "bn": "সে একটি অবিস্মরণীয় ছাপ ফেলল।"
+      },
+      {
+        "en": "He told an unforgettable story.",
+        "bn": "সে একটি অবিস্মরণীয় গল্প বলল।"
+      },
+      {
+        "en": "The concert was unforgettable.",
+        "bn": "কনসার্টটি অবিস্মরণীয় ছিল।"
+      },
+      {
+        "en": "She created unforgettable memories.",
+        "bn": "সে অবিস্মরণীয় স্মৃতি তৈরি করল।"
+      },
+      {
+        "en": "He had an unforgettable smile.",
+        "bn": "তার একটি অবিস্মরণীয় হাসি ছিল।"
+      },
+      {
+        "en": "The speech was unforgettable.",
+        "bn": "বক্তৃতাটি অবিস্মরণীয় ছিল।"
+      },
+      {
+        "en": "She wore an unforgettable dress.",
+        "bn": "সে একটি অবিস্মরণীয় পোশাক পরল।"
+      },
+      {
+        "en": "The sunset was unforgettable.",
+        "bn": "সূর্যাস্তটি অবিস্মরণীয় ছিল।"
+      }
+    ],
+    "synonyms": ["memorable", "remarkable", "lasting"]
+  },
+  {
+    "base": "uninvited",
+    "phonetic": "ˌʌnɪnˈvaɪtɪd",
+    "meaning": "অনাহূত / বিনা আমন্ত্রণে",
+    "examples": [
+      {
+        "en": "He came uninvited to the party.",
+        "bn": "সে বিনা আমন্ত্রণে পার্টিতে এল।"
+      },
+      { "en": "She was an uninvited guest.", "bn": "সে একজন অনাহূত অতিথি ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Uninvited guests can be awkward.",
+        "bn": "অনাহূত অতিথিরা অস্বস্তিকর হতে পারে।"
+      },
+      {
+        "en": "He showed up uninvited.",
+        "bn": "সে বিনা আমন্ত্রণে উপস্থিত হলো।"
+      },
+      {
+        "en": "She felt like an uninvited stranger.",
+        "bn": "সে একজন অনাহূত অপরিচিত অনুভব করল।"
+      },
+      {
+        "en": "He gave uninvited advice.",
+        "bn": "সে বিনা চাওয়ায় পরামর্শ দিল।"
+      },
+      { "en": "Uninvited interruptions are rude.", "bn": "অনাহূত বাধা অভদ্র।" },
+      { "en": "She arrived uninvited.", "bn": "সে বিনা আমন্ত্রণে পৌঁছাল।" },
+      {
+        "en": "He made uninvited comments.",
+        "bn": "সে বিনা চাওয়ায় মন্তব্য করল।"
+      },
+      {
+        "en": "Uninvited opinions bother people.",
+        "bn": "বিনা চাওয়া মতামত মানুষকে বিরক্ত করে।"
+      },
+      {
+        "en": "She felt uninvited at the event.",
+        "bn": "সে অনুষ্ঠানে অনাহূত অনুভব করল।"
+      },
+      { "en": "He was clearly uninvited.", "bn": "সে স্পষ্টতই অনাহূত ছিল।" }
+    ],
+    "synonyms": ["unwelcome", "unwanted", "unexpected"]
+  },
+  {
+    "base": "unkind",
+    "phonetic": "ˌʌnˈkaɪnd",
+    "meaning": "নিষ্ঠুর / অদয়ালু",
+    "examples": [
+      {
+        "en": "Do not be unkind to others.",
+        "bn": "অন্যদের প্রতি নিষ্ঠুর হয়ো না।"
+      },
+      {
+        "en": "She was unkind to the child.",
+        "bn": "সে শিশুটির প্রতি অদয়ালু ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "His unkind words hurt her.",
+        "bn": "তার নিষ্ঠুর কথা তাকে কষ্ট দিল।"
+      },
+      {
+        "en": "She regretted being unkind.",
+        "bn": "নিষ্ঠুর হওয়ায় সে অনুশোচনা করল।"
+      },
+      {
+        "en": "He was unkind without reason.",
+        "bn": "সে কারণ ছাড়াই নিষ্ঠুর ছিল।"
+      },
+      {
+        "en": "Unkind behavior is unacceptable.",
+        "bn": "নিষ্ঠুর আচরণ গ্রহণযোগ্য নয়।"
+      },
+      {
+        "en": "She felt unkind toward him.",
+        "bn": "সে তার প্রতি অদয়ালু অনুভব করল।"
+      },
+      { "en": "He made unkind remarks.", "bn": "সে নিষ্ঠুর মন্তব্য করল।" },
+      {
+        "en": "Unkind people make others sad.",
+        "bn": "নিষ্ঠুর মানুষ অন্যদের দুঃখী করে।"
+      },
+      {
+        "en": "She avoided unkind thoughts.",
+        "bn": "সে নিষ্ঠুর চিন্তা এড়াল।"
+      },
+      {
+        "en": "He was unkind in his response.",
+        "bn": "সে তার সাড়ায় নিষ্ঠুর ছিল।"
+      },
+      {
+        "en": "Being unkind is a bad habit.",
+        "bn": "নিষ্ঠুর হওয়া একটি খারাপ অভ্যাস।"
+      }
+    ],
+    "synonyms": ["cruel", "harsh", "inconsiderate"]
+  },
+  {
+    "base": "unlearn",
+    "phonetic": "ˌʌnˈlɜːrn",
+    "meaning": "ভুলে যাওয়া / পুরানো শিক্ষা ছাড়া",
+    "examples": [
+      {
+        "en": "She had to unlearn bad habits.",
+        "bn": "তাকে খারাপ অভ্যাস ভুলতে হলো।"
+      },
+      {
+        "en": "He unlearned his old ways.",
+        "bn": "সে তার পুরানো পদ্ধতি ছেড়ে দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Unlearn what is holding you back.",
+        "bn": "যা তোমাকে আটকে রাখছে তা ভুলে যাও।"
+      },
+      { "en": "She unlearned her fear.", "bn": "সে তার ভয় ভুলে গেল।" },
+      {
+        "en": "He unlearned negative thinking.",
+        "bn": "সে নেতিবাচক চিন্তা ছেড়ে দিল।"
+      },
+      {
+        "en": "Unlearning is part of growth.",
+        "bn": "পুরানো শিক্ষা ছাড়া বিকাশের অংশ।"
+      },
+      { "en": "She unlearned her biases.", "bn": "সে তার পক্ষপাত ছেড়ে দিল।" },
+      {
+        "en": "He unlearned unhelpful patterns.",
+        "bn": "সে অকার্যকর ধরন ছেড়ে দিল।"
+      },
+      {
+        "en": "Unlearn to grow better.",
+        "bn": "ভালো বিকাশের জন্য পুরানো শিক্ষা ছাড়ো।"
+      },
+      {
+        "en": "She unlearned her fixed mindset.",
+        "bn": "সে তার স্থির মানসিকতা ছেড়ে দিল।"
+      },
+      {
+        "en": "He needed to unlearn.",
+        "bn": "তার পুরানো শিক্ষা ছাড়া দরকার ছিল।"
+      },
+      {
+        "en": "Unlearning opens new paths.",
+        "bn": "পুরানো শিক্ষা ছাড়া নতুন পথ খুলে দেয়।"
+      }
+    ],
+    "synonyms": ["forget", "discard", "abandon"]
+  },
+  {
+    "base": "unmistakable",
+    "phonetic": "ˌʌnmɪˈsteɪkəbl",
+    "meaning": "নিঃসন্দেহ / স্পষ্ট",
+    "examples": [
+      {
+        "en": "Her voice was unmistakable.",
+        "bn": "তার কণ্ঠস্বর নিঃসন্দেহ ছিল।"
+      },
+      {
+        "en": "He had an unmistakable style.",
+        "bn": "তার একটি স্পষ্ট স্টাইল ছিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The smell was unmistakable.", "bn": "গন্ধটি নিঃসন্দেহ ছিল।" },
+      {
+        "en": "She had an unmistakable talent.",
+        "bn": "তার একটি স্পষ্ট প্রতিভা ছিল।"
+      },
+      {
+        "en": "His presence was unmistakable.",
+        "bn": "তার উপস্থিতি নিঃসন্দেহ ছিল।"
+      },
+      { "en": "The sign was unmistakable.", "bn": "চিহ্নটি স্পষ্ট ছিল।" },
+      {
+        "en": "She gave an unmistakable look.",
+        "bn": "সে একটি স্পষ্ট দৃষ্টি দিল।"
+      },
+      {
+        "en": "He had an unmistakable accent.",
+        "bn": "তার একটি স্পষ্ট উচ্চারণ ছিল।"
+      },
+      { "en": "The truth was unmistakable.", "bn": "সত্যটি নিঃসন্দেহ ছিল।" },
+      {
+        "en": "She made an unmistakable point.",
+        "bn": "সে একটি স্পষ্ট বক্তব্য রাখল।"
+      },
+      {
+        "en": "His message was unmistakable.",
+        "bn": "তার বার্তা নিঃসন্দেহ ছিল।"
+      },
+      { "en": "The warning was unmistakable.", "bn": "সতর্কতাটি স্পষ্ট ছিল।" }
+    ],
+    "synonyms": ["obvious", "clear", "distinct"]
+  },
+  {
+    "base": "unnoticed",
+    "phonetic": "ˌʌnˈnoʊtɪst",
+    "meaning": "অলক্ষিত / অজ্ঞাত",
+    "examples": [
+      { "en": "She slipped away unnoticed.", "bn": "সে অলক্ষিতে সরে গেল।" },
+      {
+        "en": "His effort went unnoticed.",
+        "bn": "তার প্রচেষ্টা অলক্ষিত থাকল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She entered the room unnoticed.",
+        "bn": "সে অলক্ষিতে ঘরে প্রবেশ করল।"
+      },
+      {
+        "en": "He worked unnoticed for years.",
+        "bn": "সে বছরের পর বছর অলক্ষিতে কাজ করল।"
+      },
+      { "en": "The mistake went unnoticed.", "bn": "ভুলটি অলক্ষিত থাকল।" },
+      {
+        "en": "She wanted to go unnoticed.",
+        "bn": "সে অলক্ষিত থাকতে চেয়েছিল।"
+      },
+      { "en": "He slipped away unnoticed.", "bn": "সে অলক্ষিতে সরে গেল।" },
+      { "en": "Her kindness went unnoticed.", "bn": "তার দয়া অলক্ষিত থাকল।" },
+      { "en": "The change was unnoticed.", "bn": "পরিবর্তনটি অলক্ষিত ছিল।" },
+      {
+        "en": "He remained unnoticed in the crowd.",
+        "bn": "সে ভিড়ে অলক্ষিত থাকল।"
+      },
+      {
+        "en": "She completed the task unnoticed.",
+        "bn": "সে অলক্ষিতে কাজটি শেষ করল।"
+      },
+      { "en": "His talent went unnoticed.", "bn": "তার প্রতিভা অলক্ষিত থাকল।" }
+    ],
+    "synonyms": ["overlooked", "unseen", "ignored"]
+  },
+  {
+    "base": "unproductive",
+    "phonetic": "ˌʌnprəˈdʌktɪv",
+    "meaning": "অনুৎপাদনশীল / ফলহীন",
+    "examples": [
+      { "en": "The meeting was unproductive.", "bn": "সভাটি ফলহীন ছিল।" },
+      {
+        "en": "She felt unproductive that day.",
+        "bn": "সেদিন সে অনুৎপাদনশীল অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He avoided unproductive tasks.", "bn": "সে ফলহীন কাজ এড়াল।" },
+      {
+        "en": "Unproductive habits waste time.",
+        "bn": "অনুৎপাদনশীল অভ্যাস সময় নষ্ট করে।"
+      },
+      {
+        "en": "She had an unproductive week.",
+        "bn": "তার একটি ফলহীন সপ্তাহ ছিল।"
+      },
+      {
+        "en": "He was unproductive due to stress.",
+        "bn": "চাপের কারণে সে অনুৎপাদনশীল ছিল।"
+      },
+      {
+        "en": "Unproductive arguments should stop.",
+        "bn": "ফলহীন তর্ক বন্ধ হওয়া উচিত।"
+      },
+      {
+        "en": "She removed unproductive steps.",
+        "bn": "সে ফলহীন ধাপ সরিয়ে দিল।"
+      },
+      {
+        "en": "He found the day unproductive.",
+        "bn": "সে দিনটি অনুৎপাদনশীল মনে করল।"
+      },
+      {
+        "en": "Unproductive meetings drain energy.",
+        "bn": "ফলহীন সভা শক্তি নষ্ট করে।"
+      },
+      {
+        "en": "She overcame her unproductive phase.",
+        "bn": "সে তার অনুৎপাদনশীল পর্যায় কাটিয়ে উঠল।"
+      },
+      {
+        "en": "He changed his unproductive routine.",
+        "bn": "সে তার ফলহীন রুটিন পরিবর্তন করল।"
+      }
+    ],
+    "synonyms": ["ineffective", "fruitless", "useless"]
+  },
+  {
+    "base": "unrealistic",
+    "phonetic": "ˌʌnrɪəˈlɪstɪk",
+    "meaning": "অবাস্তব / অযৌক্তিক",
+    "examples": [
+      {
+        "en": "Her expectations were unrealistic.",
+        "bn": "তার প্রত্যাশা অবাস্তব ছিল।"
+      },
+      { "en": "He had unrealistic goals.", "bn": "তার অবাস্তব লক্ষ্য ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "The plan was unrealistic.", "bn": "পরিকল্পনাটি অবাস্তব ছিল।" },
+      {
+        "en": "She avoided unrealistic promises.",
+        "bn": "সে অবাস্তব প্রতিশ্রুতি এড়াল।"
+      },
+      {
+        "en": "He set unrealistic deadlines.",
+        "bn": "সে অবাস্তব সময়সীমা নির্ধারণ করল।"
+      },
+      {
+        "en": "Unrealistic goals lead to failure.",
+        "bn": "অবাস্তব লক্ষ্য ব্যর্থতার দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "She was unrealistic about the cost.",
+        "bn": "সে খরচ সম্পর্কে অবাস্তব ছিল।"
+      },
+      {
+        "en": "He had unrealistic expectations.",
+        "bn": "তার অবাস্তব প্রত্যাশা ছিল।"
+      },
+      { "en": "The demand was unrealistic.", "bn": "দাবিটি অবাস্তব ছিল।" },
+      {
+        "en": "She corrected her unrealistic views.",
+        "bn": "সে তার অবাস্তব দৃষ্টিভঙ্গি সংশোধন করল।"
+      },
+      {
+        "en": "He recognized his unrealistic ideas.",
+        "bn": "সে তার অবাস্তব ধারণা স্বীকার করল।"
+      },
+      {
+        "en": "Unrealistic thinking blocks progress.",
+        "bn": "অবাস্তব চিন্তা অগ্রগতি বাধা দেয়।"
+      }
+    ],
+    "synonyms": ["impractical", "impossible", "idealistic"]
+  },
+  {
+    "base": "unresolved",
+    "phonetic": "ˌʌnrɪˈzɒlvd",
+    "meaning": "অমীমাংসিত / সমাধানহীন",
+    "examples": [
+      {
+        "en": "The issue remained unresolved.",
+        "bn": "বিষয়টি অমীমাংসিত থাকল।"
+      },
+      {
+        "en": "She had unresolved feelings.",
+        "bn": "তার অমীমাংসিত অনুভূতি ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He had unresolved conflicts.",
+        "bn": "তার অমীমাংসিত দ্বন্দ্ব ছিল।"
+      },
+      {
+        "en": "The problem was still unresolved.",
+        "bn": "সমস্যাটি এখনো অমীমাংসিত ছিল।"
+      },
+      {
+        "en": "She dealt with unresolved issues.",
+        "bn": "সে অমীমাংসিত বিষয়গুলো সামলাল।"
+      },
+      {
+        "en": "Unresolved matters cause stress.",
+        "bn": "অমীমাংসিত বিষয় মানসিক চাপ সৃষ্টি করে।"
+      },
+      {
+        "en": "He addressed the unresolved problem.",
+        "bn": "সে অমীমাংসিত সমস্যাটি সমাধান করল।"
+      },
+      {
+        "en": "She carried unresolved emotions.",
+        "bn": "সে অমীমাংসিত আবেগ বহন করছিল।"
+      },
+      {
+        "en": "The case was left unresolved.",
+        "bn": "মামলাটি অমীমাংসিত ছাড়া হলো।"
+      },
+      {
+        "en": "He had unresolved questions.",
+        "bn": "তার অমীমাংসিত প্রশ্ন ছিল।"
+      },
+      {
+        "en": "Unresolved issues grow bigger.",
+        "bn": "অমীমাংসিত বিষয় বড় হয়।"
+      },
+      {
+        "en": "She finally resolved the unresolved.",
+        "bn": "সে অবশেষে অমীমাংসিতটি সমাধান করল।"
+      }
+    ],
+    "synonyms": ["unsettled", "pending", "unanswered"]
+  },
+  {
+    "base": "unshakeable",
+    "phonetic": "ˌʌnˈʃeɪkəbl",
+    "meaning": "অটল / দৃঢ়",
+    "examples": [
+      { "en": "She had unshakeable faith.", "bn": "তার অটল বিশ্বাস ছিল।" },
+      {
+        "en": "He stood with unshakeable resolve.",
+        "bn": "সে অটল সংকল্পের সাথে দাঁড়াল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Her unshakeable confidence inspired all.",
+        "bn": "তার অটল আত্মবিশ্বাস সবাইকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "He had an unshakeable belief.",
+        "bn": "তার একটি অটল বিশ্বাস ছিল।"
+      },
+      {
+        "en": "She remained unshakeable under pressure.",
+        "bn": "চাপের মধ্যেও সে অটল থাকল।"
+      },
+      {
+        "en": "His unshakeable spirit won hearts.",
+        "bn": "তার অটল মনোবল মন জয় করল।"
+      },
+      {
+        "en": "She had unshakeable determination.",
+        "bn": "তার অটল সংকল্প ছিল।"
+      },
+      { "en": "He showed unshakeable courage.", "bn": "সে অটল সাহস দেখাল।" },
+      {
+        "en": "Her unshakeable love was admirable.",
+        "bn": "তার অটল ভালোবাসা প্রশংসনীয় ছিল।"
+      },
+      {
+        "en": "He had an unshakeable character.",
+        "bn": "তার একটি অটল চরিত্র ছিল।"
+      },
+      {
+        "en": "She was unshakeable in her values.",
+        "bn": "সে তার মূল্যবোধে অটল ছিল।"
+      },
+      {
+        "en": "His unshakeable trust was clear.",
+        "bn": "তার অটল বিশ্বাস স্পষ্ট ছিল।"
+      }
+    ],
+    "synonyms": ["firm", "steadfast", "resolute"]
+  },
+  {
+    "base": "unsatisfied",
+    "phonetic": "ˌʌnˈsætɪsfaɪd",
+    "meaning": "অসন্তুষ্ট / তৃপ্তিহীন",
+    "examples": [
+      {
+        "en": "She was unsatisfied with the result.",
+        "bn": "সে ফলাফলে অসন্তুষ্ট ছিল।"
+      },
+      {
+        "en": "He felt unsatisfied after eating.",
+        "bn": "খাওয়ার পরও সে তৃপ্তিহীন অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She was unsatisfied with her work.",
+        "bn": "সে তার কাজে অসন্তুষ্ট ছিল।"
+      },
+      { "en": "He remained unsatisfied.", "bn": "সে অসন্তুষ্টই থাকল।" },
+      {
+        "en": "The customer was unsatisfied.",
+        "bn": "গ্রাহকটি অসন্তুষ্ট ছিল।"
+      },
+      {
+        "en": "She felt unsatisfied and empty.",
+        "bn": "সে অসন্তুষ্ট ও শূন্য অনুভব করল।"
+      },
+      {
+        "en": "He was unsatisfied with the service.",
+        "bn": "সে সেবায় অসন্তুষ্ট ছিল।"
+      },
+      {
+        "en": "Unsatisfied needs cause frustration.",
+        "bn": "অপূর্ণ চাহিদা হতাশা সৃষ্টি করে।"
+      },
+      {
+        "en": "She was unsatisfied with the answer.",
+        "bn": "সে উত্তরে অসন্তুষ্ট ছিল।"
+      },
+      {
+        "en": "He expressed his unsatisfied feelings.",
+        "bn": "সে তার অসন্তুষ্ট অনুভূতি প্রকাশ করল।"
+      },
+      {
+        "en": "She was constantly unsatisfied.",
+        "bn": "সে সবসময় অসন্তুষ্ট থাকত।"
+      },
+      {
+        "en": "He addressed the unsatisfied complaint.",
+        "bn": "সে অসন্তুষ্টির অভিযোগটি সামলাল।"
+      }
+    ],
+    "synonyms": ["discontented", "unhappy", "unfulfilled"]
+  },
+  {
+    "base": "untold",
+    "phonetic": "ˌʌnˈtoʊld",
+    "meaning": "অকথিত / অসংখ্য",
+    "examples": [
+      { "en": "There are untold stories here.", "bn": "এখানে অকথিত গল্প আছে।" },
+      {
+        "en": "She suffered untold hardships.",
+        "bn": "সে অসংখ্য কষ্ট সহ্য করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He had untold wealth.", "bn": "তার অসংখ্য সম্পদ ছিল।" },
+      {
+        "en": "The untold truth was revealed.",
+        "bn": "অকথিত সত্য প্রকাশ পেল।"
+      },
+      {
+        "en": "She faced untold challenges.",
+        "bn": "সে অসংখ্য চ্যালেঞ্জের মুখোমুখি হলো।"
+      },
+      {
+        "en": "He shared his untold story.",
+        "bn": "সে তার অকথিত গল্প শেয়ার করল।"
+      },
+      {
+        "en": "Untold suffering exists around us.",
+        "bn": "আমাদের চারপাশে অকথিত কষ্ট আছে।"
+      },
+      { "en": "She carried untold pain.", "bn": "সে অকথিত ব্যথা বহন করছিল।" },
+      { "en": "He had untold potential.", "bn": "তার অসংখ্য সম্ভাবনা ছিল।" },
+      {
+        "en": "The untold story moved everyone.",
+        "bn": "অকথিত গল্পটি সবাইকে আবেগপ্রবণ করল।"
+      },
+      {
+        "en": "She shared her untold feelings.",
+        "bn": "সে তার অকথিত অনুভূতি শেয়ার করল।"
+      },
+      {
+        "en": "Untold sacrifices made us free.",
+        "bn": "অকথিত আত্মত্যাগ আমাদের মুক্ত করেছে।"
+      }
+    ],
+    "synonyms": ["uncounted", "unrevealed", "countless"]
+  },
+  {
+    "base": "unwavering",
+    "phonetic": "ˌʌnˈweɪvərɪŋ",
+    "meaning": "অবিচল / দৃঢ়",
+    "examples": [
+      { "en": "She had unwavering dedication.", "bn": "তার অবিচল নিষ্ঠা ছিল।" },
+      { "en": "He showed unwavering support.", "bn": "সে অবিচল সমর্থন দেখাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Her unwavering faith inspired all.",
+        "bn": "তার অবিচল বিশ্বাস সবাইকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "He had unwavering commitment.",
+        "bn": "তার অবিচল প্রতিশ্রুতি ছিল।"
+      },
+      {
+        "en": "She remained unwavering under pressure.",
+        "bn": "চাপের মধ্যেও সে অবিচল থাকল।"
+      },
+      {
+        "en": "His unwavering love was admirable.",
+        "bn": "তার অবিচল ভালোবাসা প্রশংসনীয় ছিল।"
+      },
+      {
+        "en": "She had unwavering determination.",
+        "bn": "তার অবিচল সংকল্প ছিল।"
+      },
+      { "en": "He showed unwavering courage.", "bn": "সে অবিচল সাহস দেখাল।" },
+      {
+        "en": "Her unwavering focus was clear.",
+        "bn": "তার অবিচল মনোযোগ স্পষ্ট ছিল।"
+      },
+      { "en": "He had unwavering principles.", "bn": "তার অবিচল নীতি ছিল।" },
+      {
+        "en": "She was unwavering in her goals.",
+        "bn": "সে তার লক্ষ্যে অবিচল ছিল।"
+      },
+      {
+        "en": "His unwavering spirit won battles.",
+        "bn": "তার অবিচল মনোবল যুদ্ধ জিতল।"
+      }
+    ],
+    "synonyms": ["steadfast", "resolute", "firm"]
+  },
+  {
+    "base": "unyielding",
+    "phonetic": "ˌʌnˈjiːldɪŋ",
+    "meaning": "অনমনীয় / দৃঢ়",
+    "examples": [
+      {
+        "en": "She was unyielding in her decision.",
+        "bn": "সে তার সিদ্ধান্তে অনমনীয় ছিল।"
+      },
+      {
+        "en": "He had an unyielding spirit.",
+        "bn": "তার একটি অনমনীয় মনোবল ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The unyielding wall stood firm.",
+        "bn": "অনমনীয় দেয়ালটি দৃঢ়ভাবে দাঁড়িয়ে ছিল।"
+      },
+      {
+        "en": "She was unyielding against pressure.",
+        "bn": "সে চাপের বিরুদ্ধে অনমনীয় ছিল।"
+      },
+      {
+        "en": "He had unyielding determination.",
+        "bn": "তার অনমনীয় সংকল্প ছিল।"
+      },
+      {
+        "en": "Her unyielding attitude won respect.",
+        "bn": "তার অনমনীয় মনোভাব সম্মান জিতল।"
+      },
+      {
+        "en": "He was unyielding in his beliefs.",
+        "bn": "সে তার বিশ্বাসে অনমনীয় ছিল।"
+      },
+      {
+        "en": "She showed unyielding courage.",
+        "bn": "সে অনমনীয় সাহস দেখাল।"
+      },
+      {
+        "en": "His unyielding resolve was admirable.",
+        "bn": "তার অনমনীয় সংকল্প প্রশংসনীয় ছিল।"
+      },
+      {
+        "en": "She remained unyielding to the end.",
+        "bn": "সে শেষ পর্যন্ত অনমনীয় থাকল।"
+      },
+      {
+        "en": "He faced unyielding opposition.",
+        "bn": "সে অনমনীয় বিরোধিতার মুখোমুখি হলো।"
+      },
+      {
+        "en": "Her unyielding will changed things.",
+        "bn": "তার অনমনীয় ইচ্ছাশক্তি জিনিস বদলাল।"
+      }
+    ],
+    "synonyms": ["inflexible", "stubborn", "rigid"]
+  },
+  {
+    "base": "upbringing",
+    "phonetic": "ˈʌpbrɪŋɪŋ",
+    "meaning": "লালন-পালন / শিক্ষা-দীক্ষা",
+    "examples": [
+      {
+        "en": "Her upbringing shaped her values.",
+        "bn": "তার লালন-পালন তার মূল্যবোধ গঠন করল।"
+      },
+      { "en": "He had a strict upbringing.", "bn": "তার কঠোর লালন-পালন ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Good upbringing builds character.",
+        "bn": "ভালো লালন-পালন চরিত্র গড়ে।"
+      },
+      {
+        "en": "She talked about her upbringing.",
+        "bn": "সে তার লালন-পালন সম্পর্কে কথা বলল।"
+      },
+      {
+        "en": "His upbringing influenced his choices.",
+        "bn": "তার লালন-পালন তার পছন্দ প্রভাবিত করল।"
+      },
+      {
+        "en": "She had a loving upbringing.",
+        "bn": "তার ভালোবাসাপূর্ণ লালন-পালন ছিল।"
+      },
+      {
+        "en": "His upbringing was very traditional.",
+        "bn": "তার লালন-পালন খুব ঐতিহ্যবাহী ছিল।"
+      },
+      {
+        "en": "She valued her upbringing.",
+        "bn": "সে তার লালন-পালনকে মূল্য দিল।"
+      },
+      {
+        "en": "Good upbringing leads to success.",
+        "bn": "ভালো লালন-পালন সাফল্যের দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "He reflected on his upbringing.",
+        "bn": "সে তার লালন-পালন নিয়ে ভাবল।"
+      },
+      {
+        "en": "Her upbringing gave her strength.",
+        "bn": "তার লালন-পালন তাকে শক্তি দিল।"
+      },
+      {
+        "en": "His upbringing was full of love.",
+        "bn": "তার লালন-পালন ভালোবাসায় পূর্ণ ছিল।"
+      }
+    ],
+    "synonyms": ["childhood", "rearing", "nurturing"]
+  },
+  {
+    "base": "upheaval",
+    "phonetic": "ˌʌpˈhiːvl",
+    "meaning": "বিপর্যয় / আমূল পরিবর্তন",
+    "examples": [
+      {
+        "en": "The war caused great upheaval.",
+        "bn": "যুদ্ধ বড় বিপর্যয় সৃষ্টি করল।"
+      },
+      {
+        "en": "She faced upheaval in her life.",
+        "bn": "সে তার জীবনে বিপর্যয়ের মুখোমুখি হলো।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He survived the upheaval.",
+        "bn": "সে বিপর্যয় থেকে বেঁচে গেল।"
+      },
+      {
+        "en": "The upheaval changed everything.",
+        "bn": "বিপর্যয়টি সব বদলে দিল।"
+      },
+      {
+        "en": "She dealt with social upheaval.",
+        "bn": "সে সামাজিক বিপর্যয় সামলাল।"
+      },
+      {
+        "en": "The political upheaval was sudden.",
+        "bn": "রাজনৈতিক বিপর্যয়টি হঠাৎ ছিল।"
+      },
+      {
+        "en": "He recovered from the upheaval.",
+        "bn": "সে বিপর্যয় থেকে সেরে উঠল।"
+      },
+      {
+        "en": "The upheaval affected many lives.",
+        "bn": "বিপর্যয়টি অনেক জীবন প্রভাবিত করল।"
+      },
+      {
+        "en": "She led through the upheaval.",
+        "bn": "সে বিপর্যয়ের মধ্যে নেতৃত্ব দিল।"
+      },
+      {
+        "en": "The upheaval brought new chances.",
+        "bn": "বিপর্যয়টি নতুন সুযোগ নিয়ে এল।"
+      },
+      {
+        "en": "He handled the upheaval calmly.",
+        "bn": "সে শান্তভাবে বিপর্যয় সামলাল।"
+      },
+      { "en": "The upheaval was overwhelming.", "bn": "বিপর্যয়টি অসহ্য ছিল।" }
+    ],
+    "synonyms": ["turmoil", "disruption", "chaos"]
+  },
+  {
+    "base": "uppermost",
+    "phonetic": "ˈʌpəmoʊst",
+    "meaning": "সর্বোচ্চ / শীর্ষে",
+    "examples": [
+      {
+        "en": "Safety was uppermost in his mind.",
+        "bn": "নিরাপত্তা তার মনে সর্বোচ্চ ছিল।"
+      },
+      {
+        "en": "She reached the uppermost level.",
+        "bn": "সে সর্বোচ্চ স্তরে পৌঁছাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He placed the book on the uppermost shelf.",
+        "bn": "সে বইটি সর্বোচ্চ তাকে রাখল।"
+      },
+      {
+        "en": "Her wellbeing was uppermost.",
+        "bn": "তার সুস্বাস্থ্য সর্বোচ্চ ছিল।"
+      },
+      {
+        "en": "He climbed to the uppermost floor.",
+        "bn": "সে সর্বোচ্চ তলায় উঠল।"
+      },
+      {
+        "en": "Education was uppermost for her.",
+        "bn": "শিক্ষা তার কাছে সর্বোচ্চ ছিল।"
+      },
+      {
+        "en": "He kept the uppermost priority.",
+        "bn": "সে সর্বোচ্চ অগ্রাধিকার রাখল।"
+      },
+      {
+        "en": "She reached the uppermost position.",
+        "bn": "সে সর্বোচ্চ পদে পৌঁছাল।"
+      },
+      {
+        "en": "His goal was uppermost always.",
+        "bn": "তার লক্ষ্য সবসময় সর্বোচ্চ ছিল।"
+      },
+      {
+        "en": "She kept her values uppermost.",
+        "bn": "সে তার মূল্যবোধ সর্বোচ্চে রাখল।"
+      },
+      {
+        "en": "The uppermost branch was thin.",
+        "bn": "সর্বোচ্চ ডালটি পাতলা ছিল।"
+      },
+      {
+        "en": "He aimed for the uppermost rank.",
+        "bn": "সে সর্বোচ্চ পদের লক্ষ্য রাখল।"
+      }
+    ],
+    "synonyms": ["topmost", "highest", "supreme"]
+  },
+  {
+    "base": "upstanding",
+    "phonetic": "ˈʌpstændɪŋ",
+    "meaning": "সৎ / নীতিপরায়ণ",
+    "examples": [
+      { "en": "He was an upstanding member.", "bn": "সে একজন সৎ সদস্য ছিল।" },
+      { "en": "She was known as upstanding.", "bn": "সে সৎ হিসেবে পরিচিত ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "He led an upstanding life.", "bn": "সে একটি সৎ জীবন কাটাল।" },
+      {
+        "en": "She was an upstanding citizen.",
+        "bn": "সে একজন সৎ নাগরিক ছিল।"
+      },
+      {
+        "en": "Upstanding behavior earns respect.",
+        "bn": "সৎ আচরণ সম্মান অর্জন করে।"
+      },
+      {
+        "en": "He was upstanding in all matters.",
+        "bn": "সে সব বিষয়ে সৎ ছিল।"
+      },
+      {
+        "en": "She raised upstanding children.",
+        "bn": "সে সৎ সন্তান বড় করল।"
+      },
+      {
+        "en": "He was praised for being upstanding.",
+        "bn": "সৎ হওয়ায় তার প্রশংসা করা হলো।"
+      },
+      { "en": "She had upstanding morals.", "bn": "তার সৎ নৈতিকতা ছিল।" },
+      { "en": "He was an upstanding leader.", "bn": "সে একজন সৎ নেতা ছিল।" },
+      {
+        "en": "Upstanding people inspire others.",
+        "bn": "সৎ মানুষ অন্যদের অনুপ্রাণিত করে।"
+      },
+      { "en": "She was upstanding and honest.", "bn": "সে সৎ ও নিষ্ঠাবান ছিল।" }
+    ],
+    "synonyms": ["honest", "honorable", "ethical"]
+  },
+  {
+    "base": "uranium",
+    "phonetic": "jʊˈreɪniəm",
+    "meaning": "ইউরেনিয়াম / তেজস্ক্রিয় ধাতু",
+    "examples": [
+      {
+        "en": "Uranium is a radioactive element.",
+        "bn": "ইউরেনিয়াম একটি তেজস্ক্রিয় মৌল।"
+      },
+      {
+        "en": "He studied uranium in chemistry.",
+        "bn": "সে রসায়নে ইউরেনিয়াম অধ্যয়ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Uranium is used in nuclear energy.",
+        "bn": "ইউরেনিয়াম পারমাণবিক শক্তিতে ব্যবহৃত হয়।"
+      },
+      {
+        "en": "She researched uranium properties.",
+        "bn": "সে ইউরেনিয়ামের বৈশিষ্ট্য গবেষণা করল।"
+      },
+      {
+        "en": "Uranium is found underground.",
+        "bn": "ইউরেনিয়াম মাটির নিচে পাওয়া যায়।"
+      },
+      {
+        "en": "He learned about uranium mining.",
+        "bn": "সে ইউরেনিয়াম খনন সম্পর্কে শিখল।"
+      },
+      {
+        "en": "Uranium has a long half life.",
+        "bn": "ইউরেনিয়ামের দীর্ঘ অর্ধজীবন আছে।"
+      },
+      {
+        "en": "She read about uranium dangers.",
+        "bn": "সে ইউরেনিয়ামের বিপদ সম্পর্কে পড়ল।"
+      },
+      {
+        "en": "Uranium must be handled carefully.",
+        "bn": "ইউরেনিয়াম সাবধানে সামলাতে হবে।"
+      },
+      {
+        "en": "He studied the uses of uranium.",
+        "bn": "সে ইউরেনিয়ামের ব্যবহার অধ্যয়ন করল।"
+      },
+      {
+        "en": "Uranium was discovered long ago.",
+        "bn": "ইউরেনিয়াম অনেক আগে আবিষ্কৃত হয়েছিল।"
+      },
+      {
+        "en": "She explained uranium to the class.",
+        "bn": "সে ক্লাসে ইউরেনিয়াম ব্যাখ্যা করল।"
+      }
+    ],
+    "synonyms": ["element", "radioactive material", "nuclear fuel"]
+  },
+  {
+    "base": "utility",
+    "phonetic": "juːˈtɪləti",
+    "meaning": "উপযোগিতা / সেবা",
+    "examples": [
+      {
+        "en": "The utility of the tool is clear.",
+        "bn": "সরঞ্জামটির উপযোগিতা স্পষ্ট।"
+      },
+      { "en": "She paid her utility bills.", "bn": "সে তার সেবার বিল দিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He valued the utility of education.",
+        "bn": "সে শিক্ষার উপযোগিতাকে মূল্য দিল।"
+      },
+      {
+        "en": "Utility services include water and power.",
+        "bn": "সেবার মধ্যে পানি ও বিদ্যুৎ আছে।"
+      },
+      { "en": "She studied public utility.", "bn": "সে জনসেবা অধ্যয়ন করল।" },
+      {
+        "en": "He improved the utility of the app.",
+        "bn": "সে অ্যাপের উপযোগিতা উন্নত করল।"
+      },
+      {
+        "en": "Utility is more important than beauty.",
+        "bn": "উপযোগিতা সৌন্দর্যের চেয়ে গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She maximized the utility of space.",
+        "bn": "সে জায়গার উপযোগিতা সর্বাধিক করল।"
+      },
+      {
+        "en": "He managed utility costs well.",
+        "bn": "সে সেবার খরচ ভালোভাবে পরিচালনা করল।"
+      },
+      {
+        "en": "Utility vehicles are very useful.",
+        "bn": "উপযোগী যানবাহন খুব কার্যকর।"
+      },
+      {
+        "en": "She understood the utility of saving.",
+        "bn": "সে সঞ্চয়ের উপযোগিতা বুঝল।"
+      },
+      {
+        "en": "He focused on utility over style.",
+        "bn": "সে স্টাইলের চেয়ে উপযোগিতায় মনোযোগ দিল।"
+      }
+    ],
+    "synonyms": ["usefulness", "function", "service"]
+  },
+  {
+    "base": "utterance",
+    "phonetic": "ˈʌtərəns",
+    "meaning": "উচ্চারণ / বক্তব্য",
+    "examples": [
+      { "en": "Her utterance was clear.", "bn": "তার উচ্চারণ স্পষ্ট ছিল।" },
+      {
+        "en": "He made a careful utterance.",
+        "bn": "সে একটি সতর্ক বক্তব্য দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Every utterance matters.",
+        "bn": "প্রতিটি উচ্চারণ গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She chose her utterances wisely.",
+        "bn": "সে তার বক্তব্য বুদ্ধিমানের সাথে বেছে নিল।"
+      },
+      {
+        "en": "His utterance surprised everyone.",
+        "bn": "তার উচ্চারণ সবাইকে অবাক করল।"
+      },
+      {
+        "en": "She made a clear utterance.",
+        "bn": "সে একটি স্পষ্ট বক্তব্য দিল।"
+      },
+      {
+        "en": "He regretted his utterance.",
+        "bn": "তার বক্তব্যে সে অনুশোচনা করল।"
+      },
+      {
+        "en": "Her utterance was full of emotion.",
+        "bn": "তার উচ্চারণ আবেগে পূর্ণ ছিল।"
+      },
+      {
+        "en": "Think before every utterance.",
+        "bn": "প্রতিটি উচ্চারণের আগে ভাবো।"
+      },
+      {
+        "en": "His utterance was misunderstood.",
+        "bn": "তার বক্তব্য ভুল বোঝা হলো।"
+      },
+      {
+        "en": "She studied his utterances carefully.",
+        "bn": "সে তার বক্তব্য সাবধানে অধ্যয়ন করল।"
+      },
+      {
+        "en": "His last utterance was meaningful.",
+        "bn": "তার শেষ উচ্চারণ অর্থবহ ছিল।"
+      }
+    ],
+    "synonyms": ["statement", "expression", "remark"]
   }
 ]

@@ -103,5 +103,4009 @@
       }
     ],
     "synonyms": ["faith", "belief", "confidence"]
+  },
+
+  {
+    "base": "turtle",
+    "phonetic": "ˈtɜːt(ə)l",
+    "meaning": "কচ্ছপ",
+    "examples": [
+      { "en": "The turtle is slow.", "bn": "কচ্ছপটি ধীর।" },
+      {
+        "en": "I saw a turtle in the river.",
+        "bn": "আমি নদীতে একটি কচ্ছপ দেখেছি।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The turtle hides in its shell.",
+        "bn": "কচ্ছপটি তার খোলসে লুকিয়ে থাকে।"
+      },
+      {
+        "en": "Turtles live in water and land.",
+        "bn": "কচ্ছপ পানিতে এবং স্থলে বাস করে।"
+      },
+      { "en": "The turtle moved slowly.", "bn": "কচ্ছপটি ধীরে চলেছে।" },
+      {
+        "en": "A baby turtle is called a hatchling.",
+        "bn": "ছোট কচ্ছপকে হ্যাচলিং বলা হয়।"
+      },
+      { "en": "Turtles are ancient animals.", "bn": "কচ্ছপ প্রাচীন প্রাণী।" },
+      { "en": "The turtle reached the shore.", "bn": "কচ্ছপটি তীরে পৌঁছেছে।" },
+      {
+        "en": "People protect sea turtles.",
+        "bn": "মানুষ সামুদ্রিক কচ্ছপ রক্ষা করে।"
+      },
+      {
+        "en": "The turtle swam across the pond.",
+        "bn": "কচ্ছপটি পুকুর পার হয়ে সাঁতার কেটেছে।"
+      },
+      { "en": "A turtle carries its home.", "bn": "কচ্ছপ তার ঘর বহন করে।" },
+      {
+        "en": "The turtle is a calm creature.",
+        "bn": "কচ্ছপ একটি শান্ত প্রাণী।"
+      }
+    ],
+    "synonyms": ["reptile", "chelonians"]
+  },
+
+  {
+    "base": "take",
+    "phonetic": "teɪk",
+    "meaning": "নেওয়া / গ্রহণ করা",
+    "examples": [
+      { "en": "Please take this book.", "bn": "এই বইটি নিন।" },
+      { "en": "She took the medicine on time.", "bn": "সে সময়মতো ওষুধ খেল।" }
+    ],
+    "moreexample": [
+      { "en": "He took a deep breath.", "bn": "সে গভীরভাবে শ্বাস নিল।" },
+      { "en": "She took the first step.", "bn": "সে প্রথম পদক্ষেপ নিল।" },
+      { "en": "Take your time.", "bn": "সময় নিন।" },
+      { "en": "He took the wrong turn.", "bn": "সে ভুল মোড় নিল।" },
+      { "en": "She took responsibility.", "bn": "সে দায়িত্ব নিল।" },
+      { "en": "Take care of yourself.", "bn": "নিজের যত্ন নিন।" },
+      { "en": "He took notes in class.", "bn": "সে ক্লাসে নোট নিল।" },
+      {
+        "en": "She took a photo of the sunset.",
+        "bn": "সে সূর্যাস্তের ছবি তুলল।"
+      },
+      { "en": "Take the opportunity.", "bn": "সুযোগটি নিন।" },
+      { "en": "He took pride in his work.", "bn": "সে তার কাজে গর্বিত ছিল।" }
+    ],
+    "synonyms": ["grab", "accept", "receive", "carry", "seize"]
+  },
+  {
+    "base": "talent",
+    "phonetic": "ˈtælənt",
+    "meaning": "প্রতিভা / দক্ষতা",
+    "examples": [
+      {
+        "en": "She has a natural talent for music.",
+        "bn": "সঙ্গীতে তার স্বাভাবিক প্রতিভা আছে।"
+      },
+      {
+        "en": "His talent was recognized early.",
+        "bn": "তার প্রতিভা তাড়াতাড়ি স্বীকৃতি পেয়েছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She developed her talent through hard work.",
+        "bn": "কঠোর পরিশ্রমের মাধ্যমে সে তার প্রতিভা বিকশিত করল।"
+      },
+      { "en": "He wasted his talent.", "bn": "সে তার প্রতিভা নষ্ট করল।" },
+      {
+        "en": "The school nurtures young talent.",
+        "bn": "স্কুলটি তরুণ প্রতিভা লালন করে।"
+      },
+      {
+        "en": "She performed at a talent show.",
+        "bn": "সে একটি প্রতিভা প্রদর্শনীতে অংশ নিল।"
+      },
+      {
+        "en": "His talent for painting is exceptional.",
+        "bn": "চিত্রকলায় তার প্রতিভা অসাধারণ।"
+      },
+      { "en": "Talent alone is not enough.", "bn": "শুধু প্রতিভা যথেষ্ট নয়।" },
+      {
+        "en": "She spotted his hidden talent.",
+        "bn": "সে তার লুকানো প্রতিভা আবিষ্কার করল।"
+      },
+      {
+        "en": "He combined talent with discipline.",
+        "bn": "সে প্রতিভার সাথে শৃঙ্খলা মেলাল।"
+      },
+      {
+        "en": "Everyone has some form of talent.",
+        "bn": "প্রত্যেকের কোনো না কোনো প্রতিভা আছে।"
+      },
+      {
+        "en": "The company recruits top talent.",
+        "bn": "কোম্পানি শীর্ষ প্রতিভা নিয়োগ করে।"
+      }
+    ],
+    "synonyms": ["gift", "skill", "ability", "flair", "aptitude"]
+  },
+  {
+    "base": "target",
+    "phonetic": "ˈtɑːɡɪt",
+    "meaning": "লক্ষ্য / লক্ষ্যমাত্রা",
+    "examples": [
+      {
+        "en": "She hit the target perfectly.",
+        "bn": "সে নিখুঁতভাবে লক্ষ্যে আঘাত করল।"
+      },
+      {
+        "en": "He set a sales target for the month.",
+        "bn": "সে মাসের জন্য বিক্রয় লক্ষ্যমাত্রা নির্ধারণ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The archer missed the target.",
+        "bn": "তিরন্দাজ লক্ষ্য মিস করল।"
+      },
+      {
+        "en": "She achieved her target on time.",
+        "bn": "সে সময়মতো তার লক্ষ্যমাত্রা অর্জন করল।"
+      },
+      {
+        "en": "He targeted the wrong audience.",
+        "bn": "সে ভুল দর্শকদের লক্ষ্য করল।"
+      },
+      {
+        "en": "The campaign targeted young voters.",
+        "bn": "প্রচারণাটি তরুণ ভোটারদের লক্ষ্য করল।"
+      },
+      {
+        "en": "She exceeded her target.",
+        "bn": "সে তার লক্ষ্যমাত্রা ছাড়িয়ে গেল।"
+      },
+      {
+        "en": "He was the target of criticism.",
+        "bn": "সে সমালোচনার লক্ষ্যবস্তু ছিল।"
+      },
+      {
+        "en": "Set a realistic target.",
+        "bn": "বাস্তবসম্মত লক্ষ্যমাত্রা নির্ধারণ করুন।"
+      },
+      {
+        "en": "The missile hit its target.",
+        "bn": "ক্ষেপণাস্ত্রটি লক্ষ্যে আঘাত করল।"
+      },
+      {
+        "en": "She focused on her target.",
+        "bn": "সে তার লক্ষ্যে মনোযোগ দিল।"
+      },
+      {
+        "en": "He reviewed his targets weekly.",
+        "bn": "সে সাপ্তাহিকভাবে তার লক্ষ্যমাত্রা পর্যালোচনা করত।"
+      }
+    ],
+    "synonyms": ["goal", "aim", "objective", "mark", "destination"]
+  },
+  {
+    "base": "teach",
+    "phonetic": "tiːtʃ",
+    "meaning": "শেখানো / পড়ানো",
+    "examples": [
+      {
+        "en": "She teaches English at school.",
+        "bn": "সে স্কুলে ইংরেজি পড়ায়।"
+      },
+      { "en": "He taught his son to swim.", "bn": "সে ছেলেকে সাঁতার শেখাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Experience teaches us many lessons.",
+        "bn": "অভিজ্ঞতা আমাদের অনেক শিক্ষা দেয়।"
+      },
+      {
+        "en": "She taught with great passion.",
+        "bn": "সে অনেক উৎসাহ নিয়ে পড়াল।"
+      },
+      {
+        "en": "He taught himself to play guitar.",
+        "bn": "সে নিজে নিজে গিটার বাজাতে শিখল।"
+      },
+      {
+        "en": "Teaching is a noble profession.",
+        "bn": "শিক্ষকতা একটি মহৎ পেশা।"
+      },
+      {
+        "en": "She taught them the importance of honesty.",
+        "bn": "সে তাদের সততার গুরুত্ব শেখাল।"
+      },
+      {
+        "en": "He loves teaching children.",
+        "bn": "সে শিশুদের পড়াতে ভালোবাসে।"
+      },
+      {
+        "en": "The coach taught them teamwork.",
+        "bn": "কোচ তাদের দলগত কাজ শেখালেন।"
+      },
+      {
+        "en": "She taught at university for years.",
+        "bn": "সে বছরের পর বছর বিশ্ববিদ্যালয়ে পড়াল।"
+      },
+      {
+        "en": "He taught the class how to solve equations.",
+        "bn": "সে ক্লাসকে সমীকরণ সমাধান করতে শেখাল।"
+      },
+      {
+        "en": "Parents teach values to their children.",
+        "bn": "বাবা-মা সন্তানদের মূল্যবোধ শেখান।"
+      }
+    ],
+    "synonyms": ["educate", "instruct", "train", "guide", "mentor"]
+  },
+  {
+    "base": "team",
+    "phonetic": "tiːm",
+    "meaning": "দল / টিম",
+    "examples": [
+      { "en": "Our team won the match.", "bn": "আমাদের দল ম্যাচ জিতল।" },
+      {
+        "en": "She leads a strong team.",
+        "bn": "সে একটি শক্তিশালী দলের নেতৃত্ব দেয়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He is a valuable team member.",
+        "bn": "সে একজন মূল্যবান দলের সদস্য।"
+      },
+      {
+        "en": "The team worked together smoothly.",
+        "bn": "দলটি একসাথে মসৃণভাবে কাজ করল।"
+      },
+      { "en": "She joined the research team.", "bn": "সে গবেষণা দলে যোগ দিল।" },
+      {
+        "en": "Team spirit is very important.",
+        "bn": "দলীয় মনোভাব অত্যন্ত গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "He motivated the team before the game.",
+        "bn": "খেলার আগে সে দলকে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "The team celebrated their victory.",
+        "bn": "দলটি তাদের বিজয় উদযাপন করল।"
+      },
+      {
+        "en": "She built a dedicated team.",
+        "bn": "সে একটি নিবেদিতপ্রাণ দল গড়ে তুলল।"
+      },
+      {
+        "en": "The team faced many challenges.",
+        "bn": "দলটি অনেক চ্যালেঞ্জের মুখোমুখি হল।"
+      },
+      {
+        "en": "He was dropped from the team.",
+        "bn": "তাকে দল থেকে বাদ দেওয়া হল।"
+      },
+      {
+        "en": "Good communication strengthens a team.",
+        "bn": "ভালো যোগাযোগ একটি দলকে শক্তিশালী করে।"
+      }
+    ],
+    "synonyms": ["group", "squad", "crew", "unit", "side"]
+  },
+  {
+    "base": "technology",
+    "phonetic": "tekˈnɒlədʒi",
+    "meaning": "প্রযুক্তি",
+    "examples": [
+      {
+        "en": "Technology is changing the world.",
+        "bn": "প্রযুক্তি পৃথিবী পরিবর্তন করছে।"
+      },
+      {
+        "en": "She works in the technology sector.",
+        "bn": "সে প্রযুক্তি খাতে কাজ করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He embraced new technology quickly.",
+        "bn": "সে দ্রুত নতুন প্রযুক্তি গ্রহণ করল।"
+      },
+      {
+        "en": "Technology improves our daily lives.",
+        "bn": "প্রযুক্তি আমাদের দৈনন্দিন জীবন উন্নত করে।"
+      },
+      {
+        "en": "She studied information technology.",
+        "bn": "সে তথ্য প্রযুক্তি অধ্যয়ন করল।"
+      },
+      {
+        "en": "Modern technology has many benefits.",
+        "bn": "আধুনিক প্রযুক্তির অনেক সুবিধা আছে।"
+      },
+      {
+        "en": "He invented new technology for farming.",
+        "bn": "সে চাষের জন্য নতুন প্রযুক্তি আবিষ্কার করল।"
+      },
+      {
+        "en": "Technology helps doctors save lives.",
+        "bn": "প্রযুক্তি ডাক্তারদের জীবন বাঁচাতে সাহায্য করে।"
+      },
+      {
+        "en": "She adapted to changing technology.",
+        "bn": "সে পরিবর্তনশীল প্রযুক্তির সাথে মানিয়ে নিল।"
+      },
+      {
+        "en": "The school teaches digital technology.",
+        "bn": "স্কুলটি ডিজিটাল প্রযুক্তি শেখায়।"
+      },
+      {
+        "en": "He is passionate about green technology.",
+        "bn": "সবুজ প্রযুক্তি নিয়ে সে অনুরাগী।"
+      },
+      {
+        "en": "Technology connects people worldwide.",
+        "bn": "প্রযুক্তি বিশ্বজুড়ে মানুষকে সংযুক্ত করে।"
+      }
+    ],
+    "synonyms": [
+      "innovation",
+      "science",
+      "engineering",
+      "machinery",
+      "technique"
+    ]
+  },
+  {
+    "base": "tension",
+    "phonetic": "ˈtenʃn",
+    "meaning": "উত্তেজনা / টানাপোড়েন",
+    "examples": [
+      { "en": "There was tension in the room.", "bn": "ঘরে উত্তেজনা ছিল।" },
+      {
+        "en": "She felt tension before the exam.",
+        "bn": "পরীক্ষার আগে সে উত্তেজনা অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He tried to ease the tension.",
+        "bn": "সে উত্তেজনা কমানোর চেষ্টা করল।"
+      },
+      {
+        "en": "Political tension rose in the country.",
+        "bn": "দেশে রাজনৈতিক উত্তেজনা বাড়ল।"
+      },
+      {
+        "en": "The tension between them was obvious.",
+        "bn": "তাদের মধ্যে টানাপোড়েন স্পষ্ট ছিল।"
+      },
+      {
+        "en": "She released tension through exercise.",
+        "bn": "সে ব্যায়ামের মাধ্যমে উত্তেজনা মুক্ত করল।"
+      },
+      { "en": "The tension in the wire was high.", "bn": "তারে টান বেশি ছিল।" },
+      {
+        "en": "He managed tension at work well.",
+        "bn": "সে কর্মক্ষেত্রে উত্তেজনা ভালোভাবে সামলাল।"
+      },
+      {
+        "en": "The tension broke when they laughed.",
+        "bn": "যখন তারা হাসল তখন উত্তেজনা ভাঙল।"
+      },
+      {
+        "en": "She could feel the tension in her shoulders.",
+        "bn": "সে কাঁধে টান অনুভব করল।"
+      },
+      {
+        "en": "Tension filled the air before the match.",
+        "bn": "ম্যাচের আগে বাতাসে উত্তেজনা ভরপুর ছিল।"
+      },
+      {
+        "en": "He reduced tension with a calm tone.",
+        "bn": "শান্ত সুরে সে উত্তেজনা কমাল।"
+      }
+    ],
+    "synonyms": ["stress", "strain", "anxiety", "pressure", "unease"]
+  },
+  {
+    "base": "terrible",
+    "phonetic": "ˈterɪbl",
+    "meaning": "ভয়ানক / ভয়াবহ",
+    "examples": [
+      { "en": "The accident was terrible.", "bn": "দুর্ঘটনাটি ভয়ানক ছিল।" },
+      {
+        "en": "She felt terrible about the mistake.",
+        "bn": "ভুলের জন্য সে ভয়ানক খারাপ অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He had a terrible headache.",
+        "bn": "তার ভয়ানক মাথাব্যথা ছিল।"
+      },
+      {
+        "en": "The weather was terrible yesterday.",
+        "bn": "গতকাল আবহাওয়া ভয়ানক ছিল।"
+      },
+      {
+        "en": "She gave a terrible performance.",
+        "bn": "সে একটি ভয়ানক পারফরম্যান্স দিল।"
+      },
+      {
+        "en": "It was a terrible waste of time.",
+        "bn": "এটি ভয়ানক সময়ের অপচয় ছিল।"
+      },
+      {
+        "en": "He made a terrible decision.",
+        "bn": "সে একটি ভয়ানক সিদ্ধান্ত নিল।"
+      },
+      { "en": "The news was terrible.", "bn": "সংবাদটি ভয়ানক ছিল।" },
+      {
+        "en": "She had a terrible day at work.",
+        "bn": "কর্মক্ষেত্রে তার ভয়ানক একটি দিন ছিল।"
+      },
+      { "en": "The smell was terrible.", "bn": "গন্ধটি ভয়ানক ছিল।" },
+      {
+        "en": "He suffered a terrible loss.",
+        "bn": "সে ভয়ানক ক্ষতির শিকার হল।"
+      },
+      {
+        "en": "The earthquake caused terrible damage.",
+        "bn": "ভূমিকম্প ভয়ানক ক্ষয়ক্ষতি করল।"
+      }
+    ],
+    "synonyms": ["awful", "dreadful", "horrific", "frightful", "appalling"]
+  },
+  {
+    "base": "think",
+    "phonetic": "θɪŋk",
+    "meaning": "ভাবা / চিন্তা করা",
+    "examples": [
+      { "en": "Think before you speak.", "bn": "বলার আগে ভাবুন।" },
+      {
+        "en": "She thinks deeply about problems.",
+        "bn": "সে সমস্যা নিয়ে গভীরভাবে চিন্তা করে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He thought about the future.",
+        "bn": "সে ভবিষ্যৎ নিয়ে চিন্তা করল।"
+      },
+      {
+        "en": "What do you think about this?",
+        "bn": "এই বিষয়ে তুমি কী ভাবো?"
+      },
+      { "en": "She thinks positively.", "bn": "সে ইতিবাচকভাবে ভাবে।" },
+      {
+        "en": "He thinks outside the box.",
+        "bn": "সে সৃজনশীলভাবে চিন্তা করে।"
+      },
+      {
+        "en": "She thought of a brilliant idea.",
+        "bn": "সে একটি দুর্দান্ত ধারণার কথা ভাবল।"
+      },
+      {
+        "en": "Think carefully before deciding.",
+        "bn": "সিদ্ধান্ত নেওয়ার আগে সাবধানে ভাবুন।"
+      },
+      {
+        "en": "He thought the plan was risky.",
+        "bn": "সে মনে করল পরিকল্পনাটি ঝুঁকিপূর্ণ।"
+      },
+      {
+        "en": "She thinks he is very talented.",
+        "bn": "সে মনে করে সে অনেক প্রতিভাবান।"
+      },
+      {
+        "en": "I think we should go.",
+        "bn": "আমি মনে করি আমাদের যাওয়া উচিত।"
+      },
+      {
+        "en": "He thought about her all day.",
+        "bn": "সে সারাদিন তার কথা ভাবল।"
+      }
+    ],
+    "synonyms": ["consider", "reflect", "ponder", "believe", "reason"]
+  },
+  {
+    "base": "threat",
+    "phonetic": "θret",
+    "meaning": "হুমকি / বিপদ",
+    "examples": [
+      { "en": "He made a serious threat.", "bn": "সে একটি গুরুতর হুমকি দিল।" },
+      {
+        "en": "The storm posed a threat to the village.",
+        "bn": "ঝড় গ্রামে বিপদের হুমকি সৃষ্টি করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She ignored the threat.", "bn": "সে হুমকি উপেক্ষা করল।" },
+      {
+        "en": "Pollution is a threat to the environment.",
+        "bn": "দূষণ পরিবেশের জন্য হুমকি।"
+      },
+      {
+        "en": "He was threatened at work.",
+        "bn": "কর্মক্ষেত্রে তাকে হুমকি দেওয়া হয়েছিল।"
+      },
+      {
+        "en": "The threat of rain cancelled the event.",
+        "bn": "বৃষ্টির হুমকিতে অনুষ্ঠান বাতিল হল।"
+      },
+      {
+        "en": "She felt threatened by his words.",
+        "bn": "তার কথায় সে হুমকি অনুভব করল।"
+      },
+      {
+        "en": "He took the threat seriously.",
+        "bn": "সে হুমকিটি গুরুত্বের সাথে নিল।"
+      },
+      {
+        "en": "The company faces a competitive threat.",
+        "bn": "কোম্পানি প্রতিযোগিতামূলক হুমকির মুখে।"
+      },
+      {
+        "en": "She reported the threat to police.",
+        "bn": "সে পুলিশকে হুমকির কথা জানাল।"
+      },
+      {
+        "en": "He eliminated the threat quickly.",
+        "bn": "সে দ্রুত হুমকি দূর করল।"
+      },
+      {
+        "en": "Cybersecurity threats are growing.",
+        "bn": "সাইবার নিরাপত্তা হুমকি বাড়ছে।"
+      }
+    ],
+    "synonyms": ["danger", "menace", "risk", "hazard", "warning"]
+  },
+  {
+    "base": "thrive",
+    "phonetic": "θraɪv",
+    "meaning": "সমৃদ্ধ হওয়া / উন্নতি করা",
+    "examples": [
+      {
+        "en": "Plants thrive in sunlight.",
+        "bn": "গাছপালা সূর্যালোকে সমৃদ্ধ হয়।"
+      },
+      {
+        "en": "She thrived in her new environment.",
+        "bn": "নতুন পরিবেশে সে উন্নতি করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He thrived under pressure.", "bn": "চাপের মধ্যে সে সমৃদ্ধ হল।" },
+      {
+        "en": "The business thrived after the renovation.",
+        "bn": "সংস্কারের পরে ব্যবসা সমৃদ্ধ হল।"
+      },
+      {
+        "en": "Children thrive with love and care.",
+        "bn": "ভালোবাসা ও যত্নে শিশুরা সমৃদ্ধ হয়।"
+      },
+      {
+        "en": "She thrived in her career.",
+        "bn": "তার ক্যারিয়ারে সে উন্নতি করল।"
+      },
+      {
+        "en": "The community thrived together.",
+        "bn": "সমাজটি একসাথে সমৃদ্ধ হল।"
+      },
+      { "en": "He thrived on challenges.", "bn": "চ্যালেঞ্জে সে সমৃদ্ধ হল।" },
+      {
+        "en": "The ecosystem thrived without pollution.",
+        "bn": "দূষণ ছাড়া বাস্তুতন্ত্র সমৃদ্ধ হল।"
+      },
+      {
+        "en": "She helps her team thrive.",
+        "bn": "সে তার দলকে উন্নতি করতে সাহায্য করে।"
+      },
+      {
+        "en": "The startup thrived in two years.",
+        "bn": "স্টার্টআপটি দুই বছরে সমৃদ্ধ হল।"
+      },
+      {
+        "en": "He thrived when given freedom.",
+        "bn": "স্বাধীনতা পেলে সে উন্নতি করত।"
+      }
+    ],
+    "synonyms": ["flourish", "prosper", "bloom", "succeed", "grow"]
+  },
+  {
+    "base": "tolerance",
+    "phonetic": "ˈtɒlərəns",
+    "meaning": "সহনশীলতা / ধৈর্য",
+    "examples": [
+      {
+        "en": "Tolerance is key to peace.",
+        "bn": "সহনশীলতা শান্তির চাবিকাঠি।"
+      },
+      { "en": "She showed great tolerance.", "bn": "সে অনেক সহনশীলতা দেখাল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He has a high tolerance for pain.",
+        "bn": "ব্যথার প্রতি তার উচ্চ সহনশীলতা আছে।"
+      },
+      {
+        "en": "Religious tolerance is important.",
+        "bn": "ধর্মীয় সহনশীলতা গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "She practiced tolerance every day.",
+        "bn": "সে প্রতিদিন সহনশীলতা চর্চা করত।"
+      },
+      {
+        "en": "His tolerance helped him stay calm.",
+        "bn": "তার সহনশীলতা তাকে শান্ত থাকতে সাহায্য করল।"
+      },
+      {
+        "en": "Society needs more tolerance.",
+        "bn": "সমাজে আরও বেশি সহনশীলতা দরকার।"
+      },
+      {
+        "en": "She teaches tolerance to her students.",
+        "bn": "সে শিক্ষার্থীদের সহনশীলতা শেখায়।"
+      },
+      {
+        "en": "Zero tolerance for violence.",
+        "bn": "সহিংসতার প্রতি শূন্য সহনশীলতা।"
+      },
+      {
+        "en": "He showed tolerance toward his critics.",
+        "bn": "সে সমালোচকদের প্রতি সহনশীলতা দেখাল।"
+      },
+      {
+        "en": "Tolerance builds stronger communities.",
+        "bn": "সহনশীলতা শক্তিশালী সমাজ গড়ে।"
+      },
+      {
+        "en": "She had little tolerance for rudeness.",
+        "bn": "অভদ্রতার প্রতি তার সহনশীলতা কম ছিল।"
+      }
+    ],
+    "synonyms": [
+      "patience",
+      "acceptance",
+      "endurance",
+      "open-mindedness",
+      "forbearance"
+    ]
+  },
+  {
+    "base": "tradition",
+    "phonetic": "trəˈdɪʃn",
+    "meaning": "ঐতিহ্য / রীতিনীতি",
+    "examples": [
+      {
+        "en": "This is a family tradition.",
+        "bn": "এটি একটি পারিবারিক ঐতিহ্য।"
+      },
+      {
+        "en": "She respected the local tradition.",
+        "bn": "সে স্থানীয় ঐতিহ্যকে সম্মান করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He kept the tradition alive.", "bn": "সে ঐতিহ্যটি বজায় রাখল।" },
+      {
+        "en": "Cultural traditions vary worldwide.",
+        "bn": "সাংস্কৃতিক ঐতিহ্য বিশ্বজুড়ে ভিন্ন।"
+      },
+      {
+        "en": "She continued the wedding tradition.",
+        "bn": "সে বিবাহের ঐতিহ্য অব্যাহত রাখল।"
+      },
+      { "en": "He broke with tradition.", "bn": "সে ঐতিহ্য ভেঙে দিল।" },
+      {
+        "en": "Traditions help connect generations.",
+        "bn": "ঐতিহ্য প্রজন্মকে সংযুক্ত করতে সাহায্য করে।"
+      },
+      {
+        "en": "The festival is a long-standing tradition.",
+        "bn": "উৎসবটি দীর্ঘস্থায়ী ঐতিহ্য।"
+      },
+      {
+        "en": "She embraced her cultural traditions.",
+        "bn": "সে তার সাংস্কৃতিক ঐতিহ্যকে আলিঙ্গন করল।"
+      },
+      {
+        "en": "He passed the tradition to his children.",
+        "bn": "সে সন্তানদের কাছে ঐতিহ্য হস্তান্তর করল।"
+      },
+      {
+        "en": "Tradition plays a big role in identity.",
+        "bn": "পরিচয়ে ঐতিহ্য বড় ভূমিকা পালন করে।"
+      },
+      {
+        "en": "They maintained the cooking tradition.",
+        "bn": "তারা রান্নার ঐতিহ্য বজায় রাখল।"
+      }
+    ],
+    "synonyms": ["custom", "practice", "heritage", "ritual", "convention"]
+  },
+  {
+    "base": "transform",
+    "phonetic": "trænsˈfɔːm",
+    "meaning": "রূপান্তরিত করা / পরিবর্তন করা",
+    "examples": [
+      {
+        "en": "Education can transform lives.",
+        "bn": "শিক্ষা জীবন রূপান্তরিত করতে পারে।"
+      },
+      {
+        "en": "She transformed the old building.",
+        "bn": "সে পুরনো ভবনটি রূপান্তরিত করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He transformed his body through exercise.",
+        "bn": "ব্যায়ামের মাধ্যমে সে তার শরীর রূপান্তরিত করল।"
+      },
+      {
+        "en": "The caterpillar transforms into a butterfly.",
+        "bn": "শুঁয়োপোকা প্রজাপতিতে রূপান্তরিত হয়।"
+      },
+      {
+        "en": "She transformed the company's culture.",
+        "bn": "সে কোম্পানির সংস্কৃতি পরিবর্তন করল।"
+      },
+      {
+        "en": "Technology transformed communication.",
+        "bn": "প্রযুক্তি যোগাযোগ রূপান্তরিত করেছে।"
+      },
+      {
+        "en": "He was transformed by the experience.",
+        "bn": "অভিজ্ঞতায় সে রূপান্তরিত হয়েছিল।"
+      },
+      {
+        "en": "The city was transformed overnight.",
+        "bn": "শহরটি রাতারাতি রূপান্তরিত হল।"
+      },
+      {
+        "en": "She transformed her fear into courage.",
+        "bn": "সে তার ভয়কে সাহসে রূপান্তরিত করল।"
+      },
+      {
+        "en": "He transformed the idea into reality.",
+        "bn": "সে ধারণাটিকে বাস্তবে রূপান্তরিত করল।"
+      },
+      {
+        "en": "The program transforms young people.",
+        "bn": "কর্মসূচিটি তরুণদের রূপান্তরিত করে।"
+      },
+      {
+        "en": "She transformed waste into art.",
+        "bn": "সে বর্জ্যকে শিল্পে রূপান্তরিত করল।"
+      }
+    ],
+    "synonyms": ["change", "convert", "alter", "reshape", "revolutionize"]
+  },
+  {
+    "base": "transparent",
+    "phonetic": "trænsˈpærənt",
+    "meaning": "স্বচ্ছ / খোলামেলা",
+    "examples": [
+      { "en": "The glass is transparent.", "bn": "কাচটি স্বচ্ছ।" },
+      {
+        "en": "She was transparent about her feelings.",
+        "bn": "অনুভূতি সম্পর্কে সে খোলামেলা ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was transparent in his dealings.",
+        "bn": "তার লেনদেনে সে স্বচ্ছ ছিল।"
+      },
+      {
+        "en": "The government should be transparent.",
+        "bn": "সরকারকে স্বচ্ছ হওয়া উচিত।"
+      },
+      {
+        "en": "She demanded transparent communication.",
+        "bn": "সে স্বচ্ছ যোগাযোগ দাবি করল।"
+      },
+      {
+        "en": "The policy was transparent to all.",
+        "bn": "নীতিমালাটি সবার কাছে স্বচ্ছ ছিল।"
+      },
+      {
+        "en": "He appreciated her transparent nature.",
+        "bn": "তার স্বচ্ছ স্বভাবের সে প্রশংসা করল।"
+      },
+      {
+        "en": "The company has a transparent pricing model.",
+        "bn": "কোম্পানির একটি স্বচ্ছ মূল্য নির্ধারণ মডেল আছে।"
+      },
+      {
+        "en": "She wore a transparent scarf.",
+        "bn": "সে একটি স্বচ্ছ স্কার্ফ পরল।"
+      },
+      {
+        "en": "He made his intentions transparent.",
+        "bn": "সে তার উদ্দেশ্য স্বচ্ছ করল।"
+      },
+      {
+        "en": "Transparent leadership builds trust.",
+        "bn": "স্বচ্ছ নেতৃত্ব বিশ্বাস গড়ে।"
+      },
+      {
+        "en": "The bag was made of transparent plastic.",
+        "bn": "ব্যাগটি স্বচ্ছ প্লাস্টিকের তৈরি।"
+      }
+    ],
+    "synonyms": ["clear", "honest", "open", "see-through", "candid"]
+  },
+  {
+    "base": "travel",
+    "phonetic": "ˈtrævl",
+    "meaning": "ভ্রমণ করা / যাত্রা করা",
+    "examples": [
+      { "en": "She loves to travel.", "bn": "সে ভ্রমণ করতে ভালোবাসে।" },
+      { "en": "He traveled across Asia.", "bn": "সে এশিয়া জুড়ে ভ্রমণ করল।" }
+    ],
+    "moreexample": [
+      { "en": "They traveled by train.", "bn": "তারা ট্রেনে ভ্রমণ করল।" },
+      {
+        "en": "She traveled alone for the first time.",
+        "bn": "সে প্রথমবার একা ভ্রমণ করল।"
+      },
+      {
+        "en": "He traveled for work often.",
+        "bn": "সে প্রায়ই কাজের জন্য ভ্রমণ করত।"
+      },
+      { "en": "Travel broadens the mind.", "bn": "ভ্রমণ মনকে প্রসারিত করে।" },
+      {
+        "en": "She packed light for the trip.",
+        "bn": "ভ্রমণের জন্য সে কম জিনিস প্যাক করল।"
+      },
+      {
+        "en": "They traveled to many countries.",
+        "bn": "তারা অনেক দেশ ভ্রমণ করল।"
+      },
+      {
+        "en": "He shared travel tips with friends.",
+        "bn": "সে বন্ধুদের সাথে ভ্রমণ টিপস শেয়ার করল।"
+      },
+      {
+        "en": "She documented her travels.",
+        "bn": "সে তার ভ্রমণ নথিভুক্ত করল।"
+      },
+      {
+        "en": "Light travels at a great speed.",
+        "bn": "আলো অনেক দ্রুতগতিতে ভ্রমণ করে।"
+      },
+      { "en": "He enjoyed solo travel.", "bn": "সে একা ভ্রমণ উপভোগ করত।" }
+    ],
+    "synonyms": ["journey", "trip", "voyage", "tour", "expedition"]
+  },
+  {
+    "base": "treasure",
+    "phonetic": "ˈtreʒər",
+    "meaning": "ধন / মূল্যবান বস্তু / সংরক্ষণ করা",
+    "examples": [
+      {
+        "en": "She treasured every moment.",
+        "bn": "সে প্রতিটি মুহূর্ত মূল্যবান মনে করল।"
+      },
+      {
+        "en": "They found buried treasure.",
+        "bn": "তারা মাটিতে লুকানো ধন খুঁজে পেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He treasured the photo of his family.",
+        "bn": "সে পরিবারের ছবিটি মূল্যবানভাবে রেখেছিল।"
+      },
+      {
+        "en": "She kept the letter as a treasure.",
+        "bn": "সে চিঠিটি ধনের মতো রেখে দিল।"
+      },
+      {
+        "en": "The museum holds national treasures.",
+        "bn": "জাদুঘরটি জাতীয় সম্পদ ধারণ করে।"
+      },
+      {
+        "en": "He is a treasure to the team.",
+        "bn": "সে দলের জন্য একটি সম্পদ।"
+      },
+      {
+        "en": "She treasured her grandmother's advice.",
+        "bn": "সে দাদির পরামর্শ মূল্যবান মনে করত।"
+      },
+      { "en": "The cave was full of treasure.", "bn": "গুহাটি ধনে পূর্ণ ছিল।" },
+      {
+        "en": "He found a treasure in the old shop.",
+        "bn": "পুরনো দোকানে সে একটি সম্পদ খুঁজে পেল।"
+      },
+      {
+        "en": "She treasured her friendship deeply.",
+        "bn": "সে তার বন্ধুত্বকে গভীরভাবে মূল্যবান মনে করত।"
+      },
+      { "en": "Time is the greatest treasure.", "bn": "সময় সবচেয়ে বড় ধন।" },
+      {
+        "en": "They hunted for hidden treasure.",
+        "bn": "তারা লুকানো ধনের সন্ধান করল।"
+      }
+    ],
+    "synonyms": ["riches", "wealth", "gem", "prize", "fortune"]
+  },
+  {
+    "base": "treat",
+    "phonetic": "triːt",
+    "meaning": "আচরণ করা / চিকিৎসা করা / আপ্যায়ন",
+    "examples": [
+      {
+        "en": "She treated everyone with respect.",
+        "bn": "সে সবার সাথে সম্মানের সাথে আচরণ করল।"
+      },
+      {
+        "en": "The doctor treated the patient.",
+        "bn": "ডাক্তার রোগীর চিকিৎসা করলেন।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He treated her to dinner.",
+        "bn": "সে তাকে রাতের খাবারে আপ্যায়ন করল।"
+      },
+      { "en": "She was treated unfairly.", "bn": "সে অন্যায়ভাবে আচরণ পেল।" },
+      {
+        "en": "Treat others as you wish to be treated.",
+        "bn": "অন্যদের সাথে সেভাবে আচরণ করো যেভাবে তুমি চাও তোমার সাথে আচরণ হোক।"
+      },
+      {
+        "en": "He bought them ice cream as a treat.",
+        "bn": "সে তাদের আপ্যায়ন হিসেবে আইসক্রিম কিনল।"
+      },
+      {
+        "en": "She treated the wound carefully.",
+        "bn": "সে ক্ষতটি সাবধানে চিকিৎসা করল।"
+      },
+      {
+        "en": "The company treats its employees well.",
+        "bn": "কোম্পানি তার কর্মচারীদের সাথে ভালো আচরণ করে।"
+      },
+      {
+        "en": "He treated the problem seriously.",
+        "bn": "সে সমস্যাটি গুরুত্বের সাথে নিল।"
+      },
+      {
+        "en": "She treated herself to a holiday.",
+        "bn": "সে নিজেকে একটি ছুটি উপহার দিল।"
+      },
+      {
+        "en": "He treated her like a queen.",
+        "bn": "সে তার সাথে রানীর মতো আচরণ করল।"
+      },
+      {
+        "en": "The medicine treated the infection.",
+        "bn": "ওষুধটি সংক্রমণের চিকিৎসা করল।"
+      }
+    ],
+    "synonyms": ["handle", "deal with", "tend to", "manage", "gift"]
+  },
+  {
+    "base": "tremendous",
+    "phonetic": "trɪˈmendəs",
+    "meaning": "অসাধারণ / বিশাল",
+    "examples": [
+      {
+        "en": "She made a tremendous effort.",
+        "bn": "সে অসাধারণ প্রচেষ্টা করল।"
+      },
+      { "en": "The concert was tremendous.", "bn": "কনসার্টটি অসাধারণ ছিল।" }
+    ],
+    "moreexample": [
+      { "en": "He showed tremendous courage.", "bn": "সে অসাধারণ সাহস দেখাল।" },
+      {
+        "en": "The project was a tremendous success.",
+        "bn": "প্রকল্পটি অসাধারণ সফলতা পেল।"
+      },
+      { "en": "She had tremendous energy.", "bn": "তার অসাধারণ শক্তি ছিল।" },
+      {
+        "en": "The explosion had a tremendous impact.",
+        "bn": "বিস্ফোরণের অসাধারণ প্রভাব ছিল।"
+      },
+      {
+        "en": "He grew at a tremendous speed.",
+        "bn": "সে অসাধারণ গতিতে বিকশিত হল।"
+      },
+      {
+        "en": "She achieved tremendous results.",
+        "bn": "সে অসাধারণ ফলাফল অর্জন করল।"
+      },
+      {
+        "en": "The storm caused tremendous damage.",
+        "bn": "ঝড় অসাধারণ ক্ষয়ক্ষতি করল।"
+      },
+      {
+        "en": "He had a tremendous talent for art.",
+        "bn": "শিল্পে তার অসাধারণ প্রতিভা ছিল।"
+      },
+      { "en": "The change was tremendous.", "bn": "পরিবর্তনটি অসাধারণ ছিল।" },
+      { "en": "She felt tremendous pride.", "bn": "সে অসাধারণ গর্ব অনুভব করল।" }
+    ],
+    "synonyms": ["enormous", "incredible", "huge", "outstanding", "remarkable"]
+  },
+  {
+    "base": "trust",
+    "phonetic": "trʌst",
+    "meaning": "বিশ্বাস / ভরসা",
+    "examples": [
+      {
+        "en": "She trusts him completely.",
+        "bn": "সে তাকে সম্পূর্ণ বিশ্বাস করে।"
+      },
+      {
+        "en": "Trust is the foundation of any relationship.",
+        "bn": "বিশ্বাস যেকোনো সম্পর্কের ভিত্তি।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He earned the trust of his team.",
+        "bn": "সে তার দলের বিশ্বাস অর্জন করল।"
+      },
+      {
+        "en": "Once broken, trust is hard to rebuild.",
+        "bn": "একবার ভাঙলে বিশ্বাস পুনরুদ্ধার করা কঠিন।"
+      },
+      {
+        "en": "She trusted her instincts.",
+        "bn": "সে তার প্রবৃত্তিকে বিশ্বাস করল।"
+      },
+      {
+        "en": "Children trust their parents.",
+        "bn": "শিশুরা তাদের বাবা-মাকে বিশ্বাস করে।"
+      },
+      {
+        "en": "He was trusted with important tasks.",
+        "bn": "তাকে গুরুত্বপূর্ণ কাজ দিয়ে বিশ্বাস করা হয়েছিল।"
+      },
+      {
+        "en": "She built trust slowly over time.",
+        "bn": "সে ধীরে ধীরে বিশ্বাস গড়ে তুলল।"
+      },
+      { "en": "Trust yourself.", "bn": "নিজেকে বিশ্বাস করো।" },
+      { "en": "He placed his trust in her.", "bn": "সে তার উপর আস্থা রাখল।" },
+      {
+        "en": "Trust is essential in leadership.",
+        "bn": "নেতৃত্বে বিশ্বাস অপরিহার্য।"
+      },
+      {
+        "en": "She never betrayed his trust.",
+        "bn": "সে কখনো তার বিশ্বাসের সাথে বিশ্বাসঘাতকতা করেনি।"
+      }
+    ],
+    "synonyms": ["confidence", "faith", "belief", "reliance", "credence"]
+  },
+  {
+    "base": "typical",
+    "phonetic": "ˈtɪpɪkl",
+    "meaning": "সাধারণ / স্বাভাবিক / বৈশিষ্ট্যসূচক",
+    "examples": [
+      { "en": "This is a typical example.", "bn": "এটি একটি সাধারণ উদাহরণ।" },
+      {
+        "en": "She has a typical morning routine.",
+        "bn": "তার একটি সাধারণ সকালের রুটিন আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He had a typical reaction.",
+        "bn": "তার একটি সাধারণ প্রতিক্রিয়া ছিল।"
+      },
+      { "en": "That is typical of him.", "bn": "এটা তার জন্য স্বাভাবিক।" },
+      {
+        "en": "The weather is typical for this season.",
+        "bn": "এই মৌসুমের জন্য আবহাওয়া স্বাভাবিক।"
+      },
+      {
+        "en": "She faced typical challenges.",
+        "bn": "সে সাধারণ চ্যালেঞ্জের মুখোমুখি হল।"
+      },
+      {
+        "en": "He gave a typical response.",
+        "bn": "সে একটি সাধারণ উত্তর দিল।"
+      },
+      {
+        "en": "This is typical behavior for teenagers.",
+        "bn": "কিশোরদের জন্য এটি সাধারণ আচরণ।"
+      },
+      { "en": "She wore a typical dress.", "bn": "সে একটি সাধারণ পোশাক পরল।" },
+      {
+        "en": "He lived a typical life.",
+        "bn": "সে একটি সাধারণ জীবন যাপন করল।"
+      },
+      {
+        "en": "Typical food here is spicy.",
+        "bn": "এখানকার সাধারণ খাবার মশলাদার।"
+      },
+      {
+        "en": "She showed typical signs of stress.",
+        "bn": "সে মানসিক চাপের সাধারণ লক্ষণ দেখাল।"
+      }
+    ],
+    "synonyms": ["normal", "usual", "standard", "ordinary", "representative"]
+  },
+  {
+    "base": "tackle",
+    "phonetic": "ˈtækl",
+    "meaning": "মোকাবেলা করা / মাঠে থামানো",
+    "examples": [
+      {
+        "en": "She tackled the problem head-on.",
+        "bn": "সে সরাসরি সমস্যার মোকাবেলা করল।"
+      },
+      {
+        "en": "He tackled the player in the match.",
+        "bn": "ম্যাচে সে খেলোয়াড়কে থামাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "They tackled climate change together.",
+        "bn": "তারা একসাথে জলবায়ু পরিবর্তন মোকাবেলা করল।"
+      },
+      {
+        "en": "She tackled her fear of heights.",
+        "bn": "সে উচ্চতার ভয় মোকাবেলা করল।"
+      },
+      {
+        "en": "He tackled the assignment early.",
+        "bn": "সে তাড়াতাড়ি কাজটির মোকাবেলা করল।"
+      },
+      {
+        "en": "The government tackled poverty.",
+        "bn": "সরকার দারিদ্র্য মোকাবেলা করল।"
+      },
+      {
+        "en": "She tackled the mess in her room.",
+        "bn": "সে তার ঘরের বিশৃঙ্খলা মোকাবেলা করল।"
+      },
+      {
+        "en": "He tackle each task with energy.",
+        "bn": "সে প্রতিটি কাজ শক্তি দিয়ে মোকাবেলা করল।"
+      },
+      {
+        "en": "She tackled the issue in the meeting.",
+        "bn": "সে সভায় বিষয়টির মোকাবেলা করল।"
+      },
+      { "en": "He was tackled to the ground.", "bn": "তাকে মাটিতে ফেলা হল।" },
+      {
+        "en": "They tackled the wildfire quickly.",
+        "bn": "তারা দ্রুত দাবানল মোকাবেলা করল।"
+      },
+      {
+        "en": "She tackled the question confidently.",
+        "bn": "সে আত্মবিশ্বাসের সাথে প্রশ্নের মোকাবেলা করল।"
+      }
+    ],
+    "synonyms": ["address", "confront", "handle", "deal with", "manage"]
+  },
+  {
+    "base": "tactics",
+    "phonetic": "ˈtæktɪks",
+    "meaning": "কৌশল / পরিকল্পনা",
+    "examples": [
+      {
+        "en": "The team used clever tactics.",
+        "bn": "দলটি চতুর কৌশল ব্যবহার করল।"
+      },
+      {
+        "en": "She changed her tactics mid-game.",
+        "bn": "সে খেলার মাঝপথে কৌশল পরিবর্তন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He studied military tactics.",
+        "bn": "সে সামরিক কৌশল অধ্যয়ন করল।"
+      },
+      {
+        "en": "Her tactics worked perfectly.",
+        "bn": "তার কৌশল নিখুঁতভাবে কাজ করল।"
+      },
+      {
+        "en": "They used delay tactics.",
+        "bn": "তারা বিলম্বের কৌশল ব্যবহার করল।"
+      },
+      {
+        "en": "He questioned their tactics.",
+        "bn": "সে তাদের কৌশল নিয়ে প্রশ্ন তুলল।"
+      },
+      {
+        "en": "She applied sales tactics effectively.",
+        "bn": "সে কার্যকরভাবে বিক্রয় কৌশল প্রয়োগ করল।"
+      },
+      {
+        "en": "The coach explained the tactics.",
+        "bn": "কোচ কৌশল ব্যাখ্যা করলেন।"
+      },
+      {
+        "en": "He used intimidation tactics.",
+        "bn": "সে ভয় দেখানোর কৌশল ব্যবহার করল।"
+      },
+      {
+        "en": "Her tactics surprised the opponent.",
+        "bn": "তার কৌশল প্রতিপক্ষকে অবাক করল।"
+      },
+      {
+        "en": "They revised their tactics after losing.",
+        "bn": "হারার পরে তারা কৌশল সংশোধন করল।"
+      },
+      {
+        "en": "Good tactics require careful planning.",
+        "bn": "ভালো কৌশলে সতর্ক পরিকল্পনা দরকার।"
+      }
+    ],
+    "synonyms": ["strategy", "approach", "plan", "method", "maneuver"]
+  },
+  {
+    "base": "tempt",
+    "phonetic": "tempt",
+    "meaning": "প্রলুব্ধ করা / প্রলোভন দেওয়া",
+    "examples": [
+      {
+        "en": "She was tempted by the offer.",
+        "bn": "অফারটিতে সে প্রলুব্ধ হল।"
+      },
+      {
+        "en": "He tempted her with chocolate.",
+        "bn": "সে তাকে চকলেট দিয়ে প্রলুব্ধ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Don't be tempted to cheat.",
+        "bn": "প্রতারণার প্রলোভনে পড়ো না।"
+      },
+      {
+        "en": "She tempted fate by rushing.",
+        "bn": "তাড়াহুড়ো করে সে ভাগ্যকে পরীক্ষা করল।"
+      },
+      {
+        "en": "He was tempted to give up.",
+        "bn": "সে ছেড়ে দেওয়ার প্রলোভনে পড়ল।"
+      },
+      {
+        "en": "The dessert tempted everyone.",
+        "bn": "ডেজার্টটি সবাইকে প্রলুব্ধ করল।"
+      },
+      {
+        "en": "She resisted the temptation.",
+        "bn": "সে প্রলোভন প্রতিরোধ করল।"
+      },
+      {
+        "en": "He was tempted to stay home.",
+        "bn": "সে বাড়িতে থাকার প্রলোভন অনুভব করল।"
+      },
+      {
+        "en": "The discount tempted many buyers.",
+        "bn": "ছাড়টি অনেক ক্রেতাকে প্রলুব্ধ করল।"
+      },
+      {
+        "en": "She was tempted by the easy way out.",
+        "bn": "সহজ পথে সে প্রলুব্ধ হল।"
+      },
+      {
+        "en": "He tempted her with promises.",
+        "bn": "প্রতিশ্রুতি দিয়ে সে তাকে প্রলুব্ধ করল।"
+      },
+      { "en": "She overcame temptation.", "bn": "সে প্রলোভন কাটিয়ে উঠল।" }
+    ],
+    "synonyms": ["lure", "attract", "entice", "seduce", "coax"]
+  },
+  {
+    "base": "tend",
+    "phonetic": "tend",
+    "meaning": "যত্ন নেওয়া / ঝোঁক থাকা",
+    "examples": [
+      {
+        "en": "She tends her garden every morning.",
+        "bn": "সে প্রতি সকালে তার বাগানের যত্ন নেয়।"
+      },
+      {
+        "en": "He tends to work late.",
+        "bn": "সে দেরি করে কাজ করার ঝোঁক রাখে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She tended the sick animal.",
+        "bn": "সে অসুস্থ প্রাণীর যত্ন নিল।"
+      },
+      {
+        "en": "He tends toward perfectionism.",
+        "bn": "সে পরিপূর্ণতার দিকে ঝোঁকে।"
+      },
+      {
+        "en": "She tends to be quiet in crowds.",
+        "bn": "ভিড়ে সে চুপ থাকার ঝোঁক রাখে।"
+      },
+      {
+        "en": "He tended the fire all night.",
+        "bn": "সে সারারাত আগুনের যত্ন নিল।"
+      },
+      {
+        "en": "Nurses tend to patients daily.",
+        "bn": "নার্সরা প্রতিদিন রোগীদের যত্ন নেন।"
+      },
+      { "en": "She tends to overthink.", "bn": "সে অতিরিক্ত ভাবার ঝোঁক রাখে।" },
+      {
+        "en": "He tended his wounds carefully.",
+        "bn": "সে সাবধানে তার ক্ষত পরিচর্যা করল।"
+      },
+      { "en": "She tends toward optimism.", "bn": "সে আশাবাদিতার দিকে ঝোঁকে।" },
+      { "en": "He tended the shop alone.", "bn": "সে একা দোকান পরিচালনা করল।" },
+      {
+        "en": "She tends to forget small details.",
+        "bn": "সে ছোট বিবরণ ভুলে যাওয়ার ঝোঁক রাখে।"
+      }
+    ],
+    "synonyms": ["care for", "look after", "incline", "nurture", "manage"]
+  },
+  {
+    "base": "thorough",
+    "phonetic": "ˈθʌrə",
+    "meaning": "পুঙ্খানুপুঙ্খ / সম্পূর্ণ",
+    "examples": [
+      {
+        "en": "She did a thorough job.",
+        "bn": "সে পুঙ্খানুপুঙ্খভাবে কাজ করল।"
+      },
+      {
+        "en": "He conducted a thorough investigation.",
+        "bn": "সে একটি পুঙ্খানুপুঙ্খ তদন্ত পরিচালনা করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A thorough checkup is recommended.",
+        "bn": "পুঙ্খানুপুঙ্খ স্বাস্থ্য পরীক্ষা করার পরামর্শ দেওয়া হচ্ছে।"
+      },
+      {
+        "en": "She was thorough in her research.",
+        "bn": "গবেষণায় সে পুঙ্খানুপুঙ্খ ছিল।"
+      },
+      {
+        "en": "He gave a thorough explanation.",
+        "bn": "সে একটি পুঙ্খানুপুঙ্খ ব্যাখ্যা দিল।"
+      },
+      {
+        "en": "Thorough preparation leads to success.",
+        "bn": "পুঙ্খানুপুঙ্খ প্রস্তুতি সাফল্যের দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "She gave the house a thorough cleaning.",
+        "bn": "সে ঘর পুঙ্খানুপুঙ্খভাবে পরিষ্কার করল।"
+      },
+      {
+        "en": "He was thorough in every task.",
+        "bn": "প্রতিটি কাজে সে পুঙ্খানুপুঙ্খ ছিল।"
+      },
+      {
+        "en": "A thorough review is needed.",
+        "bn": "পুঙ্খানুপুঙ্খ পর্যালোচনা দরকার।"
+      },
+      {
+        "en": "She conducted thorough checks.",
+        "bn": "সে পুঙ্খানুপুঙ্খ পরীক্ষা পরিচালনা করল।"
+      },
+      {
+        "en": "He is a thorough professional.",
+        "bn": "সে একজন পুঙ্খানুপুঙ্খ পেশাদার।"
+      },
+      {
+        "en": "The thorough audit revealed errors.",
+        "bn": "পুঙ্খানুপুঙ্খ নিরীক্ষা ত্রুটি উন্মোচন করল।"
+      }
+    ],
+    "synonyms": ["complete", "careful", "detailed", "exhaustive", "meticulous"]
+  },
+  {
+    "base": "tidy",
+    "phonetic": "ˈtaɪdi",
+    "meaning": "পরিপাটি / গোছানো",
+    "examples": [
+      { "en": "She keeps her desk tidy.", "bn": "সে তার ডেস্ক পরিপাটি রাখে।" },
+      {
+        "en": "He tidied the room before guests arrived.",
+        "bn": "অতিথি আসার আগে সে ঘর গোছাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A tidy workspace improves focus.",
+        "bn": "পরিপাটি কর্মক্ষেত্র মনোযোগ বাড়ায়।"
+      },
+      {
+        "en": "She tidied up after the party.",
+        "bn": "পার্টির পরে সে গুছিয়ে রাখল।"
+      },
+      { "en": "He has tidy handwriting.", "bn": "তার গোছানো হাতের লেখা আছে।" },
+      {
+        "en": "She keeps a tidy kitchen.",
+        "bn": "সে একটি পরিপাটি রান্নাঘর রাখে।"
+      },
+      {
+        "en": "The garden looked tidy after trimming.",
+        "bn": "ছাঁটার পরে বাগানটি পরিপাটি দেখাচ্ছিল।"
+      },
+      {
+        "en": "He tidied his bag before school.",
+        "bn": "স্কুলের আগে সে ব্যাগ গোছাল।"
+      },
+      { "en": "She is naturally tidy.", "bn": "সে স্বভাবতই পরিপাটি।" },
+      { "en": "He made a tidy profit.", "bn": "সে একটি সুন্দর লাভ করল।" },
+      { "en": "Tidy habits save time.", "bn": "পরিপাটি অভ্যাস সময় বাঁচায়।" },
+      {
+        "en": "She taught her kids to be tidy.",
+        "bn": "সে বাচ্চাদের পরিপাটি হতে শেখাল।"
+      }
+    ],
+    "synonyms": ["neat", "orderly", "clean", "organized", "well-kept"]
+  },
+  {
+    "base": "timid",
+    "phonetic": "ˈtɪmɪd",
+    "meaning": "ভীরু / লাজুক",
+    "examples": [
+      { "en": "She is timid in public.", "bn": "সে প্রকাশ্যে ভীরু।" },
+      {
+        "en": "The timid child hid behind his mother.",
+        "bn": "ভীরু শিশুটি মায়ের পেছনে লুকিয়ে পড়ল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He was too timid to speak up.",
+        "bn": "কথা বলার জন্য সে অনেক বেশি ভীরু ছিল।"
+      },
+      {
+        "en": "She overcame her timid nature.",
+        "bn": "সে তার ভীরু স্বভাব কাটিয়ে উঠল।"
+      },
+      {
+        "en": "The timid cat hid under the bed.",
+        "bn": "ভীরু বিড়ালটি বিছানার নিচে লুকিয়ে পড়ল।"
+      },
+      { "en": "He gave a timid smile.", "bn": "সে একটি লাজুক হাসি দিল।" },
+      {
+        "en": "She was timid at first but grew confident.",
+        "bn": "প্রথমে সে ভীরু ছিল কিন্তু আত্মবিশ্বাসী হয়ে উঠল।"
+      },
+      {
+        "en": "Timid people often miss opportunities.",
+        "bn": "ভীরু মানুষ প্রায়ই সুযোগ মিস করে।"
+      },
+      {
+        "en": "He answered in a timid voice.",
+        "bn": "সে ভীরু কণ্ঠে উত্তর দিল।"
+      },
+      {
+        "en": "She raised a timid but loving pet.",
+        "bn": "সে একটি ভীরু কিন্তু স্নেহময় পোষা প্রাণী মানুষ করল।"
+      },
+      {
+        "en": "The timid student avoided questions.",
+        "bn": "ভীরু শিক্ষার্থী প্রশ্ন এড়িয়ে চলল।"
+      },
+      {
+        "en": "He was timid around new people.",
+        "bn": "নতুন মানুষদের সামনে সে ভীরু ছিল।"
+      }
+    ],
+    "synonyms": ["shy", "fearful", "hesitant", "meek", "bashful"]
+  },
+  {
+    "base": "tolerate",
+    "phonetic": "ˈtɒləreɪt",
+    "meaning": "সহ্য করা / মেনে নেওয়া",
+    "examples": [
+      {
+        "en": "She can't tolerate rudeness.",
+        "bn": "সে অভদ্রতা সহ্য করতে পারে না।"
+      },
+      {
+        "en": "He tolerated the pain silently.",
+        "bn": "সে নীরবে ব্যথা সহ্য করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She tolerated his bad habits.",
+        "bn": "সে তার খারাপ অভ্যাস সহ্য করল।"
+      },
+      {
+        "en": "He doesn't tolerate dishonesty.",
+        "bn": "সে অসততা সহ্য করে না।"
+      },
+      {
+        "en": "They tolerated each other's differences.",
+        "bn": "তারা একে অপরের পার্থক্য মেনে নিল।"
+      },
+      {
+        "en": "She tolerated the cold weather.",
+        "bn": "সে ঠান্ডা আবহাওয়া সহ্য করল।"
+      },
+      {
+        "en": "He could not tolerate injustice.",
+        "bn": "সে অবিচার সহ্য করতে পারত না।"
+      },
+      {
+        "en": "She tolerated the delay patiently.",
+        "bn": "সে ধৈর্য সহকারে বিলম্ব সহ্য করল।"
+      },
+      {
+        "en": "The body tolerates certain medications.",
+        "bn": "শরীর নির্দিষ্ট ওষুধ সহ্য করে।"
+      },
+      {
+        "en": "He learned to tolerate criticism.",
+        "bn": "সে সমালোচনা সহ্য করতে শিখল।"
+      },
+      {
+        "en": "She tolerated the noise from outside.",
+        "bn": "সে বাইরের শোরগোল সহ্য করল।"
+      },
+      {
+        "en": "Children should tolerate differences.",
+        "bn": "শিশুদের পার্থক্য মেনে নিতে শেখা উচিত।"
+      }
+    ],
+    "synonyms": ["endure", "accept", "bear", "stand", "put up with"]
+  },
+  {
+    "base": "tone",
+    "phonetic": "təʊn",
+    "meaning": "সুর / ভাব / রঙের গাঢ়ত্ব",
+    "examples": [
+      { "en": "She spoke in a calm tone.", "bn": "সে শান্ত সুরে কথা বলল।" },
+      { "en": "His tone was serious.", "bn": "তার ভাব ছিল গম্ভীর।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He set the tone for the meeting.",
+        "bn": "সে সভার পরিবেশ তৈরি করল।"
+      },
+      {
+        "en": "She used a warm tone in her email.",
+        "bn": "সে ইমেইলে উষ্ণ ভাব ব্যবহার করল।"
+      },
+      {
+        "en": "The painting has earthy tones.",
+        "bn": "চিত্রকর্মটিতে মাটির রঙের ছায়া আছে।"
+      },
+      { "en": "His tone changed suddenly.", "bn": "তার সুর হঠাৎ পরিবর্তন হল।" },
+      { "en": "She toned down her anger.", "bn": "সে তার রাগ কমিয়ে আনল।" },
+      { "en": "The phone rang in a soft tone.", "bn": "ফোনটি নরম সুরে বাজল।" },
+      {
+        "en": "He used a professional tone in the letter.",
+        "bn": "সে চিঠিতে পেশাদার ভাব ব্যবহার করল।"
+      },
+      { "en": "Her tone was reassuring.", "bn": "তার ভাব আশ্বস্তকর ছিল।" },
+      {
+        "en": "The tone of the essay was formal.",
+        "bn": "প্রবন্ধের ভাব ছিল আনুষ্ঠানিক।"
+      },
+      {
+        "en": "She toned her muscles through yoga.",
+        "bn": "যোগব্যায়ামের মাধ্যমে সে মাংসপেশি মজবুত করল।"
+      }
+    ],
+    "synonyms": ["sound", "voice", "manner", "shade", "pitch"]
+  },
+  {
+    "base": "trace",
+    "phonetic": "treɪs",
+    "meaning": "সন্ধান করা / চিহ্ন অনুসরণ করা",
+    "examples": [
+      {
+        "en": "Police traced the suspect.",
+        "bn": "পুলিশ সন্দেহভাজনকে সন্ধান করল।"
+      },
+      {
+        "en": "She traced the drawing carefully.",
+        "bn": "সে সাবধানে চিত্রটি ট্রেস করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He traced his family history.",
+        "bn": "সে তার পারিবারিক ইতিহাস অনুসন্ধান করল।"
+      },
+      {
+        "en": "She found no trace of the letter.",
+        "bn": "সে চিঠির কোনো চিহ্ন পেল না।"
+      },
+      {
+        "en": "They traced the source of the problem.",
+        "bn": "তারা সমস্যার উৎস সন্ধান করল।"
+      },
+      {
+        "en": "He traced the route on the map.",
+        "bn": "সে মানচিত্রে পথ চিহ্নিত করল।"
+      },
+      {
+        "en": "She traced her steps back home.",
+        "bn": "সে পিছনের পথ ধরে বাড়ি ফিরল।"
+      },
+      {
+        "en": "There was not a trace of guilt.",
+        "bn": "অপরাধবোধের কোনো চিহ্ন ছিল না।"
+      },
+      {
+        "en": "He traced the outline of the map.",
+        "bn": "সে মানচিত্রের রেখা অনুসরণ করল।"
+      },
+      {
+        "en": "She traced the smell to the kitchen.",
+        "bn": "সে রান্নাঘরে গন্ধের উৎস সন্ধান করল।"
+      },
+      {
+        "en": "He traced a pattern in the sand.",
+        "bn": "সে বালিতে একটি নকশা আঁকল।"
+      },
+      {
+        "en": "She traced the error in the code.",
+        "bn": "সে কোডে ত্রুটির সন্ধান করল।"
+      }
+    ],
+    "synonyms": ["track", "follow", "detect", "outline", "discover"]
+  },
+  {
+    "base": "tragic",
+    "phonetic": "ˈtrædʒɪk",
+    "meaning": "করুণ / বেদনাদায়ক",
+    "examples": [
+      { "en": "The accident was tragic.", "bn": "দুর্ঘটনাটি করুণ ছিল।" },
+      { "en": "She told a tragic story.", "bn": "সে একটি করুণ গল্প বলল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He died in a tragic accident.",
+        "bn": "সে একটি করুণ দুর্ঘটনায় মারা গেল।"
+      },
+      {
+        "en": "The film had a tragic ending.",
+        "bn": "চলচ্চিত্রটির করুণ সমাপ্তি ছিল।"
+      },
+      {
+        "en": "She survived a tragic event.",
+        "bn": "সে একটি করুণ ঘটনা থেকে বেঁচে গেল।"
+      },
+      { "en": "The news was truly tragic.", "bn": "সংবাদটি সত্যিই করুণ ছিল।" },
+      {
+        "en": "Hamlet is a tragic play.",
+        "bn": "হ্যামলেট একটি বিষাদময় নাটক।"
+      },
+      { "en": "He met a tragic fate.", "bn": "তার করুণ পরিণতি হল।" },
+      {
+        "en": "She mourned the tragic loss.",
+        "bn": "সে করুণ ক্ষতিতে শোক করল।"
+      },
+      {
+        "en": "The tragic hero sacrificed himself.",
+        "bn": "করুণ নায়ক নিজেকে উৎসর্গ করল।"
+      },
+      {
+        "en": "It would be tragic to fail now.",
+        "bn": "এখন ব্যর্থ হলে করুণ হবে।"
+      },
+      {
+        "en": "The community grieved the tragic death.",
+        "bn": "সম্প্রদায়টি করুণ মৃত্যুতে শোক করল।"
+      }
+    ],
+    "synonyms": [
+      "sad",
+      "sorrowful",
+      "devastating",
+      "heartbreaking",
+      "catastrophic"
+    ]
+  },
+  {
+    "base": "transfer",
+    "phonetic": "trænsˈfɜː",
+    "meaning": "স্থানান্তর করা / হস্তান্তর করা",
+    "examples": [
+      {
+        "en": "She transferred money to his account.",
+        "bn": "সে তার অ্যাকাউন্টে টাকা স্থানান্তর করল।"
+      },
+      {
+        "en": "He was transferred to another department.",
+        "bn": "তাকে অন্য বিভাগে স্থানান্তরিত করা হল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She transferred her skills to the new job.",
+        "bn": "সে নতুন চাকরিতে তার দক্ষতা হস্তান্তর করল।"
+      },
+      {
+        "en": "He transferred to a new school.",
+        "bn": "সে নতুন স্কুলে স্থানান্তরিত হল।"
+      },
+      {
+        "en": "The data was transferred successfully.",
+        "bn": "তথ্য সফলভাবে স্থানান্তরিত হল।"
+      },
+      {
+        "en": "She transferred responsibility to her colleague.",
+        "bn": "সে সহকর্মীর কাছে দায়িত্ব হস্তান্তর করল।"
+      },
+      {
+        "en": "He arranged the property transfer.",
+        "bn": "সে সম্পত্তি হস্তান্তরের ব্যবস্থা করল।"
+      },
+      {
+        "en": "She requested a job transfer.",
+        "bn": "সে চাকরি বদলির অনুরোধ করল।"
+      },
+      {
+        "en": "He transferred files to the cloud.",
+        "bn": "সে ফাইলগুলো ক্লাউডে স্থানান্তর করল।"
+      },
+      {
+        "en": "The player was transferred to another club.",
+        "bn": "খেলোয়াড়কে অন্য ক্লাবে স্থানান্তর করা হল।"
+      },
+      {
+        "en": "She transferred her love of reading.",
+        "bn": "সে পড়ার প্রতি ভালোবাসা হস্তান্তর করল।"
+      },
+      {
+        "en": "He transferred knowledge to the next generation.",
+        "bn": "সে পরবর্তী প্রজন্মে জ্ঞান হস্তান্তর করল।"
+      }
+    ],
+    "synonyms": ["move", "shift", "relocate", "convey", "hand over"]
+  },
+  {
+    "base": "trial",
+    "phonetic": "ˈtraɪəl",
+    "meaning": "বিচার / পরীক্ষা / প্রচেষ্টা",
+    "examples": [
+      {
+        "en": "The trial lasted three weeks.",
+        "bn": "বিচারটি তিন সপ্তাহ স্থায়ী হল।"
+      },
+      {
+        "en": "She went through many trials.",
+        "bn": "সে অনেক পরীক্ষার মধ্য দিয়ে গেল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He was put on trial.", "bn": "তাকে বিচারের আওতায় আনা হল।" },
+      {
+        "en": "She completed a trial run.",
+        "bn": "সে একটি পরীক্ষামূলক দৌড় সম্পন্ন করল।"
+      },
+      {
+        "en": "The drug went through clinical trials.",
+        "bn": "ওষুধটি ক্লিনিক্যাল ট্রায়ালের মধ্য দিয়ে গেল।"
+      },
+      { "en": "He won the trial by jury.", "bn": "সে জুরি বিচারে জিতল।" },
+      {
+        "en": "She faced many trials in life.",
+        "bn": "জীবনে সে অনেক পরীক্ষার মুখোমুখি হল।"
+      },
+      {
+        "en": "The product is on a free trial.",
+        "bn": "পণ্যটি বিনামূল্যে পরীক্ষামূলকভাবে পাওয়া যাচ্ছে।"
+      },
+      {
+        "en": "He learned through trial and error.",
+        "bn": "সে পরীক্ষা-নিরীক্ষার মাধ্যমে শিখল।"
+      },
+      {
+        "en": "The trial proved his innocence.",
+        "bn": "বিচার তার নির্দোষত্ব প্রমাণ করল।"
+      },
+      {
+        "en": "She attended the trial as a witness.",
+        "bn": "সে সাক্ষী হিসেবে বিচারে অংশ নিল।"
+      },
+      {
+        "en": "Trials shape our character.",
+        "bn": "পরীক্ষাগুলো আমাদের চরিত্র গড়ে দেয়।"
+      }
+    ],
+    "synonyms": ["hearing", "test", "attempt", "ordeal", "experiment"]
+  },
+  {
+    "base": "trigger",
+    "phonetic": "ˈtrɪɡər",
+    "meaning": "সূত্রপাত করা / ট্রিগার",
+    "examples": [
+      { "en": "The news triggered panic.", "bn": "সংবাদটি আতঙ্ক সৃষ্টি করল।" },
+      { "en": "He pulled the trigger.", "bn": "সে ট্রিগার টানল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "Stress can trigger headaches.",
+        "bn": "মানসিক চাপ মাথাব্যথার সূত্রপাত করতে পারে।"
+      },
+      {
+        "en": "She triggered an alarm by accident.",
+        "bn": "সে ভুলে একটি অ্যালার্ম চালু করল।"
+      },
+      {
+        "en": "The comment triggered a debate.",
+        "bn": "মন্তব্যটি একটি বিতর্কের সূত্রপাত করল।"
+      },
+      {
+        "en": "He identified his emotional triggers.",
+        "bn": "সে তার মানসিক ট্রিগারগুলো চিহ্নিত করল।"
+      },
+      {
+        "en": "The incident triggered protests.",
+        "bn": "ঘটনাটি প্রতিবাদের সূত্রপাত করল।"
+      },
+      {
+        "en": "She triggered a response from the crowd.",
+        "bn": "সে ভিড় থেকে একটি সাড়া জাগাল।"
+      },
+      {
+        "en": "Loud sounds trigger his anxiety.",
+        "bn": "তীব্র শব্দ তার উদ্বেগ সৃষ্টি করে।"
+      },
+      { "en": "He triggered the mechanism.", "bn": "সে কলকাঠিটি চালু করল।" },
+      {
+        "en": "The photo triggered happy memories.",
+        "bn": "ছবিটি সুখের স্মৃতি জাগিয়ে তুলল।"
+      },
+      {
+        "en": "Certain foods trigger allergies.",
+        "bn": "নির্দিষ্ট খাবার এলার্জির সূত্রপাত করে।"
+      }
+    ],
+    "synonyms": ["cause", "spark", "activate", "prompt", "initiate"]
+  },
+  {
+    "base": "triumph",
+    "phonetic": "ˈtraɪəmf",
+    "meaning": "বিজয় / জয়",
+    "examples": [
+      { "en": "She celebrated her triumph.", "bn": "সে তার বিজয় উদযাপন করল।" },
+      {
+        "en": "He triumphed over adversity.",
+        "bn": "সে প্রতিকূলতার উপর জয়ী হল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The team's triumph was well-deserved.",
+        "bn": "দলের বিজয় সুপ্রাপ্য ছিল।"
+      },
+      {
+        "en": "She experienced the triumph of hard work.",
+        "bn": "সে কঠোর পরিশ্রমের বিজয় অনুভব করল।"
+      },
+      {
+        "en": "His triumph inspired others.",
+        "bn": "তার বিজয় অন্যদের অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "She triumphed in her career.",
+        "bn": "ক্যারিয়ারে সে বিজয়ী হল।"
+      },
+      {
+        "en": "The triumph of justice was celebrated.",
+        "bn": "ন্যায়বিচারের বিজয় উদযাপিত হল।"
+      },
+      { "en": "He felt a sense of triumph.", "bn": "সে বিজয়ের অনুভূতি পেল।" },
+      {
+        "en": "Her triumph over illness was amazing.",
+        "bn": "অসুস্থতার উপর তার বিজয় অসাধারণ ছিল।"
+      },
+      {
+        "en": "The book describes his triumph.",
+        "bn": "বইটি তার বিজয় বর্ণনা করে।"
+      },
+      {
+        "en": "She shared her triumph with family.",
+        "bn": "সে পরিবারের সাথে তার বিজয় ভাগ করে নিল।"
+      },
+      { "en": "He raised his hands in triumph.", "bn": "বিজয়ে সে হাত তুলল।" }
+    ],
+    "synonyms": ["victory", "success", "win", "achievement", "conquest"]
+  },
+  {
+    "base": "turbulent",
+    "phonetic": "ˈtɜːbjʊlənt",
+    "meaning": "অশান্ত / উত্তাল",
+    "examples": [
+      {
+        "en": "The turbulent sea scared the sailors.",
+        "bn": "উত্তাল সমুদ্র নাবিকদের ভয় দেখাল।"
+      },
+      {
+        "en": "She survived a turbulent childhood.",
+        "bn": "সে একটি অশান্ত শৈশব থেকে বেঁচে উঠল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He managed through turbulent times.",
+        "bn": "সে অশান্ত সময়ের মধ্যে দিয়ে পরিচালনা করল।"
+      },
+      {
+        "en": "The plane encountered turbulent weather.",
+        "bn": "বিমানটি উত্তাল আবহাওয়ার সম্মুখীন হল।"
+      },
+      {
+        "en": "She led the company through turbulent years.",
+        "bn": "সে অশান্ত বছরগুলোয় কোম্পানিকে পরিচালনা করল।"
+      },
+      {
+        "en": "The turbulent river was dangerous.",
+        "bn": "উত্তাল নদী বিপজ্জনক ছিল।"
+      },
+      {
+        "en": "He experienced a turbulent relationship.",
+        "bn": "সে একটি অশান্ত সম্পর্ক অনুভব করল।"
+      },
+      {
+        "en": "Turbulent markets worried investors.",
+        "bn": "উত্তাল বাজার বিনিয়োগকারীদের চিন্তিত করল।"
+      },
+      {
+        "en": "The turbulent wind shook the trees.",
+        "bn": "উত্তাল বাতাস গাছগুলো কাঁপাল।"
+      },
+      {
+        "en": "She stayed calm during turbulent times.",
+        "bn": "অশান্ত সময়ে সে শান্ত থাকল।"
+      },
+      {
+        "en": "He survived the turbulent history.",
+        "bn": "সে উত্তাল ইতিহাস থেকে বেঁচে উঠল।"
+      },
+      {
+        "en": "The turbulent decade changed everything.",
+        "bn": "অশান্ত দশকটি সবকিছু বদলে দিল।"
+      }
+    ],
+    "synonyms": ["stormy", "chaotic", "rough", "unstable", "agitated"]
+  },
+  {
+    "base": "unique",
+    "phonetic": "juːˈniːk",
+    "meaning": "অনন্য / অতুলনীয়",
+    "examples": [
+      { "en": "She has a unique style.", "bn": "তার একটি অনন্য ধরন আছে।" },
+      { "en": "Every person is unique.", "bn": "প্রতিটি মানুষ অনন্য।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He created a unique design.",
+        "bn": "সে একটি অনন্য নকশা তৈরি করল।"
+      },
+      {
+        "en": "The experience was truly unique.",
+        "bn": "অভিজ্ঞতাটি সত্যিই অনন্য ছিল।"
+      },
+      { "en": "She had a unique voice.", "bn": "তার একটি অনন্য কণ্ঠস্বর ছিল।" },
+      {
+        "en": "The city has a unique culture.",
+        "bn": "শহরটির একটি অনন্য সংস্কৃতি আছে।"
+      },
+      {
+        "en": "He offered a unique perspective.",
+        "bn": "সে একটি অনন্য দৃষ্টিভঙ্গি উপস্থাপন করল।"
+      },
+      { "en": "This is a unique opportunity.", "bn": "এটি একটি অনন্য সুযোগ।" },
+      { "en": "She wore a unique costume.", "bn": "সে একটি অনন্য পোশাক পরল।" },
+      { "en": "Each snowflake is unique.", "bn": "প্রতিটি তুষারকণা অনন্য।" },
+      {
+        "en": "He solved it in a unique way.",
+        "bn": "সে এটি অনন্যভাবে সমাধান করল।"
+      },
+      {
+        "en": "Her unique talent amazed everyone.",
+        "bn": "তার অনন্য প্রতিভা সবাইকে অবাক করল।"
+      }
+    ],
+    "synonyms": ["original", "distinct", "rare", "one-of-a-kind", "exceptional"]
+  },
+  {
+    "base": "timeless",
+    "phonetic": "ˈtaɪmləs",
+    "meaning": "চিরন্তন / কালজয়ী",
+    "examples": [
+      { "en": "Her beauty is timeless.", "bn": "তার সৌন্দর্য কালজয়ী।" },
+      {
+        "en": "The song became a timeless classic.",
+        "bn": "গানটি একটি চিরন্তন ক্লাসিক হয়ে উঠল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "He wrote timeless poetry.", "bn": "সে চিরন্তন কবিতা লিখল।" },
+      { "en": "Good values are timeless.", "bn": "ভালো মূল্যবোধ চিরন্তন।" },
+      {
+        "en": "She wore a timeless dress.",
+        "bn": "সে একটি কালজয়ী পোশাক পরল।"
+      },
+      {
+        "en": "The advice was timeless wisdom.",
+        "bn": "পরামর্শটি ছিল চিরন্তন জ্ঞান।"
+      },
+      { "en": "His work remains timeless.", "bn": "তার কাজ চিরন্তন থাকে।" },
+      {
+        "en": "Kindness is a timeless virtue.",
+        "bn": "দয়া একটি চিরন্তন গুণ।"
+      },
+      {
+        "en": "The film is a timeless masterpiece.",
+        "bn": "চলচ্চিত্রটি একটি চিরন্তন মাস্টারপিস।"
+      },
+      {
+        "en": "She had a timeless charm.",
+        "bn": "তার একটি কালজয়ী মোহনীয়তা ছিল।"
+      },
+      {
+        "en": "The design is clean and timeless.",
+        "bn": "ডিজাইনটি পরিষ্কার এবং কালজয়ী।"
+      },
+      { "en": "He created timeless art.", "bn": "সে চিরন্তন শিল্প তৈরি করল।" }
+    ],
+    "synonyms": ["eternal", "enduring", "ageless", "everlasting", "classic"]
+  },
+  {
+    "base": "tangible",
+    "phonetic": "ˈtændʒɪbl",
+    "meaning": "বাস্তব / স্পর্শযোগ্য",
+    "examples": [
+      { "en": "She wanted tangible results.", "bn": "সে বাস্তব ফলাফল চাইল।" },
+      { "en": "He showed tangible proof.", "bn": "সে বাস্তব প্রমাণ দেখাল।" }
+    ],
+    "moreexample": [
+      { "en": "The improvement was tangible.", "bn": "উন্নতিটি বাস্তব ছিল।" },
+      {
+        "en": "She needed tangible support.",
+        "bn": "তার বাস্তব সহায়তা দরকার ছিল।"
+      },
+      {
+        "en": "He produced tangible outcomes.",
+        "bn": "সে বাস্তব ফলাফল উৎপন্ন করল।"
+      },
+      { "en": "The benefits are tangible.", "bn": "সুবিধাগুলো বাস্তব।" },
+      {
+        "en": "She valued tangible progress.",
+        "bn": "সে বাস্তব অগ্রগতি মূল্যায়ন করল।"
+      },
+      {
+        "en": "He experienced tangible changes.",
+        "bn": "সে বাস্তব পরিবর্তন অনুভব করল।"
+      },
+      {
+        "en": "The tangible evidence sealed the case.",
+        "bn": "বাস্তব প্রমাণ মামলাটি মীমাংসা করল।"
+      },
+      { "en": "She sought tangible goals.", "bn": "সে বাস্তব লক্ষ্য খুঁজল।" },
+      {
+        "en": "The results are tangible and measurable.",
+        "bn": "ফলাফলগুলো বাস্তব এবং পরিমাপযোগ্য।"
+      },
+      { "en": "He offered tangible help.", "bn": "সে বাস্তব সাহায্য দিল।" }
+    ],
+    "synonyms": ["real", "concrete", "physical", "actual", "measurable"]
+  },
+  {
+    "base": "temper",
+    "phonetic": "ˈtempər",
+    "meaning": "মেজাজ / রাগ নিয়ন্ত্রণ",
+    "examples": [
+      { "en": "He lost his temper quickly.", "bn": "সে দ্রুত মেজাজ হারাল।" },
+      { "en": "She has a calm temper.", "bn": "তার শান্ত মেজাজ আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He tried to control his temper.",
+        "bn": "সে তার রাগ নিয়ন্ত্রণের চেষ্টা করল।"
+      },
+      {
+        "en": "She tempered her response with kindness.",
+        "bn": "সে দয়া দিয়ে তার প্রতিক্রিয়া নিয়ন্ত্রণ করল।"
+      },
+      {
+        "en": "His temper scared people away.",
+        "bn": "তার মেজাজ মানুষকে দূরে সরিয়ে দিল।"
+      },
+      { "en": "She has a fiery temper.", "bn": "তার উগ্র মেজাজ আছে।" },
+      {
+        "en": "He tempered the steel carefully.",
+        "bn": "সে সাবধানে ইস্পাত শক্ত করল।"
+      },
+      {
+        "en": "She managed her temper in meetings.",
+        "bn": "সে সভায় তার মেজাজ নিয়ন্ত্রণ করল।"
+      },
+      {
+        "en": "His temper improved with age.",
+        "bn": "বয়সের সাথে তার মেজাজ উন্নত হল।"
+      },
+      {
+        "en": "She showed no temper during the argument.",
+        "bn": "তর্কের সময় সে কোনো রাগ দেখাল না।"
+      },
+      { "en": "He flew into a temper.", "bn": "সে মেজাজ হারাল।" },
+      {
+        "en": "She tempered enthusiasm with caution.",
+        "bn": "সে সতর্কতা দিয়ে উৎসাহ নিয়ন্ত্রণ করল।"
+      }
+    ],
+    "synonyms": ["mood", "disposition", "anger", "character", "moderate"]
+  },
+  {
+    "base": "temporary",
+    "phonetic": "ˈtemprəri",
+    "meaning": "অস্থায়ী / সাময়িক",
+    "examples": [
+      {
+        "en": "This is a temporary solution.",
+        "bn": "এটি একটি অস্থায়ী সমাধান।"
+      },
+      { "en": "She took a temporary job.", "bn": "সে একটি অস্থায়ী চাকরি নিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He moved into temporary accommodation.",
+        "bn": "সে অস্থায়ী বাসস্থানে চলে গেল।"
+      },
+      {
+        "en": "The pain was only temporary.",
+        "bn": "ব্যথাটি শুধুমাত্র সাময়িক ছিল।"
+      },
+      {
+        "en": "She has a temporary contract.",
+        "bn": "তার একটি অস্থায়ী চুক্তি আছে।"
+      },
+      {
+        "en": "Temporary setbacks are normal.",
+        "bn": "সাময়িক বাধা স্বাভাবিক।"
+      },
+      {
+        "en": "He set up a temporary shelter.",
+        "bn": "সে একটি অস্থায়ী আশ্রয় স্থাপন করল।"
+      },
+      {
+        "en": "The fix is only temporary.",
+        "bn": "সমাধানটি শুধুমাত্র অস্থায়ী।"
+      },
+      {
+        "en": "She used a temporary ID.",
+        "bn": "সে একটি অস্থায়ী পরিচয়পত্র ব্যবহার করল।"
+      },
+      {
+        "en": "He relied on a temporary fix.",
+        "bn": "সে অস্থায়ী সমাধানের উপর নির্ভর করল।"
+      },
+      {
+        "en": "The job was temporary but paid well.",
+        "bn": "চাকরিটি অস্থায়ী ছিল কিন্তু ভালো বেতন ছিল।"
+      },
+      { "en": "She found temporary relief.", "bn": "সে সাময়িক স্বস্তি পেল।" }
+    ],
+    "synonyms": ["short-term", "provisional", "interim", "transient", "brief"]
+  },
+  {
+    "base": "thankful",
+    "phonetic": "ˈθæŋkfl",
+    "meaning": "কৃতজ্ঞ / ধন্যবাদী",
+    "examples": [
+      {
+        "en": "She was thankful for the help.",
+        "bn": "সাহায্যের জন্য সে কৃতজ্ঞ ছিল।"
+      },
+      {
+        "en": "He felt thankful to be alive.",
+        "bn": "বেঁচে থাকার জন্য সে কৃতজ্ঞ অনুভব করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Be thankful for what you have.",
+        "bn": "তোমার যা আছে তার জন্য কৃতজ্ঞ হও।"
+      },
+      {
+        "en": "She was thankful for the opportunity.",
+        "bn": "সুযোগের জন্য সে কৃতজ্ঞ ছিল।"
+      },
+      {
+        "en": "He was thankful to his mentor.",
+        "bn": "তার পরামর্শদাতার প্রতি সে কৃতজ্ঞ ছিল।"
+      },
+      {
+        "en": "She expressed her thankful heart.",
+        "bn": "সে তার কৃতজ্ঞ হৃদয় প্রকাশ করল।"
+      },
+      {
+        "en": "Being thankful improves happiness.",
+        "bn": "কৃতজ্ঞ হওয়া সুখ উন্নত করে।"
+      },
+      {
+        "en": "He was thankful for small blessings.",
+        "bn": "ছোট আশীর্বাদের জন্য সে কৃতজ্ঞ ছিল।"
+      },
+      {
+        "en": "She kept a thankful journal.",
+        "bn": "সে একটি কৃতজ্ঞতার ডায়েরি রাখত।"
+      },
+      {
+        "en": "I am thankful for your support.",
+        "bn": "তোমার সহায়তার জন্য আমি কৃতজ্ঞ।"
+      },
+      {
+        "en": "He remained thankful in hard times.",
+        "bn": "কঠিন সময়েও সে কৃতজ্ঞ ছিল।"
+      },
+      { "en": "She was thankful to God.", "bn": "সে ঈশ্বরের প্রতি কৃতজ্ঞ ছিল।" }
+    ],
+    "synonyms": ["grateful", "appreciative", "obliged", "blessed", "indebted"]
+  },
+  {
+    "base": "thorough",
+    "phonetic": "ˈθʌrə",
+    "meaning": "যত্নশীল / নিখুঁত",
+    "examples": [
+      { "en": "She is thorough in everything.", "bn": "সে সবকিছুতে যত্নশীল।" },
+      {
+        "en": "He gave a thorough analysis.",
+        "bn": "সে একটি নিখুঁত বিশ্লেষণ দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A thorough doctor checks everything.",
+        "bn": "একজন যত্নশীল ডাক্তার সবকিছু পরীক্ষা করেন।"
+      },
+      { "en": "She is thorough in her work.", "bn": "কাজে সে যত্নশীল।" },
+      {
+        "en": "He gave a thorough report.",
+        "bn": "সে একটি নিখুঁত প্রতিবেদন দিল।"
+      },
+      {
+        "en": "Thorough training makes better workers.",
+        "bn": "নিখুঁত প্রশিক্ষণ ভালো কর্মী তৈরি করে।"
+      },
+      {
+        "en": "She had a thorough understanding.",
+        "bn": "তার একটি পুঙ্খানুপুঙ্খ বোঝাপড়া ছিল।"
+      },
+      {
+        "en": "He was thorough in planning.",
+        "bn": "পরিকল্পনায় সে যত্নশীল ছিল।"
+      },
+      {
+        "en": "A thorough study takes time.",
+        "bn": "নিখুঁত অধ্যয়নে সময় লাগে।"
+      },
+      {
+        "en": "She made a thorough list.",
+        "bn": "সে একটি নিখুঁত তালিকা তৈরি করল।"
+      },
+      {
+        "en": "He applied thorough thinking.",
+        "bn": "সে নিখুঁত চিন্তা প্রয়োগ করল।"
+      },
+      {
+        "en": "Be thorough in whatever you do.",
+        "bn": "তুমি যা করো তাতে যত্নশীল হও।"
+      }
+    ],
+    "synonyms": ["careful", "complete", "exhaustive", "precise", "diligent"]
+  },
+  {
+    "base": "thoughtful",
+    "phonetic": "ˈθɔːtfl",
+    "meaning": "চিন্তাশীল / বিবেচনাপূর্ণ",
+    "examples": [
+      {
+        "en": "She gave him a thoughtful gift.",
+        "bn": "সে তাকে একটি বিবেচনাপূর্ণ উপহার দিল।"
+      },
+      {
+        "en": "He was thoughtful before answering.",
+        "bn": "উত্তর দেওয়ার আগে সে চিন্তাশীল ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She made a thoughtful decision.",
+        "bn": "সে একটি বিবেচনাপূর্ণ সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "He is always thoughtful of others.",
+        "bn": "সে সবসময় অন্যদের কথা ভাবে।"
+      },
+      {
+        "en": "She gave a thoughtful reply.",
+        "bn": "সে একটি বিবেচনাপূর্ণ উত্তর দিল।"
+      },
+      {
+        "en": "He wrote a thoughtful letter.",
+        "bn": "সে একটি চিন্তাশীল চিঠি লিখল।"
+      },
+      {
+        "en": "The gesture was thoughtful.",
+        "bn": "ভঙ্গিটি ছিল বিবেচনাপূর্ণ।"
+      },
+      {
+        "en": "She sat in thoughtful silence.",
+        "bn": "সে চিন্তাশীল নীরবতায় বসে থাকল।"
+      },
+      {
+        "en": "He was thoughtful about his impact.",
+        "bn": "তার প্রভাব সম্পর্কে সে চিন্তাশীল ছিল।"
+      },
+      {
+        "en": "Thoughtful leaders listen carefully.",
+        "bn": "চিন্তাশীল নেতারা মনোযোগ দিয়ে শোনেন।"
+      },
+      {
+        "en": "She appreciated his thoughtful approach.",
+        "bn": "তার বিবেচনাপূর্ণ পদ্ধতি সে প্রশংসা করল।"
+      },
+      {
+        "en": "He was known for being thoughtful.",
+        "bn": "চিন্তাশীল হওয়ার জন্য সে পরিচিত ছিল।"
+      }
+    ],
+    "synonyms": [
+      "considerate",
+      "reflective",
+      "attentive",
+      "caring",
+      "contemplative"
+    ]
+  },
+  {
+    "base": "tolerance",
+    "phonetic": "ˈtɒlərəns",
+    "meaning": "ধৈর্যশীলতা / সহনশক্তি",
+    "examples": [
+      {
+        "en": "She showed great tolerance for diversity.",
+        "bn": "সে বৈচিত্র্যের প্রতি অনেক সহনশীলতা দেখাল।"
+      },
+      {
+        "en": "His tolerance impressed everyone.",
+        "bn": "তার ধৈর্যশীলতা সবাইকে মুগ্ধ করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Building tolerance takes practice.",
+        "bn": "সহনশীলতা গড়তে অনুশীলন লাগে।"
+      },
+      {
+        "en": "She practiced tolerance at school.",
+        "bn": "সে স্কুলে সহনশীলতা চর্চা করল।"
+      },
+      {
+        "en": "He has tolerance for long work hours.",
+        "bn": "দীর্ঘ কাজের সময়ের প্রতি তার সহনশক্তি আছে।"
+      },
+      {
+        "en": "Cultural tolerance reduces conflict.",
+        "bn": "সাংস্কৃতিক সহনশীলতা দ্বন্দ্ব কমায়।"
+      },
+      {
+        "en": "She built tolerance over years.",
+        "bn": "বছরের পর বছর ধরে সে সহনশীলতা গড়ে তুলল।"
+      },
+      {
+        "en": "He teaches tolerance at work.",
+        "bn": "সে কর্মক্ষেত্রে সহনশীলতা শেখায়।"
+      },
+      {
+        "en": "Tolerance is a sign of strength.",
+        "bn": "সহনশীলতা শক্তির লক্ষণ।"
+      },
+      {
+        "en": "She showed zero tolerance for abuse.",
+        "bn": "নির্যাতনের প্রতি সে শূন্য সহনশীলতা দেখাল।"
+      },
+      {
+        "en": "His tolerance helped the team succeed.",
+        "bn": "তার সহনশীলতা দলকে সফল হতে সাহায্য করল।"
+      },
+      {
+        "en": "Tolerance and respect go together.",
+        "bn": "সহনশীলতা এবং সম্মান একসাথে চলে।"
+      }
+    ],
+    "synonyms": [
+      "endurance",
+      "patience",
+      "acceptance",
+      "resilience",
+      "understanding"
+    ]
+  },
+  {
+    "base": "track",
+    "phonetic": "træk",
+    "meaning": "ট্র্যাক করা / অনুসরণ করা / পথ",
+    "examples": [
+      {
+        "en": "She tracked his location.",
+        "bn": "সে তার অবস্থান ট্র্যাক করল।"
+      },
+      { "en": "He ran on the track.", "bn": "সে ট্র্যাকে দৌড়াল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "They tracked the missing person.",
+        "bn": "তারা নিখোঁজ ব্যক্তিকে ট্র্যাক করল।"
+      },
+      {
+        "en": "She tracked her progress daily.",
+        "bn": "সে প্রতিদিন তার অগ্রগতি ট্র্যাক করত।"
+      },
+      { "en": "He kept track of expenses.", "bn": "সে খরচের হিসাব রাখল।" },
+      { "en": "The dog tracked the scent.", "bn": "কুকুরটি গন্ধ অনুসরণ করল।" },
+      {
+        "en": "She played music on the track.",
+        "bn": "সে ট্র্যাকে সঙ্গীত বাজাল।"
+      },
+      {
+        "en": "He got off track with his plan.",
+        "bn": "সে পরিকল্পনা থেকে বিচ্যুত হল।"
+      },
+      { "en": "She is back on track.", "bn": "সে আবার সঠিক পথে আছে।" },
+      {
+        "en": "He tracked the shipment online.",
+        "bn": "সে অনলাইনে শিপমেন্ট ট্র্যাক করল।"
+      },
+      { "en": "The train stayed on its track.", "bn": "ট্রেন তার পথে থাকল।" },
+      {
+        "en": "She tracked the data carefully.",
+        "bn": "সে সাবধানে তথ্য ট্র্যাক করল।"
+      }
+    ],
+    "synonyms": ["follow", "trace", "monitor", "path", "trail"]
+  },
+  {
+    "base": "tribute",
+    "phonetic": "ˈtrɪbjuːt",
+    "meaning": "শ্রদ্ধাঞ্জলি / সম্মান",
+    "examples": [
+      {
+        "en": "She paid tribute to her teacher.",
+        "bn": "সে তার শিক্ষককে শ্রদ্ধাঞ্জলি জানাল।"
+      },
+      {
+        "en": "The concert was a tribute to the legend.",
+        "bn": "কনসার্টটি কিংবদন্তিকে শ্রদ্ধাঞ্জলি ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He paid tribute to the fallen soldiers.",
+        "bn": "সে শহীদ সৈনিকদের শ্রদ্ধাঞ্জলি জানাল।"
+      },
+      {
+        "en": "She dedicated the book as a tribute.",
+        "bn": "সে বইটি শ্রদ্ধাঞ্জলি হিসেবে উৎসর্গ করল।"
+      },
+      {
+        "en": "The film was a tribute to his life.",
+        "bn": "চলচ্চিত্রটি তার জীবনের প্রতি শ্রদ্ধাঞ্জলি ছিল।"
+      },
+      {
+        "en": "He received a heartfelt tribute.",
+        "bn": "সে একটি আন্তরিক শ্রদ্ধাঞ্জলি পেল।"
+      },
+      {
+        "en": "She sang as a tribute to her mother.",
+        "bn": "সে মায়ের প্রতি শ্রদ্ধাঞ্জলি হিসেবে গাইল।"
+      },
+      {
+        "en": "The community paid tribute together.",
+        "bn": "সম্প্রদায় একসাথে শ্রদ্ধাঞ্জলি জানাল।"
+      },
+      { "en": "He offered tribute to the king.", "bn": "সে রাজাকে কর দিল।" },
+      {
+        "en": "The statue is a tribute to the founder.",
+        "bn": "মূর্তিটি প্রতিষ্ঠাতার প্রতি শ্রদ্ধাঞ্জলি।"
+      },
+      {
+        "en": "She gave a beautiful tribute speech.",
+        "bn": "সে একটি সুন্দর শ্রদ্ধাঞ্জলি বক্তৃতা দিল।"
+      },
+      {
+        "en": "His success is a tribute to hard work.",
+        "bn": "তার সাফল্য পরিশ্রমের প্রতি শ্রদ্ধাঞ্জলি।"
+      }
+    ],
+    "synonyms": ["honor", "homage", "praise", "recognition", "salute"]
+  },
+  {
+    "base": "trust",
+    "phonetic": "trʌst",
+    "meaning": "আস্থা / নির্ভরযোগ্যতা",
+    "examples": [
+      {
+        "en": "She built trust with her clients.",
+        "bn": "সে তার ক্লায়েন্টদের সাথে আস্থা গড়ে তুলল।"
+      },
+      {
+        "en": "He trusted her with his secret.",
+        "bn": "সে তার গোপন কথা তাকে বিশ্বাস করে বলল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "Trust takes time to develop.", "bn": "আস্থা গড়তে সময় লাগে।" },
+      { "en": "She never broke his trust.", "bn": "সে কখনো তার আস্থা ভাঙেনি।" },
+      {
+        "en": "He placed trust in the system.",
+        "bn": "সে সিস্টেমের উপর আস্থা রাখল।"
+      },
+      { "en": "Mutual trust is key.", "bn": "পারস্পরিক আস্থা মূল বিষয়।" },
+      {
+        "en": "She is someone you can trust.",
+        "bn": "সে এমন একজন যার উপর আস্থা রাখা যায়।"
+      },
+      {
+        "en": "He earns trust through action.",
+        "bn": "সে কাজের মাধ্যমে আস্থা অর্জন করে।"
+      },
+      { "en": "Trust in your team.", "bn": "তোমার দলের উপর আস্থা রাখো।" },
+      {
+        "en": "She gained trust from everyone.",
+        "bn": "সে সবার কাছ থেকে আস্থা অর্জন করল।"
+      },
+      {
+        "en": "He lost their trust permanently.",
+        "bn": "সে তাদের আস্থা স্থায়ীভাবে হারাল।"
+      },
+      { "en": "Without trust, teams fail.", "bn": "আস্থা ছাড়া দল ব্যর্থ হয়।" }
+    ],
+    "synonyms": ["faith", "reliance", "confidence", "belief", "dependability"]
+  },
+  {
+    "base": "truthful",
+    "phonetic": "ˈtruːθfl",
+    "meaning": "সত্যবাদী / সৎ",
+    "examples": [
+      { "en": "She is always truthful.", "bn": "সে সবসময় সত্যবাদী।" },
+      { "en": "He gave a truthful answer.", "bn": "সে একটি সৎ উত্তর দিল।" }
+    ],
+    "moreexample": [
+      { "en": "Be truthful with yourself.", "bn": "নিজের সাথে সৎ হও।" },
+      {
+        "en": "She gave a truthful account.",
+        "bn": "সে একটি সত্যবাদী বিবরণ দিল।"
+      },
+      {
+        "en": "He valued being truthful.",
+        "bn": "সত্যবাদী হওয়াকে সে মূল্য দিত।"
+      },
+      {
+        "en": "A truthful witness helps justice.",
+        "bn": "একজন সত্যবাদী সাক্ষী ন্যায়বিচারে সাহায্য করে।"
+      },
+      {
+        "en": "She was truthful even when it hurt.",
+        "bn": "কষ্টের সময়েও সে সত্যবাদী ছিল।"
+      },
+      {
+        "en": "He wrote a truthful memoir.",
+        "bn": "সে একটি সৎ স্মৃতিকথা লিখল।"
+      },
+      {
+        "en": "Being truthful builds trust.",
+        "bn": "সত্যবাদী হওয়া বিশ্বাস গড়ে।"
+      },
+      {
+        "en": "She is known for being truthful.",
+        "bn": "সত্যবাদী হওয়ার জন্য সে পরিচিত।"
+      },
+      { "en": "He told a truthful story.", "bn": "সে একটি সত্য গল্প বলল।" },
+      {
+        "en": "Truthful communication solves problems.",
+        "bn": "সত্যবাদী যোগাযোগ সমস্যা সমাধান করে।"
+      }
+    ],
+    "synonyms": ["honest", "sincere", "frank", "genuine", "straightforward"]
+  },
+  {
+    "base": "typical",
+    "phonetic": "ˈtɪpɪkl",
+    "meaning": "প্রতিনিধিত্বমূলক / বৈশিষ্ট্যপূর্ণ",
+    "examples": [
+      {
+        "en": "That is typical of his character.",
+        "bn": "এটি তার চরিত্রের বৈশিষ্ট্যপূর্ণ।"
+      },
+      {
+        "en": "She gave a typical response.",
+        "bn": "সে একটি বৈশিষ্ট্যপূর্ণ উত্তর দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "This is typical of his approach.",
+        "bn": "এটি তার পদ্ধতির বৈশিষ্ট্যপূর্ণ।"
+      },
+      {
+        "en": "He showed typical enthusiasm.",
+        "bn": "সে স্বাভাবিক উৎসাহ দেখাল।"
+      },
+      {
+        "en": "She wore typical festival clothes.",
+        "bn": "সে উৎসবের সাধারণ পোশাক পরল।"
+      },
+      {
+        "en": "He has a typical way of working.",
+        "bn": "তার কাজের একটি বৈশিষ্ট্যপূর্ণ ধরন আছে।"
+      },
+      {
+        "en": "A typical meal here has rice and fish.",
+        "bn": "এখানকার সাধারণ খাবারে ভাত ও মাছ থাকে।"
+      },
+      { "en": "She made a typical mistake.", "bn": "সে একটি সাধারণ ভুল করল।" },
+      {
+        "en": "He had a typical day at work.",
+        "bn": "কর্মক্ষেত্রে তার একটি সাধারণ দিন ছিল।"
+      },
+      {
+        "en": "She followed a typical pattern.",
+        "bn": "সে একটি সাধারণ ধরন অনুসরণ করল।"
+      },
+      {
+        "en": "He showed typical signs of improvement.",
+        "bn": "সে উন্নতির সাধারণ লক্ষণ দেখাল।"
+      },
+      {
+        "en": "The typical temperature is warm here.",
+        "bn": "এখানকার স্বাভাবিক তাপমাত্রা উষ্ণ।"
+      }
+    ],
+    "synonyms": ["characteristic", "classic", "average", "usual", "archetypal"]
+  },
+  {
+    "base": "transaction",
+    "phonetic": "trænˈzækʃn",
+    "meaning": "লেনদেন / কারবার",
+    "examples": [
+      {
+        "en": "She completed the transaction.",
+        "bn": "সে লেনদেনটি সম্পন্ন করল।"
+      },
+      {
+        "en": "He checked the bank transaction.",
+        "bn": "সে ব্যাংক লেনদেন পরীক্ষা করল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "The transaction was successful.", "bn": "লেনদেনটি সফল হল।" },
+      {
+        "en": "She approved the financial transaction.",
+        "bn": "সে আর্থিক লেনদেনটি অনুমোদন করল।"
+      },
+      {
+        "en": "He reported a suspicious transaction.",
+        "bn": "সে একটি সন্দেহজনক লেনদেন রিপোর্ট করল।"
+      },
+      {
+        "en": "The transaction was done online.",
+        "bn": "লেনদেনটি অনলাইনে করা হয়েছিল।"
+      },
+      {
+        "en": "She signed the transaction form.",
+        "bn": "সে লেনদেনের ফর্মে সই করল।"
+      },
+      {
+        "en": "He tracked every transaction.",
+        "bn": "সে প্রতিটি লেনদেন ট্র্যাক করল।"
+      },
+      {
+        "en": "A secure transaction needs verification.",
+        "bn": "একটি নিরাপদ লেনদেনে যাচাইকরণ প্রয়োজন।"
+      },
+      {
+        "en": "She handled the property transaction.",
+        "bn": "সে সম্পত্তির লেনদেন পরিচালনা করল।"
+      },
+      {
+        "en": "He completed the transaction in minutes.",
+        "bn": "সে মিনিটের মধ্যে লেনদেন সম্পন্ন করল।"
+      },
+      {
+        "en": "The transaction history was reviewed.",
+        "bn": "লেনদেনের ইতিহাস পর্যালোচনা করা হল।"
+      }
+    ],
+    "synonyms": ["deal", "exchange", "business", "trade", "operation"]
+  },
+  {
+    "base": "trespass",
+    "phonetic": "ˈtrespəs",
+    "meaning": "অবৈধভাবে প্রবেশ করা",
+    "examples": [
+      {
+        "en": "He trespassed on private property.",
+        "bn": "সে ব্যক্তিগত সম্পত্তিতে অবৈধভাবে প্রবেশ করল।"
+      },
+      {
+        "en": "No trespassing is allowed here.",
+        "bn": "এখানে অবৈধ প্রবেশ নিষিদ্ধ।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She warned him not to trespass.",
+        "bn": "সে তাকে অবৈধভাবে প্রবেশ না করতে সতর্ক করল।"
+      },
+      {
+        "en": "He was fined for trespassing.",
+        "bn": "অবৈধভাবে প্রবেশের জন্য তাকে জরিমানা করা হল।"
+      },
+      {
+        "en": "They trespassed into the garden.",
+        "bn": "তারা বাগানে অবৈধভাবে প্রবেশ করল।"
+      },
+      {
+        "en": "She reported the trespasser.",
+        "bn": "সে অবৈধ প্রবেশকারীকে রিপোর্ট করল।"
+      },
+      {
+        "en": "He felt trespassed upon.",
+        "bn": "তার মনে হল তার সীমানা লঙ্ঘিত হয়েছে।"
+      },
+      {
+        "en": "Trespassing on this land is illegal.",
+        "bn": "এই জমিতে অবৈধভাবে প্রবেশ করা আইনবিরোধী।"
+      },
+      {
+        "en": "She installed cameras to prevent trespassing.",
+        "bn": "অবৈধ প্রবেশ রোধে সে ক্যামেরা স্থাপন করল।"
+      },
+      {
+        "en": "He trespassed the rules of respect.",
+        "bn": "সে সম্মানের নিয়ম লঙ্ঘন করল।"
+      },
+      {
+        "en": "The sign warned against trespassing.",
+        "bn": "চিহ্নটি অবৈধ প্রবেশের বিরুদ্ধে সতর্ক করল।"
+      },
+      {
+        "en": "She forgave those who trespassed against her.",
+        "bn": "যারা তার বিরুদ্ধে অন্যায় করেছিল তাদের সে ক্ষমা করল।"
+      }
+    ],
+    "synonyms": ["intrude", "invade", "enter illegally", "encroach", "violate"]
+  },
+  {
+    "base": "troublesome",
+    "phonetic": "ˈtrʌblsəm",
+    "meaning": "সমস্যাজনক / ঝামেলাপূর্ণ",
+    "examples": [
+      {
+        "en": "The situation became troublesome.",
+        "bn": "পরিস্থিতি সমস্যাজনক হয়ে উঠল।"
+      },
+      {
+        "en": "He was a troublesome student.",
+        "bn": "সে একজন ঝামেলাপূর্ণ শিক্ষার্থী ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She handled the troublesome client.",
+        "bn": "সে ঝামেলাপূর্ণ ক্লায়েন্টকে সামলাল।"
+      },
+      {
+        "en": "The troublesome child needed guidance.",
+        "bn": "ঝামেলাপূর্ণ শিশুর নির্দেশনা দরকার ছিল।"
+      },
+      {
+        "en": "He had a troublesome tooth.",
+        "bn": "তার একটি সমস্যাজনক দাঁত ছিল।"
+      },
+      {
+        "en": "The troublesome issue remained unsolved.",
+        "bn": "সমস্যাজনক বিষয়টি অমীমাংসিত থাকল।"
+      },
+      {
+        "en": "She managed the troublesome situation.",
+        "bn": "সে সমস্যাজনক পরিস্থিতি সামলাল।"
+      },
+      {
+        "en": "He found the rules troublesome.",
+        "bn": "সে নিয়মগুলো ঝামেলাপূর্ণ মনে করল।"
+      },
+      {
+        "en": "The troublesome neighbor caused problems.",
+        "bn": "ঝামেলাপূর্ণ প্রতিবেশী সমস্যা সৃষ্টি করল।"
+      },
+      {
+        "en": "She overcame the troublesome period.",
+        "bn": "সে সমস্যাজনক সময় কাটিয়ে উঠল।"
+      },
+      {
+        "en": "He dealt with troublesome bureaucracy.",
+        "bn": "সে সমস্যাজনক আমলাতন্ত্রের সাথে মোকাবেলা করল।"
+      },
+      {
+        "en": "The troublesome machine broke down often.",
+        "bn": "সমস্যাজনক যন্ত্রটি প্রায়ই বিকল হত।"
+      }
+    ],
+    "synonyms": [
+      "problematic",
+      "difficult",
+      "bothersome",
+      "annoying",
+      "inconvenient"
+    ]
+  },
+  {
+    "base": "turnover",
+    "phonetic": "ˈtɜːnəʊvər",
+    "meaning": "টার্নওভার / কর্মচারী পরিবর্তন",
+    "examples": [
+      {
+        "en": "The company had high staff turnover.",
+        "bn": "কোম্পানির কর্মচারী পরিবর্তনের হার বেশি ছিল।"
+      },
+      {
+        "en": "The bakery had high turnover.",
+        "bn": "বেকারিটির টার্নওভার বেশি ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She reduced employee turnover.",
+        "bn": "সে কর্মচারী পরিবর্তন কমাল।"
+      },
+      {
+        "en": "He calculated the monthly turnover.",
+        "bn": "সে মাসিক টার্নওভার গণনা করল।"
+      },
+      {
+        "en": "The turnover increased this year.",
+        "bn": "এ বছর টার্নওভার বেড়েছে।"
+      },
+      {
+        "en": "She ate a delicious apple turnover.",
+        "bn": "সে একটি সুস্বাদু আপেল টার্নওভার খেল।"
+      },
+      {
+        "en": "Staff turnover affects morale.",
+        "bn": "কর্মচারী পরিবর্তন মনোবলকে প্রভাবিত করে।"
+      },
+      {
+        "en": "He tracked the turnover rate.",
+        "bn": "সে টার্নওভার হার ট্র্যাক করল।"
+      },
+      {
+        "en": "The turnover was impressive last quarter.",
+        "bn": "গত প্রান্তিকে টার্নওভার চিত্তাকর্ষক ছিল।"
+      },
+      {
+        "en": "She improved the business turnover.",
+        "bn": "সে ব্যবসার টার্নওভার উন্নত করল।"
+      },
+      {
+        "en": "High turnover means more revenue.",
+        "bn": "উচ্চ টার্নওভার মানে বেশি রাজস্ব।"
+      },
+      {
+        "en": "He managed turnover efficiently.",
+        "bn": "সে দক্ষতার সাথে টার্নওভার পরিচালনা করল।"
+      }
+    ],
+    "synonyms": ["revenue", "sales", "rotation", "change rate", "income"]
+  },
+  {
+    "base": "talkative",
+    "phonetic": "ˈtɔːkətɪv",
+    "meaning": "বাচাল / কথাবার্তায় সক্রিয়",
+    "examples": [
+      { "en": "She is very talkative.", "bn": "সে অনেক বাচাল।" },
+      {
+        "en": "He became more talkative after relaxing.",
+        "bn": "শিথিল হওয়ার পরে সে আরও বাচাল হয়ে উঠল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "The talkative child asked many questions.",
+        "bn": "বাচাল শিশুটি অনেক প্রশ্ন করল।"
+      },
+      { "en": "She is naturally talkative.", "bn": "সে স্বভাবতই বাচাল।" },
+      {
+        "en": "He sat next to a talkative passenger.",
+        "bn": "সে একজন বাচাল যাত্রীর পাশে বসল।"
+      },
+      {
+        "en": "The talkative student disrupted class.",
+        "bn": "বাচাল শিক্ষার্থী ক্লাসে বিঘ্ন ঘটাল।"
+      },
+      {
+        "en": "She becomes talkative when nervous.",
+        "bn": "নার্ভাস হলে সে বাচাল হয়ে পড়ে।"
+      },
+      {
+        "en": "He was not very talkative at first.",
+        "bn": "প্রথমে সে খুব বেশি বাচাল ছিল না।"
+      },
+      {
+        "en": "The talkative host made guests comfortable.",
+        "bn": "বাচাল আয়োজক অতিথিদের স্বাচ্ছন্দ্যে রাখলেন।"
+      },
+      {
+        "en": "She is talkative with close friends.",
+        "bn": "ঘনিষ্ঠ বন্ধুদের সাথে সে বাচাল।"
+      },
+      {
+        "en": "He is less talkative in public.",
+        "bn": "সর্বসাধারণের সামনে সে কম বাচাল।"
+      },
+      {
+        "en": "Being talkative can be an asset.",
+        "bn": "বাচাল হওয়া একটি সুবিধা হতে পারে।"
+      }
+    ],
+    "synonyms": ["chatty", "garrulous", "loquacious", "communicative", "vocal"]
+  },
+  {
+    "base": "tender",
+    "phonetic": "ˈtendər",
+    "meaning": "কোমল / স্নেহময় / দরপত্র",
+    "examples": [
+      { "en": "She spoke in a tender voice.", "bn": "সে কোমল কণ্ঠে কথা বলল।" },
+      {
+        "en": "He submitted a tender for the project.",
+        "bn": "সে প্রকল্পের জন্য দরপত্র জমা দিল।"
+      }
+    ],
+    "moreexample": [
+      { "en": "She gave a tender hug.", "bn": "সে একটি স্নেহময় আলিঙ্গন করল।" },
+      {
+        "en": "The meat was tender and juicy.",
+        "bn": "মাংসটি কোমল ও রসালো ছিল।"
+      },
+      { "en": "He showed tender care.", "bn": "সে কোমল যত্ন দেখাল।" },
+      { "en": "She had a tender heart.", "bn": "তার একটি স্নেহময় হৃদয় ছিল।" },
+      {
+        "en": "He submitted the lowest tender.",
+        "bn": "সে সর্বনিম্ন দরপত্র জমা দিল।"
+      },
+      {
+        "en": "She was tender with the injured bird.",
+        "bn": "আহত পাখিটির সাথে সে কোমল ছিল।"
+      },
+      {
+        "en": "His tender words calmed her.",
+        "bn": "তার কোমল কথা তাকে শান্ত করল।"
+      },
+      {
+        "en": "The baby's skin is very tender.",
+        "bn": "শিশুর ত্বক অনেক কোমল।"
+      },
+      {
+        "en": "She invited tenders from contractors.",
+        "bn": "সে ঠিকাদারদের কাছ থেকে দরপত্র আমন্ত্রণ জানাল।"
+      },
+      {
+        "en": "He was tender in his approach.",
+        "bn": "তার পদ্ধতিতে সে কোমল ছিল।"
+      }
+    ],
+    "synonyms": ["gentle", "soft", "caring", "loving", "bid"]
+  },
+  {
+    "base": "tireless",
+    "phonetic": "ˈtaɪələs",
+    "meaning": "অক্লান্ত / অদম্য",
+    "examples": [
+      {
+        "en": "She was a tireless worker.",
+        "bn": "সে একজন অক্লান্ত কর্মী ছিল।"
+      },
+      {
+        "en": "He showed tireless dedication.",
+        "bn": "সে অক্লান্ত নিষ্ঠা দেখাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She made tireless efforts.",
+        "bn": "সে অক্লান্ত প্রচেষ্টা করল।"
+      },
+      {
+        "en": "He was tireless in helping others.",
+        "bn": "অন্যদের সাহায্য করায় সে অক্লান্ত ছিল।"
+      },
+      {
+        "en": "Her tireless work paid off.",
+        "bn": "তার অক্লান্ত পরিশ্রম সফল হল।"
+      },
+      {
+        "en": "He was a tireless advocate.",
+        "bn": "সে একজন অক্লান্ত সমর্থক ছিল।"
+      },
+      {
+        "en": "She is tireless in her pursuit.",
+        "bn": "তার সাধনায় সে অক্লান্ত।"
+      },
+      {
+        "en": "The tireless doctor worked all night.",
+        "bn": "অক্লান্ত ডাক্তার সারারাত কাজ করলেন।"
+      },
+      {
+        "en": "He praised her tireless spirit.",
+        "bn": "সে তার অক্লান্ত মনোভাবের প্রশংসা করল।"
+      },
+      {
+        "en": "She is a tireless volunteer.",
+        "bn": "সে একজন অক্লান্ত স্বেচ্ছাসেবক।"
+      },
+      {
+        "en": "Tireless effort leads to mastery.",
+        "bn": "অক্লান্ত প্রচেষ্টা দক্ষতার দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "His tireless support meant everything.",
+        "bn": "তার অক্লান্ত সহায়তা সবকিছু মানে রাখত।"
+      }
+    ],
+    "synonyms": [
+      "relentless",
+      "indefatigable",
+      "persistent",
+      "determined",
+      "unwavering"
+    ]
+  },
+  {
+    "base": "tolerance",
+    "phonetic": "ˈtɒlərəns",
+    "meaning": "মনোভাব সহনশীলতা",
+    "examples": [
+      {
+        "en": "Tolerance allows society to function.",
+        "bn": "সহনশীলতা সমাজকে কার্যকরীভাবে চলতে দেয়।"
+      },
+      {
+        "en": "She practiced tolerance daily.",
+        "bn": "সে প্রতিদিন সহনশীলতা চর্চা করত।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He preached tolerance in his sermons.",
+        "bn": "সে তার বক্তৃতায় সহনশীলতার প্রচার করলেন।"
+      },
+      {
+        "en": "Tolerance bridges cultural gaps.",
+        "bn": "সহনশীলতা সাংস্কৃতিক ব্যবধান দূর করে।"
+      },
+      {
+        "en": "She has tolerance for all beliefs.",
+        "bn": "সমস্ত বিশ্বাসের প্রতি তার সহনশীলতা আছে।"
+      },
+      {
+        "en": "Tolerance is taught at a young age.",
+        "bn": "সহনশীলতা অল্পবয়সেই শেখানো হয়।"
+      },
+      {
+        "en": "He showed great tolerance under pressure.",
+        "bn": "চাপের মধ্যে সে অনেক সহনশীলতা দেখাল।"
+      },
+      {
+        "en": "She promoted tolerance in the workplace.",
+        "bn": "সে কর্মক্ষেত্রে সহনশীলতা প্রচার করল।"
+      },
+      {
+        "en": "Tolerance and empathy go hand in hand.",
+        "bn": "সহনশীলতা এবং সহানুভূতি হাতে হাত রেখে চলে।"
+      },
+      {
+        "en": "He valued cultural tolerance.",
+        "bn": "সে সাংস্কৃতিক সহনশীলতাকে মূল্য দিত।"
+      },
+      {
+        "en": "She advocates for greater tolerance.",
+        "bn": "সে বৃহত্তর সহনশীলতার পক্ষে কথা বলে।"
+      },
+      {
+        "en": "Tolerance makes societies stronger.",
+        "bn": "সহনশীলতা সমাজকে শক্তিশালী করে।"
+      }
+    ],
+    "synonyms": [
+      "open-mindedness",
+      "broadmindedness",
+      "acceptance",
+      "equity",
+      "liberalism"
+    ]
+  },
+  {
+    "base": "thorough",
+    "phonetic": "ˈθʌrə",
+    "meaning": "নিখুঁত / ব্যাপক",
+    "examples": [
+      { "en": "The inspection was thorough.", "bn": "পরিদর্শনটি ব্যাপক ছিল।" },
+      { "en": "She has a thorough knowledge.", "bn": "তার ব্যাপক জ্ঞান আছে।" }
+    ],
+    "moreexample": [
+      {
+        "en": "He conducted a thorough search.",
+        "bn": "সে একটি ব্যাপক অনুসন্ধান পরিচালনা করল।"
+      },
+      {
+        "en": "A thorough plan avoids mistakes.",
+        "bn": "নিখুঁত পরিকল্পনা ভুল এড়ায়।"
+      },
+      {
+        "en": "She gave thorough instructions.",
+        "bn": "সে ব্যাপক নির্দেশনা দিল।"
+      },
+      {
+        "en": "He was thorough in his evaluation.",
+        "bn": "মূল্যায়নে সে নিখুঁত ছিল।"
+      },
+      {
+        "en": "A thorough edit improves writing.",
+        "bn": "নিখুঁত সম্পাদনা লেখাকে উন্নত করে।"
+      },
+      {
+        "en": "She did a thorough background check.",
+        "bn": "সে একটি ব্যাপক পূর্ব-ইতিহাস যাচাই করল।"
+      },
+      {
+        "en": "The thorough review caught all errors.",
+        "bn": "নিখুঁত পর্যালোচনা সমস্ত ভুল ধরল।"
+      },
+      {
+        "en": "He applied thorough analysis.",
+        "bn": "সে ব্যাপক বিশ্লেষণ প্রয়োগ করল।"
+      },
+      {
+        "en": "She ensured thorough compliance.",
+        "bn": "সে নিখুঁত সম্মতি নিশ্চিত করল।"
+      },
+      {
+        "en": "He wrote a thorough proposal.",
+        "bn": "সে একটি ব্যাপক প্রস্তাব লিখল।"
+      }
+    ],
+    "synonyms": [
+      "comprehensive",
+      "in-depth",
+      "extensive",
+      "rigorous",
+      "detailed"
+    ]
+  },
+  {
+    "base": "transparent",
+    "phonetic": "trænsˈpærənt",
+    "meaning": "স্বচ্ছ / সাবলীল",
+    "examples": [
+      {
+        "en": "The process should be transparent.",
+        "bn": "প্রক্রিয়াটি স্বচ্ছ হওয়া উচিত।"
+      },
+      {
+        "en": "She is transparent in her intentions.",
+        "bn": "তার উদ্দেশ্যে সে স্বচ্ছ।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He made a transparent decision.",
+        "bn": "সে একটি স্বচ্ছ সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "The organization is transparent with data.",
+        "bn": "সংস্থাটি তথ্যে স্বচ্ছ।"
+      },
+      {
+        "en": "Transparent communication prevents misunderstandings.",
+        "bn": "স্বচ্ছ যোগাযোগ ভুল বোঝাবুঝি প্রতিরোধ করে।"
+      },
+      {
+        "en": "She was transparent about her mistakes.",
+        "bn": "তার ভুল সম্পর্কে সে স্বচ্ছ ছিল।"
+      },
+      {
+        "en": "He valued a transparent work culture.",
+        "bn": "সে স্বচ্ছ কর্ম সংস্কৃতিকে মূল্য দিত।"
+      },
+      {
+        "en": "Being transparent gains respect.",
+        "bn": "স্বচ্ছ হওয়া সম্মান অর্জন করে।"
+      },
+      {
+        "en": "The transparent policy helped everyone.",
+        "bn": "স্বচ্ছ নীতি সবাইকে সাহায্য করল।"
+      },
+      {
+        "en": "She was transparent about her goals.",
+        "bn": "তার লক্ষ্য সম্পর্কে সে স্বচ্ছ ছিল।"
+      },
+      {
+        "en": "He was transparent in all dealings.",
+        "bn": "সমস্ত লেনদেনে সে স্বচ্ছ ছিল।"
+      },
+      {
+        "en": "Transparent systems build confidence.",
+        "bn": "স্বচ্ছ সিস্টেম আত্মবিশ্বাস গড়ে।"
+      }
+    ],
+    "synonyms": ["open", "honest", "forthright", "accountable", "visible"]
+  },
+  {
+    "base": "tolerant",
+    "phonetic": "ˈtɒlərənt",
+    "meaning": "সহিষ্ণু / উদার",
+    "examples": [
+      {
+        "en": "She is tolerant of different opinions.",
+        "bn": "বিভিন্ন মতামতের প্রতি সে সহিষ্ণু।"
+      },
+      {
+        "en": "He is a tolerant and patient man.",
+        "bn": "সে একজন সহিষ্ণু ও ধৈর্যশীল মানুষ।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Being tolerant helps society.",
+        "bn": "সহিষ্ণু হওয়া সমাজকে সাহায্য করে।"
+      },
+      {
+        "en": "She is tolerant of failure.",
+        "bn": "ব্যর্থতার প্রতি সে সহিষ্ণু।"
+      },
+      {
+        "en": "He raised tolerant children.",
+        "bn": "সে সহিষ্ণু সন্তান মানুষ করল।"
+      },
+      {
+        "en": "A tolerant society is peaceful.",
+        "bn": "সহিষ্ণু সমাজ শান্তিপূর্ণ।"
+      },
+      {
+        "en": "She is tolerant of change.",
+        "bn": "পরিবর্তনের প্রতি সে সহিষ্ণু।"
+      },
+      {
+        "en": "He is tolerant of diverse cultures.",
+        "bn": "বৈচিত্র্যময় সংস্কৃতির প্রতি সে সহিষ্ণু।"
+      },
+      {
+        "en": "Being tolerant means being open.",
+        "bn": "সহিষ্ণু হওয়া মানে খোলামেলা হওয়া।"
+      },
+      {
+        "en": "She is tolerant of differences.",
+        "bn": "পার্থক্যের প্রতি সে সহিষ্ণু।"
+      },
+      { "en": "He is tolerant but firm.", "bn": "সে সহিষ্ণু কিন্তু দৃঢ়।" },
+      {
+        "en": "A tolerant leader builds unity.",
+        "bn": "একজন সহিষ্ণু নেতা ঐক্য গড়েন।"
+      }
+    ],
+    "synonyms": [
+      "patient",
+      "accepting",
+      "open-minded",
+      "broad-minded",
+      "forgiving"
+    ]
+  },
+  {
+    "base": "tendency",
+    "phonetic": "ˈtendənsi",
+    "meaning": "ঝোঁক / প্রবণতা",
+    "examples": [
+      {
+        "en": "She has a tendency to be late.",
+        "bn": "দেরি করার প্রবণতা তার আছে।"
+      },
+      {
+        "en": "He has a natural tendency to help.",
+        "bn": "সাহায্য করার স্বাভাবিক ঝোঁক তার আছে।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "There is a tendency to overspend.",
+        "bn": "অতিরিক্ত খরচ করার প্রবণতা আছে।"
+      },
+      {
+        "en": "She noticed his tendency to worry.",
+        "bn": "সে তার দুশ্চিন্তার প্রবণতা লক্ষ্য করল।"
+      },
+      {
+        "en": "He has a tendency toward perfectionism.",
+        "bn": "পরিপূর্ণতার দিকে ঝোঁক তার আছে।"
+      },
+      {
+        "en": "The tendency to sleep late grew.",
+        "bn": "দেরিতে ঘুমানোর প্রবণতা বাড়ল।"
+      },
+      {
+        "en": "She recognized her tendency to procrastinate.",
+        "bn": "সে কাজ ফেলে রাখার প্রবণতা চিহ্নিত করল।"
+      },
+      {
+        "en": "He has a tendency toward kindness.",
+        "bn": "দয়ার দিকে ঝোঁক তার আছে।"
+      },
+      {
+        "en": "The tendency to judge quickly is common.",
+        "bn": "দ্রুত বিচার করার প্রবণতা সাধারণ।"
+      },
+      {
+        "en": "She had a creative tendency.",
+        "bn": "তার সৃজনশীল প্রবণতা ছিল।"
+      },
+      {
+        "en": "He showed a tendency to lead.",
+        "bn": "নেতৃত্ব দেওয়ার ঝোঁক সে দেখাল।"
+      },
+      {
+        "en": "There is a tendency to blame others.",
+        "bn": "অন্যদের দোষ দেওয়ার প্রবণতা আছে।"
+      }
+    ],
+    "synonyms": ["inclination", "leaning", "predisposition", "bias", "trend"]
+  },
+  {
+    "base": "thorough",
+    "phonetic": "ˈθʌrə",
+    "meaning": "গভীর / সম্পূর্ণ",
+    "examples": [
+      {
+        "en": "She had a thorough understanding.",
+        "bn": "তার গভীর বোঝাপড়া ছিল।"
+      },
+      {
+        "en": "He went through a thorough process.",
+        "bn": "সে একটি সম্পূর্ণ প্রক্রিয়ার মধ্য দিয়ে গেল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A thorough reading improved her grades.",
+        "bn": "গভীর পড়াশোনা তার নম্বর উন্নত করল।"
+      },
+      {
+        "en": "He gave a thorough walkthrough.",
+        "bn": "সে একটি সম্পূর্ণ ওয়াকথ্রু দিল।"
+      },
+      {
+        "en": "She completed a thorough revision.",
+        "bn": "সে একটি সম্পূর্ণ পুনরাবৃত্তি সম্পন্ন করল।"
+      },
+      {
+        "en": "He had a thorough grasp of the subject.",
+        "bn": "বিষয়টির উপর তার গভীর দখল ছিল।"
+      },
+      {
+        "en": "A thorough plan ensures success.",
+        "bn": "সম্পূর্ণ পরিকল্পনা সাফল্য নিশ্চিত করে।"
+      },
+      { "en": "She gave thorough feedback.", "bn": "সে সম্পূর্ণ মতামত দিল।" },
+      {
+        "en": "He was thorough in his inspection.",
+        "bn": "পরিদর্শনে সে সম্পূর্ণ ছিল।"
+      },
+      {
+        "en": "A thorough study leads to mastery.",
+        "bn": "গভীর অধ্যয়ন দক্ষতার দিকে নিয়ে যায়।"
+      },
+      {
+        "en": "She appreciated his thorough work.",
+        "bn": "সে তার সম্পূর্ণ কাজের প্রশংসা করল।"
+      },
+      {
+        "en": "He was rewarded for thorough effort.",
+        "bn": "সম্পূর্ণ প্রচেষ্টার জন্য সে পুরস্কৃত হল।"
+      }
+    ],
+    "synonyms": ["deep", "total", "absolute", "full", "complete"]
+  },
+  {
+    "base": "timid",
+    "phonetic": "ˈtɪmɪd",
+    "meaning": "সংকোচশীল / কুণ্ঠিত",
+    "examples": [
+      {
+        "en": "She was timid about raising her hand.",
+        "bn": "হাত তোলার ব্যাপারে সে কুণ্ঠিত ছিল।"
+      },
+      { "en": "He gave a timid reply.", "bn": "সে একটি কুণ্ঠিত উত্তর দিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "The timid girl sat in the corner.",
+        "bn": "সংকোচশীল মেয়েটি কোণায় বসল।"
+      },
+      {
+        "en": "He was timid during the interview.",
+        "bn": "সাক্ষাৎকারে সে কুণ্ঠিত ছিল।"
+      },
+      {
+        "en": "She became less timid with time.",
+        "bn": "সময়ের সাথে সাথে সে কম কুণ্ঠিত হল।"
+      },
+      {
+        "en": "Timid behavior limits opportunities.",
+        "bn": "সংকোচশীল আচরণ সুযোগ সীমিত করে।"
+      },
+      {
+        "en": "He was timid about new challenges.",
+        "bn": "নতুন চ্যালেঞ্জ নিয়ে সে কুণ্ঠিত ছিল।"
+      },
+      {
+        "en": "She helped her timid friend.",
+        "bn": "সে তার সংকোচশীল বন্ধুকে সাহায্য করল।"
+      },
+      {
+        "en": "He gave a timid knock on the door.",
+        "bn": "সে দরজায় কুণ্ঠিতভাবে টোকা দিল।"
+      },
+      {
+        "en": "She felt timid in the large crowd.",
+        "bn": "বড় ভিড়ে সে কুণ্ঠিত অনুভব করল।"
+      },
+      {
+        "en": "The timid puppy hid behind the sofa.",
+        "bn": "সংকোচশীল কুকুরছানাটি সোফার পেছনে লুকাল।"
+      },
+      {
+        "en": "He overcame being timid.",
+        "bn": "সে কুণ্ঠিত স্বভাব কাটিয়ে উঠল।"
+      }
+    ],
+    "synonyms": ["shy", "withdrawn", "reserved", "nervous", "inhibited"]
+  },
+  {
+    "base": "toxic",
+    "phonetic": "ˈtɒksɪk",
+    "meaning": "বিষাক্ত / ক্ষতিকর",
+    "examples": [
+      {
+        "en": "The chemical is highly toxic.",
+        "bn": "রাসায়নিকটি অত্যন্ত বিষাক্ত।"
+      },
+      {
+        "en": "She left the toxic relationship.",
+        "bn": "সে বিষাক্ত সম্পর্ক ছেড়ে দিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He avoided toxic people.",
+        "bn": "সে বিষাক্ত মানুষদের এড়িয়ে চলল।"
+      },
+      {
+        "en": "Toxic waste must be disposed carefully.",
+        "bn": "বিষাক্ত বর্জ্য সাবধানে নিষ্পত্তি করতে হবে।"
+      },
+      {
+        "en": "She recognized the toxic environment.",
+        "bn": "সে বিষাক্ত পরিবেশ চিনল।"
+      },
+      {
+        "en": "Toxic behavior damages relationships.",
+        "bn": "বিষাক্ত আচরণ সম্পর্ক নষ্ট করে।"
+      },
+      {
+        "en": "He avoided toxic substances.",
+        "bn": "সে বিষাক্ত পদার্থ এড়িয়ে চলল।"
+      },
+      {
+        "en": "She dealt with a toxic coworker.",
+        "bn": "সে একজন বিষাক্ত সহকর্মীর সাথে মোকাবেলা করল।"
+      },
+      {
+        "en": "The toxic fumes spread quickly.",
+        "bn": "বিষাক্ত ধোঁয়া দ্রুত ছড়িয়ে পড়ল।"
+      },
+      {
+        "en": "He escaped the toxic atmosphere.",
+        "bn": "সে বিষাক্ত পরিবেশ থেকে বের হল।"
+      },
+      {
+        "en": "Toxic positivity can be harmful.",
+        "bn": "বিষাক্ত ইতিবাচকতা ক্ষতিকর হতে পারে।"
+      },
+      {
+        "en": "She tested the water for toxic chemicals.",
+        "bn": "সে পানিতে বিষাক্ত রাসায়নিকের পরীক্ষা করল।"
+      }
+    ],
+    "synonyms": ["poisonous", "harmful", "dangerous", "noxious", "venomous"]
+  },
+  {
+    "base": "triumph",
+    "phonetic": "ˈtraɪəmf",
+    "meaning": "জয়ী হওয়া / সাফল্য",
+    "examples": [
+      {
+        "en": "She triumphed against all odds.",
+        "bn": "সব প্রতিকূলতার বিরুদ্ধে সে জয়ী হল।"
+      },
+      {
+        "en": "The team's triumph was celebrated.",
+        "bn": "দলের বিজয় উদযাপন করা হল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "He triumphed over his fears.",
+        "bn": "সে তার ভয়ের উপর জয়ী হল।"
+      },
+      {
+        "en": "Her triumph inspired many.",
+        "bn": "তার বিজয় অনেককে অনুপ্রাণিত করল।"
+      },
+      {
+        "en": "The underdog triumphed in the end.",
+        "bn": "শেষ পর্যন্ত দুর্বল দলটি জয়ী হল।"
+      },
+      {
+        "en": "She felt the triumph of completing the run.",
+        "bn": "দৌড় সম্পন্ন করার বিজয় সে অনুভব করল।"
+      },
+      {
+        "en": "He celebrated his academic triumph.",
+        "bn": "সে তার শিক্ষামূলক বিজয় উদযাপন করল।"
+      },
+      {
+        "en": "Triumph requires sacrifice.",
+        "bn": "বিজয়ের জন্য ত্যাগ দরকার।"
+      },
+      {
+        "en": "She triumphed in the art competition.",
+        "bn": "শিল্প প্রতিযোগিতায় সে জয়ী হল।"
+      },
+      {
+        "en": "He described it as a personal triumph.",
+        "bn": "সে এটিকে ব্যক্তিগত বিজয় বলে বর্ণনা করল।"
+      },
+      { "en": "The truth always triumphs.", "bn": "সত্য সবসময় জয়ী হয়।" },
+      {
+        "en": "She achieved a great triumph.",
+        "bn": "সে একটি মহান বিজয় অর্জন করল।"
+      }
+    ],
+    "synonyms": ["win", "prevail", "succeed", "overcome", "excel"]
+  },
+  {
+    "base": "thoughtful",
+    "phonetic": "ˈθɔːtfl",
+    "meaning": "সদয় / সহানুভূতিশীল",
+    "examples": [
+      {
+        "en": "He made a thoughtful gesture.",
+        "bn": "সে একটি সদয় ভঙ্গি করল।"
+      },
+      {
+        "en": "She is thoughtful toward others.",
+        "bn": "সে অন্যদের প্রতি সহানুভূতিশীল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "His thoughtful words comforted her.",
+        "bn": "তার সদয় কথা তাকে সান্ত্বনা দিল।"
+      },
+      {
+        "en": "She sent a thoughtful message.",
+        "bn": "সে একটি সহানুভূতিশীল বার্তা পাঠাল।"
+      },
+      {
+        "en": "He was always thoughtful of friends.",
+        "bn": "সে সবসময় বন্ধুদের কথা ভাবত।"
+      },
+      {
+        "en": "She gave a thoughtful birthday card.",
+        "bn": "সে একটি সদয় জন্মদিনের কার্ড দিল।"
+      },
+      {
+        "en": "Being thoughtful makes people feel valued.",
+        "bn": "সহানুভূতিশীল হওয়া মানুষকে মূল্যবান অনুভব করায়।"
+      },
+      {
+        "en": "He asked a thoughtful question.",
+        "bn": "সে একটি সদয় প্রশ্ন করল।"
+      },
+      {
+        "en": "She made a thoughtful donation.",
+        "bn": "সে একটি সদয় দান করল।"
+      },
+      {
+        "en": "His thoughtful action showed care.",
+        "bn": "তার সহানুভূতিশীল কাজ যত্ন দেখাল।"
+      },
+      {
+        "en": "She was known for thoughtful acts.",
+        "bn": "সদয় কাজের জন্য সে পরিচিত ছিল।"
+      },
+      {
+        "en": "A thoughtful leader listens first.",
+        "bn": "একজন সহানুভূতিশীল নেতা প্রথমে শোনেন।"
+      }
+    ],
+    "synonyms": ["kind", "empathetic", "considerate", "attentive", "warm"]
+  },
+  {
+    "base": "thorough",
+    "phonetic": "ˈθʌrə",
+    "meaning": "সতর্কতামূলক",
+    "examples": [
+      {
+        "en": "He made a thorough safety check.",
+        "bn": "সে একটি সতর্কতামূলক নিরাপত্তা পরীক্ষা করল।"
+      },
+      {
+        "en": "She completed a thorough risk analysis.",
+        "bn": "সে একটি সতর্কতামূলক ঝুঁকি বিশ্লেষণ সম্পন্ন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A thorough safety plan was prepared.",
+        "bn": "একটি সতর্কতামূলক নিরাপত্তা পরিকল্পনা প্রস্তুত করা হল।"
+      },
+      {
+        "en": "He was thorough in checking details.",
+        "bn": "বিবরণ পরীক্ষায় সে সতর্ক ছিল।"
+      },
+      {
+        "en": "She made thorough notes before the exam.",
+        "bn": "পরীক্ষার আগে সে সতর্কতামূলক নোট নিল।"
+      },
+      {
+        "en": "The thorough review prevented errors.",
+        "bn": "সতর্কতামূলক পর্যালোচনা ত্রুটি প্রতিরোধ করল।"
+      },
+      {
+        "en": "He applied a thorough approach.",
+        "bn": "সে একটি সতর্কতামূলক পদ্ধতি প্রয়োগ করল।"
+      },
+      {
+        "en": "A thorough response was expected.",
+        "bn": "একটি সতর্কতামূলক উত্তর আশা করা হয়েছিল।"
+      },
+      {
+        "en": "She completed a thorough background research.",
+        "bn": "সে সতর্কতামূলক পটভূমি গবেষণা সম্পন্ন করল।"
+      },
+      {
+        "en": "He was thorough in testing the product.",
+        "bn": "পণ্য পরীক্ষায় সে সতর্ক ছিল।"
+      },
+      {
+        "en": "Being thorough builds quality.",
+        "bn": "সতর্কতামূলক হওয়া গুণমান গড়ে।"
+      },
+      {
+        "en": "She was rewarded for thorough work.",
+        "bn": "সতর্কতামূলক কাজের জন্য সে পুরস্কৃত হল।"
+      }
+    ],
+    "synonyms": ["careful", "cautious", "systematic", "methodical", "precise"]
+  },
+  {
+    "base": "transform",
+    "phonetic": "trænsˈfɔːm",
+    "meaning": "পরিবর্তন করা / রূপ দেওয়া",
+    "examples": [
+      {
+        "en": "He transformed the space beautifully.",
+        "bn": "সে জায়গাটি সুন্দরভাবে রূপান্তরিত করল।"
+      },
+      {
+        "en": "Music transformed her mood.",
+        "bn": "সঙ্গীত তার মেজাজ পরিবর্তন করল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She transformed from a shy girl.",
+        "bn": "সে একজন লাজুক মেয়ে থেকে রূপান্তরিত হল।"
+      },
+      {
+        "en": "The renovation transformed the house.",
+        "bn": "সংস্কার বাড়িটিকে রূপান্তরিত করল।"
+      },
+      {
+        "en": "He worked to transform the system.",
+        "bn": "সে সিস্টেম পরিবর্তন করতে কাজ করল।"
+      },
+      {
+        "en": "She transformed the garden.",
+        "bn": "সে বাগানটি রূপান্তরিত করল।"
+      },
+      {
+        "en": "Education transformed his life.",
+        "bn": "শিক্ষা তার জীবন পরিবর্তন করল।"
+      },
+      {
+        "en": "He transformed stress into strength.",
+        "bn": "সে চাপকে শক্তিতে রূপান্তরিত করল।"
+      },
+      {
+        "en": "The workshop transformed her thinking.",
+        "bn": "কর্মশালা তার চিন্তাভাবনা পরিবর্তন করল।"
+      },
+      {
+        "en": "She transformed the organization.",
+        "bn": "সে সংগঠনটি রূপান্তরিত করল।"
+      },
+      {
+        "en": "He transformed the raw material.",
+        "bn": "সে কাঁচামালকে রূপান্তরিত করল।"
+      },
+      {
+        "en": "The program transforms communities.",
+        "bn": "কর্মসূচিটি সমাজগুলো রূপান্তরিত করে।"
+      }
+    ],
+    "synonyms": ["alter", "modify", "metamorphose", "revamp", "overhaul"]
+  },
+  {
+    "base": "taboo",
+    "phonetic": "təˈbuː",
+    "meaning": "নিষিদ্ধ / নিষিদ্ধ বিষয়",
+    "examples": [
+      { "en": "The topic is still taboo.", "bn": "বিষয়টি এখনও নিষিদ্ধ।" },
+      {
+        "en": "She broke a social taboo.",
+        "bn": "সে একটি সামাজিক নিষিদ্ধতা ভাঙল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Mental health was once a taboo subject.",
+        "bn": "মানসিক স্বাস্থ্য একসময় নিষিদ্ধ বিষয় ছিল।"
+      },
+      {
+        "en": "He discussed the taboo topic openly.",
+        "bn": "সে নিষিদ্ধ বিষয়টি খোলামেলাভাবে আলোচনা করল।"
+      },
+      {
+        "en": "Many taboos are slowly fading.",
+        "bn": "অনেক নিষিদ্ধতা ধীরে ধীরে মিলিয়ে যাচ্ছে।"
+      },
+      {
+        "en": "She questioned cultural taboos.",
+        "bn": "সে সাংস্কৃতিক নিষিদ্ধতা নিয়ে প্রশ্ন তুলল।"
+      },
+      {
+        "en": "Taboos vary across cultures.",
+        "bn": "নিষিদ্ধতা বিভিন্ন সংস্কৃতিতে ভিন্ন।"
+      },
+      {
+        "en": "He challenged the taboo bravely.",
+        "bn": "সে সাহসের সাথে নিষিদ্ধতাকে চ্যালেঞ্জ করল।"
+      },
+      {
+        "en": "The taboo was deeply rooted.",
+        "bn": "নিষিদ্ধতাটি গভীরভাবে প্রোথিত ছিল।"
+      },
+      {
+        "en": "She wrote about breaking taboos.",
+        "bn": "সে নিষিদ্ধতা ভাঙার বিষয়ে লিখল।"
+      },
+      {
+        "en": "Some taboos protect communities.",
+        "bn": "কিছু নিষিদ্ধতা সমাজকে রক্ষা করে।"
+      },
+      {
+        "en": "The taboo topic became mainstream.",
+        "bn": "নিষিদ্ধ বিষয়টি মূলধারায় পরিণত হল।"
+      }
+    ],
+    "synonyms": [
+      "forbidden",
+      "banned",
+      "prohibited",
+      "off-limits",
+      "restricted"
+    ]
+  },
+  {
+    "base": "thankfulness",
+    "phonetic": "ˈθæŋkflnəs",
+    "meaning": "কৃতজ্ঞতা",
+    "examples": [
+      {
+        "en": "She expressed thankfulness for the gift.",
+        "bn": "উপহারের জন্য সে কৃতজ্ঞতা প্রকাশ করল।"
+      },
+      {
+        "en": "His thankfulness was genuine.",
+        "bn": "তার কৃতজ্ঞতা আন্তরিক ছিল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "She felt deep thankfulness.",
+        "bn": "সে গভীর কৃতজ্ঞতা অনুভব করল।"
+      },
+      {
+        "en": "He showed thankfulness through action.",
+        "bn": "সে কাজের মাধ্যমে কৃতজ্ঞতা দেখাল।"
+      },
+      {
+        "en": "Thankfulness improves mental health.",
+        "bn": "কৃতজ্ঞতা মানসিক স্বাস্থ্য উন্নত করে।"
+      },
+      {
+        "en": "She practiced thankfulness daily.",
+        "bn": "সে প্রতিদিন কৃতজ্ঞতা চর্চা করত।"
+      },
+      {
+        "en": "He expressed thankfulness to the team.",
+        "bn": "সে দলকে কৃতজ্ঞতা প্রকাশ করল।"
+      },
+      {
+        "en": "Her thankfulness was heartwarming.",
+        "bn": "তার কৃতজ্ঞতা হৃদয় উষ্ণ করেছিল।"
+      },
+      {
+        "en": "He taught thankfulness to his children.",
+        "bn": "সে সন্তানদের কৃতজ্ঞতা শেখাল।"
+      },
+      { "en": "Thankfulness brings joy.", "bn": "কৃতজ্ঞতা আনন্দ নিয়ে আসে।" },
+      {
+        "en": "She showed thankfulness in her speech.",
+        "bn": "সে বক্তৃতায় কৃতজ্ঞতা দেখাল।"
+      },
+      {
+        "en": "His thankfulness was touching.",
+        "bn": "তার কৃতজ্ঞতা হৃদয়স্পর্শী ছিল।"
+      }
+    ],
+    "synonyms": [
+      "gratitude",
+      "appreciation",
+      "recognition",
+      "acknowledgment",
+      "thanks"
+    ]
+  },
+  {
+    "base": "teamwork",
+    "phonetic": "ˈtiːmwɜːk",
+    "meaning": "দলগত কাজ / সহযোগিতা",
+    "examples": [
+      { "en": "Good teamwork wins games.", "bn": "ভালো দলগত কাজ খেলা জেতায়।" },
+      {
+        "en": "She values teamwork highly.",
+        "bn": "সে দলগত কাজকে অনেক মূল্য দেয়।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "Teamwork makes the dream work.",
+        "bn": "দলগত কাজ স্বপ্নকে কার্যকর করে।"
+      },
+      {
+        "en": "He encouraged teamwork in the office.",
+        "bn": "সে অফিসে দলগত কাজ উৎসাহিত করল।"
+      },
+      {
+        "en": "Great teamwork achieved the goal.",
+        "bn": "দারুণ দলগত কাজ লক্ষ্য অর্জন করল।"
+      },
+      {
+        "en": "She built a culture of teamwork.",
+        "bn": "সে দলগত কাজের সংস্কৃতি গড়ে তুলল।"
+      },
+      {
+        "en": "Effective teamwork needs communication.",
+        "bn": "কার্যকর দলগত কাজে যোগাযোগ দরকার।"
+      },
+      {
+        "en": "He promoted teamwork at school.",
+        "bn": "সে স্কুলে দলগত কাজ প্রচার করল।"
+      },
+      {
+        "en": "Teamwork improves productivity.",
+        "bn": "দলগত কাজ উৎপাদনশীলতা উন্নত করে।"
+      },
+      {
+        "en": "She relied on teamwork to succeed.",
+        "bn": "সফল হতে সে দলগত কাজের উপর নির্ভর করল।"
+      },
+      {
+        "en": "Teamwork creates strong bonds.",
+        "bn": "দলগত কাজ শক্তিশালী বন্ধন তৈরি করে।"
+      },
+      {
+        "en": "He praised the teamwork displayed.",
+        "bn": "সে প্রদর্শিত দলগত কাজের প্রশংসা করল।"
+      }
+    ],
+    "synonyms": [
+      "collaboration",
+      "cooperation",
+      "partnership",
+      "unity",
+      "joint effort"
+    ]
+  },
+  {
+    "base": "typical",
+    "phonetic": "ˈtɪpɪkl",
+    "meaning": "প্রতীকী / আদর্শ",
+    "examples": [
+      {
+        "en": "She is a typical role model.",
+        "bn": "সে একটি আদর্শ ভূমিকার মডেল।"
+      },
+      {
+        "en": "He showed typical leadership skills.",
+        "bn": "সে আদর্শ নেতৃত্বের দক্ষতা দেখাল।"
+      }
+    ],
+    "moreexample": [
+      {
+        "en": "A typical hero puts others first.",
+        "bn": "একজন আদর্শ নায়ক অন্যদের আগে রাখে।"
+      },
+      {
+        "en": "She displayed typical courage.",
+        "bn": "সে আদর্শ সাহস প্রদর্শন করল।"
+      },
+      {
+        "en": "He portrayed a typical villain.",
+        "bn": "সে একটি আদর্শ খলনায়কের চরিত্র করল।"
+      },
+      {
+        "en": "This is a typical family scene.",
+        "bn": "এটি একটি আদর্শ পারিবারিক দৃশ্য।"
+      },
+      {
+        "en": "She wore typical festival attire.",
+        "bn": "সে আদর্শ উৎসবের পোশাক পরল।"
+      },
+      {
+        "en": "He made a typical contribution.",
+        "bn": "সে একটি আদর্শ অবদান রাখল।"
+      },
+      {
+        "en": "A typical leader stays calm.",
+        "bn": "একজন আদর্শ নেতা শান্ত থাকেন।"
+      },
+      {
+        "en": "She showed typical compassion.",
+        "bn": "সে আদর্শ সহানুভূতি দেখাল।"
+      },
+      {
+        "en": "He had typical professional values.",
+        "bn": "তার আদর্শ পেশাদার মূল্যবোধ ছিল।"
+      },
+      {
+        "en": "A typical student studies every day.",
+        "bn": "একজন আদর্শ শিক্ষার্থী প্রতিদিন পড়াশোনা করে।"
+      }
+    ],
+    "synonyms": ["ideal", "model", "representative", "symbolic", "archetypal"]
   }
 ]

@@ -1,0 +1,16 @@
+Single object roadmap (properties only):
+
+base
+phonetic
+v2
+v3
+meaning
+examples (2 items → { en, bn })
+moreexample (10 items → { en, bn })
+synonyms (3–5 items)
+
+
+
+list of verbs starting with “A” (100+):
+
+abandon, abase, abbreviate, abduct, abide, abolish, absorb, abstract, abuse, accelerate, accept, access, accompany, accomplish, account, accumulate, accuse, achieve, acknowledge, acquire, act, activate, adapt, add, address, adjust, administer, admire, admit, adopt, adore, advance, advertise, advise, affect, afford, agree, aid, aim, alert, allow, alter, amaze, amuse, analyze, announce, annoy, answer, anticipate, apologize, appeal, appear, applaud, apply, appoint, appreciate, approach, approve, argue, arise, arrange, arrest, arrive, ask, assemble, assert, assess, assign, assist, assume, assure, attach, attack, attempt, attend, attract, attribute, audit, augment, authorize, avoid, await, awaken, award, awe, backtrack, activate מחדש (ignore duplicate), align, allocate, alternate, amplify, anchor, angle, animate, annotate, answer back, anticipate again (duplicate removed mentally), archive, arm, arouse, articulate, ascend, ascribe, aspire, assassinate, assault, assert again (duplicate), associate, astonish, attach again (duplicate), attain, attest, attract again (duplicate), auction, authenticate, automate, avail, avenge, avert, awaken again (duplicate), awe again (duplicate)

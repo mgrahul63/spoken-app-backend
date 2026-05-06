@@ -1660,5 +1660,51 @@
       }
     ],
     "synonyms": ["team", "staff", "group"]
+  },
+  {
+    "base": "concert",
+    "phonetic": "ˈkɒnsət",
+    "meaning": "সঙ্গীতানুষ্ঠান / কনসার্ট",
+    "examples": [
+      { "en": "We went to a concert.", "bn": "আমরা একটি কনসার্টে গিয়েছিলাম।" },
+      { "en": "The concert was amazing.", "bn": "কনসার্টটি অসাধারণ ছিল।" }
+    ],
+    "moreexample": [
+      {
+        "en": "She performed at a concert.",
+        "bn": "সে একটি কনসার্টে পারফর্ম করেছে।"
+      },
+      {
+        "en": "The concert starts at 7 PM.",
+        "bn": "কনসার্ট সন্ধ্যা ৭টায় শুরু হয়।"
+      },
+      {
+        "en": "Tickets for the concert are sold out.",
+        "bn": "কনসার্টের টিকিট শেষ হয়ে গেছে।"
+      },
+      {
+        "en": "He enjoyed the live concert.",
+        "bn": "সে লাইভ কনসার্ট উপভোগ করেছে।"
+      },
+      {
+        "en": "The band held a concert.",
+        "bn": "ব্যান্ডটি একটি কনসার্ট করেছে।"
+      },
+      {
+        "en": "We attended a music concert.",
+        "bn": "আমরা একটি সঙ্গীত কনসার্টে অংশ নিয়েছি।"
+      },
+      { "en": "The concert hall is big.", "bn": "কনসার্ট হলটি বড়।" },
+      {
+        "en": "Fans crowded the concert.",
+        "bn": "ভক্তরা কনসার্টে ভিড় করেছে।"
+      },
+      {
+        "en": "She sang beautifully at the concert.",
+        "bn": "সে কনসার্টে সুন্দরভাবে গান গেয়েছে।"
+      },
+      { "en": "The concert ended late.", "bn": "কনসার্ট দেরিতে শেষ হয়েছে।" }
+    ],
+    "synonyms": ["performance", "show", "gig", "recital"]
   }
 ]

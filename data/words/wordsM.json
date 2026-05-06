@@ -1067,37 +1067,6 @@
     "synonyms": ["shared", "reciprocal", "common", "joint"]
   },
   {
-    "base": "mystery",
-    "phonetic": "ˈmɪstəri",
-    "meaning": "রহস্য",
-    "examples": [
-      { "en": "It is a mystery.", "bn": "এটি একটি রহস্য।" },
-      { "en": "The case is a mystery.", "bn": "মামলাটি একটি রহস্য।" }
-    ],
-    "moreexample": [
-      { "en": "The mystery was solved.", "bn": "রহস্যটি সমাধান হয়েছে।" },
-      { "en": "She loves mystery stories.", "bn": "সে রহস্য গল্প ভালোবাসে।" },
-      { "en": "The mystery remains.", "bn": "রহস্যটি রয়ে গেছে।" },
-      {
-        "en": "They investigated the mystery.",
-        "bn": "তারা রহস্যটি তদন্ত করেছে।"
-      },
-      { "en": "It is still a mystery.", "bn": "এটি এখনও রহস্য।" },
-      { "en": "The mystery deepened.", "bn": "রহস্য আরও গভীর হয়েছে।" },
-      {
-        "en": "He enjoys mystery novels.",
-        "bn": "সে রহস্য উপন্যাস উপভোগ করে।"
-      },
-      {
-        "en": "The mystery shocked everyone.",
-        "bn": "রহস্য সবাইকে অবাক করেছে।"
-      },
-      { "en": "They uncovered the mystery.", "bn": "তারা রহস্য উদঘাটন করেছে।" },
-      { "en": "Nature is full of mystery.", "bn": "প্রকৃতি রহস্যে ভরা।" }
-    ],
-    "synonyms": ["puzzle", "enigma", "secret", "unknown"]
-  },
-  {
     "base": "machine",
     "phonetic": "məˈʃiːn",
     "meaning": "যন্ত্র",

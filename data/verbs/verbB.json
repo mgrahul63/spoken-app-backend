@@ -238,5 +238,1153 @@
       }
     ],
     "synonyms": ["purchase", "acquire", "obtain", "get"]
+  },
+
+  {
+    "base": "be",
+    "phonetic": "biː",
+    "v2": "was/were",
+    "v3": "been",
+    "meaning": "হওয়া / থাকা",
+    "examples": [
+      { "en": "I am happy.", "bn": "আমি খুশি আছি" },
+      { "en": "She is a student.", "bn": "সে একজন ছাত্র" }
+    ],
+    "moreexample": [
+      { "en": "I was at home.", "bn": "আমি বাসায় ছিলাম" },
+      { "en": "They were late.", "bn": "তারা দেরি করেছিল" },
+      { "en": "He has been here.", "bn": "সে এখানে ছিল" },
+      { "en": "We are ready.", "bn": "আমরা প্রস্তুত" },
+      { "en": "She is working.", "bn": "সে কাজ করছে" },
+      { "en": "I am being careful.", "bn": "আমি সাবধান হচ্ছি" },
+      { "en": "They were playing.", "bn": "তারা খেলছিল" },
+      { "en": "He is strong.", "bn": "সে শক্তিশালী" },
+      { "en": "I was tired.", "bn": "আমি ক্লান্ত ছিলাম" },
+      { "en": "She has been busy.", "bn": "সে ব্যস্ত ছিল" }
+    ],
+    "synonyms": ["exist", "live", "remain"]
+  },
+  {
+    "base": "become",
+    "phonetic": "bɪˈkʌm",
+    "v2": "became",
+    "v3": "become",
+    "meaning": "হয়ে যাওয়া",
+    "examples": [
+      { "en": "I become happy.", "bn": "আমি খুশি হয়ে যাই" },
+      { "en": "She becomes angry.", "bn": "সে রাগান্বিত হয়" }
+    ],
+    "moreexample": [
+      { "en": "He became doctor.", "bn": "সে ডাক্তার হলো" },
+      { "en": "They become friends.", "bn": "তারা বন্ধু হয়ে যায়" },
+      { "en": "I am becoming strong.", "bn": "আমি শক্তিশালী হচ্ছি" },
+      { "en": "She became teacher.", "bn": "সে শিক্ষক হলো" },
+      { "en": "We become ready.", "bn": "আমরা প্রস্তুত হই" },
+      { "en": "They have become rich.", "bn": "তারা ধনী হয়েছে" },
+      { "en": "I became nervous.", "bn": "আমি নার্ভাস হয়ে গেলাম" },
+      { "en": "He is becoming better.", "bn": "সে ভালো হচ্ছে" },
+      { "en": "She becomes famous.", "bn": "সে বিখ্যাত হয়" },
+      { "en": "They became leaders.", "bn": "তারা নেতা হলো" }
+    ],
+    "synonyms": ["turn", "grow", "develop"]
+  },
+  {
+    "base": "begin",
+    "phonetic": "bɪˈɡɪn",
+    "v2": "began",
+    "v3": "begun",
+    "meaning": "শুরু করা",
+    "examples": [
+      { "en": "I begin work.", "bn": "আমি কাজ শুরু করি" },
+      { "en": "She begins study.", "bn": "সে পড়াশোনা শুরু করে" }
+    ],
+    "moreexample": [
+      { "en": "He began project.", "bn": "সে প্রকল্প শুরু করেছিল" },
+      { "en": "They begin class.", "bn": "তারা ক্লাস শুরু করে" },
+      { "en": "I am beginning now.", "bn": "আমি এখন শুরু করছি" },
+      { "en": "She began journey.", "bn": "সে যাত্রা শুরু করেছিল" },
+      { "en": "We begin task.", "bn": "আমরা কাজ শুরু করি" },
+      { "en": "They have begun work.", "bn": "তারা কাজ শুরু করেছে" },
+      { "en": "I began reading.", "bn": "আমি পড়া শুরু করেছিলাম" },
+      { "en": "He is beginning now.", "bn": "সে এখন শুরু করছে" },
+      { "en": "She begins lesson.", "bn": "সে পাঠ শুরু করে" },
+      { "en": "They began meeting.", "bn": "তারা মিটিং শুরু করেছিল" }
+    ],
+    "synonyms": ["start", "commence", "initiate"]
+  },
+  {
+    "base": "bend",
+    "phonetic": "bend",
+    "v2": "bent",
+    "v3": "bent",
+    "meaning": "বাঁকানো",
+    "examples": [
+      { "en": "I bend rod.", "bn": "আমি রড বাঁকাই" },
+      { "en": "She bends paper.", "bn": "সে কাগজ বাঁকায়" }
+    ],
+    "moreexample": [
+      { "en": "He bent metal.", "bn": "সে ধাতু বাঁকালো" },
+      { "en": "They bend rules.", "bn": "তারা নিয়ম বাঁকায়" },
+      { "en": "I am bending now.", "bn": "আমি এখন বাঁকাচ্ছি" },
+      { "en": "She bent stick.", "bn": "সে লাঠি বাঁকালো" },
+      { "en": "We bend wire.", "bn": "আমরা তার বাঁকাই" },
+      { "en": "They have bent it.", "bn": "তারা এটি বাঁকিয়েছে" },
+      { "en": "I bent pipe.", "bn": "আমি পাইপ বাঁকালাম" },
+      { "en": "He is bending now.", "bn": "সে এখন বাঁকাচ্ছে" },
+      { "en": "She bends metal.", "bn": "সে ধাতু বাঁকায়" },
+      { "en": "They bent rod.", "bn": "তারা রড বাঁকালো" }
+    ],
+    "synonyms": ["curve", "flex", "twist"]
+  },
+  {
+    "base": "bet",
+    "phonetic": "bet",
+    "v2": "bet",
+    "v3": "bet",
+    "meaning": "বাজি ধরা",
+    "examples": [
+      { "en": "I bet money.", "bn": "আমি টাকা বাজি ধরি" },
+      { "en": "She bets game.", "bn": "সে খেলায় বাজি ধরে" }
+    ],
+    "moreexample": [
+      { "en": "He bet on match.", "bn": "সে ম্যাচে বাজি ধরেছিল" },
+      { "en": "They bet high.", "bn": "তারা বেশি বাজি ধরেছিল" },
+      { "en": "I am betting now.", "bn": "আমি এখন বাজি ধরছি" },
+      { "en": "She bet luck.", "bn": "সে ভাগ্যে বাজি ধরেছিল" },
+      { "en": "We bet money.", "bn": "আমরা টাকা বাজি ধরি" },
+      { "en": "They have bet it.", "bn": "তারা এটি বাজি ধরেছে" },
+      { "en": "I bet fast.", "bn": "আমি দ্রুত বাজি ধরলাম" },
+      { "en": "He is betting now.", "bn": "সে এখন বাজি ধরছে" },
+      { "en": "She bets daily.", "bn": "সে প্রতিদিন বাজি ধরে" },
+      { "en": "They bet result.", "bn": "তারা ফলাফলে বাজি ধরেছিল" }
+    ],
+    "synonyms": ["wager", "stake", "gamble"]
+  },
+  {
+    "base": "bind",
+    "phonetic": "baɪnd",
+    "v2": "bound",
+    "v3": "bound",
+    "meaning": "বাঁধা",
+    "examples": [
+      { "en": "I bind book.", "bn": "আমি বই বাঁধি" },
+      { "en": "She binds papers.", "bn": "সে কাগজ বাঁধে" }
+    ],
+    "moreexample": [
+      { "en": "He bound files.", "bn": "সে ফাইল বাঁধল" },
+      { "en": "They bind pages.", "bn": "তারা পৃষ্ঠা বাঁধে" },
+      { "en": "I am binding now.", "bn": "আমি এখন বাঁধছি" },
+      { "en": "She bound document.", "bn": "সে ডকুমেন্ট বাঁধল" },
+      { "en": "We bind notes.", "bn": "আমরা নোট বাঁধি" },
+      { "en": "They have bound it.", "bn": "তারা এটি বাঁধেছে" },
+      { "en": "I bound book.", "bn": "আমি বই বাঁধলাম" },
+      { "en": "He is binding now.", "bn": "সে এখন বাঁধছে" },
+      { "en": "She binds file.", "bn": "সে ফাইল বাঁধে" },
+      { "en": "They bound paper.", "bn": "তারা কাগজ বাঁধল" }
+    ],
+    "synonyms": ["tie", "attach", "fasten"]
+  },
+  {
+    "base": "bite",
+    "phonetic": "baɪt",
+    "v2": "bit",
+    "v3": "bitten",
+    "meaning": "কামড় দেওয়া",
+    "examples": [
+      { "en": "Dog bites man.", "bn": "কুকুর মানুষকে কামড়ায়" },
+      { "en": "I bite apple.", "bn": "আমি আপেল কামড়াই" }
+    ],
+    "moreexample": [
+      { "en": "He bit finger.", "bn": "সে আঙুল কামড়েছিল" },
+      { "en": "They bite food.", "bn": "তারা খাবার কামড়ায়" },
+      { "en": "I am biting now.", "bn": "আমি এখন কামড়াচ্ছি" },
+      { "en": "She bit fruit.", "bn": "সে ফল কামড়েছিল" },
+      { "en": "We bite bread.", "bn": "আমরা রুটি কামড়াই" },
+      { "en": "They have bitten it.", "bn": "তারা এটি কামড়েছে" },
+      { "en": "I bit meat.", "bn": "আমি মাংস কামড়েছি" },
+      { "en": "He is biting now.", "bn": "সে এখন কামড়াচ্ছে" },
+      { "en": "She bites apple.", "bn": "সে আপেল কামড়ায়" },
+      { "en": "They bit food.", "bn": "তারা খাবার কামড়েছিল" }
+    ],
+    "synonyms": ["gnaw", "chew", "nibble"]
+  },
+  {
+    "base": "blame",
+    "phonetic": "bleɪm",
+    "v2": "blamed",
+    "v3": "blamed",
+    "meaning": "দোষ দেওয়া",
+    "examples": [
+      { "en": "I blame him.", "bn": "আমি তাকে দোষ দিই" },
+      { "en": "She blames me.", "bn": "সে আমাকে দোষ দেয়" }
+    ],
+    "moreexample": [
+      { "en": "He blamed system.", "bn": "সে সিস্টেমকে দোষ দিয়েছিল" },
+      { "en": "They blame mistake.", "bn": "তারা ভুলকে দোষ দেয়" },
+      { "en": "I am blaming now.", "bn": "আমি এখন দোষ দিচ্ছি" },
+      { "en": "She blamed friend.", "bn": "সে বন্ধুকে দোষ দিয়েছিল" },
+      { "en": "We blame error.", "bn": "আমরা ভুলকে দোষ দিই" },
+      { "en": "They have blamed it.", "bn": "তারা এটি দোষ দিয়েছে" },
+      { "en": "I blamed issue.", "bn": "আমি সমস্যাকে দোষ দিয়েছি" },
+      { "en": "He is blaming now.", "bn": "সে এখন দোষ দিচ্ছে" },
+      { "en": "She blames system.", "bn": "সে সিস্টেমকে দোষ দেয়" },
+      { "en": "They blamed team.", "bn": "তারা দলকে দোষ দিয়েছিল" }
+    ],
+    "synonyms": ["accuse", "fault", "criticize"]
+  },
+  {
+    "base": "bleed",
+    "phonetic": "bliːd",
+    "v2": "bled",
+    "v3": "bled",
+    "meaning": "রক্ত পড়া",
+    "examples": [
+      { "en": "I bleed easily.", "bn": "আমি সহজে রক্ত পড়ি" },
+      { "en": "He bleeds fast.", "bn": "সে দ্রুত রক্ত পড়ে" }
+    ],
+    "moreexample": [
+      { "en": "She bled badly.", "bn": "সে অনেক রক্ত পড়েছিল" },
+      { "en": "They bleed now.", "bn": "তারা এখন রক্ত পড়ছে" },
+      { "en": "I am bleeding.", "bn": "আমি রক্ত পড়ছি" },
+      { "en": "He bled earlier.", "bn": "সে আগে রক্ত পড়েছিল" },
+      { "en": "We bleed less.", "bn": "আমরা কম রক্ত পড়ি" },
+      { "en": "They have bled.", "bn": "তারা রক্ত পড়েছে" },
+      { "en": "I bled yesterday.", "bn": "আমি গতকাল রক্ত পড়েছিলাম" },
+      { "en": "He is bleeding.", "bn": "সে রক্ত পড়ছে" },
+      { "en": "She bleeds now.", "bn": "সে এখন রক্ত পড়ছে" },
+      { "en": "They bled heavily.", "bn": "তারা অনেক রক্ত পড়েছিল" }
+    ],
+    "synonyms": ["flow", "lose blood", "seep"]
+  },
+
+  {
+    "base": "boast",
+    "phonetic": "boʊst",
+    "v2": "boasted",
+    "v3": "boasted",
+    "meaning": "গর্ব করে বলা",
+    "examples": [
+      { "en": "He boasts about success.", "bn": "সে সাফল্য নিয়ে গর্ব করে" },
+      { "en": "She boasts her skills.", "bn": "সে তার দক্ষতা নিয়ে গর্ব করে" }
+    ],
+    "moreexample": [
+      { "en": "He boasted loudly.", "bn": "সে জোরে গর্ব করেছিল" },
+      { "en": "They boast achievements.", "bn": "তারা অর্জন নিয়ে গর্ব করে" },
+      { "en": "I am boasting now.", "bn": "আমি এখন গর্ব করছি" },
+      { "en": "She boasted success.", "bn": "সে সাফল্য নিয়ে গর্ব করেছিল" },
+      { "en": "We boast results.", "bn": "আমরা ফলাফল নিয়ে গর্ব করি" },
+      { "en": "They have boasted it.", "bn": "তারা এটি নিয়ে গর্ব করেছে" },
+      { "en": "I boasted skills.", "bn": "আমি দক্ষতা নিয়ে গর্ব করেছি" },
+      { "en": "He is boasting now.", "bn": "সে এখন গর্ব করছে" },
+      { "en": "She boasts talent.", "bn": "সে প্রতিভা নিয়ে গর্ব করে" },
+      { "en": "They boasted victory.", "bn": "তারা জয় নিয়ে গর্ব করেছিল" }
+    ],
+    "synonyms": ["brag", "show off", "praise oneself"]
+  },
+  {
+    "base": "borrow",
+    "phonetic": "ˈbɒroʊ",
+    "v2": "borrowed",
+    "v3": "borrowed",
+    "meaning": "ধার নেওয়া",
+    "examples": [
+      { "en": "I borrow money.", "bn": "আমি টাকা ধার নেই" },
+      { "en": "She borrows books.", "bn": "সে বই ধার নেয়" }
+    ],
+    "moreexample": [
+      { "en": "He borrowed pen.", "bn": "সে কলম ধার নিয়েছিল" },
+      { "en": "They borrow tools.", "bn": "তারা সরঞ্জাম ধার নেয়" },
+      { "en": "I am borrowing now.", "bn": "আমি এখন ধার নিচ্ছি" },
+      { "en": "She borrowed car.", "bn": "সে গাড়ি ধার নিয়েছিল" },
+      { "en": "We borrow items.", "bn": "আমরা জিনিস ধার নিই" },
+      { "en": "They have borrowed it.", "bn": "তারা এটি ধার নিয়েছে" },
+      { "en": "I borrowed money.", "bn": "আমি টাকা ধার নিয়েছি" },
+      { "en": "He is borrowing now.", "bn": "সে এখন ধার নিচ্ছে" },
+      { "en": "She borrows daily.", "bn": "সে প্রতিদিন ধার নেয়" },
+      { "en": "They borrowed book.", "bn": "তারা বই ধার নিয়েছিল" }
+    ],
+    "synonyms": ["take on loan", "use temporarily"]
+  },
+  {
+    "base": "bother",
+    "phonetic": "ˈbɒðər",
+    "v2": "bothered",
+    "v3": "bothered",
+    "meaning": "বিরক্ত করা",
+    "examples": [
+      { "en": "Don't bother me.", "bn": "আমাকে বিরক্ত করো না" },
+      { "en": "She bothers him.", "bn": "সে তাকে বিরক্ত করে" }
+    ],
+    "moreexample": [
+      { "en": "He bothered me.", "bn": "সে আমাকে বিরক্ত করেছিল" },
+      { "en": "They bother others.", "bn": "তারা অন্যদের বিরক্ত করে" },
+      { "en": "I am bothering now.", "bn": "আমি এখন বিরক্ত করছি" },
+      { "en": "She bothered teacher.", "bn": "সে শিক্ষককে বিরক্ত করেছিল" },
+      { "en": "We bother no one.", "bn": "আমরা কাউকে বিরক্ত করি না" },
+      { "en": "They have bothered it.", "bn": "তারা এটি বিরক্ত করেছে" },
+      { "en": "I bothered friend.", "bn": "আমি বন্ধুকে বিরক্ত করেছি" },
+      { "en": "He is bothering now.", "bn": "সে এখন বিরক্ত করছে" },
+      { "en": "She bothers daily.", "bn": "সে প্রতিদিন বিরক্ত করে" },
+      { "en": "They bothered system.", "bn": "তারা সিস্টেমকে বিরক্ত করেছিল" }
+    ],
+    "synonyms": ["annoy", "disturb", "trouble"]
+  },
+  {
+    "base": "breathe",
+    "phonetic": "briːð",
+    "v2": "breathed",
+    "v3": "breathed",
+    "meaning": "শ্বাস নেওয়া",
+    "examples": [
+      { "en": "I breathe air.", "bn": "আমি বাতাস নিই" },
+      { "en": "She breathes deeply.", "bn": "সে গভীরভাবে শ্বাস নেয়" }
+    ],
+    "moreexample": [
+      { "en": "He breathed slowly.", "bn": "সে ধীরে শ্বাস নিয়েছিল" },
+      { "en": "They breathe oxygen.", "bn": "তারা অক্সিজেন শ্বাস নেয়" },
+      { "en": "I am breathing now.", "bn": "আমি এখন শ্বাস নিচ্ছি" },
+      { "en": "She breathed hard.", "bn": "সে জোরে শ্বাস নিয়েছিল" },
+      { "en": "We breathe naturally.", "bn": "আমরা স্বাভাবিকভাবে শ্বাস নিই" },
+      { "en": "They have breathed it.", "bn": "তারা এটি শ্বাস নিয়েছে" },
+      { "en": "I breathed fresh air.", "bn": "আমি তাজা বাতাস নিয়েছি" },
+      { "en": "He is breathing now.", "bn": "সে এখন শ্বাস নিচ্ছে" },
+      { "en": "She breathes calmly.", "bn": "সে শান্তভাবে শ্বাস নেয়" },
+      { "en": "They breathed deeply.", "bn": "তারা গভীরভাবে শ্বাস নিয়েছিল" }
+    ],
+    "synonyms": ["inhale", "exhale", "respire"]
+  },
+  {
+    "base": "breed",
+    "phonetic": "briːd",
+    "v2": "bred",
+    "v3": "bred",
+    "meaning": "প্রজনন করা",
+    "examples": [
+      { "en": "Farmers breed animals.", "bn": "কৃষকরা প্রাণী প্রজনন করে" },
+      { "en": "They breed dogs.", "bn": "তারা কুকুর প্রজনন করে" }
+    ],
+    "moreexample": [
+      { "en": "He bred horses.", "bn": "সে ঘোড়া প্রজনন করেছিল" },
+      { "en": "They breed fish.", "bn": "তারা মাছ প্রজনন করে" },
+      { "en": "I am breeding now.", "bn": "আমি এখন প্রজনন করছি" },
+      { "en": "She bred cats.", "bn": "সে বিড়াল প্রজনন করেছিল" },
+      { "en": "We breed cattle.", "bn": "আমরা গরু প্রজনন করি" },
+      { "en": "They have bred it.", "bn": "তারা এটি প্রজনন করেছে" },
+      { "en": "I bred birds.", "bn": "আমি পাখি প্রজনন করেছি" },
+      { "en": "He is breeding now.", "bn": "সে এখন প্রজনন করছে" },
+      { "en": "She breeds dogs.", "bn": "সে কুকুর প্রজনন করে" },
+      { "en": "They bred animals.", "bn": "তারা প্রাণী প্রজনন করেছিল" }
+    ],
+    "synonyms": ["raise", "rear", "grow"]
+  },
+  {
+    "base": "broadcast",
+    "phonetic": "ˈbrɔːdkæst",
+    "v2": "broadcast",
+    "v3": "broadcast",
+    "meaning": "সম্প্রচার করা",
+    "examples": [
+      { "en": "They broadcast news.", "bn": "তারা খবর সম্প্রচার করে" },
+      { "en": "TV broadcasts show.", "bn": "টিভি অনুষ্ঠান সম্প্রচার করে" }
+    ],
+    "moreexample": [
+      { "en": "He broadcast message.", "bn": "সে বার্তা সম্প্রচার করেছিল" },
+      { "en": "They broadcast live.", "bn": "তারা সরাসরি সম্প্রচার করে" },
+      { "en": "I am broadcasting now.", "bn": "আমি এখন সম্প্রচার করছি" },
+      { "en": "She broadcast event.", "bn": "সে ইভেন্ট সম্প্রচার করেছিল" },
+      { "en": "We broadcast news.", "bn": "আমরা খবর সম্প্রচার করি" },
+      { "en": "They have broadcast it.", "bn": "তারা এটি সম্প্রচার করেছে" },
+      { "en": "I broadcast program.", "bn": "আমি প্রোগ্রাম সম্প্রচার করেছি" },
+      { "en": "He is broadcasting now.", "bn": "সে এখন সম্প্রচার করছে" },
+      { "en": "She broadcasts daily.", "bn": "সে প্রতিদিন সম্প্রচার করে" },
+      { "en": "They broadcast match.", "bn": "তারা ম্যাচ সম্প্রচার করেছিল" }
+    ],
+    "synonyms": ["air", "transmit", "send"]
+  },
+  {
+    "base": "brush",
+    "phonetic": "brʌʃ",
+    "v2": "brushed",
+    "v3": "brushed",
+    "meaning": "ব্রাশ করা",
+    "examples": [
+      { "en": "I brush teeth.", "bn": "আমি দাঁত ব্রাশ করি" },
+      { "en": "She brushes hair.", "bn": "সে চুল ব্রাশ করে" }
+    ],
+    "moreexample": [
+      { "en": "He brushed floor.", "bn": "সে মেঝে ব্রাশ করেছিল" },
+      { "en": "They brush shoes.", "bn": "তারা জুতা ব্রাশ করে" },
+      { "en": "I am brushing now.", "bn": "আমি এখন ব্রাশ করছি" },
+      { "en": "She brushed clothes.", "bn": "সে কাপড় ব্রাশ করেছিল" },
+      { "en": "We brush daily.", "bn": "আমরা প্রতিদিন ব্রাশ করি" },
+      { "en": "They have brushed it.", "bn": "তারা এটি ব্রাশ করেছে" },
+      { "en": "I brushed table.", "bn": "আমি টেবিল ব্রাশ করেছি" },
+      { "en": "He is brushing now.", "bn": "সে এখন ব্রাশ করছে" },
+      { "en": "She brushes teeth.", "bn": "সে দাঁত ব্রাশ করে" },
+      { "en": "They brushed room.", "bn": "তারা ঘর ব্রাশ করেছিল" }
+    ],
+    "synonyms": ["clean", "wipe", "scrub"]
+  },
+  {
+    "base": "burn",
+    "phonetic": "bɜːrn",
+    "v2": "burned/burnt",
+    "v3": "burned/burnt",
+    "meaning": "পোড়ানো",
+    "examples": [
+      { "en": "Fire burns wood.", "bn": "আগুন কাঠ পোড়ায়" },
+      { "en": "I burn paper.", "bn": "আমি কাগজ পোড়াই" }
+    ],
+    "moreexample": [
+      { "en": "He burned waste.", "bn": "সে বর্জ্য পোড়িয়েছিল" },
+      { "en": "They burn fuel.", "bn": "তারা জ্বালানি পোড়ায়" },
+      { "en": "I am burning now.", "bn": "আমি এখন পোড়াচ্ছি" },
+      { "en": "She burned food.", "bn": "সে খাবার পোড়িয়েছিল" },
+      { "en": "We burn leaves.", "bn": "আমরা পাতা পোড়াই" },
+      { "en": "They have burned it.", "bn": "তারা এটি পোড়িয়েছে" },
+      { "en": "I burned trash.", "bn": "আমি আবর্জনা পোড়িয়েছি" },
+      { "en": "He is burning now.", "bn": "সে এখন পোড়াচ্ছে" },
+      { "en": "She burns wood.", "bn": "সে কাঠ পোড়ায়" },
+      { "en": "They burned house.", "bn": "তারা বাড়ি পোড়িয়েছিল" }
+    ],
+    "synonyms": ["ignite", "char", "scorch"]
+  },
+  {
+    "base": "burst",
+    "phonetic": "bɜːrst",
+    "v2": "burst",
+    "v3": "burst",
+    "meaning": "ফেটে যাওয়া",
+    "examples": [
+      { "en": "Ball bursts.", "bn": "বল ফেটে যায়" },
+      { "en": "He bursts balloon.", "bn": "সে বেলুন ফাটায়" }
+    ],
+    "moreexample": [
+      { "en": "The pipe burst.", "bn": "পাইপ ফেটে গেল" },
+      { "en": "They burst into laughter.", "bn": "তারা হেসে উঠল" },
+      { "en": "I am bursting now.", "bn": "আমি এখন ফেটে যাচ্ছি" },
+      { "en": "She burst balloon.", "bn": "সে বেলুন ফাটিয়েছিল" },
+      { "en": "We burst out.", "bn": "আমরা হঠাৎ বেরিয়ে এলাম" },
+      { "en": "They have burst it.", "bn": "তারা এটি ফাটিয়েছে" },
+      { "en": "I burst bubble.", "bn": "আমি বুদবুদ ফাটিয়েছি" },
+      { "en": "He is bursting now.", "bn": "সে এখন ফেটে যাচ্ছে" },
+      { "en": "She bursts out laughing.", "bn": "সে হেসে ফেটে পড়ে" },
+      { "en": "They burst door.", "bn": "তারা দরজা ভেঙে ঢুকেছিল" }
+    ],
+    "synonyms": ["explode", "break open", "rupture"]
+  },
+  {
+    "base": "bury",
+    "phonetic": "ˈberi",
+    "v2": "buried",
+    "v3": "buried",
+    "meaning": "কবর দেওয়া / পুঁতে রাখা",
+    "examples": [
+      { "en": "I bury treasure.", "bn": "আমি ধন পুঁতে রাখি" },
+      { "en": "They bury body.", "bn": "তারা দেহ কবর দেয়" }
+    ],
+    "moreexample": [
+      { "en": "He buried money.", "bn": "সে টাকা পুঁতে রেখেছিল" },
+      { "en": "She buries secret.", "bn": "সে গোপন কথা লুকিয়ে রাখে" },
+      { "en": "I am burying now.", "bn": "আমি এখন পুঁতে রাখছি" },
+      { "en": "They buried treasure.", "bn": "তারা ধন পুঁতে রেখেছিল" },
+      { "en": "We bury memories.", "bn": "আমরা স্মৃতি লুকাই" },
+      { "en": "They have buried it.", "bn": "তারা এটি পুঁতে রেখেছে" },
+      { "en": "I buried box.", "bn": "আমি বাক্স পুঁতে রেখেছি" },
+      { "en": "He is burying now.", "bn": "সে এখন পুঁতে রাখছে" },
+      { "en": "She buried truth.", "bn": "সে সত্য লুকিয়েছিল" },
+      { "en": "They buried object.", "bn": "তারা বস্তু পুঁতে রেখেছিল" }
+    ],
+    "synonyms": ["hide", "cover", "inter"]
+  },
+  {
+    "base": "burst",
+    "phonetic": "bɜːrst",
+    "v2": "burst",
+    "v3": "burst",
+    "meaning": "ফেটে যাওয়া",
+    "examples": [
+      { "en": "Ball bursts.", "bn": "বল ফেটে যায়" },
+      { "en": "He bursts balloon.", "bn": "সে বেলুন ফাটায়" }
+    ],
+    "moreexample": [
+      { "en": "The pipe burst.", "bn": "পাইপ ফেটে গেল" },
+      { "en": "They burst into laughter.", "bn": "তারা হেসে উঠল" },
+      { "en": "I am bursting now.", "bn": "আমি এখন ফেটে যাচ্ছি" },
+      { "en": "She burst balloon.", "bn": "সে বেলুন ফাটিয়েছিল" },
+      { "en": "We burst out.", "bn": "আমরা হঠাৎ বেরিয়ে এলাম" },
+      { "en": "They have burst it.", "bn": "তারা এটি ফাটিয়েছে" },
+      { "en": "I burst bubble.", "bn": "আমি বুদবুদ ফাটিয়েছি" },
+      { "en": "He is bursting now.", "bn": "সে এখন ফেটে যাচ্ছে" },
+      { "en": "She bursts out laughing.", "bn": "সে হেসে ফেটে পড়ে" },
+      { "en": "They burst door.", "bn": "তারা দরজা ভেঙে ঢুকেছিল" }
+    ],
+    "synonyms": ["explode", "break open", "rupture"]
+  },
+  {
+    "base": "bury",
+    "phonetic": "ˈberi",
+    "v2": "buried",
+    "v3": "buried",
+    "meaning": "কবর দেওয়া / পুঁতে রাখা",
+    "examples": [
+      { "en": "I bury treasure.", "bn": "আমি ধন পুঁতে রাখি" },
+      { "en": "They bury body.", "bn": "তারা দেহ কবর দেয়" }
+    ],
+    "moreexample": [
+      { "en": "He buried money.", "bn": "সে টাকা পুঁতে রেখেছিল" },
+      { "en": "She buries secret.", "bn": "সে গোপন কথা লুকিয়ে রাখে" },
+      { "en": "I am burying now.", "bn": "আমি এখন পুঁতে রাখছি" },
+      { "en": "They buried treasure.", "bn": "তারা ধন পুঁতে রেখেছিল" },
+      { "en": "We bury memories.", "bn": "আমরা স্মৃতি লুকাই" },
+      { "en": "They have buried it.", "bn": "তারা এটি পুঁতে রেখেছে" },
+      { "en": "I buried box.", "bn": "আমি বাক্স পুঁতে রেখেছি" },
+      { "en": "He is burying now.", "bn": "সে এখন পুঁতে রাখছে" },
+      { "en": "She buried truth.", "bn": "সে সত্য লুকিয়েছিল" },
+      { "en": "They buried object.", "bn": "তারা বস্তু পুঁতে রেখেছিল" }
+    ],
+    "synonyms": ["hide", "cover", "inter"]
+  },
+
+  {
+    "base": "behave",
+    "phonetic": "bɪˈheɪv",
+    "v2": "behaved",
+    "v3": "behaved",
+    "meaning": "আচরণ করা",
+    "examples": [
+      { "en": "I behave well.", "bn": "আমি ভালো আচরণ করি" },
+      { "en": "She behaves politely.", "bn": "সে ভদ্রভাবে আচরণ করে" }
+    ],
+    "moreexample": [
+      { "en": "He behaved badly.", "bn": "সে খারাপ আচরণ করেছিল" },
+      { "en": "They behave properly.", "bn": "তারা ঠিকভাবে আচরণ করে" },
+      { "en": "I am behaving now.", "bn": "আমি এখন আচরণ করছি" },
+      { "en": "She behaved calmly.", "bn": "সে শান্তভাবে আচরণ করেছিল" },
+      { "en": "We behave responsibly.", "bn": "আমরা দায়িত্বশীলভাবে আচরণ করি" },
+      { "en": "They have behaved well.", "bn": "তারা ভালো আচরণ করেছে" },
+      { "en": "I behaved yesterday.", "bn": "আমি গতকাল আচরণ করেছি" },
+      { "en": "He is behaving now.", "bn": "সে এখন আচরণ করছে" },
+      { "en": "She behaves kindly.", "bn": "সে সদয়ভাবে আচরণ করে" },
+      { "en": "They behaved politely.", "bn": "তারা ভদ্রভাবে আচরণ করেছিল" }
+    ],
+    "synonyms": ["act", "conduct", "respond"]
+  },
+  {
+    "base": "believe",
+    "phonetic": "bɪˈliːv",
+    "v2": "believed",
+    "v3": "believed",
+    "meaning": "বিশ্বাস করা",
+    "examples": [
+      { "en": "I believe you.", "bn": "আমি তোমাকে বিশ্বাস করি" },
+      { "en": "She believes truth.", "bn": "সে সত্য বিশ্বাস করে" }
+    ],
+    "moreexample": [
+      { "en": "He believed story.", "bn": "সে গল্প বিশ্বাস করেছিল" },
+      { "en": "They believe God.", "bn": "তারা ঈশ্বরে বিশ্বাস করে" },
+      { "en": "I am believing now.", "bn": "আমি এখন বিশ্বাস করছি" },
+      { "en": "She believed me.", "bn": "সে আমাকে বিশ্বাস করেছিল" },
+      { "en": "We believe system.", "bn": "আমরা সিস্টেমে বিশ্বাস করি" },
+      { "en": "They have believed it.", "bn": "তারা এটি বিশ্বাস করেছে" },
+      { "en": "I believed him.", "bn": "আমি তাকে বিশ্বাস করেছি" },
+      { "en": "He is believing now.", "bn": "সে এখন বিশ্বাস করছে" },
+      { "en": "She believes idea.", "bn": "সে ধারণা বিশ্বাস করে" },
+      { "en": "They believed news.", "bn": "তারা খবর বিশ্বাস করেছিল" }
+    ],
+    "synonyms": ["trust", "accept", "assume true"]
+  },
+  {
+    "base": "belong",
+    "phonetic": "bɪˈlɒŋ",
+    "v2": "belonged",
+    "v3": "belonged",
+    "meaning": "অন্তর্ভুক্ত হওয়া / কারো হওয়া",
+    "examples": [
+      { "en": "This book belongs to me.", "bn": "এই বইটি আমার" },
+      { "en": "She belongs here.", "bn": "সে এখানে অন্তর্ভুক্ত" }
+    ],
+    "moreexample": [
+      { "en": "It belonged to him.", "bn": "এটি তার ছিল" },
+      { "en": "They belong together.", "bn": "তারা একসাথে অন্তর্ভুক্ত" },
+      { "en": "I am belonging here.", "bn": "আমি এখানে অন্তর্ভুক্ত" },
+      { "en": "She belonged there.", "bn": "সে সেখানে ছিল" },
+      { "en": "We belong to team.", "bn": "আমরা দলের অংশ" },
+      { "en": "They have belonged here.", "bn": "তারা এখানে ছিল" },
+      { "en": "I belonged to group.", "bn": "আমি দলের অংশ ছিলাম" },
+      { "en": "He is belonging now.", "bn": "সে এখন অন্তর্ভুক্ত" },
+      { "en": "She belongs family.", "bn": "সে পরিবারের অংশ" },
+      { "en": "They belonged school.", "bn": "তারা স্কুলের অংশ ছিল" }
+    ],
+    "synonyms": ["fit in", "be part of", "relate"]
+  },
+  {
+    "base": "bend",
+    "phonetic": "bend",
+    "v2": "bent",
+    "v3": "bent",
+    "meaning": "বাঁকানো",
+    "examples": [
+      { "en": "I bend wire.", "bn": "আমি তার বাঁকাই" },
+      { "en": "He bends rod.", "bn": "সে রড বাঁকায়" }
+    ],
+    "moreexample": [
+      { "en": "She bent stick.", "bn": "সে লাঠি বাঁকিয়েছিল" },
+      { "en": "They bend metal.", "bn": "তারা ধাতু বাঁকায়" },
+      { "en": "I am bending now.", "bn": "আমি এখন বাঁকাচ্ছি" },
+      { "en": "He bent pipe.", "bn": "সে পাইপ বাঁকিয়েছিল" },
+      { "en": "We bend rules.", "bn": "আমরা নিয়ম বাঁকাই" },
+      { "en": "They have bent it.", "bn": "তারা এটি বাঁকিয়েছে" },
+      { "en": "I bent paper.", "bn": "আমি কাগজ বাঁকিয়েছি" },
+      { "en": "She is bending now.", "bn": "সে এখন বাঁকাচ্ছে" },
+      { "en": "He bends iron.", "bn": "সে লোহা বাঁকায়" },
+      { "en": "They bent rod.", "bn": "তারা রড বাঁকিয়েছিল" }
+    ],
+    "synonyms": ["curve", "flex", "twist"]
+  },
+  {
+    "base": "benefit",
+    "phonetic": "ˈbenɪfɪt",
+    "v2": "benefited",
+    "v3": "benefited",
+    "meaning": "উপকার পাওয়া",
+    "examples": [
+      { "en": "I benefit from study.", "bn": "আমি পড়াশোনা থেকে উপকার পাই" },
+      { "en": "She benefits health.", "bn": "সে স্বাস্থ্যে উপকার পায়" }
+    ],
+    "moreexample": [
+      { "en": "He benefited greatly.", "bn": "সে অনেক উপকার পেয়েছিল" },
+      { "en": "They benefit system.", "bn": "তারা সিস্টেম থেকে উপকার পায়" },
+      { "en": "I am benefiting now.", "bn": "আমি এখন উপকার পাচ্ছি" },
+      { "en": "She benefited work.", "bn": "সে কাজ থেকে উপকার পেয়েছিল" },
+      { "en": "We benefit society.", "bn": "আমরা সমাজের উপকার করি" },
+      { "en": "They have benefited.", "bn": "তারা উপকার পেয়েছে" },
+      { "en": "I benefited him.", "bn": "আমি তাকে উপকার দিয়েছি" },
+      { "en": "He is benefiting now.", "bn": "সে এখন উপকার পাচ্ছে" },
+      { "en": "She benefits daily.", "bn": "সে প্রতিদিন উপকার পায়" },
+      {
+        "en": "They benefited project.",
+        "bn": "তারা প্রকল্প থেকে উপকার পেয়েছিল"
+      }
+    ],
+    "synonyms": ["gain", "profit", "help"]
+  },
+
+  {
+    "base": "blame",
+    "phonetic": "bleɪm",
+    "v2": "blamed",
+    "v3": "blamed",
+    "meaning": "দোষ দেওয়া",
+    "examples": [
+      { "en": "I blame him.", "bn": "আমি তাকে দোষ দিই" },
+      { "en": "She blames me.", "bn": "সে আমাকে দোষ দেয়" }
+    ],
+    "moreexample": [
+      { "en": "He blamed system.", "bn": "সে সিস্টেমকে দোষ দিয়েছিল" },
+      { "en": "They blame luck.", "bn": "তারা ভাগ্যকে দোষ দেয়" },
+      { "en": "I am blaming now.", "bn": "আমি এখন দোষ দিচ্ছি" },
+      { "en": "She blamed situation.", "bn": "সে পরিস্থিতিকে দোষ দিয়েছিল" },
+      { "en": "We blame others.", "bn": "আমরা অন্যদের দোষ দিই" },
+      { "en": "They have blamed it.", "bn": "তারা এটি দোষ দিয়েছে" },
+      { "en": "I blamed friend.", "bn": "আমি বন্ধুকে দোষ দিয়েছি" },
+      { "en": "He is blaming now.", "bn": "সে এখন দোষ দিচ্ছে" },
+      { "en": "She blames weather.", "bn": "সে আবহাওয়াকে দোষ দেয়" },
+      {
+        "en": "They blamed system failure.",
+        "bn": "তারা সিস্টেম ব্যর্থতাকে দোষ দিয়েছিল"
+      }
+    ],
+    "synonyms": ["accuse", "fault", "criticize"]
+  },
+  {
+    "base": "block",
+    "phonetic": "blɒk",
+    "v2": "blocked",
+    "v3": "blocked",
+    "meaning": "বাধা দেওয়া",
+    "examples": [
+      { "en": "I block road.", "bn": "আমি রাস্তা বন্ধ করি" },
+      { "en": "She blocks him.", "bn": "সে তাকে ব্লক করে" }
+    ],
+    "moreexample": [
+      { "en": "He blocked door.", "bn": "সে দরজা ব্লক করেছিল" },
+      { "en": "They block access.", "bn": "তারা প্রবেশ বন্ধ করে" },
+      { "en": "I am blocking now.", "bn": "আমি এখন ব্লক করছি" },
+      { "en": "She blocked user.", "bn": "সে ব্যবহারকারী ব্লক করেছিল" },
+      { "en": "We block traffic.", "bn": "আমরা যানজট বন্ধ করি" },
+      { "en": "They have blocked it.", "bn": "তারা এটি ব্লক করেছে" },
+      { "en": "I blocked site.", "bn": "আমি সাইট ব্লক করেছি" },
+      { "en": "He is blocking now.", "bn": "সে এখন ব্লক করছে" },
+      { "en": "She blocks spam.", "bn": "সে স্প্যাম ব্লক করে" },
+      { "en": "They blocked signal.", "bn": "তারা সিগন্যাল বন্ধ করেছিল" }
+    ],
+    "synonyms": ["stop", "obstruct", "bar"]
+  },
+  {
+    "base": "boil",
+    "phonetic": "bɔɪl",
+    "v2": "boiled",
+    "v3": "boiled",
+    "meaning": "সিদ্ধ করা",
+    "examples": [
+      { "en": "I boil water.", "bn": "আমি পানি সিদ্ধ করি" },
+      { "en": "She boils rice.", "bn": "সে ভাত সিদ্ধ করে" }
+    ],
+    "moreexample": [
+      { "en": "He boiled eggs.", "bn": "সে ডিম সিদ্ধ করেছিল" },
+      { "en": "They boil milk.", "bn": "তারা দুধ সিদ্ধ করে" },
+      { "en": "I am boiling now.", "bn": "আমি এখন সিদ্ধ করছি" },
+      { "en": "She boiled food.", "bn": "সে খাবার সিদ্ধ করেছিল" },
+      { "en": "We boil vegetables.", "bn": "আমরা সবজি সিদ্ধ করি" },
+      { "en": "They have boiled it.", "bn": "তারা এটি সিদ্ধ করেছে" },
+      { "en": "I boiled tea.", "bn": "আমি চা সিদ্ধ করেছি" },
+      { "en": "He is boiling now.", "bn": "সে এখন সিদ্ধ করছে" },
+      { "en": "She boils soup.", "bn": "সে স্যুপ সিদ্ধ করে" },
+      { "en": "They boiled water.", "bn": "তারা পানি সিদ্ধ করেছিল" }
+    ],
+    "synonyms": ["heat", "cook", "stew"]
+  },
+  {
+    "base": "bloom",
+    "phonetic": "bluːm",
+    "v2": "bloomed",
+    "v3": "bloomed",
+    "meaning": "ফুল ফোটা",
+    "examples": [
+      { "en": "Flowers bloom.", "bn": "ফুল ফোটে" },
+      { "en": "Rose blooms.", "bn": "গোলাপ ফোটে" }
+    ],
+    "moreexample": [
+      { "en": "It bloomed early.", "bn": "এটি আগে ফুটেছিল" },
+      { "en": "They bloom in spring.", "bn": "তারা বসন্তে ফোটে" },
+      { "en": "I am blooming now.", "bn": "আমি এখন ফুটছি" },
+      { "en": "She bloomed beautifully.", "bn": "সে সুন্দরভাবে ফুটেছিল" },
+      { "en": "We bloom together.", "bn": "আমরা একসাথে ফুটি" },
+      { "en": "They have bloomed.", "bn": "তারা ফুটেছে" },
+      { "en": "I bloomed success.", "bn": "আমি সফলভাবে ফুটেছি" },
+      { "en": "He is blooming now.", "bn": "সে এখন ফুটছে" },
+      { "en": "She blooms flowers.", "bn": "সে ফুল ফোটায়" },
+      { "en": "They bloomed garden.", "bn": "তারা বাগান ফুটিয়েছিল" }
+    ],
+    "synonyms": ["flower", "flourish", "grow"]
+  },
+  {
+    "base": "boost",
+    "phonetic": "buːst",
+    "v2": "boosted",
+    "v3": "boosted",
+    "meaning": "উন্নতি করা / বাড়ানো",
+    "examples": [
+      { "en": "I boost confidence.", "bn": "আমি আত্মবিশ্বাস বাড়াই" },
+      { "en": "She boosts sales.", "bn": "সে বিক্রি বাড়ায়" }
+    ],
+    "moreexample": [
+      { "en": "He boosted energy.", "bn": "সে শক্তি বাড়িয়েছিল" },
+      { "en": "They boost economy.", "bn": "তারা অর্থনীতি বাড়ায়" },
+      { "en": "I am boosting now.", "bn": "আমি এখন বাড়াচ্ছি" },
+      { "en": "She boosted team.", "bn": "সে দলকে উন্নত করেছিল" },
+      { "en": "We boost performance.", "bn": "আমরা পারফরম্যান্স বাড়াই" },
+      { "en": "They have boosted it.", "bn": "তারা এটি বাড়িয়েছে" },
+      { "en": "I boosted speed.", "bn": "আমি গতি বাড়িয়েছি" },
+      { "en": "He is boosting now.", "bn": "সে এখন বাড়াচ্ছে" },
+      { "en": "She boosts morale.", "bn": "সে মনোবল বাড়ায়" },
+      { "en": "They boosted profit.", "bn": "তারা লাভ বাড়িয়েছিল" }
+    ],
+    "synonyms": ["increase", "improve", "enhance"]
+  },
+  {
+    "base": "bore",
+    "phonetic": "bɔːr",
+    "v2": "bored",
+    "v3": "bored",
+    "meaning": "বিরক্ত করা",
+    "examples": [
+      { "en": "This bores me.", "bn": "এটি আমাকে বিরক্ত করে" },
+      { "en": "She gets bored.", "bn": "সে বিরক্ত হয়" }
+    ],
+    "moreexample": [
+      { "en": "He bored everyone.", "bn": "সে সবাইকে বিরক্ত করেছিল" },
+      { "en": "They bore audience.", "bn": "তারা দর্শকদের বিরক্ত করেছিল" },
+      { "en": "I am boring now.", "bn": "আমি এখন বিরক্ত করছি" },
+      { "en": "She bored students.", "bn": "সে ছাত্রদের বিরক্ত করেছিল" },
+      { "en": "We bore no one.", "bn": "আমরা কাউকে বিরক্ত করি না" },
+      { "en": "They have bored it.", "bn": "তারা এটি বিরক্ত করেছে" },
+      { "en": "I bored him.", "bn": "আমি তাকে বিরক্ত করেছি" },
+      { "en": "He is boring now.", "bn": "সে এখন বিরক্ত করছে" },
+      { "en": "She bores people.", "bn": "সে মানুষকে বিরক্ত করে" },
+      { "en": "They bored crowd.", "bn": "তারা জনতাকে বিরক্ত করেছিল" }
+    ],
+    "synonyms": ["annoy", "irritate", "tiresome"]
+  },
+  {
+    "base": "bounce",
+    "phonetic": "baʊns",
+    "v2": "bounced",
+    "v3": "bounced",
+    "meaning": "লাফানো / ফিরে আসা",
+    "examples": [
+      { "en": "Ball bounces.", "bn": "বল লাফায়" },
+      { "en": "He bounces ball.", "bn": "সে বল লাফায়" }
+    ],
+    "moreexample": [
+      { "en": "It bounced back.", "bn": "এটি ফিরে লাফিয়েছিল" },
+      { "en": "They bounce ideas.", "bn": "তারা ধারণা বিনিময় করে" },
+      { "en": "I am bouncing now.", "bn": "আমি এখন লাফাচ্ছি" },
+      { "en": "She bounced it.", "bn": "সে এটি লাফিয়েছিল" },
+      { "en": "We bounce together.", "bn": "আমরা একসাথে লাফাই" },
+      { "en": "They have bounced it.", "bn": "তারা এটি লাফিয়েছে" },
+      { "en": "I bounced ball.", "bn": "আমি বল লাফিয়েছি" },
+      { "en": "He is bouncing now.", "bn": "সে এখন লাফাচ্ছে" },
+      { "en": "She bounces well.", "bn": "সে ভালোভাবে লাফায়" },
+      { "en": "They bounced idea.", "bn": "তারা ধারণা লাফিয়েছিল" }
+    ],
+    "synonyms": ["spring", "rebound", "jump"]
+  },
+  {
+    "base": "bow",
+    "phonetic": "baʊ",
+    "v2": "bowed",
+    "v3": "bowed",
+    "meaning": "নত হওয়া",
+    "examples": [
+      { "en": "I bow head.", "bn": "আমি মাথা নত করি" },
+      { "en": "She bows respectfully.", "bn": "সে শ্রদ্ধাভরে নত হয়" }
+    ],
+    "moreexample": [
+      { "en": "He bowed down.", "bn": "সে নত হয়েছিল" },
+      { "en": "They bow to king.", "bn": "তারা রাজাকে নত হয়" },
+      { "en": "I am bowing now.", "bn": "আমি এখন নত হচ্ছি" },
+      { "en": "She bowed politely.", "bn": "সে ভদ্রভাবে নত হয়েছিল" },
+      { "en": "We bow together.", "bn": "আমরা একসাথে নত হই" },
+      { "en": "They have bowed.", "bn": "তারা নত হয়েছে" },
+      { "en": "I bowed head.", "bn": "আমি মাথা নত করেছি" },
+      { "en": "He is bowing now.", "bn": "সে এখন নত হচ্ছে" },
+      { "en": "She bows daily.", "bn": "সে প্রতিদিন নত হয়" },
+      { "en": "They bowed respect.", "bn": "তারা শ্রদ্ধায় নত হয়েছিল" }
+    ],
+    "synonyms": ["bend", "incline", "nod"]
+  },
+  {
+    "base": "brace",
+    "phonetic": "breɪs",
+    "v2": "braced",
+    "v3": "braced",
+    "meaning": "প্রস্তুত হওয়া / শক্ত করা",
+    "examples": [
+      { "en": "I brace myself.", "bn": "আমি নিজেকে প্রস্তুত করি" },
+      { "en": "She braces impact.", "bn": "সে আঘাতের জন্য প্রস্তুত হয়" }
+    ],
+    "moreexample": [
+      { "en": "He braced for news.", "bn": "সে খবরের জন্য প্রস্তুত হয়েছিল" },
+      { "en": "They brace wall.", "bn": "তারা দেয়াল শক্ত করে" },
+      { "en": "I am bracing now.", "bn": "আমি এখন প্রস্তুত হচ্ছি" },
+      {
+        "en": "She braced situation.",
+        "bn": "সে পরিস্থিতির জন্য প্রস্তুত হয়েছিল"
+      },
+      { "en": "We brace together.", "bn": "আমরা একসাথে প্রস্তুত হই" },
+      { "en": "They have braced it.", "bn": "তারা এটি প্রস্তুত করেছে" },
+      { "en": "I braced fear.", "bn": "আমি ভয়ের জন্য প্রস্তুত হয়েছি" },
+      { "en": "He is bracing now.", "bn": "সে এখন প্রস্তুত হচ্ছে" },
+      { "en": "She braces system.", "bn": "সে সিস্টেম শক্ত করে" },
+      { "en": "They braced storm.", "bn": "তারা ঝড়ের জন্য প্রস্তুত হয়েছিল" }
+    ],
+    "synonyms": ["prepare", "strengthen", "ready"]
+  },
+  {
+    "base": "brag",
+    "phonetic": "bræɡ",
+    "v2": "bragged",
+    "v3": "bragged",
+    "meaning": "গর্ব করে বলা",
+    "examples": [
+      { "en": "I brag success.", "bn": "আমি সাফল্য নিয়ে গর্ব করি" },
+      { "en": "He brags money.", "bn": "সে টাকা নিয়ে গর্ব করে" }
+    ],
+    "moreexample": [
+      { "en": "She bragged loudly.", "bn": "সে জোরে গর্ব করেছিল" },
+      { "en": "They brag results.", "bn": "তারা ফলাফল নিয়ে গর্ব করে" },
+      { "en": "I am bragging now.", "bn": "আমি এখন গর্ব করছি" },
+      { "en": "He bragged skills.", "bn": "সে দক্ষতা নিয়ে গর্ব করেছিল" },
+      { "en": "We brag achievements.", "bn": "আমরা অর্জন নিয়ে গর্ব করি" },
+      { "en": "They have bragged it.", "bn": "তারা এটি নিয়ে গর্ব করেছে" },
+      { "en": "I bragged success.", "bn": "আমি সাফল্য নিয়ে গর্ব করেছি" },
+      { "en": "She is bragging now.", "bn": "সে এখন গর্ব করছে" },
+      { "en": "He brags often.", "bn": "সে প্রায়ই গর্ব করে" },
+      { "en": "They bragged victory.", "bn": "তারা জয় নিয়ে গর্ব করেছিল" }
+    ],
+    "synonyms": ["boast", "show off", "flaunt"]
+  },
+  {
+    "base": "breakdown",
+    "phonetic": "ˈbreɪkdaʊn",
+    "v2": "broke down",
+    "v3": "broken down",
+    "meaning": "ভেঙে পড়া / বিকল হওয়া",
+    "examples": [
+      { "en": "Car breaks down.", "bn": "গাড়ি বিকল হয়" },
+      { "en": "System breaks down.", "bn": "সিস্টেম ভেঙে পড়ে" }
+    ],
+    "moreexample": [
+      { "en": "It broke down suddenly.", "bn": "এটি হঠাৎ বিকল হয়েছিল" },
+      { "en": "They break down data.", "bn": "তারা ডেটা বিশ্লেষণ করে" },
+      { "en": "I am breaking down now.", "bn": "আমি এখন ভেঙে পড়ছি" },
+      { "en": "She broke down crying.", "bn": "সে কাঁদতে কাঁদতে ভেঙে পড়েছিল" },
+      { "en": "We break down system.", "bn": "আমরা সিস্টেম বিশ্লেষণ করি" },
+      { "en": "They have broken down.", "bn": "তারা ভেঙে পড়েছে" },
+      { "en": "I broke down machine.", "bn": "আমি মেশিন বিশ্লেষণ করেছি" },
+      { "en": "He is breaking down now.", "bn": "সে এখন ভেঙে পড়ছে" },
+      { "en": "She breaks down issue.", "bn": "সে সমস্যা বিশ্লেষণ করে" },
+      { "en": "They broke down system.", "bn": "তারা সিস্টেম ভেঙে ফেলেছিল" }
+    ],
+    "synonyms": ["collapse", "fail", "stop working"]
+  },
+  {
+    "base": "breathe in",
+    "phonetic": "briːð ɪn",
+    "v2": "breathed in",
+    "v3": "breathed in",
+    "meaning": "শ্বাস গ্রহণ করা",
+    "examples": [
+      { "en": "I breathe in air.", "bn": "আমি বাতাস গ্রহণ করি" },
+      { "en": "She breathes in deeply.", "bn": "সে গভীরভাবে শ্বাস নেয়" }
+    ],
+    "moreexample": [
+      { "en": "He breathed in smoke.", "bn": "সে ধোঁয়া গ্রহণ করেছিল" },
+      { "en": "They breathe in oxygen.", "bn": "তারা অক্সিজেন গ্রহণ করে" },
+      { "en": "I am breathing in now.", "bn": "আমি এখন শ্বাস নিচ্ছি" },
+      { "en": "She breathed in fresh air.", "bn": "সে তাজা বাতাস নিয়েছিল" },
+      { "en": "We breathe in nature.", "bn": "আমরা প্রকৃতি গ্রহণ করি" },
+      { "en": "They have breathed in it.", "bn": "তারা এটি গ্রহণ করেছে" },
+      { "en": "I breathed in deeply.", "bn": "আমি গভীরভাবে শ্বাস নিয়েছি" },
+      { "en": "He is breathing in now.", "bn": "সে এখন শ্বাস নিচ্ছে" },
+      { "en": "She breathes in calm air.", "bn": "সে শান্ত বাতাস গ্রহণ করে" },
+      { "en": "They breathed in dust.", "bn": "তারা ধুলো গ্রহণ করেছিল" }
+    ],
+    "synonyms": ["inhale", "draw in", "respire"]
+  },
+
+  {
+    "base": "break up",
+    "phonetic": "breɪk ʌp",
+    "v2": "broke up",
+    "v3": "broken up",
+    "meaning": "ভেঙে যাওয়া / সম্পর্ক শেষ হওয়া",
+    "examples": [
+      { "en": "They break up.", "bn": "তারা আলাদা হয়ে যায়" },
+      { "en": "She broke up with him.", "bn": "সে তার সাথে সম্পর্ক শেষ করেছে" }
+    ],
+    "moreexample": [
+      { "en": "They broke up yesterday.", "bn": "তারা গতকাল আলাদা হয়েছে" },
+      { "en": "I am breaking up now.", "bn": "আমি এখন সম্পর্ক ভাঙছি" },
+      { "en": "She broke up suddenly.", "bn": "সে হঠাৎ সম্পর্ক শেষ করেছিল" },
+      { "en": "We break up meetings.", "bn": "আমরা মিটিং শেষ করি" },
+      { "en": "They have broken up.", "bn": "তারা আলাদা হয়েছে" },
+      { "en": "I broke up conversation.", "bn": "আমি কথোপকথন শেষ করেছি" },
+      { "en": "He is breaking up now.", "bn": "সে এখন সম্পর্ক ভাঙছে" },
+      { "en": "She breaks up easily.", "bn": "সে সহজেই সম্পর্ক ভেঙে দেয়" },
+      { "en": "They broke up team.", "bn": "তারা দল ভেঙে দিয়েছিল" },
+      { "en": "We broke up project.", "bn": "আমরা প্রকল্প শেষ করেছিলাম" }
+    ],
+    "synonyms": ["separate", "end", "split"]
+  },
+  {
+    "base": "bring up",
+    "phonetic": "brɪŋ ʌp",
+    "v2": "brought up",
+    "v3": "brought up",
+    "meaning": "উঠানো / আলোচনা করা / লালন-পালন করা",
+    "examples": [
+      { "en": "I bring up topic.", "bn": "আমি বিষয়টি উত্থাপন করি" },
+      { "en": "She brings up child.", "bn": "সে শিশুকে লালন করে" }
+    ],
+    "moreexample": [
+      { "en": "He brought up issue.", "bn": "সে বিষয়টি উত্থাপন করেছিল" },
+      { "en": "They bring up ideas.", "bn": "তারা ধারণা তুলে ধরে" },
+      { "en": "I am bringing up now.", "bn": "আমি এখন তুলে ধরছি" },
+      { "en": "She brought up concern.", "bn": "সে উদ্বেগ উত্থাপন করেছিল" },
+      { "en": "We bring up children.", "bn": "আমরা শিশু লালন করি" },
+      { "en": "They have brought up it.", "bn": "তারা এটি উত্থাপন করেছে" },
+      { "en": "I brought up question.", "bn": "আমি প্রশ্ন উত্থাপন করেছি" },
+      { "en": "He is bringing up now.", "bn": "সে এখন তুলে ধরছে" },
+      { "en": "She brings up topic.", "bn": "সে বিষয় তুলে ধরে" },
+      { "en": "They brought up matter.", "bn": "তারা বিষয়টি উত্থাপন করেছিল" }
+    ],
+    "synonyms": ["raise", "mention", "nurture"]
+  },
+  {
+    "base": "brush up",
+    "phonetic": "brʌʃ ʌp",
+    "v2": "brushed up",
+    "v3": "brushed up",
+    "meaning": "দক্ষতা ঝালাই করা",
+    "examples": [
+      { "en": "I brush up English.", "bn": "আমি ইংরেজি ঝালাই করি" },
+      { "en": "She brushes up skills.", "bn": "সে দক্ষতা ঝালাই করে" }
+    ],
+    "moreexample": [
+      { "en": "He brushed up grammar.", "bn": "সে ব্যাকরণ ঝালাই করেছিল" },
+      { "en": "They brush up knowledge.", "bn": "তারা জ্ঞান ঝালাই করে" },
+      { "en": "I am brushing up now.", "bn": "আমি এখন ঝালাই করছি" },
+      { "en": "She brushed up math.", "bn": "সে গণিত ঝালাই করেছিল" },
+      { "en": "We brush up skills.", "bn": "আমরা দক্ষতা ঝালাই করি" },
+      { "en": "They have brushed up it.", "bn": "তারা এটি ঝালাই করেছে" },
+      { "en": "I brushed up coding.", "bn": "আমি কোডিং ঝালাই করেছি" },
+      { "en": "He is brushing up now.", "bn": "সে এখন ঝালাই করছে" },
+      { "en": "She brushes up language.", "bn": "সে ভাষা ঝালাই করে" },
+      { "en": "They brushed up topic.", "bn": "তারা বিষয় ঝালাই করেছিল" }
+    ],
+    "synonyms": ["revise", "refresh", "review"]
+  },
+  {
+    "base": "build up",
+    "phonetic": "bɪld ʌp",
+    "v2": "built up",
+    "v3": "built up",
+    "meaning": "ধীরে ধীরে গড়ে তোলা",
+    "examples": [
+      { "en": "I build up confidence.", "bn": "আমি আত্মবিশ্বাস গড়ে তুলি" },
+      { "en": "She builds up strength.", "bn": "সে শক্তি গড়ে তোলে" }
+    ],
+    "moreexample": [
+      { "en": "He built up business.", "bn": "সে ব্যবসা গড়ে তুলেছিল" },
+      { "en": "They build up system.", "bn": "তারা সিস্টেম গড়ে তোলে" },
+      { "en": "I am building up now.", "bn": "আমি এখন গড়ে তুলছি" },
+      { "en": "She built up team.", "bn": "সে দল গড়ে তুলেছিল" },
+      { "en": "We build up habit.", "bn": "আমরা অভ্যাস গড়ে তুলি" },
+      { "en": "They have built up it.", "bn": "তারা এটি গড়ে তুলেছে" },
+      { "en": "I built up career.", "bn": "আমি ক্যারিয়ার গড়ে তুলেছি" },
+      { "en": "He is building up now.", "bn": "সে এখন গড়ে তুলছে" },
+      { "en": "She builds up trust.", "bn": "সে বিশ্বাস গড়ে তোলে" },
+      { "en": "They built up economy.", "bn": "তারা অর্থনীতি গড়ে তুলেছিল" }
+    ],
+    "synonyms": ["develop", "increase", "strengthen"]
+  },
+  {
+    "base": "burn out",
+    "phonetic": "bɜːrn aʊt",
+    "v2": "burned out",
+    "v3": "burned out",
+    "meaning": "ক্লান্ত হয়ে পড়া",
+    "examples": [
+      { "en": "I burn out fast.", "bn": "আমি দ্রুত ক্লান্ত হয়ে যাই" },
+      { "en": "She burns out easily.", "bn": "সে সহজে ক্লান্ত হয়" }
+    ],
+    "moreexample": [
+      {
+        "en": "He burned out completely.",
+        "bn": "সে সম্পূর্ণ ক্লান্ত হয়ে পড়েছিল"
+      },
+      { "en": "They burn out quickly.", "bn": "তারা দ্রুত ক্লান্ত হয়" },
+      { "en": "I am burning out now.", "bn": "আমি এখন ক্লান্ত হচ্ছি" },
+      { "en": "She burned out job.", "bn": "সে চাকরিতে ক্লান্ত হয়েছিল" },
+      { "en": "We burn out sometimes.", "bn": "আমরা মাঝে মাঝে ক্লান্ত হই" },
+      { "en": "They have burned out.", "bn": "তারা ক্লান্ত হয়ে গেছে" },
+      { "en": "I burned out study.", "bn": "আমি পড়াশোনায় ক্লান্ত হয়েছি" },
+      { "en": "He is burning out now.", "bn": "সে এখন ক্লান্ত হচ্ছে" },
+      { "en": "She burns out work.", "bn": "সে কাজে ক্লান্ত হয়" },
+      {
+        "en": "They burned out system.",
+        "bn": "তারা সিস্টেমে ক্লান্ত হয়ে পড়েছিল"
+      }
+    ],
+    "synonyms": ["exhaust", "drain", "weaken"]
+  },
+  {
+    "base": "bust",
+    "phonetic": "bʌst",
+    "v2": "busted",
+    "v3": "busted",
+    "meaning": "ভেঙে ফেলা / ধরা",
+    "examples": [
+      { "en": "Police bust gang.", "bn": "পুলিশ গ্যাং ধরেছে" },
+      { "en": "I bust glass.", "bn": "আমি গ্লাস ভাঙি" }
+    ],
+    "moreexample": [
+      { "en": "He busted door.", "bn": "সে দরজা ভেঙেছিল" },
+      { "en": "They bust crime.", "bn": "তারা অপরাধ ধরেছে" },
+      { "en": "I am busting now.", "bn": "আমি এখন ভাঙছি" },
+      { "en": "She busted plan.", "bn": "সে পরিকল্পনা ভেঙেছিল" },
+      { "en": "We bust fraud.", "bn": "আমরা জালিয়াতি ধরি" },
+      { "en": "They have busted it.", "bn": "তারা এটি ধরেছে" },
+      { "en": "I busted system.", "bn": "আমি সিস্টেম ভেঙেছি" },
+      { "en": "He is busting now.", "bn": "সে এখন ভাঙছে" },
+      { "en": "She busts crime.", "bn": "সে অপরাধ ধরায়" },
+      { "en": "They busted network.", "bn": "তারা নেটওয়ার্ক ধরেছিল" }
+    ],
+    "synonyms": ["break", "catch", "raid"]
+  },
+  {
+    "base": "button",
+    "phonetic": "ˈbʌtn",
+    "v2": "buttoned",
+    "v3": "buttoned",
+    "meaning": "বোতাম লাগানো",
+    "examples": [
+      { "en": "I button shirt.", "bn": "আমি শার্টের বোতাম লাগাই" },
+      { "en": "She buttons coat.", "bn": "সে কোটের বোতাম লাগায়" }
+    ],
+    "moreexample": [
+      { "en": "He buttoned jacket.", "bn": "সে জ্যাকেটের বোতাম লাগিয়েছিল" },
+      { "en": "They button clothes.", "bn": "তারা কাপড়ের বোতাম লাগায়" },
+      { "en": "I am buttoning now.", "bn": "আমি এখন বোতাম লাগাচ্ছি" },
+      { "en": "She buttoned dress.", "bn": "সে ড্রেসের বোতাম লাগিয়েছিল" },
+      { "en": "We button uniforms.", "bn": "আমরা ইউনিফর্মের বোতাম লাগাই" },
+      { "en": "They have buttoned it.", "bn": "তারা এটি বোতাম লাগিয়েছে" },
+      { "en": "I buttoned shirt.", "bn": "আমি শার্টের বোতাম লাগিয়েছি" },
+      { "en": "He is buttoning now.", "bn": "সে এখন বোতাম লাগাচ্ছে" },
+      { "en": "She buttons fast.", "bn": "সে দ্রুত বোতাম লাগায়" },
+      { "en": "They buttoned coat.", "bn": "তারা কোটের বোতাম লাগিয়েছিল" }
+    ],
+    "synonyms": ["fasten", "close", "secure"]
+  },
+  {
+    "base": "buzz",
+    "phonetic": "bʌz",
+    "v2": "buzzed",
+    "v3": "buzzed",
+    "meaning": "গুঞ্জন করা / ভাইব করা",
+    "examples": [
+      { "en": "Phone buzzes.", "bn": "ফোন ভাইব করে" },
+      { "en": "Bees buzz.", "bn": "মৌমাছি গুঞ্জন করে" }
+    ],
+    "moreexample": [
+      { "en": "It buzzed loudly.", "bn": "এটি জোরে গুঞ্জন করেছিল" },
+      { "en": "They buzz around.", "bn": "তারা চারপাশে গুঞ্জন করে" },
+      { "en": "I am buzzing now.", "bn": "আমি এখন ভাইব করছি" },
+      { "en": "She buzzed phone.", "bn": "সে ফোন ভাইব করেছিল" },
+      { "en": "We buzz ideas.", "bn": "আমরা ধারণা ছড়াই" },
+      { "en": "They have buzzed it.", "bn": "তারা এটি ভাইব করেছে" },
+      { "en": "I buzzed alarm.", "bn": "আমি অ্যালার্ম বাজিয়েছি" },
+      { "en": "He is buzzing now.", "bn": "সে এখন ভাইব করছে" },
+      { "en": "She buzzes often.", "bn": "সে প্রায়ই ভাইব করে" },
+      { "en": "They buzzed message.", "bn": "তারা বার্তা ছড়িয়েছিল" }
+    ],
+    "synonyms": ["hum", "vibrate", "rumble"]
+  },
+  {
+    "base": "bury up",
+    "phonetic": "ˈberi ʌp",
+    "v2": "buried up",
+    "v3": "buried up",
+    "meaning": "ঢেকে ফেলা / লুকানো",
+    "examples": [
+      { "en": "Snow buries up car.", "bn": "তুষার গাড়ি ঢেকে দেয়" },
+      { "en": "He buries up secret.", "bn": "সে গোপন বিষয় লুকায়" }
+    ],
+    "moreexample": [
+      { "en": "They buried up evidence.", "bn": "তারা প্রমাণ লুকিয়েছিল" },
+      { "en": "I am burying up truth.", "bn": "আমি সত্য লুকাচ্ছি" },
+      { "en": "She buried up memory.", "bn": "সে স্মৃতি লুকিয়েছিল" },
+      { "en": "We bury up files.", "bn": "আমরা ফাইল লুকাই" },
+      { "en": "They have buried up it.", "bn": "তারা এটি লুকিয়েছে" },
+      { "en": "I buried up box.", "bn": "আমি বাক্স লুকিয়েছি" },
+      { "en": "He is burying up now.", "bn": "সে এখন লুকাচ্ছে" },
+      { "en": "She buries up issue.", "bn": "সে বিষয় লুকায়" },
+      { "en": "They buried up system.", "bn": "তারা সিস্টেম লুকিয়েছিল" },
+      { "en": "We buried up data.", "bn": "আমরা ডেটা লুকিয়েছিলাম" }
+    ],
+    "synonyms": ["hide", "cover", "conceal"]
   }
 ]
